@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 19,
+    "surah": 2,
+    "words": 19,
+    "numberInQuran": 26,
+    "juz": 1,
+    "manzil": 1,
+    "page": 4,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 216,
+      "word_number_in_surah": 187,
+      "word_surah": 2,
+      "word_translation": "Or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "كَصَيِّبٖ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 217,
+      "word_number_in_surah": 188,
+      "word_surah": 2,
+      "word_translation": "like a rainstorm",
+      "word_transliteration": "kasayyibin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 218,
+      "word_number_in_surah": 189,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 219,
+      "word_number_in_surah": 190,
+      "word_surah": 2,
+      "word_translation": "the sky",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 220,
+      "word_number_in_surah": 191,
+      "word_surah": 2,
+      "word_translation": "in it (are)",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "ظُلُمَٰتٞ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 221,
+      "word_number_in_surah": 192,
+      "word_surah": 2,
+      "word_translation": "darkness[es]",
+      "word_transliteration": "zulumatun"
+    },
+    {
+      "word_arabic": "وَرَعۡدٞ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 222,
+      "word_number_in_surah": 193,
+      "word_surah": 2,
+      "word_translation": "and thunder",
+      "word_transliteration": "wara'dun"
+    },
+    {
+      "word_arabic": "وَبَرۡقٞ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 223,
+      "word_number_in_surah": 194,
+      "word_surah": 2,
+      "word_translation": "and lightning",
+      "word_transliteration": "wabarqun"
+    },
+    {
+      "word_arabic": "يَجۡعَلُونَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 224,
+      "word_number_in_surah": 195,
+      "word_surah": 2,
+      "word_translation": "They put",
+      "word_transliteration": "yaj'aluna"
+    },
+    {
+      "word_arabic": "أَصَٰبِعَهُمۡ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 225,
+      "word_number_in_surah": 196,
+      "word_surah": 2,
+      "word_translation": "their fingers",
+      "word_transliteration": "asabi'ahum"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 226,
+      "word_number_in_surah": 197,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ءَاذَانِهِم",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 227,
+      "word_number_in_surah": 198,
+      "word_surah": 2,
+      "word_translation": "their ears",
+      "word_transliteration": "adhanihim"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 228,
+      "word_number_in_surah": 199,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلصَّوَٰعِقِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 229,
+      "word_number_in_surah": 200,
+      "word_surah": 2,
+      "word_translation": "the thunderclaps",
+      "word_transliteration": "al-sawa'iqi"
+    },
+    {
+      "word_arabic": "حَذَرَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 230,
+      "word_number_in_surah": 201,
+      "word_surah": 2,
+      "word_translation": "(in) fear (of)",
+      "word_transliteration": "hadhara"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتِۚ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 231,
+      "word_number_in_surah": 202,
+      "word_surah": 2,
+      "word_translation": "[the] death",
+      "word_transliteration": "al-mawti"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 232,
+      "word_number_in_surah": 203,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "مُحِيطُۢ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 233,
+      "word_number_in_surah": 204,
+      "word_surah": 2,
+      "word_translation": "(is) [the One Who] encompasses",
+      "word_transliteration": "muhitun"
+    },
+    {
+      "word_arabic": "بِٱلۡكَٰفِرِينَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 234,
+      "word_number_in_surah": 205,
+      "word_surah": 2,
+      "word_translation": "the disbelievers",
+      "word_transliteration": "bil-kafirina"
+    }
+  ],
+  "fullArabic": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ",
+  "fullTranslation": "Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allah is encompassing of the disbelievers.",
+  "fullTransliteration": "aw kasayyibin mina al-samai fihi zulumatun wara'dun wabarqun yaj'aluna asabi'ahum fi adhanihim mina al-sawa'iqi hadhara al-mawti wal-lahu muhitun bil-kafirina"
+}

@@ -1,0 +1,802 @@
+{
+  "surahs": [
+    {
+      "id": 1,
+      "ayahCount": 7,
+      "anglicised": "Al-Fatiha",
+      "arabic": "الفاتحة",
+      "english": "The Opening"
+    },
+    {
+      "id": 2,
+      "ayahCount": 286,
+      "anglicised": "Al-Baqara ",
+      "arabic": "البَقَرَة",
+      "english": "The Cow"
+    },
+    {
+      "id": 3,
+      "ayahCount": 200,
+      "anglicised": "Aal-e-Imran ",
+      "arabic": "آل عمران",
+      "english": "Family of Imran"
+    },
+    {
+      "id": 4,
+      "ayahCount": 176,
+      "anglicised": "An-Nisa ",
+      "arabic": "النساء",
+      "english": "The Women"
+    },
+    {
+      "id": 5,
+      "ayahCount": 120,
+      "anglicised": "Al-Ma'idah ",
+      "arabic": "المائدة",
+      "english": "The Table Spread"
+    },
+    {
+      "id": 6,
+      "ayahCount": 165,
+      "anglicised": "Al-An'aam ",
+      "arabic": "الأنعام",
+      "english": "The Cattle"
+    },
+    {
+      "id": 7,
+      "ayahCount": 206,
+      "anglicised": "Al-A'raf ",
+      "arabic": "الأعراف",
+      "english": "The Heights"
+    },
+    {
+      "id": 8,
+      "ayahCount": 75,
+      "anglicised": "Al-Anfal ",
+      "arabic": "الأنفال",
+      "english": "The Spoils of War"
+    },
+    {
+      "id": 9,
+      "ayahCount": 129,
+      "anglicised": "At-Tawbah ",
+      "arabic": "التوبة",
+      "english": "The Repentance"
+    },
+    {
+      "id": 10,
+      "ayahCount": 109,
+      "anglicised": "Yunus ",
+      "arabic": "يونس",
+      "english": "Jonah"
+    },
+    {
+      "id": 11,
+      "ayahCount": 123,
+      "anglicised": "Hud ",
+      "arabic": "هود",
+      "english": "Hud"
+    },
+    {
+      "id": 12,
+      "ayahCount": 111,
+      "anglicised": "Yusuf ",
+      "arabic": "يوسف",
+      "english": "Joseph"
+    },
+    {
+      "id": 13,
+      "ayahCount": 43,
+      "anglicised": "Ar-Ra'd ",
+      "arabic": "الرعد",
+      "english": "The Thunder"
+    },
+    {
+      "id": 14,
+      "ayahCount": 52,
+      "anglicised": "Ibrahim ",
+      "arabic": "إبراهيم",
+      "english": "Abraham"
+    },
+    {
+      "id": 15,
+      "ayahCount": 99,
+      "anglicised": "Al-Hijr ",
+      "arabic": "الحجر",
+      "english": "The Rocky Tract"
+    },
+    {
+      "id": 16,
+      "ayahCount": 128,
+      "anglicised": "An-Nahl ",
+      "arabic": "النحل",
+      "english": "The Bee"
+    },
+    {
+      "id": 17,
+      "ayahCount": 111,
+      "anglicised": "Al-Isra ",
+      "arabic": "الإسراء",
+      "english": "The Night Journey"
+    },
+    {
+      "id": 18,
+      "ayahCount": 110,
+      "anglicised": "Al-Kahf ",
+      "arabic": "الكهف",
+      "english": "The Cave"
+    },
+    {
+      "id": 19,
+      "ayahCount": 98,
+      "anglicised": "Maryam ",
+      "arabic": "مريم",
+      "english": "Mary"
+    },
+    {
+      "id": 20,
+      "ayahCount": 135,
+      "anglicised": "Taha ",
+      "arabic": "طه",
+      "english": "Ta-Ha"
+    },
+    {
+      "id": 21,
+      "ayahCount": 112,
+      "anglicised": "Al-Anbiya ",
+      "arabic": "الأنبياء",
+      "english": "The Prophets"
+    },
+    {
+      "id": 22,
+      "ayahCount": 78,
+      "anglicised": "Al-Haj ",
+      "arabic": "الحج",
+      "english": "The Pilgrimage"
+    },
+    {
+      "id": 23,
+      "ayahCount": 118,
+      "anglicised": "Al-Mu'minun ",
+      "arabic": "المؤمنون",
+      "english": "The Believers"
+    },
+    {
+      "id": 24,
+      "ayahCount": 64,
+      "anglicised": "Al-Nur ",
+      "arabic": "النور",
+      "english": "The Light"
+    },
+    {
+      "id": 25,
+      "ayahCount": 77,
+      "anglicised": "Al-Furqan ",
+      "arabic": "الفرقان",
+      "english": "The Criterion"
+    },
+    {
+      "id": 26,
+      "ayahCount": 227,
+      "anglicised": "Ash-Shu'ara ",
+      "arabic": "الشعراء",
+      "english": "The Poets"
+    },
+    {
+      "id": 27,
+      "ayahCount": 93,
+      "anglicised": "An-Naml ",
+      "arabic": "النمل",
+      "english": "The Ant"
+    },
+    {
+      "id": 28,
+      "ayahCount": 88,
+      "anglicised": "Al-Qasas ",
+      "arabic": "القصص",
+      "english": "The Stories"
+    },
+    {
+      "id": 29,
+      "ayahCount": 69,
+      "anglicised": "Al-'Ankabut ",
+      "arabic": "العنكبوت",
+      "english": "The Spider"
+    },
+    {
+      "id": 30,
+      "ayahCount": 60,
+      "anglicised": "Ar-Rum ",
+      "arabic": "الروم",
+      "english": "The Romans"
+    },
+    {
+      "id": 31,
+      "ayahCount": 34,
+      "anglicised": "Luqman ",
+      "arabic": "لقمان",
+      "english": "Luqman"
+    },
+    {
+      "id": 32,
+      "ayahCount": 30,
+      "anglicised": "As-Sajdah ",
+      "arabic": "السجدة",
+      "english": "The Prostration"
+    },
+    {
+      "id": 33,
+      "ayahCount": 73,
+      "anglicised": "Al-Ahzab ",
+      "arabic": "الأحزاب",
+      "english": "The Combined Forces"
+    },
+    {
+      "id": 34,
+      "ayahCount": 54,
+      "anglicised": "As-Saba ",
+      "arabic": "سبأ",
+      "english": "Sheba"
+    },
+    {
+      "id": 35,
+      "ayahCount": 45,
+      "anglicised": "Fatir ",
+      "arabic": "فاطر",
+      "english": "Originator"
+    },
+    {
+      "id": 36,
+      "ayahCount": 83,
+      "anglicised": "Ya-Sin ",
+      "arabic": "يس",
+      "english": "Ya Sin"
+    },
+    {
+      "id": 37,
+      "ayahCount": 182,
+      "anglicised": "As-Saffat ",
+      "arabic": "الصافات",
+      "english": "Those Who Set The Ranks"
+    },
+    {
+      "id": 38,
+      "ayahCount": 88,
+      "anglicised": "Saad ",
+      "arabic": "ص",
+      "english": "The Letter Saad"
+    },
+    {
+      "id": 39,
+      "ayahCount": 75,
+      "anglicised": "Az-Zumar ",
+      "arabic": "الزمر",
+      "english": "The Troops"
+    },
+    {
+      "id": 40,
+      "ayahCount": 85,
+      "anglicised": "Ghafir ",
+      "arabic": "غافر",
+      "english": "The Forgiver"
+    },
+    {
+      "id": 41,
+      "ayahCount": 54,
+      "anglicised": "Fussilat ",
+      "arabic": "فصلت",
+      "english": "Explained In Detail"
+    },
+    {
+      "id": 42,
+      "ayahCount": 53,
+      "anglicised": "Ash-Shuraa ",
+      "arabic": "الشورى",
+      "english": "The Consultation"
+    },
+    {
+      "id": 43,
+      "ayahCount": 89,
+      "anglicised": "Az-Zukhruf ",
+      "arabic": "الزخرف",
+      "english": "The Ornaments Of Gold"
+    },
+    {
+      "id": 44,
+      "ayahCount": 59,
+      "anglicised": "Ad-Dukhan ",
+      "arabic": "الدخان",
+      "english": "The Smoke"
+    },
+    {
+      "id": 45,
+      "ayahCount": 37,
+      "anglicised": "Al-Jathiya ",
+      "arabic": "الجاثية",
+      "english": "The Crouching"
+    },
+    {
+      "id": 46,
+      "ayahCount": 35,
+      "anglicised": "Al-Ahqaf ",
+      "arabic": "الأحقاف",
+      "english": "The Wind-curved Sandhills"
+    },
+    {
+      "id": 47,
+      "ayahCount": 38,
+      "anglicised": "Muhammad ",
+      "arabic": "محمد",
+      "english": "Muhammad"
+    },
+    {
+      "id": 48,
+      "ayahCount": 29,
+      "anglicised": "Al-Fath ",
+      "arabic": "الفتح",
+      "english": "The Victory"
+    },
+    {
+      "id": 49,
+      "ayahCount": 18,
+      "anglicised": "Al-Hujurat ",
+      "arabic": "الحجرات",
+      "english": "The Rooms"
+    },
+    {
+      "id": 50,
+      "ayahCount": 45,
+      "anglicised": "Qaf ",
+      "arabic": "ق",
+      "english": "The Letter Qaf"
+    },
+    {
+      "id": 51,
+      "ayahCount": 60,
+      "anglicised": "Adh-Dhariyat ",
+      "arabic": "الذاريات",
+      "english": "The Winnowing Winds"
+    },
+    {
+      "id": 52,
+      "ayahCount": 49,
+      "anglicised": "At-Tur ",
+      "arabic": "الطور",
+      "english": "The Mount"
+    },
+    {
+      "id": 53,
+      "ayahCount": 62,
+      "anglicised": "An-Najm ",
+      "arabic": "النجم",
+      "english": "The Star"
+    },
+    {
+      "id": 54,
+      "ayahCount": 55,
+      "anglicised": "Al-Qamar ",
+      "arabic": "القمر",
+      "english": "The Moon"
+    },
+    {
+      "id": 55,
+      "ayahCount": 78,
+      "anglicised": "Ar-Rahman ",
+      "arabic": "الرحمن",
+      "english": "The Beneficent"
+    },
+    {
+      "id": 56,
+      "ayahCount": 96,
+      "anglicised": "Al-Waqi'ah ",
+      "arabic": "الواقعة",
+      "english": "The Inevitable"
+    },
+    {
+      "id": 57,
+      "ayahCount": 29,
+      "anglicised": "Al-Hadid ",
+      "arabic": "الحديد",
+      "english": "The Iron"
+    },
+    {
+      "id": 58,
+      "ayahCount": 22,
+      "anglicised": "Al-Mujadila ",
+      "arabic": "المجادلة",
+      "english": "The Pleading Woman"
+    },
+    {
+      "id": 59,
+      "ayahCount": 24,
+      "anglicised": "Al-Hashr ",
+      "arabic": "الحشر",
+      "english": "The Exile"
+    },
+    {
+      "id": 60,
+      "ayahCount": 13,
+      "anglicised": "Al-Mumtahanah ",
+      "arabic": "الممتحنة",
+      "english": "She That Is To Be Examined"
+    },
+    {
+      "id": 61,
+      "ayahCount": 14,
+      "anglicised": "As-Saf ",
+      "arabic": "الصف",
+      "english": "The Ranks"
+    },
+    {
+      "id": 62,
+      "ayahCount": 11,
+      "anglicised": "Al-Jumu'ah ",
+      "arabic": "الجمعة",
+      "english": "The Congregation, Friday"
+    },
+    {
+      "id": 63,
+      "ayahCount": 11,
+      "anglicised": "Al-Munafiqun ",
+      "arabic": "المنافقون",
+      "english": "The Hypocrites"
+    },
+    {
+      "id": 64,
+      "ayahCount": 18,
+      "anglicised": "At-Taghabun ",
+      "arabic": "التغابن",
+      "english": "The Mutual Disillusion"
+    },
+    {
+      "id": 65,
+      "ayahCount": 12,
+      "anglicised": "At-Talaq ",
+      "arabic": "الطلاق",
+      "english": "Divorce"
+    },
+    {
+      "id": 66,
+      "ayahCount": 12,
+      "anglicised": "At-Tahrim ",
+      "arabic": "التحريم",
+      "english": "The Prohibition"
+    },
+    {
+      "id": 67,
+      "ayahCount": 30,
+      "anglicised": "Al-Mulk ",
+      "arabic": "الملك",
+      "english": "The Sovereignty"
+    },
+    {
+      "id": 68,
+      "ayahCount": 52,
+      "anglicised": "Al-Qalam ",
+      "arabic": "القلم",
+      "english": "The Pen"
+    },
+    {
+      "id": 69,
+      "ayahCount": 52,
+      "anglicised": "Al-Haqqah ",
+      "arabic": "الحاقة",
+      "english": "The Reality"
+    },
+    {
+      "id": 70,
+      "ayahCount": 44,
+      "anglicised": "Al-Ma'arij ",
+      "arabic": "المعارج",
+      "english": "The Ascending Stairways"
+    },
+    {
+      "id": 71,
+      "ayahCount": 28,
+      "anglicised": "Nuh ",
+      "arabic": "نوح",
+      "english": "Noah"
+    },
+    {
+      "id": 72,
+      "ayahCount": 28,
+      "anglicised": "Al-Jinn ",
+      "arabic": "الجن",
+      "english": "The Jinn"
+    },
+    {
+      "id": 73,
+      "ayahCount": 20,
+      "anglicised": "Al-Muzzammil ",
+      "arabic": "المزمل",
+      "english": "The Enshrouded One"
+    },
+    {
+      "id": 74,
+      "ayahCount": 56,
+      "anglicised": "Al-Muddaththir ",
+      "arabic": "المدثر",
+      "english": "The Cloaked One"
+    },
+    {
+      "id": 75,
+      "ayahCount": 40,
+      "anglicised": "Al-Qiyamah ",
+      "arabic": "القيامة",
+      "english": "The Resurrection"
+    },
+    {
+      "id": 76,
+      "ayahCount": 31,
+      "anglicised": "Al-Insan ",
+      "arabic": "الإنسان",
+      "english": "The Man"
+    },
+    {
+      "id": 77,
+      "ayahCount": 50,
+      "anglicised": "Al-Mursalat ",
+      "arabic": "المرسلات",
+      "english": "The Emissaries"
+    },
+    {
+      "id": 78,
+      "ayahCount": 40,
+      "anglicised": "An-Naba ",
+      "arabic": "النبأ",
+      "english": "The Tidings"
+    },
+    {
+      "id": 79,
+      "ayahCount": 46,
+      "anglicised": "An-Nazi'at ",
+      "arabic": "النازعات",
+      "english": "Those Who Drag Forth"
+    },
+    {
+      "id": 80,
+      "ayahCount": 42,
+      "anglicised": "Abasa ",
+      "arabic": "عبس",
+      "english": "He Frowned"
+    },
+    {
+      "id": 81,
+      "ayahCount": 29,
+      "anglicised": "At-Takwir ",
+      "arabic": "التكوير",
+      "english": "The Overthrowing"
+    },
+    {
+      "id": 82,
+      "ayahCount": 19,
+      "anglicised": "AL-Infitar ",
+      "arabic": "الإنفطار",
+      "english": "The Cleaving"
+    },
+    {
+      "id": 83,
+      "ayahCount": 36,
+      "anglicised": "Al-Mutaffifin ",
+      "arabic": "المطففين",
+      "english": "The Defrauding"
+    },
+    {
+      "id": 84,
+      "ayahCount": 25,
+      "anglicised": "Al-Inshiqaq ",
+      "arabic": "الانشقاق",
+      "english": "The Sundering"
+    },
+    {
+      "id": 85,
+      "ayahCount": 22,
+      "anglicised": "Al-Buruj ",
+      "arabic": "البروج",
+      "english": "The Mansions Of The Stars"
+    },
+    {
+      "id": 86,
+      "ayahCount": 17,
+      "anglicised": "At-Tariq ",
+      "arabic": "الطارق",
+      "english": "The Nightcomer"
+    },
+    {
+      "id": 87,
+      "ayahCount": 19,
+      "anglicised": "Al-A'la ",
+      "arabic": "الأعلى",
+      "english": "The Most High"
+    },
+    {
+      "id": 88,
+      "ayahCount": 26,
+      "anglicised": "Al-Ghashiyah ",
+      "arabic": "الغاشية",
+      "english": "The Overwhelming"
+    },
+    {
+      "id": 89,
+      "ayahCount": 30,
+      "anglicised": "Al-Fajr ",
+      "arabic": "الفجر",
+      "english": "The Dawn"
+    },
+    {
+      "id": 90,
+      "ayahCount": 20,
+      "anglicised": "Al-Balad ",
+      "arabic": "البلد",
+      "english": "The City"
+    },
+    {
+      "id": 91,
+      "ayahCount": 15,
+      "anglicised": "Ash-Shams ",
+      "arabic": "الشمس",
+      "english": "The Sun"
+    },
+    {
+      "id": 92,
+      "ayahCount": 21,
+      "anglicised": "Al-Layl ",
+      "arabic": "الليل",
+      "english": "The Night"
+    },
+    {
+      "id": 93,
+      "ayahCount": 11,
+      "anglicised": "Ad-Dhuhaa ",
+      "arabic": "الضحى",
+      "english": "The Morning Hours"
+    },
+    {
+      "id": 94,
+      "ayahCount": 8,
+      "anglicised": "Ash-Sharh ",
+      "arabic": "الشرح",
+      "english": "The Relief"
+    },
+    {
+      "id": 95,
+      "ayahCount": 8,
+      "anglicised": "At-Tin ",
+      "arabic": "التين",
+      "english": "The Fig"
+    },
+    {
+      "id": 96,
+      "ayahCount": 19,
+      "anglicised": "Al-'Alaq ",
+      "arabic": "العلق",
+      "english": "The Clot"
+    },
+    {
+      "id": 97,
+      "ayahCount": 5,
+      "anglicised": "Al-Qadr ",
+      "arabic": "القدر",
+      "english": "The Power"
+    },
+    {
+      "id": 98,
+      "ayahCount": 8,
+      "anglicised": "Al-Bayyina ",
+      "arabic": "البينة",
+      "english": "The Clear Proof"
+    },
+    {
+      "id": 99,
+      "ayahCount": 8,
+      "anglicised": "Az-Zalzalah ",
+      "arabic": "الزلزلة",
+      "english": "The Earthquake"
+    },
+    {
+      "id": 100,
+      "ayahCount": 11,
+      "anglicised": "Al-'Adiyat ",
+      "arabic": "العاديات",
+      "english": "The Courser"
+    },
+    {
+      "id": 101,
+      "ayahCount": 11,
+      "anglicised": "Al-Qari'ah ",
+      "arabic": "القارعة",
+      "english": "The Calamity"
+    },
+    {
+      "id": 102,
+      "ayahCount": 8,
+      "anglicised": "At-Takathur ",
+      "arabic": "التكاثر",
+      "english": "Rivalry In World Increase"
+    },
+    {
+      "id": 103,
+      "ayahCount": 3,
+      "anglicised": "Al-'Asr ",
+      "arabic": "العصر",
+      "english": "The Declining Day"
+    },
+    {
+      "id": 104,
+      "ayahCount": 9,
+      "anglicised": "Al-Humazah ",
+      "arabic": "الهمزة",
+      "english": "The Traducer"
+    },
+    {
+      "id": 105,
+      "ayahCount": 5,
+      "anglicised": "Al-fil ",
+      "arabic": "الفيل",
+      "english": "The Elephant"
+    },
+    {
+      "id": 106,
+      "ayahCount": 4,
+      "anglicised": "Quraish ",
+      "arabic": "قريش",
+      "english": "Quraysh"
+    },
+    {
+      "id": 107,
+      "ayahCount": 7,
+      "anglicised": "Al-Ma'un ",
+      "arabic": "الماعون",
+      "english": "Almsgiving"
+    },
+    {
+      "id": 108,
+      "ayahCount": 3,
+      "anglicised": "Al-Kawthar ",
+      "arabic": "الكوثر",
+      "english": "Abundance"
+    },
+    {
+      "id": 109,
+      "ayahCount": 6,
+      "anglicised": "Al-Kafirun ",
+      "arabic": "الكافرون",
+      "english": "The Disbelievers"
+    },
+    {
+      "id": 110,
+      "ayahCount": 3,
+      "anglicised": "An-Nasr ",
+      "arabic": "النصر",
+      "english": "The Divine Support"
+    },
+    {
+      "id": 111,
+      "ayahCount": 5,
+      "anglicised": "Al-Masad ",
+      "arabic": "المسد",
+      "english": "The Palm Fibre"
+    },
+    {
+      "id": 112,
+      "ayahCount": 4,
+      "anglicised": "Al-Ikhlas ",
+      "arabic": "الإخلاص",
+      "english": "The Sincerity"
+    },
+    {
+      "id": 113,
+      "ayahCount": 5,
+      "anglicised": "Al-Falaq ",
+      "arabic": "الفلق",
+      "english": "The Daybreak"
+    },
+    {
+      "id": 114,
+      "ayahCount": 6,
+      "anglicised": "An-Nas ",
+      "arabic": "الناس",
+      "english": "The Mankind"
+    }
+  ]
+}

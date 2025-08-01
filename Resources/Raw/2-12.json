@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 12,
+    "surah": 2,
+    "words": 7,
+    "numberInQuran": 19,
+    "juz": 1,
+    "manzil": 1,
+    "page": 3,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَلَآ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 133,
+      "word_number_in_surah": 104,
+      "word_surah": 2,
+      "word_translation": "Beware",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "إِنَّهُمۡ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 134,
+      "word_number_in_surah": 105,
+      "word_surah": 2,
+      "word_translation": "indeed they",
+      "word_transliteration": "innahum"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 135,
+      "word_number_in_surah": 106,
+      "word_surah": 2,
+      "word_translation": "themselves",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلۡمُفۡسِدُونَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 136,
+      "word_number_in_surah": 107,
+      "word_surah": 2,
+      "word_translation": "(are) the ones who spread corruption",
+      "word_transliteration": "al-muf'siduna"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 137,
+      "word_number_in_surah": 108,
+      "word_surah": 2,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 138,
+      "word_number_in_surah": 109,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَشۡعُرُونَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 139,
+      "word_number_in_surah": 110,
+      "word_surah": 2,
+      "word_translation": "they realize (it)",
+      "word_transliteration": "yash'uruna"
+    }
+  ],
+  "fullArabic": "أَلَآ إِنَّهُمۡ هُمُ ٱلۡمُفۡسِدُونَ وَلَٰكِن لَّا يَشۡعُرُونَ",
+  "fullTranslation": "Unquestionably, it is they who are the corrupters, but they perceive [it] not.",
+  "fullTransliteration": "ala innahum humu al-muf'siduna walakin la yash'uruna"
+}

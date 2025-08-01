@@ -1,0 +1,86 @@
+
+<rxui:ReactiveContentPage
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuranApp.Views.SurahsPage"
+             xmlns:viewmodel="clr-namespace:QuranApp.ViewModels"
+             xmlns:rxui="clr-namespace:ReactiveUI.Maui;assembly=ReactiveUI.Maui"
+             x:TypeArguments="viewmodel:SurahsViewModel"
+        
+             Title="Surahs">
+    <Grid>
+        
+        <ActivityIndicator IsRunning="{Binding IsLoading}"
+                         IsVisible="{Binding IsLoading}"
+                         HorizontalOptions="Center"
+                         VerticalOptions="Center"
+                         Color="{AppThemeBinding Light=Blue, Dark=LightBlue}"/>
+
+        
+        <CollectionView ItemsSource="{Binding Surahs}"
+                        SelectionMode="None">
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+
+                    <Grid Padding="10" BackgroundColor="{AppThemeBinding Light=White, Dark=#333333}">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.GestureRecognizers>
+                            <TapGestureRecognizer
+                                Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:SurahsViewModel}}, Path=SurahSelectedCommand}"
+                                CommandParameter="{Binding .}"/>
+                        </Grid.GestureRecognizers>
+
+                        
+                        <Label Text="{Binding Id}"
+                            
+                               Grid.Column="0" Grid.Row="0" Grid.RowSpan="3"
+                               FontSize="20" FontAttributes="Bold"
+                               VerticalOptions="Center" HorizontalOptions="Center"
+                               Margin="0,0,15,0"
+                               TextColor="{AppThemeBinding Light=DarkSlateGray, Dark=LightGray}"
+                               
+                            />
+
+                    
+                        <Label Text="{Binding English}"
+                               Grid.Column="1" Grid.Row="0"
+                               FontSize="18" FontAttributes="Bold"
+                               TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+
+                        
+                        <Label Text="{Binding Arabic}"
+                               Grid.Column="1" Grid.Row="1"
+                               FontSize="16"
+                               TextColor="{AppThemeBinding Light=DarkGray, Dark=Silver}"/>
+
+                        
+                        <Label Grid.Column="1" Grid.Row="2">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="{Binding Anglicised, StringFormat='({0})'}"
+                                          FontSize="12" TextColor="Gray"/>
+                                    <Span Text=" - " FontSize="12" TextColor="Gray"/>
+                                    <Span Text="{Binding AyahCount, StringFormat='{0} Ayahs'}"
+                                          FontSize="12" TextColor="Gray"/>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        
+                     
+                        <BoxView Grid.ColumnSpan="2" Grid.Row="3" HeightRequest="1" Color="{AppThemeBinding Light=LightGray, Dark=#555555}" Margin="0,30,0,0"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</rxui:ReactiveContentPage>

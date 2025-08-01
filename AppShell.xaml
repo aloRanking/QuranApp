@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="QuranApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:QuranApp.Views"
+    Title="QuranApp">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:SurahsPage}"
+        Route="MainPage" />
+
+</Shell>

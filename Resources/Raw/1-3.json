@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "ayah": 3,
+    "surah": 1,
+    "words": 2,
+    "numberInQuran": 3,
+    "juz": 1,
+    "manzil": 1,
+    "page": 1,
+    "ruku": 1,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلرَّحۡمَٰنِ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9,
+      "word_number_in_surah": 9,
+      "word_surah": 1,
+      "word_translation": "The Most Gracious",
+      "word_transliteration": "al-rahmani"
+    },
+    {
+      "word_arabic": "ٱلرَّحِيمِ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10,
+      "word_number_in_surah": 10,
+      "word_surah": 1,
+      "word_translation": "the Most Merciful",
+      "word_transliteration": "al-rahimi"
+    }
+  ],
+  "fullArabic": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+  "fullTranslation": "The Entirely Merciful, the Especially Merciful,",
+  "fullTransliteration": "al-rahmani al-rahimi"
+}

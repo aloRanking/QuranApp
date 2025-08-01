@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "ayah": 7,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 14,
+    "juz": 1,
+    "manzil": 1,
+    "page": 3,
+    "ruku": 2,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "خَتَمَ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 77,
+      "word_number_in_surah": 48,
+      "word_surah": 2,
+      "word_translation": "Has set a seal",
+      "word_transliteration": "khatama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 78,
+      "word_number_in_surah": 49,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 79,
+      "word_number_in_surah": 50,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "قُلُوبِهِمۡ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 80,
+      "word_number_in_surah": 51,
+      "word_surah": 2,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "وَعَلَىٰ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 81,
+      "word_number_in_surah": 52,
+      "word_surah": 2,
+      "word_translation": "and on",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "سَمۡعِهِمۡۖ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 82,
+      "word_number_in_surah": 53,
+      "word_surah": 2,
+      "word_translation": "their hearing",
+      "word_transliteration": "sam'ihim"
+    },
+    {
+      "word_arabic": "وَعَلَىٰٓ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 83,
+      "word_number_in_surah": 54,
+      "word_surah": 2,
+      "word_translation": "and on",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "أَبۡصَٰرِهِمۡ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 84,
+      "word_number_in_surah": 55,
+      "word_surah": 2,
+      "word_translation": "their vision",
+      "word_transliteration": "absarihim"
+    },
+    {
+      "word_arabic": "غِشَٰوَةٞۖ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 85,
+      "word_number_in_surah": 56,
+      "word_surah": 2,
+      "word_translation": "(is) a veil",
+      "word_transliteration": "ghishawatun"
+    },
+    {
+      "word_arabic": "وَلَهُمۡ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 86,
+      "word_number_in_surah": 57,
+      "word_surah": 2,
+      "word_translation": "And for them",
+      "word_transliteration": "walahum"
+    },
+    {
+      "word_arabic": "عَذَابٌ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 87,
+      "word_number_in_surah": 58,
+      "word_surah": 2,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "عَظِيمٞ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 88,
+      "word_number_in_surah": 59,
+      "word_surah": 2,
+      "word_translation": "great",
+      "word_transliteration": "azimun"
+    }
+  ],
+  "fullArabic": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَعَلَىٰ سَمۡعِهِمۡۖ وَعَلَىٰٓ أَبۡصَٰرِهِمۡ غِشَٰوَةٞۖ وَلَهُمۡ عَذَابٌ عَظِيمٞ",
+  "fullTranslation": "Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment.",
+  "fullTransliteration": "khatama al-lahu ala qulubihim wa'ala sam'ihim wa'ala absarihim ghishawatun walahum adhabun azimun"
+}

@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "ayah": 15,
+    "surah": 2,
+    "words": 7,
+    "numberInQuran": 22,
+    "juz": 1,
+    "manzil": 1,
+    "page": 3,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 175,
+      "word_number_in_surah": 146,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "يَسۡتَهۡزِئُ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 176,
+      "word_number_in_surah": 147,
+      "word_surah": 2,
+      "word_translation": "mocks",
+      "word_transliteration": "yastahzi-u"
+    },
+    {
+      "word_arabic": "بِهِمۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 177,
+      "word_number_in_surah": 148,
+      "word_surah": 2,
+      "word_translation": "at them",
+      "word_transliteration": "bihim"
+    },
+    {
+      "word_arabic": "وَيَمُدُّهُمۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 178,
+      "word_number_in_surah": 149,
+      "word_surah": 2,
+      "word_translation": "and prolongs them",
+      "word_transliteration": "wayamudduhum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 179,
+      "word_number_in_surah": 150,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "طُغۡيَٰنِهِمۡ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 180,
+      "word_number_in_surah": 151,
+      "word_surah": 2,
+      "word_translation": "their transgression",
+      "word_transliteration": "tugh'yanihim"
+    },
+    {
+      "word_arabic": "يَعۡمَهُونَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 181,
+      "word_number_in_surah": 152,
+      "word_surah": 2,
+      "word_translation": "they wander blindly",
+      "word_transliteration": "ya'mahuna"
+    }
+  ],
+  "fullArabic": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+  "fullTranslation": "[But] Allah mocks them and prolongs them in their transgression [while] they wander blindly.",
+  "fullTransliteration": "al-lahu yastahzi-u bihim wayamudduhum fi tugh'yanihim ya'mahuna"
+}

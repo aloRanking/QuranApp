@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "ayah": 14,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 21,
+    "juz": 1,
+    "manzil": 1,
+    "page": 3,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 159,
+      "word_number_in_surah": 130,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "لَقُواْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 160,
+      "word_number_in_surah": 131,
+      "word_surah": 2,
+      "word_translation": "they meet",
+      "word_transliteration": "laqu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 161,
+      "word_number_in_surah": 132,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 162,
+      "word_number_in_surah": 133,
+      "word_surah": 2,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 163,
+      "word_number_in_surah": 134,
+      "word_surah": 2,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 164,
+      "word_number_in_surah": 135,
+      "word_surah": 2,
+      "word_translation": "We believe[d]",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 165,
+      "word_number_in_surah": 136,
+      "word_surah": 2,
+      "word_translation": "But when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "خَلَوۡاْ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 166,
+      "word_number_in_surah": 137,
+      "word_surah": 2,
+      "word_translation": "they are alone",
+      "word_transliteration": "khalaw"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 167,
+      "word_number_in_surah": 138,
+      "word_surah": 2,
+      "word_translation": "with",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "شَيَٰطِينِهِمۡ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 168,
+      "word_number_in_surah": 139,
+      "word_surah": 2,
+      "word_translation": "their evil ones",
+      "word_transliteration": "shayatinihim"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 169,
+      "word_number_in_surah": 140,
+      "word_surah": 2,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 170,
+      "word_number_in_surah": 141,
+      "word_surah": 2,
+      "word_translation": "Indeed, we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "مَعَكُمۡ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 171,
+      "word_number_in_surah": 142,
+      "word_surah": 2,
+      "word_translation": "(are) with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 172,
+      "word_number_in_surah": 143,
+      "word_surah": 2,
+      "word_translation": "only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "نَحۡنُ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 173,
+      "word_number_in_surah": 144,
+      "word_surah": 2,
+      "word_translation": "we",
+      "word_transliteration": "nahnu"
+    },
+    {
+      "word_arabic": "مُسۡتَهۡزِءُونَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 174,
+      "word_number_in_surah": 145,
+      "word_surah": 2,
+      "word_translation": "(are) mockers",
+      "word_transliteration": "mus'tahziuna"
+    }
+  ],
+  "fullArabic": "وَإِذَا لَقُواْ ٱلَّذِينَ ءَامَنُواْ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَوۡاْ إِلَىٰ شَيَٰطِينِهِمۡ قَالُوٓاْ إِنَّا مَعَكُمۡ إِنَّمَا نَحۡنُ مُسۡتَهۡزِءُونَ",
+  "fullTranslation": "And when they meet those who believe, they say, \"We believe\"; but when they are alone with their evil ones, they say, \"Indeed, we are with you; we were only mockers.\"",
+  "fullTransliteration": "wa-idha laqu alladhina amanu qalu amanna wa-idha khalaw ila shayatinihim qalu inna ma'akum innama nahnu mus'tahziuna"
+}

@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 2,
+    "surah": 2,
+    "words": 7,
+    "numberInQuran": 9,
+    "juz": 1,
+    "manzil": 1,
+    "page": 2,
+    "ruku": 2,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 31,
+      "word_number_in_surah": 2,
+      "word_surah": 2,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبُ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 32,
+      "word_number_in_surah": 3,
+      "word_surah": 2,
+      "word_translation": "(is) the Book",
+      "word_transliteration": "al-kitabu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 33,
+      "word_number_in_surah": 4,
+      "word_surah": 2,
+      "word_translation": "no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "رَيۡبَۛ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 34,
+      "word_number_in_surah": 5,
+      "word_surah": 2,
+      "word_translation": "doubt",
+      "word_transliteration": "rayba"
+    },
+    {
+      "word_arabic": "فِيهِۛ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 35,
+      "word_number_in_surah": 6,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "هُدٗى",
+      "word_ayah": 2,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 36,
+      "word_number_in_surah": 7,
+      "word_surah": 2,
+      "word_translation": "a Guidance",
+      "word_transliteration": "hudan"
+    },
+    {
+      "word_arabic": "لِّلۡمُتَّقِينَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 37,
+      "word_number_in_surah": 8,
+      "word_surah": 2,
+      "word_translation": "for the God-conscious",
+      "word_transliteration": "lil'muttaqina"
+    }
+  ],
+  "fullArabic": "ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ",
+  "fullTranslation": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -",
+  "fullTransliteration": "dhalika al-kitabu la rayba fihi hudan lil'muttaqina"
+}

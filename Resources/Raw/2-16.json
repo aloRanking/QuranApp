@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ayah": 16,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 23,
+    "juz": 1,
+    "manzil": 1,
+    "page": 3,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 182,
+      "word_number_in_surah": 153,
+      "word_surah": 2,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 183,
+      "word_number_in_surah": 154,
+      "word_surah": 2,
+      "word_translation": "(are) the ones who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱشۡتَرَوُاْ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 184,
+      "word_number_in_surah": 155,
+      "word_surah": 2,
+      "word_translation": "bought",
+      "word_transliteration": "ish'tarawu"
+    },
+    {
+      "word_arabic": "ٱلضَّلَٰلَةَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 185,
+      "word_number_in_surah": 156,
+      "word_surah": 2,
+      "word_translation": "[the] astraying",
+      "word_transliteration": "al-dalalata"
+    },
+    {
+      "word_arabic": "بِٱلۡهُدَىٰ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 186,
+      "word_number_in_surah": 157,
+      "word_surah": 2,
+      "word_translation": "for [the] guidance",
+      "word_transliteration": "bil-huda"
+    },
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 187,
+      "word_number_in_surah": 158,
+      "word_surah": 2,
+      "word_translation": "So not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "رَبِحَت",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 188,
+      "word_number_in_surah": 159,
+      "word_surah": 2,
+      "word_translation": "profited",
+      "word_transliteration": "rabihat"
+    },
+    {
+      "word_arabic": "تِّجَٰرَتُهُمۡ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 189,
+      "word_number_in_surah": 160,
+      "word_surah": 2,
+      "word_translation": "their commerce",
+      "word_transliteration": "tijaratuhum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 190,
+      "word_number_in_surah": 161,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 191,
+      "word_number_in_surah": 162,
+      "word_surah": 2,
+      "word_translation": "were they",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "مُهۡتَدِينَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 192,
+      "word_number_in_surah": 163,
+      "word_surah": 2,
+      "word_translation": "guided-ones",
+      "word_transliteration": "muh'tadina"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ فَمَا رَبِحَت تِّجَٰرَتُهُمۡ وَمَا كَانُواْ مُهۡتَدِينَ",
+  "fullTranslation": "Those are the ones who have purchased error [in exchange] for guidance, so their transaction has brought no profit, nor were they guided.",
+  "fullTransliteration": "ulaika alladhina ish'tarawu al-dalalata bil-huda fama rabihat tijaratuhum wama kanu muh'tadina"
+}

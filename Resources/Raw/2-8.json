@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 8,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 15,
+    "juz": 1,
+    "manzil": 1,
+    "page": 3,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 89,
+      "word_number_in_surah": 60,
+      "word_surah": 2,
+      "word_translation": "And of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 90,
+      "word_number_in_surah": 61,
+      "word_surah": 2,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 8,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 91,
+      "word_number_in_surah": 62,
+      "word_surah": 2,
+      "word_translation": "(are some) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 92,
+      "word_number_in_surah": 63,
+      "word_surah": 2,
+      "word_translation": "say",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 93,
+      "word_number_in_surah": 64,
+      "word_surah": 2,
+      "word_translation": "We believed",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 94,
+      "word_number_in_surah": 65,
+      "word_surah": 2,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَبِٱلۡيَوۡمِ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 95,
+      "word_number_in_surah": 66,
+      "word_surah": 2,
+      "word_translation": "and in the Day",
+      "word_transliteration": "wabil-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 96,
+      "word_number_in_surah": 67,
+      "word_surah": 2,
+      "word_translation": "[the] Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 97,
+      "word_number_in_surah": 68,
+      "word_surah": 2,
+      "word_translation": "but not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "هُم",
+      "word_ayah": 8,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 98,
+      "word_number_in_surah": 69,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "بِمُؤۡمِنِينَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 99,
+      "word_number_in_surah": 70,
+      "word_surah": 2,
+      "word_translation": "(are) believers (at all)",
+      "word_transliteration": "bimu'minina"
+    }
+  ],
+  "fullArabic": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَمَا هُم بِمُؤۡمِنِينَ",
+  "fullTranslation": "And of the people are some who say, \"We believe in Allah and the Last Day,\" but they are not believers.",
+  "fullTransliteration": "wamina al-nasi man yaqulu amanna bil-lahi wabil-yawmi al-akhiri wama hum bimu'minina"
+}

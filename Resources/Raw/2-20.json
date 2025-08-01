@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "ayah": 20,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 27,
+    "juz": 1,
+    "manzil": 1,
+    "page": 4,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَكَادُ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 235,
+      "word_number_in_surah": 206,
+      "word_surah": 2,
+      "word_translation": "Almost",
+      "word_transliteration": "yakadu"
+    },
+    {
+      "word_arabic": "ٱلۡبَرۡقُ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 236,
+      "word_number_in_surah": 207,
+      "word_surah": 2,
+      "word_translation": "the lightning",
+      "word_transliteration": "al-barqu"
+    },
+    {
+      "word_arabic": "يَخۡطَفُ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 237,
+      "word_number_in_surah": 208,
+      "word_surah": 2,
+      "word_translation": "snatches away",
+      "word_transliteration": "yakhtafu"
+    },
+    {
+      "word_arabic": "أَبۡصَٰرَهُمۡۖ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 238,
+      "word_number_in_surah": 209,
+      "word_surah": 2,
+      "word_translation": "their sight",
+      "word_transliteration": "absarahum"
+    },
+    {
+      "word_arabic": "كُلَّمَآ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 239,
+      "word_number_in_surah": 210,
+      "word_surah": 2,
+      "word_translation": "Whenever",
+      "word_transliteration": "kullama"
+    },
+    {
+      "word_arabic": "أَضَآءَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 240,
+      "word_number_in_surah": 211,
+      "word_surah": 2,
+      "word_translation": "it flashes",
+      "word_transliteration": "adaa"
+    },
+    {
+      "word_arabic": "لَهُم",
+      "word_ayah": 20,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 241,
+      "word_number_in_surah": 212,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "مَّشَوۡاْ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 242,
+      "word_number_in_surah": 213,
+      "word_surah": 2,
+      "word_translation": "they walk",
+      "word_transliteration": "mashaw"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 243,
+      "word_number_in_surah": 214,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "وَإِذَآ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 244,
+      "word_number_in_surah": 215,
+      "word_surah": 2,
+      "word_translation": "and when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "أَظۡلَمَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 245,
+      "word_number_in_surah": 216,
+      "word_surah": 2,
+      "word_translation": "it darkens",
+      "word_transliteration": "azlama"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 246,
+      "word_number_in_surah": 217,
+      "word_surah": 2,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "قَامُواْۚ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 247,
+      "word_number_in_surah": 218,
+      "word_surah": 2,
+      "word_translation": "they stand (still)",
+      "word_transliteration": "qamu"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 248,
+      "word_number_in_surah": 219,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 249,
+      "word_number_in_surah": 220,
+      "word_surah": 2,
+      "word_translation": "had willed",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 250,
+      "word_number_in_surah": 221,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَذَهَبَ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 251,
+      "word_number_in_surah": 222,
+      "word_surah": 2,
+      "word_translation": "He would certainly have taken away",
+      "word_transliteration": "ladhahaba"
+    },
+    {
+      "word_arabic": "بِسَمۡعِهِمۡ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 252,
+      "word_number_in_surah": 223,
+      "word_surah": 2,
+      "word_translation": "their hearing",
+      "word_transliteration": "bisam'ihim"
+    },
+    {
+      "word_arabic": "وَأَبۡصَٰرِهِمۡۚ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 253,
+      "word_number_in_surah": 224,
+      "word_surah": 2,
+      "word_translation": "and their sight",
+      "word_transliteration": "wa-absarihim"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 254,
+      "word_number_in_surah": 225,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 255,
+      "word_number_in_surah": 226,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 256,
+      "word_number_in_surah": 227,
+      "word_surah": 2,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 257,
+      "word_number_in_surah": 228,
+      "word_surah": 2,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 258,
+      "word_number_in_surah": 229,
+      "word_surah": 2,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٞ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 259,
+      "word_number_in_surah": 230,
+      "word_surah": 2,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "fullTranslation": "The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allah had willed, He could have taken away their hearing and their sight. Indeed, Allah is over all things competent.",
+  "fullTransliteration": "yakadu al-barqu yakhtafu absarahum kullama adaa lahum mashaw fihi wa-idha azlama alayhim qamu walaw shaa al-lahu ladhahaba bisam'ihim wa-absarihim inna al-laha ala kulli shayin qadirun"
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "ayah": 6,
+    "surah": 1,
+    "words": 3,
+    "numberInQuran": 6,
+    "juz": 1,
+    "manzil": 1,
+    "page": 1,
+    "ruku": 1,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱهۡدِنَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18,
+      "word_number_in_surah": 18,
+      "word_surah": 1,
+      "word_translation": "Guide us",
+      "word_transliteration": "ih'dina"
+    },
+    {
+      "word_arabic": "ٱلصِّرَٰطَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19,
+      "word_number_in_surah": 19,
+      "word_surah": 1,
+      "word_translation": "(to) the path",
+      "word_transliteration": "al-sirata"
+    },
+    {
+      "word_arabic": "ٱلۡمُسۡتَقِيمَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20,
+      "word_number_in_surah": 20,
+      "word_surah": 1,
+      "word_translation": "the straight",
+      "word_transliteration": "al-mus'taqima"
+    }
+  ],
+  "fullArabic": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+  "fullTranslation": "Guide us to the straight path -",
+  "fullTransliteration": "ih'dina al-sirata al-mus'taqima"
+}

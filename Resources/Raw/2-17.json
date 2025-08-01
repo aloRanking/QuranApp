@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 17,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 24,
+    "juz": 1,
+    "manzil": 1,
+    "page": 4,
+    "ruku": 3,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَثَلُهُمۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 193,
+      "word_number_in_surah": 164,
+      "word_surah": 2,
+      "word_translation": "Their example",
+      "word_transliteration": "mathaluhum"
+    },
+    {
+      "word_arabic": "كَمَثَلِ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 194,
+      "word_number_in_surah": 165,
+      "word_surah": 2,
+      "word_translation": "(is) like (the) example",
+      "word_transliteration": "kamathali"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 195,
+      "word_number_in_surah": 166,
+      "word_surah": 2,
+      "word_translation": "(of) the one who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "ٱسۡتَوۡقَدَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 196,
+      "word_number_in_surah": 167,
+      "word_surah": 2,
+      "word_translation": "kindled",
+      "word_transliteration": "is'tawqada"
+    },
+    {
+      "word_arabic": "نَارٗا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 197,
+      "word_number_in_surah": 168,
+      "word_surah": 2,
+      "word_translation": "a fire",
+      "word_transliteration": "naran"
+    },
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 198,
+      "word_number_in_surah": 169,
+      "word_surah": 2,
+      "word_translation": "then, when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَضَآءَتۡ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 199,
+      "word_number_in_surah": 170,
+      "word_surah": 2,
+      "word_translation": "it lighted",
+      "word_transliteration": "adaat"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 200,
+      "word_number_in_surah": 171,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "حَوۡلَهُۥ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 201,
+      "word_number_in_surah": 172,
+      "word_surah": 2,
+      "word_translation": "his surroundings",
+      "word_transliteration": "hawlahu"
+    },
+    {
+      "word_arabic": "ذَهَبَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 202,
+      "word_number_in_surah": 173,
+      "word_surah": 2,
+      "word_translation": "took away",
+      "word_transliteration": "dhahaba"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 203,
+      "word_number_in_surah": 174,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِنُورِهِمۡ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 204,
+      "word_number_in_surah": 175,
+      "word_surah": 2,
+      "word_translation": "their light",
+      "word_transliteration": "binurihim"
+    },
+    {
+      "word_arabic": "وَتَرَكَهُمۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 205,
+      "word_number_in_surah": 176,
+      "word_surah": 2,
+      "word_translation": "and left them",
+      "word_transliteration": "watarakahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 206,
+      "word_number_in_surah": 177,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ظُلُمَٰتٖ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 207,
+      "word_number_in_surah": 178,
+      "word_surah": 2,
+      "word_translation": "darkness[es]",
+      "word_transliteration": "zulumatin"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 208,
+      "word_number_in_surah": 179,
+      "word_surah": 2,
+      "word_translation": "(so) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُبۡصِرُونَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 209,
+      "word_number_in_surah": 180,
+      "word_surah": 2,
+      "word_translation": "(do) they see",
+      "word_transliteration": "yub'siruna"
+    }
+  ],
+  "fullArabic": "مَثَلُهُمۡ كَمَثَلِ ٱلَّذِي ٱسۡتَوۡقَدَ نَارٗا فَلَمَّآ أَضَآءَتۡ مَا حَوۡلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمۡ وَتَرَكَهُمۡ فِي ظُلُمَٰتٖ لَّا يُبۡصِرُونَ",
+  "fullTranslation": "Their example is that of one who kindled a fire, but when it illuminated what was around him, Allah took away their light and left them in darkness [so] they could not see.",
+  "fullTransliteration": "mathaluhum kamathali alladhi is'tawqada naran falamma adaat ma hawlahu dhahaba al-lahu binurihim watarakahum fi zulumatin la yub'siruna"
+}

@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 6,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 13,
+    "juz": 1,
+    "manzil": 1,
+    "page": 3,
+    "ruku": 2,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 66,
+      "word_number_in_surah": 37,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 67,
+      "word_number_in_surah": 38,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 68,
+      "word_number_in_surah": 39,
+      "word_surah": 2,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "سَوَآءٌ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 69,
+      "word_number_in_surah": 40,
+      "word_surah": 2,
+      "word_translation": "(it) is same",
+      "word_transliteration": "sawaon"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 70,
+      "word_number_in_surah": 41,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "ءَأَنذَرۡتَهُمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 71,
+      "word_number_in_surah": 42,
+      "word_surah": 2,
+      "word_translation": "whether you warn them",
+      "word_transliteration": "a-andhartahum"
+    },
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 72,
+      "word_number_in_surah": 43,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 73,
+      "word_number_in_surah": 44,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تُنذِرۡهُمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 74,
+      "word_number_in_surah": 45,
+      "word_surah": 2,
+      "word_translation": "you warn them",
+      "word_transliteration": "tundhir'hum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 75,
+      "word_number_in_surah": 46,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 76,
+      "word_number_in_surah": 47,
+      "word_surah": 2,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ",
+  "fullTranslation": "Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.",
+  "fullTransliteration": "inna alladhina kafaru sawaon alayhim a-andhartahum am lam tundhir'hum la yu'minuna"
+}

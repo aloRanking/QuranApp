@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 3,
+    "surah": 2,
+    "words": 8,
+    "numberInQuran": 10,
+    "juz": 1,
+    "manzil": 1,
+    "page": 2,
+    "ruku": 2,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 38,
+      "word_number_in_surah": 9,
+      "word_surah": 2,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 39,
+      "word_number_in_surah": 10,
+      "word_surah": 2,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱلۡغَيۡبِ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 40,
+      "word_number_in_surah": 11,
+      "word_surah": 2,
+      "word_translation": "in the unseen",
+      "word_transliteration": "bil-ghaybi"
+    },
+    {
+      "word_arabic": "وَيُقِيمُونَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 41,
+      "word_number_in_surah": 12,
+      "word_surah": 2,
+      "word_translation": "and establish",
+      "word_transliteration": "wayuqimuna"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 42,
+      "word_number_in_surah": 13,
+      "word_surah": 2,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salata"
+    },
+    {
+      "word_arabic": "وَمِمَّا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 43,
+      "word_number_in_surah": 14,
+      "word_surah": 2,
+      "word_translation": "and out of what",
+      "word_transliteration": "wamimma"
+    },
+    {
+      "word_arabic": "رَزَقۡنَٰهُمۡ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 44,
+      "word_number_in_surah": 15,
+      "word_surah": 2,
+      "word_translation": "We have provided them",
+      "word_transliteration": "razaqnahum"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 45,
+      "word_number_in_surah": 16,
+      "word_surah": 2,
+      "word_translation": "they spend",
+      "word_transliteration": "yunfiquna"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "fullTranslation": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,",
+  "fullTransliteration": "alladhina yu'minuna bil-ghaybi wayuqimuna al-salata wamimma razaqnahum yunfiquna"
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 7,
+    "surah": 1,
+    "words": 9,
+    "numberInQuran": 7,
+    "juz": 1,
+    "manzil": 1,
+    "page": 1,
+    "ruku": 1,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "صِرَٰطَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21,
+      "word_number_in_surah": 21,
+      "word_surah": 1,
+      "word_translation": "(The) path",
+      "word_transliteration": "sirata"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22,
+      "word_number_in_surah": 22,
+      "word_surah": 1,
+      "word_translation": "(of) those",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أَنۡعَمۡتَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23,
+      "word_number_in_surah": 23,
+      "word_surah": 1,
+      "word_translation": "You have bestowed (Your) Favors",
+      "word_transliteration": "an'amta"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 24,
+      "word_number_in_surah": 24,
+      "word_surah": 1,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "غَيۡرِ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 25,
+      "word_number_in_surah": 25,
+      "word_surah": 1,
+      "word_translation": "not (of)",
+      "word_transliteration": "ghayri"
+    },
+    {
+      "word_arabic": "ٱلۡمَغۡضُوبِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 26,
+      "word_number_in_surah": 26,
+      "word_surah": 1,
+      "word_translation": "those who earned (Your) wrath",
+      "word_transliteration": "al-maghdubi"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 27,
+      "word_number_in_surah": 27,
+      "word_surah": 1,
+      "word_translation": "on themselves",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 28,
+      "word_number_in_surah": 28,
+      "word_surah": 1,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "ٱلضَّآلِّينَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 29,
+      "word_number_in_surah": 29,
+      "word_surah": 1,
+      "word_translation": "(of) those who go astray",
+      "word_transliteration": "al-dalina"
+    }
+  ],
+  "fullArabic": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+  "fullTranslation": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+  "fullTransliteration": "sirata alladhina an'amta alayhim ghayri al-maghdubi alayhim wala al-dalina"
+}

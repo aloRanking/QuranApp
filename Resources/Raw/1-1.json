@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "ayah": 1,
+    "surah": 1,
+    "words": 4,
+    "numberInQuran": 1,
+    "juz": 1,
+    "manzil": 1,
+    "page": 1,
+    "ruku": 1,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بِسۡمِ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1,
+      "word_number_in_surah": 1,
+      "word_surah": 1,
+      "word_translation": "In (the) name",
+      "word_transliteration": "bis'mi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2,
+      "word_number_in_surah": 2,
+      "word_surah": 1,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلرَّحۡمَٰنِ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3,
+      "word_number_in_surah": 3,
+      "word_surah": 1,
+      "word_translation": "the Most Gracious",
+      "word_transliteration": "al-rahmani"
+    },
+    {
+      "word_arabic": "ٱلرَّحِيمِ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4,
+      "word_number_in_surah": 4,
+      "word_surah": 1,
+      "word_translation": "the Most Merciful",
+      "word_transliteration": "al-rahimi"
+    }
+  ],
+  "fullArabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+  "fullTranslation": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+  "fullTransliteration": "bis'mi al-lahi al-rahmani al-rahimi"
+}

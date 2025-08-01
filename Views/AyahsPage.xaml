@@ -1,0 +1,64 @@
+<rxui:ReactiveContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="QuranApp.Views.AyahsPage"
+    xmlns:viewmodel="clr-namespace:QuranApp.ViewModels"
+    xmlns:rxui="clr-namespace:ReactiveUI.Maui;assembly=ReactiveUI.Maui"
+    xmlns:converters="clr-namespace:QuranApp.Converters"
+    x:TypeArguments="viewmodel:AyahsViewModel"
+    Title="{Binding UrlPathSegment}">
+
+
+    <rxui:ReactiveContentPage.Resources>
+        <converters:InverseBoolConverter x:Key="InverseBoolConverter"/>
+    </rxui:ReactiveContentPage.Resources>
+
+    <Grid>
+        <!-- The ActivityIndicator will now show and hide based on IsLoading -->
+        <ActivityIndicator IsRunning="{Binding IsLoading}"
+                           IsVisible="{Binding IsLoading}"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"
+                           Color="{AppThemeBinding Light=Blue, Dark=LightBlue}"/>
+
+
+        <CollectionView ItemsSource="{Binding Ayahs}"
+                        SelectionMode="None"
+                        IsVisible="{Binding IsLoading, Converter={StaticResource InverseBoolConverter}}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10"
+                            BackgroundColor="{AppThemeBinding Light=White, Dark=#333333}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+
+
+                        <Label Text="{Binding Meta.Ayah}"
+                               Grid.Row="0"
+                               FontSize="16"
+                                FontAttributes="Bold"
+                               TextColor="{AppThemeBinding Light=DarkSlateGray, Dark=LightGray}"/>
+
+                        <Label Text="{Binding FullArabic}"
+                               Grid.Row="1"
+                               FontSize="20"
+                                HorizontalTextAlignment="Start"
+                                FlowDirection="RightToLeft"
+                               TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+
+                        <Label Text="{Binding FullTranslation}"
+                               Grid.Row="2"
+                               FontSize="14"
+                                FontAttributes="Italic"
+                               TextColor="{AppThemeBinding Light=DarkGray, Dark=Silver}"/>
+
+                         </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</rxui:ReactiveContentPage>
