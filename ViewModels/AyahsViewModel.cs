@@ -78,7 +78,7 @@ public class AyahsViewModel : ReactiveObject, IRoutableViewModel
 
     }
 
-    private async Task LoadAyahsAsync()
+     private async Task LoadAyahsAsync()
     {
         if (Surah == null)
         {
@@ -87,49 +87,113 @@ public class AyahsViewModel : ReactiveObject, IRoutableViewModel
         }
 
         IsLoading = true;
-        GridVisibitily = false;
         Ayahs.Clear();
-        await Task.Delay(10);
-        var stopwatch = new Stopwatch();
-        stopwatch.Start();
 
-        Console.WriteLine("LOADING!!!!!!!!!!!!.");
-
+        // data loading process is now moved to a background thread
         try
         {
+            // Add a small delay to ensure the UI has time to render the ActivityIndicator.
+            // This is a safety measure to prevent a race condition on slower devices.
+            await Task.Delay(10);
+            
+            var stopwatch = new Stopwatch();
+            stopwatch.Start();
+            
+            Console.WriteLine("LOADING!!!!!!!!!!!!.");
 
-
-
-            var fetchTasks = new List<Task<Ayah>>();
-            for (int i = 1; i <= Surah.AyahCount; i++)
+            // Use Task.Run to offload all file I/O to a background thread.
+            // This ensures the UI thread remains completely free and responsive.
+            await Task.Run(async () =>
             {
-                fetchTasks.Add(_quranService.GetAyahAsync(Surah.Id, i));
-            }
+                var fetchTasks = new List<Task<Ayah>>();
+                for (int i = 1; i <= Surah.AyahCount; i++)
+                {
+                    fetchTasks.Add(_quranService.GetAyahAsync(Surah.Id, i));
+                }
 
+                
+                var fetchedAyahs = await Task.WhenAll(fetchTasks);
 
-            var fetchedAyahs = await Task.WhenAll(fetchTasks);
-
-
-            foreach (var ayah in fetchedAyahs.Where(a => a != null))
-            {
-                Ayahs.Add(ayah);
-            }
+                // Add the fetched Ayahs to the ObservableCollection on the UI thread
+                // Use MainThread.BeginInvokeOnMainThread to ensure UI updates are safe
+                MainThread.BeginInvokeOnMainThread(() =>
+                {
+                    foreach (var ayah in fetchedAyahs.Where(a => a != null))
+                    {
+                        Ayahs.Add(ayah);
+                    }
+                });
+            });
+            
+            stopwatch.Stop();
+            Console.WriteLine($"Ayahs loaded in: {stopwatch.ElapsedMilliseconds} ms");
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Error loading ayahs {ex.Message}");
-
+            Console.WriteLine($"Error loading ayahs concurrently: {ex.Message}");
+            MainThread.BeginInvokeOnMainThread(async () =>
+            {
+                await Shell.Current.DisplayAlert("Error", "Failed to load Ayahs.", "OK");
+            });
         }
         finally
         {
             IsLoading = false;
-            GridVisibitily = true;
-
-            stopwatch.Stop();
-            Console.WriteLine($"Ayahs loaded in: {stopwatch.ElapsedMilliseconds} ms");
-
         }
     }
+
+    // private async Task LoadAyahsAsync()
+    // {
+    //     if (Surah == null)
+    //     {
+    //         Console.WriteLine("Surah object is null. Cannot load Ayahs.");
+    //         return;
+    //     }
+
+    //     IsLoading = true;
+    //     GridVisibitily = false;
+    //     Ayahs.Clear();
+    //     await Task.Delay(10);
+    //     var stopwatch = new Stopwatch();
+    //     stopwatch.Start();
+
+    //     Console.WriteLine("LOADING!!!!!!!!!!!!.");
+
+    //     try
+    //     {
+
+
+
+    //         var fetchTasks = new List<Task<Ayah>>();
+    //         for (int i = 1; i <= Surah.AyahCount; i++)
+    //         {
+    //             fetchTasks.Add(_quranService.GetAyahAsync(Surah.Id, i));
+    //         }
+
+
+    //         var fetchedAyahs = await Task.WhenAll(fetchTasks);
+
+
+    //         foreach (var ayah in fetchedAyahs.Where(a => a != null))
+    //         {
+    //             Ayahs.Add(ayah);
+    //         }
+    //     }
+    //     catch (Exception ex)
+    //     {
+    //         Console.WriteLine($"Error loading ayahs {ex.Message}");
+
+    //     }
+    //     finally
+    //     {
+    //         IsLoading = false;
+    //         GridVisibitily = true;
+
+    //         stopwatch.Stop();
+    //         Console.WriteLine($"Ayahs loaded in: {stopwatch.ElapsedMilliseconds} ms");
+
+    //     }
+    // }
 
 
 
