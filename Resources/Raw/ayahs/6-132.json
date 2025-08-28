@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 132,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 921,
+    "juz": 8,
+    "manzil": 2,
+    "page": 145,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِكُلّٖ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18472,
+      "word_number_in_surah": 2295,
+      "word_surah": 6,
+      "word_translation": "And for all",
+      "word_transliteration": "walikullin"
+    },
+    {
+      "word_arabic": "دَرَجَٰتٞ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18473,
+      "word_number_in_surah": 2296,
+      "word_surah": 6,
+      "word_translation": "(will be) degrees",
+      "word_transliteration": "darajatun"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18474,
+      "word_number_in_surah": 2297,
+      "word_surah": 6,
+      "word_translation": "for what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "عَمِلُواْۚ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18475,
+      "word_number_in_surah": 2298,
+      "word_surah": 6,
+      "word_translation": "they did",
+      "word_transliteration": "amilu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18476,
+      "word_number_in_surah": 2299,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18477,
+      "word_number_in_surah": 2300,
+      "word_surah": 6,
+      "word_translation": "(is) your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "بِغَٰفِلٍ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18478,
+      "word_number_in_surah": 2301,
+      "word_surah": 6,
+      "word_translation": "unaware",
+      "word_transliteration": "bighafilin"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18479,
+      "word_number_in_surah": 2302,
+      "word_surah": 6,
+      "word_translation": "about what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18480,
+      "word_number_in_surah": 2303,
+      "word_surah": 6,
+      "word_translation": "they do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "وَلِكُلّٖ دَرَجَٰتٞ مِّمَّا عَمِلُواْۚ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا يَعۡمَلُونَ",
+  "fullTranslation": "And for all are degrees from what they have done. And your Lord is not unaware of what they do.",
+  "fullTransliteration": "walikullin darajatun mimma amilu wama rabbuka bighafilin amma ya'maluna"
+}

@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 56,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 1010,
+    "juz": 8,
+    "manzil": 2,
+    "page": 157,
+    "ruku": 128,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20128,
+      "word_number_in_surah": 901,
+      "word_surah": 7,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُفۡسِدُواْ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20129,
+      "word_number_in_surah": 902,
+      "word_surah": 7,
+      "word_translation": "cause corruption",
+      "word_transliteration": "tuf'sidu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20130,
+      "word_number_in_surah": 903,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20131,
+      "word_number_in_surah": 904,
+      "word_surah": 7,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20132,
+      "word_number_in_surah": 905,
+      "word_surah": 7,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "إِصۡلَٰحِهَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20133,
+      "word_number_in_surah": 906,
+      "word_surah": 7,
+      "word_translation": "its reformation",
+      "word_transliteration": "is'lahiha"
+    },
+    {
+      "word_arabic": "وَٱدۡعُوهُ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20134,
+      "word_number_in_surah": 907,
+      "word_surah": 7,
+      "word_translation": "And call Him",
+      "word_transliteration": "wa-id'uhu"
+    },
+    {
+      "word_arabic": "خَوۡفٗا",
+      "word_ayah": 56,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20135,
+      "word_number_in_surah": 908,
+      "word_surah": 7,
+      "word_translation": "(in) fear",
+      "word_transliteration": "khawfan"
+    },
+    {
+      "word_arabic": "وَطَمَعًاۚ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20136,
+      "word_number_in_surah": 909,
+      "word_surah": 7,
+      "word_translation": "and hope",
+      "word_transliteration": "watama'an"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20137,
+      "word_number_in_surah": 910,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَحۡمَتَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20138,
+      "word_number_in_surah": 911,
+      "word_surah": 7,
+      "word_translation": "(the) Mercy",
+      "word_transliteration": "rahmata"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20139,
+      "word_number_in_surah": 912,
+      "word_surah": 7,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "قَرِيبٞ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20140,
+      "word_number_in_surah": 913,
+      "word_surah": 7,
+      "word_translation": "(is) near",
+      "word_transliteration": "qaribun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20141,
+      "word_number_in_surah": 914,
+      "word_surah": 7,
+      "word_translation": "for",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُحۡسِنِينَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20142,
+      "word_number_in_surah": 915,
+      "word_surah": 7,
+      "word_translation": "the good-doers",
+      "word_transliteration": "al-muh'sinina"
+    }
+  ],
+  "fullArabic": "وَلَا تُفۡسِدُواْ فِي ٱلۡأَرۡضِ بَعۡدَ إِصۡلَٰحِهَا وَٱدۡعُوهُ خَوۡفٗا وَطَمَعًاۚ إِنَّ رَحۡمَتَ ٱللَّهِ قَرِيبٞ مِّنَ ٱلۡمُحۡسِنِينَ",
+  "fullTranslation": "And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.",
+  "fullTransliteration": "wala tuf'sidu fi al-ardi ba'da is'lahiha wa-id'uhu khawfan watama'an inna rahmata al-lahi qaribun mina al-muh'sinina"
+}

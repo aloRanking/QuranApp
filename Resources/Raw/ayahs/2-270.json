@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "ayah": 270,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 277,
+    "juz": 3,
+    "manzil": 1,
+    "page": 46,
+    "ruku": 38,
+    "hizbQuarter": 18,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 270,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5638,
+      "word_number_in_surah": 5609,
+      "word_surah": 2,
+      "word_translation": "And whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَنفَقۡتُم",
+      "word_ayah": 270,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5639,
+      "word_number_in_surah": 5610,
+      "word_surah": 2,
+      "word_translation": "you spend",
+      "word_transliteration": "anfaqtum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 270,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5640,
+      "word_number_in_surah": 5611,
+      "word_surah": 2,
+      "word_translation": "(out) of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّفَقَةٍ",
+      "word_ayah": 270,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5641,
+      "word_number_in_surah": 5612,
+      "word_surah": 2,
+      "word_translation": "(your) expenditures",
+      "word_transliteration": "nafaqatin"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 270,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5642,
+      "word_number_in_surah": 5613,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "نَذَرۡتُم",
+      "word_ayah": 270,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5643,
+      "word_number_in_surah": 5614,
+      "word_surah": 2,
+      "word_translation": "you vow",
+      "word_transliteration": "nadhartum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 270,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5644,
+      "word_number_in_surah": 5615,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّذۡرٖ",
+      "word_ayah": 270,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5645,
+      "word_number_in_surah": 5616,
+      "word_surah": 2,
+      "word_translation": "vow(s)",
+      "word_transliteration": "nadhrin"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 270,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5646,
+      "word_number_in_surah": 5617,
+      "word_surah": 2,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 270,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5647,
+      "word_number_in_surah": 5618,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَعۡلَمُهُۥۗ",
+      "word_ayah": 270,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5648,
+      "word_number_in_surah": 5619,
+      "word_surah": 2,
+      "word_translation": "knows it",
+      "word_transliteration": "ya'lamuhu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 270,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5649,
+      "word_number_in_surah": 5620,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لِلظَّٰلِمِينَ",
+      "word_ayah": 270,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5650,
+      "word_number_in_surah": 5621,
+      "word_surah": 2,
+      "word_translation": "for the wrongdoers",
+      "word_transliteration": "lilzzalimina"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 270,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5651,
+      "word_number_in_surah": 5622,
+      "word_surah": 2,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَنصَارٍ",
+      "word_ayah": 270,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5652,
+      "word_number_in_surah": 5623,
+      "word_surah": 2,
+      "word_translation": "helpers",
+      "word_transliteration": "ansarin"
+    }
+  ],
+  "fullArabic": "وَمَآ أَنفَقۡتُم مِّن نَّفَقَةٍ أَوۡ نَذَرۡتُم مِّن نَّذۡرٖ فَإِنَّ ٱللَّهَ يَعۡلَمُهُۥۗ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٍ",
+  "fullTranslation": "And whatever you spend of expenditures or make of vows - indeed, Allah knows of it. And for the wrongdoers there are no helpers.",
+  "fullTransliteration": "wama anfaqtum min nafaqatin aw nadhartum min nadhrin fa-inna al-laha ya'lamuhu wama lilzzalimina min ansarin"
+}

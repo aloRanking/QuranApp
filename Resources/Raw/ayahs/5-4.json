@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "ayah": 4,
+    "surah": 5,
+    "words": 31,
+    "numberInQuran": 673,
+    "juz": 6,
+    "manzil": 2,
+    "page": 107,
+    "ruku": 86,
+    "hizbQuarter": 43,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَسۡ‍َٔلُونَكَ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13510,
+      "word_number_in_surah": 137,
+      "word_surah": 5,
+      "word_translation": "They ask you",
+      "word_transliteration": "yasalunaka"
+    },
+    {
+      "word_arabic": "مَاذَآ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13511,
+      "word_number_in_surah": 138,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "madha"
+    },
+    {
+      "word_arabic": "أُحِلَّ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13512,
+      "word_number_in_surah": 139,
+      "word_surah": 5,
+      "word_translation": "(is) made lawful",
+      "word_transliteration": "uhilla"
+    },
+    {
+      "word_arabic": "لَهُمۡۖ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13513,
+      "word_number_in_surah": 140,
+      "word_surah": 5,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13514,
+      "word_number_in_surah": 141,
+      "word_surah": 5,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أُحِلَّ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13515,
+      "word_number_in_surah": 142,
+      "word_surah": 5,
+      "word_translation": "Are made lawful",
+      "word_transliteration": "uhilla"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13516,
+      "word_number_in_surah": 143,
+      "word_surah": 5,
+      "word_translation": "for you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلطَّيِّبَٰتُ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13517,
+      "word_number_in_surah": 144,
+      "word_surah": 5,
+      "word_translation": "the good things",
+      "word_transliteration": "al-tayibatu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13518,
+      "word_number_in_surah": 145,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "عَلَّمۡتُم",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13519,
+      "word_number_in_surah": 146,
+      "word_surah": 5,
+      "word_translation": "you have taught",
+      "word_transliteration": "allamtum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13520,
+      "word_number_in_surah": 147,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡجَوَارِحِ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13521,
+      "word_number_in_surah": 148,
+      "word_surah": 5,
+      "word_translation": "(your) hunting animals",
+      "word_transliteration": "al-jawarihi"
+    },
+    {
+      "word_arabic": "مُكَلِّبِينَ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13522,
+      "word_number_in_surah": 149,
+      "word_surah": 5,
+      "word_translation": "ones who train animals to hunt",
+      "word_transliteration": "mukallibina"
+    },
+    {
+      "word_arabic": "تُعَلِّمُونَهُنَّ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13523,
+      "word_number_in_surah": 150,
+      "word_surah": 5,
+      "word_translation": "you teach them",
+      "word_transliteration": "tu'allimunahunna"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13524,
+      "word_number_in_surah": 151,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "عَلَّمَكُمُ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13525,
+      "word_number_in_surah": 152,
+      "word_surah": 5,
+      "word_translation": "has taught you",
+      "word_transliteration": "allamakumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُۖ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13526,
+      "word_number_in_surah": 153,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَكُلُواْ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13527,
+      "word_number_in_surah": 154,
+      "word_surah": 5,
+      "word_translation": "So eat",
+      "word_transliteration": "fakulu"
+    },
+    {
+      "word_arabic": "مِمَّآ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13528,
+      "word_number_in_surah": 155,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "أَمۡسَكۡنَ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13529,
+      "word_number_in_surah": 156,
+      "word_surah": 5,
+      "word_translation": "they catch",
+      "word_transliteration": "amsakna"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13530,
+      "word_number_in_surah": 157,
+      "word_surah": 5,
+      "word_translation": "for you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَٱذۡكُرُواْ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13531,
+      "word_number_in_surah": 158,
+      "word_surah": 5,
+      "word_translation": "but mention",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "ٱسۡمَ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13532,
+      "word_number_in_surah": 159,
+      "word_surah": 5,
+      "word_translation": "(the) name",
+      "word_transliteration": "is'ma"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 13533,
+      "word_number_in_surah": 160,
+      "word_surah": 5,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡهِۖ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 13534,
+      "word_number_in_surah": 161,
+      "word_surah": 5,
+      "word_translation": "on it",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 13535,
+      "word_number_in_surah": 162,
+      "word_surah": 5,
+      "word_translation": "and fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَۚ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 13536,
+      "word_number_in_surah": 163,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 13537,
+      "word_number_in_surah": 164,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 13538,
+      "word_number_in_surah": 165,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَرِيعُ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 13539,
+      "word_number_in_surah": 166,
+      "word_surah": 5,
+      "word_translation": "is swift",
+      "word_transliteration": "sari'u"
+    },
+    {
+      "word_arabic": "ٱلۡحِسَابِ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 13540,
+      "word_number_in_surah": 167,
+      "word_surah": 5,
+      "word_translation": "(in taking) account",
+      "word_transliteration": "al-hisabi"
+    }
+  ],
+  "fullArabic": "يَسۡ‍َٔلُونَكَ مَاذَآ أُحِلَّ لَهُمۡۖ قُلۡ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمۡتُم مِّنَ ٱلۡجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُۖ فَكُلُواْ مِمَّآ أَمۡسَكۡنَ عَلَيۡكُمۡ وَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهِۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
+  "fullTranslation": "They ask you, [O Muhammad], what has been made lawful for them. Say, \"Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals which you train as Allah has taught you. So eat of what they catch for you, and mention the name of Allah upon it, and fear Allah.\" Indeed, Allah is swift in account.",
+  "fullTransliteration": "yasalunaka madha uhilla lahum qul uhilla lakumu al-tayibatu wama allamtum mina al-jawarihi mukallibina tu'allimunahunna mimma allamakumu al-lahu fakulu mimma amsakna alaykum wa-udh'kuru is'ma al-lahi alayhi wa-ittaqu al-laha inna al-laha sari'u al-hisabi"
+}

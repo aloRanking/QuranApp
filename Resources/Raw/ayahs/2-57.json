@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "ayah": 57,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 64,
+    "juz": 1,
+    "manzil": 1,
+    "page": 8,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَظَلَّلۡنَا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 821,
+      "word_number_in_surah": 792,
+      "word_surah": 2,
+      "word_translation": "And We shaded",
+      "word_transliteration": "wazallalna"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمُ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 822,
+      "word_number_in_surah": 793,
+      "word_surah": 2,
+      "word_translation": "[over] you",
+      "word_transliteration": "alaykumu"
+    },
+    {
+      "word_arabic": "ٱلۡغَمَامَ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 823,
+      "word_number_in_surah": 794,
+      "word_surah": 2,
+      "word_translation": "(with) [the] clouds",
+      "word_transliteration": "al-ghamama"
+    },
+    {
+      "word_arabic": "وَأَنزَلۡنَا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 824,
+      "word_number_in_surah": 795,
+      "word_surah": 2,
+      "word_translation": "and We sent down",
+      "word_transliteration": "wa-anzalna"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمُ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 825,
+      "word_number_in_surah": 796,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "alaykumu"
+    },
+    {
+      "word_arabic": "ٱلۡمَنَّ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 826,
+      "word_number_in_surah": 797,
+      "word_surah": 2,
+      "word_translation": "[the] manna",
+      "word_transliteration": "al-mana"
+    },
+    {
+      "word_arabic": "وَٱلسَّلۡوَىٰۖ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 827,
+      "word_number_in_surah": 798,
+      "word_surah": 2,
+      "word_translation": "and [the] quails",
+      "word_transliteration": "wal-salwa"
+    },
+    {
+      "word_arabic": "كُلُواْ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 828,
+      "word_number_in_surah": 799,
+      "word_surah": 2,
+      "word_translation": "Eat",
+      "word_transliteration": "kulu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 57,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 829,
+      "word_number_in_surah": 800,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "طَيِّبَٰتِ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 830,
+      "word_number_in_surah": 801,
+      "word_surah": 2,
+      "word_translation": "(the) good things",
+      "word_transliteration": "tayyibati"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 831,
+      "word_number_in_surah": 802,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "رَزَقۡنَٰكُمۡۚ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 832,
+      "word_number_in_surah": 803,
+      "word_surah": 2,
+      "word_translation": "We have provided you",
+      "word_transliteration": "razaqnakum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 833,
+      "word_number_in_surah": 804,
+      "word_surah": 2,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ظَلَمُونَا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 834,
+      "word_number_in_surah": 805,
+      "word_surah": 2,
+      "word_translation": "they wronged Us",
+      "word_transliteration": "zalamuna"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 835,
+      "word_number_in_surah": 806,
+      "word_surah": 2,
+      "word_translation": "but",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "كَانُوٓاْ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 836,
+      "word_number_in_surah": 807,
+      "word_surah": 2,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 837,
+      "word_number_in_surah": 808,
+      "word_surah": 2,
+      "word_translation": "(to) themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "يَظۡلِمُونَ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 838,
+      "word_number_in_surah": 809,
+      "word_surah": 2,
+      "word_translation": "doing wrong",
+      "word_transliteration": "yazlimuna"
+    }
+  ],
+  "fullArabic": "وَظَلَّلۡنَا عَلَيۡكُمُ ٱلۡغَمَامَ وَأَنزَلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰۖ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡۚ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "fullTranslation": "And We shaded you with clouds and sent down to you manna and quails, [saying], \"Eat from the good things with which We have provided you.\" And they wronged Us not - but they were [only] wronging themselves.",
+  "fullTransliteration": "wazallalna alaykumu al-ghamama wa-anzalna alaykumu al-mana wal-salwa kulu min tayyibati ma razaqnakum wama zalamuna walakin kanu anfusahum yazlimuna"
+}

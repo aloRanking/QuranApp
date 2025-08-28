@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 224,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 231,
+    "juz": 2,
+    "manzil": 1,
+    "page": 35,
+    "ruku": 29,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4309,
+      "word_number_in_surah": 4280,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَجۡعَلُواْ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4310,
+      "word_number_in_surah": 4281,
+      "word_surah": 2,
+      "word_translation": "make",
+      "word_transliteration": "taj'alu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4311,
+      "word_number_in_surah": 4282,
+      "word_surah": 2,
+      "word_translation": "Allahs (name)",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عُرۡضَةٗ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4312,
+      "word_number_in_surah": 4283,
+      "word_surah": 2,
+      "word_translation": "an excuse",
+      "word_transliteration": "ur'datan"
+    },
+    {
+      "word_arabic": "لِّأَيۡمَٰنِكُمۡ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4313,
+      "word_number_in_surah": 4284,
+      "word_surah": 2,
+      "word_translation": "in your oaths",
+      "word_transliteration": "li-aymanikum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 224,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4314,
+      "word_number_in_surah": 4285,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَبَرُّواْ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4315,
+      "word_number_in_surah": 4286,
+      "word_surah": 2,
+      "word_translation": "you do good",
+      "word_transliteration": "tabarru"
+    },
+    {
+      "word_arabic": "وَتَتَّقُواْ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4316,
+      "word_number_in_surah": 4287,
+      "word_surah": 2,
+      "word_translation": "and be righteous",
+      "word_transliteration": "watattaqu"
+    },
+    {
+      "word_arabic": "وَتُصۡلِحُواْ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4317,
+      "word_number_in_surah": 4288,
+      "word_surah": 2,
+      "word_translation": "and make peace",
+      "word_transliteration": "watus'lihu"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 224,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4318,
+      "word_number_in_surah": 4289,
+      "word_surah": 2,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِۚ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4319,
+      "word_number_in_surah": 4290,
+      "word_surah": 2,
+      "word_translation": "[the] people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 224,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4320,
+      "word_number_in_surah": 4291,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4321,
+      "word_number_in_surah": 4292,
+      "word_surah": 2,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 224,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4322,
+      "word_number_in_surah": 4293,
+      "word_surah": 2,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَلَا تَجۡعَلُواْ ٱللَّهَ عُرۡضَةٗ لِّأَيۡمَٰنِكُمۡ أَن تَبَرُّواْ وَتَتَّقُواْ وَتُصۡلِحُواْ بَيۡنَ ٱلنَّاسِۚ وَٱللَّهُ سَمِيعٌ عَلِيمٞ",
+  "fullTranslation": "And do not make [your oath by] Allah an excuse against being righteous and fearing Allah and making peace among people. And Allah is Hearing and Knowing.",
+  "fullTransliteration": "wala taj'alu al-laha ur'datan li-aymanikum an tabarru watattaqu watus'lihu bayna al-nasi wal-lahu sami'un alimun"
+}

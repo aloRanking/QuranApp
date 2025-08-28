@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "ayah": 68,
+    "surah": 4,
+    "words": 3,
+    "numberInQuran": 561,
+    "juz": 5,
+    "manzil": 1,
+    "page": 89,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَهَدَيۡنَٰهُمۡ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11137,
+      "word_number_in_surah": 1511,
+      "word_surah": 4,
+      "word_translation": "And We would have guided them",
+      "word_transliteration": "walahadaynahum"
+    },
+    {
+      "word_arabic": "صِرَٰطٗا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11138,
+      "word_number_in_surah": 1512,
+      "word_surah": 4,
+      "word_translation": "(to the) way",
+      "word_transliteration": "siratan"
+    },
+    {
+      "word_arabic": "مُّسۡتَقِيمٗا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11139,
+      "word_number_in_surah": 1513,
+      "word_surah": 4,
+      "word_translation": "(the) straight",
+      "word_transliteration": "mus'taqiman"
+    }
+  ],
+  "fullArabic": "وَلَهَدَيۡنَٰهُمۡ صِرَٰطٗا مُّسۡتَقِيمٗا",
+  "fullTranslation": "And We would have guided them to a straight path.",
+  "fullTransliteration": "walahadaynahum siratan mus'taqiman"
+}

@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "ayah": 128,
+    "surah": 7,
+    "words": 16,
+    "numberInQuran": 1082,
+    "juz": 9,
+    "manzil": 2,
+    "page": 165,
+    "ruku": 136,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21117,
+      "word_number_in_surah": 1890,
+      "word_surah": 7,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21118,
+      "word_number_in_surah": 1891,
+      "word_surah": 7,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "لِقَوۡمِهِ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21119,
+      "word_number_in_surah": 1892,
+      "word_surah": 7,
+      "word_translation": "to his people",
+      "word_transliteration": "liqawmihi"
+    },
+    {
+      "word_arabic": "ٱسۡتَعِينُواْ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21120,
+      "word_number_in_surah": 1893,
+      "word_surah": 7,
+      "word_translation": "Seek help",
+      "word_transliteration": "is'ta'inu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21121,
+      "word_number_in_surah": 1894,
+      "word_surah": 7,
+      "word_translation": "from Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱصۡبِرُوٓاْۖ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21122,
+      "word_number_in_surah": 1895,
+      "word_surah": 7,
+      "word_translation": "and be patient",
+      "word_transliteration": "wa-is'biru"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21123,
+      "word_number_in_surah": 1896,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضَ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21124,
+      "word_number_in_surah": 1897,
+      "word_surah": 7,
+      "word_translation": "the earth",
+      "word_transliteration": "al-arda"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21125,
+      "word_number_in_surah": 1898,
+      "word_surah": 7,
+      "word_translation": "(belongs) to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "يُورِثُهَا",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21126,
+      "word_number_in_surah": 1899,
+      "word_surah": 7,
+      "word_translation": "He causes to inherit it",
+      "word_transliteration": "yurithuha"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 128,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21127,
+      "word_number_in_surah": 1900,
+      "word_surah": 7,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21128,
+      "word_number_in_surah": 1901,
+      "word_surah": 7,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21129,
+      "word_number_in_surah": 1902,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِبَادِهِۦۖ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21130,
+      "word_number_in_surah": 1903,
+      "word_surah": 7,
+      "word_translation": "His servants",
+      "word_transliteration": "ibadihi"
+    },
+    {
+      "word_arabic": "وَٱلۡعَٰقِبَةُ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21131,
+      "word_number_in_surah": 1904,
+      "word_surah": 7,
+      "word_translation": "And the end",
+      "word_transliteration": "wal-'aqibatu"
+    },
+    {
+      "word_arabic": "لِلۡمُتَّقِينَ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21132,
+      "word_number_in_surah": 1905,
+      "word_surah": 7,
+      "word_translation": "(is) for the righteous",
+      "word_transliteration": "lil'muttaqina"
+    }
+  ],
+  "fullArabic": "قَالَ مُوسَىٰ لِقَوۡمِهِ ٱسۡتَعِينُواْ بِٱللَّهِ وَٱصۡبِرُوٓاْۖ إِنَّ ٱلۡأَرۡضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَٱلۡعَٰقِبَةُ لِلۡمُتَّقِينَ",
+  "fullTranslation": "Said Moses to his people, \"Seek help through Allah and be patient. Indeed, the earth belongs to Allah. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous.\"",
+  "fullTransliteration": "qala musa liqawmihi is'ta'inu bil-lahi wa-is'biru inna al-arda lillahi yurithuha man yashau min ibadihi wal-'aqibatu lil'muttaqina"
+}

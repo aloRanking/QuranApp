@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "ayah": 82,
+    "surah": 5,
+    "words": 26,
+    "numberInQuran": 751,
+    "juz": 7,
+    "manzil": 2,
+    "page": 121,
+    "ruku": 96,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞لَتَجِدَنَّ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15311,
+      "word_number_in_surah": 1938,
+      "word_surah": 5,
+      "word_translation": "Surely you will find",
+      "word_transliteration": "latajidanna"
+    },
+    {
+      "word_arabic": "أَشَدَّ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15312,
+      "word_number_in_surah": 1939,
+      "word_surah": 5,
+      "word_translation": "strongest",
+      "word_transliteration": "ashadda"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15313,
+      "word_number_in_surah": 1940,
+      "word_surah": 5,
+      "word_translation": "(of) the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "عَدَٰوَةٗ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15314,
+      "word_number_in_surah": 1941,
+      "word_surah": 5,
+      "word_translation": "(in) enmity",
+      "word_transliteration": "adawatan"
+    },
+    {
+      "word_arabic": "لِّلَّذِينَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15315,
+      "word_number_in_surah": 1942,
+      "word_surah": 5,
+      "word_translation": "to those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15316,
+      "word_number_in_surah": 1943,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱلۡيَهُودَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15317,
+      "word_number_in_surah": 1944,
+      "word_surah": 5,
+      "word_translation": "the Jews",
+      "word_transliteration": "al-yahuda"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15318,
+      "word_number_in_surah": 1945,
+      "word_surah": 5,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "أَشۡرَكُواْۖ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15319,
+      "word_number_in_surah": 1946,
+      "word_surah": 5,
+      "word_translation": "(are) polytheists",
+      "word_transliteration": "ashraku"
+    },
+    {
+      "word_arabic": "وَلَتَجِدَنَّ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15320,
+      "word_number_in_surah": 1947,
+      "word_surah": 5,
+      "word_translation": "and surely you will find",
+      "word_transliteration": "walatajidanna"
+    },
+    {
+      "word_arabic": "أَقۡرَبَهُم",
+      "word_ayah": 82,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15321,
+      "word_number_in_surah": 1948,
+      "word_surah": 5,
+      "word_translation": "nearest of them",
+      "word_transliteration": "aqrabahum"
+    },
+    {
+      "word_arabic": "مَّوَدَّةٗ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15322,
+      "word_number_in_surah": 1949,
+      "word_surah": 5,
+      "word_translation": "(in) affection",
+      "word_transliteration": "mawaddatan"
+    },
+    {
+      "word_arabic": "لِّلَّذِينَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15323,
+      "word_number_in_surah": 1950,
+      "word_surah": 5,
+      "word_translation": "to those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15324,
+      "word_number_in_surah": 1951,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15325,
+      "word_number_in_surah": 1952,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15326,
+      "word_number_in_surah": 1953,
+      "word_surah": 5,
+      "word_translation": "say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15327,
+      "word_number_in_surah": 1954,
+      "word_surah": 5,
+      "word_translation": "We",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "نَصَٰرَىٰۚ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15328,
+      "word_number_in_surah": 1955,
+      "word_surah": 5,
+      "word_translation": "(are) Christians",
+      "word_transliteration": "nasara"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15329,
+      "word_number_in_surah": 1956,
+      "word_surah": 5,
+      "word_translation": "That (is)",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "بِأَنَّ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15330,
+      "word_number_in_surah": 1957,
+      "word_surah": 5,
+      "word_translation": "because",
+      "word_transliteration": "bi-anna"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15331,
+      "word_number_in_surah": 1958,
+      "word_surah": 5,
+      "word_translation": "among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "قِسِّيسِينَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15332,
+      "word_number_in_surah": 1959,
+      "word_surah": 5,
+      "word_translation": "(are) priests",
+      "word_transliteration": "qissisina"
+    },
+    {
+      "word_arabic": "وَرُهۡبَانٗا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15333,
+      "word_number_in_surah": 1960,
+      "word_surah": 5,
+      "word_translation": "and monks",
+      "word_transliteration": "waruh'banan"
+    },
+    {
+      "word_arabic": "وَأَنَّهُمۡ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15334,
+      "word_number_in_surah": 1961,
+      "word_surah": 5,
+      "word_translation": "and that they",
+      "word_transliteration": "wa-annahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 15335,
+      "word_number_in_surah": 1962,
+      "word_surah": 5,
+      "word_translation": "(are) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡتَكۡبِرُونَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 15336,
+      "word_number_in_surah": 1963,
+      "word_surah": 5,
+      "word_translation": "arrogant",
+      "word_transliteration": "yastakbiruna"
+    }
+  ],
+  "fullArabic": "۞لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةٗ لِّلَّذِينَ ءَامَنُواْ ٱلۡيَهُودَ وَٱلَّذِينَ أَشۡرَكُواْۖ وَلَتَجِدَنَّ أَقۡرَبَهُم مَّوَدَّةٗ لِّلَّذِينَ ءَامَنُواْ ٱلَّذِينَ قَالُوٓاْ إِنَّا نَصَٰرَىٰۚ ذَٰلِكَ بِأَنَّ مِنۡهُمۡ قِسِّيسِينَ وَرُهۡبَانٗا وَأَنَّهُمۡ لَا يَسۡتَكۡبِرُونَ",
+  "fullTranslation": "You will surely find the most intense of the people in animosity toward the believers [to be] the Jews and those who associate others with Allah; and you will find the nearest of them in affection to the believers those who say, \"We are Christians.\" That is because among them are priests and monks and because they are not arrogant.",
+  "fullTransliteration": "latajidanna ashadda al-nasi adawatan lilladhina amanu al-yahuda wa-alladhina ashraku walatajidanna aqrabahum mawaddatan lilladhina amanu alladhina qalu inna nasara dhalika bi-anna min'hum qissisina waruh'banan wa-annahum la yastakbiruna"
+}

@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "ayah": 162,
+    "surah": 7,
+    "words": 17,
+    "numberInQuran": 1116,
+    "juz": 9,
+    "manzil": 2,
+    "page": 171,
+    "ruku": 141,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَبَدَّلَ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21842,
+      "word_number_in_surah": 2615,
+      "word_surah": 7,
+      "word_translation": "But changed",
+      "word_transliteration": "fabaddala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21843,
+      "word_number_in_surah": 2616,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ظَلَمُواْ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21844,
+      "word_number_in_surah": 2617,
+      "word_surah": 7,
+      "word_translation": "wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21845,
+      "word_number_in_surah": 2618,
+      "word_surah": 7,
+      "word_translation": "among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "قَوۡلًا",
+      "word_ayah": 162,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21846,
+      "word_number_in_surah": 2619,
+      "word_surah": 7,
+      "word_translation": "word",
+      "word_transliteration": "qawlan"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21847,
+      "word_number_in_surah": 2620,
+      "word_surah": 7,
+      "word_translation": "other than",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21848,
+      "word_number_in_surah": 2621,
+      "word_surah": 7,
+      "word_translation": "(that) which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "قِيلَ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21849,
+      "word_number_in_surah": 2622,
+      "word_surah": 7,
+      "word_translation": "was said",
+      "word_transliteration": "qila"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21850,
+      "word_number_in_surah": 2623,
+      "word_surah": 7,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "فَأَرۡسَلۡنَا",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21851,
+      "word_number_in_surah": 2624,
+      "word_surah": 7,
+      "word_translation": "So We sent",
+      "word_transliteration": "fa-arsalna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21852,
+      "word_number_in_surah": 2625,
+      "word_surah": 7,
+      "word_translation": "upon them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "رِجۡزٗا",
+      "word_ayah": 162,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21853,
+      "word_number_in_surah": 2626,
+      "word_surah": 7,
+      "word_translation": "torment",
+      "word_transliteration": "rij'zan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21854,
+      "word_number_in_surah": 2627,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21855,
+      "word_number_in_surah": 2628,
+      "word_surah": 7,
+      "word_translation": "the sky",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21856,
+      "word_number_in_surah": 2629,
+      "word_surah": 7,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21857,
+      "word_number_in_surah": 2630,
+      "word_surah": 7,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَظۡلِمُونَ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21858,
+      "word_number_in_surah": 2631,
+      "word_surah": 7,
+      "word_translation": "doing wrong",
+      "word_transliteration": "yazlimuna"
+    }
+  ],
+  "fullArabic": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡ قَوۡلًا غَيۡرَ ٱلَّذِي قِيلَ لَهُمۡ فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِجۡزٗا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَظۡلِمُونَ",
+  "fullTranslation": "But those who wronged among them changed [the words] to a statement other than that which had been said to them. So We sent upon them a punishment from the sky for the wrong that they were doing.",
+  "fullTransliteration": "fabaddala alladhina zalamu min'hum qawlan ghayra alladhi qila lahum fa-arsalna alayhim rij'zan mina al-samai bima kanu yazlimuna"
+}

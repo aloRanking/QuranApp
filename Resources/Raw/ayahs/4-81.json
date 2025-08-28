@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "ayah": 81,
+    "surah": 4,
+    "words": 24,
+    "numberInQuran": 574,
+    "juz": 5,
+    "manzil": 1,
+    "page": 91,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَيَقُولُونَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11396,
+      "word_number_in_surah": 1770,
+      "word_surah": 4,
+      "word_translation": "And they say",
+      "word_transliteration": "wayaquluna"
+    },
+    {
+      "word_arabic": "طَاعَةٞ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11397,
+      "word_number_in_surah": 1771,
+      "word_surah": 4,
+      "word_translation": "(We pledge) obedience",
+      "word_transliteration": "ta'atun"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11398,
+      "word_number_in_surah": 1772,
+      "word_surah": 4,
+      "word_translation": "Then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "بَرَزُواْ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11399,
+      "word_number_in_surah": 1773,
+      "word_surah": 4,
+      "word_translation": "they leave",
+      "word_transliteration": "barazu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11400,
+      "word_number_in_surah": 1774,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِكَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11401,
+      "word_number_in_surah": 1775,
+      "word_surah": 4,
+      "word_translation": "you",
+      "word_transliteration": "indika"
+    },
+    {
+      "word_arabic": "بَيَّتَ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11402,
+      "word_number_in_surah": 1776,
+      "word_surah": 4,
+      "word_translation": "plan by night",
+      "word_transliteration": "bayyata"
+    },
+    {
+      "word_arabic": "طَآئِفَةٞ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11403,
+      "word_number_in_surah": 1777,
+      "word_surah": 4,
+      "word_translation": "a group",
+      "word_transliteration": "taifatun"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11404,
+      "word_number_in_surah": 1778,
+      "word_surah": 4,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11405,
+      "word_number_in_surah": 1779,
+      "word_surah": 4,
+      "word_translation": "other than",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11406,
+      "word_number_in_surah": 1780,
+      "word_surah": 4,
+      "word_translation": "that which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "تَقُولُۖ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11407,
+      "word_number_in_surah": 1781,
+      "word_surah": 4,
+      "word_translation": "you say",
+      "word_transliteration": "taqulu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11408,
+      "word_number_in_surah": 1782,
+      "word_surah": 4,
+      "word_translation": "But Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَكۡتُبُ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11409,
+      "word_number_in_surah": 1783,
+      "word_surah": 4,
+      "word_translation": "records",
+      "word_transliteration": "yaktubu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11410,
+      "word_number_in_surah": 1784,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُبَيِّتُونَۖ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11411,
+      "word_number_in_surah": 1785,
+      "word_surah": 4,
+      "word_translation": "they plan by night",
+      "word_transliteration": "yubayyituna"
+    },
+    {
+      "word_arabic": "فَأَعۡرِضۡ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11412,
+      "word_number_in_surah": 1786,
+      "word_surah": 4,
+      "word_translation": "So turn (away)",
+      "word_transliteration": "fa-a'rid"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11413,
+      "word_number_in_surah": 1787,
+      "word_surah": 4,
+      "word_translation": "from them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "وَتَوَكَّلۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11414,
+      "word_number_in_surah": 1788,
+      "word_surah": 4,
+      "word_translation": "and put (your) trust",
+      "word_transliteration": "watawakkal"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11415,
+      "word_number_in_surah": 1789,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11416,
+      "word_number_in_surah": 1790,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11417,
+      "word_number_in_surah": 1791,
+      "word_surah": 4,
+      "word_translation": "And sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11418,
+      "word_number_in_surah": 1792,
+      "word_surah": 4,
+      "word_translation": "is Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَكِيلًا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11419,
+      "word_number_in_surah": 1793,
+      "word_surah": 4,
+      "word_translation": "(as) a Trustee",
+      "word_transliteration": "wakilan"
+    }
+  ],
+  "fullArabic": "وَيَقُولُونَ طَاعَةٞ فَإِذَا بَرَزُواْ مِنۡ عِندِكَ بَيَّتَ طَآئِفَةٞ مِّنۡهُمۡ غَيۡرَ ٱلَّذِي تَقُولُۖ وَٱللَّهُ يَكۡتُبُ مَا يُبَيِّتُونَۖ فَأَعۡرِضۡ عَنۡهُمۡ وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+  "fullTranslation": "And they say, \"[We pledge] obedience.\" But when they leave you, a group of them spend the night determining to do other than what you say. But Allah records what they plan by night. So leave them alone and rely upon Allah. And sufficient is Allah as Disposer of affairs.",
+  "fullTransliteration": "wayaquluna ta'atun fa-idha barazu min indika bayyata taifatun min'hum ghayra alladhi taqulu wal-lahu yaktubu ma yubayyituna fa-a'rid anhum watawakkal ala al-lahi wakafa bil-lahi wakilan"
+}

@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "ayah": 14,
+    "surah": 3,
+    "words": 24,
+    "numberInQuran": 307,
+    "juz": 3,
+    "manzil": 1,
+    "page": 51,
+    "ruku": 43,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "زُيِّنَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6349,
+      "word_number_in_surah": 204,
+      "word_surah": 3,
+      "word_translation": "[It is] beautified",
+      "word_transliteration": "zuyyina"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6350,
+      "word_number_in_surah": 205,
+      "word_surah": 3,
+      "word_translation": "for mankind",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "حُبُّ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6351,
+      "word_number_in_surah": 206,
+      "word_surah": 3,
+      "word_translation": "(is) love",
+      "word_transliteration": "hubbu"
+    },
+    {
+      "word_arabic": "ٱلشَّهَوَٰتِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6352,
+      "word_number_in_surah": 207,
+      "word_surah": 3,
+      "word_translation": "(of) the (things they) desire",
+      "word_transliteration": "al-shahawati"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6353,
+      "word_number_in_surah": 208,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6354,
+      "word_number_in_surah": 209,
+      "word_surah": 3,
+      "word_translation": "[the] women",
+      "word_transliteration": "al-nisai"
+    },
+    {
+      "word_arabic": "وَٱلۡبَنِينَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6355,
+      "word_number_in_surah": 210,
+      "word_surah": 3,
+      "word_translation": "and [the] sons",
+      "word_transliteration": "wal-banina"
+    },
+    {
+      "word_arabic": "وَٱلۡقَنَٰطِيرِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6356,
+      "word_number_in_surah": 211,
+      "word_surah": 3,
+      "word_translation": "and [the] heaps",
+      "word_transliteration": "wal-qanatiri"
+    },
+    {
+      "word_arabic": "ٱلۡمُقَنطَرَةِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6357,
+      "word_number_in_surah": 212,
+      "word_surah": 3,
+      "word_translation": "[the] stored up",
+      "word_transliteration": "al-muqantarati"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6358,
+      "word_number_in_surah": 213,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلذَّهَبِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6359,
+      "word_number_in_surah": 214,
+      "word_surah": 3,
+      "word_translation": "[the] gold",
+      "word_transliteration": "al-dhahabi"
+    },
+    {
+      "word_arabic": "وَٱلۡفِضَّةِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6360,
+      "word_number_in_surah": 215,
+      "word_surah": 3,
+      "word_translation": "and [the] silver",
+      "word_transliteration": "wal-fidati"
+    },
+    {
+      "word_arabic": "وَٱلۡخَيۡلِ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6361,
+      "word_number_in_surah": 216,
+      "word_surah": 3,
+      "word_translation": "and [the] horses",
+      "word_transliteration": "wal-khayli"
+    },
+    {
+      "word_arabic": "ٱلۡمُسَوَّمَةِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6362,
+      "word_number_in_surah": 217,
+      "word_surah": 3,
+      "word_translation": "[the] branded",
+      "word_transliteration": "al-musawamati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَنۡعَٰمِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6363,
+      "word_number_in_surah": 218,
+      "word_surah": 3,
+      "word_translation": "and [the] cattle",
+      "word_transliteration": "wal-an'ami"
+    },
+    {
+      "word_arabic": "وَٱلۡحَرۡثِۗ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6364,
+      "word_number_in_surah": 219,
+      "word_surah": 3,
+      "word_translation": "and [the] tilled land",
+      "word_transliteration": "wal-harthi"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6365,
+      "word_number_in_surah": 220,
+      "word_surah": 3,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "مَتَٰعُ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6366,
+      "word_number_in_surah": 221,
+      "word_surah": 3,
+      "word_translation": "(is) provision",
+      "word_transliteration": "mata'u"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6367,
+      "word_number_in_surah": 222,
+      "word_surah": 3,
+      "word_translation": "(of) life",
+      "word_transliteration": "al-hayati"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَاۖ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6368,
+      "word_number_in_surah": 223,
+      "word_surah": 3,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6369,
+      "word_number_in_surah": 224,
+      "word_surah": 3,
+      "word_translation": "but Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عِندَهُۥ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6370,
+      "word_number_in_surah": 225,
+      "word_surah": 3,
+      "word_translation": "with Him",
+      "word_transliteration": "indahu"
+    },
+    {
+      "word_arabic": "حُسۡنُ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6371,
+      "word_number_in_surah": 226,
+      "word_surah": 3,
+      "word_translation": "(is an) excellent",
+      "word_transliteration": "hus'nu"
+    },
+    {
+      "word_arabic": "ٱلۡمَ‍َٔابِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6372,
+      "word_number_in_surah": 227,
+      "word_surah": 3,
+      "word_translation": "[the] abode to return",
+      "word_transliteration": "al-maabi"
+    }
+  ],
+  "fullArabic": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلۡبَنِينَ وَٱلۡقَنَٰطِيرِ ٱلۡمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلۡفِضَّةِ وَٱلۡخَيۡلِ ٱلۡمُسَوَّمَةِ وَٱلۡأَنۡعَٰمِ وَٱلۡحَرۡثِۗ ذَٰلِكَ مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلۡمَ‍َٔابِ",
+  "fullTranslation": "Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allah has with Him the best return.",
+  "fullTransliteration": "zuyyina lilnnasi hubbu al-shahawati mina al-nisai wal-banina wal-qanatiri al-muqantarati mina al-dhahabi wal-fidati wal-khayli al-musawamati wal-an'ami wal-harthi dhalika mata'u al-hayati al-dun'ya wal-lahu indahu hus'nu al-maabi"
+}

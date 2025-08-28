@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "ayah": 75,
+    "surah": 4,
+    "words": 31,
+    "numberInQuran": 568,
+    "juz": 5,
+    "manzil": 1,
+    "page": 90,
+    "ruku": 71,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11231,
+      "word_number_in_surah": 1605,
+      "word_surah": 4,
+      "word_translation": "And what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11232,
+      "word_number_in_surah": 1606,
+      "word_surah": 4,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11233,
+      "word_number_in_surah": 1607,
+      "word_surah": 4,
+      "word_translation": "(that) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُقَٰتِلُونَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11234,
+      "word_number_in_surah": 1608,
+      "word_surah": 4,
+      "word_translation": "you fight",
+      "word_transliteration": "tuqatiluna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11235,
+      "word_number_in_surah": 1609,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11236,
+      "word_number_in_surah": 1610,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11237,
+      "word_number_in_surah": 1611,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡمُسۡتَضۡعَفِينَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11238,
+      "word_number_in_surah": 1612,
+      "word_surah": 4,
+      "word_translation": "and (for) those who are weak",
+      "word_transliteration": "wal-mus'tad'afina"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11239,
+      "word_number_in_surah": 1613,
+      "word_surah": 4,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلرِّجَالِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11240,
+      "word_number_in_surah": 1614,
+      "word_surah": 4,
+      "word_translation": "the men",
+      "word_transliteration": "al-rijali"
+    },
+    {
+      "word_arabic": "وَٱلنِّسَآءِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11241,
+      "word_number_in_surah": 1615,
+      "word_surah": 4,
+      "word_translation": "and the women",
+      "word_transliteration": "wal-nisai"
+    },
+    {
+      "word_arabic": "وَٱلۡوِلۡدَٰنِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11242,
+      "word_number_in_surah": 1616,
+      "word_surah": 4,
+      "word_translation": "and the children",
+      "word_transliteration": "wal-wil'dani"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11243,
+      "word_number_in_surah": 1617,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَقُولُونَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11244,
+      "word_number_in_surah": 1618,
+      "word_surah": 4,
+      "word_translation": "say",
+      "word_transliteration": "yaquluna"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11245,
+      "word_number_in_surah": 1619,
+      "word_surah": 4,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "أَخۡرِجۡنَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11246,
+      "word_number_in_surah": 1620,
+      "word_surah": 4,
+      "word_translation": "take us out",
+      "word_transliteration": "akhrij'na"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11247,
+      "word_number_in_surah": 1621,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "هَٰذِهِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11248,
+      "word_number_in_surah": 1622,
+      "word_surah": 4,
+      "word_translation": "this",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "ٱلۡقَرۡيَةِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11249,
+      "word_number_in_surah": 1623,
+      "word_surah": 4,
+      "word_translation": "[the] town",
+      "word_transliteration": "al-qaryati"
+    },
+    {
+      "word_arabic": "ٱلظَّالِمِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11250,
+      "word_number_in_surah": 1624,
+      "word_surah": 4,
+      "word_translation": "[the] oppressor(s)",
+      "word_transliteration": "al-zalimi"
+    },
+    {
+      "word_arabic": "أَهۡلُهَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11251,
+      "word_number_in_surah": 1625,
+      "word_surah": 4,
+      "word_translation": "(are) its people",
+      "word_transliteration": "ahluha"
+    },
+    {
+      "word_arabic": "وَٱجۡعَل",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11252,
+      "word_number_in_surah": 1626,
+      "word_surah": 4,
+      "word_translation": "and appoint",
+      "word_transliteration": "wa-ij'al"
+    },
+    {
+      "word_arabic": "لَّنَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11253,
+      "word_number_in_surah": 1627,
+      "word_surah": 4,
+      "word_translation": "for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 75,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11254,
+      "word_number_in_surah": 1628,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "لَّدُنكَ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11255,
+      "word_number_in_surah": 1629,
+      "word_surah": 4,
+      "word_translation": "Yourself",
+      "word_transliteration": "ladunka"
+    },
+    {
+      "word_arabic": "وَلِيّٗا",
+      "word_ayah": 75,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11256,
+      "word_number_in_surah": 1630,
+      "word_surah": 4,
+      "word_translation": "a protector",
+      "word_transliteration": "waliyyan"
+    },
+    {
+      "word_arabic": "وَٱجۡعَل",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11257,
+      "word_number_in_surah": 1631,
+      "word_surah": 4,
+      "word_translation": "and appoint",
+      "word_transliteration": "wa-ij'al"
+    },
+    {
+      "word_arabic": "لَّنَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 11258,
+      "word_number_in_surah": 1632,
+      "word_surah": 4,
+      "word_translation": "for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 75,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 11259,
+      "word_number_in_surah": 1633,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "لَّدُنكَ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 11260,
+      "word_number_in_surah": 1634,
+      "word_surah": 4,
+      "word_translation": "Yourself",
+      "word_transliteration": "ladunka"
+    },
+    {
+      "word_arabic": "نَصِيرًا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 11261,
+      "word_number_in_surah": 1635,
+      "word_surah": 4,
+      "word_translation": "a helper",
+      "word_transliteration": "nasiran"
+    }
+  ],
+  "fullArabic": "وَمَا لَكُمۡ لَا تُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِ وَٱلۡمُسۡتَضۡعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلۡوِلۡدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخۡرِجۡنَا مِنۡ هَٰذِهِ ٱلۡقَرۡيَةِ ٱلظَّالِمِ أَهۡلُهَا وَٱجۡعَل لَّنَا مِن لَّدُنكَ وَلِيّٗا وَٱجۡعَل لَّنَا مِن لَّدُنكَ نَصِيرًا",
+  "fullTranslation": "And what is [the matter] with you that you fight not in the cause of Allah and [for] the oppressed among men, women, and children who say, \"Our Lord, take us out of this city of oppressive people and appoint for us from Yourself a protector and appoint for us from Yourself a helper?\"",
+  "fullTransliteration": "wama lakum la tuqatiluna fi sabili al-lahi wal-mus'tad'afina mina al-rijali wal-nisai wal-wil'dani alladhina yaquluna rabbana akhrij'na min hadhihi al-qaryati al-zalimi ahluha wa-ij'al lana min ladunka waliyyan wa-ij'al lana min ladunka nasiran"
+}

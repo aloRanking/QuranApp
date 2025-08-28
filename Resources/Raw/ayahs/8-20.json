@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 20,
+    "surah": 8,
+    "words": 11,
+    "numberInQuran": 1180,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 148,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22828,
+      "word_number_in_surah": 281,
+      "word_surah": 8,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22829,
+      "word_number_in_surah": 282,
+      "word_surah": 8,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22830,
+      "word_number_in_surah": 283,
+      "word_surah": 8,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "أَطِيعُواْ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22831,
+      "word_number_in_surah": 284,
+      "word_surah": 8,
+      "word_translation": "Obey",
+      "word_transliteration": "ati'u"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22832,
+      "word_number_in_surah": 285,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَرَسُولَهُۥ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22833,
+      "word_number_in_surah": 286,
+      "word_surah": 8,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulahu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22834,
+      "word_number_in_surah": 287,
+      "word_surah": 8,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22835,
+      "word_number_in_surah": 288,
+      "word_surah": 8,
+      "word_translation": "turn away",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "عَنۡهُ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22836,
+      "word_number_in_surah": 289,
+      "word_surah": 8,
+      "word_translation": "from him",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22837,
+      "word_number_in_surah": 290,
+      "word_surah": 8,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَسۡمَعُونَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22838,
+      "word_number_in_surah": 291,
+      "word_surah": 8,
+      "word_translation": "hear",
+      "word_transliteration": "tasma'una"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوۡاْ عَنۡهُ وَأَنتُمۡ تَسۡمَعُونَ",
+  "fullTranslation": "O you who have believed, obey Allah and His Messenger and do not turn from him while you hear [his order].",
+  "fullTransliteration": "yaayyuha alladhina amanu ati'u al-laha warasulahu wala tawallaw anhu wa-antum tasma'una"
+}

@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "ayah": 36,
+    "surah": 8,
+    "words": 21,
+    "numberInQuran": 1196,
+    "juz": 9,
+    "manzil": 2,
+    "page": 181,
+    "ruku": 149,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23057,
+      "word_number_in_surah": 510,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23058,
+      "word_number_in_surah": 511,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23059,
+      "word_number_in_surah": 512,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23060,
+      "word_number_in_surah": 513,
+      "word_surah": 8,
+      "word_translation": "they spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَهُمۡ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23061,
+      "word_number_in_surah": 514,
+      "word_surah": 8,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwalahum"
+    },
+    {
+      "word_arabic": "لِيَصُدُّواْ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23062,
+      "word_number_in_surah": 515,
+      "word_surah": 8,
+      "word_translation": "to hinder (people)",
+      "word_transliteration": "liyasuddu"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23063,
+      "word_number_in_surah": 516,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23064,
+      "word_number_in_surah": 517,
+      "word_surah": 8,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23065,
+      "word_number_in_surah": 518,
+      "word_surah": 8,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَسَيُنفِقُونَهَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23066,
+      "word_number_in_surah": 519,
+      "word_surah": 8,
+      "word_translation": "So they will spend it",
+      "word_transliteration": "fasayunfiqunaha"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23067,
+      "word_number_in_surah": 520,
+      "word_surah": 8,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تَكُونُ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23068,
+      "word_number_in_surah": 521,
+      "word_surah": 8,
+      "word_translation": "it will be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23069,
+      "word_number_in_surah": 522,
+      "word_surah": 8,
+      "word_translation": "for them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "حَسۡرَةٗ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23070,
+      "word_number_in_surah": 523,
+      "word_surah": 8,
+      "word_translation": "a regret",
+      "word_transliteration": "hasratan"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23071,
+      "word_number_in_surah": 524,
+      "word_surah": 8,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يُغۡلَبُونَۗ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23072,
+      "word_number_in_surah": 525,
+      "word_surah": 8,
+      "word_translation": "they will be overcome",
+      "word_transliteration": "yugh'labuna"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23073,
+      "word_number_in_surah": 526,
+      "word_surah": 8,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُوٓاْ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23074,
+      "word_number_in_surah": 527,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23075,
+      "word_number_in_surah": 528,
+      "word_surah": 8,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "جَهَنَّمَ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23076,
+      "word_number_in_surah": 529,
+      "word_surah": 8,
+      "word_translation": "Hell",
+      "word_transliteration": "jahannama"
+    },
+    {
+      "word_arabic": "يُحۡشَرُونَ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 23077,
+      "word_number_in_surah": 530,
+      "word_surah": 8,
+      "word_translation": "they will be gathered",
+      "word_transliteration": "yuh'sharuna"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ يُنفِقُونَ أَمۡوَٰلَهُمۡ لِيَصُدُّواْ عَن سَبِيلِ ٱللَّهِۚ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيۡهِمۡ حَسۡرَةٗ ثُمَّ يُغۡلَبُونَۗ وَٱلَّذِينَ كَفَرُوٓاْ إِلَىٰ جَهَنَّمَ يُحۡشَرُونَ",
+  "fullTranslation": "Indeed, those who disbelieve spend their wealth to avert [people] from the way of Allah. So they will spend it; then it will be for them a [source of] regret; then they will be overcome. And those who have disbelieved - unto Hell they will be gathered.",
+  "fullTransliteration": "inna alladhina kafaru yunfiquna amwalahum liyasuddu an sabili al-lahi fasayunfiqunaha thumma takunu alayhim hasratan thumma yugh'labuna wa-alladhina kafaru ila jahannama yuh'sharuna"
+}

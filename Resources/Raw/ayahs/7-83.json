@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ayah": 83,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 1037,
+    "juz": 8,
+    "manzil": 2,
+    "page": 161,
+    "ruku": 131,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأَنجَيۡنَٰهُ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20556,
+      "word_number_in_surah": 1329,
+      "word_surah": 7,
+      "word_translation": "So We saved him",
+      "word_transliteration": "fa-anjaynahu"
+    },
+    {
+      "word_arabic": "وَأَهۡلَهُۥٓ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20557,
+      "word_number_in_surah": 1330,
+      "word_surah": 7,
+      "word_translation": "and his family",
+      "word_transliteration": "wa-ahlahu"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20558,
+      "word_number_in_surah": 1331,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱمۡرَأَتَهُۥ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20559,
+      "word_number_in_surah": 1332,
+      "word_surah": 7,
+      "word_translation": "his wife",
+      "word_transliteration": "im'ra-atahu"
+    },
+    {
+      "word_arabic": "كَانَتۡ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20560,
+      "word_number_in_surah": 1333,
+      "word_surah": 7,
+      "word_translation": "she was",
+      "word_transliteration": "kanat"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20561,
+      "word_number_in_surah": 1334,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡغَٰبِرِينَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20562,
+      "word_number_in_surah": 1335,
+      "word_surah": 7,
+      "word_translation": "those who stayed behind",
+      "word_transliteration": "al-ghabirina"
+    }
+  ],
+  "fullArabic": "فَأَنجَيۡنَٰهُ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+  "fullTranslation": "So We saved him and his family, except for his wife; she was of those who remained [with the evildoers].",
+  "fullTransliteration": "fa-anjaynahu wa-ahlahu illa im'ra-atahu kanat mina al-ghabirina"
+}

@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 61,
+    "surah": 6,
+    "words": 17,
+    "numberInQuran": 850,
+    "juz": 7,
+    "manzil": 2,
+    "page": 135,
+    "ruku": 109,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17174,
+      "word_number_in_surah": 997,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡقَاهِرُ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17175,
+      "word_number_in_surah": 998,
+      "word_surah": 6,
+      "word_translation": "(is) the Subjugator",
+      "word_transliteration": "al-qahiru"
+    },
+    {
+      "word_arabic": "فَوۡقَ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17176,
+      "word_number_in_surah": 999,
+      "word_surah": 6,
+      "word_translation": "over",
+      "word_transliteration": "fawqa"
+    },
+    {
+      "word_arabic": "عِبَادِهِۦۖ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17177,
+      "word_number_in_surah": 1000,
+      "word_surah": 6,
+      "word_translation": "His slaves",
+      "word_transliteration": "ibadihi"
+    },
+    {
+      "word_arabic": "وَيُرۡسِلُ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17178,
+      "word_number_in_surah": 1001,
+      "word_surah": 6,
+      "word_translation": "and He sends",
+      "word_transliteration": "wayur'silu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17179,
+      "word_number_in_surah": 1002,
+      "word_surah": 6,
+      "word_translation": "over you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "حَفَظَةً",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17180,
+      "word_number_in_surah": 1003,
+      "word_surah": 6,
+      "word_translation": "guardians",
+      "word_transliteration": "hafazatan"
+    },
+    {
+      "word_arabic": "حَتَّىٰٓ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17181,
+      "word_number_in_surah": 1004,
+      "word_surah": 6,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17182,
+      "word_number_in_surah": 1005,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "جَآءَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17183,
+      "word_number_in_surah": 1006,
+      "word_surah": 6,
+      "word_translation": "comes",
+      "word_transliteration": "jaa"
+    },
+    {
+      "word_arabic": "أَحَدَكُمُ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17184,
+      "word_number_in_surah": 1007,
+      "word_surah": 6,
+      "word_translation": "(to) anyone of you",
+      "word_transliteration": "ahadakumu"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتُ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17185,
+      "word_number_in_surah": 1008,
+      "word_surah": 6,
+      "word_translation": "the death",
+      "word_transliteration": "al-mawtu"
+    },
+    {
+      "word_arabic": "تَوَفَّتۡهُ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17186,
+      "word_number_in_surah": 1009,
+      "word_surah": 6,
+      "word_translation": "take him",
+      "word_transliteration": "tawaffathu"
+    },
+    {
+      "word_arabic": "رُسُلُنَا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17187,
+      "word_number_in_surah": 1010,
+      "word_surah": 6,
+      "word_translation": "Our messengers",
+      "word_transliteration": "rusuluna"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17188,
+      "word_number_in_surah": 1011,
+      "word_surah": 6,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17189,
+      "word_number_in_surah": 1012,
+      "word_surah": 6,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُفَرِّطُونَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17190,
+      "word_number_in_surah": 1013,
+      "word_surah": 6,
+      "word_translation": "fail",
+      "word_transliteration": "yufarrituna"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۖ وَيُرۡسِلُ عَلَيۡكُمۡ حَفَظَةً حَتَّىٰٓ إِذَا جَآءَ أَحَدَكُمُ ٱلۡمَوۡتُ تَوَفَّتۡهُ رُسُلُنَا وَهُمۡ لَا يُفَرِّطُونَ",
+  "fullTranslation": "And He is the subjugator over His servants, and He sends over you guardian-angels until, when death comes to one of you, Our messengers take him, and they do not fail [in their duties].",
+  "fullTransliteration": "wahuwa al-qahiru fawqa ibadihi wayur'silu alaykum hafazatan hatta idha jaa ahadakumu al-mawtu tawaffathu rusuluna wahum la yufarrituna"
+}

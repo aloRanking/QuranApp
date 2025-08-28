@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 3,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 792,
+    "juz": 7,
+    "manzil": 2,
+    "page": 128,
+    "ruku": 102,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16206,
+      "word_number_in_surah": 29,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16207,
+      "word_number_in_surah": 30,
+      "word_surah": 6,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16208,
+      "word_number_in_surah": 31,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16209,
+      "word_number_in_surah": 32,
+      "word_surah": 6,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَفِي",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16210,
+      "word_number_in_surah": 33,
+      "word_surah": 6,
+      "word_translation": "and in",
+      "word_transliteration": "wafi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16211,
+      "word_number_in_surah": 34,
+      "word_surah": 6,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "يَعۡلَمُ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16212,
+      "word_number_in_surah": 35,
+      "word_surah": 6,
+      "word_translation": "He knows",
+      "word_transliteration": "ya'lamu"
+    },
+    {
+      "word_arabic": "سِرَّكُمۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16213,
+      "word_number_in_surah": 36,
+      "word_surah": 6,
+      "word_translation": "your secret",
+      "word_transliteration": "sirrakum"
+    },
+    {
+      "word_arabic": "وَجَهۡرَكُمۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16214,
+      "word_number_in_surah": 37,
+      "word_surah": 6,
+      "word_translation": "and what you make public",
+      "word_transliteration": "wajahrakum"
+    },
+    {
+      "word_arabic": "وَيَعۡلَمُ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16215,
+      "word_number_in_surah": 38,
+      "word_surah": 6,
+      "word_translation": "and He knows",
+      "word_transliteration": "waya'lamu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16216,
+      "word_number_in_surah": 39,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَكۡسِبُونَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16217,
+      "word_number_in_surah": 40,
+      "word_surah": 6,
+      "word_translation": "you earn",
+      "word_transliteration": "taksibuna"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱللَّهُ فِي ٱلسَّمَٰوَٰتِ وَفِي ٱلۡأَرۡضِ يَعۡلَمُ سِرَّكُمۡ وَجَهۡرَكُمۡ وَيَعۡلَمُ مَا تَكۡسِبُونَ",
+  "fullTranslation": "And He is Allah, [the only deity] in the heavens and the earth. He knows your secret and what you make public, and He knows that which you earn.",
+  "fullTransliteration": "wahuwa al-lahu fi al-samawati wafi al-ardi ya'lamu sirrakum wajahrakum waya'lamu ma taksibuna"
+}

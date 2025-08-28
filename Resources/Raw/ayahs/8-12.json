@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "ayah": 12,
+    "surah": 8,
+    "words": 23,
+    "numberInQuran": 1172,
+    "juz": 9,
+    "manzil": 2,
+    "page": 178,
+    "ruku": 147,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22704,
+      "word_number_in_surah": 157,
+      "word_surah": 8,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "يُوحِي",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22705,
+      "word_number_in_surah": 158,
+      "word_surah": 8,
+      "word_translation": "inspired",
+      "word_transliteration": "yuhi"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22706,
+      "word_number_in_surah": 159,
+      "word_surah": 8,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22707,
+      "word_number_in_surah": 160,
+      "word_surah": 8,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22708,
+      "word_number_in_surah": 161,
+      "word_surah": 8,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikati"
+    },
+    {
+      "word_arabic": "أَنِّي",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22709,
+      "word_number_in_surah": 162,
+      "word_surah": 8,
+      "word_translation": "I am",
+      "word_transliteration": "anni"
+    },
+    {
+      "word_arabic": "مَعَكُمۡ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22710,
+      "word_number_in_surah": 163,
+      "word_surah": 8,
+      "word_translation": "with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "فَثَبِّتُواْ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22711,
+      "word_number_in_surah": 164,
+      "word_surah": 8,
+      "word_translation": "so strengthen",
+      "word_transliteration": "fathabbitu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22712,
+      "word_number_in_surah": 165,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْۚ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22713,
+      "word_number_in_surah": 166,
+      "word_surah": 8,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "سَأُلۡقِي",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22714,
+      "word_number_in_surah": 167,
+      "word_surah": 8,
+      "word_translation": "I will cast",
+      "word_transliteration": "sa-ul'qi"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22715,
+      "word_number_in_surah": 168,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قُلُوبِ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22716,
+      "word_number_in_surah": 169,
+      "word_surah": 8,
+      "word_translation": "(the) hearts",
+      "word_transliteration": "qulubi"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22717,
+      "word_number_in_surah": 170,
+      "word_surah": 8,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22718,
+      "word_number_in_surah": 171,
+      "word_surah": 8,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "ٱلرُّعۡبَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22719,
+      "word_number_in_surah": 172,
+      "word_surah": 8,
+      "word_translation": "the terror",
+      "word_transliteration": "al-ru'ba"
+    },
+    {
+      "word_arabic": "فَٱضۡرِبُواْ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22720,
+      "word_number_in_surah": 173,
+      "word_surah": 8,
+      "word_translation": "so strike",
+      "word_transliteration": "fa-id'ribu"
+    },
+    {
+      "word_arabic": "فَوۡقَ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22721,
+      "word_number_in_surah": 174,
+      "word_surah": 8,
+      "word_translation": "above",
+      "word_transliteration": "fawqa"
+    },
+    {
+      "word_arabic": "ٱلۡأَعۡنَاقِ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22722,
+      "word_number_in_surah": 175,
+      "word_surah": 8,
+      "word_translation": "the necks",
+      "word_transliteration": "al-a'naqi"
+    },
+    {
+      "word_arabic": "وَٱضۡرِبُواْ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22723,
+      "word_number_in_surah": 176,
+      "word_surah": 8,
+      "word_translation": "and strike",
+      "word_transliteration": "wa-id'ribu"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22724,
+      "word_number_in_surah": 177,
+      "word_surah": 8,
+      "word_translation": "from them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22725,
+      "word_number_in_surah": 178,
+      "word_surah": 8,
+      "word_translation": "every",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "بَنَانٖ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 22726,
+      "word_number_in_surah": 179,
+      "word_surah": 8,
+      "word_translation": "fingertip[s]",
+      "word_transliteration": "bananin"
+    }
+  ],
+  "fullArabic": "إِذۡ يُوحِي رَبُّكَ إِلَى ٱلۡمَلَٰٓئِكَةِ أَنِّي مَعَكُمۡ فَثَبِّتُواْ ٱلَّذِينَ ءَامَنُواْۚ سَأُلۡقِي فِي قُلُوبِ ٱلَّذِينَ كَفَرُواْ ٱلرُّعۡبَ فَٱضۡرِبُواْ فَوۡقَ ٱلۡأَعۡنَاقِ وَٱضۡرِبُواْ مِنۡهُمۡ كُلَّ بَنَانٖ",
+  "fullTranslation": "[Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\"",
+  "fullTransliteration": "idh yuhi rabbuka ila al-malaikati anni ma'akum fathabbitu alladhina amanu sa-ul'qi fi qulubi alladhina kafaru al-ru'ba fa-id'ribu fawqa al-a'naqi wa-id'ribu min'hum kulla bananin"
+}

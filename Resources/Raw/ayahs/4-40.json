@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "ayah": 40,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 533,
+    "juz": 5,
+    "manzil": 1,
+    "page": 85,
+    "ruku": 67,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10600,
+      "word_number_in_surah": 974,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10601,
+      "word_number_in_surah": 975,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10602,
+      "word_number_in_surah": 976,
+      "word_surah": 4,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَظۡلِمُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10603,
+      "word_number_in_surah": 977,
+      "word_surah": 4,
+      "word_translation": "wrong",
+      "word_transliteration": "yazlimu"
+    },
+    {
+      "word_arabic": "مِثۡقَالَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10604,
+      "word_number_in_surah": 978,
+      "word_surah": 4,
+      "word_translation": "(as much as) weight",
+      "word_transliteration": "mith'qala"
+    },
+    {
+      "word_arabic": "ذَرَّةٖۖ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10605,
+      "word_number_in_surah": 979,
+      "word_surah": 4,
+      "word_translation": "(of) an atom",
+      "word_transliteration": "dharratin"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 40,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10606,
+      "word_number_in_surah": 980,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَكُ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10607,
+      "word_number_in_surah": 981,
+      "word_surah": 4,
+      "word_translation": "there is",
+      "word_transliteration": "taku"
+    },
+    {
+      "word_arabic": "حَسَنَةٗ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10608,
+      "word_number_in_surah": 982,
+      "word_surah": 4,
+      "word_translation": "a good",
+      "word_transliteration": "hasanatan"
+    },
+    {
+      "word_arabic": "يُضَٰعِفۡهَا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10609,
+      "word_number_in_surah": 983,
+      "word_surah": 4,
+      "word_translation": "He doubles it",
+      "word_transliteration": "yuda'if'ha"
+    },
+    {
+      "word_arabic": "وَيُؤۡتِ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10610,
+      "word_number_in_surah": 984,
+      "word_surah": 4,
+      "word_translation": "and gives",
+      "word_transliteration": "wayu'ti"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 40,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10611,
+      "word_number_in_surah": 985,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "لَّدُنۡهُ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10612,
+      "word_number_in_surah": 986,
+      "word_surah": 4,
+      "word_translation": "near Him",
+      "word_transliteration": "ladun'hu"
+    },
+    {
+      "word_arabic": "أَجۡرًا",
+      "word_ayah": 40,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10613,
+      "word_number_in_surah": 987,
+      "word_surah": 4,
+      "word_translation": "a reward",
+      "word_transliteration": "ajran"
+    },
+    {
+      "word_arabic": "عَظِيمٗا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10614,
+      "word_number_in_surah": 988,
+      "word_surah": 4,
+      "word_translation": "great",
+      "word_transliteration": "aziman"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱللَّهَ لَا يَظۡلِمُ مِثۡقَالَ ذَرَّةٖۖ وَإِن تَكُ حَسَنَةٗ يُضَٰعِفۡهَا وَيُؤۡتِ مِن لَّدُنۡهُ أَجۡرًا عَظِيمٗا",
+  "fullTranslation": "Indeed, Allah does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it and gives from Himself a great reward.",
+  "fullTransliteration": "inna al-laha la yazlimu mith'qala dharratin wa-in taku hasanatan yuda'if'ha wayu'ti min ladun'hu ajran aziman"
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "ayah": 124,
+    "surah": 7,
+    "words": 8,
+    "numberInQuran": 1078,
+    "juz": 9,
+    "manzil": 2,
+    "page": 165,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَأُقَطِّعَنَّ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21067,
+      "word_number_in_surah": 1840,
+      "word_surah": 7,
+      "word_translation": "I will surely cut off",
+      "word_transliteration": "la-uqatti'anna"
+    },
+    {
+      "word_arabic": "أَيۡدِيَكُمۡ",
+      "word_ayah": 124,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21068,
+      "word_number_in_surah": 1841,
+      "word_surah": 7,
+      "word_translation": "your hands",
+      "word_transliteration": "aydiyakum"
+    },
+    {
+      "word_arabic": "وَأَرۡجُلَكُم",
+      "word_ayah": 124,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21069,
+      "word_number_in_surah": 1842,
+      "word_surah": 7,
+      "word_translation": "and your feet",
+      "word_transliteration": "wa-arjulakum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 124,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21070,
+      "word_number_in_surah": 1843,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خِلَٰفٖ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21071,
+      "word_number_in_surah": 1844,
+      "word_surah": 7,
+      "word_translation": "opposite (sides)",
+      "word_transliteration": "khilafin"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 124,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21072,
+      "word_number_in_surah": 1845,
+      "word_surah": 7,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "لَأُصَلِّبَنَّكُمۡ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21073,
+      "word_number_in_surah": 1846,
+      "word_surah": 7,
+      "word_translation": "I will surely crucify you",
+      "word_transliteration": "la-usallibannakum"
+    },
+    {
+      "word_arabic": "أَجۡمَعِينَ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21074,
+      "word_number_in_surah": 1847,
+      "word_surah": 7,
+      "word_translation": "all",
+      "word_transliteration": "ajma'ina"
+    }
+  ],
+  "fullArabic": "لَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ ثُمَّ لَأُصَلِّبَنَّكُمۡ أَجۡمَعِينَ",
+  "fullTranslation": "I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all.\"",
+  "fullTransliteration": "la-uqatti'anna aydiyakum wa-arjulakum min khilafin thumma la-usallibannakum ajma'ina"
+}

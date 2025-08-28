@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "ayah": 2,
+    "surah": 4,
+    "words": 16,
+    "numberInQuran": 495,
+    "juz": 4,
+    "manzil": 1,
+    "page": 77,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَءَاتُواْ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9655,
+      "word_number_in_surah": 29,
+      "word_surah": 4,
+      "word_translation": "And give",
+      "word_transliteration": "waatu"
+    },
+    {
+      "word_arabic": "ٱلۡيَتَٰمَىٰٓ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9656,
+      "word_number_in_surah": 30,
+      "word_surah": 4,
+      "word_translation": "(to) the orphans",
+      "word_transliteration": "al-yatama"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَهُمۡۖ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9657,
+      "word_number_in_surah": 31,
+      "word_surah": 4,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwalahum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9658,
+      "word_number_in_surah": 32,
+      "word_surah": 4,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَبَدَّلُواْ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9659,
+      "word_number_in_surah": 33,
+      "word_surah": 4,
+      "word_translation": "exchange",
+      "word_transliteration": "tatabaddalu"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيثَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9660,
+      "word_number_in_surah": 34,
+      "word_surah": 4,
+      "word_translation": "the bad",
+      "word_transliteration": "al-khabitha"
+    },
+    {
+      "word_arabic": "بِٱلطَّيِّبِۖ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9661,
+      "word_number_in_surah": 35,
+      "word_surah": 4,
+      "word_translation": "with the good",
+      "word_transliteration": "bil-tayibi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9662,
+      "word_number_in_surah": 36,
+      "word_surah": 4,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَأۡكُلُوٓاْ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9663,
+      "word_number_in_surah": 37,
+      "word_surah": 4,
+      "word_translation": "consume",
+      "word_transliteration": "takulu"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَهُمۡ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9664,
+      "word_number_in_surah": 38,
+      "word_surah": 4,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwalahum"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9665,
+      "word_number_in_surah": 39,
+      "word_surah": 4,
+      "word_translation": "with",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلِكُمۡۚ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9666,
+      "word_number_in_surah": 40,
+      "word_surah": 4,
+      "word_translation": "your wealth",
+      "word_transliteration": "amwalikum"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9667,
+      "word_number_in_surah": 41,
+      "word_surah": 4,
+      "word_translation": "Indeed it",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9668,
+      "word_number_in_surah": 42,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "حُوبٗا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9669,
+      "word_number_in_surah": 43,
+      "word_surah": 4,
+      "word_translation": "a sin",
+      "word_transliteration": "huban"
+    },
+    {
+      "word_arabic": "كَبِيرٗا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9670,
+      "word_number_in_surah": 44,
+      "word_surah": 4,
+      "word_translation": "great",
+      "word_transliteration": "kabiran"
+    }
+  ],
+  "fullArabic": "وَءَاتُواْ ٱلۡيَتَٰمَىٰٓ أَمۡوَٰلَهُمۡۖ وَلَا تَتَبَدَّلُواْ ٱلۡخَبِيثَ بِٱلطَّيِّبِۖ وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَهُمۡ إِلَىٰٓ أَمۡوَٰلِكُمۡۚ إِنَّهُۥ كَانَ حُوبٗا كَبِيرٗا",
+  "fullTranslation": "And give to the orphans their properties and do not substitute the defective [of your own] for the good [of theirs]. And do not consume their properties into your own. Indeed, that is ever a great sin.",
+  "fullTransliteration": "waatu al-yatama amwalahum wala tatabaddalu al-khabitha bil-tayibi wala takulu amwalahum ila amwalikum innahu kana huban kabiran"
+}

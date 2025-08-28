@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 65,
+    "surah": 4,
+    "words": 19,
+    "numberInQuran": 558,
+    "juz": 5,
+    "manzil": 1,
+    "page": 88,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11085,
+      "word_number_in_surah": 1459,
+      "word_surah": 4,
+      "word_translation": "But no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "وَرَبِّكَ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11086,
+      "word_number_in_surah": 1460,
+      "word_surah": 4,
+      "word_translation": "by your Lord",
+      "word_transliteration": "warabbika"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11087,
+      "word_number_in_surah": 1461,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11088,
+      "word_number_in_surah": 1462,
+      "word_surah": 4,
+      "word_translation": "will they believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11089,
+      "word_number_in_surah": 1463,
+      "word_surah": 4,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يُحَكِّمُوكَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11090,
+      "word_number_in_surah": 1464,
+      "word_surah": 4,
+      "word_translation": "they make you judge",
+      "word_transliteration": "yuhakkimuka"
+    },
+    {
+      "word_arabic": "فِيمَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11091,
+      "word_number_in_surah": 1465,
+      "word_surah": 4,
+      "word_translation": "about what",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "شَجَرَ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11092,
+      "word_number_in_surah": 1466,
+      "word_surah": 4,
+      "word_translation": "arises",
+      "word_transliteration": "shajara"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11093,
+      "word_number_in_surah": 1467,
+      "word_surah": 4,
+      "word_translation": "between them",
+      "word_transliteration": "baynahum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11094,
+      "word_number_in_surah": 1468,
+      "word_surah": 4,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11095,
+      "word_number_in_surah": 1469,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَجِدُواْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11096,
+      "word_number_in_surah": 1470,
+      "word_surah": 4,
+      "word_translation": "they find",
+      "word_transliteration": "yajidu"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11097,
+      "word_number_in_surah": 1471,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11098,
+      "word_number_in_surah": 1472,
+      "word_surah": 4,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "حَرَجٗا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11099,
+      "word_number_in_surah": 1473,
+      "word_surah": 4,
+      "word_translation": "any discomfort",
+      "word_transliteration": "harajan"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11100,
+      "word_number_in_surah": 1474,
+      "word_surah": 4,
+      "word_translation": "about what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "قَضَيۡتَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11101,
+      "word_number_in_surah": 1475,
+      "word_surah": 4,
+      "word_translation": "you (have) decided",
+      "word_transliteration": "qadayta"
+    },
+    {
+      "word_arabic": "وَيُسَلِّمُواْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11102,
+      "word_number_in_surah": 1476,
+      "word_surah": 4,
+      "word_translation": "and submit",
+      "word_transliteration": "wayusallimu"
+    },
+    {
+      "word_arabic": "تَسۡلِيمٗا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11103,
+      "word_number_in_surah": 1477,
+      "word_surah": 4,
+      "word_translation": "(in full) submission",
+      "word_transliteration": "tasliman"
+    }
+  ],
+  "fullArabic": "فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا",
+  "fullTranslation": "But no, by your Lord, they will not [truly] believe until they make you, [O Muhammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.",
+  "fullTransliteration": "fala warabbika la yu'minuna hatta yuhakkimuka fima shajara baynahum thumma la yajidu fi anfusihim harajan mimma qadayta wayusallimu tasliman"
+}

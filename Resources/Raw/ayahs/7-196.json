@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ayah": 196,
+    "surah": 7,
+    "words": 9,
+    "numberInQuran": 1150,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 196,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22423,
+      "word_number_in_surah": 3196,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "وَلِـِّۧيَ",
+      "word_ayah": 196,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22424,
+      "word_number_in_surah": 3197,
+      "word_surah": 7,
+      "word_translation": "my protector",
+      "word_transliteration": "waliyyiya"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22425,
+      "word_number_in_surah": 3198,
+      "word_surah": 7,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22426,
+      "word_number_in_surah": 3199,
+      "word_surah": 7,
+      "word_translation": "the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "نَزَّلَ",
+      "word_ayah": 196,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22427,
+      "word_number_in_surah": 3200,
+      "word_surah": 7,
+      "word_translation": "revealed",
+      "word_transliteration": "nazzala"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَۖ",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22428,
+      "word_number_in_surah": 3201,
+      "word_surah": 7,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 196,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22429,
+      "word_number_in_surah": 3202,
+      "word_surah": 7,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "يَتَوَلَّى",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22430,
+      "word_number_in_surah": 3203,
+      "word_surah": 7,
+      "word_translation": "protects",
+      "word_transliteration": "yatawalla"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحِينَ",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22431,
+      "word_number_in_surah": 3204,
+      "word_surah": 7,
+      "word_translation": "the righteous",
+      "word_transliteration": "al-salihina"
+    }
+  ],
+  "fullArabic": "إِنَّ وَلِـِّۧيَ ٱللَّهُ ٱلَّذِي نَزَّلَ ٱلۡكِتَٰبَۖ وَهُوَ يَتَوَلَّى ٱلصَّٰلِحِينَ",
+  "fullTranslation": "Indeed, my protector is Allah, who has sent down the Book; and He is an ally to the righteous.",
+  "fullTransliteration": "inna waliyyiya al-lahu alladhi nazzala al-kitaba wahuwa yatawalla al-salihina"
+}

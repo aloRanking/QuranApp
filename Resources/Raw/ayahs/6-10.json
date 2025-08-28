@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "ayah": 10,
+    "surah": 6,
+    "words": 13,
+    "numberInQuran": 799,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 102,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدِ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16310,
+      "word_number_in_surah": 133,
+      "word_surah": 6,
+      "word_translation": "And indeed",
+      "word_transliteration": "walaqadi"
+    },
+    {
+      "word_arabic": "ٱسۡتُهۡزِئَ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16311,
+      "word_number_in_surah": 134,
+      "word_surah": 6,
+      "word_translation": "were mocked",
+      "word_transliteration": "us'tuh'zi-a"
+    },
+    {
+      "word_arabic": "بِرُسُلٖ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16312,
+      "word_number_in_surah": 135,
+      "word_surah": 6,
+      "word_translation": "Messengers",
+      "word_transliteration": "birusulin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 10,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16313,
+      "word_number_in_surah": 136,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِكَ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16314,
+      "word_number_in_surah": 137,
+      "word_surah": 6,
+      "word_translation": "before you",
+      "word_transliteration": "qablika"
+    },
+    {
+      "word_arabic": "فَحَاقَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16315,
+      "word_number_in_surah": 138,
+      "word_surah": 6,
+      "word_translation": "but surrounded",
+      "word_transliteration": "fahaqa"
+    },
+    {
+      "word_arabic": "بِٱلَّذِينَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16316,
+      "word_number_in_surah": 139,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "bi-alladhina"
+    },
+    {
+      "word_arabic": "سَخِرُواْ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16317,
+      "word_number_in_surah": 140,
+      "word_surah": 6,
+      "word_translation": "scoffed",
+      "word_transliteration": "sakhiru"
+    },
+    {
+      "word_arabic": "مِنۡهُم",
+      "word_ayah": 10,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16318,
+      "word_number_in_surah": 141,
+      "word_surah": 6,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16319,
+      "word_number_in_surah": 142,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16320,
+      "word_number_in_surah": 143,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16321,
+      "word_number_in_surah": 144,
+      "word_surah": 6,
+      "word_translation": "[at it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "يَسۡتَهۡزِءُونَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16322,
+      "word_number_in_surah": 145,
+      "word_surah": 6,
+      "word_translation": "mock",
+      "word_transliteration": "yastahziuna"
+    }
+  ],
+  "fullArabic": "وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُواْ مِنۡهُم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+  "fullTranslation": "And already were messengers ridiculed before you, but those who mocked them were enveloped by that which they used to ridicule.",
+  "fullTransliteration": "walaqadi us'tuh'zi-a birusulin min qablika fahaqa bi-alladhina sakhiru min'hum ma kanu bihi yastahziuna"
+}

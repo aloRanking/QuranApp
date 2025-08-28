@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "ayah": 97,
+    "surah": 3,
+    "words": 25,
+    "numberInQuran": 390,
+    "juz": 4,
+    "manzil": 1,
+    "page": 62,
+    "ruku": 51,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7779,
+      "word_number_in_surah": 1634,
+      "word_surah": 3,
+      "word_translation": "In it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "ءَايَٰتُۢ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7780,
+      "word_number_in_surah": 1635,
+      "word_surah": 3,
+      "word_translation": "(are) signs",
+      "word_transliteration": "ayatun"
+    },
+    {
+      "word_arabic": "بَيِّنَٰتٞ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7781,
+      "word_number_in_surah": 1636,
+      "word_surah": 3,
+      "word_translation": "clear",
+      "word_transliteration": "bayyinatun"
+    },
+    {
+      "word_arabic": "مَّقَامُ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7782,
+      "word_number_in_surah": 1637,
+      "word_surah": 3,
+      "word_translation": "standing place",
+      "word_transliteration": "maqamu"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَۖ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7783,
+      "word_number_in_surah": 1638,
+      "word_surah": 3,
+      "word_translation": "(of) Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 97,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7784,
+      "word_number_in_surah": 1639,
+      "word_surah": 3,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "دَخَلَهُۥ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7785,
+      "word_number_in_surah": 1640,
+      "word_surah": 3,
+      "word_translation": "enters it",
+      "word_transliteration": "dakhalahu"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7786,
+      "word_number_in_surah": 1641,
+      "word_surah": 3,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "ءَامِنٗاۗ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7787,
+      "word_number_in_surah": 1642,
+      "word_surah": 3,
+      "word_translation": "safe",
+      "word_transliteration": "aminan"
+    },
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7788,
+      "word_number_in_surah": 1643,
+      "word_surah": 3,
+      "word_translation": "And (due) to Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7789,
+      "word_number_in_surah": 1644,
+      "word_surah": 3,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7790,
+      "word_number_in_surah": 1645,
+      "word_surah": 3,
+      "word_translation": "the mankind",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "حِجُّ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7791,
+      "word_number_in_surah": 1646,
+      "word_surah": 3,
+      "word_translation": "(is) pilgrimage",
+      "word_transliteration": "hijju"
+    },
+    {
+      "word_arabic": "ٱلۡبَيۡتِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7792,
+      "word_number_in_surah": 1647,
+      "word_surah": 3,
+      "word_translation": "(of) the House",
+      "word_transliteration": "al-bayti"
+    },
+    {
+      "word_arabic": "مَنِ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7793,
+      "word_number_in_surah": 1648,
+      "word_surah": 3,
+      "word_translation": "(for one) who",
+      "word_transliteration": "mani"
+    },
+    {
+      "word_arabic": "ٱسۡتَطَاعَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7794,
+      "word_number_in_surah": 1649,
+      "word_surah": 3,
+      "word_translation": "is able",
+      "word_transliteration": "is'tata'a"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7795,
+      "word_number_in_surah": 1650,
+      "word_surah": 3,
+      "word_translation": "to [it]",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "سَبِيلٗاۚ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7796,
+      "word_number_in_surah": 1651,
+      "word_surah": 3,
+      "word_translation": "(find) a way",
+      "word_transliteration": "sabilan"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 97,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7797,
+      "word_number_in_surah": 1652,
+      "word_surah": 3,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "كَفَرَ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7798,
+      "word_number_in_surah": 1653,
+      "word_surah": 3,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafara"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7799,
+      "word_number_in_surah": 1654,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7800,
+      "word_number_in_surah": 1655,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَنِيٌّ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7801,
+      "word_number_in_surah": 1656,
+      "word_surah": 3,
+      "word_translation": "(is) free from need",
+      "word_transliteration": "ghaniyyun"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7802,
+      "word_number_in_surah": 1657,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 7803,
+      "word_number_in_surah": 1658,
+      "word_surah": 3,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "فِيهِ ءَايَٰتُۢ بَيِّنَٰتٞ مَّقَامُ إِبۡرَٰهِيمَۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنٗاۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلۡبَيۡتِ مَنِ ٱسۡتَطَاعَ إِلَيۡهِ سَبِيلٗاۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنِ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "In it are clear signs [such as] the standing place of Abraham. And whoever enters it shall be safe. And [due] to Allah from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves - then indeed, Allah is free from need of the worlds.",
+  "fullTransliteration": "fihi ayatun bayyinatun maqamu ib'rahima waman dakhalahu kana aminan walillahi ala al-nasi hijju al-bayti mani is'tata'a ilayhi sabilan waman kafara fa-inna al-laha ghaniyyun ani al-'alamina"
+}

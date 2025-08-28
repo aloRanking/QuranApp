@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ayah": 45,
+    "surah": 4,
+    "words": 9,
+    "numberInQuran": 538,
+    "juz": 5,
+    "manzil": 1,
+    "page": 86,
+    "ruku": 68,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10703,
+      "word_number_in_surah": 1077,
+      "word_surah": 4,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10704,
+      "word_number_in_surah": 1078,
+      "word_surah": 4,
+      "word_translation": "knows better",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "بِأَعۡدَآئِكُمۡۚ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10705,
+      "word_number_in_surah": 1079,
+      "word_surah": 4,
+      "word_translation": "about your enemies",
+      "word_transliteration": "bi-a'daikum"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10706,
+      "word_number_in_surah": 1080,
+      "word_surah": 4,
+      "word_translation": "and (is) sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10707,
+      "word_number_in_surah": 1081,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَلِيّٗا",
+      "word_ayah": 45,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10708,
+      "word_number_in_surah": 1082,
+      "word_surah": 4,
+      "word_translation": "(as) a Protector",
+      "word_transliteration": "waliyyan"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10709,
+      "word_number_in_surah": 1083,
+      "word_surah": 4,
+      "word_translation": "and sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10710,
+      "word_number_in_surah": 1084,
+      "word_surah": 4,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "نَصِيرٗا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10711,
+      "word_number_in_surah": 1085,
+      "word_surah": 4,
+      "word_translation": "(as) a Helper",
+      "word_transliteration": "nasiran"
+    }
+  ],
+  "fullArabic": "وَٱللَّهُ أَعۡلَمُ بِأَعۡدَآئِكُمۡۚ وَكَفَىٰ بِٱللَّهِ وَلِيّٗا وَكَفَىٰ بِٱللَّهِ نَصِيرٗا",
+  "fullTranslation": "And Allah is most knowing of your enemies; and sufficient is Allah as an ally, and sufficient is Allah as a helper.",
+  "fullTransliteration": "wal-lahu a'lamu bi-a'daikum wakafa bil-lahi waliyyan wakafa bil-lahi nasiran"
+}

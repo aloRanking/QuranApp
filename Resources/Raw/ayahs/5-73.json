@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "ayah": 73,
+    "surah": 5,
+    "words": 25,
+    "numberInQuran": 742,
+    "juz": 6,
+    "manzil": 2,
+    "page": 120,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّقَدۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15153,
+      "word_number_in_surah": 1780,
+      "word_surah": 5,
+      "word_translation": "Certainly",
+      "word_transliteration": "laqad"
+    },
+    {
+      "word_arabic": "كَفَرَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15154,
+      "word_number_in_surah": 1781,
+      "word_surah": 5,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafara"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15155,
+      "word_number_in_surah": 1782,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15156,
+      "word_number_in_surah": 1783,
+      "word_surah": 5,
+      "word_translation": "say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15157,
+      "word_number_in_surah": 1784,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15158,
+      "word_number_in_surah": 1785,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "ثَالِثُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15159,
+      "word_number_in_surah": 1786,
+      "word_surah": 5,
+      "word_translation": "(is the) third",
+      "word_transliteration": "thalithu"
+    },
+    {
+      "word_arabic": "ثَلَٰثَةٖۘ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15160,
+      "word_number_in_surah": 1787,
+      "word_surah": 5,
+      "word_translation": "(of) three",
+      "word_transliteration": "thalathatin"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15161,
+      "word_number_in_surah": 1788,
+      "word_surah": 5,
+      "word_translation": "And (there is) no",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15162,
+      "word_number_in_surah": 1789,
+      "word_surah": 5,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "إِلَٰهٍ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15163,
+      "word_number_in_surah": 1790,
+      "word_surah": 5,
+      "word_translation": "god",
+      "word_transliteration": "ilahin"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15164,
+      "word_number_in_surah": 1791,
+      "word_surah": 5,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "إِلَٰهٞ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15165,
+      "word_number_in_surah": 1792,
+      "word_surah": 5,
+      "word_translation": "(the) God",
+      "word_transliteration": "ilahun"
+    },
+    {
+      "word_arabic": "وَٰحِدٞۚ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15166,
+      "word_number_in_surah": 1793,
+      "word_surah": 5,
+      "word_translation": "(the) One",
+      "word_transliteration": "wahidun"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 73,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15167,
+      "word_number_in_surah": 1794,
+      "word_surah": 5,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15168,
+      "word_number_in_surah": 1795,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَنتَهُواْ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15169,
+      "word_number_in_surah": 1796,
+      "word_surah": 5,
+      "word_translation": "they desist",
+      "word_transliteration": "yantahu"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15170,
+      "word_number_in_surah": 1797,
+      "word_surah": 5,
+      "word_translation": "from what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "يَقُولُونَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15171,
+      "word_number_in_surah": 1798,
+      "word_surah": 5,
+      "word_translation": "they are saying",
+      "word_transliteration": "yaquluna"
+    },
+    {
+      "word_arabic": "لَيَمَسَّنَّ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15172,
+      "word_number_in_surah": 1799,
+      "word_surah": 5,
+      "word_translation": "surely will afflict",
+      "word_transliteration": "layamassanna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15173,
+      "word_number_in_surah": 1800,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15174,
+      "word_number_in_surah": 1801,
+      "word_surah": 5,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15175,
+      "word_number_in_surah": 1802,
+      "word_surah": 5,
+      "word_translation": "among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "عَذَابٌ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15176,
+      "word_number_in_surah": 1803,
+      "word_surah": 5,
+      "word_translation": "a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "أَلِيمٌ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 15177,
+      "word_number_in_surah": 1804,
+      "word_surah": 5,
+      "word_translation": "painful",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "لَّقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٖۘ وَمَا مِنۡ إِلَٰهٍ إِلَّآ إِلَٰهٞ وَٰحِدٞۚ وَإِن لَّمۡ يَنتَهُواْ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابٌ أَلِيمٌ",
+  "fullTranslation": "They have certainly disbelieved who say, \"Allah is the third of three.\" And there is no god except one God. And if they do not desist from what they are saying, there will surely afflict the disbelievers among them a painful punishment.",
+  "fullTransliteration": "laqad kafara alladhina qalu inna al-laha thalithu thalathatin wama min ilahin illa ilahun wahidun wa-in lam yantahu amma yaquluna layamassanna alladhina kafaru min'hum adhabun alimun"
+}

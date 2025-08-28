@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ayah": 197,
+    "surah": 3,
+    "words": 7,
+    "numberInQuran": 490,
+    "juz": 4,
+    "manzil": 1,
+    "page": 76,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَتَٰعٞ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9559,
+      "word_number_in_surah": 3414,
+      "word_surah": 3,
+      "word_translation": "An enjoyment",
+      "word_transliteration": "mata'un"
+    },
+    {
+      "word_arabic": "قَلِيلٞ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9560,
+      "word_number_in_surah": 3415,
+      "word_surah": 3,
+      "word_translation": "little",
+      "word_transliteration": "qalilun"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9561,
+      "word_number_in_surah": 3416,
+      "word_surah": 3,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "مَأۡوَىٰهُمۡ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9562,
+      "word_number_in_surah": 3417,
+      "word_surah": 3,
+      "word_translation": "their abode",
+      "word_transliteration": "mawahum"
+    },
+    {
+      "word_arabic": "جَهَنَّمُۖ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9563,
+      "word_number_in_surah": 3418,
+      "word_surah": 3,
+      "word_translation": "(is) hell",
+      "word_transliteration": "jahannamu"
+    },
+    {
+      "word_arabic": "وَبِئۡسَ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9564,
+      "word_number_in_surah": 3419,
+      "word_surah": 3,
+      "word_translation": "[and] a wretched",
+      "word_transliteration": "wabi'sa"
+    },
+    {
+      "word_arabic": "ٱلۡمِهَادُ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9565,
+      "word_number_in_surah": 3420,
+      "word_surah": 3,
+      "word_translation": "[the] resting place",
+      "word_transliteration": "al-mihadu"
+    }
+  ],
+  "fullArabic": "مَتَٰعٞ قَلِيلٞ ثُمَّ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ",
+  "fullTranslation": "[It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place.",
+  "fullTransliteration": "mata'un qalilun thumma mawahum jahannamu wabi'sa al-mihadu"
+}

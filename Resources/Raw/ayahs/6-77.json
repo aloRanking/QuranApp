@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 77,
+    "surah": 6,
+    "words": 18,
+    "numberInQuran": 866,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17460,
+      "word_number_in_surah": 1283,
+      "word_surah": 6,
+      "word_translation": "When",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "رَءَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17461,
+      "word_number_in_surah": 1284,
+      "word_surah": 6,
+      "word_translation": "he saw",
+      "word_transliteration": "raa"
+    },
+    {
+      "word_arabic": "ٱلۡقَمَرَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17462,
+      "word_number_in_surah": 1285,
+      "word_surah": 6,
+      "word_translation": "the moon",
+      "word_transliteration": "al-qamara"
+    },
+    {
+      "word_arabic": "بَازِغٗا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17463,
+      "word_number_in_surah": 1286,
+      "word_surah": 6,
+      "word_translation": "rising",
+      "word_transliteration": "bazighan"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17464,
+      "word_number_in_surah": 1287,
+      "word_surah": 6,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17465,
+      "word_number_in_surah": 1288,
+      "word_surah": 6,
+      "word_translation": "This",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "رَبِّيۖ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17466,
+      "word_number_in_surah": 1289,
+      "word_surah": 6,
+      "word_translation": "(is) my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17467,
+      "word_number_in_surah": 1290,
+      "word_surah": 6,
+      "word_translation": "But when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَفَلَ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17468,
+      "word_number_in_surah": 1291,
+      "word_surah": 6,
+      "word_translation": "it set",
+      "word_transliteration": "afala"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17469,
+      "word_number_in_surah": 1292,
+      "word_surah": 6,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "لَئِن",
+      "word_ayah": 77,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17470,
+      "word_number_in_surah": 1293,
+      "word_surah": 6,
+      "word_translation": "If",
+      "word_transliteration": "la-in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17471,
+      "word_number_in_surah": 1294,
+      "word_surah": 6,
+      "word_translation": "(does) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَهۡدِنِي",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17472,
+      "word_number_in_surah": 1295,
+      "word_surah": 6,
+      "word_translation": "guide me",
+      "word_transliteration": "yahdini"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17473,
+      "word_number_in_surah": 1296,
+      "word_surah": 6,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "لَأَكُونَنَّ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17474,
+      "word_number_in_surah": 1297,
+      "word_surah": 6,
+      "word_translation": "I will surely be",
+      "word_transliteration": "la-akunanna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17475,
+      "word_number_in_surah": 1298,
+      "word_surah": 6,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17476,
+      "word_number_in_surah": 1299,
+      "word_surah": 6,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلضَّآلِّينَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17477,
+      "word_number_in_surah": 1300,
+      "word_surah": 6,
+      "word_translation": "who went astray",
+      "word_transliteration": "al-dalina"
+    }
+  ],
+  "fullArabic": "فَلَمَّا رَءَا ٱلۡقَمَرَ بَازِغٗا قَالَ هَٰذَا رَبِّيۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمۡ يَهۡدِنِي رَبِّي لَأَكُونَنَّ مِنَ ٱلۡقَوۡمِ ٱلضَّآلِّينَ",
+  "fullTranslation": "And when he saw the moon rising, he said, \"This is my lord.\" But when it set, he said, \"Unless my Lord guides me, I will surely be among the people gone astray.\"",
+  "fullTransliteration": "falamma raa al-qamara bazighan qala hadha rabbi falamma afala qala la-in lam yahdini rabbi la-akunanna mina al-qawmi al-dalina"
+}

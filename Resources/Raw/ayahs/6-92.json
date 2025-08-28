@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "ayah": 92,
+    "surah": 6,
+    "words": 22,
+    "numberInQuran": 881,
+    "juz": 7,
+    "manzil": 2,
+    "page": 139,
+    "ruku": 112,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهَٰذَا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17717,
+      "word_number_in_surah": 1540,
+      "word_surah": 6,
+      "word_translation": "And this",
+      "word_transliteration": "wahadha"
+    },
+    {
+      "word_arabic": "كِتَٰبٌ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17718,
+      "word_number_in_surah": 1541,
+      "word_surah": 6,
+      "word_translation": "(is) a Book",
+      "word_transliteration": "kitabun"
+    },
+    {
+      "word_arabic": "أَنزَلۡنَٰهُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17719,
+      "word_number_in_surah": 1542,
+      "word_surah": 6,
+      "word_translation": "We have revealed it",
+      "word_transliteration": "anzalnahu"
+    },
+    {
+      "word_arabic": "مُبَارَكٞ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17720,
+      "word_number_in_surah": 1543,
+      "word_surah": 6,
+      "word_translation": "blessed",
+      "word_transliteration": "mubarakun"
+    },
+    {
+      "word_arabic": "مُّصَدِّقُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17721,
+      "word_number_in_surah": 1544,
+      "word_surah": 6,
+      "word_translation": "confirming",
+      "word_transliteration": "musaddiqu"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17722,
+      "word_number_in_surah": 1545,
+      "word_surah": 6,
+      "word_translation": "which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17723,
+      "word_number_in_surah": 1546,
+      "word_surah": 6,
+      "word_translation": "came",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "يَدَيۡهِ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17724,
+      "word_number_in_surah": 1547,
+      "word_surah": 6,
+      "word_translation": "before it",
+      "word_transliteration": "yadayhi"
+    },
+    {
+      "word_arabic": "وَلِتُنذِرَ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17725,
+      "word_number_in_surah": 1548,
+      "word_surah": 6,
+      "word_translation": "so that you may warn",
+      "word_transliteration": "walitundhira"
+    },
+    {
+      "word_arabic": "أُمَّ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17726,
+      "word_number_in_surah": 1549,
+      "word_surah": 6,
+      "word_translation": "(the) mother",
+      "word_transliteration": "umma"
+    },
+    {
+      "word_arabic": "ٱلۡقُرَىٰ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17727,
+      "word_number_in_surah": 1550,
+      "word_surah": 6,
+      "word_translation": "(of) the cities",
+      "word_transliteration": "al-qura"
+    },
+    {
+      "word_arabic": "وَمَنۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17728,
+      "word_number_in_surah": 1551,
+      "word_surah": 6,
+      "word_translation": "and who",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "حَوۡلَهَاۚ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17729,
+      "word_number_in_surah": 1552,
+      "word_surah": 6,
+      "word_translation": "(are) around it",
+      "word_transliteration": "hawlaha"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17730,
+      "word_number_in_surah": 1553,
+      "word_surah": 6,
+      "word_translation": "Those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17731,
+      "word_number_in_surah": 1554,
+      "word_surah": 6,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱلۡأٓخِرَةِ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17732,
+      "word_number_in_surah": 1555,
+      "word_surah": 6,
+      "word_translation": "in the Hereafter",
+      "word_transliteration": "bil-akhirati"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17733,
+      "word_number_in_surah": 1556,
+      "word_surah": 6,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِهِۦۖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17734,
+      "word_number_in_surah": 1557,
+      "word_surah": 6,
+      "word_translation": "in it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17735,
+      "word_number_in_surah": 1558,
+      "word_surah": 6,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17736,
+      "word_number_in_surah": 1559,
+      "word_surah": 6,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "صَلَاتِهِمۡ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17737,
+      "word_number_in_surah": 1560,
+      "word_surah": 6,
+      "word_translation": "their prayers",
+      "word_transliteration": "salatihim"
+    },
+    {
+      "word_arabic": "يُحَافِظُونَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17738,
+      "word_number_in_surah": 1561,
+      "word_surah": 6,
+      "word_translation": "(are) guarding",
+      "word_transliteration": "yuhafizuna"
+    }
+  ],
+  "fullArabic": "وَهَٰذَا كِتَٰبٌ أَنزَلۡنَٰهُ مُبَارَكٞ مُّصَدِّقُ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَلِتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَاۚ وَٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ يُؤۡمِنُونَ بِهِۦۖ وَهُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ",
+  "fullTranslation": "And this is a Book which We have sent down, blessed and confirming what was before it, that you may warn the Mother of Cities and those around it. Those who believe in the Hereafter believe in it, and they are maintaining their prayers.",
+  "fullTransliteration": "wahadha kitabun anzalnahu mubarakun musaddiqu alladhi bayna yadayhi walitundhira umma al-qura waman hawlaha wa-alladhina yu'minuna bil-akhirati yu'minuna bihi wahum ala salatihim yuhafizuna"
+}

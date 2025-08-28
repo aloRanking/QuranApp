@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "ayah": 43,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 832,
+    "juz": 7,
+    "manzil": 2,
+    "page": 132,
+    "ruku": 106,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَوۡلَآ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16843,
+      "word_number_in_surah": 666,
+      "word_surah": 6,
+      "word_translation": "Then why not",
+      "word_transliteration": "falawla"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16844,
+      "word_number_in_surah": 667,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "جَآءَهُم",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16845,
+      "word_number_in_surah": 668,
+      "word_surah": 6,
+      "word_translation": "came to them",
+      "word_transliteration": "jaahum"
+    },
+    {
+      "word_arabic": "بَأۡسُنَا",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16846,
+      "word_number_in_surah": 669,
+      "word_surah": 6,
+      "word_translation": "Our punishment",
+      "word_transliteration": "basuna"
+    },
+    {
+      "word_arabic": "تَضَرَّعُواْ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16847,
+      "word_number_in_surah": 670,
+      "word_surah": 6,
+      "word_translation": "they humbled themselves",
+      "word_transliteration": "tadarra'u"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16848,
+      "word_number_in_surah": 671,
+      "word_surah": 6,
+      "word_translation": "But",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "قَسَتۡ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16849,
+      "word_number_in_surah": 672,
+      "word_surah": 6,
+      "word_translation": "became hardened",
+      "word_transliteration": "qasat"
+    },
+    {
+      "word_arabic": "قُلُوبُهُمۡ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16850,
+      "word_number_in_surah": 673,
+      "word_surah": 6,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubuhum"
+    },
+    {
+      "word_arabic": "وَزَيَّنَ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16851,
+      "word_number_in_surah": 674,
+      "word_surah": 6,
+      "word_translation": "and made fair-seeming",
+      "word_transliteration": "wazayyana"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16852,
+      "word_number_in_surah": 675,
+      "word_surah": 6,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16853,
+      "word_number_in_surah": 676,
+      "word_surah": 6,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16854,
+      "word_number_in_surah": 677,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16855,
+      "word_number_in_surah": 678,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16856,
+      "word_number_in_surah": 679,
+      "word_surah": 6,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "فَلَوۡلَآ إِذۡ جَآءَهُم بَأۡسُنَا تَضَرَّعُواْ وَلَٰكِن قَسَتۡ قُلُوبُهُمۡ وَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ مَا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing.",
+  "fullTransliteration": "falawla idh jaahum basuna tadarra'u walakin qasat qulubuhum wazayyana lahumu al-shaytanu ma kanu ya'maluna"
+}

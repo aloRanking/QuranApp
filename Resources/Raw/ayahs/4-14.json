@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 14,
+    "surah": 4,
+    "words": 13,
+    "numberInQuran": 507,
+    "juz": 4,
+    "manzil": 1,
+    "page": 79,
+    "ruku": 63,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 14,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10003,
+      "word_number_in_surah": 377,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَعۡصِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10004,
+      "word_number_in_surah": 378,
+      "word_surah": 4,
+      "word_translation": "disobeys",
+      "word_transliteration": "ya'si"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10005,
+      "word_number_in_surah": 379,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَرَسُولَهُۥ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10006,
+      "word_number_in_surah": 380,
+      "word_surah": 4,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulahu"
+    },
+    {
+      "word_arabic": "وَيَتَعَدَّ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10007,
+      "word_number_in_surah": 381,
+      "word_surah": 4,
+      "word_translation": "and transgresses",
+      "word_transliteration": "wayata'adda"
+    },
+    {
+      "word_arabic": "حُدُودَهُۥ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10008,
+      "word_number_in_surah": 382,
+      "word_surah": 4,
+      "word_translation": "His limits",
+      "word_transliteration": "hududahu"
+    },
+    {
+      "word_arabic": "يُدۡخِلۡهُ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10009,
+      "word_number_in_surah": 383,
+      "word_surah": 4,
+      "word_translation": "He will admit him",
+      "word_transliteration": "yud'khil'hu"
+    },
+    {
+      "word_arabic": "نَارًا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10010,
+      "word_number_in_surah": 384,
+      "word_surah": 4,
+      "word_translation": "(to) Fire",
+      "word_transliteration": "naran"
+    },
+    {
+      "word_arabic": "خَٰلِدٗا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10011,
+      "word_number_in_surah": 385,
+      "word_surah": 4,
+      "word_translation": "(will) abide forever",
+      "word_transliteration": "khalidan"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10012,
+      "word_number_in_surah": 386,
+      "word_surah": 4,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَلَهُۥ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10013,
+      "word_number_in_surah": 387,
+      "word_surah": 4,
+      "word_translation": "And for him",
+      "word_transliteration": "walahu"
+    },
+    {
+      "word_arabic": "عَذَابٞ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10014,
+      "word_number_in_surah": 388,
+      "word_surah": 4,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "مُّهِينٞ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10015,
+      "word_number_in_surah": 389,
+      "word_surah": 4,
+      "word_translation": "humiliating",
+      "word_transliteration": "muhinun"
+    }
+  ],
+  "fullArabic": "وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدۡخِلۡهُ نَارًا خَٰلِدٗا فِيهَا وَلَهُۥ عَذَابٞ مُّهِينٞ",
+  "fullTranslation": "And whoever disobeys Allah and His Messenger and transgresses His limits - He will put him into the Fire to abide eternally therein, and he will have a humiliating punishment.",
+  "fullTransliteration": "waman ya'si al-laha warasulahu wayata'adda hududahu yud'khil'hu naran khalidan fiha walahu adhabun muhinun"
+}

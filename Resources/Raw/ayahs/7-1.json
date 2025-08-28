@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "ayah": 1,
+    "surah": 7,
+    "words": 1,
+    "numberInQuran": 955,
+    "juz": 8,
+    "manzil": 2,
+    "page": 151,
+    "ruku": 122,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "الٓمٓصٓ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19228,
+      "word_number_in_surah": 1,
+      "word_surah": 7,
+      "word_translation": "Alif Laam Meem Saad",
+      "word_transliteration": "alif-lam-meem-sad"
+    }
+  ],
+  "fullArabic": "الٓمٓصٓ",
+  "fullTranslation": "Alif, Lam, Meem, Sad.",
+  "fullTransliteration": "alif-lam-meem-sad"
+}

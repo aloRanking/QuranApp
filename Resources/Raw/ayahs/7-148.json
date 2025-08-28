@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "ayah": 148,
+    "surah": 7,
+    "words": 22,
+    "numberInQuran": 1102,
+    "juz": 9,
+    "manzil": 2,
+    "page": 168,
+    "ruku": 139,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱتَّخَذَ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21492,
+      "word_number_in_surah": 2265,
+      "word_surah": 7,
+      "word_translation": "And took",
+      "word_transliteration": "wa-ittakhadha"
+    },
+    {
+      "word_arabic": "قَوۡمُ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21493,
+      "word_number_in_surah": 2266,
+      "word_surah": 7,
+      "word_translation": "(the) people",
+      "word_transliteration": "qawmu"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21494,
+      "word_number_in_surah": 2267,
+      "word_surah": 7,
+      "word_translation": "(of) Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21495,
+      "word_number_in_surah": 2268,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِۦ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21496,
+      "word_number_in_surah": 2269,
+      "word_surah": 7,
+      "word_translation": "after him",
+      "word_transliteration": "ba'dihi"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21497,
+      "word_number_in_surah": 2270,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حُلِيِّهِمۡ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21498,
+      "word_number_in_surah": 2271,
+      "word_surah": 7,
+      "word_translation": "their ornaments",
+      "word_transliteration": "huliyyihim"
+    },
+    {
+      "word_arabic": "عِجۡلٗا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21499,
+      "word_number_in_surah": 2272,
+      "word_surah": 7,
+      "word_translation": "a calf",
+      "word_transliteration": "ij'lan"
+    },
+    {
+      "word_arabic": "جَسَدٗا",
+      "word_ayah": 148,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21500,
+      "word_number_in_surah": 2273,
+      "word_surah": 7,
+      "word_translation": "an image",
+      "word_transliteration": "jasadan"
+    },
+    {
+      "word_arabic": "لَّهُۥ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21501,
+      "word_number_in_surah": 2274,
+      "word_surah": 7,
+      "word_translation": "[for] it",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "خُوَارٌۚ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21502,
+      "word_number_in_surah": 2275,
+      "word_surah": 7,
+      "word_translation": "(had) a lowing sound",
+      "word_transliteration": "khuwarun"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21503,
+      "word_number_in_surah": 2276,
+      "word_surah": 7,
+      "word_translation": "Did not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "يَرَوۡاْ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21504,
+      "word_number_in_surah": 2277,
+      "word_surah": 7,
+      "word_translation": "they see",
+      "word_transliteration": "yaraw"
+    },
+    {
+      "word_arabic": "أَنَّهُۥ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21505,
+      "word_number_in_surah": 2278,
+      "word_surah": 7,
+      "word_translation": "that it",
+      "word_transliteration": "annahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21506,
+      "word_number_in_surah": 2279,
+      "word_surah": 7,
+      "word_translation": "(could) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُكَلِّمُهُمۡ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21507,
+      "word_number_in_surah": 2280,
+      "word_surah": 7,
+      "word_translation": "speak to them",
+      "word_transliteration": "yukallimuhum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21508,
+      "word_number_in_surah": 2281,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَهۡدِيهِمۡ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21509,
+      "word_number_in_surah": 2282,
+      "word_surah": 7,
+      "word_translation": "guide them",
+      "word_transliteration": "yahdihim"
+    },
+    {
+      "word_arabic": "سَبِيلًاۘ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21510,
+      "word_number_in_surah": 2283,
+      "word_surah": 7,
+      "word_translation": "(to) a way",
+      "word_transliteration": "sabilan"
+    },
+    {
+      "word_arabic": "ٱتَّخَذُوهُ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21511,
+      "word_number_in_surah": 2284,
+      "word_surah": 7,
+      "word_translation": "They took it (for worship)",
+      "word_transliteration": "ittakhadhuhu"
+    },
+    {
+      "word_arabic": "وَكَانُواْ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 21512,
+      "word_number_in_surah": 2285,
+      "word_surah": 7,
+      "word_translation": "and they were",
+      "word_transliteration": "wakanu"
+    },
+    {
+      "word_arabic": "ظَٰلِمِينَ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 21513,
+      "word_number_in_surah": 2286,
+      "word_surah": 7,
+      "word_translation": "wrongdoers",
+      "word_transliteration": "zalimina"
+    }
+  ],
+  "fullArabic": "وَٱتَّخَذَ قَوۡمُ مُوسَىٰ مِنۢ بَعۡدِهِۦ مِنۡ حُلِيِّهِمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٌۚ أَلَمۡ يَرَوۡاْ أَنَّهُۥ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيهِمۡ سَبِيلًاۘ ٱتَّخَذُوهُ وَكَانُواْ ظَٰلِمِينَ",
+  "fullTranslation": "And the people of Moses made, after [his departure], from their ornaments a calf - an image having a lowing sound. Did they not see that it could neither speak to them nor guide them to a way? They took it [for worship], and they were wrongdoers.",
+  "fullTransliteration": "wa-ittakhadha qawmu musa min ba'dihi min huliyyihim ij'lan jasadan lahu khuwarun alam yaraw annahu la yukallimuhum wala yahdihim sabilan ittakhadhuhu wakanu zalimina"
+}

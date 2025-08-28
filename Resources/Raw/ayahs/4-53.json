@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ayah": 53,
+    "surah": 4,
+    "words": 10,
+    "numberInQuran": 546,
+    "juz": 5,
+    "manzil": 1,
+    "page": 87,
+    "ruku": 69,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10853,
+      "word_number_in_surah": 1227,
+      "word_surah": 4,
+      "word_translation": "Or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10854,
+      "word_number_in_surah": 1228,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "نَصِيبٞ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10855,
+      "word_number_in_surah": 1229,
+      "word_surah": 4,
+      "word_translation": "(is) a share",
+      "word_transliteration": "nasibun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10856,
+      "word_number_in_surah": 1230,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُلۡكِ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10857,
+      "word_number_in_surah": 1231,
+      "word_surah": 4,
+      "word_translation": "the Kingdom",
+      "word_transliteration": "al-mul'ki"
+    },
+    {
+      "word_arabic": "فَإِذٗا",
+      "word_ayah": 53,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10858,
+      "word_number_in_surah": 1232,
+      "word_surah": 4,
+      "word_translation": "Then",
+      "word_transliteration": "fa-idhan"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10859,
+      "word_number_in_surah": 1233,
+      "word_surah": 4,
+      "word_translation": "not would",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡتُونَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10860,
+      "word_number_in_surah": 1234,
+      "word_surah": 4,
+      "word_translation": "they give",
+      "word_transliteration": "yu'tuna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10861,
+      "word_number_in_surah": 1235,
+      "word_surah": 4,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasa"
+    },
+    {
+      "word_arabic": "نَقِيرًا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10862,
+      "word_number_in_surah": 1236,
+      "word_surah": 4,
+      "word_translation": "(even as much as the) speck on a date seed",
+      "word_transliteration": "naqiran"
+    }
+  ],
+  "fullArabic": "أَمۡ لَهُمۡ نَصِيبٞ مِّنَ ٱلۡمُلۡكِ فَإِذٗا لَّا يُؤۡتُونَ ٱلنَّاسَ نَقِيرًا",
+  "fullTranslation": "Or have they a share of dominion? Then [if that were so], they would not give the people [even as much as] the speck on a date seed.",
+  "fullTransliteration": "am lahum nasibun mina al-mul'ki fa-idhan la yu'tuna al-nasa naqiran"
+}

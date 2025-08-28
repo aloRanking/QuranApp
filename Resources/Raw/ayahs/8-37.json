@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 37,
+    "surah": 8,
+    "words": 18,
+    "numberInQuran": 1197,
+    "juz": 9,
+    "manzil": 2,
+    "page": 181,
+    "ruku": 149,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لِيَمِيزَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23078,
+      "word_number_in_surah": 531,
+      "word_surah": 8,
+      "word_translation": "That may distinguish",
+      "word_transliteration": "liyamiza"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23079,
+      "word_number_in_surah": 532,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيثَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23080,
+      "word_number_in_surah": 533,
+      "word_surah": 8,
+      "word_translation": "the wicked",
+      "word_transliteration": "al-khabitha"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23081,
+      "word_number_in_surah": 534,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلطَّيِّبِ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23082,
+      "word_number_in_surah": 535,
+      "word_surah": 8,
+      "word_translation": "the good",
+      "word_transliteration": "al-tayibi"
+    },
+    {
+      "word_arabic": "وَيَجۡعَلَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23083,
+      "word_number_in_surah": 536,
+      "word_surah": 8,
+      "word_translation": "and place",
+      "word_transliteration": "wayaj'ala"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيثَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23084,
+      "word_number_in_surah": 537,
+      "word_surah": 8,
+      "word_translation": "the wicked",
+      "word_transliteration": "al-khabitha"
+    },
+    {
+      "word_arabic": "بَعۡضَهُۥ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23085,
+      "word_number_in_surah": 538,
+      "word_surah": 8,
+      "word_translation": "some of them",
+      "word_transliteration": "ba'dahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23086,
+      "word_number_in_surah": 539,
+      "word_surah": 8,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "بَعۡضٖ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23087,
+      "word_number_in_surah": 540,
+      "word_surah": 8,
+      "word_translation": "others",
+      "word_transliteration": "ba'din"
+    },
+    {
+      "word_arabic": "فَيَرۡكُمَهُۥ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23088,
+      "word_number_in_surah": 541,
+      "word_surah": 8,
+      "word_translation": "and heap them",
+      "word_transliteration": "fayarkumahu"
+    },
+    {
+      "word_arabic": "جَمِيعٗا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23089,
+      "word_number_in_surah": 542,
+      "word_surah": 8,
+      "word_translation": "all together",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "فَيَجۡعَلَهُۥ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23090,
+      "word_number_in_surah": 543,
+      "word_surah": 8,
+      "word_translation": "and put them",
+      "word_transliteration": "fayaj'alahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23091,
+      "word_number_in_surah": 544,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "جَهَنَّمَۚ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23092,
+      "word_number_in_surah": 545,
+      "word_surah": 8,
+      "word_translation": "Hell",
+      "word_transliteration": "jahannama"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23093,
+      "word_number_in_surah": 546,
+      "word_surah": 8,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23094,
+      "word_number_in_surah": 547,
+      "word_surah": 8,
+      "word_translation": "they",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰسِرُونَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23095,
+      "word_number_in_surah": 548,
+      "word_surah": 8,
+      "word_translation": "(are) the losers",
+      "word_transliteration": "al-khasiruna"
+    }
+  ],
+  "fullArabic": "لِيَمِيزَ ٱللَّهُ ٱلۡخَبِيثَ مِنَ ٱلطَّيِّبِ وَيَجۡعَلَ ٱلۡخَبِيثَ بَعۡضَهُۥ عَلَىٰ بَعۡضٖ فَيَرۡكُمَهُۥ جَمِيعٗا فَيَجۡعَلَهُۥ فِي جَهَنَّمَۚ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+  "fullTranslation": "[This is] so that Allah may distinguish the wicked from the good and place the wicked some of them upon others and heap them all together and put them into Hell. It is those who are the losers.",
+  "fullTransliteration": "liyamiza al-lahu al-khabitha mina al-tayibi wayaj'ala al-khabitha ba'dahu ala ba'din fayarkumahu jami'an fayaj'alahu fi jahannama ulaika humu al-khasiruna"
+}

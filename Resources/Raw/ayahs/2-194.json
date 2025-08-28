@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "ayah": 194,
+    "surah": 2,
+    "words": 22,
+    "numberInQuran": 201,
+    "juz": 2,
+    "manzil": 1,
+    "page": 30,
+    "ruku": 25,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلشَّهۡرُ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3591,
+      "word_number_in_surah": 3562,
+      "word_surah": 2,
+      "word_translation": "The month",
+      "word_transliteration": "al-shahru"
+    },
+    {
+      "word_arabic": "ٱلۡحَرَامُ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3592,
+      "word_number_in_surah": 3563,
+      "word_surah": 2,
+      "word_translation": "[the] sacred",
+      "word_transliteration": "al-haramu"
+    },
+    {
+      "word_arabic": "بِٱلشَّهۡرِ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3593,
+      "word_number_in_surah": 3564,
+      "word_surah": 2,
+      "word_translation": "(is) for the month",
+      "word_transliteration": "bil-shahri"
+    },
+    {
+      "word_arabic": "ٱلۡحَرَامِ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3594,
+      "word_number_in_surah": 3565,
+      "word_surah": 2,
+      "word_translation": "[the] sacred",
+      "word_transliteration": "al-harami"
+    },
+    {
+      "word_arabic": "وَٱلۡحُرُمَٰتُ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3595,
+      "word_number_in_surah": 3566,
+      "word_surah": 2,
+      "word_translation": "and for all the violations",
+      "word_transliteration": "wal-hurumatu"
+    },
+    {
+      "word_arabic": "قِصَاصٞۚ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3596,
+      "word_number_in_surah": 3567,
+      "word_surah": 2,
+      "word_translation": "(is) legal retribution",
+      "word_transliteration": "qisasun"
+    },
+    {
+      "word_arabic": "فَمَنِ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3597,
+      "word_number_in_surah": 3568,
+      "word_surah": 2,
+      "word_translation": "Then whoever",
+      "word_transliteration": "famani"
+    },
+    {
+      "word_arabic": "ٱعۡتَدَىٰ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3598,
+      "word_number_in_surah": 3569,
+      "word_surah": 2,
+      "word_translation": "transgressed",
+      "word_transliteration": "i'tada"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3599,
+      "word_number_in_surah": 3570,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "فَٱعۡتَدُواْ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3600,
+      "word_number_in_surah": 3571,
+      "word_surah": 2,
+      "word_translation": "then you transgress",
+      "word_transliteration": "fa-i'tadu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3601,
+      "word_number_in_surah": 3572,
+      "word_surah": 2,
+      "word_translation": "on him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "بِمِثۡلِ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3602,
+      "word_number_in_surah": 3573,
+      "word_surah": 2,
+      "word_translation": "in (the) same manner",
+      "word_transliteration": "bimith'li"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3603,
+      "word_number_in_surah": 3574,
+      "word_surah": 2,
+      "word_translation": "(as)",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ٱعۡتَدَىٰ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3604,
+      "word_number_in_surah": 3575,
+      "word_surah": 2,
+      "word_translation": "he transgressed",
+      "word_transliteration": "i'tada"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡۚ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3605,
+      "word_number_in_surah": 3576,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3606,
+      "word_number_in_surah": 3577,
+      "word_surah": 2,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3607,
+      "word_number_in_surah": 3578,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٱعۡلَمُوٓاْ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3608,
+      "word_number_in_surah": 3579,
+      "word_surah": 2,
+      "word_translation": "and know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3609,
+      "word_number_in_surah": 3580,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3610,
+      "word_number_in_surah": 3581,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3611,
+      "word_number_in_surah": 3582,
+      "word_surah": 2,
+      "word_translation": "(is) with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلۡمُتَّقِينَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3612,
+      "word_number_in_surah": 3583,
+      "word_surah": 2,
+      "word_translation": "those who fear (Him)",
+      "word_transliteration": "al-mutaqina"
+    }
+  ],
+  "fullArabic": "ٱلشَّهۡرُ ٱلۡحَرَامُ بِٱلشَّهۡرِ ٱلۡحَرَامِ وَٱلۡحُرُمَٰتُ قِصَاصٞۚ فَمَنِ ٱعۡتَدَىٰ عَلَيۡكُمۡ فَٱعۡتَدُواْ عَلَيۡهِ بِمِثۡلِ مَا ٱعۡتَدَىٰ عَلَيۡكُمۡۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ",
+  "fullTranslation": "[Fighting in] the sacred month is for [aggression committed in] the sacred month, and for [all] violations is legal retribution. So whoever has assaulted you, then assault him in the same way that he has assaulted you. And fear Allah and know that Allah is with those who fear Him.",
+  "fullTransliteration": "al-shahru al-haramu bil-shahri al-harami wal-hurumatu qisasun famani i'tada alaykum fa-i'tadu alayhi bimith'li ma i'tada alaykum wa-ittaqu al-laha wa-i'lamu anna al-laha ma'a al-mutaqina"
+}

@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "ayah": 54,
+    "surah": 6,
+    "words": 27,
+    "numberInQuran": 843,
+    "juz": 7,
+    "manzil": 2,
+    "page": 134,
+    "ruku": 107,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17031,
+      "word_number_in_surah": 854,
+      "word_surah": 6,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "جَآءَكَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17032,
+      "word_number_in_surah": 855,
+      "word_surah": 6,
+      "word_translation": "come to you",
+      "word_transliteration": "jaaka"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17033,
+      "word_number_in_surah": 856,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17034,
+      "word_number_in_surah": 857,
+      "word_surah": 6,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17035,
+      "word_number_in_surah": 858,
+      "word_surah": 6,
+      "word_translation": "in Our Verses",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "فَقُلۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17036,
+      "word_number_in_surah": 859,
+      "word_surah": 6,
+      "word_translation": "then say",
+      "word_transliteration": "faqul"
+    },
+    {
+      "word_arabic": "سَلَٰمٌ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17037,
+      "word_number_in_surah": 860,
+      "word_surah": 6,
+      "word_translation": "Peace",
+      "word_transliteration": "salamun"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡۖ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17038,
+      "word_number_in_surah": 861,
+      "word_surah": 6,
+      "word_translation": "(be) upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "كَتَبَ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17039,
+      "word_number_in_surah": 862,
+      "word_surah": 6,
+      "word_translation": "(Has) Prescribed",
+      "word_transliteration": "kataba"
+    },
+    {
+      "word_arabic": "رَبُّكُمۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17040,
+      "word_number_in_surah": 863,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbukum"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17041,
+      "word_number_in_surah": 864,
+      "word_surah": 6,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "نَفۡسِهِ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17042,
+      "word_number_in_surah": 865,
+      "word_surah": 6,
+      "word_translation": "Himself",
+      "word_transliteration": "nafsihi"
+    },
+    {
+      "word_arabic": "ٱلرَّحۡمَةَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17043,
+      "word_number_in_surah": 866,
+      "word_surah": 6,
+      "word_translation": "the Mercy",
+      "word_transliteration": "al-rahmata"
+    },
+    {
+      "word_arabic": "أَنَّهُۥ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17044,
+      "word_number_in_surah": 867,
+      "word_surah": 6,
+      "word_translation": "that he",
+      "word_transliteration": "annahu"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17045,
+      "word_number_in_surah": 868,
+      "word_surah": 6,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "عَمِلَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17046,
+      "word_number_in_surah": 869,
+      "word_surah": 6,
+      "word_translation": "does",
+      "word_transliteration": "amila"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17047,
+      "word_number_in_surah": 870,
+      "word_surah": 6,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "سُوٓءَۢا",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17048,
+      "word_number_in_surah": 871,
+      "word_surah": 6,
+      "word_translation": "evil",
+      "word_transliteration": "suan"
+    },
+    {
+      "word_arabic": "بِجَهَٰلَةٖ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17049,
+      "word_number_in_surah": 872,
+      "word_surah": 6,
+      "word_translation": "in ignorance",
+      "word_transliteration": "bijahalatin"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17050,
+      "word_number_in_surah": 873,
+      "word_surah": 6,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تَابَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17051,
+      "word_number_in_surah": 874,
+      "word_surah": 6,
+      "word_translation": "repents",
+      "word_transliteration": "taba"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17052,
+      "word_number_in_surah": 875,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِۦ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 17053,
+      "word_number_in_surah": 876,
+      "word_surah": 6,
+      "word_translation": "after it",
+      "word_transliteration": "ba'dihi"
+    },
+    {
+      "word_arabic": "وَأَصۡلَحَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 17054,
+      "word_number_in_surah": 877,
+      "word_surah": 6,
+      "word_translation": "and reforms",
+      "word_transliteration": "wa-aslaha"
+    },
+    {
+      "word_arabic": "فَأَنَّهُۥ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 17055,
+      "word_number_in_surah": 878,
+      "word_surah": 6,
+      "word_translation": "then, indeed He",
+      "word_transliteration": "fa-annahu"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 17056,
+      "word_number_in_surah": 879,
+      "word_surah": 6,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 17057,
+      "word_number_in_surah": 880,
+      "word_surah": 6,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِ‍َٔايَٰتِنَا فَقُلۡ سَلَٰمٌ عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "And when those come to you who believe in Our verses, say, \"Peace be upon you. Your Lord has decreed upon Himself mercy: that any of you who does wrong out of ignorance and then repents after that and corrects himself - indeed, He is Forgiving and Merciful.\"",
+  "fullTransliteration": "wa-idha jaaka alladhina yu'minuna biayatina faqul salamun alaykum kataba rabbukum ala nafsihi al-rahmata annahu man amila minkum suan bijahalatin thumma taba min ba'dihi wa-aslaha fa-annahu ghafurun rahimun"
+}

@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 56,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 349,
+    "juz": 3,
+    "manzil": 1,
+    "page": 57,
+    "ruku": 47,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأَمَّا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7106,
+      "word_number_in_surah": 961,
+      "word_surah": 3,
+      "word_translation": "Then as for",
+      "word_transliteration": "fa-amma"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7107,
+      "word_number_in_surah": 962,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7108,
+      "word_number_in_surah": 963,
+      "word_surah": 3,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "فَأُعَذِّبُهُمۡ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7109,
+      "word_number_in_surah": 964,
+      "word_surah": 3,
+      "word_translation": "then I will punish them",
+      "word_transliteration": "fa-u'adhibuhum"
+    },
+    {
+      "word_arabic": "عَذَابٗا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7110,
+      "word_number_in_surah": 965,
+      "word_surah": 3,
+      "word_translation": "(with) a punishment",
+      "word_transliteration": "adhaban"
+    },
+    {
+      "word_arabic": "شَدِيدٗا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7111,
+      "word_number_in_surah": 966,
+      "word_surah": 3,
+      "word_translation": "severe",
+      "word_transliteration": "shadidan"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7112,
+      "word_number_in_surah": 967,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7113,
+      "word_number_in_surah": 968,
+      "word_surah": 3,
+      "word_translation": "the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَٱلۡأٓخِرَةِ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7114,
+      "word_number_in_surah": 969,
+      "word_surah": 3,
+      "word_translation": "and (in) the Hereafter",
+      "word_transliteration": "wal-akhirati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7115,
+      "word_number_in_surah": 970,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لَهُم",
+      "word_ayah": 56,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7116,
+      "word_number_in_surah": 971,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 56,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7117,
+      "word_number_in_surah": 972,
+      "word_surah": 3,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّٰصِرِينَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7118,
+      "word_number_in_surah": 973,
+      "word_surah": 3,
+      "word_translation": "(any) helpers",
+      "word_transliteration": "nasirina"
+    }
+  ],
+  "fullArabic": "فَأَمَّا ٱلَّذِينَ كَفَرُواْ فَأُعَذِّبُهُمۡ عَذَابٗا شَدِيدٗا فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ",
+  "fullTranslation": "And as for those who disbelieved, I will punish them with a severe punishment in this world and the Hereafter, and they will have no helpers.\"",
+  "fullTransliteration": "fa-amma alladhina kafaru fa-u'adhibuhum adhaban shadidan fi al-dun'ya wal-akhirati wama lahum min nasirina"
+}

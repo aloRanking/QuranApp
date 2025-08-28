@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "ayah": 77,
+    "surah": 5,
+    "words": 23,
+    "numberInQuran": 746,
+    "juz": 6,
+    "manzil": 2,
+    "page": 121,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15227,
+      "word_number_in_surah": 1854,
+      "word_surah": 5,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15228,
+      "word_number_in_surah": 1855,
+      "word_surah": 5,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15229,
+      "word_number_in_surah": 1856,
+      "word_surah": 5,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15230,
+      "word_number_in_surah": 1857,
+      "word_surah": 5,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَغۡلُواْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15231,
+      "word_number_in_surah": 1858,
+      "word_surah": 5,
+      "word_translation": "exceed",
+      "word_transliteration": "taghlu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15232,
+      "word_number_in_surah": 1859,
+      "word_surah": 5,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "دِينِكُمۡ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15233,
+      "word_number_in_surah": 1860,
+      "word_surah": 5,
+      "word_translation": "your religion",
+      "word_transliteration": "dinikum"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15234,
+      "word_number_in_surah": 1861,
+      "word_surah": 5,
+      "word_translation": "other than",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "ٱلۡحَقِّ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15235,
+      "word_number_in_surah": 1862,
+      "word_surah": 5,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15236,
+      "word_number_in_surah": 1863,
+      "word_surah": 5,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعُوٓاْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15237,
+      "word_number_in_surah": 1864,
+      "word_surah": 5,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'u"
+    },
+    {
+      "word_arabic": "أَهۡوَآءَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15238,
+      "word_number_in_surah": 1865,
+      "word_surah": 5,
+      "word_translation": "(vain) desires",
+      "word_transliteration": "ahwaa"
+    },
+    {
+      "word_arabic": "قَوۡمٖ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15239,
+      "word_number_in_surah": 1866,
+      "word_surah": 5,
+      "word_translation": "(of) a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15240,
+      "word_number_in_surah": 1867,
+      "word_surah": 5,
+      "word_translation": "certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "ضَلُّواْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15241,
+      "word_number_in_surah": 1868,
+      "word_surah": 5,
+      "word_translation": "who went astray",
+      "word_transliteration": "dallu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 77,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15242,
+      "word_number_in_surah": 1869,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15243,
+      "word_number_in_surah": 1870,
+      "word_surah": 5,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَأَضَلُّواْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15244,
+      "word_number_in_surah": 1871,
+      "word_surah": 5,
+      "word_translation": "and they misled",
+      "word_transliteration": "wa-adallu"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15245,
+      "word_number_in_surah": 1872,
+      "word_surah": 5,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "وَضَلُّواْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15246,
+      "word_number_in_surah": 1873,
+      "word_surah": 5,
+      "word_translation": "and they have strayed",
+      "word_transliteration": "wadallu"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15247,
+      "word_number_in_surah": 1874,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَوَآءِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15248,
+      "word_number_in_surah": 1875,
+      "word_surah": 5,
+      "word_translation": "(the) right",
+      "word_transliteration": "sawai"
+    },
+    {
+      "word_arabic": "ٱلسَّبِيلِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15249,
+      "word_number_in_surah": 1876,
+      "word_surah": 5,
+      "word_translation": "[the] way",
+      "word_transliteration": "al-sabili"
+    }
+  ],
+  "fullArabic": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَا تَغۡلُواْ فِي دِينِكُمۡ غَيۡرَ ٱلۡحَقِّ وَلَا تَتَّبِعُوٓاْ أَهۡوَآءَ قَوۡمٖ قَدۡ ضَلُّواْ مِن قَبۡلُ وَأَضَلُّواْ كَثِيرٗا وَضَلُّواْ عَن سَوَآءِ ٱلسَّبِيلِ",
+  "fullTranslation": "Say, \"O People of the Scripture, do not exceed limits in your religion beyond the truth and do not follow the inclinations of a people who had gone astray before and misled many and have strayed from the soundness of the way.\"",
+  "fullTransliteration": "qul yaahla al-kitabi la taghlu fi dinikum ghayra al-haqi wala tattabi'u ahwaa qawmin qad dallu min qablu wa-adallu kathiran wadallu an sawai al-sabili"
+}

@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 209,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 216,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 209,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3907,
+      "word_number_in_surah": 3878,
+      "word_surah": 2,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "زَلَلۡتُم",
+      "word_ayah": 209,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3908,
+      "word_number_in_surah": 3879,
+      "word_surah": 2,
+      "word_translation": "you slip",
+      "word_transliteration": "zalaltum"
+    },
+    {
+      "word_arabic": "مِّنۢ",
+      "word_ayah": 209,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3909,
+      "word_number_in_surah": 3880,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3910,
+      "word_number_in_surah": 3881,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3911,
+      "word_number_in_surah": 3882,
+      "word_surah": 2,
+      "word_translation": "[what]",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "جَآءَتۡكُمُ",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3912,
+      "word_number_in_surah": 3883,
+      "word_surah": 2,
+      "word_translation": "came to you",
+      "word_transliteration": "jaatkumu"
+    },
+    {
+      "word_arabic": "ٱلۡبَيِّنَٰتُ",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3913,
+      "word_number_in_surah": 3884,
+      "word_surah": 2,
+      "word_translation": "(from) the clear proofs",
+      "word_transliteration": "al-bayinatu"
+    },
+    {
+      "word_arabic": "فَٱعۡلَمُوٓاْ",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3914,
+      "word_number_in_surah": 3885,
+      "word_surah": 2,
+      "word_translation": "then know",
+      "word_transliteration": "fa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 209,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3915,
+      "word_number_in_surah": 3886,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3916,
+      "word_number_in_surah": 3887,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَزِيزٌ",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3917,
+      "word_number_in_surah": 3888,
+      "word_surah": 2,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "حَكِيمٌ",
+      "word_ayah": 209,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3918,
+      "word_number_in_surah": 3889,
+      "word_surah": 2,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "فَإِن زَلَلۡتُم مِّنۢ بَعۡدِ مَا جَآءَتۡكُمُ ٱلۡبَيِّنَٰتُ فَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+  "fullTranslation": "But if you deviate after clear proofs have come to you, then know that Allah is Exalted in Might and Wise.",
+  "fullTransliteration": "fa-in zalaltum min ba'di ma jaatkumu al-bayinatu fa-i'lamu anna al-laha azizun hakimun"
+}

@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "ayah": 121,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 414,
+    "juz": 4,
+    "manzil": 1,
+    "page": 65,
+    "ruku": 54,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8215,
+      "word_number_in_surah": 2070,
+      "word_surah": 3,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "غَدَوۡتَ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8216,
+      "word_number_in_surah": 2071,
+      "word_surah": 3,
+      "word_translation": "you left early morning",
+      "word_transliteration": "ghadawta"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8217,
+      "word_number_in_surah": 2072,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِكَ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8218,
+      "word_number_in_surah": 2073,
+      "word_surah": 3,
+      "word_translation": "your household",
+      "word_transliteration": "ahlika"
+    },
+    {
+      "word_arabic": "تُبَوِّئُ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8219,
+      "word_number_in_surah": 2074,
+      "word_surah": 3,
+      "word_translation": "to post",
+      "word_transliteration": "tubawwi-u"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8220,
+      "word_number_in_surah": 2075,
+      "word_surah": 3,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "مَقَٰعِدَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8221,
+      "word_number_in_surah": 2076,
+      "word_surah": 3,
+      "word_translation": "(to take) positions",
+      "word_transliteration": "maqa'ida"
+    },
+    {
+      "word_arabic": "لِلۡقِتَالِۗ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8222,
+      "word_number_in_surah": 2077,
+      "word_surah": 3,
+      "word_translation": "for the battle",
+      "word_transliteration": "lil'qitali"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8223,
+      "word_number_in_surah": 2078,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8224,
+      "word_number_in_surah": 2079,
+      "word_surah": 3,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8225,
+      "word_number_in_surah": 2080,
+      "word_surah": 3,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِينَ مَقَٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "fullTranslation": "And [remember] when you, [O Muhammad], left your family in the morning to post the believers at their stations for the battle [of Uhud] - and Allah is Hearing and Knowing -",
+  "fullTransliteration": "wa-idh ghadawta min ahlika tubawwi-u al-mu'minina maqa'ida lil'qitali wal-lahu sami'un alimun"
+}

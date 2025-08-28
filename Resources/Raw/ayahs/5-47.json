@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "ayah": 47,
+    "surah": 5,
+    "words": 16,
+    "numberInQuran": 716,
+    "juz": 6,
+    "manzil": 2,
+    "page": 116,
+    "ruku": 92,
+    "hizbQuarter": 46,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلۡيَحۡكُمۡ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14565,
+      "word_number_in_surah": 1192,
+      "word_surah": 5,
+      "word_translation": "And let judge",
+      "word_transliteration": "walyahkum"
+    },
+    {
+      "word_arabic": "أَهۡلُ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14566,
+      "word_number_in_surah": 1193,
+      "word_surah": 5,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahlu"
+    },
+    {
+      "word_arabic": "ٱلۡإِنجِيلِ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14567,
+      "word_number_in_surah": 1194,
+      "word_surah": 5,
+      "word_translation": "(of) the Injeel",
+      "word_transliteration": "al-injili"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14568,
+      "word_number_in_surah": 1195,
+      "word_surah": 5,
+      "word_translation": "by what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14569,
+      "word_number_in_surah": 1196,
+      "word_surah": 5,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14570,
+      "word_number_in_surah": 1197,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فِيهِۚ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14571,
+      "word_number_in_surah": 1198,
+      "word_surah": 5,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 47,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14572,
+      "word_number_in_surah": 1199,
+      "word_surah": 5,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14573,
+      "word_number_in_surah": 1200,
+      "word_surah": 5,
+      "word_translation": "(does) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَحۡكُم",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14574,
+      "word_number_in_surah": 1201,
+      "word_surah": 5,
+      "word_translation": "judge",
+      "word_transliteration": "yahkum"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14575,
+      "word_number_in_surah": 1202,
+      "word_surah": 5,
+      "word_translation": "by what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14576,
+      "word_number_in_surah": 1203,
+      "word_surah": 5,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14577,
+      "word_number_in_surah": 1204,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَأُوْلَٰٓئِكَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14578,
+      "word_number_in_surah": 1205,
+      "word_surah": 5,
+      "word_translation": "then those",
+      "word_transliteration": "fa-ulaika"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14579,
+      "word_number_in_surah": 1206,
+      "word_surah": 5,
+      "word_translation": "[they] (are)",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰسِقُونَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14580,
+      "word_number_in_surah": 1207,
+      "word_surah": 5,
+      "word_translation": "the defiantly disobedient",
+      "word_transliteration": "al-fasiquna"
+    }
+  ],
+  "fullArabic": "وَلۡيَحۡكُمۡ أَهۡلُ ٱلۡإِنجِيلِ بِمَآ أَنزَلَ ٱللَّهُ فِيهِۚ وَمَن لَّمۡ يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ",
+  "fullTranslation": "And let the People of the Gospel judge by what Allah has revealed therein. And whoever does not judge by what Allah has revealed - then it is those who are the defiantly disobedient.",
+  "fullTransliteration": "walyahkum ahlu al-injili bima anzala al-lahu fihi waman lam yahkum bima anzala al-lahu fa-ulaika humu al-fasiquna"
+}

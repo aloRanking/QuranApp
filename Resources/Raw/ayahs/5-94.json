@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "ayah": 94,
+    "surah": 5,
+    "words": 23,
+    "numberInQuran": 763,
+    "juz": 7,
+    "manzil": 2,
+    "page": 123,
+    "ruku": 98,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15541,
+      "word_number_in_surah": 2168,
+      "word_surah": 5,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15542,
+      "word_number_in_surah": 2169,
+      "word_surah": 5,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15543,
+      "word_number_in_surah": 2170,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "لَيَبۡلُوَنَّكُمُ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15544,
+      "word_number_in_surah": 2171,
+      "word_surah": 5,
+      "word_translation": "Surely will test you",
+      "word_transliteration": "layabluwannakumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15545,
+      "word_number_in_surah": 2172,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِشَيۡءٖ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15546,
+      "word_number_in_surah": 2173,
+      "word_surah": 5,
+      "word_translation": "through something",
+      "word_transliteration": "bishayin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15547,
+      "word_number_in_surah": 2174,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلصَّيۡدِ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15548,
+      "word_number_in_surah": 2175,
+      "word_surah": 5,
+      "word_translation": "the game",
+      "word_transliteration": "al-saydi"
+    },
+    {
+      "word_arabic": "تَنَالُهُۥٓ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15549,
+      "word_number_in_surah": 2176,
+      "word_surah": 5,
+      "word_translation": "can reach it",
+      "word_transliteration": "tanaluhu"
+    },
+    {
+      "word_arabic": "أَيۡدِيكُمۡ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15550,
+      "word_number_in_surah": 2177,
+      "word_surah": 5,
+      "word_translation": "your hands",
+      "word_transliteration": "aydikum"
+    },
+    {
+      "word_arabic": "وَرِمَاحُكُمۡ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15551,
+      "word_number_in_surah": 2178,
+      "word_surah": 5,
+      "word_translation": "and your spears",
+      "word_transliteration": "warimahukum"
+    },
+    {
+      "word_arabic": "لِيَعۡلَمَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15552,
+      "word_number_in_surah": 2179,
+      "word_surah": 5,
+      "word_translation": "that may make evident",
+      "word_transliteration": "liya'lama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15553,
+      "word_number_in_surah": 2180,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 94,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15554,
+      "word_number_in_surah": 2181,
+      "word_surah": 5,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَخَافُهُۥ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15555,
+      "word_number_in_surah": 2182,
+      "word_surah": 5,
+      "word_translation": "fears Him",
+      "word_transliteration": "yakhafuhu"
+    },
+    {
+      "word_arabic": "بِٱلۡغَيۡبِۚ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15556,
+      "word_number_in_surah": 2183,
+      "word_surah": 5,
+      "word_translation": "in the unseen",
+      "word_transliteration": "bil-ghaybi"
+    },
+    {
+      "word_arabic": "فَمَنِ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15557,
+      "word_number_in_surah": 2184,
+      "word_surah": 5,
+      "word_translation": "And whoever",
+      "word_transliteration": "famani"
+    },
+    {
+      "word_arabic": "ٱعۡتَدَىٰ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15558,
+      "word_number_in_surah": 2185,
+      "word_surah": 5,
+      "word_translation": "transgressed",
+      "word_transliteration": "i'tada"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15559,
+      "word_number_in_surah": 2186,
+      "word_surah": 5,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15560,
+      "word_number_in_surah": 2187,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "فَلَهُۥ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15561,
+      "word_number_in_surah": 2188,
+      "word_surah": 5,
+      "word_translation": "then for him",
+      "word_transliteration": "falahu"
+    },
+    {
+      "word_arabic": "عَذَابٌ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15562,
+      "word_number_in_surah": 2189,
+      "word_surah": 5,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "أَلِيمٞ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15563,
+      "word_number_in_surah": 2190,
+      "word_surah": 5,
+      "word_translation": "painful",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَيَبۡلُوَنَّكُمُ ٱللَّهُ بِشَيۡءٖ مِّنَ ٱلصَّيۡدِ تَنَالُهُۥٓ أَيۡدِيكُمۡ وَرِمَاحُكُمۡ لِيَعۡلَمَ ٱللَّهُ مَن يَخَافُهُۥ بِٱلۡغَيۡبِۚ فَمَنِ ٱعۡتَدَىٰ بَعۡدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٞ",
+  "fullTranslation": "O you who have believed, Allah will surely test you through something of the game that your hands and spears [can] reach, that Allah may make evident those who fear Him unseen. And whoever transgresses after that - for him is a painful punishment.",
+  "fullTransliteration": "yaayyuha alladhina amanu layabluwannakumu al-lahu bishayin mina al-saydi tanaluhu aydikum warimahukum liya'lama al-lahu man yakhafuhu bil-ghaybi famani i'tada ba'da dhalika falahu adhabun alimun"
+}

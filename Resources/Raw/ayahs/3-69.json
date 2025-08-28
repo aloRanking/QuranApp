@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 69,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 362,
+    "juz": 3,
+    "manzil": 1,
+    "page": 58,
+    "ruku": 48,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَدَّت",
+      "word_ayah": 69,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7297,
+      "word_number_in_surah": 1152,
+      "word_surah": 3,
+      "word_translation": "Wished",
+      "word_transliteration": "waddat"
+    },
+    {
+      "word_arabic": "طَّآئِفَةٞ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7298,
+      "word_number_in_surah": 1153,
+      "word_surah": 3,
+      "word_translation": "a group",
+      "word_transliteration": "taifatun"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7299,
+      "word_number_in_surah": 1154,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7300,
+      "word_number_in_surah": 1155,
+      "word_surah": 3,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahli"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7301,
+      "word_number_in_surah": 1156,
+      "word_surah": 3,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7302,
+      "word_number_in_surah": 1157,
+      "word_surah": 3,
+      "word_translation": "if",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "يُضِلُّونَكُمۡ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7303,
+      "word_number_in_surah": 1158,
+      "word_surah": 3,
+      "word_translation": "they could lead you astray",
+      "word_transliteration": "yudillunakum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7304,
+      "word_number_in_surah": 1159,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يُضِلُّونَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7305,
+      "word_number_in_surah": 1160,
+      "word_surah": 3,
+      "word_translation": "they lead astray",
+      "word_transliteration": "yudilluna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7306,
+      "word_number_in_surah": 1161,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7307,
+      "word_number_in_surah": 1162,
+      "word_surah": 3,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7308,
+      "word_number_in_surah": 1163,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَشۡعُرُونَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7309,
+      "word_number_in_surah": 1164,
+      "word_surah": 3,
+      "word_translation": "they perceive",
+      "word_transliteration": "yash'uruna"
+    }
+  ],
+  "fullArabic": "وَدَّت طَّآئِفَةٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يُضِلُّونَكُمۡ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ",
+  "fullTranslation": "A faction of the people of the Scripture wish they could mislead you. But they do not mislead except themselves, and they perceive [it] not.",
+  "fullTransliteration": "waddat taifatun min ahli al-kitabi law yudillunakum wama yudilluna illa anfusahum wama yash'uruna"
+}

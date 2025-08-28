@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "ayah": 131,
+    "surah": 3,
+    "words": 5,
+    "numberInQuran": 424,
+    "juz": 4,
+    "manzil": 1,
+    "page": 66,
+    "ruku": 55,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8342,
+      "word_number_in_surah": 2197,
+      "word_surah": 3,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱلنَّارَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8343,
+      "word_number_in_surah": 2198,
+      "word_surah": 3,
+      "word_translation": "the Fire",
+      "word_transliteration": "al-nara"
+    },
+    {
+      "word_arabic": "ٱلَّتِيٓ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8344,
+      "word_number_in_surah": 2199,
+      "word_surah": 3,
+      "word_translation": "which",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "أُعِدَّتۡ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8345,
+      "word_number_in_surah": 2200,
+      "word_surah": 3,
+      "word_translation": "is prepared",
+      "word_transliteration": "u'iddat"
+    },
+    {
+      "word_arabic": "لِلۡكَٰفِرِينَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8346,
+      "word_number_in_surah": 2201,
+      "word_surah": 3,
+      "word_translation": "for the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    }
+  ],
+  "fullArabic": "وَٱتَّقُواْ ٱلنَّارَ ٱلَّتِيٓ أُعِدَّتۡ لِلۡكَٰفِرِينَ",
+  "fullTranslation": "And fear the Fire, which has been prepared for the disbelievers.",
+  "fullTransliteration": "wa-ittaqu al-nara allati u'iddat lil'kafirina"
+}

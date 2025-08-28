@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ayah": 115,
+    "surah": 3,
+    "words": 9,
+    "numberInQuran": 408,
+    "juz": 4,
+    "manzil": 1,
+    "page": 64,
+    "ruku": 53,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8087,
+      "word_number_in_surah": 1942,
+      "word_surah": 3,
+      "word_translation": "And whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَفۡعَلُواْ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8088,
+      "word_number_in_surah": 1943,
+      "word_surah": 3,
+      "word_translation": "they do",
+      "word_transliteration": "yaf 'alu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8089,
+      "word_number_in_surah": 1944,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8090,
+      "word_number_in_surah": 1945,
+      "word_surah": 3,
+      "word_translation": "a good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "فَلَن",
+      "word_ayah": 115,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8091,
+      "word_number_in_surah": 1946,
+      "word_surah": 3,
+      "word_translation": "then never",
+      "word_transliteration": "falan"
+    },
+    {
+      "word_arabic": "يُكۡفَرُوهُۗ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8092,
+      "word_number_in_surah": 1947,
+      "word_surah": 3,
+      "word_translation": "will they be denied it",
+      "word_transliteration": "yuk'faruhu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8093,
+      "word_number_in_surah": 1948,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8094,
+      "word_number_in_surah": 1949,
+      "word_surah": 3,
+      "word_translation": "(is) All-Knowing",
+      "word_transliteration": "alimun"
+    },
+    {
+      "word_arabic": "بِٱلۡمُتَّقِينَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8095,
+      "word_number_in_surah": 1950,
+      "word_surah": 3,
+      "word_translation": "of the God-fearing",
+      "word_transliteration": "bil-mutaqina"
+    }
+  ],
+  "fullArabic": "وَمَا يَفۡعَلُواْ مِنۡ خَيۡرٖ فَلَن يُكۡفَرُوهُۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ",
+  "fullTranslation": "And whatever good they do - never will it be removed from them. And Allah is Knowing of the righteous.",
+  "fullTransliteration": "wama yaf 'alu min khayrin falan yuk'faruhu wal-lahu alimun bil-mutaqina"
+}

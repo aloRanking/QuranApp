@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "ayah": 156,
+    "surah": 4,
+    "words": 6,
+    "numberInQuran": 649,
+    "juz": 6,
+    "manzil": 1,
+    "page": 103,
+    "ruku": 83,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَبِكُفۡرِهِمۡ",
+      "word_ayah": 156,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12961,
+      "word_number_in_surah": 3335,
+      "word_surah": 4,
+      "word_translation": "And for their disbelief",
+      "word_transliteration": "wabikuf'rihim"
+    },
+    {
+      "word_arabic": "وَقَوۡلِهِمۡ",
+      "word_ayah": 156,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12962,
+      "word_number_in_surah": 3336,
+      "word_surah": 4,
+      "word_translation": "and their saying",
+      "word_transliteration": "waqawlihim"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12963,
+      "word_number_in_surah": 3337,
+      "word_surah": 4,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَرۡيَمَ",
+      "word_ayah": 156,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12964,
+      "word_number_in_surah": 3338,
+      "word_surah": 4,
+      "word_translation": "Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "بُهۡتَٰنًا",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12965,
+      "word_number_in_surah": 3339,
+      "word_surah": 4,
+      "word_translation": "a slander",
+      "word_transliteration": "buh'tanan"
+    },
+    {
+      "word_arabic": "عَظِيمٗا",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12966,
+      "word_number_in_surah": 3340,
+      "word_surah": 4,
+      "word_translation": "great",
+      "word_transliteration": "aziman"
+    }
+  ],
+  "fullArabic": "وَبِكُفۡرِهِمۡ وَقَوۡلِهِمۡ عَلَىٰ مَرۡيَمَ بُهۡتَٰنًا عَظِيمٗا",
+  "fullTranslation": "And [We cursed them] for their disbelief and their saying against Mary a great slander,",
+  "fullTransliteration": "wabikuf'rihim waqawlihim ala maryama buh'tanan aziman"
+}

@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 42,
+    "surah": 2,
+    "words": 8,
+    "numberInQuran": 49,
+    "juz": 1,
+    "manzil": 1,
+    "page": 7,
+    "ruku": 6,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 648,
+      "word_number_in_surah": 619,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَلۡبِسُواْ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 649,
+      "word_number_in_surah": 620,
+      "word_surah": 2,
+      "word_translation": "mix",
+      "word_transliteration": "talbisu"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 650,
+      "word_number_in_surah": 621,
+      "word_surah": 2,
+      "word_translation": "the Truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "بِٱلۡبَٰطِلِ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 651,
+      "word_number_in_surah": 622,
+      "word_surah": 2,
+      "word_translation": "with [the] falsehood",
+      "word_transliteration": "bil-batili"
+    },
+    {
+      "word_arabic": "وَتَكۡتُمُواْ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 652,
+      "word_number_in_surah": 623,
+      "word_surah": 2,
+      "word_translation": "and conceal",
+      "word_transliteration": "wataktumu"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 653,
+      "word_number_in_surah": 624,
+      "word_surah": 2,
+      "word_translation": "the Truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 654,
+      "word_number_in_surah": 625,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 655,
+      "word_number_in_surah": 626,
+      "word_surah": 2,
+      "word_translation": "[you] know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَلَا تَلۡبِسُواْ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُواْ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "And do not mix the truth with falsehood or conceal the truth while you know [it].",
+  "fullTransliteration": "wala talbisu al-haqa bil-batili wataktumu al-haqa wa-antum ta'lamuna"
+}

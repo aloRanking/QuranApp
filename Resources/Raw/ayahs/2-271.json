@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "ayah": 271,
+    "surah": 2,
+    "words": 20,
+    "numberInQuran": 278,
+    "juz": 3,
+    "manzil": 1,
+    "page": 46,
+    "ruku": 38,
+    "hizbQuarter": 18,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 271,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5653,
+      "word_number_in_surah": 5624,
+      "word_surah": 2,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تُبۡدُواْ",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5654,
+      "word_number_in_surah": 5625,
+      "word_surah": 2,
+      "word_translation": "you disclose",
+      "word_transliteration": "tub'du"
+    },
+    {
+      "word_arabic": "ٱلصَّدَقَٰتِ",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5655,
+      "word_number_in_surah": 5626,
+      "word_surah": 2,
+      "word_translation": "the charities",
+      "word_transliteration": "al-sadaqati"
+    },
+    {
+      "word_arabic": "فَنِعِمَّا",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5656,
+      "word_number_in_surah": 5627,
+      "word_surah": 2,
+      "word_translation": "then well",
+      "word_transliteration": "fani'imma"
+    },
+    {
+      "word_arabic": "هِيَۖ",
+      "word_ayah": 271,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5657,
+      "word_number_in_surah": 5628,
+      "word_surah": 2,
+      "word_translation": "it (is)",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 271,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5658,
+      "word_number_in_surah": 5629,
+      "word_surah": 2,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تُخۡفُوهَا",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5659,
+      "word_number_in_surah": 5630,
+      "word_surah": 2,
+      "word_translation": "you keep it secret",
+      "word_transliteration": "tukh'fuha"
+    },
+    {
+      "word_arabic": "وَتُؤۡتُوهَا",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5660,
+      "word_number_in_surah": 5631,
+      "word_surah": 2,
+      "word_translation": "and give it",
+      "word_transliteration": "watu'tuha"
+    },
+    {
+      "word_arabic": "ٱلۡفُقَرَآءَ",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5661,
+      "word_number_in_surah": 5632,
+      "word_surah": 2,
+      "word_translation": "(to) the poor",
+      "word_transliteration": "al-fuqaraa"
+    },
+    {
+      "word_arabic": "فَهُوَ",
+      "word_ayah": 271,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5662,
+      "word_number_in_surah": 5633,
+      "word_surah": 2,
+      "word_translation": "then it",
+      "word_transliteration": "fahuwa"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 271,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5663,
+      "word_number_in_surah": 5634,
+      "word_surah": 2,
+      "word_translation": "(is) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّكُمۡۚ",
+      "word_ayah": 271,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5664,
+      "word_number_in_surah": 5635,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَيُكَفِّرُ",
+      "word_ayah": 271,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5665,
+      "word_number_in_surah": 5636,
+      "word_surah": 2,
+      "word_translation": "And He will remove",
+      "word_transliteration": "wayukaffiru"
+    },
+    {
+      "word_arabic": "عَنكُم",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5666,
+      "word_number_in_surah": 5637,
+      "word_surah": 2,
+      "word_translation": "from you",
+      "word_transliteration": "ankum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 271,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5667,
+      "word_number_in_surah": 5638,
+      "word_surah": 2,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "سَيِّ‍َٔاتِكُمۡۗ",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5668,
+      "word_number_in_surah": 5639,
+      "word_surah": 2,
+      "word_translation": "your evil deeds",
+      "word_transliteration": "sayyiatikum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 271,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5669,
+      "word_number_in_surah": 5640,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5670,
+      "word_number_in_surah": 5641,
+      "word_surah": 2,
+      "word_translation": "with what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5671,
+      "word_number_in_surah": 5642,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    },
+    {
+      "word_arabic": "خَبِيرٞ",
+      "word_ayah": 271,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5672,
+      "word_number_in_surah": 5643,
+      "word_surah": 2,
+      "word_translation": "(is) All-Aware",
+      "word_transliteration": "khabirun"
+    }
+  ],
+  "fullArabic": "إِن تُبۡدُواْ ٱلصَّدَقَٰتِ فَنِعِمَّا هِيَۖ وَإِن تُخۡفُوهَا وَتُؤۡتُوهَا ٱلۡفُقَرَآءَ فَهُوَ خَيۡرٞ لَّكُمۡۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّ‍َٔاتِكُمۡۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "fullTranslation": "If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allah, with what you do, is [fully] Acquainted.",
+  "fullTransliteration": "in tub'du al-sadaqati fani'imma hiya wa-in tukh'fuha watu'tuha al-fuqaraa fahuwa khayrun lakum wayukaffiru ankum min sayyiatikum wal-lahu bima ta'maluna khabirun"
+}

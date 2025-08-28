@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ayah": 109,
+    "surah": 7,
+    "words": 9,
+    "numberInQuran": 1063,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20953,
+      "word_number_in_surah": 1726,
+      "word_surah": 7,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَأُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20954,
+      "word_number_in_surah": 1727,
+      "word_surah": 7,
+      "word_translation": "the chiefs",
+      "word_transliteration": "al-mala-u"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 109,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20955,
+      "word_number_in_surah": 1728,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَوۡمِ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20956,
+      "word_number_in_surah": 1729,
+      "word_surah": 7,
+      "word_translation": "(the) people",
+      "word_transliteration": "qawmi"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20957,
+      "word_number_in_surah": 1730,
+      "word_surah": 7,
+      "word_translation": "(of) Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20958,
+      "word_number_in_surah": 1731,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20959,
+      "word_number_in_surah": 1732,
+      "word_surah": 7,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "لَسَٰحِرٌ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20960,
+      "word_number_in_surah": 1733,
+      "word_surah": 7,
+      "word_translation": "(is) surely a magician",
+      "word_transliteration": "lasahirun"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20961,
+      "word_number_in_surah": 1734,
+      "word_surah": 7,
+      "word_translation": "learned",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "قَالَ ٱلۡمَلَأُ مِن قَوۡمِ فِرۡعَوۡنَ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٞ",
+  "fullTranslation": "Said the eminent among the people of Pharaoh, \"Indeed, this is a learned magician",
+  "fullTransliteration": "qala al-mala-u min qawmi fir'awna inna hadha lasahirun alimun"
+}

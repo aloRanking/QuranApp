@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "ayah": 58,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 847,
+    "juz": 7,
+    "manzil": 2,
+    "page": 134,
+    "ruku": 108,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 58,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17107,
+      "word_number_in_surah": 930,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لَّوۡ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17108,
+      "word_number_in_surah": 931,
+      "word_surah": 6,
+      "word_translation": "If",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17109,
+      "word_number_in_surah": 932,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "عِندِي",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17110,
+      "word_number_in_surah": 933,
+      "word_surah": 6,
+      "word_translation": "(were) with me",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17111,
+      "word_number_in_surah": 934,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَسۡتَعۡجِلُونَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17112,
+      "word_number_in_surah": 935,
+      "word_surah": 6,
+      "word_translation": "you seek to hasten",
+      "word_transliteration": "tasta'jiluna"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17113,
+      "word_number_in_surah": 936,
+      "word_surah": 6,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "لَقُضِيَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17114,
+      "word_number_in_surah": 937,
+      "word_surah": 6,
+      "word_translation": "surely would have been decided",
+      "word_transliteration": "laqudiya"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡرُ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17115,
+      "word_number_in_surah": 938,
+      "word_surah": 6,
+      "word_translation": "the matter",
+      "word_transliteration": "al-amru"
+    },
+    {
+      "word_arabic": "بَيۡنِي",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17116,
+      "word_number_in_surah": 939,
+      "word_surah": 6,
+      "word_translation": "between me",
+      "word_transliteration": "bayni"
+    },
+    {
+      "word_arabic": "وَبَيۡنَكُمۡۗ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17117,
+      "word_number_in_surah": 940,
+      "word_surah": 6,
+      "word_translation": "and between you",
+      "word_transliteration": "wabaynakum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17118,
+      "word_number_in_surah": 941,
+      "word_surah": 6,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17119,
+      "word_number_in_surah": 942,
+      "word_surah": 6,
+      "word_translation": "(is) most knowing",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "بِٱلظَّٰلِمِينَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17120,
+      "word_number_in_surah": 943,
+      "word_surah": 6,
+      "word_translation": "of the wrongdoers",
+      "word_transliteration": "bil-zalimina"
+    }
+  ],
+  "fullArabic": "قُل لَّوۡ أَنَّ عِندِي مَا تَسۡتَعۡجِلُونَ بِهِۦ لَقُضِيَ ٱلۡأَمۡرُ بَيۡنِي وَبَيۡنَكُمۡۗ وَٱللَّهُ أَعۡلَمُ بِٱلظَّٰلِمِينَ",
+  "fullTranslation": "Say, \"If I had that for which you are impatient, the matter would have been decided between me and you, but Allah is most knowing of the wrongdoers.\"",
+  "fullTransliteration": "qul law anna indi ma tasta'jiluna bihi laqudiya al-amru bayni wabaynakum wal-lahu a'lamu bil-zalimina"
+}

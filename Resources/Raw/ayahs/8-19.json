@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "ayah": 19,
+    "surah": 8,
+    "words": 24,
+    "numberInQuran": 1179,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 147,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 19,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22804,
+      "word_number_in_surah": 257,
+      "word_surah": 8,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تَسۡتَفۡتِحُواْ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22805,
+      "word_number_in_surah": 258,
+      "word_surah": 8,
+      "word_translation": "you ask for victory",
+      "word_transliteration": "tastaftihu"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22806,
+      "word_number_in_surah": 259,
+      "word_surah": 8,
+      "word_translation": "then certainly",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "جَآءَكُمُ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22807,
+      "word_number_in_surah": 260,
+      "word_surah": 8,
+      "word_translation": "has come to you",
+      "word_transliteration": "jaakumu"
+    },
+    {
+      "word_arabic": "ٱلۡفَتۡحُۖ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22808,
+      "word_number_in_surah": 261,
+      "word_surah": 8,
+      "word_translation": "the victory",
+      "word_transliteration": "al-fathu"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 19,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22809,
+      "word_number_in_surah": 262,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَنتَهُواْ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22810,
+      "word_number_in_surah": 263,
+      "word_surah": 8,
+      "word_translation": "you desist",
+      "word_transliteration": "tantahu"
+    },
+    {
+      "word_arabic": "فَهُوَ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22811,
+      "word_number_in_surah": 264,
+      "word_surah": 8,
+      "word_translation": "then it (is)",
+      "word_transliteration": "fahuwa"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22812,
+      "word_number_in_surah": 265,
+      "word_surah": 8,
+      "word_translation": "good",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّكُمۡۖ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22813,
+      "word_number_in_surah": 266,
+      "word_surah": 8,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 19,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22814,
+      "word_number_in_surah": 267,
+      "word_surah": 8,
+      "word_translation": "but if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَعُودُواْ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22815,
+      "word_number_in_surah": 268,
+      "word_surah": 8,
+      "word_translation": "you return",
+      "word_transliteration": "ta'udu"
+    },
+    {
+      "word_arabic": "نَعُدۡ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22816,
+      "word_number_in_surah": 269,
+      "word_surah": 8,
+      "word_translation": "We will return (too)",
+      "word_transliteration": "na'ud"
+    },
+    {
+      "word_arabic": "وَلَن",
+      "word_ayah": 19,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22817,
+      "word_number_in_surah": 270,
+      "word_surah": 8,
+      "word_translation": "And never",
+      "word_transliteration": "walan"
+    },
+    {
+      "word_arabic": "تُغۡنِيَ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22818,
+      "word_number_in_surah": 271,
+      "word_surah": 8,
+      "word_translation": "will avail",
+      "word_transliteration": "tugh'niya"
+    },
+    {
+      "word_arabic": "عَنكُمۡ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22819,
+      "word_number_in_surah": 272,
+      "word_surah": 8,
+      "word_translation": "you",
+      "word_transliteration": "ankum"
+    },
+    {
+      "word_arabic": "فِئَتُكُمۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22820,
+      "word_number_in_surah": 273,
+      "word_surah": 8,
+      "word_translation": "your forces",
+      "word_transliteration": "fi-atukum"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗا",
+      "word_ayah": 19,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22821,
+      "word_number_in_surah": 274,
+      "word_surah": 8,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22822,
+      "word_number_in_surah": 275,
+      "word_surah": 8,
+      "word_translation": "even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "كَثُرَتۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22823,
+      "word_number_in_surah": 276,
+      "word_surah": 8,
+      "word_translation": "(they are) numerous",
+      "word_transliteration": "kathurat"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22824,
+      "word_number_in_surah": 277,
+      "word_surah": 8,
+      "word_translation": "And that",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22825,
+      "word_number_in_surah": 278,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 22826,
+      "word_number_in_surah": 279,
+      "word_surah": 8,
+      "word_translation": "(is) with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 22827,
+      "word_number_in_surah": 280,
+      "word_surah": 8,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    }
+  ],
+  "fullArabic": "إِن تَسۡتَفۡتِحُواْ فَقَدۡ جَآءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُواْ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَعُودُواْ نَعُدۡ وَلَن تُغۡنِيَ عَنكُمۡ فِئَتُكُمۡ شَيۡ‍ٔٗا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِينَ",
+  "fullTranslation": "If you [disbelievers] seek the victory - the defeat has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allah is with the believers.",
+  "fullTransliteration": "in tastaftihu faqad jaakumu al-fathu wa-in tantahu fahuwa khayrun lakum wa-in ta'udu na'ud walan tugh'niya ankum fi-atukum shayan walaw kathurat wa-anna al-laha ma'a al-mu'minina"
+}

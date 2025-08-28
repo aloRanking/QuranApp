@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "ayah": 78,
+    "surah": 5,
+    "words": 17,
+    "numberInQuran": 747,
+    "juz": 6,
+    "manzil": 2,
+    "page": 121,
+    "ruku": 96,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لُعِنَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15250,
+      "word_number_in_surah": 1877,
+      "word_surah": 5,
+      "word_translation": "Were cursed",
+      "word_transliteration": "lu'ina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15251,
+      "word_number_in_surah": 1878,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15252,
+      "word_number_in_surah": 1879,
+      "word_surah": 5,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15253,
+      "word_number_in_surah": 1880,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَنِيٓ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15254,
+      "word_number_in_surah": 1881,
+      "word_surah": 5,
+      "word_translation": "(the) Children",
+      "word_transliteration": "bani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15255,
+      "word_number_in_surah": 1882,
+      "word_surah": 5,
+      "word_translation": "(of) Israel",
+      "word_transliteration": "is'raila"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15256,
+      "word_number_in_surah": 1883,
+      "word_surah": 5,
+      "word_translation": "by",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "لِسَانِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15257,
+      "word_number_in_surah": 1884,
+      "word_surah": 5,
+      "word_translation": "(the) tongue",
+      "word_transliteration": "lisani"
+    },
+    {
+      "word_arabic": "دَاوُۥدَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15258,
+      "word_number_in_surah": 1885,
+      "word_surah": 5,
+      "word_translation": "(of) Dawood",
+      "word_transliteration": "dawuda"
+    },
+    {
+      "word_arabic": "وَعِيسَى",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15259,
+      "word_number_in_surah": 1886,
+      "word_surah": 5,
+      "word_translation": "and Isa",
+      "word_transliteration": "wa'isa"
+    },
+    {
+      "word_arabic": "ٱبۡنِ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15260,
+      "word_number_in_surah": 1887,
+      "word_surah": 5,
+      "word_translation": "son",
+      "word_transliteration": "ib'ni"
+    },
+    {
+      "word_arabic": "مَرۡيَمَۚ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15261,
+      "word_number_in_surah": 1888,
+      "word_surah": 5,
+      "word_translation": "(of) Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15262,
+      "word_number_in_surah": 1889,
+      "word_surah": 5,
+      "word_translation": "that (was)",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15263,
+      "word_number_in_surah": 1890,
+      "word_surah": 5,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "عَصَواْ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15264,
+      "word_number_in_surah": 1891,
+      "word_surah": 5,
+      "word_translation": "they disobeyed",
+      "word_transliteration": "asaw"
+    },
+    {
+      "word_arabic": "وَّكَانُواْ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15265,
+      "word_number_in_surah": 1892,
+      "word_surah": 5,
+      "word_translation": "and they were",
+      "word_transliteration": "wakanu"
+    },
+    {
+      "word_arabic": "يَعۡتَدُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15266,
+      "word_number_in_surah": 1893,
+      "word_surah": 5,
+      "word_translation": "transgressing",
+      "word_transliteration": "ya'taduna"
+    }
+  ],
+  "fullArabic": "لُعِنَ ٱلَّذِينَ كَفَرُواْ مِنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبۡنِ مَرۡيَمَۚ ذَٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعۡتَدُونَ",
+  "fullTranslation": "Cursed were those who disbelieved among the Children of Israel by the tongue of David and of Jesus, the son of Mary. That was because they disobeyed and [habitually] transgressed.",
+  "fullTransliteration": "lu'ina alladhina kafaru min bani is'raila ala lisani dawuda wa'isa ib'ni maryama dhalika bima asaw wakanu ya'taduna"
+}

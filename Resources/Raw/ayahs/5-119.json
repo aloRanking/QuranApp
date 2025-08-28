@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "ayah": 119,
+    "surah": 5,
+    "words": 24,
+    "numberInQuran": 788,
+    "juz": 7,
+    "manzil": 2,
+    "page": 127,
+    "ruku": 101,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16143,
+      "word_number_in_surah": 2770,
+      "word_surah": 5,
+      "word_translation": "Will say",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16144,
+      "word_number_in_surah": 2771,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16145,
+      "word_number_in_surah": 2772,
+      "word_surah": 5,
+      "word_translation": "This",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "يَوۡمُ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16146,
+      "word_number_in_surah": 2773,
+      "word_surah": 5,
+      "word_translation": "Day",
+      "word_transliteration": "yawmu"
+    },
+    {
+      "word_arabic": "يَنفَعُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16147,
+      "word_number_in_surah": 2774,
+      "word_surah": 5,
+      "word_translation": "will profit",
+      "word_transliteration": "yanfa'u"
+    },
+    {
+      "word_arabic": "ٱلصَّٰدِقِينَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16148,
+      "word_number_in_surah": 2775,
+      "word_surah": 5,
+      "word_translation": "the truthful",
+      "word_transliteration": "al-sadiqina"
+    },
+    {
+      "word_arabic": "صِدۡقُهُمۡۚ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16149,
+      "word_number_in_surah": 2776,
+      "word_surah": 5,
+      "word_translation": "their truthfulness",
+      "word_transliteration": "sid'quhum"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16150,
+      "word_number_in_surah": 2777,
+      "word_surah": 5,
+      "word_translation": "For them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "جَنَّٰتٞ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16151,
+      "word_number_in_surah": 2778,
+      "word_surah": 5,
+      "word_translation": "(are) Gardens",
+      "word_transliteration": "jannatun"
+    },
+    {
+      "word_arabic": "تَجۡرِي",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16152,
+      "word_number_in_surah": 2779,
+      "word_surah": 5,
+      "word_translation": "flows",
+      "word_transliteration": "tajri"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 119,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16153,
+      "word_number_in_surah": 2780,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "تَحۡتِهَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16154,
+      "word_number_in_surah": 2781,
+      "word_surah": 5,
+      "word_translation": "underneath it",
+      "word_transliteration": "tahtiha"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16155,
+      "word_number_in_surah": 2782,
+      "word_surah": 5,
+      "word_translation": "the rivers",
+      "word_transliteration": "al-anharu"
+    },
+    {
+      "word_arabic": "خَٰلِدِينَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16156,
+      "word_number_in_surah": 2783,
+      "word_surah": 5,
+      "word_translation": "will abide",
+      "word_transliteration": "khalidina"
+    },
+    {
+      "word_arabic": "فِيهَآ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16157,
+      "word_number_in_surah": 2784,
+      "word_surah": 5,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "أَبَدٗاۖ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16158,
+      "word_number_in_surah": 2785,
+      "word_surah": 5,
+      "word_translation": "forever",
+      "word_transliteration": "abadan"
+    },
+    {
+      "word_arabic": "رَّضِيَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16159,
+      "word_number_in_surah": 2786,
+      "word_surah": 5,
+      "word_translation": "is pleased",
+      "word_transliteration": "radiya"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16160,
+      "word_number_in_surah": 2787,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16161,
+      "word_number_in_surah": 2788,
+      "word_surah": 5,
+      "word_translation": "with them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "وَرَضُواْ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16162,
+      "word_number_in_surah": 2789,
+      "word_surah": 5,
+      "word_translation": "and they are pleased",
+      "word_transliteration": "waradu"
+    },
+    {
+      "word_arabic": "عَنۡهُۚ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16163,
+      "word_number_in_surah": 2790,
+      "word_surah": 5,
+      "word_translation": "with Him",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16164,
+      "word_number_in_surah": 2791,
+      "word_surah": 5,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "ٱلۡفَوۡزُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16165,
+      "word_number_in_surah": 2792,
+      "word_surah": 5,
+      "word_translation": "(is) the success",
+      "word_transliteration": "al-fawzu"
+    },
+    {
+      "word_arabic": "ٱلۡعَظِيمُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 16166,
+      "word_number_in_surah": 2793,
+      "word_surah": 5,
+      "word_translation": "(the) great",
+      "word_transliteration": "al-'azimu"
+    }
+  ],
+  "fullArabic": "قَالَ ٱللَّهُ هَٰذَا يَوۡمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدۡقُهُمۡۚ لَهُمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+  "fullTranslation": "Allah will say, \"This is the Day when the truthful will benefit from their truthfulness.\" For them are gardens [in Paradise] beneath which rivers flow, wherein they will abide forever, Allah being pleased with them, and they with Him. That is the great attainment.",
+  "fullTransliteration": "qala al-lahu hadha yawmu yanfa'u al-sadiqina sid'quhum lahum jannatun tajri min tahtiha al-anharu khalidina fiha abadan radiya al-lahu anhum waradu anhu dhalika al-fawzu al-'azimu"
+}

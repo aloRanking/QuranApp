@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 4,
+    "surah": 6,
+    "words": 11,
+    "numberInQuran": 793,
+    "juz": 7,
+    "manzil": 2,
+    "page": 128,
+    "ruku": 102,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16218,
+      "word_number_in_surah": 41,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تَأۡتِيهِم",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16219,
+      "word_number_in_surah": 42,
+      "word_surah": 6,
+      "word_translation": "comes to them",
+      "word_transliteration": "tatihim"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16220,
+      "word_number_in_surah": 43,
+      "word_surah": 6,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ءَايَةٖ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16221,
+      "word_number_in_surah": 44,
+      "word_surah": 6,
+      "word_translation": "any sign",
+      "word_transliteration": "ayatin"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16222,
+      "word_number_in_surah": 45,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ءَايَٰتِ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16223,
+      "word_number_in_surah": 46,
+      "word_surah": 6,
+      "word_translation": "(the) Signs",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16224,
+      "word_number_in_surah": 47,
+      "word_surah": 6,
+      "word_translation": "(of) their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16225,
+      "word_number_in_surah": 48,
+      "word_surah": 6,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16226,
+      "word_number_in_surah": 49,
+      "word_surah": 6,
+      "word_translation": "they are",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "عَنۡهَا",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16227,
+      "word_number_in_surah": 50,
+      "word_surah": 6,
+      "word_translation": "from it",
+      "word_transliteration": "anha"
+    },
+    {
+      "word_arabic": "مُعۡرِضِينَ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16228,
+      "word_number_in_surah": 51,
+      "word_surah": 6,
+      "word_translation": "turning away",
+      "word_transliteration": "mu'ridina"
+    }
+  ],
+  "fullArabic": "وَمَا تَأۡتِيهِم مِّنۡ ءَايَةٖ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ عَنۡهَا مُعۡرِضِينَ",
+  "fullTranslation": "And no sign comes to them from the signs of their Lord except that they turn away therefrom.",
+  "fullTransliteration": "wama tatihim min ayatin min ayati rabbihim illa kanu anha mu'ridina"
+}

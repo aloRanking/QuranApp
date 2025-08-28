@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "ayah": 53,
+    "surah": 8,
+    "words": 18,
+    "numberInQuran": 1213,
+    "juz": 10,
+    "manzil": 2,
+    "page": 184,
+    "ruku": 152,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23380,
+      "word_number_in_surah": 833,
+      "word_surah": 8,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "بِأَنَّ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23381,
+      "word_number_in_surah": 834,
+      "word_surah": 8,
+      "word_translation": "(is) because",
+      "word_transliteration": "bi-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23382,
+      "word_number_in_surah": 835,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23383,
+      "word_number_in_surah": 836,
+      "word_surah": 8,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَكُ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23384,
+      "word_number_in_surah": 837,
+      "word_surah": 8,
+      "word_translation": "is",
+      "word_transliteration": "yaku"
+    },
+    {
+      "word_arabic": "مُغَيِّرٗا",
+      "word_ayah": 53,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23385,
+      "word_number_in_surah": 838,
+      "word_surah": 8,
+      "word_translation": "One Who changes",
+      "word_transliteration": "mughayyiran"
+    },
+    {
+      "word_arabic": "نِّعۡمَةً",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23386,
+      "word_number_in_surah": 839,
+      "word_surah": 8,
+      "word_translation": "a favor",
+      "word_transliteration": "ni'matan"
+    },
+    {
+      "word_arabic": "أَنۡعَمَهَا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23387,
+      "word_number_in_surah": 840,
+      "word_surah": 8,
+      "word_translation": "which He had bestowed",
+      "word_transliteration": "an'amaha"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23388,
+      "word_number_in_surah": 841,
+      "word_surah": 8,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "قَوۡمٍ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23389,
+      "word_number_in_surah": 842,
+      "word_surah": 8,
+      "word_translation": "a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23390,
+      "word_number_in_surah": 843,
+      "word_surah": 8,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يُغَيِّرُواْ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23391,
+      "word_number_in_surah": 844,
+      "word_surah": 8,
+      "word_translation": "they change",
+      "word_transliteration": "yughayyiru"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23392,
+      "word_number_in_surah": 845,
+      "word_surah": 8,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "بِأَنفُسِهِمۡ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23393,
+      "word_number_in_surah": 846,
+      "word_surah": 8,
+      "word_translation": "(is) in themselves",
+      "word_transliteration": "bi-anfusihim"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23394,
+      "word_number_in_surah": 847,
+      "word_surah": 8,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23395,
+      "word_number_in_surah": 848,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23396,
+      "word_number_in_surah": 849,
+      "word_surah": 8,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23397,
+      "word_number_in_surah": 850,
+      "word_surah": 8,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمۡ يَكُ مُغَيِّرٗا نِّعۡمَةً أَنۡعَمَهَا عَلَىٰ قَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "fullTranslation": "That is because Allah would not change a favor which He had bestowed upon a people until they change what is within themselves. And indeed, Allah is Hearing and Knowing.",
+  "fullTransliteration": "dhalika bi-anna al-laha lam yaku mughayyiran ni'matan an'amaha ala qawmin hatta yughayyiru ma bi-anfusihim wa-anna al-laha sami'un alimun"
+}

@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 77,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 1031,
+    "juz": 8,
+    "manzil": 2,
+    "page": 160,
+    "ruku": 131,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَعَقَرُواْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20484,
+      "word_number_in_surah": 1257,
+      "word_surah": 7,
+      "word_translation": "Then they hamstrung",
+      "word_transliteration": "fa'aqaru"
+    },
+    {
+      "word_arabic": "ٱلنَّاقَةَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20485,
+      "word_number_in_surah": 1258,
+      "word_surah": 7,
+      "word_translation": "the she-camel",
+      "word_transliteration": "al-naqata"
+    },
+    {
+      "word_arabic": "وَعَتَوۡاْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20486,
+      "word_number_in_surah": 1259,
+      "word_surah": 7,
+      "word_translation": "and (were) insolent",
+      "word_transliteration": "wa'ataw"
+    },
+    {
+      "word_arabic": "عَنۡ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20487,
+      "word_number_in_surah": 1260,
+      "word_surah": 7,
+      "word_translation": "towards",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "أَمۡرِ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20488,
+      "word_number_in_surah": 1261,
+      "word_surah": 7,
+      "word_translation": "(the) command",
+      "word_transliteration": "amri"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20489,
+      "word_number_in_surah": 1262,
+      "word_surah": 7,
+      "word_translation": "(of) their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20490,
+      "word_number_in_surah": 1263,
+      "word_surah": 7,
+      "word_translation": "and they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "يَٰصَٰلِحُ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20491,
+      "word_number_in_surah": 1264,
+      "word_surah": 7,
+      "word_translation": "O Salih",
+      "word_transliteration": "yasalihu"
+    },
+    {
+      "word_arabic": "ٱئۡتِنَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20492,
+      "word_number_in_surah": 1265,
+      "word_surah": 7,
+      "word_translation": "Bring us",
+      "word_transliteration": "i'tina"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20493,
+      "word_number_in_surah": 1266,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعِدُنَآ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20494,
+      "word_number_in_surah": 1267,
+      "word_surah": 7,
+      "word_translation": "you promise us",
+      "word_transliteration": "ta'iduna"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 77,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20495,
+      "word_number_in_surah": 1268,
+      "word_surah": 7,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتَ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20496,
+      "word_number_in_surah": 1269,
+      "word_surah": 7,
+      "word_translation": "you are",
+      "word_transliteration": "kunta"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20497,
+      "word_number_in_surah": 1270,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُرۡسَلِينَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20498,
+      "word_number_in_surah": 1271,
+      "word_surah": 7,
+      "word_translation": "the Messengers",
+      "word_transliteration": "al-mur'salina"
+    }
+  ],
+  "fullArabic": "فَعَقَرُواْ ٱلنَّاقَةَ وَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ وَقَالُواْ يَٰصَٰلِحُ ٱئۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلۡمُرۡسَلِينَ",
+  "fullTranslation": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Salih, bring us what you promise us, if you should be of the messengers.\"",
+  "fullTransliteration": "fa'aqaru al-naqata wa'ataw an amri rabbihim waqalu yasalihu i'tina bima ta'iduna in kunta mina al-mur'salina"
+}

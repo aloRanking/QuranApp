@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "ayah": 81,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1035,
+    "juz": 8,
+    "manzil": 2,
+    "page": 160,
+    "ruku": 131,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّكُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20532,
+      "word_number_in_surah": 1305,
+      "word_surah": 7,
+      "word_translation": "Indeed, you",
+      "word_transliteration": "innakum"
+    },
+    {
+      "word_arabic": "لَتَأۡتُونَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20533,
+      "word_number_in_surah": 1306,
+      "word_surah": 7,
+      "word_translation": "you approach",
+      "word_transliteration": "latatuna"
+    },
+    {
+      "word_arabic": "ٱلرِّجَالَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20534,
+      "word_number_in_surah": 1307,
+      "word_surah": 7,
+      "word_translation": "the men",
+      "word_transliteration": "al-rijala"
+    },
+    {
+      "word_arabic": "شَهۡوَةٗ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20535,
+      "word_number_in_surah": 1308,
+      "word_surah": 7,
+      "word_translation": "lustfully",
+      "word_transliteration": "shahwatan"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 81,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20536,
+      "word_number_in_surah": 1309,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20537,
+      "word_number_in_surah": 1310,
+      "word_surah": 7,
+      "word_translation": "instead of",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءِۚ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20538,
+      "word_number_in_surah": 1311,
+      "word_surah": 7,
+      "word_translation": "the women",
+      "word_transliteration": "al-nisai"
+    },
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20539,
+      "word_number_in_surah": 1312,
+      "word_surah": 7,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "أَنتُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20540,
+      "word_number_in_surah": 1313,
+      "word_surah": 7,
+      "word_translation": "you",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "قَوۡمٞ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20541,
+      "word_number_in_surah": 1314,
+      "word_surah": 7,
+      "word_translation": "(are) a people",
+      "word_transliteration": "qawmun"
+    },
+    {
+      "word_arabic": "مُّسۡرِفُونَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20542,
+      "word_number_in_surah": 1315,
+      "word_surah": 7,
+      "word_translation": "(who) commit excesses",
+      "word_transliteration": "mus'rifuna"
+    }
+  ],
+  "fullArabic": "إِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةٗ مِّن دُونِ ٱلنِّسَآءِۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
+  "fullTranslation": "Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people.\"",
+  "fullTransliteration": "innakum latatuna al-rijala shahwatan min duni al-nisai bal antum qawmun mus'rifuna"
+}

@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "ayah": 50,
+    "surah": 3,
+    "words": 19,
+    "numberInQuran": 343,
+    "juz": 3,
+    "manzil": 1,
+    "page": 56,
+    "ruku": 46,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمُصَدِّقٗا",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7014,
+      "word_number_in_surah": 869,
+      "word_surah": 3,
+      "word_translation": "And confirming",
+      "word_transliteration": "wamusaddiqan"
+    },
+    {
+      "word_arabic": "لِّمَا",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7015,
+      "word_number_in_surah": 870,
+      "word_surah": 3,
+      "word_translation": "that which",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7016,
+      "word_number_in_surah": 871,
+      "word_surah": 3,
+      "word_translation": "(was)",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "يَدَيَّ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7017,
+      "word_number_in_surah": 872,
+      "word_surah": 3,
+      "word_translation": "before me",
+      "word_transliteration": "yadayya"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7018,
+      "word_number_in_surah": 873,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلتَّوۡرَىٰةِ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7019,
+      "word_number_in_surah": 874,
+      "word_surah": 3,
+      "word_translation": "the Taurat",
+      "word_transliteration": "al-tawrati"
+    },
+    {
+      "word_arabic": "وَلِأُحِلَّ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7020,
+      "word_number_in_surah": 875,
+      "word_surah": 3,
+      "word_translation": "and so that I make lawful",
+      "word_transliteration": "wali-uhilla"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 50,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7021,
+      "word_number_in_surah": 876,
+      "word_surah": 3,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "بَعۡضَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7022,
+      "word_number_in_surah": 877,
+      "word_surah": 3,
+      "word_translation": "some",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7023,
+      "word_number_in_surah": 878,
+      "word_surah": 3,
+      "word_translation": "(of) that which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "حُرِّمَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7024,
+      "word_number_in_surah": 879,
+      "word_surah": 3,
+      "word_translation": "was forbidden",
+      "word_transliteration": "hurrima"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡۚ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7025,
+      "word_number_in_surah": 880,
+      "word_surah": 3,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَجِئۡتُكُم",
+      "word_ayah": 50,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7026,
+      "word_number_in_surah": 881,
+      "word_surah": 3,
+      "word_translation": "And I (have) come to you",
+      "word_transliteration": "waji'tukum"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَةٖ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7027,
+      "word_number_in_surah": 882,
+      "word_surah": 3,
+      "word_translation": "with a sign",
+      "word_transliteration": "biayatin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 50,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7028,
+      "word_number_in_surah": 883,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7029,
+      "word_number_in_surah": 884,
+      "word_surah": 3,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "فَٱتَّقُواْ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7030,
+      "word_number_in_surah": 885,
+      "word_surah": 3,
+      "word_translation": "So fear",
+      "word_transliteration": "fa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7031,
+      "word_number_in_surah": 886,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَأَطِيعُونِ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7032,
+      "word_number_in_surah": 887,
+      "word_surah": 3,
+      "word_translation": "and obey me",
+      "word_transliteration": "wa-ati'uni"
+    }
+  ],
+  "fullArabic": "وَمُصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَلِأُحِلَّ لَكُم بَعۡضَ ٱلَّذِي حُرِّمَ عَلَيۡكُمۡۚ وَجِئۡتُكُم بِ‍َٔايَةٖ مِّن رَّبِّكُمۡ فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+  "fullTranslation": "And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allah and obey me.",
+  "fullTransliteration": "wamusaddiqan lima bayna yadayya mina al-tawrati wali-uhilla lakum ba'da alladhi hurrima alaykum waji'tukum biayatin min rabbikum fa-ittaqu al-laha wa-ati'uni"
+}

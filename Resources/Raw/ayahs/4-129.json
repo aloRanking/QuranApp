@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "ayah": 129,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 622,
+    "juz": 5,
+    "manzil": 1,
+    "page": 99,
+    "ruku": 80,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12441,
+      "word_number_in_surah": 2815,
+      "word_surah": 4,
+      "word_translation": "And never",
+      "word_transliteration": "walan"
+    },
+    {
+      "word_arabic": "تَسۡتَطِيعُوٓاْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12442,
+      "word_number_in_surah": 2816,
+      "word_surah": 4,
+      "word_translation": "will you be able",
+      "word_transliteration": "tastati'u"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12443,
+      "word_number_in_surah": 2817,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَعۡدِلُواْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12444,
+      "word_number_in_surah": 2818,
+      "word_surah": 4,
+      "word_translation": "deal justly",
+      "word_transliteration": "ta'dilu"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12445,
+      "word_number_in_surah": 2819,
+      "word_surah": 4,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءِ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12446,
+      "word_number_in_surah": 2820,
+      "word_surah": 4,
+      "word_translation": "[the] women",
+      "word_transliteration": "al-nisai"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12447,
+      "word_number_in_surah": 2821,
+      "word_surah": 4,
+      "word_translation": "even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "حَرَصۡتُمۡۖ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12448,
+      "word_number_in_surah": 2822,
+      "word_surah": 4,
+      "word_translation": "you desired",
+      "word_transliteration": "harastum"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12449,
+      "word_number_in_surah": 2823,
+      "word_surah": 4,
+      "word_translation": "but (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَمِيلُواْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12450,
+      "word_number_in_surah": 2824,
+      "word_surah": 4,
+      "word_translation": "incline",
+      "word_transliteration": "tamilu"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12451,
+      "word_number_in_surah": 2825,
+      "word_surah": 4,
+      "word_translation": "(with) all",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "ٱلۡمَيۡلِ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12452,
+      "word_number_in_surah": 2826,
+      "word_surah": 4,
+      "word_translation": "the inclination",
+      "word_transliteration": "al-mayli"
+    },
+    {
+      "word_arabic": "فَتَذَرُوهَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12453,
+      "word_number_in_surah": 2827,
+      "word_surah": 4,
+      "word_translation": "and leave her (the other)",
+      "word_transliteration": "fatadharuha"
+    },
+    {
+      "word_arabic": "كَٱلۡمُعَلَّقَةِۚ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12454,
+      "word_number_in_surah": 2828,
+      "word_surah": 4,
+      "word_translation": "like the suspended one",
+      "word_transliteration": "kal-mu'alaqati"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12455,
+      "word_number_in_surah": 2829,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تُصۡلِحُواْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12456,
+      "word_number_in_surah": 2830,
+      "word_surah": 4,
+      "word_translation": "you reconcile",
+      "word_transliteration": "tus'lihu"
+    },
+    {
+      "word_arabic": "وَتَتَّقُواْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12457,
+      "word_number_in_surah": 2831,
+      "word_surah": 4,
+      "word_translation": "and fear (Allah)",
+      "word_transliteration": "watattaqu"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12458,
+      "word_number_in_surah": 2832,
+      "word_surah": 4,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12459,
+      "word_number_in_surah": 2833,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12460,
+      "word_number_in_surah": 2834,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "غَفُورٗا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12461,
+      "word_number_in_surah": 2835,
+      "word_surah": 4,
+      "word_translation": "Oft-Forgiving",
+      "word_transliteration": "ghafuran"
+    },
+    {
+      "word_arabic": "رَّحِيمٗا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12462,
+      "word_number_in_surah": 2836,
+      "word_surah": 4,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahiman"
+    }
+  ],
+  "fullArabic": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
+  "fullTranslation": "And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging. And if you amend [your affairs] and fear Allah - then indeed, Allah is ever Forgiving and Merciful.",
+  "fullTransliteration": "walan tastati'u an ta'dilu bayna al-nisai walaw harastum fala tamilu kulla al-mayli fatadharuha kal-mu'alaqati wa-in tus'lihu watattaqu fa-inna al-laha kana ghafuran rahiman"
+}

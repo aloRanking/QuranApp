@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "ayah": 260,
+    "surah": 2,
+    "words": 39,
+    "numberInQuran": 267,
+    "juz": 3,
+    "manzil": 1,
+    "page": 44,
+    "ruku": 36,
+    "hizbQuarter": 17,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5382,
+      "word_number_in_surah": 5353,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5383,
+      "word_number_in_surah": 5354,
+      "word_surah": 2,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِ‍ۧمُ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5384,
+      "word_number_in_surah": 5355,
+      "word_surah": 2,
+      "word_translation": "Ibrahim",
+      "word_transliteration": "ib'rahimu"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5385,
+      "word_number_in_surah": 5356,
+      "word_surah": 2,
+      "word_translation": "My Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "أَرِنِي",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5386,
+      "word_number_in_surah": 5357,
+      "word_surah": 2,
+      "word_translation": "show me",
+      "word_transliteration": "arini"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5387,
+      "word_number_in_surah": 5358,
+      "word_surah": 2,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "تُحۡيِ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5388,
+      "word_number_in_surah": 5359,
+      "word_surah": 2,
+      "word_translation": "You give life",
+      "word_transliteration": "tuh'yi"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتَىٰۖ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5389,
+      "word_number_in_surah": 5360,
+      "word_surah": 2,
+      "word_translation": "(to) the dead",
+      "word_transliteration": "al-mawta"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5390,
+      "word_number_in_surah": 5361,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَوَلَمۡ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5391,
+      "word_number_in_surah": 5362,
+      "word_surah": 2,
+      "word_translation": "Have not",
+      "word_transliteration": "awalam"
+    },
+    {
+      "word_arabic": "تُؤۡمِنۖ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5392,
+      "word_number_in_surah": 5363,
+      "word_surah": 2,
+      "word_translation": "you believed",
+      "word_transliteration": "tu'min"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5393,
+      "word_number_in_surah": 5364,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "بَلَىٰ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5394,
+      "word_number_in_surah": 5365,
+      "word_surah": 2,
+      "word_translation": "Yes",
+      "word_transliteration": "bala"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5395,
+      "word_number_in_surah": 5366,
+      "word_surah": 2,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "لِّيَطۡمَئِنَّ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5396,
+      "word_number_in_surah": 5367,
+      "word_surah": 2,
+      "word_translation": "to satisfy",
+      "word_transliteration": "liyatma-inna"
+    },
+    {
+      "word_arabic": "قَلۡبِيۖ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5397,
+      "word_number_in_surah": 5368,
+      "word_surah": 2,
+      "word_translation": "my heart",
+      "word_transliteration": "qalbi"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5398,
+      "word_number_in_surah": 5369,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "فَخُذۡ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5399,
+      "word_number_in_surah": 5370,
+      "word_surah": 2,
+      "word_translation": "Then take",
+      "word_transliteration": "fakhudh"
+    },
+    {
+      "word_arabic": "أَرۡبَعَةٗ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5400,
+      "word_number_in_surah": 5371,
+      "word_surah": 2,
+      "word_translation": "four",
+      "word_transliteration": "arba'atan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5401,
+      "word_number_in_surah": 5372,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلطَّيۡرِ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 5402,
+      "word_number_in_surah": 5373,
+      "word_surah": 2,
+      "word_translation": "the birds",
+      "word_transliteration": "al-tayri"
+    },
+    {
+      "word_arabic": "فَصُرۡهُنَّ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 5403,
+      "word_number_in_surah": 5374,
+      "word_surah": 2,
+      "word_translation": "and incline them",
+      "word_transliteration": "fasur'hunna"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 5404,
+      "word_number_in_surah": 5375,
+      "word_surah": 2,
+      "word_translation": "towards you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 5405,
+      "word_number_in_surah": 5376,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱجۡعَلۡ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 5406,
+      "word_number_in_surah": 5377,
+      "word_surah": 2,
+      "word_translation": "put",
+      "word_transliteration": "ij'al"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 5407,
+      "word_number_in_surah": 5378,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 5408,
+      "word_number_in_surah": 5379,
+      "word_surah": 2,
+      "word_translation": "each",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "جَبَلٖ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 5409,
+      "word_number_in_surah": 5380,
+      "word_surah": 2,
+      "word_translation": "hill",
+      "word_transliteration": "jabalin"
+    },
+    {
+      "word_arabic": "مِّنۡهُنَّ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 5410,
+      "word_number_in_surah": 5381,
+      "word_surah": 2,
+      "word_translation": "of them",
+      "word_transliteration": "min'hunna"
+    },
+    {
+      "word_arabic": "جُزۡءٗا",
+      "word_ayah": 260,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 5411,
+      "word_number_in_surah": 5382,
+      "word_surah": 2,
+      "word_translation": "a portion",
+      "word_transliteration": "juz'an"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 5412,
+      "word_number_in_surah": 5383,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱدۡعُهُنَّ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 5413,
+      "word_number_in_surah": 5384,
+      "word_surah": 2,
+      "word_translation": "call them",
+      "word_transliteration": "ud'uhunna"
+    },
+    {
+      "word_arabic": "يَأۡتِينَكَ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 5414,
+      "word_number_in_surah": 5385,
+      "word_surah": 2,
+      "word_translation": "they will come to you",
+      "word_transliteration": "yatinaka"
+    },
+    {
+      "word_arabic": "سَعۡيٗاۚ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 5415,
+      "word_number_in_surah": 5386,
+      "word_surah": 2,
+      "word_translation": "(in) haste",
+      "word_transliteration": "sa'yan"
+    },
+    {
+      "word_arabic": "وَٱعۡلَمۡ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 5416,
+      "word_number_in_surah": 5387,
+      "word_surah": 2,
+      "word_translation": "And know",
+      "word_transliteration": "wa-i'lam"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 260,
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 5417,
+      "word_number_in_surah": 5388,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 5418,
+      "word_number_in_surah": 5389,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَزِيزٌ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 5419,
+      "word_number_in_surah": 5390,
+      "word_surah": 2,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "حَكِيمٞ",
+      "word_ayah": 260,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 5420,
+      "word_number_in_surah": 5391,
+      "word_surah": 2,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قَالَ إِبۡرَٰهِ‍ۧمُ رَبِّ أَرِنِي كَيۡفَ تُحۡيِ ٱلۡمَوۡتَىٰۖ قَالَ أَوَلَمۡ تُؤۡمِنۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطۡمَئِنَّ قَلۡبِيۖ قَالَ فَخُذۡ أَرۡبَعَةٗ مِّنَ ٱلطَّيۡرِ فَصُرۡهُنَّ إِلَيۡكَ ثُمَّ ٱجۡعَلۡ عَلَىٰ كُلِّ جَبَلٖ مِّنۡهُنَّ جُزۡءٗا ثُمَّ ٱدۡعُهُنَّ يَأۡتِينَكَ سَعۡيٗاۚ وَٱعۡلَمۡ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "fullTranslation": "And [mention] when Abraham said, \"My Lord, show me how You give life to the dead.\" [Allah] said, \"Have you not believed?\" He said, \"Yes, but [I ask] only that my heart may be satisfied.\" [Allah] said, \"Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allah is Exalted in Might and Wise.\"",
+  "fullTransliteration": "wa-idh qala ib'rahimu rabbi arini kayfa tuh'yi al-mawta qala awalam tu'min qala bala walakin liyatma-inna qalbi qala fakhudh arba'atan mina al-tayri fasur'hunna ilayka thumma ij'al ala kulli jabalin min'hunna juz'an thumma ud'uhunna yatinaka sa'yan wa-i'lam anna al-laha azizun hakimun"
+}

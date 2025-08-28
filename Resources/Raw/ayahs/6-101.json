@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "ayah": 101,
+    "surah": 6,
+    "words": 18,
+    "numberInQuran": 890,
+    "juz": 7,
+    "manzil": 2,
+    "page": 140,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَدِيعُ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17934,
+      "word_number_in_surah": 1757,
+      "word_surah": 6,
+      "word_translation": "Originator",
+      "word_transliteration": "badi'u"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17935,
+      "word_number_in_surah": 1758,
+      "word_surah": 6,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِۖ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17936,
+      "word_number_in_surah": 1759,
+      "word_surah": 6,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "أَنَّىٰ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17937,
+      "word_number_in_surah": 1760,
+      "word_surah": 6,
+      "word_translation": "How",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "يَكُونُ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17938,
+      "word_number_in_surah": 1761,
+      "word_surah": 6,
+      "word_translation": "can be",
+      "word_transliteration": "yakunu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17939,
+      "word_number_in_surah": 1762,
+      "word_surah": 6,
+      "word_translation": "for Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "وَلَدٞ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17940,
+      "word_number_in_surah": 1763,
+      "word_surah": 6,
+      "word_translation": "a son",
+      "word_transliteration": "waladun"
+    },
+    {
+      "word_arabic": "وَلَمۡ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17941,
+      "word_number_in_surah": 1764,
+      "word_surah": 6,
+      "word_translation": "while not",
+      "word_transliteration": "walam"
+    },
+    {
+      "word_arabic": "تَكُن",
+      "word_ayah": 101,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17942,
+      "word_number_in_surah": 1765,
+      "word_surah": 6,
+      "word_translation": "(there) is",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "لَّهُۥ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17943,
+      "word_number_in_surah": 1766,
+      "word_surah": 6,
+      "word_translation": "for Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "صَٰحِبَةٞۖ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17944,
+      "word_number_in_surah": 1767,
+      "word_surah": 6,
+      "word_translation": "a companion",
+      "word_transliteration": "sahibatun"
+    },
+    {
+      "word_arabic": "وَخَلَقَ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17945,
+      "word_number_in_surah": 1768,
+      "word_surah": 6,
+      "word_translation": "and He created",
+      "word_transliteration": "wakhalaqa"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17946,
+      "word_number_in_surah": 1769,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "شَيۡءٖۖ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17947,
+      "word_number_in_surah": 1770,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17948,
+      "word_number_in_surah": 1771,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17949,
+      "word_number_in_surah": 1772,
+      "word_surah": 6,
+      "word_translation": "(is) of every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17950,
+      "word_number_in_surah": 1773,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17951,
+      "word_number_in_surah": 1774,
+      "word_surah": 6,
+      "word_translation": "All-Knower",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٞ وَلَمۡ تَكُن لَّهُۥ صَٰحِبَةٞۖ وَخَلَقَ كُلَّ شَيۡءٖۖ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٞ",
+  "fullTranslation": "[He is] Originator of the heavens and the earth. How could He have a son when He does not have a companion and He created all things? And He is, of all things, Knowing.",
+  "fullTransliteration": "badi'u al-samawati wal-ardi anna yakunu lahu waladun walam takun lahu sahibatun wakhalaqa kulla shayin wahuwa bikulli shayin alimun"
+}

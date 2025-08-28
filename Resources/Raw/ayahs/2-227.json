@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 227,
+    "surah": 2,
+    "words": 7,
+    "numberInQuran": 234,
+    "juz": 2,
+    "manzil": 1,
+    "page": 36,
+    "ruku": 29,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِنۡ",
+      "word_ayah": 227,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4350,
+      "word_number_in_surah": 4321,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "عَزَمُواْ",
+      "word_ayah": 227,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4351,
+      "word_number_in_surah": 4322,
+      "word_surah": 2,
+      "word_translation": "they resolve",
+      "word_transliteration": "azamu"
+    },
+    {
+      "word_arabic": "ٱلطَّلَٰقَ",
+      "word_ayah": 227,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4352,
+      "word_number_in_surah": 4323,
+      "word_surah": 2,
+      "word_translation": "(on) [the] divorce",
+      "word_transliteration": "al-talaqa"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 227,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4353,
+      "word_number_in_surah": 4324,
+      "word_surah": 2,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 227,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4354,
+      "word_number_in_surah": 4325,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 227,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4355,
+      "word_number_in_surah": 4326,
+      "word_surah": 2,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 227,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4356,
+      "word_number_in_surah": 4327,
+      "word_surah": 2,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَإِنۡ عَزَمُواْ ٱلطَّلَٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "fullTranslation": "And if they decide on divorce - then indeed, Allah is Hearing and Knowing.",
+  "fullTransliteration": "wa-in azamu al-talaqa fa-inna al-laha sami'un alimun"
+}

@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 92,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 99,
+    "juz": 1,
+    "manzil": 1,
+    "page": 14,
+    "ruku": 12,
+    "hizbQuarter": 6,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَلَقَدۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1556,
+      "word_number_in_surah": 1527,
+      "word_surah": 2,
+      "word_translation": "And indeed",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "جَآءَكُم",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1557,
+      "word_number_in_surah": 1528,
+      "word_surah": 2,
+      "word_translation": "came to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "مُّوسَىٰ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1558,
+      "word_number_in_surah": 1529,
+      "word_surah": 2,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "بِٱلۡبَيِّنَٰتِ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1559,
+      "word_number_in_surah": 1530,
+      "word_surah": 2,
+      "word_translation": "with [the] clear signs",
+      "word_transliteration": "bil-bayinati"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1560,
+      "word_number_in_surah": 1531,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱتَّخَذۡتُمُ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1561,
+      "word_number_in_surah": 1532,
+      "word_surah": 2,
+      "word_translation": "you took",
+      "word_transliteration": "ittakhadhtumu"
+    },
+    {
+      "word_arabic": "ٱلۡعِجۡلَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1562,
+      "word_number_in_surah": 1533,
+      "word_surah": 2,
+      "word_translation": "the calf",
+      "word_transliteration": "al-'ij'la"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1563,
+      "word_number_in_surah": 1534,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِۦ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1564,
+      "word_number_in_surah": 1535,
+      "word_surah": 2,
+      "word_translation": "after him",
+      "word_transliteration": "ba'dihi"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1565,
+      "word_number_in_surah": 1536,
+      "word_surah": 2,
+      "word_translation": "and you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "ظَٰلِمُونَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1566,
+      "word_number_in_surah": 1537,
+      "word_surah": 2,
+      "word_translation": "(were) wrongdoers",
+      "word_transliteration": "zalimuna"
+    }
+  ],
+  "fullArabic": "۞وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
+  "fullTranslation": "And Moses had certainly brought you clear proofs. Then you took the calf [in worship] after that, while you were wrongdoers.",
+  "fullTransliteration": "walaqad jaakum musa bil-bayinati thumma ittakhadhtumu al-'ij'la min ba'dihi wa-antum zalimuna"
+}

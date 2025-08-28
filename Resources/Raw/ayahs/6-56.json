@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "ayah": 56,
+    "surah": 6,
+    "words": 21,
+    "numberInQuran": 845,
+    "juz": 7,
+    "manzil": 2,
+    "page": 134,
+    "ruku": 108,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17064,
+      "word_number_in_surah": 887,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17065,
+      "word_number_in_surah": 888,
+      "word_surah": 6,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "نُهِيتُ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17066,
+      "word_number_in_surah": 889,
+      "word_surah": 6,
+      "word_translation": "[I] am forbidden",
+      "word_transliteration": "nuhitu"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17067,
+      "word_number_in_surah": 890,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "أَعۡبُدَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17068,
+      "word_number_in_surah": 891,
+      "word_surah": 6,
+      "word_translation": "I worship",
+      "word_transliteration": "a'buda"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17069,
+      "word_number_in_surah": 892,
+      "word_surah": 6,
+      "word_translation": "those whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "تَدۡعُونَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17070,
+      "word_number_in_surah": 893,
+      "word_surah": 6,
+      "word_translation": "you call",
+      "word_transliteration": "tad'una"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 56,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17071,
+      "word_number_in_surah": 894,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17072,
+      "word_number_in_surah": 895,
+      "word_surah": 6,
+      "word_translation": "besides",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17073,
+      "word_number_in_surah": 896,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 56,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17074,
+      "word_number_in_surah": 897,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لَّآ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17075,
+      "word_number_in_surah": 898,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أَتَّبِعُ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17076,
+      "word_number_in_surah": 899,
+      "word_surah": 6,
+      "word_translation": "I follow",
+      "word_transliteration": "attabi'u"
+    },
+    {
+      "word_arabic": "أَهۡوَآءَكُمۡ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17077,
+      "word_number_in_surah": 900,
+      "word_surah": 6,
+      "word_translation": "your (vain) desires",
+      "word_transliteration": "ahwaakum"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17078,
+      "word_number_in_surah": 901,
+      "word_surah": 6,
+      "word_translation": "certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "ضَلَلۡتُ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17079,
+      "word_number_in_surah": 902,
+      "word_surah": 6,
+      "word_translation": "I would go astray",
+      "word_transliteration": "dalaltu"
+    },
+    {
+      "word_arabic": "إِذٗا",
+      "word_ayah": 56,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17080,
+      "word_number_in_surah": 903,
+      "word_surah": 6,
+      "word_translation": "then",
+      "word_transliteration": "idhan"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17081,
+      "word_number_in_surah": 904,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَنَا۠",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17082,
+      "word_number_in_surah": 905,
+      "word_surah": 6,
+      "word_translation": "I (would be)",
+      "word_transliteration": "ana"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17083,
+      "word_number_in_surah": 906,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُهۡتَدِينَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17084,
+      "word_number_in_surah": 907,
+      "word_surah": 6,
+      "word_translation": "the guided-ones",
+      "word_transliteration": "al-muh'tadina"
+    }
+  ],
+  "fullArabic": "قُلۡ إِنِّي نُهِيتُ أَنۡ أَعۡبُدَ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِۚ قُل لَّآ أَتَّبِعُ أَهۡوَآءَكُمۡ قَدۡ ضَلَلۡتُ إِذٗا وَمَآ أَنَا۠ مِنَ ٱلۡمُهۡتَدِينَ",
+  "fullTranslation": "Say, \"Indeed, I have been forbidden to worship those you invoke besides Allah.\" Say, \"I will not follow your desires, for I would then have gone astray, and I would not be of the [rightly] guided.\"",
+  "fullTransliteration": "qul inni nuhitu an a'buda alladhina tad'una min duni al-lahi qul la attabi'u ahwaakum qad dalaltu idhan wama ana mina al-muh'tadina"
+}

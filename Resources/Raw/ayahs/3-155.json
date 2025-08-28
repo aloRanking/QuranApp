@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "ayah": 155,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 448,
+    "juz": 4,
+    "manzil": 1,
+    "page": 70,
+    "ruku": 57,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8775,
+      "word_number_in_surah": 2630,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8776,
+      "word_number_in_surah": 2631,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8777,
+      "word_number_in_surah": 2632,
+      "word_surah": 3,
+      "word_translation": "turned back",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8778,
+      "word_number_in_surah": 2633,
+      "word_surah": 3,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8779,
+      "word_number_in_surah": 2634,
+      "word_surah": 3,
+      "word_translation": "(on the) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡتَقَى",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8780,
+      "word_number_in_surah": 2635,
+      "word_surah": 3,
+      "word_translation": "met",
+      "word_transliteration": "al-taqa"
+    },
+    {
+      "word_arabic": "ٱلۡجَمۡعَانِ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8781,
+      "word_number_in_surah": 2636,
+      "word_surah": 3,
+      "word_translation": "the two hosts",
+      "word_transliteration": "al-jam'ani"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8782,
+      "word_number_in_surah": 2637,
+      "word_surah": 3,
+      "word_translation": "only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "ٱسۡتَزَلَّهُمُ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8783,
+      "word_number_in_surah": 2638,
+      "word_surah": 3,
+      "word_translation": "made them slip",
+      "word_transliteration": "is'tazallahumu"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8784,
+      "word_number_in_surah": 2639,
+      "word_surah": 3,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "بِبَعۡضِ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8785,
+      "word_number_in_surah": 2640,
+      "word_surah": 3,
+      "word_translation": "for some",
+      "word_transliteration": "biba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8786,
+      "word_number_in_surah": 2641,
+      "word_surah": 3,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَسَبُواْۖ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8787,
+      "word_number_in_surah": 2642,
+      "word_surah": 3,
+      "word_translation": "they (had) earned",
+      "word_transliteration": "kasabu"
+    },
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8788,
+      "word_number_in_surah": 2643,
+      "word_surah": 3,
+      "word_translation": "And surely",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "عَفَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8789,
+      "word_number_in_surah": 2644,
+      "word_surah": 3,
+      "word_translation": "forgave",
+      "word_transliteration": "afa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8790,
+      "word_number_in_surah": 2645,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡۗ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8791,
+      "word_number_in_surah": 2646,
+      "word_surah": 3,
+      "word_translation": "[on] them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8792,
+      "word_number_in_surah": 2647,
+      "word_surah": 3,
+      "word_translation": "indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8793,
+      "word_number_in_surah": 2648,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٌ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8794,
+      "word_number_in_surah": 2649,
+      "word_surah": 3,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "حَلِيمٞ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8795,
+      "word_number_in_surah": 2650,
+      "word_surah": 3,
+      "word_translation": "All-Forbearing",
+      "word_transliteration": "halimun"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ تَوَلَّوۡاْ مِنكُمۡ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ إِنَّمَا ٱسۡتَزَلَّهُمُ ٱلشَّيۡطَٰنُ بِبَعۡضِ مَا كَسَبُواْۖ وَلَقَدۡ عَفَا ٱللَّهُ عَنۡهُمۡۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٞ",
+  "fullTranslation": "Indeed, those of you who turned back on the day the two armies met, it was Satan who caused them to slip because of some [blame] they had earned. But Allah has already forgiven them. Indeed, Allah is Forgiving and Forbearing.",
+  "fullTransliteration": "inna alladhina tawallaw minkum yawma al-taqa al-jam'ani innama is'tazallahumu al-shaytanu biba'di ma kasabu walaqad afa al-lahu anhum inna al-laha ghafurun halimun"
+}

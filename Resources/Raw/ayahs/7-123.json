@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "ayah": 123,
+    "surah": 7,
+    "words": 19,
+    "numberInQuran": 1077,
+    "juz": 9,
+    "manzil": 2,
+    "page": 165,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21048,
+      "word_number_in_surah": 1821,
+      "word_surah": 7,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنُ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21049,
+      "word_number_in_surah": 1822,
+      "word_surah": 7,
+      "word_translation": "Firaun",
+      "word_transliteration": "fir'awnu"
+    },
+    {
+      "word_arabic": "ءَامَنتُم",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21050,
+      "word_number_in_surah": 1823,
+      "word_surah": 7,
+      "word_translation": "You believed",
+      "word_transliteration": "amantum"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21051,
+      "word_number_in_surah": 1824,
+      "word_surah": 7,
+      "word_translation": "in him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "قَبۡلَ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21052,
+      "word_number_in_surah": 1825,
+      "word_surah": 7,
+      "word_translation": "before",
+      "word_transliteration": "qabla"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21053,
+      "word_number_in_surah": 1826,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "ءَاذَنَ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21054,
+      "word_number_in_surah": 1827,
+      "word_surah": 7,
+      "word_translation": "I give permission",
+      "word_transliteration": "adhana"
+    },
+    {
+      "word_arabic": "لَكُمۡۖ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21055,
+      "word_number_in_surah": 1828,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21056,
+      "word_number_in_surah": 1829,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21057,
+      "word_number_in_surah": 1830,
+      "word_surah": 7,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "لَمَكۡرٞ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21058,
+      "word_number_in_surah": 1831,
+      "word_surah": 7,
+      "word_translation": "(is) surely a plot",
+      "word_transliteration": "lamakrun"
+    },
+    {
+      "word_arabic": "مَّكَرۡتُمُوهُ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21059,
+      "word_number_in_surah": 1832,
+      "word_surah": 7,
+      "word_translation": "you have plotted it",
+      "word_transliteration": "makartumuhu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21060,
+      "word_number_in_surah": 1833,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡمَدِينَةِ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21061,
+      "word_number_in_surah": 1834,
+      "word_surah": 7,
+      "word_translation": "the city",
+      "word_transliteration": "al-madinati"
+    },
+    {
+      "word_arabic": "لِتُخۡرِجُواْ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21062,
+      "word_number_in_surah": 1835,
+      "word_surah": 7,
+      "word_translation": "so that you may drive out",
+      "word_transliteration": "litukh'riju"
+    },
+    {
+      "word_arabic": "مِنۡهَآ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21063,
+      "word_number_in_surah": 1836,
+      "word_surah": 7,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "أَهۡلَهَاۖ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21064,
+      "word_number_in_surah": 1837,
+      "word_surah": 7,
+      "word_translation": "its people",
+      "word_transliteration": "ahlaha"
+    },
+    {
+      "word_arabic": "فَسَوۡفَ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21065,
+      "word_number_in_surah": 1838,
+      "word_surah": 7,
+      "word_translation": "But soon",
+      "word_transliteration": "fasawfa"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21066,
+      "word_number_in_surah": 1839,
+      "word_surah": 7,
+      "word_translation": "you will know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "قَالَ فِرۡعَوۡنُ ءَامَنتُم بِهِۦ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّ هَٰذَا لَمَكۡرٞ مَّكَرۡتُمُوهُ فِي ٱلۡمَدِينَةِ لِتُخۡرِجُواْ مِنۡهَآ أَهۡلَهَاۖ فَسَوۡفَ تَعۡلَمُونَ",
+  "fullTranslation": "Said Pharaoh, \"You believed in him before I gave you permission. Indeed, this is a conspiracy which you conspired in the city to expel therefrom its people. But you are going to know.",
+  "fullTransliteration": "qala fir'awnu amantum bihi qabla an adhana lakum inna hadha lamakrun makartumuhu fi al-madinati litukh'riju min'ha ahlaha fasawfa ta'lamuna"
+}

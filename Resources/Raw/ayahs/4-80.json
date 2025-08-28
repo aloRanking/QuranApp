@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 80,
+    "surah": 4,
+    "words": 12,
+    "numberInQuran": 573,
+    "juz": 5,
+    "manzil": 1,
+    "page": 91,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 80,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11384,
+      "word_number_in_surah": 1758,
+      "word_surah": 4,
+      "word_translation": "(He) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يُطِعِ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11385,
+      "word_number_in_surah": 1759,
+      "word_surah": 4,
+      "word_translation": "obeys",
+      "word_transliteration": "yuti'i"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11386,
+      "word_number_in_surah": 1760,
+      "word_surah": 4,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasula"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11387,
+      "word_number_in_surah": 1761,
+      "word_surah": 4,
+      "word_translation": "then surely",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "أَطَاعَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11388,
+      "word_number_in_surah": 1762,
+      "word_surah": 4,
+      "word_translation": "he obeyed",
+      "word_transliteration": "ata'a"
+    },
+    {
+      "word_arabic": "ٱللَّهَۖ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11389,
+      "word_number_in_surah": 1763,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 80,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11390,
+      "word_number_in_surah": 1764,
+      "word_surah": 4,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "تَوَلَّىٰ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11391,
+      "word_number_in_surah": 1765,
+      "word_surah": 4,
+      "word_translation": "turns away",
+      "word_transliteration": "tawalla"
+    },
+    {
+      "word_arabic": "فَمَآ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11392,
+      "word_number_in_surah": 1766,
+      "word_surah": 4,
+      "word_translation": "then not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "أَرۡسَلۡنَٰكَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11393,
+      "word_number_in_surah": 1767,
+      "word_surah": 4,
+      "word_translation": "We (have) sent you",
+      "word_transliteration": "arsalnaka"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11394,
+      "word_number_in_surah": 1768,
+      "word_surah": 4,
+      "word_translation": "over them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "حَفِيظٗا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11395,
+      "word_number_in_surah": 1769,
+      "word_surah": 4,
+      "word_translation": "(as) a guardian",
+      "word_transliteration": "hafizan"
+    }
+  ],
+  "fullArabic": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗا",
+  "fullTranslation": "He who obeys the Messenger has obeyed Allah; but those who turn away - We have not sent you over them as a guardian.",
+  "fullTransliteration": "man yuti'i al-rasula faqad ata'a al-laha waman tawalla fama arsalnaka alayhim hafizan"
+}

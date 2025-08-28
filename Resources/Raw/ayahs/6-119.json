@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "ayah": 119,
+    "surah": 6,
+    "words": 30,
+    "numberInQuran": 908,
+    "juz": 8,
+    "manzil": 2,
+    "page": 143,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18215,
+      "word_number_in_surah": 2038,
+      "word_surah": 6,
+      "word_translation": "And what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18216,
+      "word_number_in_surah": 2039,
+      "word_surah": 6,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18217,
+      "word_number_in_surah": 2040,
+      "word_surah": 6,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تَأۡكُلُواْ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18218,
+      "word_number_in_surah": 2041,
+      "word_surah": 6,
+      "word_translation": "you eat",
+      "word_transliteration": "takulu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18219,
+      "word_number_in_surah": 2042,
+      "word_surah": 6,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "ذُكِرَ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18220,
+      "word_number_in_surah": 2043,
+      "word_surah": 6,
+      "word_translation": "has been mentioned",
+      "word_transliteration": "dhukira"
+    },
+    {
+      "word_arabic": "ٱسۡمُ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18221,
+      "word_number_in_surah": 2044,
+      "word_surah": 6,
+      "word_translation": "(the) name",
+      "word_transliteration": "us'mu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18222,
+      "word_number_in_surah": 2045,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18223,
+      "word_number_in_surah": 2046,
+      "word_surah": 6,
+      "word_translation": "on it",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18224,
+      "word_number_in_surah": 2047,
+      "word_surah": 6,
+      "word_translation": "when indeed",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "فَصَّلَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18225,
+      "word_number_in_surah": 2048,
+      "word_surah": 6,
+      "word_translation": "He (has) explained in detail",
+      "word_transliteration": "fassala"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 119,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18226,
+      "word_number_in_surah": 2049,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18227,
+      "word_number_in_surah": 2050,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "حَرَّمَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18228,
+      "word_number_in_surah": 2051,
+      "word_surah": 6,
+      "word_translation": "He (has) forbidden",
+      "word_transliteration": "harrama"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18229,
+      "word_number_in_surah": 2052,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18230,
+      "word_number_in_surah": 2053,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18231,
+      "word_number_in_surah": 2054,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ٱضۡطُرِرۡتُمۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18232,
+      "word_number_in_surah": 2055,
+      "word_surah": 6,
+      "word_translation": "you are compelled",
+      "word_transliteration": "ud'turir'tum"
+    },
+    {
+      "word_arabic": "إِلَيۡهِۗ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18233,
+      "word_number_in_surah": 2056,
+      "word_surah": 6,
+      "word_translation": "to it",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18234,
+      "word_number_in_surah": 2057,
+      "word_surah": 6,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18235,
+      "word_number_in_surah": 2058,
+      "word_surah": 6,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "لَّيُضِلُّونَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18236,
+      "word_number_in_surah": 2059,
+      "word_surah": 6,
+      "word_translation": "surely lead astray",
+      "word_transliteration": "layudilluna"
+    },
+    {
+      "word_arabic": "بِأَهۡوَآئِهِم",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18237,
+      "word_number_in_surah": 2060,
+      "word_surah": 6,
+      "word_translation": "by their (vain) desires",
+      "word_transliteration": "bi-ahwaihim"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18238,
+      "word_number_in_surah": 2061,
+      "word_surah": 6,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "عِلۡمٍۚ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18239,
+      "word_number_in_surah": 2062,
+      "word_surah": 6,
+      "word_translation": "knowledge",
+      "word_transliteration": "il'min"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18240,
+      "word_number_in_surah": 2063,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 18241,
+      "word_number_in_surah": 2064,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 18242,
+      "word_number_in_surah": 2065,
+      "word_surah": 6,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 18243,
+      "word_number_in_surah": 2066,
+      "word_surah": 6,
+      "word_translation": "(is) most knowing",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "بِٱلۡمُعۡتَدِينَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 18244,
+      "word_number_in_surah": 2067,
+      "word_surah": 6,
+      "word_translation": "of the transgressors",
+      "word_transliteration": "bil-mu'tadina"
+    }
+  ],
+  "fullArabic": "وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِٱلۡمُعۡتَدِينَ",
+  "fullTranslation": "And why should you not eat of that upon which the name of Allah has been mentioned while He has explained in detail to you what He has forbidden you, excepting that to which you are compelled. And indeed do many lead [others] astray through their [own] inclinations without knowledge. Indeed, your Lord - He is most knowing of the transgressors.",
+  "fullTransliteration": "wama lakum alla takulu mimma dhukira us'mu al-lahi alayhi waqad fassala lakum ma harrama alaykum illa ma ud'turir'tum ilayhi wa-inna kathiran layudilluna bi-ahwaihim bighayri il'min inna rabbaka huwa a'lamu bil-mu'tadina"
+}

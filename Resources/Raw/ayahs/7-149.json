@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "ayah": 149,
+    "surah": 7,
+    "words": 18,
+    "numberInQuran": 1103,
+    "juz": 9,
+    "manzil": 2,
+    "page": 168,
+    "ruku": 139,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَمَّا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21514,
+      "word_number_in_surah": 2287,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "walamma"
+    },
+    {
+      "word_arabic": "سُقِطَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21515,
+      "word_number_in_surah": 2288,
+      "word_surah": 7,
+      "word_translation": "(it was made to) fall",
+      "word_transliteration": "suqita"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21516,
+      "word_number_in_surah": 2289,
+      "word_surah": 7,
+      "word_translation": "into",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَيۡدِيهِمۡ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21517,
+      "word_number_in_surah": 2290,
+      "word_surah": 7,
+      "word_translation": "their hands",
+      "word_transliteration": "aydihim"
+    },
+    {
+      "word_arabic": "وَرَأَوۡاْ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21518,
+      "word_number_in_surah": 2291,
+      "word_surah": 7,
+      "word_translation": "and they saw",
+      "word_transliteration": "wara-aw"
+    },
+    {
+      "word_arabic": "أَنَّهُمۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21519,
+      "word_number_in_surah": 2292,
+      "word_surah": 7,
+      "word_translation": "that they",
+      "word_transliteration": "annahum"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21520,
+      "word_number_in_surah": 2293,
+      "word_surah": 7,
+      "word_translation": "(had) indeed",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "ضَلُّواْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21521,
+      "word_number_in_surah": 2294,
+      "word_surah": 7,
+      "word_translation": "gone astray",
+      "word_transliteration": "dallu"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21522,
+      "word_number_in_surah": 2295,
+      "word_surah": 7,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "لَئِن",
+      "word_ayah": 149,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21523,
+      "word_number_in_surah": 2296,
+      "word_surah": 7,
+      "word_translation": "If",
+      "word_transliteration": "la-in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21524,
+      "word_number_in_surah": 2297,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَرۡحَمۡنَا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21525,
+      "word_number_in_surah": 2298,
+      "word_surah": 7,
+      "word_translation": "has Mercy on us",
+      "word_transliteration": "yarhamna"
+    },
+    {
+      "word_arabic": "رَبُّنَا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21526,
+      "word_number_in_surah": 2299,
+      "word_surah": 7,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbuna"
+    },
+    {
+      "word_arabic": "وَيَغۡفِرۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21527,
+      "word_number_in_surah": 2300,
+      "word_surah": 7,
+      "word_translation": "and forgive",
+      "word_transliteration": "wayaghfir"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21528,
+      "word_number_in_surah": 2301,
+      "word_surah": 7,
+      "word_translation": "[for] us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "لَنَكُونَنَّ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21529,
+      "word_number_in_surah": 2302,
+      "word_surah": 7,
+      "word_translation": "we will surely be",
+      "word_transliteration": "lanakunanna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21530,
+      "word_number_in_surah": 2303,
+      "word_surah": 7,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰسِرِينَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21531,
+      "word_number_in_surah": 2304,
+      "word_surah": 7,
+      "word_translation": "the losers",
+      "word_transliteration": "al-khasirina"
+    }
+  ],
+  "fullArabic": "وَلَمَّا سُقِطَ فِيٓ أَيۡدِيهِمۡ وَرَأَوۡاْ أَنَّهُمۡ قَدۡ ضَلُّواْ قَالُواْ لَئِن لَّمۡ يَرۡحَمۡنَا رَبُّنَا وَيَغۡفِرۡ لَنَا لَنَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ",
+  "fullTranslation": "And when regret overcame them and they saw that they had gone astray, they said, \"If our Lord does not have mercy upon us and forgive us, we will surely be among the losers.\"",
+  "fullTransliteration": "walamma suqita fi aydihim wara-aw annahum qad dallu qalu la-in lam yarhamna rabbuna wayaghfir lana lanakunanna mina al-khasirina"
+}

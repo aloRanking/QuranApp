@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 123,
+    "surah": 6,
+    "words": 15,
+    "numberInQuran": 912,
+    "juz": 8,
+    "manzil": 2,
+    "page": 143,
+    "ruku": 116,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18301,
+      "word_number_in_surah": 2124,
+      "word_surah": 6,
+      "word_translation": "And thus",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "جَعَلۡنَا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18302,
+      "word_number_in_surah": 2125,
+      "word_surah": 6,
+      "word_translation": "We placed",
+      "word_transliteration": "ja'alna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18303,
+      "word_number_in_surah": 2126,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18304,
+      "word_number_in_surah": 2127,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "قَرۡيَةٍ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18305,
+      "word_number_in_surah": 2128,
+      "word_surah": 6,
+      "word_translation": "city",
+      "word_transliteration": "qaryatin"
+    },
+    {
+      "word_arabic": "أَكَٰبِرَ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18306,
+      "word_number_in_surah": 2129,
+      "word_surah": 6,
+      "word_translation": "greatest",
+      "word_transliteration": "akabira"
+    },
+    {
+      "word_arabic": "مُجۡرِمِيهَا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18307,
+      "word_number_in_surah": 2130,
+      "word_surah": 6,
+      "word_translation": "(of) its criminals",
+      "word_transliteration": "muj'rimiha"
+    },
+    {
+      "word_arabic": "لِيَمۡكُرُواْ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18308,
+      "word_number_in_surah": 2131,
+      "word_surah": 6,
+      "word_translation": "so that they plot",
+      "word_transliteration": "liyamkuru"
+    },
+    {
+      "word_arabic": "فِيهَاۖ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18309,
+      "word_number_in_surah": 2132,
+      "word_surah": 6,
+      "word_translation": "therein",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18310,
+      "word_number_in_surah": 2133,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَمۡكُرُونَ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18311,
+      "word_number_in_surah": 2134,
+      "word_surah": 6,
+      "word_translation": "they plot",
+      "word_transliteration": "yamkuruna"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18312,
+      "word_number_in_surah": 2135,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "بِأَنفُسِهِمۡ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18313,
+      "word_number_in_surah": 2136,
+      "word_surah": 6,
+      "word_translation": "against themselves",
+      "word_transliteration": "bi-anfusihim"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18314,
+      "word_number_in_surah": 2137,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَشۡعُرُونَ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18315,
+      "word_number_in_surah": 2138,
+      "word_surah": 6,
+      "word_translation": "they perceive",
+      "word_transliteration": "yash'uruna"
+    }
+  ],
+  "fullArabic": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
+  "fullTranslation": "And thus We have placed within every city the greatest of its criminals to conspire therein. But they conspire not except against themselves, and they perceive [it] not.",
+  "fullTransliteration": "wakadhalika ja'alna fi kulli qaryatin akabira muj'rimiha liyamkuru fiha wama yamkuruna illa bi-anfusihim wama yash'uruna"
+}

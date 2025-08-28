@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "ayah": 266,
+    "surah": 2,
+    "words": 35,
+    "numberInQuran": 273,
+    "juz": 3,
+    "manzil": 1,
+    "page": 45,
+    "ruku": 37,
+    "hizbQuarter": 18,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَيَوَدُّ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5545,
+      "word_number_in_surah": 5516,
+      "word_surah": 2,
+      "word_translation": "Would like",
+      "word_transliteration": "ayawaddu"
+    },
+    {
+      "word_arabic": "أَحَدُكُمۡ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5546,
+      "word_number_in_surah": 5517,
+      "word_surah": 2,
+      "word_translation": "any of you",
+      "word_transliteration": "ahadukum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 266,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5547,
+      "word_number_in_surah": 5518,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَكُونَ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5548,
+      "word_number_in_surah": 5519,
+      "word_surah": 2,
+      "word_translation": "it be",
+      "word_transliteration": "takuna"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5549,
+      "word_number_in_surah": 5520,
+      "word_surah": 2,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "جَنَّةٞ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5550,
+      "word_number_in_surah": 5521,
+      "word_surah": 2,
+      "word_translation": "a garden",
+      "word_transliteration": "jannatun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 266,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5551,
+      "word_number_in_surah": 5522,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّخِيلٖ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5552,
+      "word_number_in_surah": 5523,
+      "word_surah": 2,
+      "word_translation": "date-palms",
+      "word_transliteration": "nakhilin"
+    },
+    {
+      "word_arabic": "وَأَعۡنَابٖ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5553,
+      "word_number_in_surah": 5524,
+      "word_surah": 2,
+      "word_translation": "and grapevines",
+      "word_transliteration": "wa-a'nabin"
+    },
+    {
+      "word_arabic": "تَجۡرِي",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5554,
+      "word_number_in_surah": 5525,
+      "word_surah": 2,
+      "word_translation": "flowing",
+      "word_transliteration": "tajri"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 266,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5555,
+      "word_number_in_surah": 5526,
+      "word_surah": 2,
+      "word_translation": "[from]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "تَحۡتِهَا",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5556,
+      "word_number_in_surah": 5527,
+      "word_surah": 2,
+      "word_translation": "underneath it",
+      "word_transliteration": "tahtiha"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرُ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5557,
+      "word_number_in_surah": 5528,
+      "word_surah": 2,
+      "word_translation": "the rivers",
+      "word_transliteration": "al-anharu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5558,
+      "word_number_in_surah": 5529,
+      "word_surah": 2,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5559,
+      "word_number_in_surah": 5530,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 266,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5560,
+      "word_number_in_surah": 5531,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5561,
+      "word_number_in_surah": 5532,
+      "word_surah": 2,
+      "word_translation": "all (kinds)",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "ٱلثَّمَرَٰتِ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5562,
+      "word_number_in_surah": 5533,
+      "word_surah": 2,
+      "word_translation": "(of) [the] fruits",
+      "word_transliteration": "al-thamarati"
+    },
+    {
+      "word_arabic": "وَأَصَابَهُ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5563,
+      "word_number_in_surah": 5534,
+      "word_surah": 2,
+      "word_translation": "and strikes him",
+      "word_transliteration": "wa-asabahu"
+    },
+    {
+      "word_arabic": "ٱلۡكِبَرُ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5564,
+      "word_number_in_surah": 5535,
+      "word_surah": 2,
+      "word_translation": "[the] old age",
+      "word_transliteration": "al-kibaru"
+    },
+    {
+      "word_arabic": "وَلَهُۥ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 5565,
+      "word_number_in_surah": 5536,
+      "word_surah": 2,
+      "word_translation": "and [for] his",
+      "word_transliteration": "walahu"
+    },
+    {
+      "word_arabic": "ذُرِّيَّةٞ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 5566,
+      "word_number_in_surah": 5537,
+      "word_surah": 2,
+      "word_translation": "children",
+      "word_transliteration": "dhurriyyatun"
+    },
+    {
+      "word_arabic": "ضُعَفَآءُ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 5567,
+      "word_number_in_surah": 5538,
+      "word_surah": 2,
+      "word_translation": "(are) weak",
+      "word_transliteration": "du'afau"
+    },
+    {
+      "word_arabic": "فَأَصَابَهَآ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 5568,
+      "word_number_in_surah": 5539,
+      "word_surah": 2,
+      "word_translation": "then falls on it",
+      "word_transliteration": "fa-asabaha"
+    },
+    {
+      "word_arabic": "إِعۡصَارٞ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 5569,
+      "word_number_in_surah": 5540,
+      "word_surah": 2,
+      "word_translation": "whirlwind",
+      "word_transliteration": "i'sarun"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 5570,
+      "word_number_in_surah": 5541,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "نَارٞ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 5571,
+      "word_number_in_surah": 5542,
+      "word_surah": 2,
+      "word_translation": "(is) fire",
+      "word_transliteration": "narun"
+    },
+    {
+      "word_arabic": "فَٱحۡتَرَقَتۡۗ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 5572,
+      "word_number_in_surah": 5543,
+      "word_surah": 2,
+      "word_translation": "then it is burnt",
+      "word_transliteration": "fa-ih'taraqat"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 5573,
+      "word_number_in_surah": 5544,
+      "word_surah": 2,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "يُبَيِّنُ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 5574,
+      "word_number_in_surah": 5545,
+      "word_surah": 2,
+      "word_translation": "makes clear",
+      "word_transliteration": "yubayyinu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 5575,
+      "word_number_in_surah": 5546,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 266,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 5576,
+      "word_number_in_surah": 5547,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 5577,
+      "word_number_in_surah": 5548,
+      "word_surah": 2,
+      "word_translation": "(His) Signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 5578,
+      "word_number_in_surah": 5549,
+      "word_surah": 2,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَتَفَكَّرُونَ",
+      "word_ayah": 266,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 5579,
+      "word_number_in_surah": 5550,
+      "word_surah": 2,
+      "word_translation": "ponder",
+      "word_transliteration": "tatafakkaruna"
+    }
+  ],
+  "fullArabic": "أَيَوَدُّ أَحَدُكُمۡ أَن تَكُونَ لَهُۥ جَنَّةٞ مِّن نَّخِيلٖ وَأَعۡنَابٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلۡكِبَرُ وَلَهُۥ ذُرِّيَّةٞ ضُعَفَآءُ فَأَصَابَهَآ إِعۡصَارٞ فِيهِ نَارٞ فَٱحۡتَرَقَتۡۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِ لَعَلَّكُمۡ تَتَفَكَّرُونَ",
+  "fullTranslation": "Would one of you like to have a garden of palm trees and grapevines underneath which rivers flow in which he has from every fruit? But he is afflicted with old age and has weak offspring, and it is hit by a whirlwind containing fire and is burned. Thus does Allah make clear to you [His] verses that you might give thought.",
+  "fullTransliteration": "ayawaddu ahadukum an takuna lahu jannatun min nakhilin wa-a'nabin tajri min tahtiha al-anharu lahu fiha min kulli al-thamarati wa-asabahu al-kibaru walahu dhurriyyatun du'afau fa-asabaha i'sarun fihi narun fa-ih'taraqat kadhalika yubayyinu al-lahu lakumu al-ayati la'allakum tatafakkaruna"
+}

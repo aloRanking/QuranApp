@@ -33,7 +33,7 @@ JsonSerializerOptions options = new JsonSerializerOptions
 
     public async Task<Ayah> GetAyahAsync(int surahNumber, int ayahNumber)
     {
-        var fileName = $"{surahNumber}-{ayahNumber}.json";
+        var fileName = $"ayahs/{surahNumber}-{ayahNumber}.json";
 
         try
         {

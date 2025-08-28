@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "ayah": 29,
+    "surah": 3,
+    "words": 22,
+    "numberInQuran": 322,
+    "juz": 3,
+    "manzil": 1,
+    "page": 53,
+    "ruku": 44,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6636,
+      "word_number_in_surah": 491,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 29,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6637,
+      "word_number_in_surah": 492,
+      "word_surah": 3,
+      "word_translation": "Whether",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تُخۡفُواْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6638,
+      "word_number_in_surah": 493,
+      "word_surah": 3,
+      "word_translation": "you conceal",
+      "word_transliteration": "tukh'fu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6639,
+      "word_number_in_surah": 494,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6640,
+      "word_number_in_surah": 495,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "صُدُورِكُمۡ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6641,
+      "word_number_in_surah": 496,
+      "word_surah": 3,
+      "word_translation": "your breasts",
+      "word_transliteration": "sudurikum"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6642,
+      "word_number_in_surah": 497,
+      "word_surah": 3,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تُبۡدُوهُ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6643,
+      "word_number_in_surah": 498,
+      "word_surah": 3,
+      "word_translation": "you disclose it",
+      "word_transliteration": "tub'duhu"
+    },
+    {
+      "word_arabic": "يَعۡلَمۡهُ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6644,
+      "word_number_in_surah": 499,
+      "word_surah": 3,
+      "word_translation": "knows it",
+      "word_transliteration": "ya'lamhu"
+    },
+    {
+      "word_arabic": "ٱللَّهُۗ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6645,
+      "word_number_in_surah": 500,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَيَعۡلَمُ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6646,
+      "word_number_in_surah": 501,
+      "word_surah": 3,
+      "word_translation": "And He knows",
+      "word_transliteration": "waya'lamu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6647,
+      "word_number_in_surah": 502,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6648,
+      "word_number_in_surah": 503,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6649,
+      "word_number_in_surah": 504,
+      "word_surah": 3,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6650,
+      "word_number_in_surah": 505,
+      "word_surah": 3,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6651,
+      "word_number_in_surah": 506,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۗ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6652,
+      "word_number_in_surah": 507,
+      "word_surah": 3,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6653,
+      "word_number_in_surah": 508,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6654,
+      "word_number_in_surah": 509,
+      "word_surah": 3,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6655,
+      "word_number_in_surah": 510,
+      "word_surah": 3,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6656,
+      "word_number_in_surah": 511,
+      "word_surah": 3,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٞ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6657,
+      "word_number_in_surah": 512,
+      "word_surah": 3,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "قُلۡ إِن تُخۡفُواْ مَا فِي صُدُورِكُمۡ أَوۡ تُبۡدُوهُ يَعۡلَمۡهُ ٱللَّهُۗ وَيَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "fullTranslation": "Say, \"Whether you conceal what is in your breasts or reveal it, Allah knows it. And He knows that which is in the heavens and that which is on the earth. And Allah is over all things competent.",
+  "fullTransliteration": "qul in tukh'fu ma fi sudurikum aw tub'duhu ya'lamhu al-lahu waya'lamu ma fi al-samawati wama fi al-ardi wal-lahu ala kulli shayin qadirun"
+}

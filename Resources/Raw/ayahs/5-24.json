@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 24,
+    "surah": 5,
+    "words": 16,
+    "numberInQuran": 693,
+    "juz": 6,
+    "manzil": 2,
+    "page": 112,
+    "ruku": 89,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14047,
+      "word_number_in_surah": 674,
+      "word_surah": 5,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "يَٰمُوسَىٰٓ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14048,
+      "word_number_in_surah": 675,
+      "word_surah": 5,
+      "word_translation": "O Musa",
+      "word_transliteration": "yamusa"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14049,
+      "word_number_in_surah": 676,
+      "word_surah": 5,
+      "word_translation": "Indeed, we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "لَن",
+      "word_ayah": 24,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14050,
+      "word_number_in_surah": 677,
+      "word_surah": 5,
+      "word_translation": "never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "نَّدۡخُلَهَآ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14051,
+      "word_number_in_surah": 678,
+      "word_surah": 5,
+      "word_translation": "will enter it",
+      "word_transliteration": "nadkhulaha"
+    },
+    {
+      "word_arabic": "أَبَدٗا",
+      "word_ayah": 24,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14052,
+      "word_number_in_surah": 679,
+      "word_surah": 5,
+      "word_translation": "ever",
+      "word_transliteration": "abadan"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14053,
+      "word_number_in_surah": 680,
+      "word_surah": 5,
+      "word_translation": "for",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "دَامُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14054,
+      "word_number_in_surah": 681,
+      "word_surah": 5,
+      "word_translation": "as long as they are",
+      "word_transliteration": "damu"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14055,
+      "word_number_in_surah": 682,
+      "word_surah": 5,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "فَٱذۡهَبۡ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14056,
+      "word_number_in_surah": 683,
+      "word_surah": 5,
+      "word_translation": "So go",
+      "word_transliteration": "fa-idh'hab"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14057,
+      "word_number_in_surah": 684,
+      "word_surah": 5,
+      "word_translation": "you",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "وَرَبُّكَ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14058,
+      "word_number_in_surah": 685,
+      "word_surah": 5,
+      "word_translation": "and your Lord",
+      "word_transliteration": "warabbuka"
+    },
+    {
+      "word_arabic": "فَقَٰتِلَآ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14059,
+      "word_number_in_surah": 686,
+      "word_surah": 5,
+      "word_translation": "and you both fight",
+      "word_transliteration": "faqatila"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14060,
+      "word_number_in_surah": 687,
+      "word_surah": 5,
+      "word_translation": "Indeed, we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "هَٰهُنَا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14061,
+      "word_number_in_surah": 688,
+      "word_surah": 5,
+      "word_translation": "are [here]",
+      "word_transliteration": "hahuna"
+    },
+    {
+      "word_arabic": "قَٰعِدُونَ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14062,
+      "word_number_in_surah": 689,
+      "word_surah": 5,
+      "word_translation": "sitting",
+      "word_transliteration": "qa'iduna"
+    }
+  ],
+  "fullArabic": "قَالُواْ يَٰمُوسَىٰٓ إِنَّا لَن نَّدۡخُلَهَآ أَبَدٗا مَّا دَامُواْ فِيهَا فَٱذۡهَبۡ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ",
+  "fullTranslation": "They said, \"O Moses, indeed we will not enter it, ever, as long as they are within it; so go, you and your Lord, and fight. Indeed, we are remaining right here.\"",
+  "fullTransliteration": "qalu yamusa inna lan nadkhulaha abadan ma damu fiha fa-idh'hab anta warabbuka faqatila inna hahuna qa'iduna"
+}

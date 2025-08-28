@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "ayah": 77,
+    "surah": 3,
+    "words": 27,
+    "numberInQuran": 370,
+    "juz": 3,
+    "manzil": 1,
+    "page": 59,
+    "ruku": 49,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7430,
+      "word_number_in_surah": 1285,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7431,
+      "word_number_in_surah": 1286,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَشۡتَرُونَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7432,
+      "word_number_in_surah": 1287,
+      "word_surah": 3,
+      "word_translation": "exchange",
+      "word_transliteration": "yashtaruna"
+    },
+    {
+      "word_arabic": "بِعَهۡدِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7433,
+      "word_number_in_surah": 1288,
+      "word_surah": 3,
+      "word_translation": "(the) Covenant",
+      "word_transliteration": "bi'ahdi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7434,
+      "word_number_in_surah": 1289,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَأَيۡمَٰنِهِمۡ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7435,
+      "word_number_in_surah": 1290,
+      "word_surah": 3,
+      "word_translation": "and their oaths",
+      "word_transliteration": "wa-aymanihim"
+    },
+    {
+      "word_arabic": "ثَمَنٗا",
+      "word_ayah": 77,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7436,
+      "word_number_in_surah": 1291,
+      "word_surah": 3,
+      "word_translation": "(for) a price",
+      "word_transliteration": "thamanan"
+    },
+    {
+      "word_arabic": "قَلِيلًا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7437,
+      "word_number_in_surah": 1292,
+      "word_surah": 3,
+      "word_translation": "little",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7438,
+      "word_number_in_surah": 1293,
+      "word_surah": 3,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7439,
+      "word_number_in_surah": 1294,
+      "word_surah": 3,
+      "word_translation": "no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "خَلَٰقَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7440,
+      "word_number_in_surah": 1295,
+      "word_surah": 3,
+      "word_translation": "share",
+      "word_transliteration": "khalaqa"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7441,
+      "word_number_in_surah": 1296,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7442,
+      "word_number_in_surah": 1297,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7443,
+      "word_number_in_surah": 1298,
+      "word_surah": 3,
+      "word_translation": "the Hereafter",
+      "word_transliteration": "al-akhirati"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7444,
+      "word_number_in_surah": 1299,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُكَلِّمُهُمُ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7445,
+      "word_number_in_surah": 1300,
+      "word_surah": 3,
+      "word_translation": "will speak to them",
+      "word_transliteration": "yukallimuhumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7446,
+      "word_number_in_surah": 1301,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7447,
+      "word_number_in_surah": 1302,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَنظُرُ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7448,
+      "word_number_in_surah": 1303,
+      "word_surah": 3,
+      "word_translation": "look",
+      "word_transliteration": "yanzuru"
+    },
+    {
+      "word_arabic": "إِلَيۡهِمۡ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7449,
+      "word_number_in_surah": 1304,
+      "word_surah": 3,
+      "word_translation": "at them",
+      "word_transliteration": "ilayhim"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7450,
+      "word_number_in_surah": 1305,
+      "word_surah": 3,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7451,
+      "word_number_in_surah": 1306,
+      "word_surah": 3,
+      "word_translation": "(of) the Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7452,
+      "word_number_in_surah": 1307,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُزَكِّيهِمۡ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7453,
+      "word_number_in_surah": 1308,
+      "word_surah": 3,
+      "word_translation": "purify them",
+      "word_transliteration": "yuzakkihim"
+    },
+    {
+      "word_arabic": "وَلَهُمۡ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 7454,
+      "word_number_in_surah": 1309,
+      "word_surah": 3,
+      "word_translation": "and for them",
+      "word_transliteration": "walahum"
+    },
+    {
+      "word_arabic": "عَذَابٌ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 7455,
+      "word_number_in_surah": 1310,
+      "word_surah": 3,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "أَلِيمٞ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 7456,
+      "word_number_in_surah": 1311,
+      "word_surah": 3,
+      "word_translation": "painful",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ يَشۡتَرُونَ بِعَهۡدِ ٱللَّهِ وَأَيۡمَٰنِهِمۡ ثَمَنٗا قَلِيلًا أُوْلَٰٓئِكَ لَا خَلَٰقَ لَهُمۡ فِي ٱلۡأٓخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيۡهِمۡ يَوۡمَ ٱلۡقِيَٰمَةِ وَلَا يُزَكِّيهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+  "fullTranslation": "Indeed, those who exchange the covenant of Allah and their [own] oaths for a small price will have no share in the Hereafter, and Allah will not speak to them or look at them on the Day of Resurrection, nor will He purify them; and they will have a painful punishment.",
+  "fullTransliteration": "inna alladhina yashtaruna bi'ahdi al-lahi wa-aymanihim thamanan qalilan ulaika la khalaqa lahum fi al-akhirati wala yukallimuhumu al-lahu wala yanzuru ilayhim yawma al-qiyamati wala yuzakkihim walahum adhabun alimun"
+}

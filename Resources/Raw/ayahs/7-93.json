@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 93,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 1047,
+    "juz": 9,
+    "manzil": 2,
+    "page": 162,
+    "ruku": 132,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَتَوَلَّىٰ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20745,
+      "word_number_in_surah": 1518,
+      "word_surah": 7,
+      "word_translation": "So he turned away",
+      "word_transliteration": "fatawalla"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20746,
+      "word_number_in_surah": 1519,
+      "word_surah": 7,
+      "word_translation": "from them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "وَقَالَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20747,
+      "word_number_in_surah": 1520,
+      "word_surah": 7,
+      "word_translation": "and said",
+      "word_transliteration": "waqala"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20748,
+      "word_number_in_surah": 1521,
+      "word_surah": 7,
+      "word_translation": "O my people!",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "لَقَدۡ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20749,
+      "word_number_in_surah": 1522,
+      "word_surah": 7,
+      "word_translation": "Verily",
+      "word_transliteration": "laqad"
+    },
+    {
+      "word_arabic": "أَبۡلَغۡتُكُمۡ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20750,
+      "word_number_in_surah": 1523,
+      "word_surah": 7,
+      "word_translation": "I (have) conveyed to you",
+      "word_transliteration": "ablaghtukum"
+    },
+    {
+      "word_arabic": "رِسَٰلَٰتِ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20751,
+      "word_number_in_surah": 1524,
+      "word_surah": 7,
+      "word_translation": "(the) Messages",
+      "word_transliteration": "risalati"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20752,
+      "word_number_in_surah": 1525,
+      "word_surah": 7,
+      "word_translation": "(of) my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "وَنَصَحۡتُ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20753,
+      "word_number_in_surah": 1526,
+      "word_surah": 7,
+      "word_translation": "and advised",
+      "word_transliteration": "wanasahtu"
+    },
+    {
+      "word_arabic": "لَكُمۡۖ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20754,
+      "word_number_in_surah": 1527,
+      "word_surah": 7,
+      "word_translation": "[to] you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فَكَيۡفَ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20755,
+      "word_number_in_surah": 1528,
+      "word_surah": 7,
+      "word_translation": "So how could",
+      "word_transliteration": "fakayfa"
+    },
+    {
+      "word_arabic": "ءَاسَىٰ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20756,
+      "word_number_in_surah": 1529,
+      "word_surah": 7,
+      "word_translation": "I grieve",
+      "word_transliteration": "asa"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20757,
+      "word_number_in_surah": 1530,
+      "word_surah": 7,
+      "word_translation": "for",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "قَوۡمٖ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20758,
+      "word_number_in_surah": 1531,
+      "word_surah": 7,
+      "word_translation": "a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "كَٰفِرِينَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20759,
+      "word_number_in_surah": 1532,
+      "word_surah": 7,
+      "word_translation": "(who are) disbelievers",
+      "word_transliteration": "kafirina"
+    }
+  ],
+  "fullArabic": "فَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰقَوۡمِ لَقَدۡ أَبۡلَغۡتُكُمۡ رِسَٰلَٰتِ رَبِّي وَنَصَحۡتُ لَكُمۡۖ فَكَيۡفَ ءَاسَىٰ عَلَىٰ قَوۡمٖ كَٰفِرِينَ",
+  "fullTranslation": "And he turned away from them and said, \"O my people, I had certainly conveyed to you the messages of my Lord and advised you, so how could I grieve for a disbelieving people?\"",
+  "fullTransliteration": "fatawalla anhum waqala yaqawmi laqad ablaghtukum risalati rabbi wanasahtu lakum fakayfa asa ala qawmin kafirina"
+}

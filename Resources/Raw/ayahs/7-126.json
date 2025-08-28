@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "ayah": 126,
+    "surah": 7,
+    "words": 16,
+    "numberInQuran": 1080,
+    "juz": 9,
+    "manzil": 2,
+    "page": 165,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21080,
+      "word_number_in_surah": 1853,
+      "word_surah": 7,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تَنقِمُ",
+      "word_ayah": 126,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21081,
+      "word_number_in_surah": 1854,
+      "word_surah": 7,
+      "word_translation": "you take revenge",
+      "word_transliteration": "tanqimu"
+    },
+    {
+      "word_arabic": "مِنَّآ",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21082,
+      "word_number_in_surah": 1855,
+      "word_surah": 7,
+      "word_translation": "from us",
+      "word_transliteration": "minna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21083,
+      "word_number_in_surah": 1856,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 126,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21084,
+      "word_number_in_surah": 1857,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21085,
+      "word_number_in_surah": 1858,
+      "word_surah": 7,
+      "word_translation": "we believed",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21086,
+      "word_number_in_surah": 1859,
+      "word_surah": 7,
+      "word_translation": "in (the) Signs",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "رَبِّنَا",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21087,
+      "word_number_in_surah": 1860,
+      "word_surah": 7,
+      "word_translation": "(of) our Lord",
+      "word_transliteration": "rabbina"
+    },
+    {
+      "word_arabic": "لَمَّا",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21088,
+      "word_number_in_surah": 1861,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "lamma"
+    },
+    {
+      "word_arabic": "جَآءَتۡنَاۚ",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21089,
+      "word_number_in_surah": 1862,
+      "word_surah": 7,
+      "word_translation": "they came to us",
+      "word_transliteration": "jaatna"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21090,
+      "word_number_in_surah": 1863,
+      "word_surah": 7,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "أَفۡرِغۡ",
+      "word_ayah": 126,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21091,
+      "word_number_in_surah": 1864,
+      "word_surah": 7,
+      "word_translation": "Pour",
+      "word_transliteration": "afrigh"
+    },
+    {
+      "word_arabic": "عَلَيۡنَا",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21092,
+      "word_number_in_surah": 1865,
+      "word_surah": 7,
+      "word_translation": "upon us",
+      "word_transliteration": "alayna"
+    },
+    {
+      "word_arabic": "صَبۡرٗا",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21093,
+      "word_number_in_surah": 1866,
+      "word_surah": 7,
+      "word_translation": "patience",
+      "word_transliteration": "sabran"
+    },
+    {
+      "word_arabic": "وَتَوَفَّنَا",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21094,
+      "word_number_in_surah": 1867,
+      "word_surah": 7,
+      "word_translation": "and cause us to die",
+      "word_transliteration": "watawaffana"
+    },
+    {
+      "word_arabic": "مُسۡلِمِينَ",
+      "word_ayah": 126,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21095,
+      "word_number_in_surah": 1868,
+      "word_surah": 7,
+      "word_translation": "(as) Muslims",
+      "word_transliteration": "mus'limina"
+    }
+  ],
+  "fullArabic": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنۡ ءَامَنَّا بِ‍َٔايَٰتِ رَبِّنَا لَمَّا جَآءَتۡنَاۚ رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرٗا وَتَوَفَّنَا مُسۡلِمِينَ",
+  "fullTranslation": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience and let us die as Muslims [in submission to You].\"",
+  "fullTransliteration": "wama tanqimu minna illa an amanna biayati rabbina lamma jaatna rabbana afrigh alayna sabran watawaffana mus'limina"
+}

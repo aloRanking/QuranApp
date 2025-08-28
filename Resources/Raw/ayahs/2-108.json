@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "ayah": 108,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 115,
+    "juz": 1,
+    "manzil": 1,
+    "page": 17,
+    "ruku": 14,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1876,
+      "word_number_in_surah": 1847,
+      "word_surah": 2,
+      "word_translation": "Or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "تُرِيدُونَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1877,
+      "word_number_in_surah": 1848,
+      "word_surah": 2,
+      "word_translation": "(do) you wish",
+      "word_transliteration": "turiduna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 108,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1878,
+      "word_number_in_surah": 1849,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَسۡ‍َٔلُواْ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1879,
+      "word_number_in_surah": 1850,
+      "word_surah": 2,
+      "word_translation": "you ask",
+      "word_transliteration": "tasalu"
+    },
+    {
+      "word_arabic": "رَسُولَكُمۡ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1880,
+      "word_number_in_surah": 1851,
+      "word_surah": 2,
+      "word_translation": "your Messenger",
+      "word_transliteration": "rasulakum"
+    },
+    {
+      "word_arabic": "كَمَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1881,
+      "word_number_in_surah": 1852,
+      "word_surah": 2,
+      "word_translation": "as",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "سُئِلَ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1882,
+      "word_number_in_surah": 1853,
+      "word_surah": 2,
+      "word_translation": "was asked",
+      "word_transliteration": "su-ila"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1883,
+      "word_number_in_surah": 1854,
+      "word_surah": 2,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 108,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1884,
+      "word_number_in_surah": 1855,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُۗ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1885,
+      "word_number_in_surah": 1856,
+      "word_surah": 2,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 108,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1886,
+      "word_number_in_surah": 1857,
+      "word_surah": 2,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَتَبَدَّلِ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1887,
+      "word_number_in_surah": 1858,
+      "word_surah": 2,
+      "word_translation": "exchanges",
+      "word_transliteration": "yatabaddali"
+    },
+    {
+      "word_arabic": "ٱلۡكُفۡرَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1888,
+      "word_number_in_surah": 1859,
+      "word_surah": 2,
+      "word_translation": "[the] disbelief",
+      "word_transliteration": "al-kuf'ra"
+    },
+    {
+      "word_arabic": "بِٱلۡإِيمَٰنِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1889,
+      "word_number_in_surah": 1860,
+      "word_surah": 2,
+      "word_translation": "with [the] faith",
+      "word_transliteration": "bil-imani"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1890,
+      "word_number_in_surah": 1861,
+      "word_surah": 2,
+      "word_translation": "so certainly",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "ضَلَّ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1891,
+      "word_number_in_surah": 1862,
+      "word_surah": 2,
+      "word_translation": "he went astray (from)",
+      "word_transliteration": "dalla"
+    },
+    {
+      "word_arabic": "سَوَآءَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1892,
+      "word_number_in_surah": 1863,
+      "word_surah": 2,
+      "word_translation": "(the) evenness",
+      "word_transliteration": "sawaa"
+    },
+    {
+      "word_arabic": "ٱلسَّبِيلِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1893,
+      "word_number_in_surah": 1864,
+      "word_surah": 2,
+      "word_translation": "(of) the way",
+      "word_transliteration": "al-sabili"
+    }
+  ],
+  "fullArabic": "أَمۡ تُرِيدُونَ أَن تَسۡ‍َٔلُواْ رَسُولَكُمۡ كَمَا سُئِلَ مُوسَىٰ مِن قَبۡلُۗ وَمَن يَتَبَدَّلِ ٱلۡكُفۡرَ بِٱلۡإِيمَٰنِ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+  "fullTranslation": "Or do you intend to ask your Messenger as Moses was asked before? And whoever exchanges faith for disbelief has certainly strayed from the soundness of the way.",
+  "fullTransliteration": "am turiduna an tasalu rasulakum kama su-ila musa min qablu waman yatabaddali al-kuf'ra bil-imani faqad dalla sawaa al-sabili"
+}

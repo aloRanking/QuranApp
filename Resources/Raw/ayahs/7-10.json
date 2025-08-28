@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 10,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 964,
+    "juz": 8,
+    "manzil": 2,
+    "page": 151,
+    "ruku": 122,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19310,
+      "word_number_in_surah": 83,
+      "word_surah": 7,
+      "word_translation": "And certainly",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "مَكَّنَّٰكُمۡ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19311,
+      "word_number_in_surah": 84,
+      "word_surah": 7,
+      "word_translation": "We established you",
+      "word_transliteration": "makkannakum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19312,
+      "word_number_in_surah": 85,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19313,
+      "word_number_in_surah": 86,
+      "word_surah": 7,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَجَعَلۡنَا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19314,
+      "word_number_in_surah": 87,
+      "word_surah": 7,
+      "word_translation": "and We made",
+      "word_transliteration": "waja'alna"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19315,
+      "word_number_in_surah": 88,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19316,
+      "word_number_in_surah": 89,
+      "word_surah": 7,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "مَعَٰيِشَۗ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19317,
+      "word_number_in_surah": 90,
+      "word_surah": 7,
+      "word_translation": "livelihood",
+      "word_transliteration": "ma'ayisha"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19318,
+      "word_number_in_surah": 91,
+      "word_surah": 7,
+      "word_translation": "Little",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19319,
+      "word_number_in_surah": 92,
+      "word_surah": 7,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَشۡكُرُونَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19320,
+      "word_number_in_surah": 93,
+      "word_surah": 7,
+      "word_translation": "you (are) grateful",
+      "word_transliteration": "tashkuruna"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ مَكَّنَّٰكُمۡ فِي ٱلۡأَرۡضِ وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَۗ قَلِيلٗا مَّا تَشۡكُرُونَ",
+  "fullTranslation": "And We have certainly established you upon the earth and made for you therein ways of livelihood. Little are you grateful.",
+  "fullTransliteration": "walaqad makkannakum fi al-ardi waja'alna lakum fiha ma'ayisha qalilan ma tashkuruna"
+}

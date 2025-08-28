@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "ayah": 29,
+    "surah": 8,
+    "words": 18,
+    "numberInQuran": 1189,
+    "juz": 9,
+    "manzil": 2,
+    "page": 180,
+    "ruku": 149,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22941,
+      "word_number_in_surah": 394,
+      "word_surah": 8,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22942,
+      "word_number_in_surah": 395,
+      "word_surah": 8,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22943,
+      "word_number_in_surah": 396,
+      "word_surah": 8,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 29,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22944,
+      "word_number_in_surah": 397,
+      "word_surah": 8,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تَتَّقُواْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22945,
+      "word_number_in_surah": 398,
+      "word_surah": 8,
+      "word_translation": "you fear",
+      "word_transliteration": "tattaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22946,
+      "word_number_in_surah": 399,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَجۡعَل",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22947,
+      "word_number_in_surah": 400,
+      "word_surah": 8,
+      "word_translation": "He will grant",
+      "word_transliteration": "yaj'al"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22948,
+      "word_number_in_surah": 401,
+      "word_surah": 8,
+      "word_translation": "you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فُرۡقَانٗا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22949,
+      "word_number_in_surah": 402,
+      "word_surah": 8,
+      "word_translation": "a criterion",
+      "word_transliteration": "fur'qanan"
+    },
+    {
+      "word_arabic": "وَيُكَفِّرۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22950,
+      "word_number_in_surah": 403,
+      "word_surah": 8,
+      "word_translation": "and will remove",
+      "word_transliteration": "wayukaffir"
+    },
+    {
+      "word_arabic": "عَنكُمۡ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22951,
+      "word_number_in_surah": 404,
+      "word_surah": 8,
+      "word_translation": "from you",
+      "word_transliteration": "ankum"
+    },
+    {
+      "word_arabic": "سَيِّ‍َٔاتِكُمۡ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22952,
+      "word_number_in_surah": 405,
+      "word_surah": 8,
+      "word_translation": "your evil deeds",
+      "word_transliteration": "sayyiatikum"
+    },
+    {
+      "word_arabic": "وَيَغۡفِرۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22953,
+      "word_number_in_surah": 406,
+      "word_surah": 8,
+      "word_translation": "and forgive",
+      "word_transliteration": "wayaghfir"
+    },
+    {
+      "word_arabic": "لَكُمۡۗ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22954,
+      "word_number_in_surah": 407,
+      "word_surah": 8,
+      "word_translation": "you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22955,
+      "word_number_in_surah": 408,
+      "word_surah": 8,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "ذُو",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22956,
+      "word_number_in_surah": 409,
+      "word_surah": 8,
+      "word_translation": "(is) the Possessor",
+      "word_transliteration": "dhu"
+    },
+    {
+      "word_arabic": "ٱلۡفَضۡلِ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22957,
+      "word_number_in_surah": 410,
+      "word_surah": 8,
+      "word_translation": "(of) Bounty",
+      "word_transliteration": "al-fadli"
+    },
+    {
+      "word_arabic": "ٱلۡعَظِيمِ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22958,
+      "word_number_in_surah": 411,
+      "word_surah": 8,
+      "word_translation": "the Great",
+      "word_transliteration": "al-'azimi"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَتَّقُواْ ٱللَّهَ يَجۡعَل لَّكُمۡ فُرۡقَانٗا وَيُكَفِّرۡ عَنكُمۡ سَيِّ‍َٔاتِكُمۡ وَيَغۡفِرۡ لَكُمۡۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+  "fullTranslation": "O you who have believed, if you fear Allah, He will grant you a criterion and will remove from you your misdeeds and forgive you. And Allah is the possessor of great bounty.",
+  "fullTransliteration": "yaayyuha alladhina amanu in tattaqu al-laha yaj'al lakum fur'qanan wayukaffir ankum sayyiatikum wayaghfir lakum wal-lahu dhu al-fadli al-'azimi"
+}

@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "ayah": 106,
+    "surah": 6,
+    "words": 13,
+    "numberInQuran": 895,
+    "juz": 7,
+    "manzil": 2,
+    "page": 141,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱتَّبِعۡ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18000,
+      "word_number_in_surah": 1823,
+      "word_surah": 6,
+      "word_translation": "Follow",
+      "word_transliteration": "ittabi'"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18001,
+      "word_number_in_surah": 1824,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أُوحِيَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18002,
+      "word_number_in_surah": 1825,
+      "word_surah": 6,
+      "word_translation": "has been inspired",
+      "word_transliteration": "uhiya"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18003,
+      "word_number_in_surah": 1826,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 106,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18004,
+      "word_number_in_surah": 1827,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكَۖ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18005,
+      "word_number_in_surah": 1828,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18006,
+      "word_number_in_surah": 1829,
+      "word_surah": 6,
+      "word_translation": "(there is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18007,
+      "word_number_in_surah": 1830,
+      "word_surah": 6,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18008,
+      "word_number_in_surah": 1831,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَۖ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18009,
+      "word_number_in_surah": 1832,
+      "word_surah": 6,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "وَأَعۡرِضۡ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18010,
+      "word_number_in_surah": 1833,
+      "word_surah": 6,
+      "word_translation": "and turn away",
+      "word_transliteration": "wa-a'rid"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18011,
+      "word_number_in_surah": 1834,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكِينَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18012,
+      "word_number_in_surah": 1835,
+      "word_surah": 6,
+      "word_translation": "the polytheists",
+      "word_transliteration": "al-mush'rikina"
+    }
+  ],
+  "fullArabic": "ٱتَّبِعۡ مَآ أُوحِيَ إِلَيۡكَ مِن رَّبِّكَۖ لَآ إِلَٰهَ إِلَّا هُوَۖ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ",
+  "fullTranslation": "Follow, [O Muhammad], what has been revealed to you from your Lord - there is no deity except Him - and turn away from those who associate others with Allah.",
+  "fullTransliteration": "ittabi' ma uhiya ilayka min rabbika la ilaha illa huwa wa-a'rid ani al-mush'rikina"
+}

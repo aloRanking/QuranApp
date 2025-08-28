@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "ayah": 73,
+    "surah": 4,
+    "words": 18,
+    "numberInQuran": 566,
+    "juz": 5,
+    "manzil": 1,
+    "page": 89,
+    "ruku": 71,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَئِنۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11192,
+      "word_number_in_surah": 1566,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wala-in"
+    },
+    {
+      "word_arabic": "أَصَٰبَكُمۡ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11193,
+      "word_number_in_surah": 1567,
+      "word_surah": 4,
+      "word_translation": "befalls you",
+      "word_transliteration": "asabakum"
+    },
+    {
+      "word_arabic": "فَضۡلٞ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11194,
+      "word_number_in_surah": 1568,
+      "word_surah": 4,
+      "word_translation": "bounty",
+      "word_transliteration": "fadlun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11195,
+      "word_number_in_surah": 1569,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11196,
+      "word_number_in_surah": 1570,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "لَيَقُولَنَّ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11197,
+      "word_number_in_surah": 1571,
+      "word_surah": 4,
+      "word_translation": "he would surely say",
+      "word_transliteration": "layaqulanna"
+    },
+    {
+      "word_arabic": "كَأَن",
+      "word_ayah": 73,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11198,
+      "word_number_in_surah": 1572,
+      "word_surah": 4,
+      "word_translation": "as if",
+      "word_transliteration": "ka-an"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11199,
+      "word_number_in_surah": 1573,
+      "word_surah": 4,
+      "word_translation": "(had) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَكُنۢ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11200,
+      "word_number_in_surah": 1574,
+      "word_surah": 4,
+      "word_translation": "there been",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "بَيۡنَكُمۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11201,
+      "word_number_in_surah": 1575,
+      "word_surah": 4,
+      "word_translation": "between you",
+      "word_transliteration": "baynakum"
+    },
+    {
+      "word_arabic": "وَبَيۡنَهُۥ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11202,
+      "word_number_in_surah": 1576,
+      "word_surah": 4,
+      "word_translation": "and between him",
+      "word_transliteration": "wabaynahu"
+    },
+    {
+      "word_arabic": "مَوَدَّةٞ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11203,
+      "word_number_in_surah": 1577,
+      "word_surah": 4,
+      "word_translation": "any affection",
+      "word_transliteration": "mawaddatun"
+    },
+    {
+      "word_arabic": "يَٰلَيۡتَنِي",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11204,
+      "word_number_in_surah": 1578,
+      "word_surah": 4,
+      "word_translation": "Oh! I wish",
+      "word_transliteration": "yalaytani"
+    },
+    {
+      "word_arabic": "كُنتُ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11205,
+      "word_number_in_surah": 1579,
+      "word_surah": 4,
+      "word_translation": "I had been",
+      "word_transliteration": "kuntu"
+    },
+    {
+      "word_arabic": "مَعَهُمۡ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11206,
+      "word_number_in_surah": 1580,
+      "word_surah": 4,
+      "word_translation": "with them",
+      "word_transliteration": "ma'ahum"
+    },
+    {
+      "word_arabic": "فَأَفُوزَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11207,
+      "word_number_in_surah": 1581,
+      "word_surah": 4,
+      "word_translation": "then I would have attained",
+      "word_transliteration": "fa-afuza"
+    },
+    {
+      "word_arabic": "فَوۡزًا",
+      "word_ayah": 73,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11208,
+      "word_number_in_surah": 1582,
+      "word_surah": 4,
+      "word_translation": "a success",
+      "word_transliteration": "fawzan"
+    },
+    {
+      "word_arabic": "عَظِيمٗا",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11209,
+      "word_number_in_surah": 1583,
+      "word_surah": 4,
+      "word_translation": "great",
+      "word_transliteration": "aziman"
+    }
+  ],
+  "fullArabic": "وَلَئِنۡ أَصَٰبَكُمۡ فَضۡلٞ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمۡ تَكُنۢ بَيۡنَكُمۡ وَبَيۡنَهُۥ مَوَدَّةٞ يَٰلَيۡتَنِي كُنتُ مَعَهُمۡ فَأَفُوزَ فَوۡزًا عَظِيمٗا",
+  "fullTranslation": "But if bounty comes to you from Allah, he will surely say, as if there had never been between you and him any affection. \"Oh, I wish I had been with them so I could have attained a great attainment.\"",
+  "fullTransliteration": "wala-in asabakum fadlun mina al-lahi layaqulanna ka-an lam takun baynakum wabaynahu mawaddatun yalaytani kuntu ma'ahum fa-afuza fawzan aziman"
+}

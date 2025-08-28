@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "ayah": 64,
+    "surah": 6,
+    "words": 10,
+    "numberInQuran": 853,
+    "juz": 7,
+    "manzil": 2,
+    "page": 135,
+    "ruku": 109,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلِ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17220,
+      "word_number_in_surah": 1043,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "quli"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17221,
+      "word_number_in_surah": 1044,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "يُنَجِّيكُم",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17222,
+      "word_number_in_surah": 1045,
+      "word_surah": 6,
+      "word_translation": "saves you",
+      "word_transliteration": "yunajjikum"
+    },
+    {
+      "word_arabic": "مِّنۡهَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17223,
+      "word_number_in_surah": 1046,
+      "word_surah": 6,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "وَمِن",
+      "word_ayah": 64,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17224,
+      "word_number_in_surah": 1047,
+      "word_surah": 6,
+      "word_translation": "and from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17225,
+      "word_number_in_surah": 1048,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "كَرۡبٖ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17226,
+      "word_number_in_surah": 1049,
+      "word_surah": 6,
+      "word_translation": "distress",
+      "word_transliteration": "karbin"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17227,
+      "word_number_in_surah": 1050,
+      "word_surah": 6,
+      "word_translation": "yet",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "أَنتُمۡ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17228,
+      "word_number_in_surah": 1051,
+      "word_surah": 6,
+      "word_translation": "you",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "تُشۡرِكُونَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17229,
+      "word_number_in_surah": 1052,
+      "word_surah": 6,
+      "word_translation": "associate partners (with Allah)",
+      "word_transliteration": "tush'rikuna"
+    }
+  ],
+  "fullArabic": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنۡهَا وَمِن كُلِّ كَرۡبٖ ثُمَّ أَنتُمۡ تُشۡرِكُونَ",
+  "fullTranslation": "Say, \"It is Allah who saves you from it and from every distress; then you [still] associate others with Him.\"",
+  "fullTransliteration": "quli al-lahu yunajjikum min'ha wamin kulli karbin thumma antum tush'rikuna"
+}

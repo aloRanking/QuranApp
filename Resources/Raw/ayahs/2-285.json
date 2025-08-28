@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "ayah": 285,
+    "surah": 2,
+    "words": 27,
+    "numberInQuran": 292,
+    "juz": 3,
+    "manzil": 1,
+    "page": 49,
+    "ruku": 41,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ءَامَنَ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6070,
+      "word_number_in_surah": 6041,
+      "word_surah": 2,
+      "word_translation": "Believed",
+      "word_transliteration": "amana"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولُ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6071,
+      "word_number_in_surah": 6042,
+      "word_surah": 2,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasulu"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6072,
+      "word_number_in_surah": 6043,
+      "word_surah": 2,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6073,
+      "word_number_in_surah": 6044,
+      "word_surah": 2,
+      "word_translation": "was revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6074,
+      "word_number_in_surah": 6045,
+      "word_surah": 2,
+      "word_translation": "to him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 285,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6075,
+      "word_number_in_surah": 6046,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّهِۦ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6076,
+      "word_number_in_surah": 6047,
+      "word_surah": 2,
+      "word_translation": "his Lord",
+      "word_transliteration": "rabbihi"
+    },
+    {
+      "word_arabic": "وَٱلۡمُؤۡمِنُونَۚ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6077,
+      "word_number_in_surah": 6048,
+      "word_surah": 2,
+      "word_translation": "and the believers",
+      "word_transliteration": "wal-mu'minuna"
+    },
+    {
+      "word_arabic": "كُلٌّ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6078,
+      "word_number_in_surah": 6049,
+      "word_surah": 2,
+      "word_translation": "All",
+      "word_transliteration": "kullun"
+    },
+    {
+      "word_arabic": "ءَامَنَ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6079,
+      "word_number_in_surah": 6050,
+      "word_surah": 2,
+      "word_translation": "believed",
+      "word_transliteration": "amana"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6080,
+      "word_number_in_surah": 6051,
+      "word_surah": 2,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَمَلَٰٓئِكَتِهِۦ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6081,
+      "word_number_in_surah": 6052,
+      "word_surah": 2,
+      "word_translation": "and His Angels",
+      "word_transliteration": "wamalaikatihi"
+    },
+    {
+      "word_arabic": "وَكُتُبِهِۦ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6082,
+      "word_number_in_surah": 6053,
+      "word_surah": 2,
+      "word_translation": "and His Books",
+      "word_transliteration": "wakutubihi"
+    },
+    {
+      "word_arabic": "وَرُسُلِهِۦ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6083,
+      "word_number_in_surah": 6054,
+      "word_surah": 2,
+      "word_translation": "and His Messengers",
+      "word_transliteration": "warusulihi"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6084,
+      "word_number_in_surah": 6055,
+      "word_surah": 2,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "نُفَرِّقُ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6085,
+      "word_number_in_surah": 6056,
+      "word_surah": 2,
+      "word_translation": "we make distinction",
+      "word_transliteration": "nufarriqu"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6086,
+      "word_number_in_surah": 6057,
+      "word_surah": 2,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "أَحَدٖ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6087,
+      "word_number_in_surah": 6058,
+      "word_surah": 2,
+      "word_translation": "any",
+      "word_transliteration": "ahadin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 285,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6088,
+      "word_number_in_surah": 6059,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رُّسُلِهِۦۚ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6089,
+      "word_number_in_surah": 6060,
+      "word_surah": 2,
+      "word_translation": "His Messengers",
+      "word_transliteration": "rusulihi"
+    },
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6090,
+      "word_number_in_surah": 6061,
+      "word_surah": 2,
+      "word_translation": "And they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "سَمِعۡنَا",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6091,
+      "word_number_in_surah": 6062,
+      "word_surah": 2,
+      "word_translation": "We heard",
+      "word_transliteration": "sami'na"
+    },
+    {
+      "word_arabic": "وَأَطَعۡنَاۖ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6092,
+      "word_number_in_surah": 6063,
+      "word_surah": 2,
+      "word_translation": "and we obeyed",
+      "word_transliteration": "wa-ata'na"
+    },
+    {
+      "word_arabic": "غُفۡرَانَكَ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6093,
+      "word_number_in_surah": 6064,
+      "word_surah": 2,
+      "word_translation": "(Grant) us Your forgiveness",
+      "word_transliteration": "ghuf'ranaka"
+    },
+    {
+      "word_arabic": "رَبَّنَا",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6094,
+      "word_number_in_surah": 6065,
+      "word_surah": 2,
+      "word_translation": "our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "وَإِلَيۡكَ",
+      "word_ayah": 285,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6095,
+      "word_number_in_surah": 6066,
+      "word_surah": 2,
+      "word_translation": "and to You",
+      "word_transliteration": "wa-ilayka"
+    },
+    {
+      "word_arabic": "ٱلۡمَصِيرُ",
+      "word_ayah": 285,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 6096,
+      "word_number_in_surah": 6067,
+      "word_surah": 2,
+      "word_translation": "(is) the return",
+      "word_transliteration": "al-masiru"
+    }
+  ],
+  "fullArabic": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيۡهِ مِن رَّبِّهِۦ وَٱلۡمُؤۡمِنُونَۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّن رُّسُلِهِۦۚ وَقَالُواْ سَمِعۡنَا وَأَطَعۡنَاۖ غُفۡرَانَكَ رَبَّنَا وَإِلَيۡكَ ٱلۡمَصِيرُ",
+  "fullTranslation": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\"",
+  "fullTransliteration": "amana al-rasulu bima unzila ilayhi min rabbihi wal-mu'minuna kullun amana bil-lahi wamalaikatihi wakutubihi warusulihi la nufarriqu bayna ahadin min rusulihi waqalu sami'na wa-ata'na ghuf'ranaka rabbana wa-ilayka al-masiru"
+}

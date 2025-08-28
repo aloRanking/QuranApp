@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 13,
+    "surah": 8,
+    "words": 13,
+    "numberInQuran": 1173,
+    "juz": 9,
+    "manzil": 2,
+    "page": 178,
+    "ruku": 147,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22727,
+      "word_number_in_surah": 180,
+      "word_surah": 8,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "بِأَنَّهُمۡ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22728,
+      "word_number_in_surah": 181,
+      "word_surah": 8,
+      "word_translation": "(is) because they",
+      "word_transliteration": "bi-annahum"
+    },
+    {
+      "word_arabic": "شَآقُّواْ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22729,
+      "word_number_in_surah": 182,
+      "word_surah": 8,
+      "word_translation": "opposed",
+      "word_transliteration": "shaqqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22730,
+      "word_number_in_surah": 183,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَرَسُولَهُۥۚ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22731,
+      "word_number_in_surah": 184,
+      "word_surah": 8,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulahu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 13,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22732,
+      "word_number_in_surah": 185,
+      "word_surah": 8,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُشَاقِقِ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22733,
+      "word_number_in_surah": 186,
+      "word_surah": 8,
+      "word_translation": "opposes",
+      "word_transliteration": "yushaqiqi"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22734,
+      "word_number_in_surah": 187,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَرَسُولَهُۥ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22735,
+      "word_number_in_surah": 188,
+      "word_surah": 8,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulahu"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22736,
+      "word_number_in_surah": 189,
+      "word_surah": 8,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22737,
+      "word_number_in_surah": 190,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "شَدِيدُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22738,
+      "word_number_in_surah": 191,
+      "word_surah": 8,
+      "word_translation": "(is) severe",
+      "word_transliteration": "shadidu"
+    },
+    {
+      "word_arabic": "ٱلۡعِقَابِ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22739,
+      "word_number_in_surah": 192,
+      "word_surah": 8,
+      "word_translation": "in [the] penalty",
+      "word_transliteration": "al-'iqabi"
+    }
+  ],
+  "fullArabic": "ذَٰلِكَ بِأَنَّهُمۡ شَآقُّواْ ٱللَّهَ وَرَسُولَهُۥۚ وَمَن يُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+  "fullTranslation": "That is because they opposed Allah and His Messenger. And whoever opposes Allah and His Messenger - indeed, Allah is severe in penalty.",
+  "fullTransliteration": "dhalika bi-annahum shaqqu al-laha warasulahu waman yushaqiqi al-laha warasulahu fa-inna al-laha shadidu al-'iqabi"
+}

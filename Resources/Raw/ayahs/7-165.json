@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "ayah": 165,
+    "surah": 7,
+    "words": 18,
+    "numberInQuran": 1119,
+    "juz": 9,
+    "manzil": 2,
+    "page": 172,
+    "ruku": 142,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21905,
+      "word_number_in_surah": 2678,
+      "word_surah": 7,
+      "word_translation": "So when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "نَسُواْ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21906,
+      "word_number_in_surah": 2679,
+      "word_surah": 7,
+      "word_translation": "they forgot",
+      "word_transliteration": "nasu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21907,
+      "word_number_in_surah": 2680,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ذُكِّرُواْ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21908,
+      "word_number_in_surah": 2681,
+      "word_surah": 7,
+      "word_translation": "they had been reminded",
+      "word_transliteration": "dhukkiru"
+    },
+    {
+      "word_arabic": "بِهِۦٓ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21909,
+      "word_number_in_surah": 2682,
+      "word_surah": 7,
+      "word_translation": "with [it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "أَنجَيۡنَا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21910,
+      "word_number_in_surah": 2683,
+      "word_surah": 7,
+      "word_translation": "We saved",
+      "word_transliteration": "anjayna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21911,
+      "word_number_in_surah": 2684,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَنۡهَوۡنَ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21912,
+      "word_number_in_surah": 2685,
+      "word_surah": 7,
+      "word_translation": "forbade",
+      "word_transliteration": "yanhawna"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21913,
+      "word_number_in_surah": 2686,
+      "word_surah": 7,
+      "word_translation": "[from]",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلسُّوٓءِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21914,
+      "word_number_in_surah": 2687,
+      "word_surah": 7,
+      "word_translation": "the evil",
+      "word_transliteration": "al-sui"
+    },
+    {
+      "word_arabic": "وَأَخَذۡنَا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21915,
+      "word_number_in_surah": 2688,
+      "word_surah": 7,
+      "word_translation": "and We seized",
+      "word_transliteration": "wa-akhadhna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21916,
+      "word_number_in_surah": 2689,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ظَلَمُواْ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21917,
+      "word_number_in_surah": 2690,
+      "word_surah": 7,
+      "word_translation": "wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "بِعَذَابِۢ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21918,
+      "word_number_in_surah": 2691,
+      "word_surah": 7,
+      "word_translation": "with a punishment",
+      "word_transliteration": "bi'adhabin"
+    },
+    {
+      "word_arabic": "بَ‍ِٔيسِۢ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21919,
+      "word_number_in_surah": 2692,
+      "word_surah": 7,
+      "word_translation": "wretched",
+      "word_transliteration": "baisin"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21920,
+      "word_number_in_surah": 2693,
+      "word_surah": 7,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21921,
+      "word_number_in_surah": 2694,
+      "word_surah": 7,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَفۡسُقُونَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21922,
+      "word_number_in_surah": 2695,
+      "word_surah": 7,
+      "word_translation": "defiantly disobeying",
+      "word_transliteration": "yafsuquna"
+    }
+  ],
+  "fullArabic": "فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِۦٓ أَنجَيۡنَا ٱلَّذِينَ يَنۡهَوۡنَ عَنِ ٱلسُّوٓءِ وَأَخَذۡنَا ٱلَّذِينَ ظَلَمُواْ بِعَذَابِۢ بَ‍ِٔيسِۢ بِمَا كَانُواْ يَفۡسُقُونَ",
+  "fullTranslation": "And when they forgot that by which they had been reminded, We saved those who had forbidden evil and seized those who wronged, with a wretched punishment, because they were defiantly disobeying.",
+  "fullTransliteration": "falamma nasu ma dhukkiru bihi anjayna alladhina yanhawna ani al-sui wa-akhadhna alladhina zalamu bi'adhabin baisin bima kanu yafsuquna"
+}

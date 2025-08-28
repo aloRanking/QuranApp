@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ayah": 118,
+    "surah": 6,
+    "words": 10,
+    "numberInQuran": 907,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَكُلُواْ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18205,
+      "word_number_in_surah": 2028,
+      "word_surah": 6,
+      "word_translation": "So eat",
+      "word_transliteration": "fakulu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18206,
+      "word_number_in_surah": 2029,
+      "word_surah": 6,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "ذُكِرَ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18207,
+      "word_number_in_surah": 2030,
+      "word_surah": 6,
+      "word_translation": "(is) mentioned",
+      "word_transliteration": "dhukira"
+    },
+    {
+      "word_arabic": "ٱسۡمُ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18208,
+      "word_number_in_surah": 2031,
+      "word_surah": 6,
+      "word_translation": "(the) name",
+      "word_transliteration": "us'mu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18209,
+      "word_number_in_surah": 2032,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18210,
+      "word_number_in_surah": 2033,
+      "word_surah": 6,
+      "word_translation": "on it",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 118,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18211,
+      "word_number_in_surah": 2034,
+      "word_surah": 6,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُم",
+      "word_ayah": 118,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18212,
+      "word_number_in_surah": 2035,
+      "word_surah": 6,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِهِۦ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18213,
+      "word_number_in_surah": 2036,
+      "word_surah": 6,
+      "word_translation": "in His Verses",
+      "word_transliteration": "biayatihi"
+    },
+    {
+      "word_arabic": "مُؤۡمِنِينَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18214,
+      "word_number_in_surah": 2037,
+      "word_surah": 6,
+      "word_translation": "believers",
+      "word_transliteration": "mu'minina"
+    }
+  ],
+  "fullArabic": "فَكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ إِن كُنتُم بِ‍َٔايَٰتِهِۦ مُؤۡمِنِينَ",
+  "fullTranslation": "So eat of that [meat] upon which the name of Allah has been mentioned, if you are believers in His verses.",
+  "fullTransliteration": "fakulu mimma dhukira us'mu al-lahi alayhi in kuntum biayatihi mu'minina"
+}

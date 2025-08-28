@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "ayah": 226,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 233,
+    "juz": 2,
+    "manzil": 1,
+    "page": 36,
+    "ruku": 29,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لِّلَّذِينَ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4337,
+      "word_number_in_surah": 4308,
+      "word_surah": 2,
+      "word_translation": "For those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "يُؤۡلُونَ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4338,
+      "word_number_in_surah": 4309,
+      "word_surah": 2,
+      "word_translation": "swear (off)",
+      "word_transliteration": "yu'luna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 226,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4339,
+      "word_number_in_surah": 4310,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نِّسَآئِهِمۡ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4340,
+      "word_number_in_surah": 4311,
+      "word_surah": 2,
+      "word_translation": "their wives",
+      "word_transliteration": "nisaihim"
+    },
+    {
+      "word_arabic": "تَرَبُّصُ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4341,
+      "word_number_in_surah": 4312,
+      "word_surah": 2,
+      "word_translation": "(is a) waiting (of)",
+      "word_transliteration": "tarabbusu"
+    },
+    {
+      "word_arabic": "أَرۡبَعَةِ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4342,
+      "word_number_in_surah": 4313,
+      "word_surah": 2,
+      "word_translation": "four",
+      "word_transliteration": "arba'ati"
+    },
+    {
+      "word_arabic": "أَشۡهُرٖۖ",
+      "word_ayah": 226,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4343,
+      "word_number_in_surah": 4314,
+      "word_surah": 2,
+      "word_translation": "months",
+      "word_transliteration": "ashhurin"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 226,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4344,
+      "word_number_in_surah": 4315,
+      "word_surah": 2,
+      "word_translation": "then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "فَآءُو",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4345,
+      "word_number_in_surah": 4316,
+      "word_surah": 2,
+      "word_translation": "they return",
+      "word_transliteration": "fau"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 226,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4346,
+      "word_number_in_surah": 4317,
+      "word_surah": 2,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4347,
+      "word_number_in_surah": 4318,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4348,
+      "word_number_in_surah": 4319,
+      "word_surah": 2,
+      "word_translation": "(is) Oft- Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 226,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4349,
+      "word_number_in_surah": 4320,
+      "word_surah": 2,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "لِّلَّذِينَ يُؤۡلُونَ مِن نِّسَآئِهِمۡ تَرَبُّصُ أَرۡبَعَةِ أَشۡهُرٖۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allah is Forgiving and Merciful.",
+  "fullTransliteration": "lilladhina yu'luna min nisaihim tarabbusu arba'ati ashhurin fa-in fau fa-inna al-laha ghafurun rahimun"
+}

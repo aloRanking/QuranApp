@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "ayah": 269,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 276,
+    "juz": 3,
+    "manzil": 1,
+    "page": 45,
+    "ruku": 38,
+    "hizbQuarter": 18,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يُؤۡتِي",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5622,
+      "word_number_in_surah": 5593,
+      "word_surah": 2,
+      "word_translation": "He grants",
+      "word_transliteration": "yu'ti"
+    },
+    {
+      "word_arabic": "ٱلۡحِكۡمَةَ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5623,
+      "word_number_in_surah": 5594,
+      "word_surah": 2,
+      "word_translation": "[the] wisdom",
+      "word_transliteration": "al-hik'mata"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 269,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5624,
+      "word_number_in_surah": 5595,
+      "word_surah": 2,
+      "word_translation": "(to) whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5625,
+      "word_number_in_surah": 5596,
+      "word_surah": 2,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 269,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5626,
+      "word_number_in_surah": 5597,
+      "word_surah": 2,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُؤۡتَ",
+      "word_ayah": 269,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5627,
+      "word_number_in_surah": 5598,
+      "word_surah": 2,
+      "word_translation": "is granted",
+      "word_transliteration": "yu'ta"
+    },
+    {
+      "word_arabic": "ٱلۡحِكۡمَةَ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5628,
+      "word_number_in_surah": 5599,
+      "word_surah": 2,
+      "word_translation": "[the] wisdom",
+      "word_transliteration": "al-hik'mata"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 269,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5629,
+      "word_number_in_surah": 5600,
+      "word_surah": 2,
+      "word_translation": "then certainly",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "أُوتِيَ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5630,
+      "word_number_in_surah": 5601,
+      "word_surah": 2,
+      "word_translation": "he is granted",
+      "word_transliteration": "utiya"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 269,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5631,
+      "word_number_in_surah": 5602,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "كَثِيرٗاۗ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5632,
+      "word_number_in_surah": 5603,
+      "word_surah": 2,
+      "word_translation": "abundant",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5633,
+      "word_number_in_surah": 5604,
+      "word_surah": 2,
+      "word_translation": "And none",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَذَّكَّرُ",
+      "word_ayah": 269,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5634,
+      "word_number_in_surah": 5605,
+      "word_surah": 2,
+      "word_translation": "remembers",
+      "word_transliteration": "yadhakkaru"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5635,
+      "word_number_in_surah": 5606,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أُوْلُواْ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5636,
+      "word_number_in_surah": 5607,
+      "word_surah": 2,
+      "word_translation": "those",
+      "word_transliteration": "ulu"
+    },
+    {
+      "word_arabic": "ٱلۡأَلۡبَٰبِ",
+      "word_ayah": 269,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5637,
+      "word_number_in_surah": 5608,
+      "word_surah": 2,
+      "word_translation": "(of) understanding",
+      "word_transliteration": "al-albabi"
+    }
+  ],
+  "fullArabic": "يُؤۡتِي ٱلۡحِكۡمَةَ مَن يَشَآءُۚ وَمَن يُؤۡتَ ٱلۡحِكۡمَةَ فَقَدۡ أُوتِيَ خَيۡرٗا كَثِيرٗاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "fullTranslation": "He gives wisdom to whom He wills, and whoever has been given wisdom has certainly been given much good. And none will remember except those of understanding.",
+  "fullTransliteration": "yu'ti al-hik'mata man yashau waman yu'ta al-hik'mata faqad utiya khayran kathiran wama yadhakkaru illa ulu al-albabi"
+}

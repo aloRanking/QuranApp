@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 143,
+    "surah": 4,
+    "words": 16,
+    "numberInQuran": 636,
+    "juz": 5,
+    "manzil": 1,
+    "page": 101,
+    "ruku": 82,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مُّذَبۡذَبِينَ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12735,
+      "word_number_in_surah": 3109,
+      "word_surah": 4,
+      "word_translation": "Wavering",
+      "word_transliteration": "mudhabdhabina"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12736,
+      "word_number_in_surah": 3110,
+      "word_surah": 4,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12737,
+      "word_number_in_surah": 3111,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12738,
+      "word_number_in_surah": 3112,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12739,
+      "word_number_in_surah": 3113,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12740,
+      "word_number_in_surah": 3114,
+      "word_surah": 4,
+      "word_translation": "these",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "وَلَآ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12741,
+      "word_number_in_surah": 3115,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12742,
+      "word_number_in_surah": 3116,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِۚ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12743,
+      "word_number_in_surah": 3117,
+      "word_surah": 4,
+      "word_translation": "those",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 143,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12744,
+      "word_number_in_surah": 3118,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُضۡلِلِ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12745,
+      "word_number_in_surah": 3119,
+      "word_surah": 4,
+      "word_translation": "has been lead astray",
+      "word_transliteration": "yud'lili"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12746,
+      "word_number_in_surah": 3120,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَلَن",
+      "word_ayah": 143,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12747,
+      "word_number_in_surah": 3121,
+      "word_surah": 4,
+      "word_translation": "then never",
+      "word_transliteration": "falan"
+    },
+    {
+      "word_arabic": "تَجِدَ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12748,
+      "word_number_in_surah": 3122,
+      "word_surah": 4,
+      "word_translation": "you will find",
+      "word_transliteration": "tajida"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12749,
+      "word_number_in_surah": 3123,
+      "word_surah": 4,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "سَبِيلٗا",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12750,
+      "word_number_in_surah": 3124,
+      "word_surah": 4,
+      "word_translation": "a way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "مُّذَبۡذَبِينَ بَيۡنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِۚ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلٗا",
+  "fullTranslation": "Wavering between them, [belonging] neither to the believers nor to the disbelievers. And whoever Allah leaves astray - never will you find for him a way.",
+  "fullTransliteration": "mudhabdhabina bayna dhalika la ila haulai wala ila haulai waman yud'lili al-lahu falan tajida lahu sabilan"
+}

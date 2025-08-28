@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 167,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 660,
+    "juz": 6,
+    "manzil": 1,
+    "page": 104,
+    "ruku": 84,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13144,
+      "word_number_in_surah": 3518,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13145,
+      "word_number_in_surah": 3519,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13146,
+      "word_number_in_surah": 3520,
+      "word_surah": 4,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "وَصَدُّواْ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13147,
+      "word_number_in_surah": 3521,
+      "word_surah": 4,
+      "word_translation": "and hinder",
+      "word_transliteration": "wasaddu"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13148,
+      "word_number_in_surah": 3522,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13149,
+      "word_number_in_surah": 3523,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13150,
+      "word_number_in_surah": 3524,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13151,
+      "word_number_in_surah": 3525,
+      "word_surah": 4,
+      "word_translation": "surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "ضَلُّواْ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13152,
+      "word_number_in_surah": 3526,
+      "word_surah": 4,
+      "word_translation": "they have strayed",
+      "word_transliteration": "dallu"
+    },
+    {
+      "word_arabic": "ضَلَٰلَۢا",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13153,
+      "word_number_in_surah": 3527,
+      "word_surah": 4,
+      "word_translation": "straying",
+      "word_transliteration": "dalalan"
+    },
+    {
+      "word_arabic": "بَعِيدًا",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13154,
+      "word_number_in_surah": 3528,
+      "word_surah": 4,
+      "word_translation": "far away",
+      "word_transliteration": "ba'idan"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ قَدۡ ضَلُّواْ ضَلَٰلَۢا بَعِيدًا",
+  "fullTranslation": "Indeed, those who disbelieve and avert [people] from the way of Allah have certainly gone far astray.",
+  "fullTransliteration": "inna alladhina kafaru wasaddu an sabili al-lahi qad dallu dalalan ba'idan"
+}

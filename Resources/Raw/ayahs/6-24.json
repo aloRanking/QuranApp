@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "ayah": 24,
+    "surah": 6,
+    "words": 10,
+    "numberInQuran": 813,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱنظُرۡ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16521,
+      "word_number_in_surah": 344,
+      "word_surah": 6,
+      "word_translation": "Look",
+      "word_transliteration": "unzur"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16522,
+      "word_number_in_surah": 345,
+      "word_surah": 6,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "كَذَبُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16523,
+      "word_number_in_surah": 346,
+      "word_surah": 6,
+      "word_translation": "they lied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16524,
+      "word_number_in_surah": 347,
+      "word_surah": 6,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡۚ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16525,
+      "word_number_in_surah": 348,
+      "word_surah": 6,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "وَضَلَّ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16526,
+      "word_number_in_surah": 349,
+      "word_surah": 6,
+      "word_translation": "And lost",
+      "word_transliteration": "wadalla"
+    },
+    {
+      "word_arabic": "عَنۡهُم",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16527,
+      "word_number_in_surah": 350,
+      "word_surah": 6,
+      "word_translation": "from them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16528,
+      "word_number_in_surah": 351,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16529,
+      "word_number_in_surah": 352,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَفۡتَرُونَ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16530,
+      "word_number_in_surah": 353,
+      "word_surah": 6,
+      "word_translation": "invent",
+      "word_transliteration": "yaftaruna"
+    }
+  ],
+  "fullArabic": "ٱنظُرۡ كَيۡفَ كَذَبُواْ عَلَىٰٓ أَنفُسِهِمۡۚ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "fullTranslation": "See how they will lie about themselves. And lost from them will be what they used to invent.",
+  "fullTransliteration": "unzur kayfa kadhabu ala anfusihim wadalla anhum ma kanu yaftaruna"
+}

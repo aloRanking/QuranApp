@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "ayah": 25,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 318,
+    "juz": 3,
+    "manzil": 1,
+    "page": 53,
+    "ruku": 44,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَكَيۡفَ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6548,
+      "word_number_in_surah": 403,
+      "word_surah": 3,
+      "word_translation": "Then how (will it be)",
+      "word_transliteration": "fakayfa"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6549,
+      "word_number_in_surah": 404,
+      "word_surah": 3,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "جَمَعۡنَٰهُمۡ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6550,
+      "word_number_in_surah": 405,
+      "word_surah": 3,
+      "word_translation": "We will gather them",
+      "word_transliteration": "jama'nahum"
+    },
+    {
+      "word_arabic": "لِيَوۡمٖ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6551,
+      "word_number_in_surah": 406,
+      "word_surah": 3,
+      "word_translation": "on a Day",
+      "word_transliteration": "liyawmin"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6552,
+      "word_number_in_surah": 407,
+      "word_surah": 3,
+      "word_translation": "no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "رَيۡبَ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6553,
+      "word_number_in_surah": 408,
+      "word_surah": 3,
+      "word_translation": "doubt",
+      "word_transliteration": "rayba"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6554,
+      "word_number_in_surah": 409,
+      "word_surah": 3,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "وَوُفِّيَتۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6555,
+      "word_number_in_surah": 410,
+      "word_surah": 3,
+      "word_translation": "And will be paid in full",
+      "word_transliteration": "wawuffiyat"
+    },
+    {
+      "word_arabic": "كُلُّ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6556,
+      "word_number_in_surah": 411,
+      "word_surah": 3,
+      "word_translation": "every",
+      "word_transliteration": "kullu"
+    },
+    {
+      "word_arabic": "نَفۡسٖ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6557,
+      "word_number_in_surah": 412,
+      "word_surah": 3,
+      "word_translation": "soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6558,
+      "word_number_in_surah": 413,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَسَبَتۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6559,
+      "word_number_in_surah": 414,
+      "word_surah": 3,
+      "word_translation": "it earned",
+      "word_transliteration": "kasabat"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6560,
+      "word_number_in_surah": 415,
+      "word_surah": 3,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6561,
+      "word_number_in_surah": 416,
+      "word_surah": 3,
+      "word_translation": "(will) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُظۡلَمُونَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6562,
+      "word_number_in_surah": 417,
+      "word_surah": 3,
+      "word_translation": "be wronged",
+      "word_transliteration": "yuz'lamuna"
+    }
+  ],
+  "fullArabic": "فَكَيۡفَ إِذَا جَمَعۡنَٰهُمۡ لِيَوۡمٖ لَّا رَيۡبَ فِيهِ وَوُفِّيَتۡ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "fullTranslation": "So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged.",
+  "fullTransliteration": "fakayfa idha jama'nahum liyawmin la rayba fihi wawuffiyat kullu nafsin ma kasabat wahum la yuz'lamuna"
+}

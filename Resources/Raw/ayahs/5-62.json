@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 62,
+    "surah": 5,
+    "words": 13,
+    "numberInQuran": 731,
+    "juz": 6,
+    "manzil": 2,
+    "page": 118,
+    "ruku": 94,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَتَرَىٰ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14899,
+      "word_number_in_surah": 1526,
+      "word_surah": 5,
+      "word_translation": "And you see",
+      "word_transliteration": "watara"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14900,
+      "word_number_in_surah": 1527,
+      "word_surah": 5,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14901,
+      "word_number_in_surah": 1528,
+      "word_surah": 5,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "يُسَٰرِعُونَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14902,
+      "word_number_in_surah": 1529,
+      "word_surah": 5,
+      "word_translation": "hastening",
+      "word_transliteration": "yusari'una"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14903,
+      "word_number_in_surah": 1530,
+      "word_surah": 5,
+      "word_translation": "into",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡإِثۡمِ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14904,
+      "word_number_in_surah": 1531,
+      "word_surah": 5,
+      "word_translation": "[the] sin",
+      "word_transliteration": "al-ith'mi"
+    },
+    {
+      "word_arabic": "وَٱلۡعُدۡوَٰنِ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14905,
+      "word_number_in_surah": 1532,
+      "word_surah": 5,
+      "word_translation": "and [the] transgression",
+      "word_transliteration": "wal-'ud'wani"
+    },
+    {
+      "word_arabic": "وَأَكۡلِهِمُ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14906,
+      "word_number_in_surah": 1533,
+      "word_surah": 5,
+      "word_translation": "and eating",
+      "word_transliteration": "wa-aklihimu"
+    },
+    {
+      "word_arabic": "ٱلسُّحۡتَۚ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14907,
+      "word_number_in_surah": 1534,
+      "word_surah": 5,
+      "word_translation": "the forbidden",
+      "word_transliteration": "al-suh'ta"
+    },
+    {
+      "word_arabic": "لَبِئۡسَ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14908,
+      "word_number_in_surah": 1535,
+      "word_surah": 5,
+      "word_translation": "Surely evil",
+      "word_transliteration": "labi'sa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14909,
+      "word_number_in_surah": 1536,
+      "word_surah": 5,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14910,
+      "word_number_in_surah": 1537,
+      "word_surah": 5,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14911,
+      "word_number_in_surah": 1538,
+      "word_surah": 5,
+      "word_translation": "doing",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "وَتَرَىٰ كَثِيرٗا مِّنۡهُمۡ يُسَٰرِعُونَ فِي ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَأَكۡلِهِمُ ٱلسُّحۡتَۚ لَبِئۡسَ مَا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "And you see many of them hastening into sin and aggression and the devouring of [what is] unlawful. How wretched is what they have been doing.",
+  "fullTransliteration": "watara kathiran min'hum yusari'una fi al-ith'mi wal-'ud'wani wa-aklihimu al-suh'ta labi'sa ma kanu ya'maluna"
+}

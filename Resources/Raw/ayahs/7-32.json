@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "ayah": 32,
+    "surah": 7,
+    "words": 26,
+    "numberInQuran": 986,
+    "juz": 8,
+    "manzil": 2,
+    "page": 154,
+    "ruku": 125,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19633,
+      "word_number_in_surah": 406,
+      "word_surah": 7,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19634,
+      "word_number_in_surah": 407,
+      "word_surah": 7,
+      "word_translation": "Who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "حَرَّمَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19635,
+      "word_number_in_surah": 408,
+      "word_surah": 7,
+      "word_translation": "has forbidden",
+      "word_transliteration": "harrama"
+    },
+    {
+      "word_arabic": "زِينَةَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19636,
+      "word_number_in_surah": 409,
+      "word_surah": 7,
+      "word_translation": "(the) adornment",
+      "word_transliteration": "zinata"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19637,
+      "word_number_in_surah": 410,
+      "word_surah": 7,
+      "word_translation": "(from) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلَّتِيٓ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19638,
+      "word_number_in_surah": 411,
+      "word_surah": 7,
+      "word_translation": "which",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "أَخۡرَجَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19639,
+      "word_number_in_surah": 412,
+      "word_surah": 7,
+      "word_translation": "He has brought forth",
+      "word_transliteration": "akhraja"
+    },
+    {
+      "word_arabic": "لِعِبَادِهِۦ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19640,
+      "word_number_in_surah": 413,
+      "word_surah": 7,
+      "word_translation": "for His slaves",
+      "word_transliteration": "li'ibadihi"
+    },
+    {
+      "word_arabic": "وَٱلطَّيِّبَٰتِ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19641,
+      "word_number_in_surah": 414,
+      "word_surah": 7,
+      "word_translation": "and the pure things",
+      "word_transliteration": "wal-tayibati"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19642,
+      "word_number_in_surah": 415,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلرِّزۡقِۚ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19643,
+      "word_number_in_surah": 416,
+      "word_surah": 7,
+      "word_translation": "sustenance",
+      "word_transliteration": "al-riz'qi"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19644,
+      "word_number_in_surah": 417,
+      "word_surah": 7,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "هِيَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19645,
+      "word_number_in_surah": 418,
+      "word_surah": 7,
+      "word_translation": "They",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "لِلَّذِينَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19646,
+      "word_number_in_surah": 419,
+      "word_surah": 7,
+      "word_translation": "(are) for those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19647,
+      "word_number_in_surah": 420,
+      "word_surah": 7,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19648,
+      "word_number_in_surah": 421,
+      "word_surah": 7,
+      "word_translation": "during",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةِ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19649,
+      "word_number_in_surah": 422,
+      "word_surah": 7,
+      "word_translation": "the life",
+      "word_transliteration": "al-hayati"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19650,
+      "word_number_in_surah": 423,
+      "word_surah": 7,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "خَالِصَةٗ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19651,
+      "word_number_in_surah": 424,
+      "word_surah": 7,
+      "word_translation": "exclusively (for them)",
+      "word_transliteration": "khalisatan"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19652,
+      "word_number_in_surah": 425,
+      "word_surah": 7,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۗ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19653,
+      "word_number_in_surah": 426,
+      "word_surah": 7,
+      "word_translation": "(of) Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19654,
+      "word_number_in_surah": 427,
+      "word_surah": 7,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "نُفَصِّلُ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19655,
+      "word_number_in_surah": 428,
+      "word_surah": 7,
+      "word_translation": "We explain",
+      "word_transliteration": "nufassilu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 19656,
+      "word_number_in_surah": 429,
+      "word_surah": 7,
+      "word_translation": "the Signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "لِقَوۡمٖ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 19657,
+      "word_number_in_surah": 430,
+      "word_surah": 7,
+      "word_translation": "for (the) people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 19658,
+      "word_number_in_surah": 431,
+      "word_surah": 7,
+      "word_translation": "who know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "قُلۡ مَنۡ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِيٓ أَخۡرَجَ لِعِبَادِهِۦ وَٱلطَّيِّبَٰتِ مِنَ ٱلرِّزۡقِۚ قُلۡ هِيَ لِلَّذِينَ ءَامَنُواْ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا خَالِصَةٗ يَوۡمَ ٱلۡقِيَٰمَةِۗ كَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
+  "fullTranslation": "Say, \"Who has forbidden the adornment of Allah which He has produced for His servants and the good [lawful] things of provision?\" Say, \"They are for those who believe during the worldly life [but] exclusively for them on the Day of Resurrection.\" Thus do We detail the verses for a people who know.",
+  "fullTransliteration": "qul man harrama zinata al-lahi allati akhraja li'ibadihi wal-tayibati mina al-riz'qi qul hiya lilladhina amanu fi al-hayati al-dun'ya khalisatan yawma al-qiyamati kadhalika nufassilu al-ayati liqawmin ya'lamuna"
+}

@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "ayah": 108,
+    "surah": 5,
+    "words": 22,
+    "numberInQuran": 777,
+    "juz": 7,
+    "manzil": 2,
+    "page": 125,
+    "ruku": 99,
+    "hizbQuarter": 50,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15871,
+      "word_number_in_surah": 2498,
+      "word_surah": 5,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "أَدۡنَىٰٓ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15872,
+      "word_number_in_surah": 2499,
+      "word_surah": 5,
+      "word_translation": "(is) closer",
+      "word_transliteration": "adna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 108,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15873,
+      "word_number_in_surah": 2500,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَأۡتُواْ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15874,
+      "word_number_in_surah": 2501,
+      "word_surah": 5,
+      "word_translation": "they will give",
+      "word_transliteration": "yatu"
+    },
+    {
+      "word_arabic": "بِٱلشَّهَٰدَةِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15875,
+      "word_number_in_surah": 2502,
+      "word_surah": 5,
+      "word_translation": "the testimony",
+      "word_transliteration": "bil-shahadati"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15876,
+      "word_number_in_surah": 2503,
+      "word_surah": 5,
+      "word_translation": "in",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "وَجۡهِهَآ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15877,
+      "word_number_in_surah": 2504,
+      "word_surah": 5,
+      "word_translation": "its (true) form",
+      "word_transliteration": "wajhiha"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15878,
+      "word_number_in_surah": 2505,
+      "word_surah": 5,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَخَافُوٓاْ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15879,
+      "word_number_in_surah": 2506,
+      "word_surah": 5,
+      "word_translation": "they would fear",
+      "word_transliteration": "yakhafu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 108,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15880,
+      "word_number_in_surah": 2507,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تُرَدَّ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15881,
+      "word_number_in_surah": 2508,
+      "word_surah": 5,
+      "word_translation": "will be refuted",
+      "word_transliteration": "turadda"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنُۢ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15882,
+      "word_number_in_surah": 2509,
+      "word_surah": 5,
+      "word_translation": "their oaths",
+      "word_transliteration": "aymanun"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15883,
+      "word_number_in_surah": 2510,
+      "word_surah": 5,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنِهِمۡۗ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15884,
+      "word_number_in_surah": 2511,
+      "word_surah": 5,
+      "word_translation": "their (others) oaths",
+      "word_transliteration": "aymanihim"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15885,
+      "word_number_in_surah": 2512,
+      "word_surah": 5,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15886,
+      "word_number_in_surah": 2513,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٱسۡمَعُواْۗ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15887,
+      "word_number_in_surah": 2514,
+      "word_surah": 5,
+      "word_translation": "and listen",
+      "word_transliteration": "wa-is'ma'u"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15888,
+      "word_number_in_surah": 2515,
+      "word_surah": 5,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15889,
+      "word_number_in_surah": 2516,
+      "word_surah": 5,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَهۡدِي",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15890,
+      "word_number_in_surah": 2517,
+      "word_surah": 5,
+      "word_translation": "guide",
+      "word_transliteration": "yahdi"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15891,
+      "word_number_in_surah": 2518,
+      "word_surah": 5,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawma"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰسِقِينَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15892,
+      "word_number_in_surah": 2519,
+      "word_surah": 5,
+      "word_translation": "the defiantly disobedient",
+      "word_transliteration": "al-fasiqina"
+    }
+  ],
+  "fullArabic": "ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ أَوۡ يَخَافُوٓاْ أَن تُرَدَّ أَيۡمَٰنُۢ بَعۡدَ أَيۡمَٰنِهِمۡۗ وَٱتَّقُواْ ٱللَّهَ وَٱسۡمَعُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+  "fullTranslation": "That is more likely that they will give testimony according to its [true] objective, or [at least] they would fear that [other] oaths might be taken after their oaths. And fear Allah and listen; and Allah does not guide the defiantly disobedient people.",
+  "fullTransliteration": "dhalika adna an yatu bil-shahadati ala wajhiha aw yakhafu an turadda aymanun ba'da aymanihim wa-ittaqu al-laha wa-is'ma'u wal-lahu la yahdi al-qawma al-fasiqina"
+}

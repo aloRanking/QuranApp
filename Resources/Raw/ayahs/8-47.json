@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "ayah": 47,
+    "surah": 8,
+    "words": 17,
+    "numberInQuran": 1207,
+    "juz": 10,
+    "manzil": 2,
+    "page": 183,
+    "ruku": 151,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23270,
+      "word_number_in_surah": 723,
+      "word_surah": 8,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23271,
+      "word_number_in_surah": 724,
+      "word_surah": 8,
+      "word_translation": "be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "كَٱلَّذِينَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23272,
+      "word_number_in_surah": 725,
+      "word_surah": 8,
+      "word_translation": "like those who",
+      "word_transliteration": "ka-alladhina"
+    },
+    {
+      "word_arabic": "خَرَجُواْ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23273,
+      "word_number_in_surah": 726,
+      "word_surah": 8,
+      "word_translation": "came forth",
+      "word_transliteration": "kharaju"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 47,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23274,
+      "word_number_in_surah": 727,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دِيَٰرِهِم",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23275,
+      "word_number_in_surah": 728,
+      "word_surah": 8,
+      "word_translation": "their homes",
+      "word_transliteration": "diyarihim"
+    },
+    {
+      "word_arabic": "بَطَرٗا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23276,
+      "word_number_in_surah": 729,
+      "word_surah": 8,
+      "word_translation": "boastfully",
+      "word_transliteration": "bataran"
+    },
+    {
+      "word_arabic": "وَرِئَآءَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23277,
+      "word_number_in_surah": 730,
+      "word_surah": 8,
+      "word_translation": "and showing off",
+      "word_transliteration": "wariaa"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23278,
+      "word_number_in_surah": 731,
+      "word_surah": 8,
+      "word_translation": "(to) the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "وَيَصُدُّونَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23279,
+      "word_number_in_surah": 732,
+      "word_surah": 8,
+      "word_translation": "and hinder (them)",
+      "word_transliteration": "wayasudduna"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23280,
+      "word_number_in_surah": 733,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23281,
+      "word_number_in_surah": 734,
+      "word_surah": 8,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23282,
+      "word_number_in_surah": 735,
+      "word_surah": 8,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23283,
+      "word_number_in_surah": 736,
+      "word_surah": 8,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23284,
+      "word_number_in_surah": 737,
+      "word_surah": 8,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23285,
+      "word_number_in_surah": 738,
+      "word_surah": 8,
+      "word_translation": "they do",
+      "word_transliteration": "ya'maluna"
+    },
+    {
+      "word_arabic": "مُحِيطٞ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23286,
+      "word_number_in_surah": 739,
+      "word_surah": 8,
+      "word_translation": "(is) All-Encompassing",
+      "word_transliteration": "muhitun"
+    }
+  ],
+  "fullArabic": "وَلَا تَكُونُواْ كَٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِم بَطَرٗا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۚ وَٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطٞ",
+  "fullTranslation": "And do not be like those who came forth from their homes insolently and to be seen by people and avert [them] from the way of Allah. And Allah is encompassing of what they do.",
+  "fullTransliteration": "wala takunu ka-alladhina kharaju min diyarihim bataran wariaa al-nasi wayasudduna an sabili al-lahi wal-lahu bima ya'maluna muhitun"
+}

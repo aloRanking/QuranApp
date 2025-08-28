@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "ayah": 37,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 530,
+    "juz": 5,
+    "manzil": 1,
+    "page": 84,
+    "ruku": 67,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10552,
+      "word_number_in_surah": 926,
+      "word_surah": 4,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَبۡخَلُونَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10553,
+      "word_number_in_surah": 927,
+      "word_surah": 4,
+      "word_translation": "are stingy",
+      "word_transliteration": "yabkhaluna"
+    },
+    {
+      "word_arabic": "وَيَأۡمُرُونَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10554,
+      "word_number_in_surah": 928,
+      "word_surah": 4,
+      "word_translation": "and order",
+      "word_transliteration": "wayamuruna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10555,
+      "word_number_in_surah": 929,
+      "word_surah": 4,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasa"
+    },
+    {
+      "word_arabic": "بِٱلۡبُخۡلِ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10556,
+      "word_number_in_surah": 930,
+      "word_surah": 4,
+      "word_translation": "[of] stinginess",
+      "word_transliteration": "bil-bukh'li"
+    },
+    {
+      "word_arabic": "وَيَكۡتُمُونَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10557,
+      "word_number_in_surah": 931,
+      "word_surah": 4,
+      "word_translation": "and hide",
+      "word_transliteration": "wayaktumuna"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10558,
+      "word_number_in_surah": 932,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ءَاتَىٰهُمُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10559,
+      "word_number_in_surah": 933,
+      "word_surah": 4,
+      "word_translation": "(has) given them",
+      "word_transliteration": "atahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10560,
+      "word_number_in_surah": 934,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 37,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10561,
+      "word_number_in_surah": 935,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَضۡلِهِۦۗ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10562,
+      "word_number_in_surah": 936,
+      "word_surah": 4,
+      "word_translation": "His Bounty",
+      "word_transliteration": "fadlihi"
+    },
+    {
+      "word_arabic": "وَأَعۡتَدۡنَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10563,
+      "word_number_in_surah": 937,
+      "word_surah": 4,
+      "word_translation": "and We (have) prepared",
+      "word_transliteration": "wa-a'tadna"
+    },
+    {
+      "word_arabic": "لِلۡكَٰفِرِينَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10564,
+      "word_number_in_surah": 938,
+      "word_surah": 4,
+      "word_translation": "for the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    },
+    {
+      "word_arabic": "عَذَابٗا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10565,
+      "word_number_in_surah": 939,
+      "word_surah": 4,
+      "word_translation": "a punishment",
+      "word_transliteration": "adhaban"
+    },
+    {
+      "word_arabic": "مُّهِينٗا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10566,
+      "word_number_in_surah": 940,
+      "word_surah": 4,
+      "word_translation": "humiliating",
+      "word_transliteration": "muhinan"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يَبۡخَلُونَ وَيَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبُخۡلِ وَيَكۡتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦۗ وَأَعۡتَدۡنَا لِلۡكَٰفِرِينَ عَذَابٗا مُّهِينٗا",
+  "fullTranslation": "Who are stingy and enjoin upon [other] people stinginess and conceal what Allah has given them of His bounty - and We have prepared for the disbelievers a humiliating punishment -",
+  "fullTransliteration": "alladhina yabkhaluna wayamuruna al-nasa bil-bukh'li wayaktumuna ma atahumu al-lahu min fadlihi wa-a'tadna lil'kafirina adhaban muhinan"
+}

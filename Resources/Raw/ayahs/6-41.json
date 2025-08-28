@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "ayah": 41,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 830,
+    "juz": 7,
+    "manzil": 2,
+    "page": 132,
+    "ruku": 105,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16820,
+      "word_number_in_surah": 643,
+      "word_surah": 6,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "إِيَّاهُ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16821,
+      "word_number_in_surah": 644,
+      "word_surah": 6,
+      "word_translation": "Him Alone",
+      "word_transliteration": "iyyahu"
+    },
+    {
+      "word_arabic": "تَدۡعُونَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16822,
+      "word_number_in_surah": 645,
+      "word_surah": 6,
+      "word_translation": "you call",
+      "word_transliteration": "tad'una"
+    },
+    {
+      "word_arabic": "فَيَكۡشِفُ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16823,
+      "word_number_in_surah": 646,
+      "word_surah": 6,
+      "word_translation": "and He would remove",
+      "word_transliteration": "fayakshifu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16824,
+      "word_number_in_surah": 647,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَدۡعُونَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16825,
+      "word_number_in_surah": 648,
+      "word_surah": 6,
+      "word_translation": "you call",
+      "word_transliteration": "tad'una"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16826,
+      "word_number_in_surah": 649,
+      "word_surah": 6,
+      "word_translation": "upon Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 41,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16827,
+      "word_number_in_surah": 650,
+      "word_surah": 6,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16828,
+      "word_number_in_surah": 651,
+      "word_surah": 6,
+      "word_translation": "He wills",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "وَتَنسَوۡنَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16829,
+      "word_number_in_surah": 652,
+      "word_surah": 6,
+      "word_translation": "and you will forget",
+      "word_transliteration": "watansawna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16830,
+      "word_number_in_surah": 653,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تُشۡرِكُونَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16831,
+      "word_number_in_surah": 654,
+      "word_surah": 6,
+      "word_translation": "you associate (with Him)",
+      "word_transliteration": "tush'rikuna"
+    }
+  ],
+  "fullArabic": "بَلۡ إِيَّاهُ تَدۡعُونَ فَيَكۡشِفُ مَا تَدۡعُونَ إِلَيۡهِ إِن شَآءَ وَتَنسَوۡنَ مَا تُشۡرِكُونَ",
+  "fullTranslation": "No, it is Him [alone] you would invoke, and He would remove that for which you invoked Him if He willed, and you would forget what you associate [with Him].",
+  "fullTransliteration": "bal iyyahu tad'una fayakshifu ma tad'una ilayhi in shaa watansawna ma tush'rikuna"
+}

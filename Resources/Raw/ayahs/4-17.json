@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "ayah": 17,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 510,
+    "juz": 4,
+    "manzil": 1,
+    "page": 80,
+    "ruku": 64,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10052,
+      "word_number_in_surah": 426,
+      "word_surah": 4,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "ٱلتَّوۡبَةُ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10053,
+      "word_number_in_surah": 427,
+      "word_surah": 4,
+      "word_translation": "the acceptance of repentance",
+      "word_transliteration": "al-tawbatu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10054,
+      "word_number_in_surah": 428,
+      "word_surah": 4,
+      "word_translation": "by",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10055,
+      "word_number_in_surah": 429,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "لِلَّذِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10056,
+      "word_number_in_surah": 430,
+      "word_surah": 4,
+      "word_translation": "(is) for those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10057,
+      "word_number_in_surah": 431,
+      "word_surah": 4,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    },
+    {
+      "word_arabic": "ٱلسُّوٓءَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10058,
+      "word_number_in_surah": 432,
+      "word_surah": 4,
+      "word_translation": "the evil",
+      "word_transliteration": "al-sua"
+    },
+    {
+      "word_arabic": "بِجَهَٰلَةٖ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10059,
+      "word_number_in_surah": 433,
+      "word_surah": 4,
+      "word_translation": "in ignorance",
+      "word_transliteration": "bijahalatin"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10060,
+      "word_number_in_surah": 434,
+      "word_surah": 4,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يَتُوبُونَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10061,
+      "word_number_in_surah": 435,
+      "word_surah": 4,
+      "word_translation": "they repent",
+      "word_transliteration": "yatubuna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 17,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10062,
+      "word_number_in_surah": 436,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَرِيبٖ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10063,
+      "word_number_in_surah": 437,
+      "word_surah": 4,
+      "word_translation": "soon after",
+      "word_transliteration": "qaribin"
+    },
+    {
+      "word_arabic": "فَأُوْلَٰٓئِكَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10064,
+      "word_number_in_surah": 438,
+      "word_surah": 4,
+      "word_translation": "Then those",
+      "word_transliteration": "fa-ulaika"
+    },
+    {
+      "word_arabic": "يَتُوبُ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10065,
+      "word_number_in_surah": 439,
+      "word_surah": 4,
+      "word_translation": "will have forgiveness",
+      "word_transliteration": "yatubu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10066,
+      "word_number_in_surah": 440,
+      "word_surah": 4,
+      "word_translation": "(from) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡۗ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10067,
+      "word_number_in_surah": 441,
+      "word_surah": 4,
+      "word_translation": "upon them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10068,
+      "word_number_in_surah": 442,
+      "word_surah": 4,
+      "word_translation": "and is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10069,
+      "word_number_in_surah": 443,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلِيمًا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10070,
+      "word_number_in_surah": 444,
+      "word_surah": 4,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "aliman"
+    },
+    {
+      "word_arabic": "حَكِيمٗا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10071,
+      "word_number_in_surah": 445,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "إِنَّمَا ٱلتَّوۡبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعۡمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٖ ثُمَّ يَتُوبُونَ مِن قَرِيبٖ فَأُوْلَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيۡهِمۡۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمٗا",
+  "fullTranslation": "The repentance accepted by Allah is only for those who do wrong in ignorance [or carelessness] and then repent soon after. It is those to whom Allah will turn in forgiveness, and Allah is ever Knowing and Wise.",
+  "fullTransliteration": "innama al-tawbatu ala al-lahi lilladhina ya'maluna al-sua bijahalatin thumma yatubuna min qaribin fa-ulaika yatubu al-lahu alayhim wakana al-lahu aliman hakiman"
+}

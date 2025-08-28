@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "ayah": 141,
+    "surah": 6,
+    "words": 31,
+    "numberInQuran": 930,
+    "juz": 8,
+    "manzil": 2,
+    "page": 146,
+    "ruku": 118,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَهُوَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18643,
+      "word_number_in_surah": 2466,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18644,
+      "word_number_in_surah": 2467,
+      "word_surah": 6,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "أَنشَأَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18645,
+      "word_number_in_surah": 2468,
+      "word_surah": 6,
+      "word_translation": "produced",
+      "word_transliteration": "ansha-a"
+    },
+    {
+      "word_arabic": "جَنَّٰتٖ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18646,
+      "word_number_in_surah": 2469,
+      "word_surah": 6,
+      "word_translation": "gardens",
+      "word_transliteration": "jannatin"
+    },
+    {
+      "word_arabic": "مَّعۡرُوشَٰتٖ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18647,
+      "word_number_in_surah": 2470,
+      "word_surah": 6,
+      "word_translation": "trellised",
+      "word_transliteration": "ma'rushatin"
+    },
+    {
+      "word_arabic": "وَغَيۡرَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18648,
+      "word_number_in_surah": 2471,
+      "word_surah": 6,
+      "word_translation": "and other than",
+      "word_transliteration": "waghayra"
+    },
+    {
+      "word_arabic": "مَعۡرُوشَٰتٖ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18649,
+      "word_number_in_surah": 2472,
+      "word_surah": 6,
+      "word_translation": "trellised",
+      "word_transliteration": "ma'rushatin"
+    },
+    {
+      "word_arabic": "وَٱلنَّخۡلَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18650,
+      "word_number_in_surah": 2473,
+      "word_surah": 6,
+      "word_translation": "and the date-palm",
+      "word_transliteration": "wal-nakhla"
+    },
+    {
+      "word_arabic": "وَٱلزَّرۡعَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18651,
+      "word_number_in_surah": 2474,
+      "word_surah": 6,
+      "word_translation": "and the crops",
+      "word_transliteration": "wal-zar'a"
+    },
+    {
+      "word_arabic": "مُخۡتَلِفًا",
+      "word_ayah": 141,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18652,
+      "word_number_in_surah": 2475,
+      "word_surah": 6,
+      "word_translation": "diverse",
+      "word_transliteration": "mukh'talifan"
+    },
+    {
+      "word_arabic": "أُكُلُهُۥ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18653,
+      "word_number_in_surah": 2476,
+      "word_surah": 6,
+      "word_translation": "(are) its taste",
+      "word_transliteration": "ukuluhu"
+    },
+    {
+      "word_arabic": "وَٱلزَّيۡتُونَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18654,
+      "word_number_in_surah": 2477,
+      "word_surah": 6,
+      "word_translation": "and the olives",
+      "word_transliteration": "wal-zaytuna"
+    },
+    {
+      "word_arabic": "وَٱلرُّمَّانَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18655,
+      "word_number_in_surah": 2478,
+      "word_surah": 6,
+      "word_translation": "and the pomegranates",
+      "word_transliteration": "wal-rumana"
+    },
+    {
+      "word_arabic": "مُتَشَٰبِهٗا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18656,
+      "word_number_in_surah": 2479,
+      "word_surah": 6,
+      "word_translation": "similar",
+      "word_transliteration": "mutashabihan"
+    },
+    {
+      "word_arabic": "وَغَيۡرَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18657,
+      "word_number_in_surah": 2480,
+      "word_surah": 6,
+      "word_translation": "and other than",
+      "word_transliteration": "waghayra"
+    },
+    {
+      "word_arabic": "مُتَشَٰبِهٖۚ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18658,
+      "word_number_in_surah": 2481,
+      "word_surah": 6,
+      "word_translation": "similar",
+      "word_transliteration": "mutashabihin"
+    },
+    {
+      "word_arabic": "كُلُواْ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18659,
+      "word_number_in_surah": 2482,
+      "word_surah": 6,
+      "word_translation": "Eat",
+      "word_transliteration": "kulu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 141,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18660,
+      "word_number_in_surah": 2483,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ثَمَرِهِۦٓ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18661,
+      "word_number_in_surah": 2484,
+      "word_surah": 6,
+      "word_translation": "its fruit",
+      "word_transliteration": "thamarihi"
+    },
+    {
+      "word_arabic": "إِذَآ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18662,
+      "word_number_in_surah": 2485,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "أَثۡمَرَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18663,
+      "word_number_in_surah": 2486,
+      "word_surah": 6,
+      "word_translation": "it bears fruit",
+      "word_transliteration": "athmara"
+    },
+    {
+      "word_arabic": "وَءَاتُواْ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18664,
+      "word_number_in_surah": 2487,
+      "word_surah": 6,
+      "word_translation": "and give",
+      "word_transliteration": "waatu"
+    },
+    {
+      "word_arabic": "حَقَّهُۥ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18665,
+      "word_number_in_surah": 2488,
+      "word_surah": 6,
+      "word_translation": "its due",
+      "word_transliteration": "haqqahu"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18666,
+      "word_number_in_surah": 2489,
+      "word_surah": 6,
+      "word_translation": "(on the) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "حَصَادِهِۦۖ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18667,
+      "word_number_in_surah": 2490,
+      "word_surah": 6,
+      "word_translation": "(of) its harvest",
+      "word_transliteration": "hasadihi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18668,
+      "word_number_in_surah": 2491,
+      "word_surah": 6,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُسۡرِفُوٓاْۚ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 18669,
+      "word_number_in_surah": 2492,
+      "word_surah": 6,
+      "word_translation": "(be) extravagant",
+      "word_transliteration": "tus'rifu"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 18670,
+      "word_number_in_surah": 2493,
+      "word_surah": 6,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 18671,
+      "word_number_in_surah": 2494,
+      "word_surah": 6,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 18672,
+      "word_number_in_surah": 2495,
+      "word_surah": 6,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُسۡرِفِينَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 18673,
+      "word_number_in_surah": 2496,
+      "word_surah": 6,
+      "word_translation": "the ones who are extravagant",
+      "word_transliteration": "al-mus'rifina"
+    }
+  ],
+  "fullArabic": "۞وَهُوَ ٱلَّذِيٓ أَنشَأَ جَنَّٰتٖ مَّعۡرُوشَٰتٖ وَغَيۡرَ مَعۡرُوشَٰتٖ وَٱلنَّخۡلَ وَٱلزَّرۡعَ مُخۡتَلِفًا أُكُلُهُۥ وَٱلزَّيۡتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهٗا وَغَيۡرَ مُتَشَٰبِهٖۚ كُلُواْ مِن ثَمَرِهِۦٓ إِذَآ أَثۡمَرَ وَءَاتُواْ حَقَّهُۥ يَوۡمَ حَصَادِهِۦۖ وَلَا تُسۡرِفُوٓاْۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُسۡرِفِينَ",
+  "fullTranslation": "And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakah] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.",
+  "fullTransliteration": "wahuwa alladhi ansha-a jannatin ma'rushatin waghayra ma'rushatin wal-nakhla wal-zar'a mukh'talifan ukuluhu wal-zaytuna wal-rumana mutashabihan waghayra mutashabihin kulu min thamarihi idha athmara waatu haqqahu yawma hasadihi wala tus'rifu innahu la yuhibbu al-mus'rifina"
+}

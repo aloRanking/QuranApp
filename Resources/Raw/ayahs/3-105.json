@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 105,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 398,
+    "juz": 4,
+    "manzil": 1,
+    "page": 63,
+    "ruku": 52,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7926,
+      "word_number_in_surah": 1781,
+      "word_surah": 3,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7927,
+      "word_number_in_surah": 1782,
+      "word_surah": 3,
+      "word_translation": "be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "كَٱلَّذِينَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7928,
+      "word_number_in_surah": 1783,
+      "word_surah": 3,
+      "word_translation": "like those who",
+      "word_transliteration": "ka-alladhina"
+    },
+    {
+      "word_arabic": "تَفَرَّقُواْ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7929,
+      "word_number_in_surah": 1784,
+      "word_surah": 3,
+      "word_translation": "became divided",
+      "word_transliteration": "tafarraqu"
+    },
+    {
+      "word_arabic": "وَٱخۡتَلَفُواْ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7930,
+      "word_number_in_surah": 1785,
+      "word_surah": 3,
+      "word_translation": "and differed",
+      "word_transliteration": "wa-ikh'talafu"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7931,
+      "word_number_in_surah": 1786,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7932,
+      "word_number_in_surah": 1787,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7933,
+      "word_number_in_surah": 1788,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "جَآءَهُمُ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7934,
+      "word_number_in_surah": 1789,
+      "word_surah": 3,
+      "word_translation": "came to them",
+      "word_transliteration": "jaahumu"
+    },
+    {
+      "word_arabic": "ٱلۡبَيِّنَٰتُۚ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7935,
+      "word_number_in_surah": 1790,
+      "word_surah": 3,
+      "word_translation": "the clear proofs",
+      "word_transliteration": "al-bayinatu"
+    },
+    {
+      "word_arabic": "وَأُوْلَٰٓئِكَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7936,
+      "word_number_in_surah": 1791,
+      "word_surah": 3,
+      "word_translation": "And those",
+      "word_transliteration": "wa-ulaika"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7937,
+      "word_number_in_surah": 1792,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "عَذَابٌ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7938,
+      "word_number_in_surah": 1793,
+      "word_surah": 3,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "عَظِيمٞ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7939,
+      "word_number_in_surah": 1794,
+      "word_surah": 3,
+      "word_translation": "great",
+      "word_transliteration": "azimun"
+    }
+  ],
+  "fullArabic": "وَلَا تَكُونُواْ كَٱلَّذِينَ تَفَرَّقُواْ وَٱخۡتَلَفُواْ مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡبَيِّنَٰتُۚ وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ عَظِيمٞ",
+  "fullTranslation": "And do not be like the ones who became divided and differed after the clear proofs had come to them. And those will have a great punishment.",
+  "fullTransliteration": "wala takunu ka-alladhina tafarraqu wa-ikh'talafu min ba'di ma jaahumu al-bayinatu wa-ulaika lahum adhabun azimun"
+}

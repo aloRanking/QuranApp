@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "ayah": 138,
+    "surah": 6,
+    "words": 26,
+    "numberInQuran": 927,
+    "juz": 8,
+    "manzil": 2,
+    "page": 146,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18575,
+      "word_number_in_surah": 2398,
+      "word_surah": 6,
+      "word_translation": "And they say",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "هَٰذِهِۦٓ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18576,
+      "word_number_in_surah": 2399,
+      "word_surah": 6,
+      "word_translation": "These",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "أَنۡعَٰمٞ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18577,
+      "word_number_in_surah": 2400,
+      "word_surah": 6,
+      "word_translation": "cattle",
+      "word_transliteration": "an'amun"
+    },
+    {
+      "word_arabic": "وَحَرۡثٌ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18578,
+      "word_number_in_surah": 2401,
+      "word_surah": 6,
+      "word_translation": "and crops",
+      "word_transliteration": "waharthun"
+    },
+    {
+      "word_arabic": "حِجۡرٞ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18579,
+      "word_number_in_surah": 2402,
+      "word_surah": 6,
+      "word_translation": "(are) forbidden",
+      "word_transliteration": "hij'run"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18580,
+      "word_number_in_surah": 2403,
+      "word_surah": 6,
+      "word_translation": "no (one)",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَطۡعَمُهَآ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18581,
+      "word_number_in_surah": 2404,
+      "word_surah": 6,
+      "word_translation": "can eat them",
+      "word_transliteration": "yat'amuha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18582,
+      "word_number_in_surah": 2405,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 138,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18583,
+      "word_number_in_surah": 2406,
+      "word_surah": 6,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "نَّشَآءُ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18584,
+      "word_number_in_surah": 2407,
+      "word_surah": 6,
+      "word_translation": "we will",
+      "word_transliteration": "nashau"
+    },
+    {
+      "word_arabic": "بِزَعۡمِهِمۡ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18585,
+      "word_number_in_surah": 2408,
+      "word_surah": 6,
+      "word_translation": "by their claim",
+      "word_transliteration": "biza'mihim"
+    },
+    {
+      "word_arabic": "وَأَنۡعَٰمٌ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18586,
+      "word_number_in_surah": 2409,
+      "word_surah": 6,
+      "word_translation": "And cattle",
+      "word_transliteration": "wa-an'amun"
+    },
+    {
+      "word_arabic": "حُرِّمَتۡ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18587,
+      "word_number_in_surah": 2410,
+      "word_surah": 6,
+      "word_translation": "forbidden",
+      "word_transliteration": "hurrimat"
+    },
+    {
+      "word_arabic": "ظُهُورُهَا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18588,
+      "word_number_in_surah": 2411,
+      "word_surah": 6,
+      "word_translation": "(are) their backs",
+      "word_transliteration": "zuhuruha"
+    },
+    {
+      "word_arabic": "وَأَنۡعَٰمٞ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18589,
+      "word_number_in_surah": 2412,
+      "word_surah": 6,
+      "word_translation": "and cattle",
+      "word_transliteration": "wa-an'amun"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18590,
+      "word_number_in_surah": 2413,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَذۡكُرُونَ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18591,
+      "word_number_in_surah": 2414,
+      "word_surah": 6,
+      "word_translation": "they mention",
+      "word_transliteration": "yadhkuruna"
+    },
+    {
+      "word_arabic": "ٱسۡمَ",
+      "word_ayah": 138,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18592,
+      "word_number_in_surah": 2415,
+      "word_surah": 6,
+      "word_translation": "(the) name",
+      "word_transliteration": "is'ma"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18593,
+      "word_number_in_surah": 2416,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡهَا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18594,
+      "word_number_in_surah": 2417,
+      "word_surah": 6,
+      "word_translation": "on it",
+      "word_transliteration": "alayha"
+    },
+    {
+      "word_arabic": "ٱفۡتِرَآءً",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18595,
+      "word_number_in_surah": 2418,
+      "word_surah": 6,
+      "word_translation": "(as) an invention",
+      "word_transliteration": "if'tiraan"
+    },
+    {
+      "word_arabic": "عَلَيۡهِۚ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18596,
+      "word_number_in_surah": 2419,
+      "word_surah": 6,
+      "word_translation": "against Him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "سَيَجۡزِيهِم",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18597,
+      "word_number_in_surah": 2420,
+      "word_surah": 6,
+      "word_translation": "He will recompense them",
+      "word_transliteration": "sayajzihim"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18598,
+      "word_number_in_surah": 2421,
+      "word_surah": 6,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18599,
+      "word_number_in_surah": 2422,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَفۡتَرُونَ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18600,
+      "word_number_in_surah": 2423,
+      "word_surah": 6,
+      "word_translation": "invent",
+      "word_transliteration": "yaftaruna"
+    }
+  ],
+  "fullArabic": "وَقَالُواْ هَٰذِهِۦٓ أَنۡعَٰمٞ وَحَرۡثٌ حِجۡرٞ لَّا يَطۡعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعۡمِهِمۡ وَأَنۡعَٰمٌ حُرِّمَتۡ ظُهُورُهَا وَأَنۡعَٰمٞ لَّا يَذۡكُرُونَ ٱسۡمَ ٱللَّهِ عَلَيۡهَا ٱفۡتِرَآءً عَلَيۡهِۚ سَيَجۡزِيهِم بِمَا كَانُواْ يَفۡتَرُونَ",
+  "fullTranslation": "And they say, \"These animals and crops are forbidden; no one may eat from them except whom we will,\" by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allah is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.",
+  "fullTransliteration": "waqalu hadhihi an'amun waharthun hij'run la yat'amuha illa man nashau biza'mihim wa-an'amun hurrimat zuhuruha wa-an'amun la yadhkuruna is'ma al-lahi alayha if'tiraan alayhi sayajzihim bima kanu yaftaruna"
+}

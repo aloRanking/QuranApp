@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "ayah": 185,
+    "surah": 3,
+    "words": 23,
+    "numberInQuran": 478,
+    "juz": 4,
+    "manzil": 1,
+    "page": 74,
+    "ruku": 60,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كُلُّ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9335,
+      "word_number_in_surah": 3190,
+      "word_surah": 3,
+      "word_translation": "Every",
+      "word_transliteration": "kullu"
+    },
+    {
+      "word_arabic": "نَفۡسٖ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9336,
+      "word_number_in_surah": 3191,
+      "word_surah": 3,
+      "word_translation": "soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "ذَآئِقَةُ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9337,
+      "word_number_in_surah": 3192,
+      "word_surah": 3,
+      "word_translation": "(will) taste",
+      "word_transliteration": "dhaiqatu"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتِۗ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9338,
+      "word_number_in_surah": 3193,
+      "word_surah": 3,
+      "word_translation": "[the] death",
+      "word_transliteration": "al-mawti"
+    },
+    {
+      "word_arabic": "وَإِنَّمَا",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9339,
+      "word_number_in_surah": 3194,
+      "word_surah": 3,
+      "word_translation": "and only",
+      "word_transliteration": "wa-innama"
+    },
+    {
+      "word_arabic": "تُوَفَّوۡنَ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9340,
+      "word_number_in_surah": 3195,
+      "word_surah": 3,
+      "word_translation": "you will be paid in full",
+      "word_transliteration": "tuwaffawna"
+    },
+    {
+      "word_arabic": "أُجُورَكُمۡ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9341,
+      "word_number_in_surah": 3196,
+      "word_surah": 3,
+      "word_translation": "your reward",
+      "word_transliteration": "ujurakum"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9342,
+      "word_number_in_surah": 3197,
+      "word_surah": 3,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۖ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9343,
+      "word_number_in_surah": 3198,
+      "word_surah": 3,
+      "word_translation": "(of) [the] Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 185,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9344,
+      "word_number_in_surah": 3199,
+      "word_surah": 3,
+      "word_translation": "Then whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "زُحۡزِحَ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9345,
+      "word_number_in_surah": 3200,
+      "word_surah": 3,
+      "word_translation": "is drawn away",
+      "word_transliteration": "zuh'ziha"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9346,
+      "word_number_in_surah": 3201,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9347,
+      "word_number_in_surah": 3202,
+      "word_surah": 3,
+      "word_translation": "the Fire",
+      "word_transliteration": "al-nari"
+    },
+    {
+      "word_arabic": "وَأُدۡخِلَ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9348,
+      "word_number_in_surah": 3203,
+      "word_surah": 3,
+      "word_translation": "and admitted",
+      "word_transliteration": "wa-ud'khila"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةَ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9349,
+      "word_number_in_surah": 3204,
+      "word_surah": 3,
+      "word_translation": "(to) Paradise",
+      "word_transliteration": "al-janata"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9350,
+      "word_number_in_surah": 3205,
+      "word_surah": 3,
+      "word_translation": "then surely",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "فَازَۗ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9351,
+      "word_number_in_surah": 3206,
+      "word_surah": 3,
+      "word_translation": "he is successful",
+      "word_transliteration": "faza"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9352,
+      "word_number_in_surah": 3207,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةُ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9353,
+      "word_number_in_surah": 3208,
+      "word_surah": 3,
+      "word_translation": "(is) the life",
+      "word_transliteration": "al-hayatu"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَآ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9354,
+      "word_number_in_surah": 3209,
+      "word_surah": 3,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9355,
+      "word_number_in_surah": 3210,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَتَٰعُ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9356,
+      "word_number_in_surah": 3211,
+      "word_surah": 3,
+      "word_translation": "enjoyment",
+      "word_transliteration": "mata'u"
+    },
+    {
+      "word_arabic": "ٱلۡغُرُورِ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 9357,
+      "word_number_in_surah": 3212,
+      "word_surah": 3,
+      "word_translation": "(of) delusion",
+      "word_transliteration": "al-ghururi"
+    }
+  ],
+  "fullArabic": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَإِنَّمَا تُوَفَّوۡنَ أُجُورَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۖ فَمَن زُحۡزِحَ عَنِ ٱلنَّارِ وَأُدۡخِلَ ٱلۡجَنَّةَ فَقَدۡ فَازَۗ وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا مَتَٰعُ ٱلۡغُرُورِ",
+  "fullTranslation": "Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.",
+  "fullTransliteration": "kullu nafsin dhaiqatu al-mawti wa-innama tuwaffawna ujurakum yawma al-qiyamati faman zuh'ziha ani al-nari wa-ud'khila al-janata faqad faza wama al-hayatu al-dun'ya illa mata'u al-ghururi"
+}

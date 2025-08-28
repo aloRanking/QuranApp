@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 76,
+    "surah": 6,
+    "words": 15,
+    "numberInQuran": 865,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17445,
+      "word_number_in_surah": 1268,
+      "word_surah": 6,
+      "word_translation": "So when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "جَنَّ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17446,
+      "word_number_in_surah": 1269,
+      "word_surah": 6,
+      "word_translation": "covered",
+      "word_transliteration": "janna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17447,
+      "word_number_in_surah": 1270,
+      "word_surah": 6,
+      "word_translation": "over him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلُ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17448,
+      "word_number_in_surah": 1271,
+      "word_surah": 6,
+      "word_translation": "the night",
+      "word_transliteration": "al-laylu"
+    },
+    {
+      "word_arabic": "رَءَا",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17449,
+      "word_number_in_surah": 1272,
+      "word_surah": 6,
+      "word_translation": "he saw",
+      "word_transliteration": "raa"
+    },
+    {
+      "word_arabic": "كَوۡكَبٗاۖ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17450,
+      "word_number_in_surah": 1273,
+      "word_surah": 6,
+      "word_translation": "a star",
+      "word_transliteration": "kawkaban"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17451,
+      "word_number_in_surah": 1274,
+      "word_surah": 6,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17452,
+      "word_number_in_surah": 1275,
+      "word_surah": 6,
+      "word_translation": "This",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "رَبِّيۖ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17453,
+      "word_number_in_surah": 1276,
+      "word_surah": 6,
+      "word_translation": "(is) my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17454,
+      "word_number_in_surah": 1277,
+      "word_surah": 6,
+      "word_translation": "But when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَفَلَ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17455,
+      "word_number_in_surah": 1278,
+      "word_surah": 6,
+      "word_translation": "it set",
+      "word_transliteration": "afala"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17456,
+      "word_number_in_surah": 1279,
+      "word_surah": 6,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17457,
+      "word_number_in_surah": 1280,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أُحِبُّ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17458,
+      "word_number_in_surah": 1281,
+      "word_surah": 6,
+      "word_translation": "(do) I like",
+      "word_transliteration": "uhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓفِلِينَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17459,
+      "word_number_in_surah": 1282,
+      "word_surah": 6,
+      "word_translation": "the ones that set",
+      "word_transliteration": "al-afilina"
+    }
+  ],
+  "fullArabic": "فَلَمَّا جَنَّ عَلَيۡهِ ٱلَّيۡلُ رَءَا كَوۡكَبٗاۖ قَالَ هَٰذَا رَبِّيۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلۡأٓفِلِينَ",
+  "fullTranslation": "So when the night covered him [with darkness], he saw a star. He said, \"This is my lord.\" But when it set, he said, \"I like not those that disappear.\"",
+  "fullTransliteration": "falamma janna alayhi al-laylu raa kawkaban qala hadha rabbi falamma afala qala la uhibbu al-afilina"
+}

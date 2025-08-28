@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "ayah": 145,
+    "surah": 7,
+    "words": 20,
+    "numberInQuran": 1099,
+    "juz": 9,
+    "manzil": 2,
+    "page": 168,
+    "ruku": 138,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَتَبۡنَا",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21423,
+      "word_number_in_surah": 2196,
+      "word_surah": 7,
+      "word_translation": "And We ordained (laws)",
+      "word_transliteration": "wakatabna"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21424,
+      "word_number_in_surah": 2197,
+      "word_surah": 7,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21425,
+      "word_number_in_surah": 2198,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَلۡوَاحِ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21426,
+      "word_number_in_surah": 2199,
+      "word_surah": 7,
+      "word_translation": "the tablets",
+      "word_transliteration": "al-alwahi"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 145,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21427,
+      "word_number_in_surah": 2200,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21428,
+      "word_number_in_surah": 2201,
+      "word_surah": 7,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21429,
+      "word_number_in_surah": 2202,
+      "word_surah": 7,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "مَّوۡعِظَةٗ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21430,
+      "word_number_in_surah": 2203,
+      "word_surah": 7,
+      "word_translation": "an instruction",
+      "word_transliteration": "maw'izatan"
+    },
+    {
+      "word_arabic": "وَتَفۡصِيلٗا",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21431,
+      "word_number_in_surah": 2204,
+      "word_surah": 7,
+      "word_translation": "and explanation",
+      "word_transliteration": "watafsilan"
+    },
+    {
+      "word_arabic": "لِّكُلِّ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21432,
+      "word_number_in_surah": 2205,
+      "word_surah": 7,
+      "word_translation": "for every",
+      "word_transliteration": "likulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21433,
+      "word_number_in_surah": 2206,
+      "word_surah": 7,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "فَخُذۡهَا",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21434,
+      "word_number_in_surah": 2207,
+      "word_surah": 7,
+      "word_translation": "So take them",
+      "word_transliteration": "fakhudh'ha"
+    },
+    {
+      "word_arabic": "بِقُوَّةٖ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21435,
+      "word_number_in_surah": 2208,
+      "word_surah": 7,
+      "word_translation": "with firmness",
+      "word_transliteration": "biquwwatin"
+    },
+    {
+      "word_arabic": "وَأۡمُرۡ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21436,
+      "word_number_in_surah": 2209,
+      "word_surah": 7,
+      "word_translation": "and order",
+      "word_transliteration": "wamur"
+    },
+    {
+      "word_arabic": "قَوۡمَكَ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21437,
+      "word_number_in_surah": 2210,
+      "word_surah": 7,
+      "word_translation": "your people",
+      "word_transliteration": "qawmaka"
+    },
+    {
+      "word_arabic": "يَأۡخُذُواْ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21438,
+      "word_number_in_surah": 2211,
+      "word_surah": 7,
+      "word_translation": "[to] take",
+      "word_transliteration": "yakhudhu"
+    },
+    {
+      "word_arabic": "بِأَحۡسَنِهَاۚ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21439,
+      "word_number_in_surah": 2212,
+      "word_surah": 7,
+      "word_translation": "(the) best of it",
+      "word_transliteration": "bi-ahsaniha"
+    },
+    {
+      "word_arabic": "سَأُوْرِيكُمۡ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21440,
+      "word_number_in_surah": 2213,
+      "word_surah": 7,
+      "word_translation": "I will show you",
+      "word_transliteration": "sa-urikum"
+    },
+    {
+      "word_arabic": "دَارَ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21441,
+      "word_number_in_surah": 2214,
+      "word_surah": 7,
+      "word_translation": "(the) home",
+      "word_transliteration": "dara"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰسِقِينَ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21442,
+      "word_number_in_surah": 2215,
+      "word_surah": 7,
+      "word_translation": "(of) the defiantly disobedient",
+      "word_transliteration": "al-fasiqina"
+    }
+  ],
+  "fullArabic": "وَكَتَبۡنَا لَهُۥ فِي ٱلۡأَلۡوَاحِ مِن كُلِّ شَيۡءٖ مَّوۡعِظَةٗ وَتَفۡصِيلٗا لِّكُلِّ شَيۡءٖ فَخُذۡهَا بِقُوَّةٖ وَأۡمُرۡ قَوۡمَكَ يَأۡخُذُواْ بِأَحۡسَنِهَاۚ سَأُوْرِيكُمۡ دَارَ ٱلۡفَٰسِقِينَ",
+  "fullTranslation": "And We wrote for him on the tablets [something] of all things - instruction and explanation for all things, [saying], \"Take them with determination and order your people to take the best of it. I will show you the home of the defiantly disobedient.\"",
+  "fullTransliteration": "wakatabna lahu fi al-alwahi min kulli shayin maw'izatan watafsilan likulli shayin fakhudh'ha biquwwatin wamur qawmaka yakhudhu bi-ahsaniha sa-urikum dara al-fasiqina"
+}

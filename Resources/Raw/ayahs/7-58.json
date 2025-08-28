@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "ayah": 58,
+    "surah": 7,
+    "words": 17,
+    "numberInQuran": 1012,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 128,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلۡبَلَدُ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20172,
+      "word_number_in_surah": 945,
+      "word_surah": 7,
+      "word_translation": "And the land",
+      "word_transliteration": "wal-baladu"
+    },
+    {
+      "word_arabic": "ٱلطَّيِّبُ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20173,
+      "word_number_in_surah": 946,
+      "word_surah": 7,
+      "word_translation": "[the] pure",
+      "word_transliteration": "al-tayibu"
+    },
+    {
+      "word_arabic": "يَخۡرُجُ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20174,
+      "word_number_in_surah": 947,
+      "word_surah": 7,
+      "word_translation": "comes forth",
+      "word_transliteration": "yakhruju"
+    },
+    {
+      "word_arabic": "نَبَاتُهُۥ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20175,
+      "word_number_in_surah": 948,
+      "word_surah": 7,
+      "word_translation": "its vegetation",
+      "word_transliteration": "nabatuhu"
+    },
+    {
+      "word_arabic": "بِإِذۡنِ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20176,
+      "word_number_in_surah": 949,
+      "word_surah": 7,
+      "word_translation": "by (the) permission",
+      "word_transliteration": "bi-idh'ni"
+    },
+    {
+      "word_arabic": "رَبِّهِۦۖ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20177,
+      "word_number_in_surah": 950,
+      "word_surah": 7,
+      "word_translation": "(of) its Lord",
+      "word_transliteration": "rabbihi"
+    },
+    {
+      "word_arabic": "وَٱلَّذِي",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20178,
+      "word_number_in_surah": 951,
+      "word_surah": 7,
+      "word_translation": "but which",
+      "word_transliteration": "wa-alladhi"
+    },
+    {
+      "word_arabic": "خَبُثَ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20179,
+      "word_number_in_surah": 952,
+      "word_surah": 7,
+      "word_translation": "is bad",
+      "word_transliteration": "khabutha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20180,
+      "word_number_in_surah": 953,
+      "word_surah": 7,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَخۡرُجُ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20181,
+      "word_number_in_surah": 954,
+      "word_surah": 7,
+      "word_translation": "come forth",
+      "word_transliteration": "yakhruju"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20182,
+      "word_number_in_surah": 955,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "نَكِدٗاۚ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20183,
+      "word_number_in_surah": 956,
+      "word_surah": 7,
+      "word_translation": "(with) difficulty",
+      "word_transliteration": "nakidan"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20184,
+      "word_number_in_surah": 957,
+      "word_surah": 7,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "نُصَرِّفُ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20185,
+      "word_number_in_surah": 958,
+      "word_surah": 7,
+      "word_translation": "We explain",
+      "word_transliteration": "nusarrifu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20186,
+      "word_number_in_surah": 959,
+      "word_surah": 7,
+      "word_translation": "the Signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "لِقَوۡمٖ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20187,
+      "word_number_in_surah": 960,
+      "word_surah": 7,
+      "word_translation": "for a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يَشۡكُرُونَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20188,
+      "word_number_in_surah": 961,
+      "word_surah": 7,
+      "word_translation": "who are grateful",
+      "word_transliteration": "yashkuruna"
+    }
+  ],
+  "fullArabic": "وَٱلۡبَلَدُ ٱلطَّيِّبُ يَخۡرُجُ نَبَاتُهُۥ بِإِذۡنِ رَبِّهِۦۖ وَٱلَّذِي خَبُثَ لَا يَخۡرُجُ إِلَّا نَكِدٗاۚ كَذَٰلِكَ نُصَرِّفُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَشۡكُرُونَ",
+  "fullTranslation": "And the good land - its vegetation emerges by permission of its Lord; but that which is bad - nothing emerges except sparsely, with difficulty. Thus do We diversify the signs for a people who are grateful.",
+  "fullTransliteration": "wal-baladu al-tayibu yakhruju nabatuhu bi-idh'ni rabbihi wa-alladhi khabutha la yakhruju illa nakidan kadhalika nusarrifu al-ayati liqawmin yashkuruna"
+}

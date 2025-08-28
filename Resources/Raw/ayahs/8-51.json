@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ayah": 51,
+    "surah": 8,
+    "words": 9,
+    "numberInQuran": 1211,
+    "juz": 10,
+    "manzil": 2,
+    "page": 183,
+    "ruku": 152,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23354,
+      "word_number_in_surah": 807,
+      "word_surah": 8,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23355,
+      "word_number_in_surah": 808,
+      "word_surah": 8,
+      "word_translation": "(is) for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "قَدَّمَتۡ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23356,
+      "word_number_in_surah": 809,
+      "word_surah": 8,
+      "word_translation": "sent forth",
+      "word_transliteration": "qaddamat"
+    },
+    {
+      "word_arabic": "أَيۡدِيكُمۡ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23357,
+      "word_number_in_surah": 810,
+      "word_surah": 8,
+      "word_translation": "your hands",
+      "word_transliteration": "aydikum"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23358,
+      "word_number_in_surah": 811,
+      "word_surah": 8,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23359,
+      "word_number_in_surah": 812,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23360,
+      "word_number_in_surah": 813,
+      "word_surah": 8,
+      "word_translation": "(is) not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "بِظَلَّٰمٖ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23361,
+      "word_number_in_surah": 814,
+      "word_surah": 8,
+      "word_translation": "unjust",
+      "word_transliteration": "bizallamin"
+    },
+    {
+      "word_arabic": "لِّلۡعَبِيدِ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23362,
+      "word_number_in_surah": 815,
+      "word_surah": 8,
+      "word_translation": "to His slaves",
+      "word_transliteration": "lil'abidi"
+    }
+  ],
+  "fullArabic": "ذَٰلِكَ بِمَا قَدَّمَتۡ أَيۡدِيكُمۡ وَأَنَّ ٱللَّهَ لَيۡسَ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
+  "fullTranslation": "That is for what your hands have put forth [of evil] and because Allah is not ever unjust to His servants.\"",
+  "fullTransliteration": "dhalika bima qaddamat aydikum wa-anna al-laha laysa bizallamin lil'abidi"
+}

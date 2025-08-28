@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "ayah": 44,
+    "surah": 8,
+    "words": 19,
+    "numberInQuran": 1204,
+    "juz": 10,
+    "manzil": 2,
+    "page": 182,
+    "ruku": 150,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23226,
+      "word_number_in_surah": 679,
+      "word_surah": 8,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "يُرِيكُمُوهُمۡ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23227,
+      "word_number_in_surah": 680,
+      "word_surah": 8,
+      "word_translation": "He showed them to you",
+      "word_transliteration": "yurikumuhum"
+    },
+    {
+      "word_arabic": "إِذِ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23228,
+      "word_number_in_surah": 681,
+      "word_surah": 8,
+      "word_translation": "when",
+      "word_transliteration": "idhi"
+    },
+    {
+      "word_arabic": "ٱلۡتَقَيۡتُمۡ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23229,
+      "word_number_in_surah": 682,
+      "word_surah": 8,
+      "word_translation": "you met",
+      "word_transliteration": "al-taqaytum"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23230,
+      "word_number_in_surah": 683,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَعۡيُنِكُمۡ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23231,
+      "word_number_in_surah": 684,
+      "word_surah": 8,
+      "word_translation": "your eyes",
+      "word_transliteration": "a'yunikum"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23232,
+      "word_number_in_surah": 685,
+      "word_surah": 8,
+      "word_translation": "(as) few",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "وَيُقَلِّلُكُمۡ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23233,
+      "word_number_in_surah": 686,
+      "word_surah": 8,
+      "word_translation": "and He made you (appear) as few",
+      "word_transliteration": "wayuqallilukum"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23234,
+      "word_number_in_surah": 687,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَعۡيُنِهِمۡ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23235,
+      "word_number_in_surah": 688,
+      "word_surah": 8,
+      "word_translation": "their eyes",
+      "word_transliteration": "a'yunihim"
+    },
+    {
+      "word_arabic": "لِيَقۡضِيَ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23236,
+      "word_number_in_surah": 689,
+      "word_surah": 8,
+      "word_translation": "that might accomplish",
+      "word_transliteration": "liyaqdiya"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23237,
+      "word_number_in_surah": 690,
+      "word_surah": 8,
+      "word_translation": "Allah might accomplish",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَمۡرٗا",
+      "word_ayah": 44,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23238,
+      "word_number_in_surah": 691,
+      "word_surah": 8,
+      "word_translation": "a matter",
+      "word_transliteration": "amran"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23239,
+      "word_number_in_surah": 692,
+      "word_surah": 8,
+      "word_translation": "(that) was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مَفۡعُولٗاۗ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23240,
+      "word_number_in_surah": 693,
+      "word_surah": 8,
+      "word_translation": "(already) destined",
+      "word_transliteration": "maf'ulan"
+    },
+    {
+      "word_arabic": "وَإِلَى",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23241,
+      "word_number_in_surah": 694,
+      "word_surah": 8,
+      "word_translation": "And to",
+      "word_transliteration": "wa-ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23242,
+      "word_number_in_surah": 695,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "تُرۡجَعُ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23243,
+      "word_number_in_surah": 696,
+      "word_surah": 8,
+      "word_translation": "return",
+      "word_transliteration": "tur'ja'u"
+    },
+    {
+      "word_arabic": "ٱلۡأُمُورُ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23244,
+      "word_number_in_surah": 697,
+      "word_surah": 8,
+      "word_translation": "(all) the matters",
+      "word_transliteration": "al-umuru"
+    }
+  ],
+  "fullArabic": "وَإِذۡ يُرِيكُمُوهُمۡ إِذِ ٱلۡتَقَيۡتُمۡ فِيٓ أَعۡيُنِكُمۡ قَلِيلٗا وَيُقَلِّلُكُمۡ فِيٓ أَعۡيُنِهِمۡ لِيَقۡضِيَ ٱللَّهُ أَمۡرٗا كَانَ مَفۡعُولٗاۗ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+  "fullTranslation": "And [remember] when He showed them to you, when you met, as few in your eyes, and He made you [appear] as few in their eyes so that Allah might accomplish a matter already destined. And to Allah are [all] matters returned.",
+  "fullTransliteration": "wa-idh yurikumuhum idhi al-taqaytum fi a'yunikum qalilan wayuqallilukum fi a'yunihim liyaqdiya al-lahu amran kana maf'ulan wa-ila al-lahi tur'ja'u al-umuru"
+}

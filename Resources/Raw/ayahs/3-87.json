@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 87,
+    "surah": 3,
+    "words": 9,
+    "numberInQuran": 380,
+    "juz": 3,
+    "manzil": 1,
+    "page": 61,
+    "ruku": 50,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7641,
+      "word_number_in_surah": 1496,
+      "word_surah": 3,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "جَزَآؤُهُمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7642,
+      "word_number_in_surah": 1497,
+      "word_surah": 3,
+      "word_translation": "their recompense",
+      "word_transliteration": "jazauhum"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7643,
+      "word_number_in_surah": 1498,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7644,
+      "word_number_in_surah": 1499,
+      "word_surah": 3,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "لَعۡنَةَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7645,
+      "word_number_in_surah": 1500,
+      "word_surah": 3,
+      "word_translation": "(is the) curse",
+      "word_transliteration": "la'nata"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7646,
+      "word_number_in_surah": 1501,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7647,
+      "word_number_in_surah": 1502,
+      "word_surah": 3,
+      "word_translation": "and the Angels",
+      "word_transliteration": "wal-malaikati"
+    },
+    {
+      "word_arabic": "وَٱلنَّاسِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7648,
+      "word_number_in_surah": 1503,
+      "word_surah": 3,
+      "word_translation": "and the people",
+      "word_transliteration": "wal-nasi"
+    },
+    {
+      "word_arabic": "أَجۡمَعِينَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7649,
+      "word_number_in_surah": 1504,
+      "word_surah": 3,
+      "word_translation": "all together",
+      "word_transliteration": "ajma'ina"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ جَزَآؤُهُمۡ أَنَّ عَلَيۡهِمۡ لَعۡنَةَ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجۡمَعِينَ",
+  "fullTranslation": "Those - their recompense will be that upon them is the curse of Allah and the angels and the people, all together,",
+  "fullTransliteration": "ulaika jazauhum anna alayhim la'nata al-lahi wal-malaikati wal-nasi ajma'ina"
+}

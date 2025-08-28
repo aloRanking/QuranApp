@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "ayah": 222,
+    "surah": 2,
+    "words": 27,
+    "numberInQuran": 229,
+    "juz": 2,
+    "manzil": 1,
+    "page": 35,
+    "ruku": 29,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَيَسۡ‍َٔلُونَكَ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4266,
+      "word_number_in_surah": 4237,
+      "word_surah": 2,
+      "word_translation": "And they ask you",
+      "word_transliteration": "wayasalunaka"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4267,
+      "word_number_in_surah": 4238,
+      "word_surah": 2,
+      "word_translation": "about",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡمَحِيضِۖ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4268,
+      "word_number_in_surah": 4239,
+      "word_surah": 2,
+      "word_translation": "[the] menstruation",
+      "word_transliteration": "al-mahidi"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 222,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4269,
+      "word_number_in_surah": 4240,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 222,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4270,
+      "word_number_in_surah": 4241,
+      "word_surah": 2,
+      "word_translation": "It",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "أَذٗى",
+      "word_ayah": 222,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4271,
+      "word_number_in_surah": 4242,
+      "word_surah": 2,
+      "word_translation": "(is) a hurt",
+      "word_transliteration": "adhan"
+    },
+    {
+      "word_arabic": "فَٱعۡتَزِلُواْ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4272,
+      "word_number_in_surah": 4243,
+      "word_surah": 2,
+      "word_translation": "so keep away (from)",
+      "word_transliteration": "fa-i'tazilu"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءَ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4273,
+      "word_number_in_surah": 4244,
+      "word_surah": 2,
+      "word_translation": "[the] women",
+      "word_transliteration": "al-nisaa"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4274,
+      "word_number_in_surah": 4245,
+      "word_surah": 2,
+      "word_translation": "during",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡمَحِيضِ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4275,
+      "word_number_in_surah": 4246,
+      "word_surah": 2,
+      "word_translation": "(their) [the] menstruation",
+      "word_transliteration": "al-mahidi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4276,
+      "word_number_in_surah": 4247,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَقۡرَبُوهُنَّ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4277,
+      "word_number_in_surah": 4248,
+      "word_surah": 2,
+      "word_translation": "approach them",
+      "word_transliteration": "taqrabuhunna"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4278,
+      "word_number_in_surah": 4249,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَطۡهُرۡنَۖ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4279,
+      "word_number_in_surah": 4250,
+      "word_surah": 2,
+      "word_translation": "they are cleansed",
+      "word_transliteration": "yathur'na"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4280,
+      "word_number_in_surah": 4251,
+      "word_surah": 2,
+      "word_translation": "Then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "تَطَهَّرۡنَ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4281,
+      "word_number_in_surah": 4252,
+      "word_surah": 2,
+      "word_translation": "they are purified",
+      "word_transliteration": "tatahharna"
+    },
+    {
+      "word_arabic": "فَأۡتُوهُنَّ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4282,
+      "word_number_in_surah": 4253,
+      "word_surah": 2,
+      "word_translation": "then come to them",
+      "word_transliteration": "fatuhunna"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 222,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4283,
+      "word_number_in_surah": 4254,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4284,
+      "word_number_in_surah": 4255,
+      "word_surah": 2,
+      "word_translation": "where",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "أَمَرَكُمُ",
+      "word_ayah": 222,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4285,
+      "word_number_in_surah": 4256,
+      "word_surah": 2,
+      "word_translation": "has ordered you",
+      "word_transliteration": "amarakumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُۚ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4286,
+      "word_number_in_surah": 4257,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 222,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4287,
+      "word_number_in_surah": 4258,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4288,
+      "word_number_in_surah": 4259,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4289,
+      "word_number_in_surah": 4260,
+      "word_surah": 2,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلتَّوَّٰبِينَ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4290,
+      "word_number_in_surah": 4261,
+      "word_surah": 2,
+      "word_translation": "those who turn in repentance",
+      "word_transliteration": "al-tawabina"
+    },
+    {
+      "word_arabic": "وَيُحِبُّ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4291,
+      "word_number_in_surah": 4262,
+      "word_surah": 2,
+      "word_translation": "and loves",
+      "word_transliteration": "wayuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُتَطَهِّرِينَ",
+      "word_ayah": 222,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4292,
+      "word_number_in_surah": 4263,
+      "word_surah": 2,
+      "word_translation": "those who purify themselves",
+      "word_transliteration": "al-mutatahirina"
+    }
+  ],
+  "fullArabic": "وَيَسۡ‍َٔلُونَكَ عَنِ ٱلۡمَحِيضِۖ قُلۡ هُوَ أَذٗى فَٱعۡتَزِلُواْ ٱلنِّسَآءَ فِي ٱلۡمَحِيضِ وَلَا تَقۡرَبُوهُنَّ حَتَّىٰ يَطۡهُرۡنَۖ فَإِذَا تَطَهَّرۡنَ فَأۡتُوهُنَّ مِنۡ حَيۡثُ أَمَرَكُمُ ٱللَّهُۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلۡمُتَطَهِّرِينَ",
+  "fullTranslation": "And they ask you about menstruation. Say, \"It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allah has ordained for you. Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.\"",
+  "fullTransliteration": "wayasalunaka ani al-mahidi qul huwa adhan fa-i'tazilu al-nisaa fi al-mahidi wala taqrabuhunna hatta yathur'na fa-idha tatahharna fatuhunna min haythu amarakumu al-lahu inna al-laha yuhibbu al-tawabina wayuhibbu al-mutatahirina"
+}

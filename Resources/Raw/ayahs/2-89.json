@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "ayah": 89,
+    "surah": 2,
+    "words": 26,
+    "numberInQuran": 96,
+    "juz": 1,
+    "manzil": 1,
+    "page": 14,
+    "ruku": 12,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَمَّا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1473,
+      "word_number_in_surah": 1444,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "walamma"
+    },
+    {
+      "word_arabic": "جَآءَهُمۡ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1474,
+      "word_number_in_surah": 1445,
+      "word_surah": 2,
+      "word_translation": "came to them",
+      "word_transliteration": "jaahum"
+    },
+    {
+      "word_arabic": "كِتَٰبٞ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1475,
+      "word_number_in_surah": 1446,
+      "word_surah": 2,
+      "word_translation": "a Book",
+      "word_transliteration": "kitabun"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1476,
+      "word_number_in_surah": 1447,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1477,
+      "word_number_in_surah": 1448,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1478,
+      "word_number_in_surah": 1449,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مُصَدِّقٞ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1479,
+      "word_number_in_surah": 1450,
+      "word_surah": 2,
+      "word_translation": "confirming",
+      "word_transliteration": "musaddiqun"
+    },
+    {
+      "word_arabic": "لِّمَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1480,
+      "word_number_in_surah": 1451,
+      "word_surah": 2,
+      "word_translation": "what (was)",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "مَعَهُمۡ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1481,
+      "word_number_in_surah": 1452,
+      "word_surah": 2,
+      "word_translation": "with them",
+      "word_transliteration": "ma'ahum"
+    },
+    {
+      "word_arabic": "وَكَانُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1482,
+      "word_number_in_surah": 1453,
+      "word_surah": 2,
+      "word_translation": "though they used to",
+      "word_transliteration": "wakanu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 89,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1483,
+      "word_number_in_surah": 1454,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1484,
+      "word_number_in_surah": 1455,
+      "word_surah": 2,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "يَسۡتَفۡتِحُونَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1485,
+      "word_number_in_surah": 1456,
+      "word_surah": 2,
+      "word_translation": "(that), pray for victory",
+      "word_transliteration": "yastaftihuna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1486,
+      "word_number_in_surah": 1457,
+      "word_surah": 2,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1487,
+      "word_number_in_surah": 1458,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1488,
+      "word_number_in_surah": 1459,
+      "word_surah": 2,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1489,
+      "word_number_in_surah": 1460,
+      "word_surah": 2,
+      "word_translation": "then when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "جَآءَهُم",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1490,
+      "word_number_in_surah": 1461,
+      "word_surah": 2,
+      "word_translation": "came to them",
+      "word_transliteration": "jaahum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1491,
+      "word_number_in_surah": 1462,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "عَرَفُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1492,
+      "word_number_in_surah": 1463,
+      "word_surah": 2,
+      "word_translation": "they recognized",
+      "word_transliteration": "arafu"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1493,
+      "word_number_in_surah": 1464,
+      "word_surah": 2,
+      "word_translation": "they disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "بِهِۦۚ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1494,
+      "word_number_in_surah": 1465,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فَلَعۡنَةُ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1495,
+      "word_number_in_surah": 1466,
+      "word_surah": 2,
+      "word_translation": "So (the) curse",
+      "word_transliteration": "fala'natu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1496,
+      "word_number_in_surah": 1467,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1497,
+      "word_number_in_surah": 1468,
+      "word_surah": 2,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 1498,
+      "word_number_in_surah": 1469,
+      "word_surah": 2,
+      "word_translation": "the disbelievers",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "وَلَمَّا جَآءَهُمۡ كِتَٰبٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ وَكَانُواْ مِن قَبۡلُ يَسۡتَفۡتِحُونَ عَلَى ٱلَّذِينَ كَفَرُواْ فَلَمَّا جَآءَهُم مَّا عَرَفُواْ كَفَرُواْ بِهِۦۚ فَلَعۡنَةُ ٱللَّهِ عَلَى ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "And when there came to them a Book from Allah confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allah will be upon the disbelievers.",
+  "fullTransliteration": "walamma jaahum kitabun min indi al-lahi musaddiqun lima ma'ahum wakanu min qablu yastaftihuna ala alladhina kafaru falamma jaahum ma arafu kafaru bihi fala'natu al-lahi ala al-kafirina"
+}

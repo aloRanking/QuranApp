@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "ayah": 165,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 658,
+    "juz": 6,
+    "manzil": 1,
+    "page": 104,
+    "ruku": 84,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رُّسُلٗا",
+      "word_ayah": 165,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13116,
+      "word_number_in_surah": 3490,
+      "word_surah": 4,
+      "word_translation": "Messengers",
+      "word_transliteration": "rusulan"
+    },
+    {
+      "word_arabic": "مُّبَشِّرِينَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13117,
+      "word_number_in_surah": 3491,
+      "word_surah": 4,
+      "word_translation": "bearers of glad tidings",
+      "word_transliteration": "mubashirina"
+    },
+    {
+      "word_arabic": "وَمُنذِرِينَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13118,
+      "word_number_in_surah": 3492,
+      "word_surah": 4,
+      "word_translation": "and warners",
+      "word_transliteration": "wamundhirina"
+    },
+    {
+      "word_arabic": "لِئَلَّا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13119,
+      "word_number_in_surah": 3493,
+      "word_surah": 4,
+      "word_translation": "so that not",
+      "word_transliteration": "li-alla"
+    },
+    {
+      "word_arabic": "يَكُونَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13120,
+      "word_number_in_surah": 3494,
+      "word_surah": 4,
+      "word_translation": "there is",
+      "word_transliteration": "yakuna"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13121,
+      "word_number_in_surah": 3495,
+      "word_surah": 4,
+      "word_translation": "for the mankind",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13122,
+      "word_number_in_surah": 3496,
+      "word_surah": 4,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13123,
+      "word_number_in_surah": 3497,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "حُجَّةُۢ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13124,
+      "word_number_in_surah": 3498,
+      "word_surah": 4,
+      "word_translation": "any argument",
+      "word_transliteration": "hujjatun"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13125,
+      "word_number_in_surah": 3499,
+      "word_surah": 4,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "ٱلرُّسُلِۚ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13126,
+      "word_number_in_surah": 3500,
+      "word_surah": 4,
+      "word_translation": "the Messengers",
+      "word_transliteration": "al-rusuli"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13127,
+      "word_number_in_surah": 3501,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13128,
+      "word_number_in_surah": 3502,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَزِيزًا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13129,
+      "word_number_in_surah": 3503,
+      "word_surah": 4,
+      "word_translation": "All-Mighty",
+      "word_transliteration": "azizan"
+    },
+    {
+      "word_arabic": "حَكِيمٗا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13130,
+      "word_number_in_surah": 3504,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "رُّسُلٗا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةُۢ بَعۡدَ ٱلرُّسُلِۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا",
+  "fullTranslation": "[We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allah after the messengers. And ever is Allah Exalted in Might and Wise.",
+  "fullTransliteration": "rusulan mubashirina wamundhirina li-alla yakuna lilnnasi ala al-lahi hujjatun ba'da al-rusuli wakana al-lahu azizan hakiman"
+}

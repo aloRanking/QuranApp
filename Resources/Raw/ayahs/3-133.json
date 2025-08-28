@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 133,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 426,
+    "juz": 4,
+    "manzil": 1,
+    "page": 67,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَسَارِعُوٓاْ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8352,
+      "word_number_in_surah": 2207,
+      "word_surah": 3,
+      "word_translation": "And hasten",
+      "word_transliteration": "wasari'u"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8353,
+      "word_number_in_surah": 2208,
+      "word_surah": 3,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "مَغۡفِرَةٖ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8354,
+      "word_number_in_surah": 2209,
+      "word_surah": 3,
+      "word_translation": "forgiveness",
+      "word_transliteration": "maghfiratin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 133,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8355,
+      "word_number_in_surah": 2210,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8356,
+      "word_number_in_surah": 2211,
+      "word_surah": 3,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "وَجَنَّةٍ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8357,
+      "word_number_in_surah": 2212,
+      "word_surah": 3,
+      "word_translation": "and a Garden",
+      "word_transliteration": "wajannatin"
+    },
+    {
+      "word_arabic": "عَرۡضُهَا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8358,
+      "word_number_in_surah": 2213,
+      "word_surah": 3,
+      "word_translation": "its width",
+      "word_transliteration": "arduha"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8359,
+      "word_number_in_surah": 2214,
+      "word_surah": 3,
+      "word_translation": "(is like that of) the heavens",
+      "word_transliteration": "al-samawatu"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8360,
+      "word_number_in_surah": 2215,
+      "word_surah": 3,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardu"
+    },
+    {
+      "word_arabic": "أُعِدَّتۡ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8361,
+      "word_number_in_surah": 2216,
+      "word_surah": 3,
+      "word_translation": "prepared",
+      "word_transliteration": "u'iddat"
+    },
+    {
+      "word_arabic": "لِلۡمُتَّقِينَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8362,
+      "word_number_in_surah": 2217,
+      "word_surah": 3,
+      "word_translation": "for the pious",
+      "word_transliteration": "lil'muttaqina"
+    }
+  ],
+  "fullArabic": "۞وَسَارِعُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِينَ",
+  "fullTranslation": "And hasten to forgiveness from your Lord and a garden as wide as the heavens and earth, prepared for the righteous",
+  "fullTransliteration": "wasari'u ila maghfiratin min rabbikum wajannatin arduha al-samawatu wal-ardu u'iddat lil'muttaqina"
+}

@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ayah": 200,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 1154,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِمَّا",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22461,
+      "word_number_in_surah": 3234,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "wa-imma"
+    },
+    {
+      "word_arabic": "يَنزَغَنَّكَ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22462,
+      "word_number_in_surah": 3235,
+      "word_surah": 7,
+      "word_translation": "an evil suggestion comes to you",
+      "word_transliteration": "yanzaghannaka"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22463,
+      "word_number_in_surah": 3236,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنِ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22464,
+      "word_number_in_surah": 3237,
+      "word_surah": 7,
+      "word_translation": "[the] Shaitaan",
+      "word_transliteration": "al-shaytani"
+    },
+    {
+      "word_arabic": "نَزۡغٞ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22465,
+      "word_number_in_surah": 3238,
+      "word_surah": 7,
+      "word_translation": "[an evil suggestion]",
+      "word_transliteration": "nazghun"
+    },
+    {
+      "word_arabic": "فَٱسۡتَعِذۡ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22466,
+      "word_number_in_surah": 3239,
+      "word_surah": 7,
+      "word_translation": "then seek refuge",
+      "word_transliteration": "fa-is'ta'idh"
+    },
+    {
+      "word_arabic": "بِٱللَّهِۚ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22467,
+      "word_number_in_surah": 3240,
+      "word_surah": 7,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22468,
+      "word_number_in_surah": 3241,
+      "word_surah": 7,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22469,
+      "word_number_in_surah": 3242,
+      "word_surah": 7,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22470,
+      "word_number_in_surah": 3243,
+      "word_surah": 7,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيۡطَٰنِ نَزۡغٞ فَٱسۡتَعِذۡ بِٱللَّهِۚ إِنَّهُۥ سَمِيعٌ عَلِيمٌ",
+  "fullTranslation": "And if an evil suggestion comes to you from Satan, then seek refuge in Allah. Indeed, He is Hearing and Knowing.",
+  "fullTransliteration": "wa-imma yanzaghannaka mina al-shaytani nazghun fa-is'ta'idh bil-lahi innahu sami'un alimun"
+}

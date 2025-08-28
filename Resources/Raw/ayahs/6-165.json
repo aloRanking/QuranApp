@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "ayah": 165,
+    "surah": 6,
+    "words": 21,
+    "numberInQuran": 954,
+    "juz": 8,
+    "manzil": 2,
+    "page": 150,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19207,
+      "word_number_in_surah": 3030,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19208,
+      "word_number_in_surah": 3031,
+      "word_surah": 6,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "جَعَلَكُمۡ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19209,
+      "word_number_in_surah": 3032,
+      "word_surah": 6,
+      "word_translation": "(has) made you",
+      "word_transliteration": "ja'alakum"
+    },
+    {
+      "word_arabic": "خَلَٰٓئِفَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19210,
+      "word_number_in_surah": 3033,
+      "word_surah": 6,
+      "word_translation": "successors",
+      "word_transliteration": "khalaifa"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19211,
+      "word_number_in_surah": 3034,
+      "word_surah": 6,
+      "word_translation": "(of) the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَرَفَعَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19212,
+      "word_number_in_surah": 3035,
+      "word_surah": 6,
+      "word_translation": "and raised",
+      "word_transliteration": "warafa'a"
+    },
+    {
+      "word_arabic": "بَعۡضَكُمۡ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19213,
+      "word_number_in_surah": 3036,
+      "word_surah": 6,
+      "word_translation": "some of you",
+      "word_transliteration": "ba'dakum"
+    },
+    {
+      "word_arabic": "فَوۡقَ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19214,
+      "word_number_in_surah": 3037,
+      "word_surah": 6,
+      "word_translation": "above",
+      "word_transliteration": "fawqa"
+    },
+    {
+      "word_arabic": "بَعۡضٖ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19215,
+      "word_number_in_surah": 3038,
+      "word_surah": 6,
+      "word_translation": "others",
+      "word_transliteration": "ba'din"
+    },
+    {
+      "word_arabic": "دَرَجَٰتٖ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19216,
+      "word_number_in_surah": 3039,
+      "word_surah": 6,
+      "word_translation": "(in) ranks",
+      "word_transliteration": "darajatin"
+    },
+    {
+      "word_arabic": "لِّيَبۡلُوَكُمۡ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19217,
+      "word_number_in_surah": 3040,
+      "word_surah": 6,
+      "word_translation": "so that He may test you",
+      "word_transliteration": "liyabluwakum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19218,
+      "word_number_in_surah": 3041,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19219,
+      "word_number_in_surah": 3042,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ءَاتَىٰكُمۡۗ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19220,
+      "word_number_in_surah": 3043,
+      "word_surah": 6,
+      "word_translation": "He has given you",
+      "word_transliteration": "atakum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19221,
+      "word_number_in_surah": 3044,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19222,
+      "word_number_in_surah": 3045,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "سَرِيعُ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19223,
+      "word_number_in_surah": 3046,
+      "word_surah": 6,
+      "word_translation": "(is) swift",
+      "word_transliteration": "sari'u"
+    },
+    {
+      "word_arabic": "ٱلۡعِقَابِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19224,
+      "word_number_in_surah": 3047,
+      "word_surah": 6,
+      "word_translation": "(in) the punishment",
+      "word_transliteration": "al-'iqabi"
+    },
+    {
+      "word_arabic": "وَإِنَّهُۥ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19225,
+      "word_number_in_surah": 3048,
+      "word_surah": 6,
+      "word_translation": "and indeed He (is)",
+      "word_transliteration": "wa-innahu"
+    },
+    {
+      "word_arabic": "لَغَفُورٞ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19226,
+      "word_number_in_surah": 3049,
+      "word_surah": 6,
+      "word_translation": "[certainly] Oft-Forgiving",
+      "word_transliteration": "laghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمُۢ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19227,
+      "word_number_in_surah": 3050,
+      "word_surah": 6,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱلَّذِي جَعَلَكُمۡ خَلَٰٓئِفَ ٱلۡأَرۡضِ وَرَفَعَ بَعۡضَكُمۡ فَوۡقَ بَعۡضٖ دَرَجَٰتٖ لِّيَبۡلُوَكُمۡ فِي مَآ ءَاتَىٰكُمۡۗ إِنَّ رَبَّكَ سَرِيعُ ٱلۡعِقَابِ وَإِنَّهُۥ لَغَفُورٞ رَّحِيمُۢ",
+  "fullTranslation": "And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.",
+  "fullTransliteration": "wahuwa alladhi ja'alakum khalaifa al-ardi warafa'a ba'dakum fawqa ba'din darajatin liyabluwakum fi ma atakum inna rabbaka sari'u al-'iqabi wa-innahu laghafurun rahimun"
+}

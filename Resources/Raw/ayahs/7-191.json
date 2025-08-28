@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ayah": 191,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 1145,
+    "juz": 9,
+    "manzil": 2,
+    "page": 175,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَيُشۡرِكُونَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22357,
+      "word_number_in_surah": 3130,
+      "word_surah": 7,
+      "word_translation": "Do they associate",
+      "word_transliteration": "ayush'rikuna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22358,
+      "word_number_in_surah": 3131,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22359,
+      "word_number_in_surah": 3132,
+      "word_surah": 7,
+      "word_translation": "(can)not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَخۡلُقُ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22360,
+      "word_number_in_surah": 3133,
+      "word_surah": 7,
+      "word_translation": "create",
+      "word_transliteration": "yakhluqu"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗا",
+      "word_ayah": 191,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22361,
+      "word_number_in_surah": 3134,
+      "word_surah": 7,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22362,
+      "word_number_in_surah": 3135,
+      "word_surah": 7,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يُخۡلَقُونَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22363,
+      "word_number_in_surah": 3136,
+      "word_surah": 7,
+      "word_translation": "are created",
+      "word_transliteration": "yukh'laquna"
+    }
+  ],
+  "fullArabic": "أَيُشۡرِكُونَ مَا لَا يَخۡلُقُ شَيۡ‍ٔٗا وَهُمۡ يُخۡلَقُونَ",
+  "fullTranslation": "Do they associate with Him those who create nothing and they are [themselves] created?",
+  "fullTransliteration": "ayush'rikuna ma la yakhluqu shayan wahum yukh'laquna"
+}

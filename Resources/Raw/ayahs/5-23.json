@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "ayah": 23,
+    "surah": 5,
+    "words": 21,
+    "numberInQuran": 692,
+    "juz": 6,
+    "manzil": 2,
+    "page": 111,
+    "ruku": 89,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14026,
+      "word_number_in_surah": 653,
+      "word_surah": 5,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَجُلَانِ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14027,
+      "word_number_in_surah": 654,
+      "word_surah": 5,
+      "word_translation": "two men",
+      "word_transliteration": "rajulani"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14028,
+      "word_number_in_surah": 655,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14029,
+      "word_number_in_surah": 656,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَخَافُونَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14030,
+      "word_number_in_surah": 657,
+      "word_surah": 5,
+      "word_translation": "feared (Allah)",
+      "word_transliteration": "yakhafuna"
+    },
+    {
+      "word_arabic": "أَنۡعَمَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14031,
+      "word_number_in_surah": 658,
+      "word_surah": 5,
+      "word_translation": "(had) favored",
+      "word_transliteration": "an'ama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14032,
+      "word_number_in_surah": 659,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14033,
+      "word_number_in_surah": 660,
+      "word_surah": 5,
+      "word_translation": "[on] both of them",
+      "word_transliteration": "alayhima"
+    },
+    {
+      "word_arabic": "ٱدۡخُلُواْ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14034,
+      "word_number_in_surah": 661,
+      "word_surah": 5,
+      "word_translation": "Enter",
+      "word_transliteration": "ud'khulu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمُ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14035,
+      "word_number_in_surah": 662,
+      "word_surah": 5,
+      "word_translation": "upon them",
+      "word_transliteration": "alayhimu"
+    },
+    {
+      "word_arabic": "ٱلۡبَابَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14036,
+      "word_number_in_surah": 663,
+      "word_surah": 5,
+      "word_translation": "(through) the gate",
+      "word_transliteration": "al-baba"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14037,
+      "word_number_in_surah": 664,
+      "word_surah": 5,
+      "word_translation": "then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "دَخَلۡتُمُوهُ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14038,
+      "word_number_in_surah": 665,
+      "word_surah": 5,
+      "word_translation": "you have entered it",
+      "word_transliteration": "dakhaltumuhu"
+    },
+    {
+      "word_arabic": "فَإِنَّكُمۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14039,
+      "word_number_in_surah": 666,
+      "word_surah": 5,
+      "word_translation": "then indeed, you (will be)",
+      "word_transliteration": "fa-innakum"
+    },
+    {
+      "word_arabic": "غَٰلِبُونَۚ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14040,
+      "word_number_in_surah": 667,
+      "word_surah": 5,
+      "word_translation": "victorious",
+      "word_transliteration": "ghalibuna"
+    },
+    {
+      "word_arabic": "وَعَلَى",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14041,
+      "word_number_in_surah": 668,
+      "word_surah": 5,
+      "word_translation": "And upon",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 14042,
+      "word_number_in_surah": 669,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَتَوَكَّلُوٓاْ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 14043,
+      "word_number_in_surah": 670,
+      "word_surah": 5,
+      "word_translation": "then put your trust",
+      "word_transliteration": "fatawakkalu"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 14044,
+      "word_number_in_surah": 671,
+      "word_surah": 5,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُم",
+      "word_ayah": 23,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 14045,
+      "word_number_in_surah": 672,
+      "word_surah": 5,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنِينَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 14046,
+      "word_number_in_surah": 673,
+      "word_surah": 5,
+      "word_translation": "believers",
+      "word_transliteration": "mu'minina"
+    }
+  ],
+  "fullArabic": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِمَا ٱدۡخُلُواْ عَلَيۡهِمُ ٱلۡبَابَ فَإِذَا دَخَلۡتُمُوهُ فَإِنَّكُمۡ غَٰلِبُونَۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
+  "fullTranslation": "Said two men from those who feared [to disobey] upon whom Allah had bestowed favor, \"Enter upon them through the gate, for when you have entered it, you will be predominant. And upon Allah rely, if you should be believers.\"",
+  "fullTransliteration": "qala rajulani mina alladhina yakhafuna an'ama al-lahu alayhima ud'khulu alayhimu al-baba fa-idha dakhaltumuhu fa-innakum ghalibuna wa'ala al-lahi fatawakkalu in kuntum mu'minina"
+}

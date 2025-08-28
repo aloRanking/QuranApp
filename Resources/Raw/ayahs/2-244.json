@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 244,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 251,
+    "juz": 2,
+    "manzil": 1,
+    "page": 39,
+    "ruku": 33,
+    "hizbQuarter": 16,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَٰتِلُواْ",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4838,
+      "word_number_in_surah": 4809,
+      "word_surah": 2,
+      "word_translation": "And fight",
+      "word_transliteration": "waqatilu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4839,
+      "word_number_in_surah": 4810,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4840,
+      "word_number_in_surah": 4811,
+      "word_surah": 2,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4841,
+      "word_number_in_surah": 4812,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱعۡلَمُوٓاْ",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4842,
+      "word_number_in_surah": 4813,
+      "word_surah": 2,
+      "word_translation": "and know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 244,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4843,
+      "word_number_in_surah": 4814,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4844,
+      "word_number_in_surah": 4815,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4845,
+      "word_number_in_surah": 4816,
+      "word_surah": 2,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 244,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4846,
+      "word_number_in_surah": 4817,
+      "word_surah": 2,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "fullTranslation": "And fight in the cause of Allah and know that Allah is Hearing and Knowing.",
+  "fullTransliteration": "waqatilu fi sabili al-lahi wa-i'lamu anna al-laha sami'un alimun"
+}

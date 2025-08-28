@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 86,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 93,
+    "juz": 1,
+    "manzil": 1,
+    "page": 13,
+    "ruku": 11,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1422,
+      "word_number_in_surah": 1393,
+      "word_surah": 2,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1423,
+      "word_number_in_surah": 1394,
+      "word_surah": 2,
+      "word_translation": "(are) the ones who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱشۡتَرَوُاْ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1424,
+      "word_number_in_surah": 1395,
+      "word_surah": 2,
+      "word_translation": "bought",
+      "word_transliteration": "ish'tarawu"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1425,
+      "word_number_in_surah": 1396,
+      "word_surah": 2,
+      "word_translation": "the life",
+      "word_transliteration": "al-hayata"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1426,
+      "word_number_in_surah": 1397,
+      "word_surah": 2,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "بِٱلۡأٓخِرَةِۖ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1427,
+      "word_number_in_surah": 1398,
+      "word_surah": 2,
+      "word_translation": "for the Hereafter",
+      "word_transliteration": "bil-akhirati"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1428,
+      "word_number_in_surah": 1399,
+      "word_surah": 2,
+      "word_translation": "so not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "يُخَفَّفُ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1429,
+      "word_number_in_surah": 1400,
+      "word_surah": 2,
+      "word_translation": "will be lightened",
+      "word_transliteration": "yukhaffafu"
+    },
+    {
+      "word_arabic": "عَنۡهُمُ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1430,
+      "word_number_in_surah": 1401,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "anhumu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابُ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1431,
+      "word_number_in_surah": 1402,
+      "word_surah": 2,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhabu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1432,
+      "word_number_in_surah": 1403,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1433,
+      "word_number_in_surah": 1404,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يُنصَرُونَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1434,
+      "word_number_in_surah": 1405,
+      "word_surah": 2,
+      "word_translation": "will be helped",
+      "word_transliteration": "yunsaruna"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۖ فَلَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنصَرُونَ",
+  "fullTranslation": "Those are the ones who have bought the life of this world [in exchange] for the Hereafter, so the punishment will not be lightened for them, nor will they be aided.",
+  "fullTransliteration": "ulaika alladhina ish'tarawu al-hayata al-dun'ya bil-akhirati fala yukhaffafu anhumu al-'adhabu wala hum yunsaruna"
+}

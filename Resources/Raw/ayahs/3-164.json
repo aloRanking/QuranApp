@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "ayah": 164,
+    "surah": 3,
+    "words": 25,
+    "numberInQuran": 457,
+    "juz": 4,
+    "manzil": 1,
+    "page": 71,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَقَدۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8943,
+      "word_number_in_surah": 2798,
+      "word_surah": 3,
+      "word_translation": "Certainly",
+      "word_transliteration": "laqad"
+    },
+    {
+      "word_arabic": "مَنَّ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8944,
+      "word_number_in_surah": 2799,
+      "word_surah": 3,
+      "word_translation": "bestowed a Favor",
+      "word_transliteration": "manna"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8945,
+      "word_number_in_surah": 2800,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8946,
+      "word_number_in_surah": 2801,
+      "word_surah": 3,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8947,
+      "word_number_in_surah": 2802,
+      "word_surah": 3,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8948,
+      "word_number_in_surah": 2803,
+      "word_surah": 3,
+      "word_translation": "as",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "بَعَثَ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8949,
+      "word_number_in_surah": 2804,
+      "word_surah": 3,
+      "word_translation": "He raised",
+      "word_transliteration": "ba'atha"
+    },
+    {
+      "word_arabic": "فِيهِمۡ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8950,
+      "word_number_in_surah": 2805,
+      "word_surah": 3,
+      "word_translation": "among them",
+      "word_transliteration": "fihim"
+    },
+    {
+      "word_arabic": "رَسُولٗا",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8951,
+      "word_number_in_surah": 2806,
+      "word_surah": 3,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulan"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8952,
+      "word_number_in_surah": 2807,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8953,
+      "word_number_in_surah": 2808,
+      "word_surah": 3,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "يَتۡلُواْ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8954,
+      "word_number_in_surah": 2809,
+      "word_surah": 3,
+      "word_translation": "reciting",
+      "word_transliteration": "yatlu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8955,
+      "word_number_in_surah": 2810,
+      "word_surah": 3,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "ءَايَٰتِهِۦ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8956,
+      "word_number_in_surah": 2811,
+      "word_surah": 3,
+      "word_translation": "His Verses",
+      "word_transliteration": "ayatihi"
+    },
+    {
+      "word_arabic": "وَيُزَكِّيهِمۡ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8957,
+      "word_number_in_surah": 2812,
+      "word_surah": 3,
+      "word_translation": "and purifying them",
+      "word_transliteration": "wayuzakkihim"
+    },
+    {
+      "word_arabic": "وَيُعَلِّمُهُمُ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8958,
+      "word_number_in_surah": 2813,
+      "word_surah": 3,
+      "word_translation": "and teaching them",
+      "word_transliteration": "wayu'allimuhumu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8959,
+      "word_number_in_surah": 2814,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡحِكۡمَةَ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8960,
+      "word_number_in_surah": 2815,
+      "word_surah": 3,
+      "word_translation": "and the wisdom",
+      "word_transliteration": "wal-hik'mata"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 164,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8961,
+      "word_number_in_surah": 2816,
+      "word_surah": 3,
+      "word_translation": "although",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8962,
+      "word_number_in_surah": 2817,
+      "word_surah": 3,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 164,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8963,
+      "word_number_in_surah": 2818,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8964,
+      "word_number_in_surah": 2819,
+      "word_surah": 3,
+      "word_translation": "before (that)",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "لَفِي",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8965,
+      "word_number_in_surah": 2820,
+      "word_surah": 3,
+      "word_translation": "certainly in",
+      "word_transliteration": "lafi"
+    },
+    {
+      "word_arabic": "ضَلَٰلٖ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 8966,
+      "word_number_in_surah": 2821,
+      "word_surah": 3,
+      "word_translation": "(the) error",
+      "word_transliteration": "dalalin"
+    },
+    {
+      "word_arabic": "مُّبِينٍ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 8967,
+      "word_number_in_surah": 2822,
+      "word_surah": 3,
+      "word_translation": "clear",
+      "word_transliteration": "mubinin"
+    }
+  ],
+  "fullArabic": "لَقَدۡ مَنَّ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِينَ إِذۡ بَعَثَ فِيهِمۡ رَسُولٗا مِّنۡ أَنفُسِهِمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٍ",
+  "fullTranslation": "Certainly did Allah confer [great] favor upon the believers when He sent among them a Messenger from themselves, reciting to them His verses and purifying them and teaching them the Book and wisdom, although they had been before in manifest error.",
+  "fullTransliteration": "laqad manna al-lahu ala al-mu'minina idh ba'atha fihim rasulan min anfusihim yatlu alayhim ayatihi wayuzakkihim wayu'allimuhumu al-kitaba wal-hik'mata wa-in kanu min qablu lafi dalalin mubinin"
+}

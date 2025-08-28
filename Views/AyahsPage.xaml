@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <rxui:ReactiveContentPage
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -6,59 +7,117 @@
     xmlns:rxui="clr-namespace:ReactiveUI.Maui;assembly=ReactiveUI.Maui"
     xmlns:converters="clr-namespace:QuranApp.Converters"
     x:TypeArguments="viewmodel:AyahsViewModel"
-    Title="{Binding UrlPathSegment}">
+    
+    >
 
+    <rxui:ReactiveContentPage.Title>
+        <MultiBinding StringFormat="{}{0}, {1} verses">
+            <Binding Path="Surah.English" />
+            <Binding Path="Surah.AyahCount" />
+        
+        </MultiBinding>
+    </rxui:ReactiveContentPage.Title>
 
     <rxui:ReactiveContentPage.Resources>
         <converters:InverseBoolConverter x:Key="InverseBoolConverter"/>
     </rxui:ReactiveContentPage.Resources>
-
+    
     <Grid>
-        <!-- The ActivityIndicator will now show and hide based on IsLoading -->
-        <ActivityIndicator IsRunning="{Binding IsLoading}"
-                           IsVisible="{Binding IsLoading}"
-                           HorizontalOptions="Center"
-                           VerticalOptions="Center"
-                           Color="{AppThemeBinding Light=Blue, Dark=LightBlue}"/>
+        <Grid.RowDefinitions>
+           
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+       
+      
+        <Grid Grid.Row="1">
+           
+            <ActivityIndicator IsRunning="{Binding IsLoading}"
+                               IsVisible="{Binding IsLoading}"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center"
+                               Color="{AppThemeBinding Light=Blue, Dark=LightBlue}"/>
 
 
-        <CollectionView ItemsSource="{Binding Ayahs}"
-                        SelectionMode="None"
-                        IsVisible="{Binding IsLoading, Converter={StaticResource InverseBoolConverter}}">
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
-                    <Grid Padding="10"
-                            BackgroundColor="{AppThemeBinding Light=White, Dark=#333333}">
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="Auto"/>
-                            <RowDefinition Height="Auto"/>
-                            <RowDefinition Height="Auto"/>
-                        </Grid.RowDefinitions>
+            
+            <CollectionView ItemsSource="{Binding Ayahs}"
+                            SelectionMode="Single"
+                            IsVisible="{Binding IsLoading, Converter={StaticResource InverseBoolConverter}}"
+                            SelectedItem="{Binding SelectedAyah}"
+                            VerticalScrollBarVisibility="Always">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10"
+                                BackgroundColor="{AppThemeBinding Light=White, Dark=#333333}">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
 
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal" />
+                                    <VisualState x:Name="Selected">
+                                        <VisualState.Setters>
+                                            <Setter Property="BackgroundColor" Value="{AppThemeBinding Light=#E0E0E0, Dark=#555555}" />
+                                        </VisualState.Setters>
+                                    </VisualState>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
 
+                            <!-- <Grid.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:AyahsViewModel}}, Path=AyahSelectedCommand}"
+                                    CommandParameter="{Binding .}"/>
+                            </Grid.GestureRecognizers> -->
 
-                        <Label Text="{Binding Meta.Ayah}"
-                               Grid.Row="0"
-                               FontSize="16"
-                                FontAttributes="Bold"
-                               TextColor="{AppThemeBinding Light=DarkSlateGray, Dark=LightGray}"/>
+                           
+                          <Border Grid.Row="0" 
+                                   StrokeShape="RoundRectangle 10"
+                                   BackgroundColor="{AppThemeBinding Light=LightBlue, Dark=SlateGray}"
+                                   HorizontalOptions="Start"
+                                   VerticalOptions="Center"
+                                   Padding="10,5,10,5">
+                                <Label LineBreakMode="NoWrap">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="{Binding Meta.Surah, StringFormat='{0}'}"
+                                                  FontSize="11" TextColor="{AppThemeBinding Light=DarkSlateGray,
+                                                                Dark=LightGray}"/>
+                                            <Span Text=" : " FontSize="11" TextColor="{AppThemeBinding Light=DarkSlateGray,
+                                                                Dark=LightGray}"/>
+                                            <Span Text="{Binding Meta.Ayah, StringFormat='{0}'}"
+                                                  FontSize="11" TextColor="{AppThemeBinding Light=DarkSlateGray,
+                                                                Dark=LightGray}"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                            </Border>
 
-                        <Label Text="{Binding FullArabic}"
-                               Grid.Row="1"
-                               FontSize="20"
-                                HorizontalTextAlignment="Start"
-                                FlowDirection="RightToLeft"
-                               TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+                            <Label Text="{Binding FullArabic}"
+                                   Grid.Row="1"
+                                   FontSize="20"
+                                   FontAttributes="Bold"
+                                   HorizontalTextAlignment="Start"
+                                   FlowDirection="RightToLeft"
+                                   TextColor="{AppThemeBinding Light=Black, Dark=White}"
+                                   Margin="0,10,0,50"/>
 
-                        <Label Text="{Binding FullTranslation}"
-                               Grid.Row="2"
-                               FontSize="14"
-                                FontAttributes="Italic"
-                               TextColor="{AppThemeBinding Light=DarkGray, Dark=Silver}"/>
-
+                            <Label Text="{Binding FullTranslation}"
+                                   Grid.Row="2"
+                                   FontSize="14"
+                                   FontAttributes="Italic"
+                                   TextColor="{AppThemeBinding Light=DarkSlateGray, Dark=Silver}"
+                                   Margin="0,0,0,10"/>
+                            
+                            
+                            <BoxView Grid.Row="3" HeightRequest="1" Color="{AppThemeBinding Light=LightGray, Dark=#555555}" />
                          </Grid>
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
     </Grid>
 </rxui:ReactiveContentPage>

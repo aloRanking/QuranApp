@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 117,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1071,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَأَوۡحَيۡنَآ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21017,
+      "word_number_in_surah": 1790,
+      "word_surah": 7,
+      "word_translation": "And We inspired",
+      "word_transliteration": "wa-awhayna"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21018,
+      "word_number_in_surah": 1791,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "مُوسَىٰٓ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21019,
+      "word_number_in_surah": 1792,
+      "word_surah": 7,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21020,
+      "word_number_in_surah": 1793,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "أَلۡقِ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21021,
+      "word_number_in_surah": 1794,
+      "word_surah": 7,
+      "word_translation": "Throw",
+      "word_transliteration": "alqi"
+    },
+    {
+      "word_arabic": "عَصَاكَۖ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21022,
+      "word_number_in_surah": 1795,
+      "word_surah": 7,
+      "word_translation": "your staff",
+      "word_transliteration": "asaka"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21023,
+      "word_number_in_surah": 1796,
+      "word_surah": 7,
+      "word_translation": "and suddenly",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "هِيَ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21024,
+      "word_number_in_surah": 1797,
+      "word_surah": 7,
+      "word_translation": "it",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "تَلۡقَفُ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21025,
+      "word_number_in_surah": 1798,
+      "word_surah": 7,
+      "word_translation": "swallow(ed)",
+      "word_transliteration": "talqafu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21026,
+      "word_number_in_surah": 1799,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَأۡفِكُونَ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21027,
+      "word_number_in_surah": 1800,
+      "word_surah": 7,
+      "word_translation": "they (were) falsifying",
+      "word_transliteration": "yafikuna"
+    }
+  ],
+  "fullArabic": "۞وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَلۡقِ عَصَاكَۖ فَإِذَا هِيَ تَلۡقَفُ مَا يَأۡفِكُونَ",
+  "fullTranslation": "And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying.",
+  "fullTransliteration": "wa-awhayna ila musa an alqi asaka fa-idha hiya talqafu ma yafikuna"
+}

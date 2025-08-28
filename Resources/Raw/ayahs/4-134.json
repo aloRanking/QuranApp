@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "ayah": 134,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 627,
+    "juz": 5,
+    "manzil": 1,
+    "page": 99,
+    "ruku": 80,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 134,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12528,
+      "word_number_in_surah": 2902,
+      "word_surah": 4,
+      "word_translation": "Whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12529,
+      "word_number_in_surah": 2903,
+      "word_surah": 4,
+      "word_translation": "[is]",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12530,
+      "word_number_in_surah": 2904,
+      "word_surah": 4,
+      "word_translation": "desires",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "ثَوَابَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12531,
+      "word_number_in_surah": 2905,
+      "word_surah": 4,
+      "word_translation": "reward",
+      "word_transliteration": "thawaba"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12532,
+      "word_number_in_surah": 2906,
+      "word_surah": 4,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "فَعِندَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12533,
+      "word_number_in_surah": 2907,
+      "word_surah": 4,
+      "word_translation": "then with",
+      "word_transliteration": "fa'inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12534,
+      "word_number_in_surah": 2908,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ثَوَابُ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12535,
+      "word_number_in_surah": 2909,
+      "word_surah": 4,
+      "word_translation": "(is the) reward",
+      "word_transliteration": "thawabu"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12536,
+      "word_number_in_surah": 2910,
+      "word_surah": 4,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَٱلۡأٓخِرَةِۚ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12537,
+      "word_number_in_surah": 2911,
+      "word_surah": 4,
+      "word_translation": "and the Hereafter",
+      "word_transliteration": "wal-akhirati"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12538,
+      "word_number_in_surah": 2912,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12539,
+      "word_number_in_surah": 2913,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "سَمِيعَۢا",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12540,
+      "word_number_in_surah": 2914,
+      "word_surah": 4,
+      "word_translation": "All-Hearing",
+      "word_transliteration": "sami'an"
+    },
+    {
+      "word_arabic": "بَصِيرٗا",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12541,
+      "word_number_in_surah": 2915,
+      "word_surah": 4,
+      "word_translation": "All-Seeing",
+      "word_transliteration": "basiran"
+    }
+  ],
+  "fullArabic": "مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنۡيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۚ وَكَانَ ٱللَّهُ سَمِيعَۢا بَصِيرٗا",
+  "fullTranslation": "Whoever desires the reward of this world - then with Allah is the reward of this world and the Hereafter. And ever is Allah Hearing and Seeing.",
+  "fullTransliteration": "man kana yuridu thawaba al-dun'ya fa'inda al-lahi thawabu al-dun'ya wal-akhirati wakana al-lahu sami'an basiran"
+}

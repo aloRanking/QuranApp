@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "ayah": 185,
+    "surah": 7,
+    "words": 22,
+    "numberInQuran": 1139,
+    "juz": 9,
+    "manzil": 2,
+    "page": 174,
+    "ruku": 144,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوَلَمۡ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22219,
+      "word_number_in_surah": 2992,
+      "word_surah": 7,
+      "word_translation": "Do not",
+      "word_transliteration": "awalam"
+    },
+    {
+      "word_arabic": "يَنظُرُواْ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22220,
+      "word_number_in_surah": 2993,
+      "word_surah": 7,
+      "word_translation": "they look",
+      "word_transliteration": "yanzuru"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22221,
+      "word_number_in_surah": 2994,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "مَلَكُوتِ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22222,
+      "word_number_in_surah": 2995,
+      "word_surah": 7,
+      "word_translation": "(the) dominion",
+      "word_transliteration": "malakuti"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22223,
+      "word_number_in_surah": 2996,
+      "word_surah": 7,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22224,
+      "word_number_in_surah": 2997,
+      "word_surah": 7,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22225,
+      "word_number_in_surah": 2998,
+      "word_surah": 7,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "خَلَقَ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22226,
+      "word_number_in_surah": 2999,
+      "word_surah": 7,
+      "word_translation": "has (been) created",
+      "word_transliteration": "khalaqa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22227,
+      "word_number_in_surah": 3000,
+      "word_surah": 7,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 185,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22228,
+      "word_number_in_surah": 3001,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22229,
+      "word_number_in_surah": 3002,
+      "word_surah": 7,
+      "word_translation": "(every)thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "وَأَنۡ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22230,
+      "word_number_in_surah": 3003,
+      "word_surah": 7,
+      "word_translation": "and that",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "عَسَىٰٓ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22231,
+      "word_number_in_surah": 3004,
+      "word_surah": 7,
+      "word_translation": "perhaps",
+      "word_transliteration": "asa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 185,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22232,
+      "word_number_in_surah": 3005,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَكُونَ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22233,
+      "word_number_in_surah": 3006,
+      "word_surah": 7,
+      "word_translation": "has",
+      "word_transliteration": "yakuna"
+    },
+    {
+      "word_arabic": "قَدِ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22234,
+      "word_number_in_surah": 3007,
+      "word_surah": 7,
+      "word_translation": "verily",
+      "word_transliteration": "qadi"
+    },
+    {
+      "word_arabic": "ٱقۡتَرَبَ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22235,
+      "word_number_in_surah": 3008,
+      "word_surah": 7,
+      "word_translation": "come near",
+      "word_transliteration": "iq'taraba"
+    },
+    {
+      "word_arabic": "أَجَلُهُمۡۖ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22236,
+      "word_number_in_surah": 3009,
+      "word_surah": 7,
+      "word_translation": "their term",
+      "word_transliteration": "ajaluhum"
+    },
+    {
+      "word_arabic": "فَبِأَيِّ",
+      "word_ayah": 185,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22237,
+      "word_number_in_surah": 3010,
+      "word_surah": 7,
+      "word_translation": "So in what",
+      "word_transliteration": "fabi-ayyi"
+    },
+    {
+      "word_arabic": "حَدِيثِۢ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22238,
+      "word_number_in_surah": 3011,
+      "word_surah": 7,
+      "word_translation": "statement",
+      "word_transliteration": "hadithin"
+    },
+    {
+      "word_arabic": "بَعۡدَهُۥ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22239,
+      "word_number_in_surah": 3012,
+      "word_surah": 7,
+      "word_translation": "after this",
+      "word_transliteration": "ba'dahu"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 185,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22240,
+      "word_number_in_surah": 3013,
+      "word_surah": 7,
+      "word_translation": "will they believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "أَوَلَمۡ يَنظُرُواْ فِي مَلَكُوتِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا خَلَقَ ٱللَّهُ مِن شَيۡءٖ وَأَنۡ عَسَىٰٓ أَن يَكُونَ قَدِ ٱقۡتَرَبَ أَجَلُهُمۡۖ فَبِأَيِّ حَدِيثِۢ بَعۡدَهُۥ يُؤۡمِنُونَ",
+  "fullTranslation": "Do they not look into the realm of the heavens and the earth and everything that Allah has created and [think] that perhaps their appointed time has come near? So in what statement hereafter will they believe?",
+  "fullTransliteration": "awalam yanzuru fi malakuti al-samawati wal-ardi wama khalaqa al-lahu min shayin wa-an asa an yakuna qadi iq'taraba ajaluhum fabi-ayyi hadithin ba'dahu yu'minuna"
+}

@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "ayah": 28,
+    "surah": 5,
+    "words": 16,
+    "numberInQuran": 697,
+    "juz": 6,
+    "manzil": 2,
+    "page": 112,
+    "ruku": 90,
+    "hizbQuarter": 45,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَئِنۢ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14114,
+      "word_number_in_surah": 741,
+      "word_surah": 5,
+      "word_translation": "If",
+      "word_transliteration": "la-in"
+    },
+    {
+      "word_arabic": "بَسَطتَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14115,
+      "word_number_in_surah": 742,
+      "word_surah": 5,
+      "word_translation": "you stretch",
+      "word_transliteration": "basatta"
+    },
+    {
+      "word_arabic": "إِلَيَّ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14116,
+      "word_number_in_surah": 743,
+      "word_surah": 5,
+      "word_translation": "towards me",
+      "word_transliteration": "ilayya"
+    },
+    {
+      "word_arabic": "يَدَكَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14117,
+      "word_number_in_surah": 744,
+      "word_surah": 5,
+      "word_translation": "your hand",
+      "word_transliteration": "yadaka"
+    },
+    {
+      "word_arabic": "لِتَقۡتُلَنِي",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14118,
+      "word_number_in_surah": 745,
+      "word_surah": 5,
+      "word_translation": "to kill me",
+      "word_transliteration": "litaqtulani"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14119,
+      "word_number_in_surah": 746,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَنَا۠",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14120,
+      "word_number_in_surah": 747,
+      "word_surah": 5,
+      "word_translation": "will I",
+      "word_transliteration": "ana"
+    },
+    {
+      "word_arabic": "بِبَاسِطٖ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14121,
+      "word_number_in_surah": 748,
+      "word_surah": 5,
+      "word_translation": "stretch",
+      "word_transliteration": "bibasitin"
+    },
+    {
+      "word_arabic": "يَدِيَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14122,
+      "word_number_in_surah": 749,
+      "word_surah": 5,
+      "word_translation": "my hand",
+      "word_transliteration": "yadiya"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14123,
+      "word_number_in_surah": 750,
+      "word_surah": 5,
+      "word_translation": "towards you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "لِأَقۡتُلَكَۖ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14124,
+      "word_number_in_surah": 751,
+      "word_surah": 5,
+      "word_translation": "to kill you",
+      "word_transliteration": "li-aqtulaka"
+    },
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14125,
+      "word_number_in_surah": 752,
+      "word_surah": 5,
+      "word_translation": "indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أَخَافُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14126,
+      "word_number_in_surah": 753,
+      "word_surah": 5,
+      "word_translation": "fear",
+      "word_transliteration": "akhafu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14127,
+      "word_number_in_surah": 754,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "رَبَّ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14128,
+      "word_number_in_surah": 755,
+      "word_surah": 5,
+      "word_translation": "(the) Lord",
+      "word_transliteration": "rabba"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14129,
+      "word_number_in_surah": 756,
+      "word_surah": 5,
+      "word_translation": "(of) the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "لَئِنۢ بَسَطتَ إِلَيَّ يَدَكَ لِتَقۡتُلَنِي مَآ أَنَا۠ بِبَاسِطٖ يَدِيَ إِلَيۡكَ لِأَقۡتُلَكَۖ إِنِّيٓ أَخَافُ ٱللَّهَ رَبَّ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "If you should raise your hand against me to kill me - I shall not raise my hand against you to kill you. Indeed, I fear Allah, Lord of the worlds.",
+  "fullTransliteration": "la-in basatta ilayya yadaka litaqtulani ma ana bibasitin yadiya ilayka li-aqtulaka inni akhafu al-laha rabba al-'alamina"
+}

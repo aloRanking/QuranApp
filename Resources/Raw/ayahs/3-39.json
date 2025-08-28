@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "ayah": 39,
+    "surah": 3,
+    "words": 20,
+    "numberInQuran": 332,
+    "juz": 3,
+    "manzil": 1,
+    "page": 55,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَنَادَتۡهُ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6818,
+      "word_number_in_surah": 673,
+      "word_surah": 3,
+      "word_translation": "Then called him",
+      "word_transliteration": "fanadathu"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6819,
+      "word_number_in_surah": 674,
+      "word_surah": 3,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikatu"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6820,
+      "word_number_in_surah": 675,
+      "word_surah": 3,
+      "word_translation": "when he",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "قَآئِمٞ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6821,
+      "word_number_in_surah": 676,
+      "word_surah": 3,
+      "word_translation": "(was) standing",
+      "word_transliteration": "qaimun"
+    },
+    {
+      "word_arabic": "يُصَلِّي",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6822,
+      "word_number_in_surah": 677,
+      "word_surah": 3,
+      "word_translation": "praying",
+      "word_transliteration": "yusalli"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6823,
+      "word_number_in_surah": 678,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡمِحۡرَابِ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6824,
+      "word_number_in_surah": 679,
+      "word_surah": 3,
+      "word_translation": "the prayer chamber",
+      "word_transliteration": "al-mih'rabi"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6825,
+      "word_number_in_surah": 680,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6826,
+      "word_number_in_surah": 681,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يُبَشِّرُكَ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6827,
+      "word_number_in_surah": 682,
+      "word_surah": 3,
+      "word_translation": "gives you glad tidings",
+      "word_transliteration": "yubashiruka"
+    },
+    {
+      "word_arabic": "بِيَحۡيَىٰ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6828,
+      "word_number_in_surah": 683,
+      "word_surah": 3,
+      "word_translation": "of Yahya",
+      "word_transliteration": "biyahya"
+    },
+    {
+      "word_arabic": "مُصَدِّقَۢا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6829,
+      "word_number_in_surah": 684,
+      "word_surah": 3,
+      "word_translation": "confirming",
+      "word_transliteration": "musaddiqan"
+    },
+    {
+      "word_arabic": "بِكَلِمَةٖ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6830,
+      "word_number_in_surah": 685,
+      "word_surah": 3,
+      "word_translation": "[of] a Word",
+      "word_transliteration": "bikalimatin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6831,
+      "word_number_in_surah": 686,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6832,
+      "word_number_in_surah": 687,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَسَيِّدٗا",
+      "word_ayah": 39,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6833,
+      "word_number_in_surah": 688,
+      "word_surah": 3,
+      "word_translation": "and a noble",
+      "word_transliteration": "wasayyidan"
+    },
+    {
+      "word_arabic": "وَحَصُورٗا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6834,
+      "word_number_in_surah": 689,
+      "word_surah": 3,
+      "word_translation": "and chaste",
+      "word_transliteration": "wahasuran"
+    },
+    {
+      "word_arabic": "وَنَبِيّٗا",
+      "word_ayah": 39,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6835,
+      "word_number_in_surah": 690,
+      "word_surah": 3,
+      "word_translation": "and a Prophet",
+      "word_transliteration": "wanabiyyan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6836,
+      "word_number_in_surah": 691,
+      "word_surah": 3,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحِينَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6837,
+      "word_number_in_surah": 692,
+      "word_surah": 3,
+      "word_translation": "the righteous",
+      "word_transliteration": "al-salihina"
+    }
+  ],
+  "fullArabic": "فَنَادَتۡهُ ٱلۡمَلَٰٓئِكَةُ وَهُوَ قَآئِمٞ يُصَلِّي فِي ٱلۡمِحۡرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحۡيَىٰ مُصَدِّقَۢا بِكَلِمَةٖ مِّنَ ٱللَّهِ وَسَيِّدٗا وَحَصُورٗا وَنَبِيّٗا مِّنَ ٱلصَّٰلِحِينَ",
+  "fullTranslation": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allah gives you good tidings of John, confirming a word from Allah and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\"",
+  "fullTransliteration": "fanadathu al-malaikatu wahuwa qaimun yusalli fi al-mih'rabi anna al-laha yubashiruka biyahya musaddiqan bikalimatin mina al-lahi wasayyidan wahasuran wanabiyyan mina al-salihina"
+}

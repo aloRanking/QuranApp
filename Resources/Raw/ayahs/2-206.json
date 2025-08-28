@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "ayah": 206,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 213,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3869,
+      "word_number_in_surah": 3840,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "قِيلَ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3870,
+      "word_number_in_surah": 3841,
+      "word_surah": 2,
+      "word_translation": "it is said",
+      "word_transliteration": "qila"
+    },
+    {
+      "word_arabic": "لَهُ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3871,
+      "word_number_in_surah": 3842,
+      "word_surah": 2,
+      "word_translation": "to him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "ٱتَّقِ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3872,
+      "word_number_in_surah": 3843,
+      "word_surah": 2,
+      "word_translation": "Fear",
+      "word_transliteration": "ittaqi"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3873,
+      "word_number_in_surah": 3844,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "أَخَذَتۡهُ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3874,
+      "word_number_in_surah": 3845,
+      "word_surah": 2,
+      "word_translation": "takes him",
+      "word_transliteration": "akhadhathu"
+    },
+    {
+      "word_arabic": "ٱلۡعِزَّةُ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3875,
+      "word_number_in_surah": 3846,
+      "word_surah": 2,
+      "word_translation": "(his) pride",
+      "word_transliteration": "al-'izatu"
+    },
+    {
+      "word_arabic": "بِٱلۡإِثۡمِۚ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3876,
+      "word_number_in_surah": 3847,
+      "word_surah": 2,
+      "word_translation": "to [the] sins",
+      "word_transliteration": "bil-ith'mi"
+    },
+    {
+      "word_arabic": "فَحَسۡبُهُۥ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3877,
+      "word_number_in_surah": 3848,
+      "word_surah": 2,
+      "word_translation": "Then enough for him",
+      "word_transliteration": "fahasbuhu"
+    },
+    {
+      "word_arabic": "جَهَنَّمُۖ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3878,
+      "word_number_in_surah": 3849,
+      "word_surah": 2,
+      "word_translation": "(is) Hell",
+      "word_transliteration": "jahannamu"
+    },
+    {
+      "word_arabic": "وَلَبِئۡسَ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3879,
+      "word_number_in_surah": 3850,
+      "word_surah": 2,
+      "word_translation": "[and] surely an evil",
+      "word_transliteration": "walabi'sa"
+    },
+    {
+      "word_arabic": "ٱلۡمِهَادُ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3880,
+      "word_number_in_surah": 3851,
+      "word_surah": 2,
+      "word_translation": "[the] resting-place",
+      "word_transliteration": "al-mihadu"
+    }
+  ],
+  "fullArabic": "وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتۡهُ ٱلۡعِزَّةُ بِٱلۡإِثۡمِۚ فَحَسۡبُهُۥ جَهَنَّمُۖ وَلَبِئۡسَ ٱلۡمِهَادُ",
+  "fullTranslation": "And when it is said to him, \"Fear Allah,\" pride in the sin takes hold of him. Sufficient for him is Hellfire, and how wretched is the resting place.",
+  "fullTransliteration": "wa-idha qila lahu ittaqi al-laha akhadhathu al-'izatu bil-ith'mi fahasbuhu jahannamu walabi'sa al-mihadu"
+}

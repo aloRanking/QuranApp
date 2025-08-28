@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 135,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 142,
+    "juz": 1,
+    "manzil": 1,
+    "page": 21,
+    "ruku": 17,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2389,
+      "word_number_in_surah": 2360,
+      "word_surah": 2,
+      "word_translation": "And they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "كُونُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2390,
+      "word_number_in_surah": 2361,
+      "word_surah": 2,
+      "word_translation": "Be",
+      "word_transliteration": "kunu"
+    },
+    {
+      "word_arabic": "هُودًا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2391,
+      "word_number_in_surah": 2362,
+      "word_surah": 2,
+      "word_translation": "Jews",
+      "word_transliteration": "hudan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2392,
+      "word_number_in_surah": 2363,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "نَصَٰرَىٰ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2393,
+      "word_number_in_surah": 2364,
+      "word_surah": 2,
+      "word_translation": "Christians",
+      "word_transliteration": "nasara"
+    },
+    {
+      "word_arabic": "تَهۡتَدُواْۗ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2394,
+      "word_number_in_surah": 2365,
+      "word_surah": 2,
+      "word_translation": "(then) you will be guided",
+      "word_transliteration": "tahtadu"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2395,
+      "word_number_in_surah": 2366,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2396,
+      "word_number_in_surah": 2367,
+      "word_surah": 2,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "مِلَّةَ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2397,
+      "word_number_in_surah": 2368,
+      "word_surah": 2,
+      "word_translation": "(the) religion",
+      "word_transliteration": "millata"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِ‍ۧمَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2398,
+      "word_number_in_surah": 2369,
+      "word_surah": 2,
+      "word_translation": "(of) Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "حَنِيفٗاۖ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2399,
+      "word_number_in_surah": 2370,
+      "word_surah": 2,
+      "word_translation": "(the) upright",
+      "word_transliteration": "hanifan"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2400,
+      "word_number_in_surah": 2371,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2401,
+      "word_number_in_surah": 2372,
+      "word_surah": 2,
+      "word_translation": "he was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2402,
+      "word_number_in_surah": 2373,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكِينَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2403,
+      "word_number_in_surah": 2374,
+      "word_surah": 2,
+      "word_translation": "those who associated partners (with Allah)",
+      "word_transliteration": "al-mush'rikina"
+    }
+  ],
+  "fullArabic": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُواْۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِ‍ۧمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+  "fullTranslation": "They say, \"Be Jews or Christians [so] you will be guided.\" Say, \"Rather, [we follow] the religion of Abraham, inclining toward truth, and he was not of the polytheists.\"",
+  "fullTransliteration": "waqalu kunu hudan aw nasara tahtadu qul bal millata ib'rahima hanifan wama kana mina al-mush'rikina"
+}

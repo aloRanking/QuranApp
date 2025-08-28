@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "ayah": 5,
+    "surah": 8,
+    "words": 11,
+    "numberInQuran": 1165,
+    "juz": 9,
+    "manzil": 2,
+    "page": 177,
+    "ruku": 146,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كَمَآ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22600,
+      "word_number_in_surah": 53,
+      "word_surah": 8,
+      "word_translation": "As",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "أَخۡرَجَكَ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22601,
+      "word_number_in_surah": 54,
+      "word_surah": 8,
+      "word_translation": "brought you out",
+      "word_transliteration": "akhrajaka"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22602,
+      "word_number_in_surah": 55,
+      "word_surah": 8,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22603,
+      "word_number_in_surah": 56,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَيۡتِكَ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22604,
+      "word_number_in_surah": 57,
+      "word_surah": 8,
+      "word_translation": "your home",
+      "word_transliteration": "baytika"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22605,
+      "word_number_in_surah": 58,
+      "word_surah": 8,
+      "word_translation": "in truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22606,
+      "word_number_in_surah": 59,
+      "word_surah": 8,
+      "word_translation": "while indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "فَرِيقٗا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22607,
+      "word_number_in_surah": 60,
+      "word_surah": 8,
+      "word_translation": "a party",
+      "word_transliteration": "fariqan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22608,
+      "word_number_in_surah": 61,
+      "word_surah": 8,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22609,
+      "word_number_in_surah": 62,
+      "word_surah": 8,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "لَكَٰرِهُونَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22610,
+      "word_number_in_surah": 63,
+      "word_surah": 8,
+      "word_translation": "certainly disliked",
+      "word_transliteration": "lakarihuna"
+    }
+  ],
+  "fullArabic": "كَمَآ أَخۡرَجَكَ رَبُّكَ مِنۢ بَيۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِيقٗا مِّنَ ٱلۡمُؤۡمِنِينَ لَكَٰرِهُونَ",
+  "fullTranslation": "[It is] just as when your Lord brought you out of your home [for the battle of Badr] in truth, while indeed, a party among the believers were unwilling,",
+  "fullTransliteration": "kama akhrajaka rabbuka min baytika bil-haqi wa-inna fariqan mina al-mu'minina lakarihuna"
+}

@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 238,
+    "surah": 2,
+    "words": 8,
+    "numberInQuran": 245,
+    "juz": 2,
+    "manzil": 1,
+    "page": 39,
+    "ruku": 32,
+    "hizbQuarter": 15,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "حَٰفِظُواْ",
+      "word_ayah": 238,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4747,
+      "word_number_in_surah": 4718,
+      "word_surah": 2,
+      "word_translation": "Guard strictly",
+      "word_transliteration": "hafizu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 238,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4748,
+      "word_number_in_surah": 4719,
+      "word_surah": 2,
+      "word_translation": "[on]",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوَٰتِ",
+      "word_ayah": 238,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4749,
+      "word_number_in_surah": 4720,
+      "word_surah": 2,
+      "word_translation": "the prayers",
+      "word_transliteration": "al-salawati"
+    },
+    {
+      "word_arabic": "وَٱلصَّلَوٰةِ",
+      "word_ayah": 238,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4750,
+      "word_number_in_surah": 4721,
+      "word_surah": 2,
+      "word_translation": "and the prayer",
+      "word_transliteration": "wal-salati"
+    },
+    {
+      "word_arabic": "ٱلۡوُسۡطَىٰ",
+      "word_ayah": 238,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4751,
+      "word_number_in_surah": 4722,
+      "word_surah": 2,
+      "word_translation": "[the] middle",
+      "word_transliteration": "al-wus'ta"
+    },
+    {
+      "word_arabic": "وَقُومُواْ",
+      "word_ayah": 238,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4752,
+      "word_number_in_surah": 4723,
+      "word_surah": 2,
+      "word_translation": "and stand up",
+      "word_transliteration": "waqumu"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 238,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4753,
+      "word_number_in_surah": 4724,
+      "word_surah": 2,
+      "word_translation": "for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "قَٰنِتِينَ",
+      "word_ayah": 238,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4754,
+      "word_number_in_surah": 4725,
+      "word_surah": 2,
+      "word_translation": "devoutly obedient",
+      "word_transliteration": "qanitina"
+    }
+  ],
+  "fullArabic": "حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ قَٰنِتِينَ",
+  "fullTranslation": "Maintain with care the [obligatory] prayers and [in particular] the middle prayer and stand before Allah, devoutly obedient.",
+  "fullTransliteration": "hafizu ala al-salawati wal-salati al-wus'ta waqumu lillahi qanitina"
+}

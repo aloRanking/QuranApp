@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "ayah": 120,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 909,
+    "juz": 8,
+    "manzil": 2,
+    "page": 143,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَذَرُواْ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18245,
+      "word_number_in_surah": 2068,
+      "word_surah": 6,
+      "word_translation": "Forsake",
+      "word_transliteration": "wadharu"
+    },
+    {
+      "word_arabic": "ظَٰهِرَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18246,
+      "word_number_in_surah": 2069,
+      "word_surah": 6,
+      "word_translation": "open",
+      "word_transliteration": "zahira"
+    },
+    {
+      "word_arabic": "ٱلۡإِثۡمِ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18247,
+      "word_number_in_surah": 2070,
+      "word_surah": 6,
+      "word_translation": "[the] sins",
+      "word_transliteration": "al-ith'mi"
+    },
+    {
+      "word_arabic": "وَبَاطِنَهُۥٓۚ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18248,
+      "word_number_in_surah": 2071,
+      "word_surah": 6,
+      "word_translation": "and the secret",
+      "word_transliteration": "wabatinahu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18249,
+      "word_number_in_surah": 2072,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18250,
+      "word_number_in_surah": 2073,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَكۡسِبُونَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18251,
+      "word_number_in_surah": 2074,
+      "word_surah": 6,
+      "word_translation": "earn",
+      "word_transliteration": "yaksibuna"
+    },
+    {
+      "word_arabic": "ٱلۡإِثۡمَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18252,
+      "word_number_in_surah": 2075,
+      "word_surah": 6,
+      "word_translation": "[the] sin",
+      "word_transliteration": "al-ith'ma"
+    },
+    {
+      "word_arabic": "سَيُجۡزَوۡنَ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18253,
+      "word_number_in_surah": 2076,
+      "word_surah": 6,
+      "word_translation": "they will be recompensed",
+      "word_transliteration": "sayuj'zawna"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18254,
+      "word_number_in_surah": 2077,
+      "word_surah": 6,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18255,
+      "word_number_in_surah": 2078,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَقۡتَرِفُونَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18256,
+      "word_number_in_surah": 2079,
+      "word_surah": 6,
+      "word_translation": "commit",
+      "word_transliteration": "yaqtarifuna"
+    }
+  ],
+  "fullArabic": "وَذَرُواْ ظَٰهِرَ ٱلۡإِثۡمِ وَبَاطِنَهُۥٓۚ إِنَّ ٱلَّذِينَ يَكۡسِبُونَ ٱلۡإِثۡمَ سَيُجۡزَوۡنَ بِمَا كَانُواْ يَقۡتَرِفُونَ",
+  "fullTranslation": "And leave what is apparent of sin and what is concealed thereof. Indeed, those who earn [blame for] sin will be recompensed for that which they used to commit.",
+  "fullTransliteration": "wadharu zahira al-ith'mi wabatinahu inna alladhina yaksibuna al-ith'ma sayuj'zawna bima kanu yaqtarifuna"
+}

@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "ayah": 10,
+    "surah": 3,
+    "words": 16,
+    "numberInQuran": 303,
+    "juz": 3,
+    "manzil": 1,
+    "page": 51,
+    "ruku": 43,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6281,
+      "word_number_in_surah": 136,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6282,
+      "word_number_in_surah": 137,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6283,
+      "word_number_in_surah": 138,
+      "word_surah": 3,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "لَن",
+      "word_ayah": 10,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6284,
+      "word_number_in_surah": 139,
+      "word_surah": 3,
+      "word_translation": "never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "تُغۡنِيَ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6285,
+      "word_number_in_surah": 140,
+      "word_surah": 3,
+      "word_translation": "will avail",
+      "word_transliteration": "tugh'niya"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6286,
+      "word_number_in_surah": 141,
+      "word_surah": 3,
+      "word_translation": "[for] them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلُهُمۡ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6287,
+      "word_number_in_surah": 142,
+      "word_surah": 3,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwaluhum"
+    },
+    {
+      "word_arabic": "وَلَآ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6288,
+      "word_number_in_surah": 143,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "أَوۡلَٰدُهُم",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6289,
+      "word_number_in_surah": 144,
+      "word_surah": 3,
+      "word_translation": "their children",
+      "word_transliteration": "awladuhum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6290,
+      "word_number_in_surah": 145,
+      "word_surah": 3,
+      "word_translation": "against",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6291,
+      "word_number_in_surah": 146,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗاۖ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6292,
+      "word_number_in_surah": 147,
+      "word_surah": 3,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَأُوْلَٰٓئِكَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6293,
+      "word_number_in_surah": 148,
+      "word_surah": 3,
+      "word_translation": "and those",
+      "word_transliteration": "wa-ulaika"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6294,
+      "word_number_in_surah": 149,
+      "word_surah": 3,
+      "word_translation": "they (are)",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "وَقُودُ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6295,
+      "word_number_in_surah": 150,
+      "word_surah": 3,
+      "word_translation": "(the) fuel",
+      "word_transliteration": "waqudu"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6296,
+      "word_number_in_surah": 151,
+      "word_surah": 3,
+      "word_translation": "(for) the Fire",
+      "word_transliteration": "al-nari"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ لَن تُغۡنِيَ عَنۡهُمۡ أَمۡوَٰلُهُمۡ وَلَآ أَوۡلَٰدُهُم مِّنَ ٱللَّهِ شَيۡ‍ٔٗاۖ وَأُوْلَٰٓئِكَ هُمۡ وَقُودُ ٱلنَّارِ",
+  "fullTranslation": "Indeed, those who disbelieve - never will their wealth or their children avail them against Allah at all. And it is they who are fuel for the Fire.",
+  "fullTransliteration": "inna alladhina kafaru lan tugh'niya anhum amwaluhum wala awladuhum mina al-lahi shayan wa-ulaika hum waqudu al-nari"
+}

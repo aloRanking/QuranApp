@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 87,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 876,
+    "juz": 7,
+    "manzil": 2,
+    "page": 138,
+    "ruku": 111,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17615,
+      "word_number_in_surah": 1438,
+      "word_surah": 6,
+      "word_translation": "And from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "ءَابَآئِهِمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17616,
+      "word_number_in_surah": 1439,
+      "word_surah": 6,
+      "word_translation": "their fathers",
+      "word_transliteration": "abaihim"
+    },
+    {
+      "word_arabic": "وَذُرِّيَّٰتِهِمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17617,
+      "word_number_in_surah": 1440,
+      "word_surah": 6,
+      "word_translation": "and their descendents",
+      "word_transliteration": "wadhurriyyatihim"
+    },
+    {
+      "word_arabic": "وَإِخۡوَٰنِهِمۡۖ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17618,
+      "word_number_in_surah": 1441,
+      "word_surah": 6,
+      "word_translation": "and their brothers",
+      "word_transliteration": "wa-ikh'wanihim"
+    },
+    {
+      "word_arabic": "وَٱجۡتَبَيۡنَٰهُمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17619,
+      "word_number_in_surah": 1442,
+      "word_surah": 6,
+      "word_translation": "and We chose them",
+      "word_transliteration": "wa-ij'tabaynahum"
+    },
+    {
+      "word_arabic": "وَهَدَيۡنَٰهُمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17620,
+      "word_number_in_surah": 1443,
+      "word_surah": 6,
+      "word_translation": "and We guided them",
+      "word_transliteration": "wahadaynahum"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17621,
+      "word_number_in_surah": 1444,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "صِرَٰطٖ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17622,
+      "word_number_in_surah": 1445,
+      "word_surah": 6,
+      "word_translation": "a path",
+      "word_transliteration": "siratin"
+    },
+    {
+      "word_arabic": "مُّسۡتَقِيمٖ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17623,
+      "word_number_in_surah": 1446,
+      "word_surah": 6,
+      "word_translation": "straight",
+      "word_transliteration": "mus'taqimin"
+    }
+  ],
+  "fullArabic": "وَمِنۡ ءَابَآئِهِمۡ وَذُرِّيَّٰتِهِمۡ وَإِخۡوَٰنِهِمۡۖ وَٱجۡتَبَيۡنَٰهُمۡ وَهَدَيۡنَٰهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "fullTranslation": "And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.",
+  "fullTransliteration": "wamin abaihim wadhurriyyatihim wa-ikh'wanihim wa-ij'tabaynahum wahadaynahum ila siratin mus'taqimin"
+}

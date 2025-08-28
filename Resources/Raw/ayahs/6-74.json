@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 74,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 863,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَإِذۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17422,
+      "word_number_in_surah": 1245,
+      "word_surah": 6,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17423,
+      "word_number_in_surah": 1246,
+      "word_surah": 6,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمُ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17424,
+      "word_number_in_surah": 1247,
+      "word_surah": 6,
+      "word_translation": "Ibrahim",
+      "word_transliteration": "ib'rahimu"
+    },
+    {
+      "word_arabic": "لِأَبِيهِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17425,
+      "word_number_in_surah": 1248,
+      "word_surah": 6,
+      "word_translation": "to his father",
+      "word_transliteration": "li-abihi"
+    },
+    {
+      "word_arabic": "ءَازَرَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17426,
+      "word_number_in_surah": 1249,
+      "word_surah": 6,
+      "word_translation": "Aazar",
+      "word_transliteration": "azara"
+    },
+    {
+      "word_arabic": "أَتَتَّخِذُ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17427,
+      "word_number_in_surah": 1250,
+      "word_surah": 6,
+      "word_translation": "Do you take",
+      "word_transliteration": "atattakhidhu"
+    },
+    {
+      "word_arabic": "أَصۡنَامًا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17428,
+      "word_number_in_surah": 1251,
+      "word_surah": 6,
+      "word_translation": "idols",
+      "word_transliteration": "asnaman"
+    },
+    {
+      "word_arabic": "ءَالِهَةً",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17429,
+      "word_number_in_surah": 1252,
+      "word_surah": 6,
+      "word_translation": "(as) gods",
+      "word_transliteration": "alihatan"
+    },
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17430,
+      "word_number_in_surah": 1253,
+      "word_surah": 6,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أَرَىٰكَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17431,
+      "word_number_in_surah": 1254,
+      "word_surah": 6,
+      "word_translation": "[I] see you",
+      "word_transliteration": "araka"
+    },
+    {
+      "word_arabic": "وَقَوۡمَكَ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17432,
+      "word_number_in_surah": 1255,
+      "word_surah": 6,
+      "word_translation": "and your people",
+      "word_transliteration": "waqawmaka"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17433,
+      "word_number_in_surah": 1256,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ضَلَٰلٖ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17434,
+      "word_number_in_surah": 1257,
+      "word_surah": 6,
+      "word_translation": "error",
+      "word_transliteration": "dalalin"
+    },
+    {
+      "word_arabic": "مُّبِينٖ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17435,
+      "word_number_in_surah": 1258,
+      "word_surah": 6,
+      "word_translation": "manifest",
+      "word_transliteration": "mubinin"
+    }
+  ],
+  "fullArabic": "۞وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصۡنَامًا ءَالِهَةً إِنِّيٓ أَرَىٰكَ وَقَوۡمَكَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "fullTranslation": "And [mention, O Muhammad], when Abraham said to his father Azar, \"Do you take idols as deities? Indeed, I see you and your people to be in manifest error.\"",
+  "fullTransliteration": "wa-idh qala ib'rahimu li-abihi azara atattakhidhu asnaman alihatan inni araka waqawmaka fi dalalin mubinin"
+}

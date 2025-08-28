@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "ayah": 81,
+    "surah": 6,
+    "words": 22,
+    "numberInQuran": 870,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَيۡفَ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17532,
+      "word_number_in_surah": 1355,
+      "word_surah": 6,
+      "word_translation": "And how",
+      "word_transliteration": "wakayfa"
+    },
+    {
+      "word_arabic": "أَخَافُ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17533,
+      "word_number_in_surah": 1356,
+      "word_surah": 6,
+      "word_translation": "could I fear",
+      "word_transliteration": "akhafu"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17534,
+      "word_number_in_surah": 1357,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَشۡرَكۡتُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17535,
+      "word_number_in_surah": 1358,
+      "word_surah": 6,
+      "word_translation": "you associate (with Allah)",
+      "word_transliteration": "ashraktum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17536,
+      "word_number_in_surah": 1359,
+      "word_surah": 6,
+      "word_translation": "while not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَخَافُونَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17537,
+      "word_number_in_surah": 1360,
+      "word_surah": 6,
+      "word_translation": "you fear",
+      "word_transliteration": "takhafuna"
+    },
+    {
+      "word_arabic": "أَنَّكُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17538,
+      "word_number_in_surah": 1361,
+      "word_surah": 6,
+      "word_translation": "that you",
+      "word_transliteration": "annakum"
+    },
+    {
+      "word_arabic": "أَشۡرَكۡتُم",
+      "word_ayah": 81,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17539,
+      "word_number_in_surah": 1362,
+      "word_surah": 6,
+      "word_translation": "have associated",
+      "word_transliteration": "ashraktum"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17540,
+      "word_number_in_surah": 1363,
+      "word_surah": 6,
+      "word_translation": "with Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17541,
+      "word_number_in_surah": 1364,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17542,
+      "word_number_in_surah": 1365,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يُنَزِّلۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17543,
+      "word_number_in_surah": 1366,
+      "word_surah": 6,
+      "word_translation": "did He send down",
+      "word_transliteration": "yunazzil"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17544,
+      "word_number_in_surah": 1367,
+      "word_surah": 6,
+      "word_translation": "for it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17545,
+      "word_number_in_surah": 1368,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "سُلۡطَٰنٗاۚ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17546,
+      "word_number_in_surah": 1369,
+      "word_surah": 6,
+      "word_translation": "any authority",
+      "word_transliteration": "sul'tanan"
+    },
+    {
+      "word_arabic": "فَأَيُّ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17547,
+      "word_number_in_surah": 1370,
+      "word_surah": 6,
+      "word_translation": "So which",
+      "word_transliteration": "fa-ayyu"
+    },
+    {
+      "word_arabic": "ٱلۡفَرِيقَيۡنِ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17548,
+      "word_number_in_surah": 1371,
+      "word_surah": 6,
+      "word_translation": "(of) the two parties",
+      "word_transliteration": "al-fariqayni"
+    },
+    {
+      "word_arabic": "أَحَقُّ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17549,
+      "word_number_in_surah": 1372,
+      "word_surah": 6,
+      "word_translation": "has more right",
+      "word_transliteration": "ahaqqu"
+    },
+    {
+      "word_arabic": "بِٱلۡأَمۡنِۖ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17550,
+      "word_number_in_surah": 1373,
+      "word_surah": 6,
+      "word_translation": "to security",
+      "word_transliteration": "bil-amni"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 81,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17551,
+      "word_number_in_surah": 1374,
+      "word_surah": 6,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17552,
+      "word_number_in_surah": 1375,
+      "word_surah": 6,
+      "word_translation": "you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17553,
+      "word_number_in_surah": 1376,
+      "word_surah": 6,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَكَيۡفَ أَخَافُ مَآ أَشۡرَكۡتُمۡ وَلَا تَخَافُونَ أَنَّكُمۡ أَشۡرَكۡتُم بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ عَلَيۡكُمۡ سُلۡطَٰنٗاۚ فَأَيُّ ٱلۡفَرِيقَيۡنِ أَحَقُّ بِٱلۡأَمۡنِۖ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "And how should I fear what you associate while you do not fear that you have associated with Allah that for which He has not sent down to you any authority? So which of the two parties has more right to security, if you should know?",
+  "fullTransliteration": "wakayfa akhafu ma ashraktum wala takhafuna annakum ashraktum bil-lahi ma lam yunazzil bihi alaykum sul'tanan fa-ayyu al-fariqayni ahaqqu bil-amni in kuntum ta'lamuna"
+}

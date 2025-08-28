@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "ayah": 84,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 577,
+    "juz": 5,
+    "manzil": 1,
+    "page": 91,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَقَٰتِلۡ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11463,
+      "word_number_in_surah": 1837,
+      "word_surah": 4,
+      "word_translation": "So fight",
+      "word_transliteration": "faqatil"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11464,
+      "word_number_in_surah": 1838,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11465,
+      "word_number_in_surah": 1839,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11466,
+      "word_number_in_surah": 1840,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11467,
+      "word_number_in_surah": 1841,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُكَلَّفُ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11468,
+      "word_number_in_surah": 1842,
+      "word_surah": 4,
+      "word_translation": "are you responsible",
+      "word_transliteration": "tukallafu"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11469,
+      "word_number_in_surah": 1843,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "نَفۡسَكَۚ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11470,
+      "word_number_in_surah": 1844,
+      "word_surah": 4,
+      "word_translation": "(for) yourself",
+      "word_transliteration": "nafsaka"
+    },
+    {
+      "word_arabic": "وَحَرِّضِ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11471,
+      "word_number_in_surah": 1845,
+      "word_surah": 4,
+      "word_translation": "And encourage",
+      "word_transliteration": "waharridi"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَۖ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11472,
+      "word_number_in_surah": 1846,
+      "word_surah": 4,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "عَسَى",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11473,
+      "word_number_in_surah": 1847,
+      "word_surah": 4,
+      "word_translation": "perhaps",
+      "word_transliteration": "asa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11474,
+      "word_number_in_surah": 1848,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 84,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11475,
+      "word_number_in_surah": 1849,
+      "word_surah": 4,
+      "word_translation": "will",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَكُفَّ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11476,
+      "word_number_in_surah": 1850,
+      "word_surah": 4,
+      "word_translation": "restrain",
+      "word_transliteration": "yakuffa"
+    },
+    {
+      "word_arabic": "بَأۡسَ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11477,
+      "word_number_in_surah": 1851,
+      "word_surah": 4,
+      "word_translation": "(the) might",
+      "word_transliteration": "basa"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11478,
+      "word_number_in_surah": 1852,
+      "word_surah": 4,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْۚ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11479,
+      "word_number_in_surah": 1853,
+      "word_surah": 4,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11480,
+      "word_number_in_surah": 1854,
+      "word_surah": 4,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَشَدُّ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11481,
+      "word_number_in_surah": 1855,
+      "word_surah": 4,
+      "word_translation": "(is) Stronger",
+      "word_transliteration": "ashaddu"
+    },
+    {
+      "word_arabic": "بَأۡسٗا",
+      "word_ayah": 84,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11482,
+      "word_number_in_surah": 1856,
+      "word_surah": 4,
+      "word_translation": "(in) Might",
+      "word_transliteration": "basan"
+    },
+    {
+      "word_arabic": "وَأَشَدُّ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11483,
+      "word_number_in_surah": 1857,
+      "word_surah": 4,
+      "word_translation": "and Stronger",
+      "word_transliteration": "wa-ashaddu"
+    },
+    {
+      "word_arabic": "تَنكِيلٗا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11484,
+      "word_number_in_surah": 1858,
+      "word_surah": 4,
+      "word_translation": "(in) punishment",
+      "word_transliteration": "tankilan"
+    }
+  ],
+  "fullArabic": "فَقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفۡسَكَۚ وَحَرِّضِ ٱلۡمُؤۡمِنِينَۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأۡسَ ٱلَّذِينَ كَفَرُواْۚ وَٱللَّهُ أَشَدُّ بَأۡسٗا وَأَشَدُّ تَنكِيلٗا",
+  "fullTranslation": "So fight, [O Muhammad], in the cause of Allah; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allah will restrain the [military] might of those who disbelieve. And Allah is greater in might and stronger in [exemplary] punishment.",
+  "fullTransliteration": "faqatil fi sabili al-lahi la tukallafu illa nafsaka waharridi al-mu'minina asa al-lahu an yakuffa basa alladhina kafaru wal-lahu ashaddu basan wa-ashaddu tankilan"
+}

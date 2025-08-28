@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 88,
+    "surah": 5,
+    "words": 12,
+    "numberInQuran": 757,
+    "juz": 7,
+    "manzil": 2,
+    "page": 122,
+    "ruku": 97,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكُلُواْ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15412,
+      "word_number_in_surah": 2039,
+      "word_surah": 5,
+      "word_translation": "And eat",
+      "word_transliteration": "wakulu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15413,
+      "word_number_in_surah": 2040,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "رَزَقَكُمُ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15414,
+      "word_number_in_surah": 2041,
+      "word_surah": 5,
+      "word_translation": "has provided you",
+      "word_transliteration": "razaqakumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15415,
+      "word_number_in_surah": 2042,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "حَلَٰلٗا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15416,
+      "word_number_in_surah": 2043,
+      "word_surah": 5,
+      "word_translation": "lawful",
+      "word_transliteration": "halalan"
+    },
+    {
+      "word_arabic": "طَيِّبٗاۚ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15417,
+      "word_number_in_surah": 2044,
+      "word_surah": 5,
+      "word_translation": "good",
+      "word_transliteration": "tayyiban"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15418,
+      "word_number_in_surah": 2045,
+      "word_surah": 5,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15419,
+      "word_number_in_surah": 2046,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15420,
+      "word_number_in_surah": 2047,
+      "word_surah": 5,
+      "word_translation": "the One",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "أَنتُم",
+      "word_ayah": 88,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15421,
+      "word_number_in_surah": 2048,
+      "word_surah": 5,
+      "word_translation": "you (are)",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15422,
+      "word_number_in_surah": 2049,
+      "word_surah": 5,
+      "word_translation": "in Him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "مُؤۡمِنُونَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15423,
+      "word_number_in_surah": 2050,
+      "word_surah": 5,
+      "word_translation": "believers",
+      "word_transliteration": "mu'minuna"
+    }
+  ],
+  "fullArabic": "وَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ",
+  "fullTranslation": "And eat of what Allah has provided for you [which is] lawful and good. And fear Allah, in whom you are believers.",
+  "fullTransliteration": "wakulu mimma razaqakumu al-lahu halalan tayyiban wa-ittaqu al-laha alladhi antum bihi mu'minuna"
+}

@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "ayah": 173,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 180,
+    "juz": 2,
+    "manzil": 1,
+    "page": 26,
+    "ruku": 22,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3096,
+      "word_number_in_surah": 3067,
+      "word_surah": 2,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "حَرَّمَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3097,
+      "word_number_in_surah": 3068,
+      "word_surah": 2,
+      "word_translation": "He has forbidden",
+      "word_transliteration": "harrama"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمُ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3098,
+      "word_number_in_surah": 3069,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "alaykumu"
+    },
+    {
+      "word_arabic": "ٱلۡمَيۡتَةَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3099,
+      "word_number_in_surah": 3070,
+      "word_surah": 2,
+      "word_translation": "the dead animals",
+      "word_transliteration": "al-maytata"
+    },
+    {
+      "word_arabic": "وَٱلدَّمَ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3100,
+      "word_number_in_surah": 3071,
+      "word_surah": 2,
+      "word_translation": "and [the] blood",
+      "word_transliteration": "wal-dama"
+    },
+    {
+      "word_arabic": "وَلَحۡمَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3101,
+      "word_number_in_surah": 3072,
+      "word_surah": 2,
+      "word_translation": "and flesh",
+      "word_transliteration": "walahma"
+    },
+    {
+      "word_arabic": "ٱلۡخِنزِيرِ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3102,
+      "word_number_in_surah": 3073,
+      "word_surah": 2,
+      "word_translation": "(of) swine",
+      "word_transliteration": "al-khinziri"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3103,
+      "word_number_in_surah": 3074,
+      "word_surah": 2,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أُهِلَّ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3104,
+      "word_number_in_surah": 3075,
+      "word_surah": 2,
+      "word_translation": "has been dedicated",
+      "word_transliteration": "uhilla"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3105,
+      "word_number_in_surah": 3076,
+      "word_surah": 2,
+      "word_translation": "[with it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "لِغَيۡرِ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3106,
+      "word_number_in_surah": 3077,
+      "word_surah": 2,
+      "word_translation": "to other than",
+      "word_transliteration": "lighayri"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3107,
+      "word_number_in_surah": 3078,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَمَنِ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3108,
+      "word_number_in_surah": 3079,
+      "word_surah": 2,
+      "word_translation": "So whoever",
+      "word_transliteration": "famani"
+    },
+    {
+      "word_arabic": "ٱضۡطُرَّ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3109,
+      "word_number_in_surah": 3080,
+      "word_surah": 2,
+      "word_translation": "(is) forced by necessity",
+      "word_transliteration": "ud'turra"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3110,
+      "word_number_in_surah": 3081,
+      "word_surah": 2,
+      "word_translation": "without",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "بَاغٖ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3111,
+      "word_number_in_surah": 3082,
+      "word_surah": 2,
+      "word_translation": "(being) disobedient",
+      "word_transliteration": "baghin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3112,
+      "word_number_in_surah": 3083,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "عَادٖ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3113,
+      "word_number_in_surah": 3084,
+      "word_surah": 2,
+      "word_translation": "transgressor",
+      "word_transliteration": "adin"
+    },
+    {
+      "word_arabic": "فَلَآ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3114,
+      "word_number_in_surah": 3085,
+      "word_surah": 2,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "إِثۡمَ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3115,
+      "word_number_in_surah": 3086,
+      "word_surah": 2,
+      "word_translation": "sin",
+      "word_transliteration": "ith'ma"
+    },
+    {
+      "word_arabic": "عَلَيۡهِۚ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3116,
+      "word_number_in_surah": 3087,
+      "word_surah": 2,
+      "word_translation": "on him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3117,
+      "word_number_in_surah": 3088,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 3118,
+      "word_number_in_surah": 3089,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 3119,
+      "word_number_in_surah": 3090,
+      "word_surah": 2,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٌ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 3120,
+      "word_number_in_surah": 3091,
+      "word_surah": 2,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "إِنَّمَا حَرَّمَ عَلَيۡكُمُ ٱلۡمَيۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيۡرِ ٱللَّهِۖ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا عَادٖ فَلَآ إِثۡمَ عَلَيۡهِۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "fullTranslation": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him. Indeed, Allah is Forgiving and Merciful.",
+  "fullTransliteration": "innama harrama alaykumu al-maytata wal-dama walahma al-khinziri wama uhilla bihi lighayri al-lahi famani ud'turra ghayra baghin wala adin fala ith'ma alayhi inna al-laha ghafurun rahimun"
+}

@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "ayah": 107,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 114,
+    "juz": 1,
+    "manzil": 1,
+    "page": 17,
+    "ruku": 14,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1859,
+      "word_number_in_surah": 1830,
+      "word_surah": 2,
+      "word_translation": "Do not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "تَعۡلَمۡ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1860,
+      "word_number_in_surah": 1831,
+      "word_surah": 2,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lam"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1861,
+      "word_number_in_surah": 1832,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1862,
+      "word_number_in_surah": 1833,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1863,
+      "word_number_in_surah": 1834,
+      "word_surah": 2,
+      "word_translation": "for Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "مُلۡكُ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1864,
+      "word_number_in_surah": 1835,
+      "word_surah": 2,
+      "word_translation": "(is the) Kingdom",
+      "word_transliteration": "mul'ku"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1865,
+      "word_number_in_surah": 1836,
+      "word_surah": 2,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِۗ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1866,
+      "word_number_in_surah": 1837,
+      "word_surah": 2,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1867,
+      "word_number_in_surah": 1838,
+      "word_surah": 2,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 107,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1868,
+      "word_number_in_surah": 1839,
+      "word_surah": 2,
+      "word_translation": "(is) for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 107,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1869,
+      "word_number_in_surah": 1840,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1870,
+      "word_number_in_surah": 1841,
+      "word_surah": 2,
+      "word_translation": "besides",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1871,
+      "word_number_in_surah": 1842,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 107,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1872,
+      "word_number_in_surah": 1843,
+      "word_surah": 2,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "وَلِيّٖ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1873,
+      "word_number_in_surah": 1844,
+      "word_surah": 2,
+      "word_translation": "protector",
+      "word_transliteration": "waliyyin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1874,
+      "word_number_in_surah": 1845,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "نَصِيرٍ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1875,
+      "word_number_in_surah": 1846,
+      "word_surah": 2,
+      "word_translation": "any helper",
+      "word_transliteration": "nasirin"
+    }
+  ],
+  "fullArabic": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ",
+  "fullTranslation": "Do you not know that to Allah belongs the dominion of the heavens and the earth and [that] you have not besides Allah any protector or any helper?",
+  "fullTransliteration": "alam ta'lam anna al-laha lahu mul'ku al-samawati wal-ardi wama lakum min duni al-lahi min waliyyin wala nasirin"
+}

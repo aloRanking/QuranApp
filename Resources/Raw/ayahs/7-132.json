@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 132,
+    "surah": 7,
+    "words": 12,
+    "numberInQuran": 1086,
+    "juz": 9,
+    "manzil": 2,
+    "page": 166,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21187,
+      "word_number_in_surah": 1960,
+      "word_surah": 7,
+      "word_translation": "And they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "مَهۡمَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21188,
+      "word_number_in_surah": 1961,
+      "word_surah": 7,
+      "word_translation": "Whatever",
+      "word_transliteration": "mahma"
+    },
+    {
+      "word_arabic": "تَأۡتِنَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21189,
+      "word_number_in_surah": 1962,
+      "word_surah": 7,
+      "word_translation": "you bring us",
+      "word_transliteration": "tatina"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21190,
+      "word_number_in_surah": 1963,
+      "word_surah": 7,
+      "word_translation": "therewith",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21191,
+      "word_number_in_surah": 1964,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ءَايَةٖ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21192,
+      "word_number_in_surah": 1965,
+      "word_surah": 7,
+      "word_translation": "(the) sign",
+      "word_transliteration": "ayatin"
+    },
+    {
+      "word_arabic": "لِّتَسۡحَرَنَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21193,
+      "word_number_in_surah": 1966,
+      "word_surah": 7,
+      "word_translation": "so that you bewitch us",
+      "word_transliteration": "litasharana"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21194,
+      "word_number_in_surah": 1967,
+      "word_surah": 7,
+      "word_translation": "with it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21195,
+      "word_number_in_surah": 1968,
+      "word_surah": 7,
+      "word_translation": "then not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "نَحۡنُ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21196,
+      "word_number_in_surah": 1969,
+      "word_surah": 7,
+      "word_translation": "we",
+      "word_transliteration": "nahnu"
+    },
+    {
+      "word_arabic": "لَكَ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21197,
+      "word_number_in_surah": 1970,
+      "word_surah": 7,
+      "word_translation": "(will be) in you",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "بِمُؤۡمِنِينَ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21198,
+      "word_number_in_surah": 1971,
+      "word_surah": 7,
+      "word_translation": "believers",
+      "word_transliteration": "bimu'minina"
+    }
+  ],
+  "fullArabic": "وَقَالُواْ مَهۡمَا تَأۡتِنَا بِهِۦ مِنۡ ءَايَةٖ لِّتَسۡحَرَنَا بِهَا فَمَا نَحۡنُ لَكَ بِمُؤۡمِنِينَ",
+  "fullTranslation": "And they said, \"No matter what sign you bring us with which to bewitch us, we will not be believers in you.\"",
+  "fullTransliteration": "waqalu mahma tatina bihi min ayatin litasharana biha fama nahnu laka bimu'minina"
+}

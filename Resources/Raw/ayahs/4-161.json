@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "ayah": 161,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 654,
+    "juz": 6,
+    "manzil": 1,
+    "page": 103,
+    "ruku": 83,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَخۡذِهِمُ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13037,
+      "word_number_in_surah": 3411,
+      "word_surah": 4,
+      "word_translation": "And for their taking",
+      "word_transliteration": "wa-akhdhihimu"
+    },
+    {
+      "word_arabic": "ٱلرِّبَوٰاْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13038,
+      "word_number_in_surah": 3412,
+      "word_surah": 4,
+      "word_translation": "(of) [the] usury",
+      "word_transliteration": "al-riba"
+    },
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13039,
+      "word_number_in_surah": 3413,
+      "word_surah": 4,
+      "word_translation": "while certainly",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "نُهُواْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13040,
+      "word_number_in_surah": 3414,
+      "word_surah": 4,
+      "word_translation": "they were forbidden",
+      "word_transliteration": "nuhu"
+    },
+    {
+      "word_arabic": "عَنۡهُ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13041,
+      "word_number_in_surah": 3415,
+      "word_surah": 4,
+      "word_translation": "from it",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "وَأَكۡلِهِمۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13042,
+      "word_number_in_surah": 3416,
+      "word_surah": 4,
+      "word_translation": "and (for) their consuming",
+      "word_transliteration": "wa-aklihim"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13043,
+      "word_number_in_surah": 3417,
+      "word_surah": 4,
+      "word_translation": "wealth",
+      "word_transliteration": "amwala"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13044,
+      "word_number_in_surah": 3418,
+      "word_surah": 4,
+      "word_translation": "(of) the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "بِٱلۡبَٰطِلِۚ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13045,
+      "word_number_in_surah": 3419,
+      "word_surah": 4,
+      "word_translation": "wrongfully",
+      "word_transliteration": "bil-batili"
+    },
+    {
+      "word_arabic": "وَأَعۡتَدۡنَا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13046,
+      "word_number_in_surah": 3420,
+      "word_surah": 4,
+      "word_translation": "And We have prepared",
+      "word_transliteration": "wa-a'tadna"
+    },
+    {
+      "word_arabic": "لِلۡكَٰفِرِينَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13047,
+      "word_number_in_surah": 3421,
+      "word_surah": 4,
+      "word_translation": "for the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13048,
+      "word_number_in_surah": 3422,
+      "word_surah": 4,
+      "word_translation": "among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "عَذَابًا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13049,
+      "word_number_in_surah": 3423,
+      "word_surah": 4,
+      "word_translation": "a punishment",
+      "word_transliteration": "adhaban"
+    },
+    {
+      "word_arabic": "أَلِيمٗا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13050,
+      "word_number_in_surah": 3424,
+      "word_surah": 4,
+      "word_translation": "painful",
+      "word_transliteration": "aliman"
+    }
+  ],
+  "fullArabic": "وَأَخۡذِهِمُ ٱلرِّبَوٰاْ وَقَدۡ نُهُواْ عَنۡهُ وَأَكۡلِهِمۡ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَٰطِلِۚ وَأَعۡتَدۡنَا لِلۡكَٰفِرِينَ مِنۡهُمۡ عَذَابًا أَلِيمٗا",
+  "fullTranslation": "And [for] their taking of usury while they had been forbidden from it, and their consuming of the people's wealth unjustly. And we have prepared for the disbelievers among them a painful punishment.",
+  "fullTransliteration": "wa-akhdhihimu al-riba waqad nuhu anhu wa-aklihim amwala al-nasi bil-batili wa-a'tadna lil'kafirina min'hum adhaban aliman"
+}

@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "ayah": 32,
+    "surah": 4,
+    "words": 27,
+    "numberInQuran": 525,
+    "juz": 5,
+    "manzil": 1,
+    "page": 83,
+    "ruku": 66,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10412,
+      "word_number_in_surah": 786,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَمَنَّوۡاْ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10413,
+      "word_number_in_surah": 787,
+      "word_surah": 4,
+      "word_translation": "covet",
+      "word_transliteration": "tatamannaw"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10414,
+      "word_number_in_surah": 788,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فَضَّلَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10415,
+      "word_number_in_surah": 789,
+      "word_surah": 4,
+      "word_translation": "(has) bestowed",
+      "word_transliteration": "faddala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10416,
+      "word_number_in_surah": 790,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10417,
+      "word_number_in_surah": 791,
+      "word_surah": 4,
+      "word_translation": "[with it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "بَعۡضَكُمۡ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10418,
+      "word_number_in_surah": 792,
+      "word_surah": 4,
+      "word_translation": "some of you",
+      "word_transliteration": "ba'dakum"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10419,
+      "word_number_in_surah": 793,
+      "word_surah": 4,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "بَعۡضٖۚ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10420,
+      "word_number_in_surah": 794,
+      "word_surah": 4,
+      "word_translation": "others",
+      "word_transliteration": "ba'din"
+    },
+    {
+      "word_arabic": "لِّلرِّجَالِ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10421,
+      "word_number_in_surah": 795,
+      "word_surah": 4,
+      "word_translation": "For men",
+      "word_transliteration": "lilrrijali"
+    },
+    {
+      "word_arabic": "نَصِيبٞ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10422,
+      "word_number_in_surah": 796,
+      "word_surah": 4,
+      "word_translation": "(is) a share",
+      "word_transliteration": "nasibun"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10423,
+      "word_number_in_surah": 797,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "ٱكۡتَسَبُواْۖ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10424,
+      "word_number_in_surah": 798,
+      "word_surah": 4,
+      "word_translation": "they earned",
+      "word_transliteration": "ik'tasabu"
+    },
+    {
+      "word_arabic": "وَلِلنِّسَآءِ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10425,
+      "word_number_in_surah": 799,
+      "word_surah": 4,
+      "word_translation": "and for women",
+      "word_transliteration": "walilnnisai"
+    },
+    {
+      "word_arabic": "نَصِيبٞ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10426,
+      "word_number_in_surah": 800,
+      "word_surah": 4,
+      "word_translation": "(is) a share",
+      "word_transliteration": "nasibun"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10427,
+      "word_number_in_surah": 801,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "ٱكۡتَسَبۡنَۚ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10428,
+      "word_number_in_surah": 802,
+      "word_surah": 4,
+      "word_translation": "they earned",
+      "word_transliteration": "ik'tasabna"
+    },
+    {
+      "word_arabic": "وَسۡ‍َٔلُواْ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10429,
+      "word_number_in_surah": 803,
+      "word_surah": 4,
+      "word_translation": "And ask",
+      "word_transliteration": "wasalu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10430,
+      "word_number_in_surah": 804,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 32,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10431,
+      "word_number_in_surah": 805,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَضۡلِهِۦٓۚ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 10432,
+      "word_number_in_surah": 806,
+      "word_surah": 4,
+      "word_translation": "His Bounty",
+      "word_transliteration": "fadlihi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 10433,
+      "word_number_in_surah": 807,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 10434,
+      "word_number_in_surah": 808,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 10435,
+      "word_number_in_surah": 809,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 10436,
+      "word_number_in_surah": 810,
+      "word_surah": 4,
+      "word_translation": "of every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 10437,
+      "word_number_in_surah": 811,
+      "word_surah": 4,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "عَلِيمٗا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 10438,
+      "word_number_in_surah": 812,
+      "word_surah": 4,
+      "word_translation": "All-Knower",
+      "word_transliteration": "aliman"
+    }
+  ],
+  "fullArabic": "وَلَا تَتَمَنَّوۡاْ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعۡضَكُمۡ عَلَىٰ بَعۡضٖۚ لِّلرِّجَالِ نَصِيبٞ مِّمَّا ٱكۡتَسَبُواْۖ وَلِلنِّسَآءِ نَصِيبٞ مِّمَّا ٱكۡتَسَبۡنَۚ وَسۡ‍َٔلُواْ ٱللَّهَ مِن فَضۡلِهِۦٓۚ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَيۡءٍ عَلِيمٗا",
+  "fullTranslation": "And do not wish for that by which Allah has made some of you exceed others. For men is a share of what they have earned, and for women is a share of what they have earned. And ask Allah of his bounty. Indeed Allah is ever, of all things, Knowing.",
+  "fullTransliteration": "wala tatamannaw ma faddala al-lahu bihi ba'dakum ala ba'din lilrrijali nasibun mimma ik'tasabu walilnnisai nasibun mimma ik'tasabna wasalu al-laha min fadlihi inna al-laha kana bikulli shayin aliman"
+}

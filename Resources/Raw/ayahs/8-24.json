@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "ayah": 24,
+    "surah": 8,
+    "words": 20,
+    "numberInQuran": 1184,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 148,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22868,
+      "word_number_in_surah": 321,
+      "word_surah": 8,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22869,
+      "word_number_in_surah": 322,
+      "word_surah": 8,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22870,
+      "word_number_in_surah": 323,
+      "word_surah": 8,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱسۡتَجِيبُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22871,
+      "word_number_in_surah": 324,
+      "word_surah": 8,
+      "word_translation": "Respond",
+      "word_transliteration": "is'tajibu"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22872,
+      "word_number_in_surah": 325,
+      "word_surah": 8,
+      "word_translation": "to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَلِلرَّسُولِ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22873,
+      "word_number_in_surah": 326,
+      "word_surah": 8,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "walilrrasuli"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22874,
+      "word_number_in_surah": 327,
+      "word_surah": 8,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "دَعَاكُمۡ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22875,
+      "word_number_in_surah": 328,
+      "word_surah": 8,
+      "word_translation": "he calls you",
+      "word_transliteration": "da'akum"
+    },
+    {
+      "word_arabic": "لِمَا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22876,
+      "word_number_in_surah": 329,
+      "word_surah": 8,
+      "word_translation": "to what",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "يُحۡيِيكُمۡۖ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22877,
+      "word_number_in_surah": 330,
+      "word_surah": 8,
+      "word_translation": "gives you life",
+      "word_transliteration": "yuh'yikum"
+    },
+    {
+      "word_arabic": "وَٱعۡلَمُوٓاْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22878,
+      "word_number_in_surah": 331,
+      "word_surah": 8,
+      "word_translation": "And know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22879,
+      "word_number_in_surah": 332,
+      "word_surah": 8,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22880,
+      "word_number_in_surah": 333,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَحُولُ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22881,
+      "word_number_in_surah": 334,
+      "word_surah": 8,
+      "word_translation": "comes",
+      "word_transliteration": "yahulu"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22882,
+      "word_number_in_surah": 335,
+      "word_surah": 8,
+      "word_translation": "(in) between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ٱلۡمَرۡءِ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22883,
+      "word_number_in_surah": 336,
+      "word_surah": 8,
+      "word_translation": "a man",
+      "word_transliteration": "al-mari"
+    },
+    {
+      "word_arabic": "وَقَلۡبِهِۦ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22884,
+      "word_number_in_surah": 337,
+      "word_surah": 8,
+      "word_translation": "and his heart",
+      "word_transliteration": "waqalbihi"
+    },
+    {
+      "word_arabic": "وَأَنَّهُۥٓ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22885,
+      "word_number_in_surah": 338,
+      "word_surah": 8,
+      "word_translation": "and that",
+      "word_transliteration": "wa-annahu"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22886,
+      "word_number_in_surah": 339,
+      "word_surah": 8,
+      "word_translation": "to Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "تُحۡشَرُونَ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22887,
+      "word_number_in_surah": 340,
+      "word_surah": 8,
+      "word_translation": "you will be gathered",
+      "word_transliteration": "tuh'sharuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱسۡتَجِيبُواْ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمۡ لِمَا يُحۡيِيكُمۡۖ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَحُولُ بَيۡنَ ٱلۡمَرۡءِ وَقَلۡبِهِۦ وَأَنَّهُۥٓ إِلَيۡهِ تُحۡشَرُونَ",
+  "fullTranslation": "O you who have believed, respond to Allah and to the Messenger when he calls you to that which gives you life. And know that Allah intervenes between a man and his heart and that to Him you will be gathered.",
+  "fullTransliteration": "yaayyuha alladhina amanu is'tajibu lillahi walilrrasuli idha da'akum lima yuh'yikum wa-i'lamu anna al-laha yahulu bayna al-mari waqalbihi wa-annahu ilayhi tuh'sharuna"
+}

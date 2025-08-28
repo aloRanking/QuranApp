@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "ayah": 105,
+    "surah": 7,
+    "words": 18,
+    "numberInQuran": 1059,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 134,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "حَقِيقٌ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20912,
+      "word_number_in_surah": 1685,
+      "word_surah": 7,
+      "word_translation": "Obligated",
+      "word_transliteration": "haqiqun"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20913,
+      "word_number_in_surah": 1686,
+      "word_surah": 7,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 105,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20914,
+      "word_number_in_surah": 1687,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "لَّآ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20915,
+      "word_number_in_surah": 1688,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أَقُولَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20916,
+      "word_number_in_surah": 1689,
+      "word_surah": 7,
+      "word_translation": "I say",
+      "word_transliteration": "aqula"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20917,
+      "word_number_in_surah": 1690,
+      "word_surah": 7,
+      "word_translation": "about",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20918,
+      "word_number_in_surah": 1691,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20919,
+      "word_number_in_surah": 1692,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّۚ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20920,
+      "word_number_in_surah": 1693,
+      "word_surah": 7,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20921,
+      "word_number_in_surah": 1694,
+      "word_surah": 7,
+      "word_translation": "Verily",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "جِئۡتُكُم",
+      "word_ayah": 105,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20922,
+      "word_number_in_surah": 1695,
+      "word_surah": 7,
+      "word_translation": "I (have) come to you",
+      "word_transliteration": "ji'tukum"
+    },
+    {
+      "word_arabic": "بِبَيِّنَةٖ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20923,
+      "word_number_in_surah": 1696,
+      "word_surah": 7,
+      "word_translation": "with a clear Sign",
+      "word_transliteration": "bibayyinatin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 105,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20924,
+      "word_number_in_surah": 1697,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20925,
+      "word_number_in_surah": 1698,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "فَأَرۡسِلۡ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20926,
+      "word_number_in_surah": 1699,
+      "word_surah": 7,
+      "word_translation": "so send",
+      "word_transliteration": "fa-arsil"
+    },
+    {
+      "word_arabic": "مَعِيَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20927,
+      "word_number_in_surah": 1700,
+      "word_surah": 7,
+      "word_translation": "with me",
+      "word_transliteration": "ma'iya"
+    },
+    {
+      "word_arabic": "بَنِيٓ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20928,
+      "word_number_in_surah": 1701,
+      "word_surah": 7,
+      "word_translation": "(the) Children",
+      "word_transliteration": "bani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20929,
+      "word_number_in_surah": 1702,
+      "word_surah": 7,
+      "word_translation": "(of) Israel",
+      "word_transliteration": "is'raila"
+    }
+  ],
+  "fullArabic": "حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلۡحَقَّۚ قَدۡ جِئۡتُكُم بِبَيِّنَةٖ مِّن رَّبِّكُمۡ فَأَرۡسِلۡ مَعِيَ بَنِيٓ إِسۡرَٰٓءِيلَ",
+  "fullTranslation": "[Who is] obligated not to say about Allah except the truth. I have come to you with clear evidence from your Lord, so send with me the Children of Israel.\"",
+  "fullTransliteration": "haqiqun ala an la aqula ala al-lahi illa al-haqa qad ji'tukum bibayyinatin min rabbikum fa-arsil ma'iya bani is'raila"
+}

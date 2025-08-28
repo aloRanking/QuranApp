@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "ayah": 104,
+    "surah": 6,
+    "words": 15,
+    "numberInQuran": 893,
+    "juz": 7,
+    "manzil": 2,
+    "page": 141,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17977,
+      "word_number_in_surah": 1800,
+      "word_surah": 6,
+      "word_translation": "Verily",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "جَآءَكُم",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17978,
+      "word_number_in_surah": 1801,
+      "word_surah": 6,
+      "word_translation": "has come to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "بَصَآئِرُ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17979,
+      "word_number_in_surah": 1802,
+      "word_surah": 6,
+      "word_translation": "enlightenment",
+      "word_transliteration": "basairu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 104,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17980,
+      "word_number_in_surah": 1803,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡۖ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17981,
+      "word_number_in_surah": 1804,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "فَمَنۡ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17982,
+      "word_number_in_surah": 1805,
+      "word_surah": 6,
+      "word_translation": "Then whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "أَبۡصَرَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17983,
+      "word_number_in_surah": 1806,
+      "word_surah": 6,
+      "word_translation": "sees",
+      "word_transliteration": "absara"
+    },
+    {
+      "word_arabic": "فَلِنَفۡسِهِۦۖ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17984,
+      "word_number_in_surah": 1807,
+      "word_surah": 6,
+      "word_translation": "then (it is) for his soul",
+      "word_transliteration": "falinafsihi"
+    },
+    {
+      "word_arabic": "وَمَنۡ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17985,
+      "word_number_in_surah": 1808,
+      "word_surah": 6,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "عَمِيَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17986,
+      "word_number_in_surah": 1809,
+      "word_surah": 6,
+      "word_translation": "(is) blind",
+      "word_transliteration": "amiya"
+    },
+    {
+      "word_arabic": "فَعَلَيۡهَاۚ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17987,
+      "word_number_in_surah": 1810,
+      "word_surah": 6,
+      "word_translation": "then (it is) against himself",
+      "word_transliteration": "fa'alayha"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17988,
+      "word_number_in_surah": 1811,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَنَا۠",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17989,
+      "word_number_in_surah": 1812,
+      "word_surah": 6,
+      "word_translation": "(am) I",
+      "word_transliteration": "ana"
+    },
+    {
+      "word_arabic": "عَلَيۡكُم",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17990,
+      "word_number_in_surah": 1813,
+      "word_surah": 6,
+      "word_translation": "over you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "بِحَفِيظٖ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17991,
+      "word_number_in_surah": 1814,
+      "word_surah": 6,
+      "word_translation": "a guardian",
+      "word_transliteration": "bihafizin"
+    }
+  ],
+  "fullArabic": "قَدۡ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمۡۖ فَمَنۡ أَبۡصَرَ فَلِنَفۡسِهِۦۖ وَمَنۡ عَمِيَ فَعَلَيۡهَاۚ وَمَآ أَنَا۠ عَلَيۡكُم بِحَفِيظٖ",
+  "fullTranslation": "There has come to you enlightenment from your Lord. So whoever will see does so for [the benefit of] his soul, and whoever is blind [does harm] against it. And [say], \"I am not a guardian over you.\"",
+  "fullTransliteration": "qad jaakum basairu min rabbikum faman absara falinafsihi waman amiya fa'alayha wama ana alaykum bihafizin"
+}

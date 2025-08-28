@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ayah": 34,
+    "surah": 3,
+    "words": 7,
+    "numberInQuran": 327,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذُرِّيَّةَۢ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6720,
+      "word_number_in_surah": 575,
+      "word_surah": 3,
+      "word_translation": "Descendents",
+      "word_transliteration": "dhurriyyatan"
+    },
+    {
+      "word_arabic": "بَعۡضُهَا",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6721,
+      "word_number_in_surah": 576,
+      "word_surah": 3,
+      "word_translation": "some of them",
+      "word_transliteration": "ba'duha"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6722,
+      "word_number_in_surah": 577,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡضٖۗ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6723,
+      "word_number_in_surah": 578,
+      "word_surah": 3,
+      "word_translation": "others",
+      "word_transliteration": "ba'din"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6724,
+      "word_number_in_surah": 579,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6725,
+      "word_number_in_surah": 580,
+      "word_surah": 3,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6726,
+      "word_number_in_surah": 581,
+      "word_surah": 3,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "ذُرِّيَّةَۢ بَعۡضُهَا مِنۢ بَعۡضٖۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "fullTranslation": "Descendants, some of them from others. And Allah is Hearing and Knowing.",
+  "fullTransliteration": "dhurriyyatan ba'duha min ba'din wal-lahu sami'un alimun"
+}

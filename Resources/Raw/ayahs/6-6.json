@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "ayah": 6,
+    "surah": 6,
+    "words": 31,
+    "numberInQuran": 795,
+    "juz": 7,
+    "manzil": 2,
+    "page": 128,
+    "ruku": 102,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16241,
+      "word_number_in_surah": 64,
+      "word_surah": 6,
+      "word_translation": "Did not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "يَرَوۡاْ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16242,
+      "word_number_in_surah": 65,
+      "word_surah": 6,
+      "word_translation": "they see",
+      "word_transliteration": "yaraw"
+    },
+    {
+      "word_arabic": "كَمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16243,
+      "word_number_in_surah": 66,
+      "word_surah": 6,
+      "word_translation": "how many",
+      "word_transliteration": "kam"
+    },
+    {
+      "word_arabic": "أَهۡلَكۡنَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16244,
+      "word_number_in_surah": 67,
+      "word_surah": 6,
+      "word_translation": "We destroyed",
+      "word_transliteration": "ahlakna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 6,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16245,
+      "word_number_in_surah": 68,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِهِم",
+      "word_ayah": 6,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16246,
+      "word_number_in_surah": 69,
+      "word_surah": 6,
+      "word_translation": "before them",
+      "word_transliteration": "qablihim"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 6,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16247,
+      "word_number_in_surah": 70,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَرۡنٖ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16248,
+      "word_number_in_surah": 71,
+      "word_surah": 6,
+      "word_translation": "generations",
+      "word_transliteration": "qarnin"
+    },
+    {
+      "word_arabic": "مَّكَّنَّٰهُمۡ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16249,
+      "word_number_in_surah": 72,
+      "word_surah": 6,
+      "word_translation": "We had established them",
+      "word_transliteration": "makkannahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16250,
+      "word_number_in_surah": 73,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16251,
+      "word_number_in_surah": 74,
+      "word_surah": 6,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16252,
+      "word_number_in_surah": 75,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16253,
+      "word_number_in_surah": 76,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "نُمَكِّن",
+      "word_ayah": 6,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16254,
+      "word_number_in_surah": 77,
+      "word_surah": 6,
+      "word_translation": "We (have) established",
+      "word_transliteration": "numakkin"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16255,
+      "word_number_in_surah": 78,
+      "word_surah": 6,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَأَرۡسَلۡنَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16256,
+      "word_number_in_surah": 79,
+      "word_surah": 6,
+      "word_translation": "And We sent",
+      "word_transliteration": "wa-arsalna"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16257,
+      "word_number_in_surah": 80,
+      "word_surah": 6,
+      "word_translation": "(rain from) the sky",
+      "word_transliteration": "al-samaa"
+    },
+    {
+      "word_arabic": "عَلَيۡهِم",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16258,
+      "word_number_in_surah": 81,
+      "word_surah": 6,
+      "word_translation": "upon them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "مِّدۡرَارٗا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16259,
+      "word_number_in_surah": 82,
+      "word_surah": 6,
+      "word_translation": "showering abundantly",
+      "word_transliteration": "mid'raran"
+    },
+    {
+      "word_arabic": "وَجَعَلۡنَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16260,
+      "word_number_in_surah": 83,
+      "word_surah": 6,
+      "word_translation": "and We made",
+      "word_transliteration": "waja'alna"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16261,
+      "word_number_in_surah": 84,
+      "word_surah": 6,
+      "word_translation": "the rivers",
+      "word_transliteration": "al-anhara"
+    },
+    {
+      "word_arabic": "تَجۡرِي",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16262,
+      "word_number_in_surah": 85,
+      "word_surah": 6,
+      "word_translation": "flow",
+      "word_transliteration": "tajri"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 6,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16263,
+      "word_number_in_surah": 86,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "تَحۡتِهِمۡ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 16264,
+      "word_number_in_surah": 87,
+      "word_surah": 6,
+      "word_translation": "underneath them",
+      "word_transliteration": "tahtihim"
+    },
+    {
+      "word_arabic": "فَأَهۡلَكۡنَٰهُم",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 16265,
+      "word_number_in_surah": 88,
+      "word_surah": 6,
+      "word_translation": "Then We destroyed them",
+      "word_transliteration": "fa-ahlaknahum"
+    },
+    {
+      "word_arabic": "بِذُنُوبِهِمۡ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 16266,
+      "word_number_in_surah": 89,
+      "word_surah": 6,
+      "word_translation": "for their sins",
+      "word_transliteration": "bidhunubihim"
+    },
+    {
+      "word_arabic": "وَأَنشَأۡنَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 16267,
+      "word_number_in_surah": 90,
+      "word_surah": 6,
+      "word_translation": "and We raised",
+      "word_transliteration": "wa-anshana"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 16268,
+      "word_number_in_surah": 91,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِمۡ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 16269,
+      "word_number_in_surah": 92,
+      "word_surah": 6,
+      "word_translation": "after them",
+      "word_transliteration": "ba'dihim"
+    },
+    {
+      "word_arabic": "قَرۡنًا",
+      "word_ayah": 6,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 16270,
+      "word_number_in_surah": 93,
+      "word_surah": 6,
+      "word_translation": "generations",
+      "word_transliteration": "qarnan"
+    },
+    {
+      "word_arabic": "ءَاخَرِينَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 16271,
+      "word_number_in_surah": 94,
+      "word_surah": 6,
+      "word_translation": "other",
+      "word_transliteration": "akharina"
+    }
+  ],
+  "fullArabic": "أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ مَّكَّنَّٰهُمۡ فِي ٱلۡأَرۡضِ مَا لَمۡ نُمَكِّن لَّكُمۡ وَأَرۡسَلۡنَا ٱلسَّمَآءَ عَلَيۡهِم مِّدۡرَارٗا وَجَعَلۡنَا ٱلۡأَنۡهَٰرَ تَجۡرِي مِن تَحۡتِهِمۡ فَأَهۡلَكۡنَٰهُم بِذُنُوبِهِمۡ وَأَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِينَ",
+  "fullTranslation": "Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.",
+  "fullTransliteration": "alam yaraw kam ahlakna min qablihim min qarnin makkannahum fi al-ardi ma lam numakkin lakum wa-arsalna al-samaa alayhim mid'raran waja'alna al-anhara tajri min tahtihim fa-ahlaknahum bidhunubihim wa-anshana min ba'dihim qarnan akharina"
+}

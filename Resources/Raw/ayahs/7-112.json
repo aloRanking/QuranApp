@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "ayah": 112,
+    "surah": 7,
+    "words": 4,
+    "numberInQuran": 1066,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَأۡتُوكَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20976,
+      "word_number_in_surah": 1749,
+      "word_surah": 7,
+      "word_translation": "They (will) bring to you",
+      "word_transliteration": "yatuka"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20977,
+      "word_number_in_surah": 1750,
+      "word_surah": 7,
+      "word_translation": "[with] every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "سَٰحِرٍ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20978,
+      "word_number_in_surah": 1751,
+      "word_surah": 7,
+      "word_translation": "magician",
+      "word_transliteration": "sahirin"
+    },
+    {
+      "word_arabic": "عَلِيمٖ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20979,
+      "word_number_in_surah": 1752,
+      "word_surah": 7,
+      "word_translation": "learned",
+      "word_transliteration": "alimin"
+    }
+  ],
+  "fullArabic": "يَأۡتُوكَ بِكُلِّ سَٰحِرٍ عَلِيمٖ",
+  "fullTranslation": "Who will bring you every learned magician.\"",
+  "fullTransliteration": "yatuka bikulli sahirin alimin"
+}

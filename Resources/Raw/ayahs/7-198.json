@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 198,
+    "surah": 7,
+    "words": 12,
+    "numberInQuran": 1152,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 198,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22442,
+      "word_number_in_surah": 3215,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَدۡعُوهُمۡ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22443,
+      "word_number_in_surah": 3216,
+      "word_surah": 7,
+      "word_translation": "you call them",
+      "word_transliteration": "tad'uhum"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22444,
+      "word_number_in_surah": 3217,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلۡهُدَىٰ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22445,
+      "word_number_in_surah": 3218,
+      "word_surah": 7,
+      "word_translation": "the guidance",
+      "word_transliteration": "al-huda"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22446,
+      "word_number_in_surah": 3219,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡمَعُواْۖ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22447,
+      "word_number_in_surah": 3220,
+      "word_surah": 7,
+      "word_translation": "do they not",
+      "word_transliteration": "yasma'u"
+    },
+    {
+      "word_arabic": "وَتَرَىٰهُمۡ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22448,
+      "word_number_in_surah": 3221,
+      "word_surah": 7,
+      "word_translation": "And you see them",
+      "word_transliteration": "watarahum"
+    },
+    {
+      "word_arabic": "يَنظُرُونَ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22449,
+      "word_number_in_surah": 3222,
+      "word_surah": 7,
+      "word_translation": "looking",
+      "word_transliteration": "yanzuruna"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 198,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22450,
+      "word_number_in_surah": 3223,
+      "word_surah": 7,
+      "word_translation": "at you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 198,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22451,
+      "word_number_in_surah": 3224,
+      "word_surah": 7,
+      "word_translation": "but they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22452,
+      "word_number_in_surah": 3225,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُبۡصِرُونَ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22453,
+      "word_number_in_surah": 3226,
+      "word_surah": 7,
+      "word_translation": "(do) they see",
+      "word_transliteration": "yub'siruna"
+    }
+  ],
+  "fullArabic": "وَإِن تَدۡعُوهُمۡ إِلَى ٱلۡهُدَىٰ لَا يَسۡمَعُواْۖ وَتَرَىٰهُمۡ يَنظُرُونَ إِلَيۡكَ وَهُمۡ لَا يُبۡصِرُونَ",
+  "fullTranslation": "And if you invite them to guidance, they do not hear; and you see them looking at you while they do not see.",
+  "fullTransliteration": "wa-in tad'uhum ila al-huda la yasma'u watarahum yanzuruna ilayka wahum la yub'siruna"
+}

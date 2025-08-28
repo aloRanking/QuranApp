@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "ayah": 131,
+    "surah": 7,
+    "words": 22,
+    "numberInQuran": 1085,
+    "juz": 9,
+    "manzil": 2,
+    "page": 166,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21165,
+      "word_number_in_surah": 1938,
+      "word_surah": 7,
+      "word_translation": "But when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "جَآءَتۡهُمُ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21166,
+      "word_number_in_surah": 1939,
+      "word_surah": 7,
+      "word_translation": "came to them",
+      "word_transliteration": "jaathumu"
+    },
+    {
+      "word_arabic": "ٱلۡحَسَنَةُ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21167,
+      "word_number_in_surah": 1940,
+      "word_surah": 7,
+      "word_translation": "the good",
+      "word_transliteration": "al-hasanatu"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21168,
+      "word_number_in_surah": 1941,
+      "word_surah": 7,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21169,
+      "word_number_in_surah": 1942,
+      "word_surah": 7,
+      "word_translation": "For us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "هَٰذِهِۦۖ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21170,
+      "word_number_in_surah": 1943,
+      "word_surah": 7,
+      "word_translation": "(is) this",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 131,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21171,
+      "word_number_in_surah": 1944,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تُصِبۡهُمۡ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21172,
+      "word_number_in_surah": 1945,
+      "word_surah": 7,
+      "word_translation": "afflicts them",
+      "word_transliteration": "tusib'hum"
+    },
+    {
+      "word_arabic": "سَيِّئَةٞ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21173,
+      "word_number_in_surah": 1946,
+      "word_surah": 7,
+      "word_translation": "bad",
+      "word_transliteration": "sayyi-atun"
+    },
+    {
+      "word_arabic": "يَطَّيَّرُواْ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21174,
+      "word_number_in_surah": 1947,
+      "word_surah": 7,
+      "word_translation": "they ascribe evil omens",
+      "word_transliteration": "yattayyaru"
+    },
+    {
+      "word_arabic": "بِمُوسَىٰ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21175,
+      "word_number_in_surah": 1948,
+      "word_surah": 7,
+      "word_translation": "to Musa",
+      "word_transliteration": "bimusa"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 131,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21176,
+      "word_number_in_surah": 1949,
+      "word_surah": 7,
+      "word_translation": "and who",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "مَّعَهُۥٓۗ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21177,
+      "word_number_in_surah": 1950,
+      "word_surah": 7,
+      "word_translation": "(were) with him",
+      "word_transliteration": "ma'ahu"
+    },
+    {
+      "word_arabic": "أَلَآ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21178,
+      "word_number_in_surah": 1951,
+      "word_surah": 7,
+      "word_translation": "Behold",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21179,
+      "word_number_in_surah": 1952,
+      "word_surah": 7,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "طَٰٓئِرُهُمۡ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21180,
+      "word_number_in_surah": 1953,
+      "word_surah": 7,
+      "word_translation": "their evil omens",
+      "word_transliteration": "tairuhum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21181,
+      "word_number_in_surah": 1954,
+      "word_surah": 7,
+      "word_translation": "(are) with",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21182,
+      "word_number_in_surah": 1955,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21183,
+      "word_number_in_surah": 1956,
+      "word_surah": 7,
+      "word_translation": "but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "أَكۡثَرَهُمۡ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21184,
+      "word_number_in_surah": 1957,
+      "word_surah": 7,
+      "word_translation": "most of them",
+      "word_transliteration": "aktharahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 21185,
+      "word_number_in_surah": 1958,
+      "word_surah": 7,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 21186,
+      "word_number_in_surah": 1959,
+      "word_surah": 7,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "فَإِذَا جَآءَتۡهُمُ ٱلۡحَسَنَةُ قَالُواْ لَنَا هَٰذِهِۦۖ وَإِن تُصِبۡهُمۡ سَيِّئَةٞ يَطَّيَّرُواْ بِمُوسَىٰ وَمَن مَّعَهُۥٓۗ أَلَآ إِنَّمَا طَٰٓئِرُهُمۡ عِندَ ٱللَّهِ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "fullTranslation": "But when good came to them, they said, \"This is ours [by right].\" And if a bad [condition] struck them, they saw an evil omen in Moses and those with him. Unquestionably, their fortune is with Allah, but most of them do not know.",
+  "fullTransliteration": "fa-idha jaathumu al-hasanatu qalu lana hadhihi wa-in tusib'hum sayyi-atun yattayyaru bimusa waman ma'ahu ala innama tairuhum inda al-lahi walakinna aktharahum la ya'lamuna"
+}

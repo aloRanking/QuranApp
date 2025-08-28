@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 113,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 406,
+    "juz": 4,
+    "manzil": 1,
+    "page": 64,
+    "ruku": 53,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞لَيۡسُواْ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8058,
+      "word_number_in_surah": 1913,
+      "word_surah": 3,
+      "word_translation": "They are not",
+      "word_transliteration": "laysu"
+    },
+    {
+      "word_arabic": "سَوَآءٗۗ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8059,
+      "word_number_in_surah": 1914,
+      "word_surah": 3,
+      "word_translation": "(the) same",
+      "word_transliteration": "sawaan"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8060,
+      "word_number_in_surah": 1915,
+      "word_surah": 3,
+      "word_translation": "among",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8061,
+      "word_number_in_surah": 1916,
+      "word_surah": 3,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahli"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8062,
+      "word_number_in_surah": 1917,
+      "word_surah": 3,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "أُمَّةٞ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8063,
+      "word_number_in_surah": 1918,
+      "word_surah": 3,
+      "word_translation": "(is) a community",
+      "word_transliteration": "ummatun"
+    },
+    {
+      "word_arabic": "قَآئِمَةٞ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8064,
+      "word_number_in_surah": 1919,
+      "word_surah": 3,
+      "word_translation": "standing",
+      "word_transliteration": "qaimatun"
+    },
+    {
+      "word_arabic": "يَتۡلُونَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8065,
+      "word_number_in_surah": 1920,
+      "word_surah": 3,
+      "word_translation": "(and) reciting",
+      "word_transliteration": "yatluna"
+    },
+    {
+      "word_arabic": "ءَايَٰتِ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8066,
+      "word_number_in_surah": 1921,
+      "word_surah": 3,
+      "word_translation": "(the) Verses",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8067,
+      "word_number_in_surah": 1922,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ءَانَآءَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8068,
+      "word_number_in_surah": 1923,
+      "word_surah": 3,
+      "word_translation": "(in the) hours",
+      "word_transliteration": "anaa"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلِ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8069,
+      "word_number_in_surah": 1924,
+      "word_surah": 3,
+      "word_translation": "(of) the night",
+      "word_transliteration": "al-layli"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8070,
+      "word_number_in_surah": 1925,
+      "word_surah": 3,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَسۡجُدُونَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8071,
+      "word_number_in_surah": 1926,
+      "word_surah": 3,
+      "word_translation": "prostrate",
+      "word_transliteration": "yasjuduna"
+    }
+  ],
+  "fullArabic": "۞لَيۡسُواْ سَوَآءٗۗ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ أُمَّةٞ قَآئِمَةٞ يَتۡلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيۡلِ وَهُمۡ يَسۡجُدُونَ",
+  "fullTranslation": "They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allah during periods of the night and prostrating [in prayer].",
+  "fullTransliteration": "laysu sawaan min ahli al-kitabi ummatun qaimatun yatluna ayati al-lahi anaa al-layli wahum yasjuduna"
+}

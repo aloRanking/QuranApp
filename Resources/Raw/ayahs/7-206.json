@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ayah": 206,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1160,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": true,
+    "sajdahDetails": {
+      "id": 1,
+      "recommended": true,
+      "obligatory": false
+    }
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22537,
+      "word_number_in_surah": 3310,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22538,
+      "word_number_in_surah": 3311,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22539,
+      "word_number_in_surah": 3312,
+      "word_surah": 7,
+      "word_translation": "(are) near",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "رَبِّكَ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22540,
+      "word_number_in_surah": 3313,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22541,
+      "word_number_in_surah": 3314,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡتَكۡبِرُونَ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22542,
+      "word_number_in_surah": 3315,
+      "word_surah": 7,
+      "word_translation": "(do) they turn away in pride",
+      "word_transliteration": "yastakbiruna"
+    },
+    {
+      "word_arabic": "عَنۡ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22543,
+      "word_number_in_surah": 3316,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "عِبَادَتِهِۦ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22544,
+      "word_number_in_surah": 3317,
+      "word_surah": 7,
+      "word_translation": "His worship",
+      "word_transliteration": "ibadatihi"
+    },
+    {
+      "word_arabic": "وَيُسَبِّحُونَهُۥ",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22545,
+      "word_number_in_surah": 3318,
+      "word_surah": 7,
+      "word_translation": "And they glorify Him",
+      "word_transliteration": "wayusabbihunahu"
+    },
+    {
+      "word_arabic": "وَلَهُۥ",
+      "word_ayah": 206,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22546,
+      "word_number_in_surah": 3319,
+      "word_surah": 7,
+      "word_translation": "and to Him",
+      "word_transliteration": "walahu"
+    },
+    {
+      "word_arabic": "يَسۡجُدُونَۤ۩",
+      "word_ayah": 206,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22547,
+      "word_number_in_surah": 3320,
+      "word_surah": 7,
+      "word_translation": "they prostrate",
+      "word_transliteration": "yasjuduna"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسۡجُدُونَۤ۩",
+  "fullTranslation": "Indeed, those who are near your Lord are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate.",
+  "fullTransliteration": "inna alladhina inda rabbika la yastakbiruna an ibadatihi wayusabbihunahu walahu yasjuduna"
+}

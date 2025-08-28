@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 23,
+    "surah": 7,
+    "words": 12,
+    "numberInQuran": 977,
+    "juz": 8,
+    "manzil": 2,
+    "page": 153,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19484,
+      "word_number_in_surah": 257,
+      "word_surah": 7,
+      "word_translation": "Both of them said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَبَّنَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19485,
+      "word_number_in_surah": 258,
+      "word_surah": 7,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "ظَلَمۡنَآ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19486,
+      "word_number_in_surah": 259,
+      "word_surah": 7,
+      "word_translation": "we have wronged",
+      "word_transliteration": "zalamna"
+    },
+    {
+      "word_arabic": "أَنفُسَنَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19487,
+      "word_number_in_surah": 260,
+      "word_surah": 7,
+      "word_translation": "ourselves",
+      "word_transliteration": "anfusana"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19488,
+      "word_number_in_surah": 261,
+      "word_surah": 7,
+      "word_translation": "and if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19489,
+      "word_number_in_surah": 262,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَغۡفِرۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19490,
+      "word_number_in_surah": 263,
+      "word_surah": 7,
+      "word_translation": "You forgive",
+      "word_transliteration": "taghfir"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19491,
+      "word_number_in_surah": 264,
+      "word_surah": 7,
+      "word_translation": "[for] us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "وَتَرۡحَمۡنَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19492,
+      "word_number_in_surah": 265,
+      "word_surah": 7,
+      "word_translation": "and have mercy (on) us",
+      "word_transliteration": "watarhamna"
+    },
+    {
+      "word_arabic": "لَنَكُونَنَّ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19493,
+      "word_number_in_surah": 266,
+      "word_surah": 7,
+      "word_translation": "surely we will be",
+      "word_transliteration": "lanakunanna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19494,
+      "word_number_in_surah": 267,
+      "word_surah": 7,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰسِرِينَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19495,
+      "word_number_in_surah": 268,
+      "word_surah": 7,
+      "word_translation": "the losers",
+      "word_transliteration": "al-khasirina"
+    }
+  ],
+  "fullArabic": "قَالَا رَبَّنَا ظَلَمۡنَآ أَنفُسَنَا وَإِن لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا لَنَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ",
+  "fullTranslation": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\"",
+  "fullTransliteration": "qala rabbana zalamna anfusana wa-in lam taghfir lana watarhamna lanakunanna mina al-khasirina"
+}

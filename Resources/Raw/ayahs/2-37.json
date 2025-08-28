@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 37,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 44,
+    "juz": 1,
+    "manzil": 1,
+    "page": 6,
+    "ruku": 5,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَتَلَقَّىٰٓ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 579,
+      "word_number_in_surah": 550,
+      "word_surah": 2,
+      "word_translation": "Then received",
+      "word_transliteration": "fatalaqqa"
+    },
+    {
+      "word_arabic": "ءَادَمُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 580,
+      "word_number_in_surah": 551,
+      "word_surah": 2,
+      "word_translation": "Adam",
+      "word_transliteration": "adamu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 37,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 581,
+      "word_number_in_surah": 552,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّهِۦ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 582,
+      "word_number_in_surah": 553,
+      "word_surah": 2,
+      "word_translation": "his Lord",
+      "word_transliteration": "rabbihi"
+    },
+    {
+      "word_arabic": "كَلِمَٰتٖ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 583,
+      "word_number_in_surah": 554,
+      "word_surah": 2,
+      "word_translation": "words",
+      "word_transliteration": "kalimatin"
+    },
+    {
+      "word_arabic": "فَتَابَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 584,
+      "word_number_in_surah": 555,
+      "word_surah": 2,
+      "word_translation": "So (his Lord) turned",
+      "word_transliteration": "fataba"
+    },
+    {
+      "word_arabic": "عَلَيۡهِۚ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 585,
+      "word_number_in_surah": 556,
+      "word_surah": 2,
+      "word_translation": "towards him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 586,
+      "word_number_in_surah": 557,
+      "word_surah": 2,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 587,
+      "word_number_in_surah": 558,
+      "word_surah": 2,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلتَّوَّابُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 588,
+      "word_number_in_surah": 559,
+      "word_surah": 2,
+      "word_translation": "(is) the Oft-returning (to mercy)",
+      "word_transliteration": "al-tawabu"
+    },
+    {
+      "word_arabic": "ٱلرَّحِيمُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 589,
+      "word_number_in_surah": 560,
+      "word_surah": 2,
+      "word_translation": "the Most Merciful",
+      "word_transliteration": "al-rahimu"
+    }
+  ],
+  "fullArabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٖ فَتَابَ عَلَيۡهِۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "fullTranslation": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful.",
+  "fullTransliteration": "fatalaqqa adamu min rabbihi kalimatin fataba alayhi innahu huwa al-tawabu al-rahimu"
+}

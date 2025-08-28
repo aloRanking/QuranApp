@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "ayah": 35,
+    "surah": 7,
+    "words": 18,
+    "numberInQuran": 989,
+    "juz": 8,
+    "manzil": 2,
+    "page": 154,
+    "ruku": 125,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰبَنِيٓ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19699,
+      "word_number_in_surah": 472,
+      "word_surah": 7,
+      "word_translation": "O Children",
+      "word_transliteration": "yabani"
+    },
+    {
+      "word_arabic": "ءَادَمَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19700,
+      "word_number_in_surah": 473,
+      "word_surah": 7,
+      "word_translation": "(of) Adam!",
+      "word_transliteration": "adama"
+    },
+    {
+      "word_arabic": "إِمَّا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19701,
+      "word_number_in_surah": 474,
+      "word_surah": 7,
+      "word_translation": "If",
+      "word_transliteration": "imma"
+    },
+    {
+      "word_arabic": "يَأۡتِيَنَّكُمۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19702,
+      "word_number_in_surah": 475,
+      "word_surah": 7,
+      "word_translation": "comes to you",
+      "word_transliteration": "yatiyannakum"
+    },
+    {
+      "word_arabic": "رُسُلٞ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19703,
+      "word_number_in_surah": 476,
+      "word_surah": 7,
+      "word_translation": "Messengers",
+      "word_transliteration": "rusulun"
+    },
+    {
+      "word_arabic": "مِّنكُمۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19704,
+      "word_number_in_surah": 477,
+      "word_surah": 7,
+      "word_translation": "from you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "يَقُصُّونَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19705,
+      "word_number_in_surah": 478,
+      "word_surah": 7,
+      "word_translation": "relating",
+      "word_transliteration": "yaqussuna"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19706,
+      "word_number_in_surah": 479,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "ءَايَٰتِي",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19707,
+      "word_number_in_surah": 480,
+      "word_surah": 7,
+      "word_translation": "My Verses",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "فَمَنِ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19708,
+      "word_number_in_surah": 481,
+      "word_surah": 7,
+      "word_translation": "then whoever",
+      "word_transliteration": "famani"
+    },
+    {
+      "word_arabic": "ٱتَّقَىٰ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19709,
+      "word_number_in_surah": 482,
+      "word_surah": 7,
+      "word_translation": "fears Allah",
+      "word_transliteration": "ittaqa"
+    },
+    {
+      "word_arabic": "وَأَصۡلَحَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19710,
+      "word_number_in_surah": 483,
+      "word_surah": 7,
+      "word_translation": "and reforms",
+      "word_transliteration": "wa-aslaha"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19711,
+      "word_number_in_surah": 484,
+      "word_surah": 7,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "خَوۡفٌ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19712,
+      "word_number_in_surah": 485,
+      "word_surah": 7,
+      "word_translation": "fear",
+      "word_transliteration": "khawfun"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19713,
+      "word_number_in_surah": 486,
+      "word_surah": 7,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19714,
+      "word_number_in_surah": 487,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19715,
+      "word_number_in_surah": 488,
+      "word_surah": 7,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يَحۡزَنُونَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19716,
+      "word_number_in_surah": 489,
+      "word_surah": 7,
+      "word_translation": "will grieve",
+      "word_transliteration": "yahzanuna"
+    }
+  ],
+  "fullArabic": "يَٰبَنِيٓ ءَادَمَ إِمَّا يَأۡتِيَنَّكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ ءَايَٰتِي فَمَنِ ٱتَّقَىٰ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "fullTranslation": "O children of Adam, if there come to you messengers from among you relating to you My verses, then whoever fears Allah and reforms - there will be no fear concerning them, nor will they grieve.",
+  "fullTransliteration": "yabani adama imma yatiyannakum rusulun minkum yaqussuna alaykum ayati famani ittaqa wa-aslaha fala khawfun alayhim wala hum yahzanuna"
+}

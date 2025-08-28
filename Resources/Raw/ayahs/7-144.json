@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 144,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1098,
+    "juz": 9,
+    "manzil": 2,
+    "page": 168,
+    "ruku": 138,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21409,
+      "word_number_in_surah": 2182,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "يَٰمُوسَىٰٓ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21410,
+      "word_number_in_surah": 2183,
+      "word_surah": 7,
+      "word_translation": "O Musa!",
+      "word_transliteration": "yamusa"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21411,
+      "word_number_in_surah": 2184,
+      "word_surah": 7,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "ٱصۡطَفَيۡتُكَ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21412,
+      "word_number_in_surah": 2185,
+      "word_surah": 7,
+      "word_translation": "have chosen you",
+      "word_transliteration": "is'tafaytuka"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21413,
+      "word_number_in_surah": 2186,
+      "word_surah": 7,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21414,
+      "word_number_in_surah": 2187,
+      "word_surah": 7,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "بِرِسَٰلَٰتِي",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21415,
+      "word_number_in_surah": 2188,
+      "word_surah": 7,
+      "word_translation": "with My Messages",
+      "word_transliteration": "birisalati"
+    },
+    {
+      "word_arabic": "وَبِكَلَٰمِي",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21416,
+      "word_number_in_surah": 2189,
+      "word_surah": 7,
+      "word_translation": "and with My words",
+      "word_transliteration": "wabikalami"
+    },
+    {
+      "word_arabic": "فَخُذۡ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21417,
+      "word_number_in_surah": 2190,
+      "word_surah": 7,
+      "word_translation": "So take",
+      "word_transliteration": "fakhudh"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21418,
+      "word_number_in_surah": 2191,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ءَاتَيۡتُكَ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21419,
+      "word_number_in_surah": 2192,
+      "word_surah": 7,
+      "word_translation": "I have given you",
+      "word_transliteration": "ataytuka"
+    },
+    {
+      "word_arabic": "وَكُن",
+      "word_ayah": 144,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21420,
+      "word_number_in_surah": 2193,
+      "word_surah": 7,
+      "word_translation": "and be",
+      "word_transliteration": "wakun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21421,
+      "word_number_in_surah": 2194,
+      "word_surah": 7,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلشَّٰكِرِينَ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21422,
+      "word_number_in_surah": 2195,
+      "word_surah": 7,
+      "word_translation": "the grateful",
+      "word_transliteration": "al-shakirina"
+    }
+  ],
+  "fullArabic": "قَالَ يَٰمُوسَىٰٓ إِنِّي ٱصۡطَفَيۡتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِي وَبِكَلَٰمِي فَخُذۡ مَآ ءَاتَيۡتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
+  "fullTranslation": "[Allah] said, \"O Moses, I have chosen you over the people with My messages and My words [to you]. So take what I have given you and be among the grateful.\"",
+  "fullTransliteration": "qala yamusa inni is'tafaytuka ala al-nasi birisalati wabikalami fakhudh ma ataytuka wakun mina al-shakirina"
+}

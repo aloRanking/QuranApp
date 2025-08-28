@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "ayah": 23,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 812,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16509,
+      "word_number_in_surah": 332,
+      "word_surah": 6,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16510,
+      "word_number_in_surah": 333,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَكُن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16511,
+      "word_number_in_surah": 334,
+      "word_surah": 6,
+      "word_translation": "will be",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "فِتۡنَتُهُمۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16512,
+      "word_number_in_surah": 335,
+      "word_surah": 6,
+      "word_translation": "(for) them a plea",
+      "word_transliteration": "fit'natuhum"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16513,
+      "word_number_in_surah": 336,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16514,
+      "word_number_in_surah": 337,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16515,
+      "word_number_in_surah": 338,
+      "word_surah": 6,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "وَٱللَّهِ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16516,
+      "word_number_in_surah": 339,
+      "word_surah": 6,
+      "word_translation": "By Allah",
+      "word_transliteration": "wal-lahi"
+    },
+    {
+      "word_arabic": "رَبِّنَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16517,
+      "word_number_in_surah": 340,
+      "word_surah": 6,
+      "word_translation": "our Lord",
+      "word_transliteration": "rabbina"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16518,
+      "word_number_in_surah": 341,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كُنَّا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16519,
+      "word_number_in_surah": 342,
+      "word_surah": 6,
+      "word_translation": "we were",
+      "word_transliteration": "kunna"
+    },
+    {
+      "word_arabic": "مُشۡرِكِينَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16520,
+      "word_number_in_surah": 343,
+      "word_surah": 6,
+      "word_translation": "those who associated others (with Allah)",
+      "word_transliteration": "mush'rikina"
+    }
+  ],
+  "fullArabic": "ثُمَّ لَمۡ تَكُن فِتۡنَتُهُمۡ إِلَّآ أَن قَالُواْ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشۡرِكِينَ",
+  "fullTranslation": "Then there will be no [excuse upon] examination except they will say, \"By Allah, our Lord, we were not those who associated.\"",
+  "fullTransliteration": "thumma lam takun fit'natuhum illa an qalu wal-lahi rabbina ma kunna mush'rikina"
+}

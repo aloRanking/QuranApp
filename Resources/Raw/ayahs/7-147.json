@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 147,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1101,
+    "juz": 9,
+    "manzil": 2,
+    "page": 168,
+    "ruku": 138,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21479,
+      "word_number_in_surah": 2252,
+      "word_surah": 7,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21480,
+      "word_number_in_surah": 2253,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21481,
+      "word_number_in_surah": 2254,
+      "word_surah": 7,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "وَلِقَآءِ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21482,
+      "word_number_in_surah": 2255,
+      "word_surah": 7,
+      "word_translation": "and (the) meeting",
+      "word_transliteration": "waliqai"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةِ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21483,
+      "word_number_in_surah": 2256,
+      "word_surah": 7,
+      "word_translation": "(of) the Hereafter",
+      "word_transliteration": "al-akhirati"
+    },
+    {
+      "word_arabic": "حَبِطَتۡ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21484,
+      "word_number_in_surah": 2257,
+      "word_surah": 7,
+      "word_translation": "worthless",
+      "word_transliteration": "habitat"
+    },
+    {
+      "word_arabic": "أَعۡمَٰلُهُمۡۚ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21485,
+      "word_number_in_surah": 2258,
+      "word_surah": 7,
+      "word_translation": "(are) their deeds",
+      "word_transliteration": "a'maluhum"
+    },
+    {
+      "word_arabic": "هَلۡ",
+      "word_ayah": 147,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21486,
+      "word_number_in_surah": 2259,
+      "word_surah": 7,
+      "word_translation": "Will",
+      "word_transliteration": "hal"
+    },
+    {
+      "word_arabic": "يُجۡزَوۡنَ",
+      "word_ayah": 147,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21487,
+      "word_number_in_surah": 2260,
+      "word_surah": 7,
+      "word_translation": "they be recompensed",
+      "word_transliteration": "yuj'zawna"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21488,
+      "word_number_in_surah": 2261,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21489,
+      "word_number_in_surah": 2262,
+      "word_surah": 7,
+      "word_translation": "(for) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21490,
+      "word_number_in_surah": 2263,
+      "word_surah": 7,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21491,
+      "word_number_in_surah": 2264,
+      "word_surah": 7,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَا وَلِقَآءِ ٱلۡأٓخِرَةِ حَبِطَتۡ أَعۡمَٰلُهُمۡۚ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "Those who denied Our signs and the meeting of the Hereafter - their deeds have become worthless. Are they recompensed except for what they used to do?",
+  "fullTransliteration": "wa-alladhina kadhabu biayatina waliqai al-akhirati habitat a'maluhum hal yuj'zawna illa ma kanu ya'maluna"
+}

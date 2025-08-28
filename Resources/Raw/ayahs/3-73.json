@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "ayah": 73,
+    "surah": 3,
+    "words": 32,
+    "numberInQuran": 366,
+    "juz": 3,
+    "manzil": 1,
+    "page": 59,
+    "ruku": 49,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7345,
+      "word_number_in_surah": 1200,
+      "word_surah": 3,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُؤۡمِنُوٓاْ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7346,
+      "word_number_in_surah": 1201,
+      "word_surah": 3,
+      "word_translation": "believe",
+      "word_transliteration": "tu'minu"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7347,
+      "word_number_in_surah": 1202,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "لِمَن",
+      "word_ayah": 73,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7348,
+      "word_number_in_surah": 1203,
+      "word_surah": 3,
+      "word_translation": "(the one) who",
+      "word_transliteration": "liman"
+    },
+    {
+      "word_arabic": "تَبِعَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7349,
+      "word_number_in_surah": 1204,
+      "word_surah": 3,
+      "word_translation": "follows",
+      "word_transliteration": "tabi'a"
+    },
+    {
+      "word_arabic": "دِينَكُمۡ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7350,
+      "word_number_in_surah": 1205,
+      "word_surah": 3,
+      "word_translation": "your religion",
+      "word_transliteration": "dinakum"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7351,
+      "word_number_in_surah": 1206,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7352,
+      "word_number_in_surah": 1207,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلۡهُدَىٰ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7353,
+      "word_number_in_surah": 1208,
+      "word_surah": 3,
+      "word_translation": "the (true) guidance",
+      "word_transliteration": "al-huda"
+    },
+    {
+      "word_arabic": "هُدَى",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7354,
+      "word_number_in_surah": 1209,
+      "word_surah": 3,
+      "word_translation": "(is the) Guidance",
+      "word_transliteration": "huda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7355,
+      "word_number_in_surah": 1210,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 73,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7356,
+      "word_number_in_surah": 1211,
+      "word_surah": 3,
+      "word_translation": "lest",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُؤۡتَىٰٓ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7357,
+      "word_number_in_surah": 1212,
+      "word_surah": 3,
+      "word_translation": "is given",
+      "word_transliteration": "yu'ta"
+    },
+    {
+      "word_arabic": "أَحَدٞ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7358,
+      "word_number_in_surah": 1213,
+      "word_surah": 3,
+      "word_translation": "(to) one",
+      "word_transliteration": "ahadun"
+    },
+    {
+      "word_arabic": "مِّثۡلَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7359,
+      "word_number_in_surah": 1214,
+      "word_surah": 3,
+      "word_translation": "(the) like",
+      "word_transliteration": "mith'la"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7360,
+      "word_number_in_surah": 1215,
+      "word_surah": 3,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أُوتِيتُمۡ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7361,
+      "word_number_in_surah": 1216,
+      "word_surah": 3,
+      "word_translation": "was given to you",
+      "word_transliteration": "utitum"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7362,
+      "word_number_in_surah": 1217,
+      "word_surah": 3,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يُحَآجُّوكُمۡ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7363,
+      "word_number_in_surah": 1218,
+      "word_surah": 3,
+      "word_translation": "they may argue with you",
+      "word_transliteration": "yuhajjukum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7364,
+      "word_number_in_surah": 1219,
+      "word_surah": 3,
+      "word_translation": "near",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "رَبِّكُمۡۗ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7365,
+      "word_number_in_surah": 1220,
+      "word_surah": 3,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7366,
+      "word_number_in_surah": 1221,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7367,
+      "word_number_in_surah": 1222,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلۡفَضۡلَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7368,
+      "word_number_in_surah": 1223,
+      "word_surah": 3,
+      "word_translation": "the Bounty",
+      "word_transliteration": "al-fadla"
+    },
+    {
+      "word_arabic": "بِيَدِ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 7369,
+      "word_number_in_surah": 1224,
+      "word_surah": 3,
+      "word_translation": "(is) in the Hand",
+      "word_transliteration": "biyadi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 7370,
+      "word_number_in_surah": 1225,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يُؤۡتِيهِ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 7371,
+      "word_number_in_surah": 1226,
+      "word_surah": 3,
+      "word_translation": "He gives it",
+      "word_transliteration": "yu'tihi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 73,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 7372,
+      "word_number_in_surah": 1227,
+      "word_surah": 3,
+      "word_translation": "(to) whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُۗ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 7373,
+      "word_number_in_surah": 1228,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 7374,
+      "word_number_in_surah": 1229,
+      "word_surah": 3,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "وَٰسِعٌ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 7375,
+      "word_number_in_surah": 1230,
+      "word_surah": 3,
+      "word_translation": "(is) All-Encompassing",
+      "word_transliteration": "wasi'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 7376,
+      "word_number_in_surah": 1231,
+      "word_surah": 3,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَلَا تُؤۡمِنُوٓاْ إِلَّا لِمَن تَبِعَ دِينَكُمۡ قُلۡ إِنَّ ٱلۡهُدَىٰ هُدَى ٱللَّهِ أَن يُؤۡتَىٰٓ أَحَدٞ مِّثۡلَ مَآ أُوتِيتُمۡ أَوۡ يُحَآجُّوكُمۡ عِندَ رَبِّكُمۡۗ قُلۡ إِنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
+  "fullTranslation": "And do not trust except those who follow your religion.\" Say, \"Indeed, the [true] guidance is the guidance of Allah. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?\" Say, \"Indeed, [all] bounty is in the hand of Allah - He grants it to whom He wills. And Allah is all-Encompassing and Wise.\"",
+  "fullTransliteration": "wala tu'minu illa liman tabi'a dinakum qul inna al-huda huda al-lahi an yu'ta ahadun mith'la ma utitum aw yuhajjukum inda rabbikum qul inna al-fadla biyadi al-lahi yu'tihi man yashau wal-lahu wasi'un alimun"
+}

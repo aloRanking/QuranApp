@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 31,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 985,
+    "juz": 8,
+    "manzil": 2,
+    "page": 154,
+    "ruku": 124,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞يَٰبَنِيٓ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19618,
+      "word_number_in_surah": 391,
+      "word_surah": 7,
+      "word_translation": "O Children",
+      "word_transliteration": "yabani"
+    },
+    {
+      "word_arabic": "ءَادَمَ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19619,
+      "word_number_in_surah": 392,
+      "word_surah": 7,
+      "word_translation": "(of) Adam!",
+      "word_transliteration": "adama"
+    },
+    {
+      "word_arabic": "خُذُواْ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19620,
+      "word_number_in_surah": 393,
+      "word_surah": 7,
+      "word_translation": "Take",
+      "word_transliteration": "khudhu"
+    },
+    {
+      "word_arabic": "زِينَتَكُمۡ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19621,
+      "word_number_in_surah": 394,
+      "word_surah": 7,
+      "word_translation": "your adornment",
+      "word_transliteration": "zinatakum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19622,
+      "word_number_in_surah": 395,
+      "word_surah": 7,
+      "word_translation": "at",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19623,
+      "word_number_in_surah": 396,
+      "word_surah": 7,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "مَسۡجِدٖ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19624,
+      "word_number_in_surah": 397,
+      "word_surah": 7,
+      "word_translation": "masjid",
+      "word_transliteration": "masjidin"
+    },
+    {
+      "word_arabic": "وَكُلُواْ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19625,
+      "word_number_in_surah": 398,
+      "word_surah": 7,
+      "word_translation": "and eat",
+      "word_transliteration": "wakulu"
+    },
+    {
+      "word_arabic": "وَٱشۡرَبُواْ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19626,
+      "word_number_in_surah": 399,
+      "word_surah": 7,
+      "word_translation": "and drink",
+      "word_transliteration": "wa-ish'rabu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19627,
+      "word_number_in_surah": 400,
+      "word_surah": 7,
+      "word_translation": "but (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُسۡرِفُوٓاْۚ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19628,
+      "word_number_in_surah": 401,
+      "word_surah": 7,
+      "word_translation": "be extravagant",
+      "word_transliteration": "tus'rifu"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19629,
+      "word_number_in_surah": 402,
+      "word_surah": 7,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19630,
+      "word_number_in_surah": 403,
+      "word_surah": 7,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19631,
+      "word_number_in_surah": 404,
+      "word_surah": 7,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُسۡرِفِينَ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19632,
+      "word_number_in_surah": 405,
+      "word_surah": 7,
+      "word_translation": "the extravagant ones",
+      "word_transliteration": "al-mus'rifina"
+    }
+  ],
+  "fullArabic": "۞يَٰبَنِيٓ ءَادَمَ خُذُواْ زِينَتَكُمۡ عِندَ كُلِّ مَسۡجِدٖ وَكُلُواْ وَٱشۡرَبُواْ وَلَا تُسۡرِفُوٓاْۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُسۡرِفِينَ",
+  "fullTranslation": "O children of Adam, take your adornment at every masjid, and eat and drink, but be not excessive. Indeed, He likes not those who commit excess.",
+  "fullTransliteration": "yabani adama khudhu zinatakum inda kulli masjidin wakulu wa-ish'rabu wala tus'rifu innahu la yuhibbu al-mus'rifina"
+}

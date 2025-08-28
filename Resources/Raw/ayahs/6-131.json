@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ayah": 131,
+    "surah": 6,
+    "words": 10,
+    "numberInQuran": 920,
+    "juz": 8,
+    "manzil": 2,
+    "page": 144,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18462,
+      "word_number_in_surah": 2285,
+      "word_surah": 6,
+      "word_translation": "That (is because)",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 131,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18463,
+      "word_number_in_surah": 2286,
+      "word_surah": 6,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18464,
+      "word_number_in_surah": 2287,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 131,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18465,
+      "word_number_in_surah": 2288,
+      "word_surah": 6,
+      "word_translation": "is",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "رَّبُّكَ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18466,
+      "word_number_in_surah": 2289,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "مُهۡلِكَ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18467,
+      "word_number_in_surah": 2290,
+      "word_surah": 6,
+      "word_translation": "one who destroys",
+      "word_transliteration": "muh'lika"
+    },
+    {
+      "word_arabic": "ٱلۡقُرَىٰ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18468,
+      "word_number_in_surah": 2291,
+      "word_surah": 6,
+      "word_translation": "the cities",
+      "word_transliteration": "al-qura"
+    },
+    {
+      "word_arabic": "بِظُلۡمٖ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18469,
+      "word_number_in_surah": 2292,
+      "word_surah": 6,
+      "word_translation": "for their wrongdoing",
+      "word_transliteration": "bizul'min"
+    },
+    {
+      "word_arabic": "وَأَهۡلُهَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18470,
+      "word_number_in_surah": 2293,
+      "word_surah": 6,
+      "word_translation": "while their people",
+      "word_transliteration": "wa-ahluha"
+    },
+    {
+      "word_arabic": "غَٰفِلُونَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18471,
+      "word_number_in_surah": 2294,
+      "word_surah": 6,
+      "word_translation": "(are) unaware",
+      "word_transliteration": "ghafiluna"
+    }
+  ],
+  "fullArabic": "ذَٰلِكَ أَن لَّمۡ يَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمٖ وَأَهۡلُهَا غَٰفِلُونَ",
+  "fullTranslation": "That is because your Lord would not destroy the cities for wrongdoing while their people were unaware.",
+  "fullTransliteration": "dhalika an lam yakun rabbuka muh'lika al-qura bizul'min wa-ahluha ghafiluna"
+}

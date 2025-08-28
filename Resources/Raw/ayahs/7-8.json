@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "ayah": 8,
+    "surah": 7,
+    "words": 9,
+    "numberInQuran": 962,
+    "juz": 8,
+    "manzil": 2,
+    "page": 151,
+    "ruku": 122,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلۡوَزۡنُ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19290,
+      "word_number_in_surah": 63,
+      "word_surah": 7,
+      "word_translation": "And the weighing",
+      "word_transliteration": "wal-waznu"
+    },
+    {
+      "word_arabic": "يَوۡمَئِذٍ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19291,
+      "word_number_in_surah": 64,
+      "word_surah": 7,
+      "word_translation": "that day",
+      "word_transliteration": "yawma-idhin"
+    },
+    {
+      "word_arabic": "ٱلۡحَقُّۚ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19292,
+      "word_number_in_surah": 65,
+      "word_surah": 7,
+      "word_translation": "(will be) the truth",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 8,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19293,
+      "word_number_in_surah": 66,
+      "word_surah": 7,
+      "word_translation": "So whose",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "ثَقُلَتۡ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19294,
+      "word_number_in_surah": 67,
+      "word_surah": 7,
+      "word_translation": "(will be) heavy",
+      "word_transliteration": "thaqulat"
+    },
+    {
+      "word_arabic": "مَوَٰزِينُهُۥ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19295,
+      "word_number_in_surah": 68,
+      "word_surah": 7,
+      "word_translation": "his scales",
+      "word_transliteration": "mawazinuhu"
+    },
+    {
+      "word_arabic": "فَأُوْلَٰٓئِكَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19296,
+      "word_number_in_surah": 69,
+      "word_surah": 7,
+      "word_translation": "then those",
+      "word_transliteration": "fa-ulaika"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19297,
+      "word_number_in_surah": 70,
+      "word_surah": 7,
+      "word_translation": "[they]",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلۡمُفۡلِحُونَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19298,
+      "word_number_in_surah": 71,
+      "word_surah": 7,
+      "word_translation": "(will be) the successful ones",
+      "word_transliteration": "al-muf'lihuna"
+    }
+  ],
+  "fullArabic": "وَٱلۡوَزۡنُ يَوۡمَئِذٍ ٱلۡحَقُّۚ فَمَن ثَقُلَتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+  "fullTranslation": "And the weighing [of deeds] that Day will be the truth. So those whose scales are heavy - it is they who will be the successful.",
+  "fullTransliteration": "wal-waznu yawma-idhin al-haqu faman thaqulat mawazinuhu fa-ulaika humu al-muf'lihuna"
+}

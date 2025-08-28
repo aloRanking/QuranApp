@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "ayah": 55,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 62,
+    "juz": 1,
+    "manzil": 1,
+    "page": 8,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 800,
+      "word_number_in_surah": 771,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قُلۡتُمۡ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 801,
+      "word_number_in_surah": 772,
+      "word_surah": 2,
+      "word_translation": "you said",
+      "word_transliteration": "qul'tum"
+    },
+    {
+      "word_arabic": "يَٰمُوسَىٰ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 802,
+      "word_number_in_surah": 773,
+      "word_surah": 2,
+      "word_translation": "O Musa",
+      "word_transliteration": "yamusa"
+    },
+    {
+      "word_arabic": "لَن",
+      "word_ayah": 55,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 803,
+      "word_number_in_surah": 774,
+      "word_surah": 2,
+      "word_translation": "Never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "نُّؤۡمِنَ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 804,
+      "word_number_in_surah": 775,
+      "word_surah": 2,
+      "word_translation": "(will) we believe",
+      "word_transliteration": "nu'mina"
+    },
+    {
+      "word_arabic": "لَكَ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 805,
+      "word_number_in_surah": 776,
+      "word_surah": 2,
+      "word_translation": "in you",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 806,
+      "word_number_in_surah": 777,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "نَرَى",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 807,
+      "word_number_in_surah": 778,
+      "word_surah": 2,
+      "word_translation": "we see",
+      "word_transliteration": "nara"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 808,
+      "word_number_in_surah": 779,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "جَهۡرَةٗ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 809,
+      "word_number_in_surah": 780,
+      "word_surah": 2,
+      "word_translation": "manifestly",
+      "word_transliteration": "jahratan"
+    },
+    {
+      "word_arabic": "فَأَخَذَتۡكُمُ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 810,
+      "word_number_in_surah": 781,
+      "word_surah": 2,
+      "word_translation": "So seized you",
+      "word_transliteration": "fa-akhadhatkumu"
+    },
+    {
+      "word_arabic": "ٱلصَّٰعِقَةُ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 811,
+      "word_number_in_surah": 782,
+      "word_surah": 2,
+      "word_translation": "the thunderbolt",
+      "word_transliteration": "al-sa'iqatu"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 812,
+      "word_number_in_surah": 783,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَنظُرُونَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 813,
+      "word_number_in_surah": 784,
+      "word_surah": 2,
+      "word_translation": "(were) looking",
+      "word_transliteration": "tanzuruna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهۡرَةٗ فَأَخَذَتۡكُمُ ٱلصَّٰعِقَةُ وَأَنتُمۡ تَنظُرُونَ",
+  "fullTranslation": "And [recall] when you said, \"O Moses, we will never believe you until we see Allah outright\"; so the thunderbolt took you while you were looking on.",
+  "fullTransliteration": "wa-idh qul'tum yamusa lan nu'mina laka hatta nara al-laha jahratan fa-akhadhatkumu al-sa'iqatu wa-antum tanzuruna"
+}

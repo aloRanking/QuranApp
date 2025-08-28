@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "ayah": 216,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 223,
+    "juz": 2,
+    "manzil": 1,
+    "page": 34,
+    "ruku": 27,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كُتِبَ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4077,
+      "word_number_in_surah": 4048,
+      "word_surah": 2,
+      "word_translation": "Is prescribed",
+      "word_transliteration": "kutiba"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمُ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4078,
+      "word_number_in_surah": 4049,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykumu"
+    },
+    {
+      "word_arabic": "ٱلۡقِتَالُ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4079,
+      "word_number_in_surah": 4050,
+      "word_surah": 2,
+      "word_translation": "[the] fighting",
+      "word_transliteration": "al-qitalu"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4080,
+      "word_number_in_surah": 4051,
+      "word_surah": 2,
+      "word_translation": "while it",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "كُرۡهٞ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4081,
+      "word_number_in_surah": 4052,
+      "word_surah": 2,
+      "word_translation": "(is) hateful",
+      "word_transliteration": "kur'hun"
+    },
+    {
+      "word_arabic": "لَّكُمۡۖ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4082,
+      "word_number_in_surah": 4053,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَعَسَىٰٓ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4083,
+      "word_number_in_surah": 4054,
+      "word_surah": 2,
+      "word_translation": "But perhaps",
+      "word_transliteration": "wa'asa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 216,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4084,
+      "word_number_in_surah": 4055,
+      "word_surah": 2,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَكۡرَهُواْ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4085,
+      "word_number_in_surah": 4056,
+      "word_surah": 2,
+      "word_translation": "you dislike",
+      "word_transliteration": "takrahu"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗا",
+      "word_ayah": 216,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4086,
+      "word_number_in_surah": 4057,
+      "word_surah": 2,
+      "word_translation": "a thing",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4087,
+      "word_number_in_surah": 4058,
+      "word_surah": 2,
+      "word_translation": "and it",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4088,
+      "word_number_in_surah": 4059,
+      "word_surah": 2,
+      "word_translation": "(is) good",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّكُمۡۖ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4089,
+      "word_number_in_surah": 4060,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَعَسَىٰٓ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4090,
+      "word_number_in_surah": 4061,
+      "word_surah": 2,
+      "word_translation": "and perhaps",
+      "word_transliteration": "wa'asa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 216,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4091,
+      "word_number_in_surah": 4062,
+      "word_surah": 2,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تُحِبُّواْ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4092,
+      "word_number_in_surah": 4063,
+      "word_surah": 2,
+      "word_translation": "you love",
+      "word_transliteration": "tuhibbu"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗا",
+      "word_ayah": 216,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4093,
+      "word_number_in_surah": 4064,
+      "word_surah": 2,
+      "word_translation": "a thing",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4094,
+      "word_number_in_surah": 4065,
+      "word_surah": 2,
+      "word_translation": "and it",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "شَرّٞ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4095,
+      "word_number_in_surah": 4066,
+      "word_surah": 2,
+      "word_translation": "(is) bad",
+      "word_transliteration": "sharrun"
+    },
+    {
+      "word_arabic": "لَّكُمۡۚ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4096,
+      "word_number_in_surah": 4067,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4097,
+      "word_number_in_surah": 4068,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَعۡلَمُ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4098,
+      "word_number_in_surah": 4069,
+      "word_surah": 2,
+      "word_translation": "knows",
+      "word_transliteration": "ya'lamu"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 216,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4099,
+      "word_number_in_surah": 4070,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4100,
+      "word_number_in_surah": 4071,
+      "word_surah": 2,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 216,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4101,
+      "word_number_in_surah": 4072,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "كُتِبَ عَلَيۡكُمُ ٱلۡقِتَالُ وَهُوَ كُرۡهٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تَكۡرَهُواْ شَيۡ‍ٔٗا وَهُوَ خَيۡرٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تُحِبُّواْ شَيۡ‍ٔٗا وَهُوَ شَرّٞ لَّكُمۡۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
+  "fullTranslation": "Fighting has been enjoined upon you while it is hateful to you. But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah Knows, while you know not.",
+  "fullTransliteration": "kutiba alaykumu al-qitalu wahuwa kur'hun lakum wa'asa an takrahu shayan wahuwa khayrun lakum wa'asa an tuhibbu shayan wahuwa sharrun lakum wal-lahu ya'lamu wa-antum la ta'lamuna"
+}

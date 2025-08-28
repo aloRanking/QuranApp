@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "ayah": 36,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 990,
+    "juz": 8,
+    "manzil": 2,
+    "page": 154,
+    "ruku": 125,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19717,
+      "word_number_in_surah": 490,
+      "word_surah": 7,
+      "word_translation": "But those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19718,
+      "word_number_in_surah": 491,
+      "word_surah": 7,
+      "word_translation": "deny",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19719,
+      "word_number_in_surah": 492,
+      "word_surah": 7,
+      "word_translation": "Our Verses",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "وَٱسۡتَكۡبَرُواْ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19720,
+      "word_number_in_surah": 493,
+      "word_surah": 7,
+      "word_translation": "and (are) arrogant",
+      "word_transliteration": "wa-is'takbaru"
+    },
+    {
+      "word_arabic": "عَنۡهَآ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19721,
+      "word_number_in_surah": 494,
+      "word_surah": 7,
+      "word_translation": "towards them",
+      "word_transliteration": "anha"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19722,
+      "word_number_in_surah": 495,
+      "word_surah": 7,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبُ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19723,
+      "word_number_in_surah": 496,
+      "word_surah": 7,
+      "word_translation": "(are the) companions",
+      "word_transliteration": "ashabu"
+    },
+    {
+      "word_arabic": "ٱلنَّارِۖ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19724,
+      "word_number_in_surah": 497,
+      "word_surah": 7,
+      "word_translation": "(of) the Fire",
+      "word_transliteration": "al-nari"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19725,
+      "word_number_in_surah": 498,
+      "word_surah": 7,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19726,
+      "word_number_in_surah": 499,
+      "word_surah": 7,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "خَٰلِدُونَ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19727,
+      "word_number_in_surah": 500,
+      "word_surah": 7,
+      "word_translation": "will abide forever",
+      "word_transliteration": "khaliduna"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَا وَٱسۡتَكۡبَرُواْ عَنۡهَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "fullTranslation": "But the ones who deny Our verses and are arrogant toward them - those are the companions of the Fire; they will abide therein eternally.",
+  "fullTransliteration": "wa-alladhina kadhabu biayatina wa-is'takbaru anha ulaika ashabu al-nari hum fiha khaliduna"
+}

@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "ayah": 16,
+    "surah": 5,
+    "words": 18,
+    "numberInQuran": 685,
+    "juz": 6,
+    "manzil": 2,
+    "page": 110,
+    "ruku": 88,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَهۡدِي",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13855,
+      "word_number_in_surah": 482,
+      "word_surah": 5,
+      "word_translation": "Guides",
+      "word_transliteration": "yahdi"
+    },
+    {
+      "word_arabic": "بِهِ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13856,
+      "word_number_in_surah": 483,
+      "word_surah": 5,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13857,
+      "word_number_in_surah": 484,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مَنِ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13858,
+      "word_number_in_surah": 485,
+      "word_surah": 5,
+      "word_translation": "(those) who",
+      "word_transliteration": "mani"
+    },
+    {
+      "word_arabic": "ٱتَّبَعَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13859,
+      "word_number_in_surah": 486,
+      "word_surah": 5,
+      "word_translation": "seek",
+      "word_transliteration": "ittaba'a"
+    },
+    {
+      "word_arabic": "رِضۡوَٰنَهُۥ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13860,
+      "word_number_in_surah": 487,
+      "word_surah": 5,
+      "word_translation": "His pleasure",
+      "word_transliteration": "rid'wanahu"
+    },
+    {
+      "word_arabic": "سُبُلَ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13861,
+      "word_number_in_surah": 488,
+      "word_surah": 5,
+      "word_translation": "(to the) ways",
+      "word_transliteration": "subula"
+    },
+    {
+      "word_arabic": "ٱلسَّلَٰمِ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13862,
+      "word_number_in_surah": 489,
+      "word_surah": 5,
+      "word_translation": "(of) the peace",
+      "word_transliteration": "al-salami"
+    },
+    {
+      "word_arabic": "وَيُخۡرِجُهُم",
+      "word_ayah": 16,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13863,
+      "word_number_in_surah": 490,
+      "word_surah": 5,
+      "word_translation": "and brings them out",
+      "word_transliteration": "wayukh'rijuhum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13864,
+      "word_number_in_surah": 491,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلظُّلُمَٰتِ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13865,
+      "word_number_in_surah": 492,
+      "word_surah": 5,
+      "word_translation": "the darknessess",
+      "word_transliteration": "al-zulumati"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13866,
+      "word_number_in_surah": 493,
+      "word_surah": 5,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلنُّورِ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13867,
+      "word_number_in_surah": 494,
+      "word_surah": 5,
+      "word_translation": "the light",
+      "word_transliteration": "al-nuri"
+    },
+    {
+      "word_arabic": "بِإِذۡنِهِۦ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13868,
+      "word_number_in_surah": 495,
+      "word_surah": 5,
+      "word_translation": "by His permission",
+      "word_transliteration": "bi-idh'nihi"
+    },
+    {
+      "word_arabic": "وَيَهۡدِيهِمۡ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13869,
+      "word_number_in_surah": 496,
+      "word_surah": 5,
+      "word_translation": "and guides them",
+      "word_transliteration": "wayahdihim"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13870,
+      "word_number_in_surah": 497,
+      "word_surah": 5,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "صِرَٰطٖ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13871,
+      "word_number_in_surah": 498,
+      "word_surah": 5,
+      "word_translation": "(the) way",
+      "word_transliteration": "siratin"
+    },
+    {
+      "word_arabic": "مُّسۡتَقِيمٖ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13872,
+      "word_number_in_surah": 499,
+      "word_surah": 5,
+      "word_translation": "(the) straight",
+      "word_transliteration": "mus'taqimin"
+    }
+  ],
+  "fullArabic": "يَهۡدِي بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضۡوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخۡرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِهِۦ وَيَهۡدِيهِمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "fullTranslation": "By which Allah guides those who pursue His pleasure to the ways of peace and brings them out from darknesses into the light, by His permission, and guides them to a straight path.",
+  "fullTransliteration": "yahdi bihi al-lahu mani ittaba'a rid'wanahu subula al-salami wayukh'rijuhum mina al-zulumati ila al-nuri bi-idh'nihi wayahdihim ila siratin mus'taqimin"
+}

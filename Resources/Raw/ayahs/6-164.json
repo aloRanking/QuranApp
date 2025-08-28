@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "ayah": 164,
+    "surah": 6,
+    "words": 29,
+    "numberInQuran": 953,
+    "juz": 8,
+    "manzil": 2,
+    "page": 150,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19178,
+      "word_number_in_surah": 3001,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَغَيۡرَ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19179,
+      "word_number_in_surah": 3002,
+      "word_surah": 6,
+      "word_translation": "Is (it) other than",
+      "word_transliteration": "aghayra"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19180,
+      "word_number_in_surah": 3003,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَبۡغِي",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19181,
+      "word_number_in_surah": 3004,
+      "word_surah": 6,
+      "word_translation": "I (should) seek",
+      "word_transliteration": "abghi"
+    },
+    {
+      "word_arabic": "رَبّٗا",
+      "word_ayah": 164,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19182,
+      "word_number_in_surah": 3005,
+      "word_surah": 6,
+      "word_translation": "(as) a Lord",
+      "word_transliteration": "rabban"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19183,
+      "word_number_in_surah": 3006,
+      "word_surah": 6,
+      "word_translation": "while He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "رَبُّ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19184,
+      "word_number_in_surah": 3007,
+      "word_surah": 6,
+      "word_translation": "(is) the Lord",
+      "word_transliteration": "rabbu"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19185,
+      "word_number_in_surah": 3008,
+      "word_surah": 6,
+      "word_translation": "(of) every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖۚ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19186,
+      "word_number_in_surah": 3009,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19187,
+      "word_number_in_surah": 3010,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكۡسِبُ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19188,
+      "word_number_in_surah": 3011,
+      "word_surah": 6,
+      "word_translation": "earns",
+      "word_transliteration": "taksibu"
+    },
+    {
+      "word_arabic": "كُلُّ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19189,
+      "word_number_in_surah": 3012,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kullu"
+    },
+    {
+      "word_arabic": "نَفۡسٍ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19190,
+      "word_number_in_surah": 3013,
+      "word_surah": 6,
+      "word_translation": "soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19191,
+      "word_number_in_surah": 3014,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "عَلَيۡهَاۚ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19192,
+      "word_number_in_surah": 3015,
+      "word_surah": 6,
+      "word_translation": "against itself",
+      "word_transliteration": "alayha"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19193,
+      "word_number_in_surah": 3016,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَزِرُ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19194,
+      "word_number_in_surah": 3017,
+      "word_surah": 6,
+      "word_translation": "bears",
+      "word_transliteration": "taziru"
+    },
+    {
+      "word_arabic": "وَازِرَةٞ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19195,
+      "word_number_in_surah": 3018,
+      "word_surah": 6,
+      "word_translation": "any bearer of burden",
+      "word_transliteration": "waziratun"
+    },
+    {
+      "word_arabic": "وِزۡرَ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19196,
+      "word_number_in_surah": 3019,
+      "word_surah": 6,
+      "word_translation": "burden",
+      "word_transliteration": "wiz'ra"
+    },
+    {
+      "word_arabic": "أُخۡرَىٰۚ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19197,
+      "word_number_in_surah": 3020,
+      "word_surah": 6,
+      "word_translation": "(of) another",
+      "word_transliteration": "ukh'ra"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19198,
+      "word_number_in_surah": 3021,
+      "word_surah": 6,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19199,
+      "word_number_in_surah": 3022,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "رَبِّكُم",
+      "word_ayah": 164,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19200,
+      "word_number_in_surah": 3023,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "مَّرۡجِعُكُمۡ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 19201,
+      "word_number_in_surah": 3024,
+      "word_surah": 6,
+      "word_translation": "(is) your return",
+      "word_transliteration": "marji'ukum"
+    },
+    {
+      "word_arabic": "فَيُنَبِّئُكُم",
+      "word_ayah": 164,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 19202,
+      "word_number_in_surah": 3025,
+      "word_surah": 6,
+      "word_translation": "then He will inform you",
+      "word_transliteration": "fayunabbi-ukum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 19203,
+      "word_number_in_surah": 3026,
+      "word_surah": 6,
+      "word_translation": "about what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 19204,
+      "word_number_in_surah": 3027,
+      "word_surah": 6,
+      "word_translation": "you were",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 19205,
+      "word_number_in_surah": 3028,
+      "word_surah": 6,
+      "word_translation": "concerning it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "تَخۡتَلِفُونَ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 19206,
+      "word_number_in_surah": 3029,
+      "word_surah": 6,
+      "word_translation": "differing",
+      "word_transliteration": "takhtalifuna"
+    }
+  ],
+  "fullArabic": "قُلۡ أَغَيۡرَ ٱللَّهِ أَبۡغِي رَبّٗا وَهُوَ رَبُّ كُلِّ شَيۡءٖۚ وَلَا تَكۡسِبُ كُلُّ نَفۡسٍ إِلَّا عَلَيۡهَاۚ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+  "fullTranslation": "Say, \"Is it other than Allah I should desire as a lord while He is the Lord of all things? And every soul earns not [blame] except against itself, and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you concerning that over which you used to differ.\"",
+  "fullTransliteration": "qul aghayra al-lahi abghi rabban wahuwa rabbu kulli shayin wala taksibu kullu nafsin illa alayha wala taziru waziratun wiz'ra ukh'ra thumma ila rabbikum marji'ukum fayunabbi-ukum bima kuntum fihi takhtalifuna"
+}

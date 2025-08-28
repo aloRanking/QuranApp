@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 109,
+    "surah": 4,
+    "words": 18,
+    "numberInQuran": 602,
+    "juz": 5,
+    "manzil": 1,
+    "page": 96,
+    "ruku": 77,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هَٰٓأَنتُمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12077,
+      "word_number_in_surah": 2451,
+      "word_surah": 4,
+      "word_translation": "Here you are",
+      "word_transliteration": "haantum"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12078,
+      "word_number_in_surah": 2452,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "جَٰدَلۡتُمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12079,
+      "word_number_in_surah": 2453,
+      "word_surah": 4,
+      "word_translation": "[you] argue",
+      "word_transliteration": "jadaltum"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12080,
+      "word_number_in_surah": 2454,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12081,
+      "word_number_in_surah": 2455,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12082,
+      "word_number_in_surah": 2456,
+      "word_surah": 4,
+      "word_translation": "the life",
+      "word_transliteration": "al-hayati"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12083,
+      "word_number_in_surah": 2457,
+      "word_surah": 4,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 109,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12084,
+      "word_number_in_surah": 2458,
+      "word_surah": 4,
+      "word_translation": "but who",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "يُجَٰدِلُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12085,
+      "word_number_in_surah": 2459,
+      "word_surah": 4,
+      "word_translation": "will argue",
+      "word_transliteration": "yujadilu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12086,
+      "word_number_in_surah": 2460,
+      "word_surah": 4,
+      "word_translation": "(with) Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12087,
+      "word_number_in_surah": 2461,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12088,
+      "word_number_in_surah": 2462,
+      "word_surah": 4,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12089,
+      "word_number_in_surah": 2463,
+      "word_surah": 4,
+      "word_translation": "(of) [the] Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "أَم",
+      "word_ayah": 109,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12090,
+      "word_number_in_surah": 2464,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 109,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12091,
+      "word_number_in_surah": 2465,
+      "word_surah": 4,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَكُونُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12092,
+      "word_number_in_surah": 2466,
+      "word_surah": 4,
+      "word_translation": "will be",
+      "word_transliteration": "yakunu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12093,
+      "word_number_in_surah": 2467,
+      "word_surah": 4,
+      "word_translation": "[over them]",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَكِيلٗا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12094,
+      "word_number_in_surah": 2468,
+      "word_surah": 4,
+      "word_translation": "(their) defender",
+      "word_transliteration": "wakilan"
+    }
+  ],
+  "fullArabic": "هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ جَٰدَلۡتُمۡ عَنۡهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا فَمَن يُجَٰدِلُ ٱللَّهَ عَنۡهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيۡهِمۡ وَكِيلٗا",
+  "fullTranslation": "Here you are - those who argue on their behalf in [this] worldly life - but who will argue with Allah for them on the Day of Resurrection, or who will [then] be their representative?",
+  "fullTransliteration": "haantum haulai jadaltum anhum fi al-hayati al-dun'ya faman yujadilu al-laha anhum yawma al-qiyamati am man yakunu alayhim wakilan"
+}

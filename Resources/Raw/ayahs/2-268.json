@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 268,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 275,
+    "juz": 3,
+    "manzil": 1,
+    "page": 45,
+    "ruku": 38,
+    "hizbQuarter": 18,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5609,
+      "word_number_in_surah": 5580,
+      "word_surah": 2,
+      "word_translation": "The Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "يَعِدُكُمُ",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5610,
+      "word_number_in_surah": 5581,
+      "word_surah": 2,
+      "word_translation": "promises you",
+      "word_transliteration": "ya'idukumu"
+    },
+    {
+      "word_arabic": "ٱلۡفَقۡرَ",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5611,
+      "word_number_in_surah": 5582,
+      "word_surah": 2,
+      "word_translation": "[the] poverty",
+      "word_transliteration": "al-faqra"
+    },
+    {
+      "word_arabic": "وَيَأۡمُرُكُم",
+      "word_ayah": 268,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5612,
+      "word_number_in_surah": 5583,
+      "word_surah": 2,
+      "word_translation": "and orders you",
+      "word_transliteration": "wayamurukum"
+    },
+    {
+      "word_arabic": "بِٱلۡفَحۡشَآءِۖ",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5613,
+      "word_number_in_surah": 5584,
+      "word_surah": 2,
+      "word_translation": "to immorality",
+      "word_transliteration": "bil-fahshai"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 268,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5614,
+      "word_number_in_surah": 5585,
+      "word_surah": 2,
+      "word_translation": "while Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَعِدُكُم",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5615,
+      "word_number_in_surah": 5586,
+      "word_surah": 2,
+      "word_translation": "promises you",
+      "word_transliteration": "ya'idukum"
+    },
+    {
+      "word_arabic": "مَّغۡفِرَةٗ",
+      "word_ayah": 268,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5616,
+      "word_number_in_surah": 5587,
+      "word_surah": 2,
+      "word_translation": "forgiveness",
+      "word_transliteration": "maghfiratan"
+    },
+    {
+      "word_arabic": "مِّنۡهُ",
+      "word_ayah": 268,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5617,
+      "word_number_in_surah": 5588,
+      "word_surah": 2,
+      "word_translation": "from Him",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "وَفَضۡلٗاۗ",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5618,
+      "word_number_in_surah": 5589,
+      "word_surah": 2,
+      "word_translation": "and bounty",
+      "word_transliteration": "wafadlan"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 268,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5619,
+      "word_number_in_surah": 5590,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "وَٰسِعٌ",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5620,
+      "word_number_in_surah": 5591,
+      "word_surah": 2,
+      "word_translation": "(is) All-Encompassing",
+      "word_transliteration": "wasi'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 268,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5621,
+      "word_number_in_surah": 5592,
+      "word_surah": 2,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
+  "fullTranslation": "Satan threatens you with poverty and orders you to immorality, while Allah promises you forgiveness from Him and bounty. And Allah is all-Encompassing and Knowing.",
+  "fullTransliteration": "al-shaytanu ya'idukumu al-faqra wayamurukum bil-fahshai wal-lahu ya'idukum maghfiratan min'hu wafadlan wal-lahu wasi'un alimun"
+}

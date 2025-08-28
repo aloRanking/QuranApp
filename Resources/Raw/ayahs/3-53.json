@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 53,
+    "surah": 3,
+    "words": 9,
+    "numberInQuran": 346,
+    "juz": 3,
+    "manzil": 1,
+    "page": 57,
+    "ruku": 46,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7061,
+      "word_number_in_surah": 916,
+      "word_surah": 3,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7062,
+      "word_number_in_surah": 917,
+      "word_surah": 3,
+      "word_translation": "we believe[d]",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7063,
+      "word_number_in_surah": 918,
+      "word_surah": 3,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلۡتَ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7064,
+      "word_number_in_surah": 919,
+      "word_surah": 3,
+      "word_translation": "You revealed",
+      "word_transliteration": "anzalta"
+    },
+    {
+      "word_arabic": "وَٱتَّبَعۡنَا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7065,
+      "word_number_in_surah": 920,
+      "word_surah": 3,
+      "word_translation": "and we follow[ed]",
+      "word_transliteration": "wa-ittaba'na"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7066,
+      "word_number_in_surah": 921,
+      "word_surah": 3,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasula"
+    },
+    {
+      "word_arabic": "فَٱكۡتُبۡنَا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7067,
+      "word_number_in_surah": 922,
+      "word_surah": 3,
+      "word_translation": "then write us",
+      "word_transliteration": "fa-uk'tub'na"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7068,
+      "word_number_in_surah": 923,
+      "word_surah": 3,
+      "word_translation": "among",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلشَّٰهِدِينَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7069,
+      "word_number_in_surah": 924,
+      "word_surah": 3,
+      "word_translation": "the witnesses",
+      "word_transliteration": "al-shahidina"
+    }
+  ],
+  "fullArabic": "رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلۡتَ وَٱتَّبَعۡنَا ٱلرَّسُولَ فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
+  "fullTranslation": "Our Lord, we have believed in what You revealed and have followed the messenger Jesus, so register us among the witnesses [to truth].\"",
+  "fullTransliteration": "rabbana amanna bima anzalta wa-ittaba'na al-rasula fa-uk'tub'na ma'a al-shahidina"
+}

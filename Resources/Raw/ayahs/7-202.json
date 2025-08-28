@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "ayah": 202,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 1156,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِخۡوَٰنُهُمۡ",
+      "word_ayah": 202,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22483,
+      "word_number_in_surah": 3256,
+      "word_surah": 7,
+      "word_translation": "But their brothers",
+      "word_transliteration": "wa-ikh'wanuhum"
+    },
+    {
+      "word_arabic": "يَمُدُّونَهُمۡ",
+      "word_ayah": 202,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22484,
+      "word_number_in_surah": 3257,
+      "word_surah": 7,
+      "word_translation": "they plunge them",
+      "word_transliteration": "yamuddunahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 202,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22485,
+      "word_number_in_surah": 3258,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡغَيِّ",
+      "word_ayah": 202,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22486,
+      "word_number_in_surah": 3259,
+      "word_surah": 7,
+      "word_translation": "the error",
+      "word_transliteration": "al-ghayi"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 202,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22487,
+      "word_number_in_surah": 3260,
+      "word_surah": 7,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 202,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22488,
+      "word_number_in_surah": 3261,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُقۡصِرُونَ",
+      "word_ayah": 202,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22489,
+      "word_number_in_surah": 3262,
+      "word_surah": 7,
+      "word_translation": "they cease",
+      "word_transliteration": "yuq'siruna"
+    }
+  ],
+  "fullArabic": "وَإِخۡوَٰنُهُمۡ يَمُدُّونَهُمۡ فِي ٱلۡغَيِّ ثُمَّ لَا يُقۡصِرُونَ",
+  "fullTranslation": "But their brothers - the devils increase them in error; then they do not stop short.",
+  "fullTransliteration": "wa-ikh'wanuhum yamuddunahum fi al-ghayi thumma la yuq'siruna"
+}

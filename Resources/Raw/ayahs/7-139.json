@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 139,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 1093,
+    "juz": 9,
+    "manzil": 2,
+    "page": 167,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21308,
+      "word_number_in_surah": 2081,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21309,
+      "word_number_in_surah": 2082,
+      "word_surah": 7,
+      "word_translation": "these",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "مُتَبَّرٞ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21310,
+      "word_number_in_surah": 2083,
+      "word_surah": 7,
+      "word_translation": "destroyed",
+      "word_transliteration": "mutabbarun"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21311,
+      "word_number_in_surah": 2084,
+      "word_surah": 7,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21312,
+      "word_number_in_surah": 2085,
+      "word_surah": 7,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21313,
+      "word_number_in_surah": 2086,
+      "word_surah": 7,
+      "word_translation": "(are) in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "وَبَٰطِلٞ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21314,
+      "word_number_in_surah": 2087,
+      "word_surah": 7,
+      "word_translation": "and vain",
+      "word_transliteration": "wabatilun"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21315,
+      "word_number_in_surah": 2088,
+      "word_surah": 7,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21316,
+      "word_number_in_surah": 2089,
+      "word_surah": 7,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21317,
+      "word_number_in_surah": 2090,
+      "word_surah": 7,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "إِنَّ هَٰٓؤُلَآءِ مُتَبَّرٞ مَّا هُمۡ فِيهِ وَبَٰطِلٞ مَّا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "Indeed, those [worshippers] - destroyed is that in which they are [engaged], and worthless is whatever they were doing.\"",
+  "fullTransliteration": "inna haulai mutabbarun ma hum fihi wabatilun ma kanu ya'maluna"
+}

@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 154,
+    "surah": 4,
+    "words": 19,
+    "numberInQuran": 647,
+    "juz": 6,
+    "manzil": 1,
+    "page": 102,
+    "ruku": 83,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَرَفَعۡنَا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12920,
+      "word_number_in_surah": 3294,
+      "word_surah": 4,
+      "word_translation": "And We raised",
+      "word_transliteration": "warafa'na"
+    },
+    {
+      "word_arabic": "فَوۡقَهُمُ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12921,
+      "word_number_in_surah": 3295,
+      "word_surah": 4,
+      "word_translation": "over them",
+      "word_transliteration": "fawqahumu"
+    },
+    {
+      "word_arabic": "ٱلطُّورَ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12922,
+      "word_number_in_surah": 3296,
+      "word_surah": 4,
+      "word_translation": "the mount",
+      "word_transliteration": "al-tura"
+    },
+    {
+      "word_arabic": "بِمِيثَٰقِهِمۡ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12923,
+      "word_number_in_surah": 3297,
+      "word_surah": 4,
+      "word_translation": "for their covenant",
+      "word_transliteration": "bimithaqihim"
+    },
+    {
+      "word_arabic": "وَقُلۡنَا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12924,
+      "word_number_in_surah": 3298,
+      "word_surah": 4,
+      "word_translation": "and We said",
+      "word_transliteration": "waqul'na"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12925,
+      "word_number_in_surah": 3299,
+      "word_surah": 4,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱدۡخُلُواْ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12926,
+      "word_number_in_surah": 3300,
+      "word_surah": 4,
+      "word_translation": "Enter",
+      "word_transliteration": "ud'khulu"
+    },
+    {
+      "word_arabic": "ٱلۡبَابَ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12927,
+      "word_number_in_surah": 3301,
+      "word_surah": 4,
+      "word_translation": "the gate",
+      "word_transliteration": "al-baba"
+    },
+    {
+      "word_arabic": "سُجَّدٗا",
+      "word_ayah": 154,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12928,
+      "word_number_in_surah": 3302,
+      "word_surah": 4,
+      "word_translation": "prostrating",
+      "word_transliteration": "sujjadan"
+    },
+    {
+      "word_arabic": "وَقُلۡنَا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12929,
+      "word_number_in_surah": 3303,
+      "word_surah": 4,
+      "word_translation": "And We said",
+      "word_transliteration": "waqul'na"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12930,
+      "word_number_in_surah": 3304,
+      "word_surah": 4,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12931,
+      "word_number_in_surah": 3305,
+      "word_surah": 4,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡدُواْ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12932,
+      "word_number_in_surah": 3306,
+      "word_surah": 4,
+      "word_translation": "transgress",
+      "word_transliteration": "ta'du"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12933,
+      "word_number_in_surah": 3307,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّبۡتِ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12934,
+      "word_number_in_surah": 3308,
+      "word_surah": 4,
+      "word_translation": "the Sabbath",
+      "word_transliteration": "al-sabti"
+    },
+    {
+      "word_arabic": "وَأَخَذۡنَا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12935,
+      "word_number_in_surah": 3309,
+      "word_surah": 4,
+      "word_translation": "And We took",
+      "word_transliteration": "wa-akhadhna"
+    },
+    {
+      "word_arabic": "مِنۡهُم",
+      "word_ayah": 154,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12936,
+      "word_number_in_surah": 3310,
+      "word_surah": 4,
+      "word_translation": "from them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "مِّيثَٰقًا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12937,
+      "word_number_in_surah": 3311,
+      "word_surah": 4,
+      "word_translation": "a covenant",
+      "word_transliteration": "mithaqan"
+    },
+    {
+      "word_arabic": "غَلِيظٗا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12938,
+      "word_number_in_surah": 3312,
+      "word_surah": 4,
+      "word_translation": "solemn",
+      "word_transliteration": "ghalizan"
+    }
+  ],
+  "fullArabic": "وَرَفَعۡنَا فَوۡقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمۡ وَقُلۡنَا لَهُمُ ٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا وَقُلۡنَا لَهُمۡ لَا تَعۡدُواْ فِي ٱلسَّبۡتِ وَأَخَذۡنَا مِنۡهُم مِّيثَٰقًا غَلِيظٗا",
+  "fullTranslation": "And We raised over them the mount for [refusal of] their covenant; and We said to them, \"Enter the gate bowing humbly\", and We said to them, \"Do not transgress on the sabbath\", and We took from them a solemn covenant.",
+  "fullTransliteration": "warafa'na fawqahumu al-tura bimithaqihim waqul'na lahumu ud'khulu al-baba sujjadan waqul'na lahum la ta'du fi al-sabti wa-akhadhna min'hum mithaqan ghalizan"
+}

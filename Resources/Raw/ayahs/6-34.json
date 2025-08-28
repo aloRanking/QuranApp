@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "ayah": 34,
+    "surah": 6,
+    "words": 22,
+    "numberInQuran": 823,
+    "juz": 7,
+    "manzil": 2,
+    "page": 131,
+    "ruku": 105,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16687,
+      "word_number_in_surah": 510,
+      "word_surah": 6,
+      "word_translation": "And surely",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "كُذِّبَتۡ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16688,
+      "word_number_in_surah": 511,
+      "word_surah": 6,
+      "word_translation": "were rejected",
+      "word_transliteration": "kudhibat"
+    },
+    {
+      "word_arabic": "رُسُلٞ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16689,
+      "word_number_in_surah": 512,
+      "word_surah": 6,
+      "word_translation": "Messengers",
+      "word_transliteration": "rusulun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 34,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16690,
+      "word_number_in_surah": 513,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِكَ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16691,
+      "word_number_in_surah": 514,
+      "word_surah": 6,
+      "word_translation": "before you",
+      "word_transliteration": "qablika"
+    },
+    {
+      "word_arabic": "فَصَبَرُواْ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16692,
+      "word_number_in_surah": 515,
+      "word_surah": 6,
+      "word_translation": "but they were patient",
+      "word_transliteration": "fasabaru"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16693,
+      "word_number_in_surah": 516,
+      "word_surah": 6,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16694,
+      "word_number_in_surah": 517,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كُذِّبُواْ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16695,
+      "word_number_in_surah": 518,
+      "word_surah": 6,
+      "word_translation": "they were rejected",
+      "word_transliteration": "kudhibu"
+    },
+    {
+      "word_arabic": "وَأُوذُواْ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16696,
+      "word_number_in_surah": 519,
+      "word_surah": 6,
+      "word_translation": "and they were harmed",
+      "word_transliteration": "waudhu"
+    },
+    {
+      "word_arabic": "حَتَّىٰٓ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16697,
+      "word_number_in_surah": 520,
+      "word_surah": 6,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "أَتَىٰهُمۡ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16698,
+      "word_number_in_surah": 521,
+      "word_surah": 6,
+      "word_translation": "came to them",
+      "word_transliteration": "atahum"
+    },
+    {
+      "word_arabic": "نَصۡرُنَاۚ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16699,
+      "word_number_in_surah": 522,
+      "word_surah": 6,
+      "word_translation": "Our help",
+      "word_transliteration": "nasruna"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16700,
+      "word_number_in_surah": 523,
+      "word_surah": 6,
+      "word_translation": "And no",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "مُبَدِّلَ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16701,
+      "word_number_in_surah": 524,
+      "word_surah": 6,
+      "word_translation": "one (can) alter",
+      "word_transliteration": "mubaddila"
+    },
+    {
+      "word_arabic": "لِكَلِمَٰتِ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16702,
+      "word_number_in_surah": 525,
+      "word_surah": 6,
+      "word_translation": "(the) words",
+      "word_transliteration": "likalimati"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16703,
+      "word_number_in_surah": 526,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16704,
+      "word_number_in_surah": 527,
+      "word_surah": 6,
+      "word_translation": "and surely",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "جَآءَكَ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16705,
+      "word_number_in_surah": 528,
+      "word_surah": 6,
+      "word_translation": "has come to you",
+      "word_transliteration": "jaaka"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 34,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16706,
+      "word_number_in_surah": 529,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّبَإِيْ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16707,
+      "word_number_in_surah": 530,
+      "word_surah": 6,
+      "word_translation": "(the) news",
+      "word_transliteration": "naba-i"
+    },
+    {
+      "word_arabic": "ٱلۡمُرۡسَلِينَ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16708,
+      "word_number_in_surah": 531,
+      "word_surah": 6,
+      "word_translation": "(of) the Messengers",
+      "word_transliteration": "al-mur'salina"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَ فَصَبَرُواْ عَلَىٰ مَا كُذِّبُواْ وَأُوذُواْ حَتَّىٰٓ أَتَىٰهُمۡ نَصۡرُنَاۚ وَلَا مُبَدِّلَ لِكَلِمَٰتِ ٱللَّهِۚ وَلَقَدۡ جَآءَكَ مِن نَّبَإِيْ ٱلۡمُرۡسَلِينَ",
+  "fullTranslation": "And certainly were messengers denied before you, but they were patient over [the effects of] denial, and they were harmed until Our victory came to them. And none can alter the words of Allah. And there has certainly come to you some information about the [previous] messengers.",
+  "fullTransliteration": "walaqad kudhibat rusulun min qablika fasabaru ala ma kudhibu waudhu hatta atahum nasruna wala mubaddila likalimati al-lahi walaqad jaaka min naba-i al-mur'salina"
+}

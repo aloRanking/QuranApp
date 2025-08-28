@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 109,
+    "surah": 5,
+    "words": 15,
+    "numberInQuran": 778,
+    "juz": 7,
+    "manzil": 2,
+    "page": 126,
+    "ruku": 100,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞يَوۡمَ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15893,
+      "word_number_in_surah": 2520,
+      "word_surah": 5,
+      "word_translation": "(The) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "يَجۡمَعُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15894,
+      "word_number_in_surah": 2521,
+      "word_surah": 5,
+      "word_translation": "will (be) gathered",
+      "word_transliteration": "yajma'u"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15895,
+      "word_number_in_surah": 2522,
+      "word_surah": 5,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلرُّسُلَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15896,
+      "word_number_in_surah": 2523,
+      "word_surah": 5,
+      "word_translation": "the Messengers",
+      "word_transliteration": "al-rusula"
+    },
+    {
+      "word_arabic": "فَيَقُولُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15897,
+      "word_number_in_surah": 2524,
+      "word_surah": 5,
+      "word_translation": "and He will say",
+      "word_transliteration": "fayaqulu"
+    },
+    {
+      "word_arabic": "مَاذَآ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15898,
+      "word_number_in_surah": 2525,
+      "word_surah": 5,
+      "word_translation": "What",
+      "word_transliteration": "madha"
+    },
+    {
+      "word_arabic": "أُجِبۡتُمۡۖ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15899,
+      "word_number_in_surah": 2526,
+      "word_surah": 5,
+      "word_translation": "was (the) response you received",
+      "word_transliteration": "ujib'tum"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15900,
+      "word_number_in_surah": 2527,
+      "word_surah": 5,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15901,
+      "word_number_in_surah": 2528,
+      "word_surah": 5,
+      "word_translation": "(There is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "عِلۡمَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15902,
+      "word_number_in_surah": 2529,
+      "word_surah": 5,
+      "word_translation": "knowledge",
+      "word_transliteration": "il'ma"
+    },
+    {
+      "word_arabic": "لَنَآۖ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15903,
+      "word_number_in_surah": 2530,
+      "word_surah": 5,
+      "word_translation": "for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15904,
+      "word_number_in_surah": 2531,
+      "word_surah": 5,
+      "word_translation": "Indeed You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15905,
+      "word_number_in_surah": 2532,
+      "word_surah": 5,
+      "word_translation": "You",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "عَلَّٰمُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15906,
+      "word_number_in_surah": 2533,
+      "word_surah": 5,
+      "word_translation": "(are the) Knower",
+      "word_transliteration": "allamu"
+    },
+    {
+      "word_arabic": "ٱلۡغُيُوبِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15907,
+      "word_number_in_surah": 2534,
+      "word_surah": 5,
+      "word_translation": "(of) the unseen",
+      "word_transliteration": "al-ghuyubi"
+    }
+  ],
+  "fullArabic": "۞يَوۡمَ يَجۡمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبۡتُمۡۖ قَالُواْ لَا عِلۡمَ لَنَآۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلۡغُيُوبِ",
+  "fullTranslation": "[Be warned of] the Day when Allah will assemble the messengers and say, \"What was the response you received?\" They will say, \"We have no knowledge. Indeed, it is You who is Knower of the unseen\"",
+  "fullTransliteration": "yawma yajma'u al-lahu al-rusula fayaqulu madha ujib'tum qalu la il'ma lana innaka anta allamu al-ghuyubi"
+}

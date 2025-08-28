@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "ayah": 198,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 491,
+    "juz": 4,
+    "manzil": 1,
+    "page": 76,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَٰكِنِ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9566,
+      "word_number_in_surah": 3421,
+      "word_surah": 3,
+      "word_translation": "But",
+      "word_transliteration": "lakini"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9567,
+      "word_number_in_surah": 3422,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱتَّقَوۡاْ",
+      "word_ayah": 198,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9568,
+      "word_number_in_surah": 3423,
+      "word_surah": 3,
+      "word_translation": "fear",
+      "word_transliteration": "ittaqaw"
+    },
+    {
+      "word_arabic": "رَبَّهُمۡ",
+      "word_ayah": 198,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9569,
+      "word_number_in_surah": 3424,
+      "word_surah": 3,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbahum"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 198,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9570,
+      "word_number_in_surah": 3425,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "جَنَّٰتٞ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9571,
+      "word_number_in_surah": 3426,
+      "word_surah": 3,
+      "word_translation": "(will be) Gardens",
+      "word_transliteration": "jannatun"
+    },
+    {
+      "word_arabic": "تَجۡرِي",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9572,
+      "word_number_in_surah": 3427,
+      "word_surah": 3,
+      "word_translation": "flows",
+      "word_transliteration": "tajri"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 198,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9573,
+      "word_number_in_surah": 3428,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "تَحۡتِهَا",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9574,
+      "word_number_in_surah": 3429,
+      "word_surah": 3,
+      "word_translation": "underneath them",
+      "word_transliteration": "tahtiha"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرُ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9575,
+      "word_number_in_surah": 3430,
+      "word_surah": 3,
+      "word_translation": "the rivers",
+      "word_transliteration": "al-anharu"
+    },
+    {
+      "word_arabic": "خَٰلِدِينَ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9576,
+      "word_number_in_surah": 3431,
+      "word_surah": 3,
+      "word_translation": "will abide forever",
+      "word_transliteration": "khalidina"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9577,
+      "word_number_in_surah": 3432,
+      "word_surah": 3,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "نُزُلٗا",
+      "word_ayah": 198,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9578,
+      "word_number_in_surah": 3433,
+      "word_surah": 3,
+      "word_translation": "a hospitality",
+      "word_transliteration": "nuzulan"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 198,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9579,
+      "word_number_in_surah": 3434,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9580,
+      "word_number_in_surah": 3435,
+      "word_surah": 3,
+      "word_translation": "[near]",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9581,
+      "word_number_in_surah": 3436,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9582,
+      "word_number_in_surah": 3437,
+      "word_surah": 3,
+      "word_translation": "And that",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9583,
+      "word_number_in_surah": 3438,
+      "word_surah": 3,
+      "word_translation": "(which is) with",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9584,
+      "word_number_in_surah": 3439,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 198,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9585,
+      "word_number_in_surah": 3440,
+      "word_surah": 3,
+      "word_translation": "(is) best",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لِّلۡأَبۡرَارِ",
+      "word_ayah": 198,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9586,
+      "word_number_in_surah": 3441,
+      "word_surah": 3,
+      "word_translation": "for the righteous",
+      "word_transliteration": "lil'abrari"
+    }
+  ],
+  "fullArabic": "لَٰكِنِ ٱلَّذِينَ ٱتَّقَوۡاْ رَبَّهُمۡ لَهُمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا نُزُلٗا مِّنۡ عِندِ ٱللَّهِۗ وَمَا عِندَ ٱللَّهِ خَيۡرٞ لِّلۡأَبۡرَارِ",
+  "fullTranslation": "But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allah. And that which is with Allah is best for the righteous.",
+  "fullTransliteration": "lakini alladhina ittaqaw rabbahum lahum jannatun tajri min tahtiha al-anharu khalidina fiha nuzulan min indi al-lahi wama inda al-lahi khayrun lil'abrari"
+}

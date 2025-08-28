@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "ayah": 135,
+    "surah": 4,
+    "words": 37,
+    "numberInQuran": 628,
+    "juz": 5,
+    "manzil": 1,
+    "page": 100,
+    "ruku": 81,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞يَٰٓأَيُّهَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12542,
+      "word_number_in_surah": 2916,
+      "word_surah": 4,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12543,
+      "word_number_in_surah": 2917,
+      "word_surah": 4,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12544,
+      "word_number_in_surah": 2918,
+      "word_surah": 4,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "كُونُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12545,
+      "word_number_in_surah": 2919,
+      "word_surah": 4,
+      "word_translation": "Be",
+      "word_transliteration": "kunu"
+    },
+    {
+      "word_arabic": "قَوَّٰمِينَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12546,
+      "word_number_in_surah": 2920,
+      "word_surah": 4,
+      "word_translation": "custodians",
+      "word_transliteration": "qawwamina"
+    },
+    {
+      "word_arabic": "بِٱلۡقِسۡطِ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12547,
+      "word_number_in_surah": 2921,
+      "word_surah": 4,
+      "word_translation": "of justice",
+      "word_transliteration": "bil-qis'ti"
+    },
+    {
+      "word_arabic": "شُهَدَآءَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12548,
+      "word_number_in_surah": 2922,
+      "word_surah": 4,
+      "word_translation": "(as) witnesses",
+      "word_transliteration": "shuhadaa"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12549,
+      "word_number_in_surah": 2923,
+      "word_surah": 4,
+      "word_translation": "to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12550,
+      "word_number_in_surah": 2924,
+      "word_surah": 4,
+      "word_translation": "even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12551,
+      "word_number_in_surah": 2925,
+      "word_surah": 4,
+      "word_translation": "(it is) against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَنفُسِكُمۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12552,
+      "word_number_in_surah": 2926,
+      "word_surah": 4,
+      "word_translation": "yourselves",
+      "word_transliteration": "anfusikum"
+    },
+    {
+      "word_arabic": "أَوِ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12553,
+      "word_number_in_surah": 2927,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "awi"
+    },
+    {
+      "word_arabic": "ٱلۡوَٰلِدَيۡنِ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12554,
+      "word_number_in_surah": 2928,
+      "word_surah": 4,
+      "word_translation": "the parents",
+      "word_transliteration": "al-walidayni"
+    },
+    {
+      "word_arabic": "وَٱلۡأَقۡرَبِينَۚ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12555,
+      "word_number_in_surah": 2929,
+      "word_surah": 4,
+      "word_translation": "and the relatives",
+      "word_transliteration": "wal-aqrabina"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 135,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12556,
+      "word_number_in_surah": 2930,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَكُنۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12557,
+      "word_number_in_surah": 2931,
+      "word_surah": 4,
+      "word_translation": "he be",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "غَنِيًّا",
+      "word_ayah": 135,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12558,
+      "word_number_in_surah": 2932,
+      "word_surah": 4,
+      "word_translation": "rich",
+      "word_transliteration": "ghaniyyan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12559,
+      "word_number_in_surah": 2933,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "فَقِيرٗا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12560,
+      "word_number_in_surah": 2934,
+      "word_surah": 4,
+      "word_translation": "poor",
+      "word_transliteration": "faqiran"
+    },
+    {
+      "word_arabic": "فَٱللَّهُ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12561,
+      "word_number_in_surah": 2935,
+      "word_surah": 4,
+      "word_translation": "for Allah",
+      "word_transliteration": "fal-lahu"
+    },
+    {
+      "word_arabic": "أَوۡلَىٰ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12562,
+      "word_number_in_surah": 2936,
+      "word_surah": 4,
+      "word_translation": "(is) nearer",
+      "word_transliteration": "awla"
+    },
+    {
+      "word_arabic": "بِهِمَاۖ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12563,
+      "word_number_in_surah": 2937,
+      "word_surah": 4,
+      "word_translation": "to both of them",
+      "word_transliteration": "bihima"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 12564,
+      "word_number_in_surah": 2938,
+      "word_surah": 4,
+      "word_translation": "So (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَتَّبِعُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 12565,
+      "word_number_in_surah": 2939,
+      "word_surah": 4,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'u"
+    },
+    {
+      "word_arabic": "ٱلۡهَوَىٰٓ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 12566,
+      "word_number_in_surah": 2940,
+      "word_surah": 4,
+      "word_translation": "the desire",
+      "word_transliteration": "al-hawa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 135,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 12567,
+      "word_number_in_surah": 2941,
+      "word_surah": 4,
+      "word_translation": "lest",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَعۡدِلُواْۚ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 12568,
+      "word_number_in_surah": 2942,
+      "word_surah": 4,
+      "word_translation": "you deviate",
+      "word_transliteration": "ta'dilu"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 135,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 12569,
+      "word_number_in_surah": 2943,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَلۡوُۥٓاْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 12570,
+      "word_number_in_surah": 2944,
+      "word_surah": 4,
+      "word_translation": "you distort",
+      "word_transliteration": "talwu"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 12571,
+      "word_number_in_surah": 2945,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تُعۡرِضُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 12572,
+      "word_number_in_surah": 2946,
+      "word_surah": 4,
+      "word_translation": "refrain",
+      "word_transliteration": "tu'ridu"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 12573,
+      "word_number_in_surah": 2947,
+      "word_surah": 4,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 12574,
+      "word_number_in_surah": 2948,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 12575,
+      "word_number_in_surah": 2949,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 12576,
+      "word_number_in_surah": 2950,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 12577,
+      "word_number_in_surah": 2951,
+      "word_surah": 4,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    },
+    {
+      "word_arabic": "خَبِيرٗا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 12578,
+      "word_number_in_surah": 2952,
+      "word_surah": 4,
+      "word_translation": "All-Aware",
+      "word_transliteration": "khabiran"
+    }
+  ],
+  "fullArabic": "۞يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُواْ قَوَّٰمِينَ بِٱلۡقِسۡطِ شُهَدَآءَ لِلَّهِ وَلَوۡ عَلَىٰٓ أَنفُسِكُمۡ أَوِ ٱلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَۚ إِن يَكُنۡ غَنِيًّا أَوۡ فَقِيرٗا فَٱللَّهُ أَوۡلَىٰ بِهِمَاۖ فَلَا تَتَّبِعُواْ ٱلۡهَوَىٰٓ أَن تَعۡدِلُواْۚ وَإِن تَلۡوُۥٓاْ أَوۡ تُعۡرِضُواْ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا",
+  "fullTranslation": "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allah is more worthy of both. So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allah is ever, with what you do, Acquainted.",
+  "fullTransliteration": "yaayyuha alladhina amanu kunu qawwamina bil-qis'ti shuhadaa lillahi walaw ala anfusikum awi al-walidayni wal-aqrabina in yakun ghaniyyan aw faqiran fal-lahu awla bihima fala tattabi'u al-hawa an ta'dilu wa-in talwu aw tu'ridu fa-inna al-laha kana bima ta'maluna khabiran"
+}

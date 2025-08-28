@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 276,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 283,
+    "juz": 3,
+    "manzil": 1,
+    "page": 47,
+    "ruku": 39,
+    "hizbQuarter": 19,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَمۡحَقُ",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5793,
+      "word_number_in_surah": 5764,
+      "word_surah": 2,
+      "word_translation": "Destroys",
+      "word_transliteration": "yamhaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5794,
+      "word_number_in_surah": 5765,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلرِّبَوٰاْ",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5795,
+      "word_number_in_surah": 5766,
+      "word_surah": 2,
+      "word_translation": "the usury",
+      "word_transliteration": "al-riba"
+    },
+    {
+      "word_arabic": "وَيُرۡبِي",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5796,
+      "word_number_in_surah": 5767,
+      "word_surah": 2,
+      "word_translation": "and (gives) increase",
+      "word_transliteration": "wayur'bi"
+    },
+    {
+      "word_arabic": "ٱلصَّدَقَٰتِۗ",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5797,
+      "word_number_in_surah": 5768,
+      "word_surah": 2,
+      "word_translation": "(for) the charities",
+      "word_transliteration": "al-sadaqati"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 276,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5798,
+      "word_number_in_surah": 5769,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5799,
+      "word_number_in_surah": 5770,
+      "word_surah": 2,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5800,
+      "word_number_in_surah": 5771,
+      "word_surah": 2,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 276,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5801,
+      "word_number_in_surah": 5772,
+      "word_surah": 2,
+      "word_translation": "every",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "كَفَّارٍ",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5802,
+      "word_number_in_surah": 5773,
+      "word_surah": 2,
+      "word_translation": "ungrateful",
+      "word_transliteration": "kaffarin"
+    },
+    {
+      "word_arabic": "أَثِيمٍ",
+      "word_ayah": 276,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5803,
+      "word_number_in_surah": 5774,
+      "word_surah": 2,
+      "word_translation": "sinner",
+      "word_transliteration": "athimin"
+    }
+  ],
+  "fullArabic": "يَمۡحَقُ ٱللَّهُ ٱلرِّبَوٰاْ وَيُرۡبِي ٱلصَّدَقَٰتِۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+  "fullTranslation": "Allah destroys interest and gives increase for charities. And Allah does not like every sinning disbeliever.",
+  "fullTransliteration": "yamhaqu al-lahu al-riba wayur'bi al-sadaqati wal-lahu la yuhibbu kulla kaffarin athimin"
+}

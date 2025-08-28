@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 63,
+    "surah": 5,
+    "words": 13,
+    "numberInQuran": 732,
+    "juz": 6,
+    "manzil": 2,
+    "page": 118,
+    "ruku": 94,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَوۡلَا",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14912,
+      "word_number_in_surah": 1539,
+      "word_surah": 5,
+      "word_translation": "Why (do) not",
+      "word_transliteration": "lawla"
+    },
+    {
+      "word_arabic": "يَنۡهَىٰهُمُ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14913,
+      "word_number_in_surah": 1540,
+      "word_surah": 5,
+      "word_translation": "forbid them",
+      "word_transliteration": "yanhahumu"
+    },
+    {
+      "word_arabic": "ٱلرَّبَّٰنِيُّونَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14914,
+      "word_number_in_surah": 1541,
+      "word_surah": 5,
+      "word_translation": "the Rabbis",
+      "word_transliteration": "al-rabaniyuna"
+    },
+    {
+      "word_arabic": "وَٱلۡأَحۡبَارُ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14915,
+      "word_number_in_surah": 1542,
+      "word_surah": 5,
+      "word_translation": "and the religious scholars",
+      "word_transliteration": "wal-ahbaru"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14916,
+      "word_number_in_surah": 1543,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "قَوۡلِهِمُ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14917,
+      "word_number_in_surah": 1544,
+      "word_surah": 5,
+      "word_translation": "their saying",
+      "word_transliteration": "qawlihimu"
+    },
+    {
+      "word_arabic": "ٱلۡإِثۡمَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14918,
+      "word_number_in_surah": 1545,
+      "word_surah": 5,
+      "word_translation": "the sinful",
+      "word_transliteration": "al-ith'ma"
+    },
+    {
+      "word_arabic": "وَأَكۡلِهِمُ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14919,
+      "word_number_in_surah": 1546,
+      "word_surah": 5,
+      "word_translation": "and their eating",
+      "word_transliteration": "wa-aklihimu"
+    },
+    {
+      "word_arabic": "ٱلسُّحۡتَۚ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14920,
+      "word_number_in_surah": 1547,
+      "word_surah": 5,
+      "word_translation": "(of) the forbidden",
+      "word_transliteration": "al-suh'ta"
+    },
+    {
+      "word_arabic": "لَبِئۡسَ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14921,
+      "word_number_in_surah": 1548,
+      "word_surah": 5,
+      "word_translation": "Surely evil",
+      "word_transliteration": "labi'sa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14922,
+      "word_number_in_surah": 1549,
+      "word_surah": 5,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14923,
+      "word_number_in_surah": 1550,
+      "word_surah": 5,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَصۡنَعُونَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14924,
+      "word_number_in_surah": 1551,
+      "word_surah": 5,
+      "word_translation": "do",
+      "word_transliteration": "yasna'una"
+    }
+  ],
+  "fullArabic": "لَوۡلَا يَنۡهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلۡأَحۡبَارُ عَن قَوۡلِهِمُ ٱلۡإِثۡمَ وَأَكۡلِهِمُ ٱلسُّحۡتَۚ لَبِئۡسَ مَا كَانُواْ يَصۡنَعُونَ",
+  "fullTranslation": "Why do the rabbis and religious scholars not forbid them from saying what is sinful and devouring what is unlawful? How wretched is what they have been practicing.",
+  "fullTransliteration": "lawla yanhahumu al-rabaniyuna wal-ahbaru an qawlihimu al-ith'ma wa-aklihimu al-suh'ta labi'sa ma kanu yasna'una"
+}

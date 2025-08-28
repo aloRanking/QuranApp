@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "ayah": 157,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 450,
+    "juz": 4,
+    "manzil": 1,
+    "page": 70,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَئِن",
+      "word_ayah": 157,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8832,
+      "word_number_in_surah": 2687,
+      "word_surah": 3,
+      "word_translation": "And if",
+      "word_transliteration": "wala-in"
+    },
+    {
+      "word_arabic": "قُتِلۡتُمۡ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8833,
+      "word_number_in_surah": 2688,
+      "word_surah": 3,
+      "word_translation": "you are killed",
+      "word_transliteration": "qutil'tum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8834,
+      "word_number_in_surah": 2689,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8835,
+      "word_number_in_surah": 2690,
+      "word_surah": 3,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8836,
+      "word_number_in_surah": 2691,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8837,
+      "word_number_in_surah": 2692,
+      "word_surah": 3,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "مُتُّمۡ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8838,
+      "word_number_in_surah": 2693,
+      "word_surah": 3,
+      "word_translation": "die[d]",
+      "word_transliteration": "muttum"
+    },
+    {
+      "word_arabic": "لَمَغۡفِرَةٞ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8839,
+      "word_number_in_surah": 2694,
+      "word_surah": 3,
+      "word_translation": "certainly forgiveness",
+      "word_transliteration": "lamaghfiratun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8840,
+      "word_number_in_surah": 2695,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8841,
+      "word_number_in_surah": 2696,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَرَحۡمَةٌ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8842,
+      "word_number_in_surah": 2697,
+      "word_surah": 3,
+      "word_translation": "and Mercy",
+      "word_transliteration": "warahmatun"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8843,
+      "word_number_in_surah": 2698,
+      "word_surah": 3,
+      "word_translation": "(are) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8844,
+      "word_number_in_surah": 2699,
+      "word_surah": 3,
+      "word_translation": "than what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "يَجۡمَعُونَ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8845,
+      "word_number_in_surah": 2700,
+      "word_surah": 3,
+      "word_translation": "they accumulate",
+      "word_transliteration": "yajma'una"
+    }
+  ],
+  "fullArabic": "وَلَئِن قُتِلۡتُمۡ فِي سَبِيلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةٞ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
+  "fullTranslation": "And if you are killed in the cause of Allah or die - then forgiveness from Allah and mercy are better than whatever they accumulate [in this world].",
+  "fullTransliteration": "wala-in qutil'tum fi sabili al-lahi aw muttum lamaghfiratun mina al-lahi warahmatun khayrun mimma yajma'una"
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 66,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1020,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 130,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20281,
+      "word_number_in_surah": 1054,
+      "word_surah": 7,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَأُ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20282,
+      "word_number_in_surah": 1055,
+      "word_surah": 7,
+      "word_translation": "the chiefs",
+      "word_transliteration": "al-mala-u"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20283,
+      "word_number_in_surah": 1056,
+      "word_surah": 7,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20284,
+      "word_number_in_surah": 1057,
+      "word_surah": 7,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 66,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20285,
+      "word_number_in_surah": 1058,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَوۡمِهِۦٓ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20286,
+      "word_number_in_surah": 1059,
+      "word_surah": 7,
+      "word_translation": "his people",
+      "word_transliteration": "qawmihi"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20287,
+      "word_number_in_surah": 1060,
+      "word_surah": 7,
+      "word_translation": "Indeed we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "لَنَرَىٰكَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20288,
+      "word_number_in_surah": 1061,
+      "word_surah": 7,
+      "word_translation": "surely see you",
+      "word_transliteration": "lanaraka"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20289,
+      "word_number_in_surah": 1062,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَفَاهَةٖ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20290,
+      "word_number_in_surah": 1063,
+      "word_surah": 7,
+      "word_translation": "foolishness",
+      "word_transliteration": "safahatin"
+    },
+    {
+      "word_arabic": "وَإِنَّا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20291,
+      "word_number_in_surah": 1064,
+      "word_surah": 7,
+      "word_translation": "and indeed we",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "لَنَظُنُّكَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20292,
+      "word_number_in_surah": 1065,
+      "word_surah": 7,
+      "word_translation": "[we] think you",
+      "word_transliteration": "lanazunnuka"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20293,
+      "word_number_in_surah": 1066,
+      "word_surah": 7,
+      "word_translation": "(are) of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰذِبِينَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20294,
+      "word_number_in_surah": 1067,
+      "word_surah": 7,
+      "word_translation": "the liars",
+      "word_transliteration": "al-kadhibina"
+    }
+  ],
+  "fullArabic": "قَالَ ٱلۡمَلَأُ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦٓ إِنَّا لَنَرَىٰكَ فِي سَفَاهَةٖ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلۡكَٰذِبِينَ",
+  "fullTranslation": "Said the eminent ones who disbelieved among his people, \"Indeed, we see you in foolishness, and indeed, we think you are of the liars.\"",
+  "fullTransliteration": "qala al-mala-u alladhina kafaru min qawmihi inna lanaraka fi safahatin wa-inna lanazunnuka mina al-kadhibina"
+}

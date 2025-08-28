@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "ayah": 119,
+    "surah": 7,
+    "words": 4,
+    "numberInQuran": 1073,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَغُلِبُواْ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21034,
+      "word_number_in_surah": 1807,
+      "word_surah": 7,
+      "word_translation": "So they were defeated",
+      "word_transliteration": "faghulibu"
+    },
+    {
+      "word_arabic": "هُنَالِكَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21035,
+      "word_number_in_surah": 1808,
+      "word_surah": 7,
+      "word_translation": "there",
+      "word_transliteration": "hunalika"
+    },
+    {
+      "word_arabic": "وَٱنقَلَبُواْ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21036,
+      "word_number_in_surah": 1809,
+      "word_surah": 7,
+      "word_translation": "and returned",
+      "word_transliteration": "wa-inqalabu"
+    },
+    {
+      "word_arabic": "صَٰغِرِينَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21037,
+      "word_number_in_surah": 1810,
+      "word_surah": 7,
+      "word_translation": "humiliated",
+      "word_transliteration": "saghirina"
+    }
+  ],
+  "fullArabic": "فَغُلِبُواْ هُنَالِكَ وَٱنقَلَبُواْ صَٰغِرِينَ",
+  "fullTranslation": "And Pharaoh and his people were overcome right there and became debased.",
+  "fullTransliteration": "faghulibu hunalika wa-inqalabu saghirina"
+}

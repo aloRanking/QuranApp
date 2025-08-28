@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "ayah": 236,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 243,
+    "juz": 2,
+    "manzil": 1,
+    "page": 38,
+    "ruku": 32,
+    "hizbQuarter": 15,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4687,
+      "word_number_in_surah": 4658,
+      "word_surah": 2,
+      "word_translation": "(There is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "جُنَاحَ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4688,
+      "word_number_in_surah": 4659,
+      "word_surah": 2,
+      "word_translation": "blame",
+      "word_transliteration": "junaha"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4689,
+      "word_number_in_surah": 4660,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 236,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4690,
+      "word_number_in_surah": 4661,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "طَلَّقۡتُمُ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4691,
+      "word_number_in_surah": 4662,
+      "word_surah": 2,
+      "word_translation": "you divorce",
+      "word_transliteration": "tallaqtumu"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءَ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4692,
+      "word_number_in_surah": 4663,
+      "word_surah": 2,
+      "word_translation": "[the] women",
+      "word_transliteration": "al-nisaa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4693,
+      "word_number_in_surah": 4664,
+      "word_surah": 2,
+      "word_translation": "whom",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 236,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4694,
+      "word_number_in_surah": 4665,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَمَسُّوهُنَّ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4695,
+      "word_number_in_surah": 4666,
+      "word_surah": 2,
+      "word_translation": "you have touched",
+      "word_transliteration": "tamassuhunna"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 236,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4696,
+      "word_number_in_surah": 4667,
+      "word_surah": 2,
+      "word_translation": "nor",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تَفۡرِضُواْ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4697,
+      "word_number_in_surah": 4668,
+      "word_surah": 2,
+      "word_translation": "you specified",
+      "word_transliteration": "tafridu"
+    },
+    {
+      "word_arabic": "لَهُنَّ",
+      "word_ayah": 236,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4698,
+      "word_number_in_surah": 4669,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "lahunna"
+    },
+    {
+      "word_arabic": "فَرِيضَةٗۚ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4699,
+      "word_number_in_surah": 4670,
+      "word_surah": 2,
+      "word_translation": "an obligation (dower)",
+      "word_transliteration": "faridatan"
+    },
+    {
+      "word_arabic": "وَمَتِّعُوهُنَّ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4700,
+      "word_number_in_surah": 4671,
+      "word_surah": 2,
+      "word_translation": "And make provision for them",
+      "word_transliteration": "wamatti'uhunna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4701,
+      "word_number_in_surah": 4672,
+      "word_surah": 2,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡمُوسِعِ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4702,
+      "word_number_in_surah": 4673,
+      "word_surah": 2,
+      "word_translation": "the wealthy",
+      "word_transliteration": "al-musi'i"
+    },
+    {
+      "word_arabic": "قَدَرُهُۥ",
+      "word_ayah": 236,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4703,
+      "word_number_in_surah": 4674,
+      "word_surah": 2,
+      "word_translation": "according to his means",
+      "word_transliteration": "qadaruhu"
+    },
+    {
+      "word_arabic": "وَعَلَى",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4704,
+      "word_number_in_surah": 4675,
+      "word_surah": 2,
+      "word_translation": "and upon",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "ٱلۡمُقۡتِرِ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4705,
+      "word_number_in_surah": 4676,
+      "word_surah": 2,
+      "word_translation": "the poor",
+      "word_transliteration": "al-muq'tiri"
+    },
+    {
+      "word_arabic": "قَدَرُهُۥ",
+      "word_ayah": 236,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4706,
+      "word_number_in_surah": 4677,
+      "word_surah": 2,
+      "word_translation": "according to his means",
+      "word_transliteration": "qadaruhu"
+    },
+    {
+      "word_arabic": "مَتَٰعَۢا",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4707,
+      "word_number_in_surah": 4678,
+      "word_surah": 2,
+      "word_translation": "a provision",
+      "word_transliteration": "mata'an"
+    },
+    {
+      "word_arabic": "بِٱلۡمَعۡرُوفِۖ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4708,
+      "word_number_in_surah": 4679,
+      "word_surah": 2,
+      "word_translation": "in a fair manner",
+      "word_transliteration": "bil-ma'rufi"
+    },
+    {
+      "word_arabic": "حَقًّا",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4709,
+      "word_number_in_surah": 4680,
+      "word_surah": 2,
+      "word_translation": "a duty",
+      "word_transliteration": "haqqan"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4710,
+      "word_number_in_surah": 4681,
+      "word_surah": 2,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡمُحۡسِنِينَ",
+      "word_ayah": 236,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4711,
+      "word_number_in_surah": 4682,
+      "word_surah": 2,
+      "word_translation": "the good-doers",
+      "word_transliteration": "al-muh'sinina"
+    }
+  ],
+  "fullArabic": "لَّا جُنَاحَ عَلَيۡكُمۡ إِن طَلَّقۡتُمُ ٱلنِّسَآءَ مَا لَمۡ تَمَسُّوهُنَّ أَوۡ تَفۡرِضُواْ لَهُنَّ فَرِيضَةٗۚ وَمَتِّعُوهُنَّ عَلَى ٱلۡمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلۡمُقۡتِرِ قَدَرُهُۥ مَتَٰعَۢا بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُحۡسِنِينَ",
+  "fullTranslation": "There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.",
+  "fullTransliteration": "la junaha alaykum in tallaqtumu al-nisaa ma lam tamassuhunna aw tafridu lahunna faridatan wamatti'uhunna ala al-musi'i qadaruhu wa'ala al-muq'tiri qadaruhu mata'an bil-ma'rufi haqqan ala al-muh'sinina"
+}

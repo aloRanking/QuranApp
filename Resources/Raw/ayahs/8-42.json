@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "ayah": 42,
+    "surah": 8,
+    "words": 35,
+    "numberInQuran": 1202,
+    "juz": 10,
+    "manzil": 2,
+    "page": 182,
+    "ruku": 150,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23171,
+      "word_number_in_surah": 624,
+      "word_surah": 8,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "أَنتُم",
+      "word_ayah": 42,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23172,
+      "word_number_in_surah": 625,
+      "word_surah": 8,
+      "word_translation": "you (were)",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "بِٱلۡعُدۡوَةِ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23173,
+      "word_number_in_surah": 626,
+      "word_surah": 8,
+      "word_translation": "on side of the valley",
+      "word_transliteration": "bil-'ud'wati"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23174,
+      "word_number_in_surah": 627,
+      "word_surah": 8,
+      "word_translation": "the nearer",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَهُم",
+      "word_ayah": 42,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23175,
+      "word_number_in_surah": 628,
+      "word_surah": 8,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "بِٱلۡعُدۡوَةِ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23176,
+      "word_number_in_surah": 629,
+      "word_surah": 8,
+      "word_translation": "(were) on the side",
+      "word_transliteration": "bil-'ud'wati"
+    },
+    {
+      "word_arabic": "ٱلۡقُصۡوَىٰ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23177,
+      "word_number_in_surah": 630,
+      "word_surah": 8,
+      "word_translation": "the farther",
+      "word_transliteration": "al-qus'wa"
+    },
+    {
+      "word_arabic": "وَٱلرَّكۡبُ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23178,
+      "word_number_in_surah": 631,
+      "word_surah": 8,
+      "word_translation": "and the caravan",
+      "word_transliteration": "wal-rakbu"
+    },
+    {
+      "word_arabic": "أَسۡفَلَ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23179,
+      "word_number_in_surah": 632,
+      "word_surah": 8,
+      "word_translation": "(was) lower",
+      "word_transliteration": "asfala"
+    },
+    {
+      "word_arabic": "مِنكُمۡۚ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23180,
+      "word_number_in_surah": 633,
+      "word_surah": 8,
+      "word_translation": "than you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23181,
+      "word_number_in_surah": 634,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "تَوَاعَدتُّمۡ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23182,
+      "word_number_in_surah": 635,
+      "word_surah": 8,
+      "word_translation": "you (had) made an appointment",
+      "word_transliteration": "tawa'adttum"
+    },
+    {
+      "word_arabic": "لَٱخۡتَلَفۡتُمۡ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23183,
+      "word_number_in_surah": 636,
+      "word_surah": 8,
+      "word_translation": "certainly you would have failed",
+      "word_transliteration": "la-ikh'talaftum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23184,
+      "word_number_in_surah": 637,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡمِيعَٰدِ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23185,
+      "word_number_in_surah": 638,
+      "word_surah": 8,
+      "word_translation": "the appointment",
+      "word_transliteration": "al-mi'adi"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23186,
+      "word_number_in_surah": 639,
+      "word_surah": 8,
+      "word_translation": "But",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "لِّيَقۡضِيَ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23187,
+      "word_number_in_surah": 640,
+      "word_surah": 8,
+      "word_translation": "that might accomplish",
+      "word_transliteration": "liyaqdiya"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23188,
+      "word_number_in_surah": 641,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَمۡرٗا",
+      "word_ayah": 42,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23189,
+      "word_number_in_surah": 642,
+      "word_surah": 8,
+      "word_translation": "a matter",
+      "word_transliteration": "amran"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23190,
+      "word_number_in_surah": 643,
+      "word_surah": 8,
+      "word_translation": "(that) was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مَفۡعُولٗا",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 23191,
+      "word_number_in_surah": 644,
+      "word_surah": 8,
+      "word_translation": "destined",
+      "word_transliteration": "maf'ulan"
+    },
+    {
+      "word_arabic": "لِّيَهۡلِكَ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 23192,
+      "word_number_in_surah": 645,
+      "word_surah": 8,
+      "word_translation": "that (might be) destroyed",
+      "word_transliteration": "liyahlika"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 23193,
+      "word_number_in_surah": 646,
+      "word_surah": 8,
+      "word_translation": "(those) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "هَلَكَ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 23194,
+      "word_number_in_surah": 647,
+      "word_surah": 8,
+      "word_translation": "(were to be) destroyed",
+      "word_transliteration": "halaka"
+    },
+    {
+      "word_arabic": "عَنۢ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 23195,
+      "word_number_in_surah": 648,
+      "word_surah": 8,
+      "word_translation": "on",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "بَيِّنَةٖ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 23196,
+      "word_number_in_surah": 649,
+      "word_surah": 8,
+      "word_translation": "a clear evidence",
+      "word_transliteration": "bayyinatin"
+    },
+    {
+      "word_arabic": "وَيَحۡيَىٰ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 23197,
+      "word_number_in_surah": 650,
+      "word_surah": 8,
+      "word_translation": "and (might) live",
+      "word_transliteration": "wayahya"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 23198,
+      "word_number_in_surah": 651,
+      "word_surah": 8,
+      "word_translation": "(those) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "حَيَّ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 23199,
+      "word_number_in_surah": 652,
+      "word_surah": 8,
+      "word_translation": "(were to) live",
+      "word_transliteration": "hayya"
+    },
+    {
+      "word_arabic": "عَنۢ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 23200,
+      "word_number_in_surah": 653,
+      "word_surah": 8,
+      "word_translation": "on",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "بَيِّنَةٖۗ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 23201,
+      "word_number_in_surah": 654,
+      "word_surah": 8,
+      "word_translation": "a clear evidence",
+      "word_transliteration": "bayyinatin"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 23202,
+      "word_number_in_surah": 655,
+      "word_surah": 8,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 23203,
+      "word_number_in_surah": 656,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَسَمِيعٌ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 23204,
+      "word_number_in_surah": 657,
+      "word_surah": 8,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "lasami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 23205,
+      "word_number_in_surah": 658,
+      "word_surah": 8,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "إِذۡ أَنتُم بِٱلۡعُدۡوَةِ ٱلدُّنۡيَا وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِي ٱلۡمِيعَٰدِ وَلَٰكِن لِّيَقۡضِيَ ٱللَّهُ أَمۡرٗا كَانَ مَفۡعُولٗا لِّيَهۡلِكَ مَنۡ هَلَكَ عَنۢ بَيِّنَةٖ وَيَحۡيَىٰ مَنۡ حَيَّ عَنۢ بَيِّنَةٖۗ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ",
+  "fullTranslation": "[Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allah might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allah is Hearing and Knowing.",
+  "fullTransliteration": "idh antum bil-'ud'wati al-dun'ya wahum bil-'ud'wati al-qus'wa wal-rakbu asfala minkum walaw tawa'adttum la-ikh'talaftum fi al-mi'adi walakin liyaqdiya al-lahu amran kana maf'ulan liyahlika man halaka an bayyinatin wayahya man hayya an bayyinatin wa-inna al-laha lasami'un alimun"
+}

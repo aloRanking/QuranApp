@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 50,
+    "surah": 8,
+    "words": 13,
+    "numberInQuran": 1210,
+    "juz": 10,
+    "manzil": 2,
+    "page": 183,
+    "ruku": 152,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23341,
+      "word_number_in_surah": 794,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "تَرَىٰٓ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23342,
+      "word_number_in_surah": 795,
+      "word_surah": 8,
+      "word_translation": "you (could) see",
+      "word_transliteration": "tara"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23343,
+      "word_number_in_surah": 796,
+      "word_surah": 8,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "يَتَوَفَّى",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23344,
+      "word_number_in_surah": 797,
+      "word_surah": 8,
+      "word_translation": "take away souls",
+      "word_transliteration": "yatawaffa"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23345,
+      "word_number_in_surah": 798,
+      "word_surah": 8,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23346,
+      "word_number_in_surah": 799,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23347,
+      "word_number_in_surah": 800,
+      "word_surah": 8,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikatu"
+    },
+    {
+      "word_arabic": "يَضۡرِبُونَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23348,
+      "word_number_in_surah": 801,
+      "word_surah": 8,
+      "word_translation": "striking",
+      "word_transliteration": "yadribuna"
+    },
+    {
+      "word_arabic": "وُجُوهَهُمۡ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23349,
+      "word_number_in_surah": 802,
+      "word_surah": 8,
+      "word_translation": "their faces",
+      "word_transliteration": "wujuhahum"
+    },
+    {
+      "word_arabic": "وَأَدۡبَٰرَهُمۡ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23350,
+      "word_number_in_surah": 803,
+      "word_surah": 8,
+      "word_translation": "and their backs",
+      "word_transliteration": "wa-adbarahum"
+    },
+    {
+      "word_arabic": "وَذُوقُواْ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23351,
+      "word_number_in_surah": 804,
+      "word_surah": 8,
+      "word_translation": "Taste",
+      "word_transliteration": "wadhuqu"
+    },
+    {
+      "word_arabic": "عَذَابَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23352,
+      "word_number_in_surah": 805,
+      "word_surah": 8,
+      "word_translation": "(the) punishment",
+      "word_transliteration": "adhaba"
+    },
+    {
+      "word_arabic": "ٱلۡحَرِيقِ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23353,
+      "word_number_in_surah": 806,
+      "word_surah": 8,
+      "word_translation": "(of) the Blazing Fire",
+      "word_transliteration": "al-hariqi"
+    }
+  ],
+  "fullArabic": "وَلَوۡ تَرَىٰٓ إِذۡ يَتَوَفَّى ٱلَّذِينَ كَفَرُواْ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
+  "fullTranslation": "And if you could but see when the angels take the souls of those who disbelieved... They are striking their faces and their backs and [saying], \"Taste the punishment of the Burning Fire.",
+  "fullTransliteration": "walaw tara idh yatawaffa alladhina kafaru al-malaikatu yadribuna wujuhahum wa-adbarahum wadhuqu adhaba al-hariqi"
+}

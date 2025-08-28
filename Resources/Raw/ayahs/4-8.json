@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 8,
+    "surah": 4,
+    "words": 13,
+    "numberInQuran": 501,
+    "juz": 4,
+    "manzil": 1,
+    "page": 78,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9785,
+      "word_number_in_surah": 159,
+      "word_surah": 4,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "حَضَرَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9786,
+      "word_number_in_surah": 160,
+      "word_surah": 4,
+      "word_translation": "present",
+      "word_transliteration": "hadara"
+    },
+    {
+      "word_arabic": "ٱلۡقِسۡمَةَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9787,
+      "word_number_in_surah": 161,
+      "word_surah": 4,
+      "word_translation": "(at) the (time of) division",
+      "word_transliteration": "al-qis'mata"
+    },
+    {
+      "word_arabic": "أُوْلُواْ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9788,
+      "word_number_in_surah": 162,
+      "word_surah": 4,
+      "word_translation": "(of)",
+      "word_transliteration": "ulu"
+    },
+    {
+      "word_arabic": "ٱلۡقُرۡبَىٰ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9789,
+      "word_number_in_surah": 163,
+      "word_surah": 4,
+      "word_translation": "the relatives",
+      "word_transliteration": "al-qur'ba"
+    },
+    {
+      "word_arabic": "وَٱلۡيَتَٰمَىٰ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9790,
+      "word_number_in_surah": 164,
+      "word_surah": 4,
+      "word_translation": "and the orphans",
+      "word_transliteration": "wal-yatama"
+    },
+    {
+      "word_arabic": "وَٱلۡمَسَٰكِينُ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9791,
+      "word_number_in_surah": 165,
+      "word_surah": 4,
+      "word_translation": "and the poor",
+      "word_transliteration": "wal-masakinu"
+    },
+    {
+      "word_arabic": "فَٱرۡزُقُوهُم",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9792,
+      "word_number_in_surah": 166,
+      "word_surah": 4,
+      "word_translation": "then provide them",
+      "word_transliteration": "fa-ur'zuquhum"
+    },
+    {
+      "word_arabic": "مِّنۡهُ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9793,
+      "word_number_in_surah": 167,
+      "word_surah": 4,
+      "word_translation": "from it",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "وَقُولُواْ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9794,
+      "word_number_in_surah": 168,
+      "word_surah": 4,
+      "word_translation": "and speak",
+      "word_transliteration": "waqulu"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9795,
+      "word_number_in_surah": 169,
+      "word_surah": 4,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "قَوۡلٗا",
+      "word_ayah": 8,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9796,
+      "word_number_in_surah": 170,
+      "word_surah": 4,
+      "word_translation": "words",
+      "word_transliteration": "qawlan"
+    },
+    {
+      "word_arabic": "مَّعۡرُوفٗا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9797,
+      "word_number_in_surah": 171,
+      "word_surah": 4,
+      "word_translation": "(of) kindness",
+      "word_transliteration": "ma'rufan"
+    }
+  ],
+  "fullArabic": "وَإِذَا حَضَرَ ٱلۡقِسۡمَةَ أُوْلُواْ ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينُ فَٱرۡزُقُوهُم مِّنۡهُ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
+  "fullTranslation": "And when [other] relatives and orphans and the needy are present at the [time of] division, then provide for them [something] out of the estate and speak to them words of appropriate kindness.",
+  "fullTransliteration": "wa-idha hadara al-qis'mata ulu al-qur'ba wal-yatama wal-masakinu fa-ur'zuquhum min'hu waqulu lahum qawlan ma'rufan"
+}

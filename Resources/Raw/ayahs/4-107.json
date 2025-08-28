@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 107,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 600,
+    "juz": 5,
+    "manzil": 1,
+    "page": 96,
+    "ruku": 77,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12042,
+      "word_number_in_surah": 2416,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُجَٰدِلۡ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12043,
+      "word_number_in_surah": 2417,
+      "word_surah": 4,
+      "word_translation": "argue",
+      "word_transliteration": "tujadil"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12044,
+      "word_number_in_surah": 2418,
+      "word_surah": 4,
+      "word_translation": "for",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12045,
+      "word_number_in_surah": 2419,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَخۡتَانُونَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12046,
+      "word_number_in_surah": 2420,
+      "word_surah": 4,
+      "word_translation": "deceive",
+      "word_transliteration": "yakhtanuna"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡۚ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12047,
+      "word_number_in_surah": 2421,
+      "word_surah": 4,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12048,
+      "word_number_in_surah": 2422,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12049,
+      "word_number_in_surah": 2423,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12050,
+      "word_number_in_surah": 2424,
+      "word_surah": 4,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12051,
+      "word_number_in_surah": 2425,
+      "word_surah": 4,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 107,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12052,
+      "word_number_in_surah": 2426,
+      "word_surah": 4,
+      "word_translation": "(the one) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12053,
+      "word_number_in_surah": 2427,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "خَوَّانًا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12054,
+      "word_number_in_surah": 2428,
+      "word_surah": 4,
+      "word_translation": "treacherous",
+      "word_transliteration": "khawwanan"
+    },
+    {
+      "word_arabic": "أَثِيمٗا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12055,
+      "word_number_in_surah": 2429,
+      "word_surah": 4,
+      "word_translation": "(and) sinful",
+      "word_transliteration": "athiman"
+    }
+  ],
+  "fullArabic": "وَلَا تُجَٰدِلۡ عَنِ ٱلَّذِينَ يَخۡتَانُونَ أَنفُسَهُمۡۚ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمٗا",
+  "fullTranslation": "And do not argue on behalf of those who deceive themselves. Indeed, Allah loves not one who is a habitually sinful deceiver.",
+  "fullTransliteration": "wala tujadil ani alladhina yakhtanuna anfusahum inna al-laha la yuhibbu man kana khawwanan athiman"
+}

@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "ayah": 178,
+    "surah": 3,
+    "words": 17,
+    "numberInQuran": 471,
+    "juz": 4,
+    "manzil": 1,
+    "page": 73,
+    "ruku": 59,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9181,
+      "word_number_in_surah": 3036,
+      "word_surah": 3,
+      "word_translation": "And (let) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَحۡسَبَنَّ",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9182,
+      "word_number_in_surah": 3037,
+      "word_surah": 3,
+      "word_translation": "think",
+      "word_transliteration": "yahsabanna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9183,
+      "word_number_in_surah": 3038,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُوٓاْ",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9184,
+      "word_number_in_surah": 3039,
+      "word_surah": 3,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "أَنَّمَا",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9185,
+      "word_number_in_surah": 3040,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "annama"
+    },
+    {
+      "word_arabic": "نُمۡلِي",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9186,
+      "word_number_in_surah": 3041,
+      "word_surah": 3,
+      "word_translation": "We give respite",
+      "word_transliteration": "num'li"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 178,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9187,
+      "word_number_in_surah": 3042,
+      "word_surah": 3,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 178,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9188,
+      "word_number_in_surah": 3043,
+      "word_surah": 3,
+      "word_translation": "(is) good",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لِّأَنفُسِهِمۡۚ",
+      "word_ayah": 178,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9189,
+      "word_number_in_surah": 3044,
+      "word_surah": 3,
+      "word_translation": "for themselves",
+      "word_transliteration": "li-anfusihim"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9190,
+      "word_number_in_surah": 3045,
+      "word_surah": 3,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "نُمۡلِي",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9191,
+      "word_number_in_surah": 3046,
+      "word_surah": 3,
+      "word_translation": "We give respite",
+      "word_transliteration": "num'li"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 178,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9192,
+      "word_number_in_surah": 3047,
+      "word_surah": 3,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "لِيَزۡدَادُوٓاْ",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9193,
+      "word_number_in_surah": 3048,
+      "word_surah": 3,
+      "word_translation": "so that they may increase",
+      "word_transliteration": "liyazdadu"
+    },
+    {
+      "word_arabic": "إِثۡمٗاۖ",
+      "word_ayah": 178,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9194,
+      "word_number_in_surah": 3049,
+      "word_surah": 3,
+      "word_translation": "(in) sins",
+      "word_transliteration": "ith'man"
+    },
+    {
+      "word_arabic": "وَلَهُمۡ",
+      "word_ayah": 178,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9195,
+      "word_number_in_surah": 3050,
+      "word_surah": 3,
+      "word_translation": "and for them",
+      "word_transliteration": "walahum"
+    },
+    {
+      "word_arabic": "عَذَابٞ",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9196,
+      "word_number_in_surah": 3051,
+      "word_surah": 3,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "مُّهِينٞ",
+      "word_ayah": 178,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9197,
+      "word_number_in_surah": 3052,
+      "word_surah": 3,
+      "word_translation": "humiliating",
+      "word_transliteration": "muhinun"
+    }
+  ],
+  "fullArabic": "وَلَا يَحۡسَبَنَّ ٱلَّذِينَ كَفَرُوٓاْ أَنَّمَا نُمۡلِي لَهُمۡ خَيۡرٞ لِّأَنفُسِهِمۡۚ إِنَّمَا نُمۡلِي لَهُمۡ لِيَزۡدَادُوٓاْ إِثۡمٗاۖ وَلَهُمۡ عَذَابٞ مُّهِينٞ",
+  "fullTranslation": "And let not those who disbelieve ever think that [because] We extend their time [of enjoyment] it is better for them. We only extend it for them so that they may increase in sin, and for them is a humiliating punishment.",
+  "fullTransliteration": "wala yahsabanna alladhina kafaru annama num'li lahum khayrun li-anfusihim innama num'li lahum liyazdadu ith'man walahum adhabun muhinun"
+}

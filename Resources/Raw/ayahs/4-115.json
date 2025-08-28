@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "ayah": 115,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 608,
+    "juz": 5,
+    "manzil": 1,
+    "page": 97,
+    "ruku": 78,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 115,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12192,
+      "word_number_in_surah": 2566,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُشَاقِقِ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12193,
+      "word_number_in_surah": 2567,
+      "word_surah": 4,
+      "word_translation": "opposes",
+      "word_transliteration": "yushaqiqi"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12194,
+      "word_number_in_surah": 2568,
+      "word_surah": 4,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasula"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12195,
+      "word_number_in_surah": 2569,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12196,
+      "word_number_in_surah": 2570,
+      "word_surah": 4,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12197,
+      "word_number_in_surah": 2571,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَبَيَّنَ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12198,
+      "word_number_in_surah": 2572,
+      "word_surah": 4,
+      "word_translation": "(has) become clear",
+      "word_transliteration": "tabayyana"
+    },
+    {
+      "word_arabic": "لَهُ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12199,
+      "word_number_in_surah": 2573,
+      "word_surah": 4,
+      "word_translation": "to him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "ٱلۡهُدَىٰ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12200,
+      "word_number_in_surah": 2574,
+      "word_surah": 4,
+      "word_translation": "(of) the guidance",
+      "word_transliteration": "al-huda"
+    },
+    {
+      "word_arabic": "وَيَتَّبِعۡ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12201,
+      "word_number_in_surah": 2575,
+      "word_surah": 4,
+      "word_translation": "and he follows",
+      "word_transliteration": "wayattabi'"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12202,
+      "word_number_in_surah": 2576,
+      "word_surah": 4,
+      "word_translation": "other than",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12203,
+      "word_number_in_surah": 2577,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12204,
+      "word_number_in_surah": 2578,
+      "word_surah": 4,
+      "word_translation": "(of) the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "نُوَلِّهِۦ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12205,
+      "word_number_in_surah": 2579,
+      "word_surah": 4,
+      "word_translation": "We will turn him",
+      "word_transliteration": "nuwallihi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12206,
+      "word_number_in_surah": 2580,
+      "word_surah": 4,
+      "word_translation": "(to) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَوَلَّىٰ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12207,
+      "word_number_in_surah": 2581,
+      "word_surah": 4,
+      "word_translation": "he (has) turned",
+      "word_transliteration": "tawalla"
+    },
+    {
+      "word_arabic": "وَنُصۡلِهِۦ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12208,
+      "word_number_in_surah": 2582,
+      "word_surah": 4,
+      "word_translation": "and We will burn him",
+      "word_transliteration": "wanus'lihi"
+    },
+    {
+      "word_arabic": "جَهَنَّمَۖ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12209,
+      "word_number_in_surah": 2583,
+      "word_surah": 4,
+      "word_translation": "(in) Hell",
+      "word_transliteration": "jahannama"
+    },
+    {
+      "word_arabic": "وَسَآءَتۡ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12210,
+      "word_number_in_surah": 2584,
+      "word_surah": 4,
+      "word_translation": "and evil it is",
+      "word_transliteration": "wasaat"
+    },
+    {
+      "word_arabic": "مَصِيرًا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12211,
+      "word_number_in_surah": 2585,
+      "word_surah": 4,
+      "word_translation": "(as) a destination",
+      "word_transliteration": "masiran"
+    }
+  ],
+  "fullArabic": "وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُ ٱلۡهُدَىٰ وَيَتَّبِعۡ غَيۡرَ سَبِيلِ ٱلۡمُؤۡمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصۡلِهِۦ جَهَنَّمَۖ وَسَآءَتۡ مَصِيرًا",
+  "fullTranslation": "And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and drive him into Hell, and evil it is as a destination.",
+  "fullTransliteration": "waman yushaqiqi al-rasula min ba'di ma tabayyana lahu al-huda wayattabi' ghayra sabili al-mu'minina nuwallihi ma tawalla wanus'lihi jahannama wasaat masiran"
+}

@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "ayah": 49,
+    "surah": 5,
+    "words": 33,
+    "numberInQuran": 718,
+    "juz": 6,
+    "manzil": 2,
+    "page": 116,
+    "ruku": 92,
+    "hizbQuarter": 46,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَنِ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14632,
+      "word_number_in_surah": 1259,
+      "word_surah": 5,
+      "word_translation": "And that",
+      "word_transliteration": "wa-ani"
+    },
+    {
+      "word_arabic": "ٱحۡكُم",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14633,
+      "word_number_in_surah": 1260,
+      "word_surah": 5,
+      "word_translation": "you judge",
+      "word_transliteration": "uh'kum"
+    },
+    {
+      "word_arabic": "بَيۡنَهُم",
+      "word_ayah": 49,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14634,
+      "word_number_in_surah": 1261,
+      "word_surah": 5,
+      "word_translation": "between them",
+      "word_transliteration": "baynahum"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14635,
+      "word_number_in_surah": 1262,
+      "word_surah": 5,
+      "word_translation": "by what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14636,
+      "word_number_in_surah": 1263,
+      "word_surah": 5,
+      "word_translation": "(has) revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14637,
+      "word_number_in_surah": 1264,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14638,
+      "word_number_in_surah": 1265,
+      "word_surah": 5,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعۡ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14639,
+      "word_number_in_surah": 1266,
+      "word_surah": 5,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'"
+    },
+    {
+      "word_arabic": "أَهۡوَآءَهُمۡ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14640,
+      "word_number_in_surah": 1267,
+      "word_surah": 5,
+      "word_translation": "their vain desires",
+      "word_transliteration": "ahwaahum"
+    },
+    {
+      "word_arabic": "وَٱحۡذَرۡهُمۡ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14641,
+      "word_number_in_surah": 1268,
+      "word_surah": 5,
+      "word_translation": "and beware of them",
+      "word_transliteration": "wa-ih'dharhum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 49,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14642,
+      "word_number_in_surah": 1269,
+      "word_surah": 5,
+      "word_translation": "lest",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَفۡتِنُوكَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14643,
+      "word_number_in_surah": 1270,
+      "word_surah": 5,
+      "word_translation": "they tempt you away",
+      "word_transliteration": "yaftinuka"
+    },
+    {
+      "word_arabic": "عَنۢ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14644,
+      "word_number_in_surah": 1271,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "بَعۡضِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14645,
+      "word_number_in_surah": 1272,
+      "word_surah": 5,
+      "word_translation": "some",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14646,
+      "word_number_in_surah": 1273,
+      "word_surah": 5,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14647,
+      "word_number_in_surah": 1274,
+      "word_surah": 5,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 14648,
+      "word_number_in_surah": 1275,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "إِلَيۡكَۖ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 14649,
+      "word_number_in_surah": 1276,
+      "word_surah": 5,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 49,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 14650,
+      "word_number_in_surah": 1277,
+      "word_surah": 5,
+      "word_translation": "And if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 14651,
+      "word_number_in_surah": 1278,
+      "word_surah": 5,
+      "word_translation": "they turn away",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "فَٱعۡلَمۡ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 14652,
+      "word_number_in_surah": 1279,
+      "word_surah": 5,
+      "word_translation": "then know that",
+      "word_transliteration": "fa-i'lam"
+    },
+    {
+      "word_arabic": "أَنَّمَا",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 14653,
+      "word_number_in_surah": 1280,
+      "word_surah": 5,
+      "word_translation": "only",
+      "word_transliteration": "annama"
+    },
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 14654,
+      "word_number_in_surah": 1281,
+      "word_surah": 5,
+      "word_translation": "intends",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 14655,
+      "word_number_in_surah": 1282,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 49,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 14656,
+      "word_number_in_surah": 1283,
+      "word_surah": 5,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُصِيبَهُم",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 14657,
+      "word_number_in_surah": 1284,
+      "word_surah": 5,
+      "word_translation": "afflict them",
+      "word_transliteration": "yusibahum"
+    },
+    {
+      "word_arabic": "بِبَعۡضِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 14658,
+      "word_number_in_surah": 1285,
+      "word_surah": 5,
+      "word_translation": "for some",
+      "word_transliteration": "biba'di"
+    },
+    {
+      "word_arabic": "ذُنُوبِهِمۡۗ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 14659,
+      "word_number_in_surah": 1286,
+      "word_surah": 5,
+      "word_translation": "(of) their sins",
+      "word_transliteration": "dhunubihim"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 14660,
+      "word_number_in_surah": 1287,
+      "word_surah": 5,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 14661,
+      "word_number_in_surah": 1288,
+      "word_surah": 5,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 14662,
+      "word_number_in_surah": 1289,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 14663,
+      "word_number_in_surah": 1290,
+      "word_surah": 5,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "لَفَٰسِقُونَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 14664,
+      "word_number_in_surah": 1291,
+      "word_surah": 5,
+      "word_translation": "(are) defiantly disobedient",
+      "word_transliteration": "lafasiquna"
+    }
+  ],
+  "fullArabic": "وَأَنِ ٱحۡكُم بَيۡنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡ وَٱحۡذَرۡهُمۡ أَن يَفۡتِنُوكَ عَنۢ بَعۡضِ مَآ أَنزَلَ ٱللَّهُ إِلَيۡكَۖ فَإِن تَوَلَّوۡاْ فَٱعۡلَمۡ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعۡضِ ذُنُوبِهِمۡۗ وَإِنَّ كَثِيرٗا مِّنَ ٱلنَّاسِ لَفَٰسِقُونَ",
+  "fullTranslation": "And judge, [O Muhammad], between them by what Allah has revealed and do not follow their inclinations and beware of them, lest they tempt you away from some of what Allah has revealed to you. And if they turn away - then know that Allah only intends to afflict them with some of their [own] sins. And indeed, many among the people are defiantly disobedient.",
+  "fullTransliteration": "wa-ani uh'kum baynahum bima anzala al-lahu wala tattabi' ahwaahum wa-ih'dharhum an yaftinuka an ba'di ma anzala al-lahu ilayka fa-in tawallaw fa-i'lam annama yuridu al-lahu an yusibahum biba'di dhunubihim wa-inna kathiran mina al-nasi lafasiquna"
+}

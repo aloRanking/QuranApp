@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "ayah": 63,
+    "surah": 3,
+    "words": 6,
+    "numberInQuran": 356,
+    "juz": 3,
+    "manzil": 1,
+    "page": 58,
+    "ruku": 47,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 63,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7199,
+      "word_number_in_surah": 1054,
+      "word_surah": 3,
+      "word_translation": "And if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7200,
+      "word_number_in_surah": 1055,
+      "word_surah": 3,
+      "word_translation": "they turn back",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7201,
+      "word_number_in_surah": 1056,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7202,
+      "word_number_in_surah": 1057,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7203,
+      "word_number_in_surah": 1058,
+      "word_surah": 3,
+      "word_translation": "(is) All-Knowing",
+      "word_transliteration": "alimun"
+    },
+    {
+      "word_arabic": "بِٱلۡمُفۡسِدِينَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7204,
+      "word_number_in_surah": 1059,
+      "word_surah": 3,
+      "word_translation": "of the corrupters",
+      "word_transliteration": "bil-muf'sidina"
+    }
+  ],
+  "fullArabic": "فَإِن تَوَلَّوۡاْ فَإِنَّ ٱللَّهَ عَلِيمُۢ بِٱلۡمُفۡسِدِينَ",
+  "fullTranslation": "But if they turn away, then indeed - Allah is Knowing of the corrupters.",
+  "fullTransliteration": "fa-in tawallaw fa-inna al-laha alimun bil-muf'sidina"
+}

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "ayah": 26,
+    "surah": 7,
+    "words": 19,
+    "numberInQuran": 980,
+    "juz": 8,
+    "manzil": 2,
+    "page": 153,
+    "ruku": 124,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰبَنِيٓ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19515,
+      "word_number_in_surah": 288,
+      "word_surah": 7,
+      "word_translation": "O Children",
+      "word_transliteration": "yabani"
+    },
+    {
+      "word_arabic": "ءَادَمَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19516,
+      "word_number_in_surah": 289,
+      "word_surah": 7,
+      "word_translation": "(of) Adam",
+      "word_transliteration": "adama"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19517,
+      "word_number_in_surah": 290,
+      "word_surah": 7,
+      "word_translation": "Verily",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "أَنزَلۡنَا",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19518,
+      "word_number_in_surah": 291,
+      "word_surah": 7,
+      "word_translation": "We have sent down",
+      "word_transliteration": "anzalna"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19519,
+      "word_number_in_surah": 292,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "لِبَاسٗا",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19520,
+      "word_number_in_surah": 293,
+      "word_surah": 7,
+      "word_translation": "clothing",
+      "word_transliteration": "libasan"
+    },
+    {
+      "word_arabic": "يُوَٰرِي",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19521,
+      "word_number_in_surah": 294,
+      "word_surah": 7,
+      "word_translation": "it covers",
+      "word_transliteration": "yuwari"
+    },
+    {
+      "word_arabic": "سَوۡءَٰتِكُمۡ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19522,
+      "word_number_in_surah": 295,
+      "word_surah": 7,
+      "word_translation": "your shame",
+      "word_transliteration": "sawatikum"
+    },
+    {
+      "word_arabic": "وَرِيشٗاۖ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19523,
+      "word_number_in_surah": 296,
+      "word_surah": 7,
+      "word_translation": "and (as) an adornment",
+      "word_transliteration": "warishan"
+    },
+    {
+      "word_arabic": "وَلِبَاسُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19524,
+      "word_number_in_surah": 297,
+      "word_surah": 7,
+      "word_translation": "But the clothing",
+      "word_transliteration": "walibasu"
+    },
+    {
+      "word_arabic": "ٱلتَّقۡوَىٰ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19525,
+      "word_number_in_surah": 298,
+      "word_surah": 7,
+      "word_translation": "(of) [the] righteousness",
+      "word_transliteration": "al-taqwa"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19526,
+      "word_number_in_surah": 299,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "خَيۡرٞۚ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19527,
+      "word_number_in_surah": 300,
+      "word_surah": 7,
+      "word_translation": "(is) best",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19528,
+      "word_number_in_surah": 301,
+      "word_surah": 7,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19529,
+      "word_number_in_surah": 302,
+      "word_surah": 7,
+      "word_translation": "(is) from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ءَايَٰتِ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19530,
+      "word_number_in_surah": 303,
+      "word_surah": 7,
+      "word_translation": "(the) Signs",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19531,
+      "word_number_in_surah": 304,
+      "word_surah": 7,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19532,
+      "word_number_in_surah": 305,
+      "word_surah": 7,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَذَّكَّرُونَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19533,
+      "word_number_in_surah": 306,
+      "word_surah": 7,
+      "word_translation": "remember",
+      "word_transliteration": "yadhakkaruna"
+    }
+  ],
+  "fullArabic": "يَٰبَنِيٓ ءَادَمَ قَدۡ أَنزَلۡنَا عَلَيۡكُمۡ لِبَاسٗا يُوَٰرِي سَوۡءَٰتِكُمۡ وَرِيشٗاۖ وَلِبَاسُ ٱلتَّقۡوَىٰ ذَٰلِكَ خَيۡرٞۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمۡ يَذَّكَّرُونَ",
+  "fullTranslation": "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best. That is from the signs of Allah that perhaps they will remember.",
+  "fullTransliteration": "yabani adama qad anzalna alaykum libasan yuwari sawatikum warishan walibasu al-taqwa dhalika khayrun dhalika min ayati al-lahi la'allahum yadhakkaruna"
+}

@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "ayah": 145,
+    "surah": 6,
+    "words": 39,
+    "numberInQuran": 934,
+    "juz": 8,
+    "manzil": 2,
+    "page": 147,
+    "ruku": 119,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 145,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18753,
+      "word_number_in_surah": 2576,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لَّآ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18754,
+      "word_number_in_surah": 2577,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أَجِدُ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18755,
+      "word_number_in_surah": 2578,
+      "word_surah": 6,
+      "word_translation": "(do) I find",
+      "word_transliteration": "ajidu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18756,
+      "word_number_in_surah": 2579,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18757,
+      "word_number_in_surah": 2580,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أُوحِيَ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18758,
+      "word_number_in_surah": 2581,
+      "word_surah": 6,
+      "word_translation": "has been revealed",
+      "word_transliteration": "uhiya"
+    },
+    {
+      "word_arabic": "إِلَيَّ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18759,
+      "word_number_in_surah": 2582,
+      "word_surah": 6,
+      "word_translation": "to me",
+      "word_transliteration": "ilayya"
+    },
+    {
+      "word_arabic": "مُحَرَّمًا",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18760,
+      "word_number_in_surah": 2583,
+      "word_surah": 6,
+      "word_translation": "(anything) forbidden",
+      "word_transliteration": "muharraman"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18761,
+      "word_number_in_surah": 2584,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "طَاعِمٖ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18762,
+      "word_number_in_surah": 2585,
+      "word_surah": 6,
+      "word_translation": "an eater",
+      "word_transliteration": "ta'imin"
+    },
+    {
+      "word_arabic": "يَطۡعَمُهُۥٓ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18763,
+      "word_number_in_surah": 2586,
+      "word_surah": 6,
+      "word_translation": "who eats it",
+      "word_transliteration": "yat'amuhu"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18764,
+      "word_number_in_surah": 2587,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 145,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18765,
+      "word_number_in_surah": 2588,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَكُونَ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18766,
+      "word_number_in_surah": 2589,
+      "word_surah": 6,
+      "word_translation": "it be",
+      "word_transliteration": "yakuna"
+    },
+    {
+      "word_arabic": "مَيۡتَةً",
+      "word_ayah": 145,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18767,
+      "word_number_in_surah": 2590,
+      "word_surah": 6,
+      "word_translation": "dead",
+      "word_transliteration": "maytatan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18768,
+      "word_number_in_surah": 2591,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "دَمٗا",
+      "word_ayah": 145,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18769,
+      "word_number_in_surah": 2592,
+      "word_surah": 6,
+      "word_translation": "blood",
+      "word_transliteration": "daman"
+    },
+    {
+      "word_arabic": "مَّسۡفُوحًا",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18770,
+      "word_number_in_surah": 2593,
+      "word_surah": 6,
+      "word_translation": "poured forth",
+      "word_transliteration": "masfuhan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18771,
+      "word_number_in_surah": 2594,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "لَحۡمَ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18772,
+      "word_number_in_surah": 2595,
+      "word_surah": 6,
+      "word_translation": "(the) flesh",
+      "word_transliteration": "lahma"
+    },
+    {
+      "word_arabic": "خِنزِيرٖ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18773,
+      "word_number_in_surah": 2596,
+      "word_surah": 6,
+      "word_translation": "(of) swine",
+      "word_transliteration": "khinzirin"
+    },
+    {
+      "word_arabic": "فَإِنَّهُۥ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18774,
+      "word_number_in_surah": 2597,
+      "word_surah": 6,
+      "word_translation": "for indeed, it",
+      "word_transliteration": "fa-innahu"
+    },
+    {
+      "word_arabic": "رِجۡسٌ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18775,
+      "word_number_in_surah": 2598,
+      "word_surah": 6,
+      "word_translation": "(is) filth",
+      "word_transliteration": "rij'sun"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18776,
+      "word_number_in_surah": 2599,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "فِسۡقًا",
+      "word_ayah": 145,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18777,
+      "word_number_in_surah": 2600,
+      "word_surah": 6,
+      "word_translation": "(it be) disobedience",
+      "word_transliteration": "fis'qan"
+    },
+    {
+      "word_arabic": "أُهِلَّ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18778,
+      "word_number_in_surah": 2601,
+      "word_surah": 6,
+      "word_translation": "[is] dedicated",
+      "word_transliteration": "uhilla"
+    },
+    {
+      "word_arabic": "لِغَيۡرِ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 18779,
+      "word_number_in_surah": 2602,
+      "word_surah": 6,
+      "word_translation": "to other than",
+      "word_transliteration": "lighayri"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 18780,
+      "word_number_in_surah": 2603,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "بِهِۦۚ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 18781,
+      "word_number_in_surah": 2604,
+      "word_surah": 6,
+      "word_translation": "[on it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فَمَنِ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 18782,
+      "word_number_in_surah": 2605,
+      "word_surah": 6,
+      "word_translation": "But whoever",
+      "word_transliteration": "famani"
+    },
+    {
+      "word_arabic": "ٱضۡطُرَّ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 18783,
+      "word_number_in_surah": 2606,
+      "word_surah": 6,
+      "word_translation": "(is) compelled",
+      "word_transliteration": "ud'turra"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 18784,
+      "word_number_in_surah": 2607,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "بَاغٖ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 18785,
+      "word_number_in_surah": 2608,
+      "word_surah": 6,
+      "word_translation": "desiring",
+      "word_transliteration": "baghin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 18786,
+      "word_number_in_surah": 2609,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "عَادٖ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 18787,
+      "word_number_in_surah": 2610,
+      "word_surah": 6,
+      "word_translation": "transgressing",
+      "word_transliteration": "adin"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 18788,
+      "word_number_in_surah": 2611,
+      "word_surah": 6,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 145,
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 18789,
+      "word_number_in_surah": 2612,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 18790,
+      "word_number_in_surah": 2613,
+      "word_surah": 6,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 145,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 18791,
+      "word_number_in_surah": 2614,
+      "word_surah": 6,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "قُل لَّآ أَجِدُ فِي مَآ أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَىٰ طَاعِمٖ يَطۡعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيۡتَةً أَوۡ دَمٗا مَّسۡفُوحًا أَوۡ لَحۡمَ خِنزِيرٖ فَإِنَّهُۥ رِجۡسٌ أَوۡ فِسۡقًا أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۚ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا عَادٖ فَإِنَّ رَبَّكَ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "Say, \"I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful.\"",
+  "fullTransliteration": "qul la ajidu fi ma uhiya ilayya muharraman ala ta'imin yat'amuhu illa an yakuna maytatan aw daman masfuhan aw lahma khinzirin fa-innahu rij'sun aw fis'qan uhilla lighayri al-lahi bihi famani ud'turra ghayra baghin wala adin fa-inna rabbaka ghafurun rahimun"
+}

@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "ayah": 78,
+    "surah": 6,
+    "words": 17,
+    "numberInQuran": 867,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17478,
+      "word_number_in_surah": 1301,
+      "word_surah": 6,
+      "word_translation": "When",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "رَءَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17479,
+      "word_number_in_surah": 1302,
+      "word_surah": 6,
+      "word_translation": "he saw",
+      "word_transliteration": "raa"
+    },
+    {
+      "word_arabic": "ٱلشَّمۡسَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17480,
+      "word_number_in_surah": 1303,
+      "word_surah": 6,
+      "word_translation": "the sun",
+      "word_transliteration": "al-shamsa"
+    },
+    {
+      "word_arabic": "بَازِغَةٗ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17481,
+      "word_number_in_surah": 1304,
+      "word_surah": 6,
+      "word_translation": "rising",
+      "word_transliteration": "bazighatan"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17482,
+      "word_number_in_surah": 1305,
+      "word_surah": 6,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17483,
+      "word_number_in_surah": 1306,
+      "word_surah": 6,
+      "word_translation": "This (is)",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17484,
+      "word_number_in_surah": 1307,
+      "word_surah": 6,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "هَٰذَآ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17485,
+      "word_number_in_surah": 1308,
+      "word_surah": 6,
+      "word_translation": "this (is)",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "أَكۡبَرُۖ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17486,
+      "word_number_in_surah": 1309,
+      "word_surah": 6,
+      "word_translation": "greater",
+      "word_transliteration": "akbaru"
+    },
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17487,
+      "word_number_in_surah": 1310,
+      "word_surah": 6,
+      "word_translation": "But when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَفَلَتۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17488,
+      "word_number_in_surah": 1311,
+      "word_surah": 6,
+      "word_translation": "it set",
+      "word_transliteration": "afalat"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17489,
+      "word_number_in_surah": 1312,
+      "word_surah": 6,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17490,
+      "word_number_in_surah": 1313,
+      "word_surah": 6,
+      "word_translation": "O my people!",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17491,
+      "word_number_in_surah": 1314,
+      "word_surah": 6,
+      "word_translation": "Indeed I am",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "بَرِيٓءٞ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17492,
+      "word_number_in_surah": 1315,
+      "word_surah": 6,
+      "word_translation": "free",
+      "word_transliteration": "barion"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17493,
+      "word_number_in_surah": 1316,
+      "word_surah": 6,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "تُشۡرِكُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17494,
+      "word_number_in_surah": 1317,
+      "word_surah": 6,
+      "word_translation": "you associate (with Allah)",
+      "word_transliteration": "tush'rikuna"
+    }
+  ],
+  "fullArabic": "فَلَمَّا رَءَا ٱلشَّمۡسَ بَازِغَةٗ قَالَ هَٰذَا رَبِّي هَٰذَآ أَكۡبَرُۖ فَلَمَّآ أَفَلَتۡ قَالَ يَٰقَوۡمِ إِنِّي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ",
+  "fullTranslation": "And when he saw the sun rising, he said, \"This is my lord; this is greater.\" But when it set, he said, \"O my people, indeed I am free from what you associate with Allah.",
+  "fullTransliteration": "falamma raa al-shamsa bazighatan qala hadha rabbi hadha akbaru falamma afalat qala yaqawmi inni barion mimma tush'rikuna"
+}

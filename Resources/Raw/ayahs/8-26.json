@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "ayah": 26,
+    "surah": 8,
+    "words": 19,
+    "numberInQuran": 1186,
+    "juz": 9,
+    "manzil": 2,
+    "page": 180,
+    "ruku": 148,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱذۡكُرُوٓاْ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22901,
+      "word_number_in_surah": 354,
+      "word_surah": 8,
+      "word_translation": "And remember",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22902,
+      "word_number_in_surah": 355,
+      "word_surah": 8,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "أَنتُمۡ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22903,
+      "word_number_in_surah": 356,
+      "word_surah": 8,
+      "word_translation": "you",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "قَلِيلٞ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22904,
+      "word_number_in_surah": 357,
+      "word_surah": 8,
+      "word_translation": "(were) few",
+      "word_transliteration": "qalilun"
+    },
+    {
+      "word_arabic": "مُّسۡتَضۡعَفُونَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22905,
+      "word_number_in_surah": 358,
+      "word_surah": 8,
+      "word_translation": "(and) deemed weak",
+      "word_transliteration": "mus'tad'afuna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22906,
+      "word_number_in_surah": 359,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22907,
+      "word_number_in_surah": 360,
+      "word_surah": 8,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "تَخَافُونَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22908,
+      "word_number_in_surah": 361,
+      "word_surah": 8,
+      "word_translation": "fearing",
+      "word_transliteration": "takhafuna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 26,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22909,
+      "word_number_in_surah": 362,
+      "word_surah": 8,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَتَخَطَّفَكُمُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22910,
+      "word_number_in_surah": 363,
+      "word_surah": 8,
+      "word_translation": "might do away with you",
+      "word_transliteration": "yatakhattafakumu"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22911,
+      "word_number_in_surah": 364,
+      "word_surah": 8,
+      "word_translation": "the men",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "فَ‍َٔاوَىٰكُمۡ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22912,
+      "word_number_in_surah": 365,
+      "word_surah": 8,
+      "word_translation": "then He sheltered you",
+      "word_transliteration": "faawakum"
+    },
+    {
+      "word_arabic": "وَأَيَّدَكُم",
+      "word_ayah": 26,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22913,
+      "word_number_in_surah": 366,
+      "word_surah": 8,
+      "word_translation": "and strengthened you",
+      "word_transliteration": "wa-ayyadakum"
+    },
+    {
+      "word_arabic": "بِنَصۡرِهِۦ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22914,
+      "word_number_in_surah": 367,
+      "word_surah": 8,
+      "word_translation": "with His help",
+      "word_transliteration": "binasrihi"
+    },
+    {
+      "word_arabic": "وَرَزَقَكُم",
+      "word_ayah": 26,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22915,
+      "word_number_in_surah": 368,
+      "word_surah": 8,
+      "word_translation": "and provided you",
+      "word_transliteration": "warazaqakum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22916,
+      "word_number_in_surah": 369,
+      "word_surah": 8,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلطَّيِّبَٰتِ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22917,
+      "word_number_in_surah": 370,
+      "word_surah": 8,
+      "word_translation": "the good things",
+      "word_transliteration": "al-tayibati"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22918,
+      "word_number_in_surah": 371,
+      "word_surah": 8,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَشۡكُرُونَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22919,
+      "word_number_in_surah": 372,
+      "word_surah": 8,
+      "word_translation": "(be) thankful",
+      "word_transliteration": "tashkuruna"
+    }
+  ],
+  "fullArabic": "وَٱذۡكُرُوٓاْ إِذۡ أَنتُمۡ قَلِيلٞ مُّسۡتَضۡعَفُونَ فِي ٱلۡأَرۡضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَ‍َٔاوَىٰكُمۡ وَأَيَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ",
+  "fullTranslation": "And remember when you were few and oppressed in the land, fearing that people might abduct you, but He sheltered you, supported you with His victory, and provided you with good things - that you might be grateful.",
+  "fullTransliteration": "wa-udh'kuru idh antum qalilun mus'tad'afuna fi al-ardi takhafuna an yatakhattafakumu al-nasu faawakum wa-ayyadakum binasrihi warazaqakum mina al-tayibati la'allakum tashkuruna"
+}

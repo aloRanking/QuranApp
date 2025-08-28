@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 210,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 217,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هَلۡ",
+      "word_ayah": 210,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3919,
+      "word_number_in_surah": 3890,
+      "word_surah": 2,
+      "word_translation": "Are",
+      "word_transliteration": "hal"
+    },
+    {
+      "word_arabic": "يَنظُرُونَ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3920,
+      "word_number_in_surah": 3891,
+      "word_surah": 2,
+      "word_translation": "they waiting",
+      "word_transliteration": "yanzuruna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3921,
+      "word_number_in_surah": 3892,
+      "word_surah": 2,
+      "word_translation": "[except]",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 210,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3922,
+      "word_number_in_surah": 3893,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَأۡتِيَهُمُ",
+      "word_ayah": 210,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3923,
+      "word_number_in_surah": 3894,
+      "word_surah": 2,
+      "word_translation": "comes to them",
+      "word_transliteration": "yatiyahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3924,
+      "word_number_in_surah": 3895,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3925,
+      "word_number_in_surah": 3896,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ظُلَلٖ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3926,
+      "word_number_in_surah": 3897,
+      "word_surah": 2,
+      "word_translation": "(the) shadows",
+      "word_transliteration": "zulalin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 210,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3927,
+      "word_number_in_surah": 3898,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡغَمَامِ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3928,
+      "word_number_in_surah": 3899,
+      "word_surah": 2,
+      "word_translation": "[the] clouds",
+      "word_transliteration": "al-ghamami"
+    },
+    {
+      "word_arabic": "وَٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3929,
+      "word_number_in_surah": 3900,
+      "word_surah": 2,
+      "word_translation": "and the Angels",
+      "word_transliteration": "wal-malaikatu"
+    },
+    {
+      "word_arabic": "وَقُضِيَ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3930,
+      "word_number_in_surah": 3901,
+      "word_surah": 2,
+      "word_translation": "and is decreed",
+      "word_transliteration": "waqudiya"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡرُۚ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3931,
+      "word_number_in_surah": 3902,
+      "word_surah": 2,
+      "word_translation": "the matter",
+      "word_transliteration": "al-amru"
+    },
+    {
+      "word_arabic": "وَإِلَى",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3932,
+      "word_number_in_surah": 3903,
+      "word_surah": 2,
+      "word_translation": "And to",
+      "word_transliteration": "wa-ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3933,
+      "word_number_in_surah": 3904,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "تُرۡجَعُ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3934,
+      "word_number_in_surah": 3905,
+      "word_surah": 2,
+      "word_translation": "return",
+      "word_transliteration": "tur'ja'u"
+    },
+    {
+      "word_arabic": "ٱلۡأُمُورُ",
+      "word_ayah": 210,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3935,
+      "word_number_in_surah": 3906,
+      "word_surah": 2,
+      "word_translation": "(all) the matters",
+      "word_transliteration": "al-umuru"
+    }
+  ],
+  "fullArabic": "هَلۡ يَنظُرُونَ إِلَّآ أَن يَأۡتِيَهُمُ ٱللَّهُ فِي ظُلَلٖ مِّنَ ٱلۡغَمَامِ وَٱلۡمَلَٰٓئِكَةُ وَقُضِيَ ٱلۡأَمۡرُۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+  "fullTranslation": "Do they await but that Allah should come to them in covers of clouds and the angels [as well] and the matter is [then] decided? And to Allah [all] matters are returned.",
+  "fullTransliteration": "hal yanzuruna illa an yatiyahumu al-lahu fi zulalin mina al-ghamami wal-malaikatu waqudiya al-amru wa-ila al-lahi tur'ja'u al-umuru"
+}

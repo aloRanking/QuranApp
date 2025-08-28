@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 43,
+    "surah": 5,
+    "words": 15,
+    "numberInQuran": 712,
+    "juz": 6,
+    "manzil": 2,
+    "page": 115,
+    "ruku": 91,
+    "hizbQuarter": 46,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَيۡفَ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14452,
+      "word_number_in_surah": 1079,
+      "word_surah": 5,
+      "word_translation": "But how can",
+      "word_transliteration": "wakayfa"
+    },
+    {
+      "word_arabic": "يُحَكِّمُونَكَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14453,
+      "word_number_in_surah": 1080,
+      "word_surah": 5,
+      "word_translation": "they appoint you a judge",
+      "word_transliteration": "yuhakkimunaka"
+    },
+    {
+      "word_arabic": "وَعِندَهُمُ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14454,
+      "word_number_in_surah": 1081,
+      "word_surah": 5,
+      "word_translation": "while they (have) with them",
+      "word_transliteration": "wa'indahumu"
+    },
+    {
+      "word_arabic": "ٱلتَّوۡرَىٰةُ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14455,
+      "word_number_in_surah": 1082,
+      "word_surah": 5,
+      "word_translation": "the Taurat",
+      "word_transliteration": "al-tawratu"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14456,
+      "word_number_in_surah": 1083,
+      "word_surah": 5,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "حُكۡمُ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14457,
+      "word_number_in_surah": 1084,
+      "word_surah": 5,
+      "word_translation": "(is the) Command",
+      "word_transliteration": "huk'mu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14458,
+      "word_number_in_surah": 1085,
+      "word_surah": 5,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14459,
+      "word_number_in_surah": 1086,
+      "word_surah": 5,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يَتَوَلَّوۡنَ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14460,
+      "word_number_in_surah": 1087,
+      "word_surah": 5,
+      "word_translation": "they turn away",
+      "word_transliteration": "yatawallawna"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14461,
+      "word_number_in_surah": 1088,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14462,
+      "word_number_in_surah": 1089,
+      "word_surah": 5,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "ذَٰلِكَۚ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14463,
+      "word_number_in_surah": 1090,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14464,
+      "word_number_in_surah": 1091,
+      "word_surah": 5,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14465,
+      "word_number_in_surah": 1092,
+      "word_surah": 5,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "بِٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14466,
+      "word_number_in_surah": 1093,
+      "word_surah": 5,
+      "word_translation": "(are) the believers",
+      "word_transliteration": "bil-mu'minina"
+    }
+  ],
+  "fullArabic": "وَكَيۡفَ يُحَكِّمُونَكَ وَعِندَهُمُ ٱلتَّوۡرَىٰةُ فِيهَا حُكۡمُ ٱللَّهِ ثُمَّ يَتَوَلَّوۡنَ مِنۢ بَعۡدِ ذَٰلِكَۚ وَمَآ أُوْلَٰٓئِكَ بِٱلۡمُؤۡمِنِينَ",
+  "fullTranslation": "But how is it that they come to you for judgement while they have the Torah, in which is the judgement of Allah? Then they turn away, [even] after that; but those are not [in fact] believers.",
+  "fullTransliteration": "wakayfa yuhakkimunaka wa'indahumu al-tawratu fiha huk'mu al-lahi thumma yatawallawna min ba'di dhalika wama ulaika bil-mu'minina"
+}

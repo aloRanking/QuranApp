@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 117,
+    "surah": 6,
+    "words": 11,
+    "numberInQuran": 906,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18194,
+      "word_number_in_surah": 2017,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18195,
+      "word_number_in_surah": 2018,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18196,
+      "word_number_in_surah": 2019,
+      "word_surah": 6,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18197,
+      "word_number_in_surah": 2020,
+      "word_surah": 6,
+      "word_translation": "knows best",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 117,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18198,
+      "word_number_in_surah": 2021,
+      "word_surah": 6,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَضِلُّ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18199,
+      "word_number_in_surah": 2022,
+      "word_surah": 6,
+      "word_translation": "strays",
+      "word_transliteration": "yadillu"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18200,
+      "word_number_in_surah": 2023,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِهِۦۖ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18201,
+      "word_number_in_surah": 2024,
+      "word_surah": 6,
+      "word_translation": "His way",
+      "word_transliteration": "sabilihi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18202,
+      "word_number_in_surah": 2025,
+      "word_surah": 6,
+      "word_translation": "and He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18203,
+      "word_number_in_surah": 2026,
+      "word_surah": 6,
+      "word_translation": "(is) most knowing",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "بِٱلۡمُهۡتَدِينَ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18204,
+      "word_number_in_surah": 2027,
+      "word_surah": 6,
+      "word_translation": "of the guided-ones",
+      "word_transliteration": "bil-muh'tadina"
+    }
+  ],
+  "fullArabic": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦۖ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+  "fullTranslation": "Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of the [rightly] guided.",
+  "fullTransliteration": "inna rabbaka huwa a'lamu man yadillu an sabilihi wahuwa a'lamu bil-muh'tadina"
+}

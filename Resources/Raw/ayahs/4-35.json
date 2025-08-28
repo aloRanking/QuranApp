@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "ayah": 35,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 528,
+    "juz": 5,
+    "manzil": 1,
+    "page": 84,
+    "ruku": 67,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِنۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10498,
+      "word_number_in_surah": 872,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "خِفۡتُمۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10499,
+      "word_number_in_surah": 873,
+      "word_surah": 4,
+      "word_translation": "you fear",
+      "word_transliteration": "khif'tum"
+    },
+    {
+      "word_arabic": "شِقَاقَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10500,
+      "word_number_in_surah": 874,
+      "word_surah": 4,
+      "word_translation": "a dissension",
+      "word_transliteration": "shiqaqa"
+    },
+    {
+      "word_arabic": "بَيۡنِهِمَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10501,
+      "word_number_in_surah": 875,
+      "word_surah": 4,
+      "word_translation": "between (the) two of them",
+      "word_transliteration": "baynihima"
+    },
+    {
+      "word_arabic": "فَٱبۡعَثُواْ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10502,
+      "word_number_in_surah": 876,
+      "word_surah": 4,
+      "word_translation": "then send",
+      "word_transliteration": "fa-ib'athu"
+    },
+    {
+      "word_arabic": "حَكَمٗا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10503,
+      "word_number_in_surah": 877,
+      "word_surah": 4,
+      "word_translation": "an arbitrator",
+      "word_transliteration": "hakaman"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10504,
+      "word_number_in_surah": 878,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِهِۦ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10505,
+      "word_number_in_surah": 879,
+      "word_surah": 4,
+      "word_translation": "his family",
+      "word_transliteration": "ahlihi"
+    },
+    {
+      "word_arabic": "وَحَكَمٗا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10506,
+      "word_number_in_surah": 880,
+      "word_surah": 4,
+      "word_translation": "and an arbitrator",
+      "word_transliteration": "wahakaman"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10507,
+      "word_number_in_surah": 881,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِهَآ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10508,
+      "word_number_in_surah": 882,
+      "word_surah": 4,
+      "word_translation": "her family",
+      "word_transliteration": "ahliha"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 35,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10509,
+      "word_number_in_surah": 883,
+      "word_surah": 4,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يُرِيدَآ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10510,
+      "word_number_in_surah": 884,
+      "word_surah": 4,
+      "word_translation": "they both wish",
+      "word_transliteration": "yurida"
+    },
+    {
+      "word_arabic": "إِصۡلَٰحٗا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10511,
+      "word_number_in_surah": 885,
+      "word_surah": 4,
+      "word_translation": "reconciliation",
+      "word_transliteration": "is'lahan"
+    },
+    {
+      "word_arabic": "يُوَفِّقِ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10512,
+      "word_number_in_surah": 886,
+      "word_surah": 4,
+      "word_translation": "will cause reconciliation",
+      "word_transliteration": "yuwaffiqi"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10513,
+      "word_number_in_surah": 887,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمَآۗ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10514,
+      "word_number_in_surah": 888,
+      "word_surah": 4,
+      "word_translation": "between both of them",
+      "word_transliteration": "baynahuma"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10515,
+      "word_number_in_surah": 889,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10516,
+      "word_number_in_surah": 890,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10517,
+      "word_number_in_surah": 891,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَلِيمًا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 10518,
+      "word_number_in_surah": 892,
+      "word_surah": 4,
+      "word_translation": "All-Knower",
+      "word_transliteration": "aliman"
+    },
+    {
+      "word_arabic": "خَبِيرٗا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 10519,
+      "word_number_in_surah": 893,
+      "word_surah": 4,
+      "word_translation": "All-Aware",
+      "word_transliteration": "khabiran"
+    }
+  ],
+  "fullArabic": "وَإِنۡ خِفۡتُمۡ شِقَاقَ بَيۡنِهِمَا فَٱبۡعَثُواْ حَكَمٗا مِّنۡ أَهۡلِهِۦ وَحَكَمٗا مِّنۡ أَهۡلِهَآ إِن يُرِيدَآ إِصۡلَٰحٗا يُوَفِّقِ ٱللَّهُ بَيۡنَهُمَآۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرٗا",
+  "fullTranslation": "And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allah will cause it between them. Indeed, Allah is ever Knowing and Acquainted [with all things].",
+  "fullTransliteration": "wa-in khif'tum shiqaqa baynihima fa-ib'athu hakaman min ahlihi wahakaman min ahliha in yurida is'lahan yuwaffiqi al-lahu baynahuma inna al-laha kana aliman khabiran"
+}

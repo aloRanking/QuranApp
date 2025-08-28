@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 60,
+    "surah": 7,
+    "words": 9,
+    "numberInQuran": 1014,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 129,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20209,
+      "word_number_in_surah": 982,
+      "word_surah": 7,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَأُ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20210,
+      "word_number_in_surah": 983,
+      "word_surah": 7,
+      "word_translation": "the chiefs",
+      "word_transliteration": "al-mala-u"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 60,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20211,
+      "word_number_in_surah": 984,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَوۡمِهِۦٓ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20212,
+      "word_number_in_surah": 985,
+      "word_surah": 7,
+      "word_translation": "his people",
+      "word_transliteration": "qawmihi"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20213,
+      "word_number_in_surah": 986,
+      "word_surah": 7,
+      "word_translation": "Indeed, we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "لَنَرَىٰكَ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20214,
+      "word_number_in_surah": 987,
+      "word_surah": 7,
+      "word_translation": "surely see you",
+      "word_transliteration": "lanaraka"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20215,
+      "word_number_in_surah": 988,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ضَلَٰلٖ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20216,
+      "word_number_in_surah": 989,
+      "word_surah": 7,
+      "word_translation": "error",
+      "word_transliteration": "dalalin"
+    },
+    {
+      "word_arabic": "مُّبِينٖ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20217,
+      "word_number_in_surah": 990,
+      "word_surah": 7,
+      "word_translation": "clear",
+      "word_transliteration": "mubinin"
+    }
+  ],
+  "fullArabic": "قَالَ ٱلۡمَلَأُ مِن قَوۡمِهِۦٓ إِنَّا لَنَرَىٰكَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "fullTranslation": "Said the eminent among his people, \"Indeed, we see you in clear error.\"",
+  "fullTransliteration": "qala al-mala-u min qawmihi inna lanaraka fi dalalin mubinin"
+}

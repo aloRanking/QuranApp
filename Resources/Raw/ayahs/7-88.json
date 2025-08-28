@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "ayah": 88,
+    "surah": 7,
+    "words": 21,
+    "numberInQuran": 1042,
+    "juz": 9,
+    "manzil": 2,
+    "page": 162,
+    "ruku": 132,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞قَالَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20651,
+      "word_number_in_surah": 1424,
+      "word_surah": 7,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَأُ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20652,
+      "word_number_in_surah": 1425,
+      "word_surah": 7,
+      "word_translation": "the chiefs",
+      "word_transliteration": "al-mala-u"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20653,
+      "word_number_in_surah": 1426,
+      "word_surah": 7,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱسۡتَكۡبَرُواْ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20654,
+      "word_number_in_surah": 1427,
+      "word_surah": 7,
+      "word_translation": "were arrogant",
+      "word_transliteration": "is'takbaru"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 88,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20655,
+      "word_number_in_surah": 1428,
+      "word_surah": 7,
+      "word_translation": "among",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَوۡمِهِۦ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20656,
+      "word_number_in_surah": 1429,
+      "word_surah": 7,
+      "word_translation": "his people",
+      "word_transliteration": "qawmihi"
+    },
+    {
+      "word_arabic": "لَنُخۡرِجَنَّكَ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20657,
+      "word_number_in_surah": 1430,
+      "word_surah": 7,
+      "word_translation": "We will surely drive you out",
+      "word_transliteration": "lanukh'rijannaka"
+    },
+    {
+      "word_arabic": "يَٰشُعَيۡبُ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20658,
+      "word_number_in_surah": 1431,
+      "word_surah": 7,
+      "word_translation": "O Shuaib!",
+      "word_transliteration": "yashu'aybu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20659,
+      "word_number_in_surah": 1432,
+      "word_surah": 7,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20660,
+      "word_number_in_surah": 1433,
+      "word_surah": 7,
+      "word_translation": "(have) believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "مَعَكَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20661,
+      "word_number_in_surah": 1434,
+      "word_surah": 7,
+      "word_translation": "with you",
+      "word_transliteration": "ma'aka"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 88,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20662,
+      "word_number_in_surah": 1435,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَرۡيَتِنَآ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20663,
+      "word_number_in_surah": 1436,
+      "word_surah": 7,
+      "word_translation": "our city",
+      "word_transliteration": "qaryatina"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20664,
+      "word_number_in_surah": 1437,
+      "word_surah": 7,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "لَتَعُودُنَّ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20665,
+      "word_number_in_surah": 1438,
+      "word_surah": 7,
+      "word_translation": "you must return",
+      "word_transliteration": "lata'udunna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20666,
+      "word_number_in_surah": 1439,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "مِلَّتِنَاۚ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20667,
+      "word_number_in_surah": 1440,
+      "word_surah": 7,
+      "word_translation": "our religion",
+      "word_transliteration": "millatina"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20668,
+      "word_number_in_surah": 1441,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَوَلَوۡ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 20669,
+      "word_number_in_surah": 1442,
+      "word_surah": 7,
+      "word_translation": "Even if",
+      "word_transliteration": "awalaw"
+    },
+    {
+      "word_arabic": "كُنَّا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 20670,
+      "word_number_in_surah": 1443,
+      "word_surah": 7,
+      "word_translation": "we are",
+      "word_transliteration": "kunna"
+    },
+    {
+      "word_arabic": "كَٰرِهِينَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 20671,
+      "word_number_in_surah": 1444,
+      "word_surah": 7,
+      "word_translation": "(the) ones who hate (it)",
+      "word_transliteration": "karihina"
+    }
+  ],
+  "fullArabic": "۞قَالَ ٱلۡمَلَأُ ٱلَّذِينَ ٱسۡتَكۡبَرُواْ مِن قَوۡمِهِۦ لَنُخۡرِجَنَّكَ يَٰشُعَيۡبُ وَٱلَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرۡيَتِنَآ أَوۡ لَتَعُودُنَّ فِي مِلَّتِنَاۚ قَالَ أَوَلَوۡ كُنَّا كَٰرِهِينَ",
+  "fullTranslation": "Said the eminent ones who were arrogant among his people, \"We will surely evict you, O Shu'ayb, and those who have believed with you from our city, or you must return to our religion.\" He said, \"Even if we were unwilling?\"",
+  "fullTransliteration": "qala al-mala-u alladhina is'takbaru min qawmihi lanukh'rijannaka yashu'aybu wa-alladhina amanu ma'aka min qaryatina aw lata'udunna fi millatina qala awalaw kunna karihina"
+}

@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "ayah": 45,
+    "surah": 8,
+    "words": 12,
+    "numberInQuran": 1205,
+    "juz": 10,
+    "manzil": 2,
+    "page": 182,
+    "ruku": 151,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23245,
+      "word_number_in_surah": 698,
+      "word_surah": 8,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23246,
+      "word_number_in_surah": 699,
+      "word_surah": 8,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23247,
+      "word_number_in_surah": 700,
+      "word_surah": 8,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23248,
+      "word_number_in_surah": 701,
+      "word_surah": 8,
+      "word_translation": "When",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "لَقِيتُمۡ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23249,
+      "word_number_in_surah": 702,
+      "word_surah": 8,
+      "word_translation": "you meet",
+      "word_transliteration": "laqitum"
+    },
+    {
+      "word_arabic": "فِئَةٗ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23250,
+      "word_number_in_surah": 703,
+      "word_surah": 8,
+      "word_translation": "a force",
+      "word_transliteration": "fi-atan"
+    },
+    {
+      "word_arabic": "فَٱثۡبُتُواْ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23251,
+      "word_number_in_surah": 704,
+      "word_surah": 8,
+      "word_translation": "then be firm",
+      "word_transliteration": "fa-uth'butu"
+    },
+    {
+      "word_arabic": "وَٱذۡكُرُواْ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23252,
+      "word_number_in_surah": 705,
+      "word_surah": 8,
+      "word_translation": "and remember",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23253,
+      "word_number_in_surah": 706,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23254,
+      "word_number_in_surah": 707,
+      "word_surah": 8,
+      "word_translation": "much",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "لَّعَلَّكُمۡ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23255,
+      "word_number_in_surah": 708,
+      "word_surah": 8,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تُفۡلِحُونَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23256,
+      "word_number_in_surah": 709,
+      "word_surah": 8,
+      "word_translation": "(be) successful",
+      "word_transliteration": "tuf'lihuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةٗ فَٱثۡبُتُواْ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
+  "fullTranslation": "O you who have believed, when you encounter a company [from the enemy forces], stand firm and remember Allah much that you may be successful.",
+  "fullTransliteration": "yaayyuha alladhina amanu idha laqitum fi-atan fa-uth'butu wa-udh'kuru al-laha kathiran la'allakum tuf'lihuna"
+}

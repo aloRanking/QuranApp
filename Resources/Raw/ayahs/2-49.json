@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 49,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 56,
+    "juz": 1,
+    "manzil": 1,
+    "page": 8,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 719,
+      "word_number_in_surah": 690,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "نَجَّيۡنَٰكُم",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 720,
+      "word_number_in_surah": 691,
+      "word_surah": 2,
+      "word_translation": "We saved you",
+      "word_transliteration": "najjaynakum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 721,
+      "word_number_in_surah": 692,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ءَالِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 722,
+      "word_number_in_surah": 693,
+      "word_surah": 2,
+      "word_translation": "(the) people",
+      "word_transliteration": "ali"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 723,
+      "word_number_in_surah": 694,
+      "word_surah": 2,
+      "word_translation": "(of) Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "يَسُومُونَكُمۡ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 724,
+      "word_number_in_surah": 695,
+      "word_surah": 2,
+      "word_translation": "(who were) afflicting you (with)",
+      "word_transliteration": "yasumunakum"
+    },
+    {
+      "word_arabic": "سُوٓءَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 725,
+      "word_number_in_surah": 696,
+      "word_surah": 2,
+      "word_translation": "horrible",
+      "word_transliteration": "sua"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 726,
+      "word_number_in_surah": 697,
+      "word_surah": 2,
+      "word_translation": "torment",
+      "word_transliteration": "al-'adhabi"
+    },
+    {
+      "word_arabic": "يُذَبِّحُونَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 727,
+      "word_number_in_surah": 698,
+      "word_surah": 2,
+      "word_translation": "slaughtering",
+      "word_transliteration": "yudhabbihuna"
+    },
+    {
+      "word_arabic": "أَبۡنَآءَكُمۡ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 728,
+      "word_number_in_surah": 699,
+      "word_surah": 2,
+      "word_translation": "your sons",
+      "word_transliteration": "abnaakum"
+    },
+    {
+      "word_arabic": "وَيَسۡتَحۡيُونَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 729,
+      "word_number_in_surah": 700,
+      "word_surah": 2,
+      "word_translation": "and letting live",
+      "word_transliteration": "wayastahyuna"
+    },
+    {
+      "word_arabic": "نِسَآءَكُمۡۚ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 730,
+      "word_number_in_surah": 701,
+      "word_surah": 2,
+      "word_translation": "your women",
+      "word_transliteration": "nisaakum"
+    },
+    {
+      "word_arabic": "وَفِي",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 731,
+      "word_number_in_surah": 702,
+      "word_surah": 2,
+      "word_translation": "And in",
+      "word_transliteration": "wafi"
+    },
+    {
+      "word_arabic": "ذَٰلِكُم",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 732,
+      "word_number_in_surah": 703,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "dhalikum"
+    },
+    {
+      "word_arabic": "بَلَآءٞ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 733,
+      "word_number_in_surah": 704,
+      "word_surah": 2,
+      "word_translation": "(was) a trial",
+      "word_transliteration": "balaon"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 49,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 734,
+      "word_number_in_surah": 705,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 735,
+      "word_number_in_surah": 706,
+      "word_surah": 2,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "عَظِيمٞ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 736,
+      "word_number_in_surah": 707,
+      "word_surah": 2,
+      "word_translation": "great",
+      "word_transliteration": "azimun"
+    }
+  ],
+  "fullArabic": "وَإِذۡ نَجَّيۡنَٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ يُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
+  "fullTranslation": "And [recall] when We saved your forefathers from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.",
+  "fullTransliteration": "wa-idh najjaynakum min ali fir'awna yasumunakum sua al-'adhabi yudhabbihuna abnaakum wayastahyuna nisaakum wafi dhalikum balaon min rabbikum azimun"
+}

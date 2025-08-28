@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "ayah": 87,
+    "surah": 7,
+    "words": 19,
+    "numberInQuran": 1041,
+    "juz": 8,
+    "manzil": 2,
+    "page": 161,
+    "ruku": 132,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 87,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20632,
+      "word_number_in_surah": 1405,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20633,
+      "word_number_in_surah": 1406,
+      "word_surah": 7,
+      "word_translation": "(there) is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "طَآئِفَةٞ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20634,
+      "word_number_in_surah": 1407,
+      "word_surah": 7,
+      "word_translation": "a group",
+      "word_transliteration": "taifatun"
+    },
+    {
+      "word_arabic": "مِّنكُمۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20635,
+      "word_number_in_surah": 1408,
+      "word_surah": 7,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20636,
+      "word_number_in_surah": 1409,
+      "word_surah": 7,
+      "word_translation": "(who has) believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "بِٱلَّذِيٓ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20637,
+      "word_number_in_surah": 1410,
+      "word_surah": 7,
+      "word_translation": "in that which",
+      "word_transliteration": "bi-alladhi"
+    },
+    {
+      "word_arabic": "أُرۡسِلۡتُ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20638,
+      "word_number_in_surah": 1411,
+      "word_surah": 7,
+      "word_translation": "I have been sent",
+      "word_transliteration": "ur'sil'tu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20639,
+      "word_number_in_surah": 1412,
+      "word_surah": 7,
+      "word_translation": "with [it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَطَآئِفَةٞ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20640,
+      "word_number_in_surah": 1413,
+      "word_surah": 7,
+      "word_translation": "and a group",
+      "word_transliteration": "wataifatun"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20641,
+      "word_number_in_surah": 1414,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُواْ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20642,
+      "word_number_in_surah": 1415,
+      "word_surah": 7,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minu"
+    },
+    {
+      "word_arabic": "فَٱصۡبِرُواْ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20643,
+      "word_number_in_surah": 1416,
+      "word_surah": 7,
+      "word_translation": "then be patient",
+      "word_transliteration": "fa-is'biru"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20644,
+      "word_number_in_surah": 1417,
+      "word_surah": 7,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَحۡكُمَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20645,
+      "word_number_in_surah": 1418,
+      "word_surah": 7,
+      "word_translation": "judges",
+      "word_transliteration": "yahkuma"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20646,
+      "word_number_in_surah": 1419,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بَيۡنَنَاۚ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20647,
+      "word_number_in_surah": 1420,
+      "word_surah": 7,
+      "word_translation": "between us",
+      "word_transliteration": "baynana"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20648,
+      "word_number_in_surah": 1421,
+      "word_surah": 7,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "خَيۡرُ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20649,
+      "word_number_in_surah": 1422,
+      "word_surah": 7,
+      "word_translation": "(is the) Best",
+      "word_transliteration": "khayru"
+    },
+    {
+      "word_arabic": "ٱلۡحَٰكِمِينَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 20650,
+      "word_number_in_surah": 1423,
+      "word_surah": 7,
+      "word_translation": "(of) [the] Judges",
+      "word_transliteration": "al-hakimina"
+    }
+  ],
+  "fullArabic": "وَإِن كَانَ طَآئِفَةٞ مِّنكُمۡ ءَامَنُواْ بِٱلَّذِيٓ أُرۡسِلۡتُ بِهِۦ وَطَآئِفَةٞ لَّمۡ يُؤۡمِنُواْ فَٱصۡبِرُواْ حَتَّىٰ يَحۡكُمَ ٱللَّهُ بَيۡنَنَاۚ وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ",
+  "fullTranslation": "And if there should be a group among you who has believed in that with which I have been sent and a group that has not believed, then be patient until Allah judges between us. And He is the best of judges.\"",
+  "fullTransliteration": "wa-in kana taifatun minkum amanu bi-alladhi ur'sil'tu bihi wataifatun lam yu'minu fa-is'biru hatta yahkuma al-lahu baynana wahuwa khayru al-hakimina"
+}

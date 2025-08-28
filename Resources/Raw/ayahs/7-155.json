@@ -1,0 +1,452 @@
+{
+  "meta": {
+    "ayah": 155,
+    "surah": 7,
+    "words": 41,
+    "numberInQuran": 1109,
+    "juz": 9,
+    "manzil": 2,
+    "page": 169,
+    "ruku": 140,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱخۡتَارَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21626,
+      "word_number_in_surah": 2399,
+      "word_surah": 7,
+      "word_translation": "And chose",
+      "word_transliteration": "wa-ikh'tara"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21627,
+      "word_number_in_surah": 2400,
+      "word_surah": 7,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "قَوۡمَهُۥ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21628,
+      "word_number_in_surah": 2401,
+      "word_surah": 7,
+      "word_translation": "(from) his people",
+      "word_transliteration": "qawmahu"
+    },
+    {
+      "word_arabic": "سَبۡعِينَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21629,
+      "word_number_in_surah": 2402,
+      "word_surah": 7,
+      "word_translation": "seventy",
+      "word_transliteration": "sab'ina"
+    },
+    {
+      "word_arabic": "رَجُلٗا",
+      "word_ayah": 155,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21630,
+      "word_number_in_surah": 2403,
+      "word_surah": 7,
+      "word_translation": "men",
+      "word_transliteration": "rajulan"
+    },
+    {
+      "word_arabic": "لِّمِيقَٰتِنَاۖ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21631,
+      "word_number_in_surah": 2404,
+      "word_surah": 7,
+      "word_translation": "for Our appointment",
+      "word_transliteration": "limiqatina"
+    },
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21632,
+      "word_number_in_surah": 2405,
+      "word_surah": 7,
+      "word_translation": "Then when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَخَذَتۡهُمُ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21633,
+      "word_number_in_surah": 2406,
+      "word_surah": 7,
+      "word_translation": "seized them",
+      "word_transliteration": "akhadhathumu"
+    },
+    {
+      "word_arabic": "ٱلرَّجۡفَةُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21634,
+      "word_number_in_surah": 2407,
+      "word_surah": 7,
+      "word_translation": "the earthquake",
+      "word_transliteration": "al-rajfatu"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21635,
+      "word_number_in_surah": 2408,
+      "word_surah": 7,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21636,
+      "word_number_in_surah": 2409,
+      "word_surah": 7,
+      "word_translation": "O my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21637,
+      "word_number_in_surah": 2410,
+      "word_surah": 7,
+      "word_translation": "If",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "شِئۡتَ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21638,
+      "word_number_in_surah": 2411,
+      "word_surah": 7,
+      "word_translation": "you (had) willed",
+      "word_transliteration": "shi'ta"
+    },
+    {
+      "word_arabic": "أَهۡلَكۡتَهُم",
+      "word_ayah": 155,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21639,
+      "word_number_in_surah": 2412,
+      "word_surah": 7,
+      "word_translation": "You (could) have destroyed them",
+      "word_transliteration": "ahlaktahum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 155,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21640,
+      "word_number_in_surah": 2413,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21641,
+      "word_number_in_surah": 2414,
+      "word_surah": 7,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَإِيَّٰيَۖ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21642,
+      "word_number_in_surah": 2415,
+      "word_surah": 7,
+      "word_translation": "and me",
+      "word_transliteration": "wa-iyyaya"
+    },
+    {
+      "word_arabic": "أَتُهۡلِكُنَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21643,
+      "word_number_in_surah": 2416,
+      "word_surah": 7,
+      "word_translation": "Would You destroy us",
+      "word_transliteration": "atuh'likuna"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21644,
+      "word_number_in_surah": 2417,
+      "word_surah": 7,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "فَعَلَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21645,
+      "word_number_in_surah": 2418,
+      "word_surah": 7,
+      "word_translation": "did",
+      "word_transliteration": "fa'ala"
+    },
+    {
+      "word_arabic": "ٱلسُّفَهَآءُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 21646,
+      "word_number_in_surah": 2419,
+      "word_surah": 7,
+      "word_translation": "the foolish",
+      "word_transliteration": "al-sufahau"
+    },
+    {
+      "word_arabic": "مِنَّآۖ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 21647,
+      "word_number_in_surah": 2420,
+      "word_surah": 7,
+      "word_translation": "among us",
+      "word_transliteration": "minna"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 21648,
+      "word_number_in_surah": 2421,
+      "word_surah": 7,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "هِيَ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 21649,
+      "word_number_in_surah": 2422,
+      "word_surah": 7,
+      "word_translation": "it (was)",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 21650,
+      "word_number_in_surah": 2423,
+      "word_surah": 7,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "فِتۡنَتُكَ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 21651,
+      "word_number_in_surah": 2424,
+      "word_surah": 7,
+      "word_translation": "Your trial",
+      "word_transliteration": "fit'natuka"
+    },
+    {
+      "word_arabic": "تُضِلُّ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 21652,
+      "word_number_in_surah": 2425,
+      "word_surah": 7,
+      "word_translation": "You let go astray",
+      "word_transliteration": "tudillu"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 21653,
+      "word_number_in_surah": 2426,
+      "word_surah": 7,
+      "word_translation": "by it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 155,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 21654,
+      "word_number_in_surah": 2427,
+      "word_surah": 7,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تَشَآءُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 21655,
+      "word_number_in_surah": 2428,
+      "word_surah": 7,
+      "word_translation": "You will",
+      "word_transliteration": "tashau"
+    },
+    {
+      "word_arabic": "وَتَهۡدِي",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 21656,
+      "word_number_in_surah": 2429,
+      "word_surah": 7,
+      "word_translation": "and You guide",
+      "word_transliteration": "watahdi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 155,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 21657,
+      "word_number_in_surah": 2430,
+      "word_surah": 7,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تَشَآءُۖ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 21658,
+      "word_number_in_surah": 2431,
+      "word_surah": 7,
+      "word_translation": "You will",
+      "word_transliteration": "tashau"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 21659,
+      "word_number_in_surah": 2432,
+      "word_surah": 7,
+      "word_translation": "You",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "وَلِيُّنَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 21660,
+      "word_number_in_surah": 2433,
+      "word_surah": 7,
+      "word_translation": "(are) our Protector",
+      "word_transliteration": "waliyyuna"
+    },
+    {
+      "word_arabic": "فَٱغۡفِرۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 21661,
+      "word_number_in_surah": 2434,
+      "word_surah": 7,
+      "word_translation": "so forgive",
+      "word_transliteration": "fa-igh'fir"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 21662,
+      "word_number_in_surah": 2435,
+      "word_surah": 7,
+      "word_translation": "us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "وَٱرۡحَمۡنَاۖ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 21663,
+      "word_number_in_surah": 2436,
+      "word_surah": 7,
+      "word_translation": "and have mercy upon us",
+      "word_transliteration": "wa-ir'hamna"
+    },
+    {
+      "word_arabic": "وَأَنتَ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 21664,
+      "word_number_in_surah": 2437,
+      "word_surah": 7,
+      "word_translation": "and You",
+      "word_transliteration": "wa-anta"
+    },
+    {
+      "word_arabic": "خَيۡرُ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 40,
+      "word_number_in_quran": 21665,
+      "word_number_in_surah": 2438,
+      "word_surah": 7,
+      "word_translation": "(are) Best",
+      "word_transliteration": "khayru"
+    },
+    {
+      "word_arabic": "ٱلۡغَٰفِرِينَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 41,
+      "word_number_in_quran": 21666,
+      "word_number_in_surah": 2439,
+      "word_surah": 7,
+      "word_translation": "(of) Forgivers",
+      "word_transliteration": "al-ghafirina"
+    }
+  ],
+  "fullArabic": "وَٱخۡتَارَ مُوسَىٰ قَوۡمَهُۥ سَبۡعِينَ رَجُلٗا لِّمِيقَٰتِنَاۖ فَلَمَّآ أَخَذَتۡهُمُ ٱلرَّجۡفَةُ قَالَ رَبِّ لَوۡ شِئۡتَ أَهۡلَكۡتَهُم مِّن قَبۡلُ وَإِيَّٰيَۖ أَتُهۡلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآۖ إِنۡ هِيَ إِلَّا فِتۡنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهۡدِي مَن تَشَآءُۖ أَنتَ وَلِيُّنَا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَاۖ وَأَنتَ خَيۡرُ ٱلۡغَٰفِرِينَ",
+  "fullTranslation": "And Moses chose from his people seventy men for Our appointment. And when the earthquake seized them, he said, \"My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.",
+  "fullTransliteration": "wa-ikh'tara musa qawmahu sab'ina rajulan limiqatina falamma akhadhathumu al-rajfatu qala rabbi law shi'ta ahlaktahum min qablu wa-iyyaya atuh'likuna bima fa'ala al-sufahau minna in hiya illa fit'natuka tudillu biha man tashau watahdi man tashau anta waliyyuna fa-igh'fir lana wa-ir'hamna wa-anta khayru al-ghafirina"
+}

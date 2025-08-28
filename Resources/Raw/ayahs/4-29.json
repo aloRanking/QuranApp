@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "ayah": 29,
+    "surah": 4,
+    "words": 23,
+    "numberInQuran": 522,
+    "juz": 5,
+    "manzil": 1,
+    "page": 83,
+    "ruku": 66,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10364,
+      "word_number_in_surah": 738,
+      "word_surah": 4,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10365,
+      "word_number_in_surah": 739,
+      "word_surah": 4,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10366,
+      "word_number_in_surah": 740,
+      "word_surah": 4,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10367,
+      "word_number_in_surah": 741,
+      "word_surah": 4,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَأۡكُلُوٓاْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10368,
+      "word_number_in_surah": 742,
+      "word_surah": 4,
+      "word_translation": "eat",
+      "word_transliteration": "takulu"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَكُم",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10369,
+      "word_number_in_surah": 743,
+      "word_surah": 4,
+      "word_translation": "your wealth",
+      "word_transliteration": "amwalakum"
+    },
+    {
+      "word_arabic": "بَيۡنَكُم",
+      "word_ayah": 29,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10370,
+      "word_number_in_surah": 744,
+      "word_surah": 4,
+      "word_translation": "between yourselves",
+      "word_transliteration": "baynakum"
+    },
+    {
+      "word_arabic": "بِٱلۡبَٰطِلِ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10371,
+      "word_number_in_surah": 745,
+      "word_surah": 4,
+      "word_translation": "unjustly",
+      "word_transliteration": "bil-batili"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10372,
+      "word_number_in_surah": 746,
+      "word_surah": 4,
+      "word_translation": "But",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 29,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10373,
+      "word_number_in_surah": 747,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَكُونَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10374,
+      "word_number_in_surah": 748,
+      "word_surah": 4,
+      "word_translation": "(there) be",
+      "word_transliteration": "takuna"
+    },
+    {
+      "word_arabic": "تِجَٰرَةً",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10375,
+      "word_number_in_surah": 749,
+      "word_surah": 4,
+      "word_translation": "business",
+      "word_transliteration": "tijaratan"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10376,
+      "word_number_in_surah": 750,
+      "word_surah": 4,
+      "word_translation": "on",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَرَاضٖ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10377,
+      "word_number_in_surah": 751,
+      "word_surah": 4,
+      "word_translation": "mutual consent",
+      "word_transliteration": "taradin"
+    },
+    {
+      "word_arabic": "مِّنكُمۡۚ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10378,
+      "word_number_in_surah": 752,
+      "word_surah": 4,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10379,
+      "word_number_in_surah": 753,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَقۡتُلُوٓاْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10380,
+      "word_number_in_surah": 754,
+      "word_surah": 4,
+      "word_translation": "kill",
+      "word_transliteration": "taqtulu"
+    },
+    {
+      "word_arabic": "أَنفُسَكُمۡۚ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10381,
+      "word_number_in_surah": 755,
+      "word_surah": 4,
+      "word_translation": "yourselves",
+      "word_transliteration": "anfusakum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10382,
+      "word_number_in_surah": 756,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10383,
+      "word_number_in_surah": 757,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 10384,
+      "word_number_in_surah": 758,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "بِكُمۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 10385,
+      "word_number_in_surah": 759,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "bikum"
+    },
+    {
+      "word_arabic": "رَحِيمٗا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 10386,
+      "word_number_in_surah": 760,
+      "word_surah": 4,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahiman"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَأۡكُلُوٓاْ أَمۡوَٰلَكُم بَيۡنَكُم بِٱلۡبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٖ مِّنكُمۡۚ وَلَا تَقۡتُلُوٓاْ أَنفُسَكُمۡۚ إِنَّ ٱللَّهَ كَانَ بِكُمۡ رَحِيمٗا",
+  "fullTranslation": "O you who have believed, do not consume one another's wealth unjustly but only [in lawful] business by mutual consent. And do not kill yourselves [or one another]. Indeed, Allah is to you ever Merciful.",
+  "fullTransliteration": "yaayyuha alladhina amanu la takulu amwalakum baynakum bil-batili illa an takuna tijaratan an taradin minkum wala taqtulu anfusakum inna al-laha kana bikum rahiman"
+}

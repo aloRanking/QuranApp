@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "ayah": 74,
+    "surah": 2,
+    "words": 37,
+    "numberInQuran": 81,
+    "juz": 1,
+    "manzil": 1,
+    "page": 11,
+    "ruku": 10,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1160,
+      "word_number_in_surah": 1131,
+      "word_surah": 2,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "قَسَتۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1161,
+      "word_number_in_surah": 1132,
+      "word_surah": 2,
+      "word_translation": "hardened",
+      "word_transliteration": "qasat"
+    },
+    {
+      "word_arabic": "قُلُوبُكُم",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1162,
+      "word_number_in_surah": 1133,
+      "word_surah": 2,
+      "word_translation": "your hearts",
+      "word_transliteration": "qulubukum"
+    },
+    {
+      "word_arabic": "مِّنۢ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1163,
+      "word_number_in_surah": 1134,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1164,
+      "word_number_in_surah": 1135,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1165,
+      "word_number_in_surah": 1136,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "فَهِيَ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1166,
+      "word_number_in_surah": 1137,
+      "word_surah": 2,
+      "word_translation": "so they",
+      "word_transliteration": "fahiya"
+    },
+    {
+      "word_arabic": "كَٱلۡحِجَارَةِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1167,
+      "word_number_in_surah": 1138,
+      "word_surah": 2,
+      "word_translation": "(became) like [the] stones",
+      "word_transliteration": "kal-hijarati"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1168,
+      "word_number_in_surah": 1139,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "أَشَدُّ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1169,
+      "word_number_in_surah": 1140,
+      "word_surah": 2,
+      "word_translation": "stronger",
+      "word_transliteration": "ashaddu"
+    },
+    {
+      "word_arabic": "قَسۡوَةٗۚ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1170,
+      "word_number_in_surah": 1141,
+      "word_surah": 2,
+      "word_translation": "(in) hardness",
+      "word_transliteration": "qaswatan"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1171,
+      "word_number_in_surah": 1142,
+      "word_surah": 2,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1172,
+      "word_number_in_surah": 1143,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡحِجَارَةِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1173,
+      "word_number_in_surah": 1144,
+      "word_surah": 2,
+      "word_translation": "the stones",
+      "word_transliteration": "al-hijarati"
+    },
+    {
+      "word_arabic": "لَمَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1174,
+      "word_number_in_surah": 1145,
+      "word_surah": 2,
+      "word_translation": "certainly (there are some) which",
+      "word_transliteration": "lama"
+    },
+    {
+      "word_arabic": "يَتَفَجَّرُ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1175,
+      "word_number_in_surah": 1146,
+      "word_surah": 2,
+      "word_translation": "gush forth",
+      "word_transliteration": "yatafajjaru"
+    },
+    {
+      "word_arabic": "مِنۡهُ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1176,
+      "word_number_in_surah": 1147,
+      "word_surah": 2,
+      "word_translation": "from it",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرُۚ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1177,
+      "word_number_in_surah": 1148,
+      "word_surah": 2,
+      "word_translation": "[the] rivers",
+      "word_transliteration": "al-anharu"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1178,
+      "word_number_in_surah": 1149,
+      "word_surah": 2,
+      "word_translation": "and indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1179,
+      "word_number_in_surah": 1150,
+      "word_surah": 2,
+      "word_translation": "from them",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "لَمَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1180,
+      "word_number_in_surah": 1151,
+      "word_surah": 2,
+      "word_translation": "certainly (there are some) which",
+      "word_transliteration": "lama"
+    },
+    {
+      "word_arabic": "يَشَّقَّقُ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1181,
+      "word_number_in_surah": 1152,
+      "word_surah": 2,
+      "word_translation": "split",
+      "word_transliteration": "yashaqqaqu"
+    },
+    {
+      "word_arabic": "فَيَخۡرُجُ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1182,
+      "word_number_in_surah": 1153,
+      "word_surah": 2,
+      "word_translation": "so comes out",
+      "word_transliteration": "fayakhruju"
+    },
+    {
+      "word_arabic": "مِنۡهُ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1183,
+      "word_number_in_surah": 1154,
+      "word_surah": 2,
+      "word_translation": "from it",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "ٱلۡمَآءُۚ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1184,
+      "word_number_in_surah": 1155,
+      "word_surah": 2,
+      "word_translation": "[the] water",
+      "word_transliteration": "al-mau"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 1185,
+      "word_number_in_surah": 1156,
+      "word_surah": 2,
+      "word_translation": "and indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 1186,
+      "word_number_in_surah": 1157,
+      "word_surah": 2,
+      "word_translation": "from them",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "لَمَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 1187,
+      "word_number_in_surah": 1158,
+      "word_surah": 2,
+      "word_translation": "certainly (there are some) which",
+      "word_transliteration": "lama"
+    },
+    {
+      "word_arabic": "يَهۡبِطُ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 1188,
+      "word_number_in_surah": 1159,
+      "word_surah": 2,
+      "word_translation": "fall down",
+      "word_transliteration": "yahbitu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 1189,
+      "word_number_in_surah": 1160,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَشۡيَةِ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 1190,
+      "word_number_in_surah": 1161,
+      "word_surah": 2,
+      "word_translation": "fear",
+      "word_transliteration": "khashyati"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 1191,
+      "word_number_in_surah": 1162,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 1192,
+      "word_number_in_surah": 1163,
+      "word_surah": 2,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 1193,
+      "word_number_in_surah": 1164,
+      "word_surah": 2,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِغَٰفِلٍ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 1194,
+      "word_number_in_surah": 1165,
+      "word_surah": 2,
+      "word_translation": "unaware",
+      "word_transliteration": "bighafilin"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 1195,
+      "word_number_in_surah": 1166,
+      "word_surah": 2,
+      "word_translation": "of what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 1196,
+      "word_number_in_surah": 1167,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    }
+  ],
+  "fullArabic": "ثُمَّ قَسَتۡ قُلُوبُكُم مِّنۢ بَعۡدِ ذَٰلِكَ فَهِيَ كَٱلۡحِجَارَةِ أَوۡ أَشَدُّ قَسۡوَةٗۚ وَإِنَّ مِنَ ٱلۡحِجَارَةِ لَمَا يَتَفَجَّرُ مِنۡهُ ٱلۡأَنۡهَٰرُۚ وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ وَإِنَّ مِنۡهَا لَمَا يَهۡبِطُ مِنۡ خَشۡيَةِ ٱللَّهِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+  "fullTranslation": "Then your hearts became hardened after that, being like stones or even harder. For indeed, there are stones from which rivers burst forth, and there are some of them that split open and water comes out, and there are some of them that fall down for fear of Allah. And Allah is not unaware of what you do.",
+  "fullTransliteration": "thumma qasat qulubukum min ba'di dhalika fahiya kal-hijarati aw ashaddu qaswatan wa-inna mina al-hijarati lama yatafajjaru min'hu al-anharu wa-inna min'ha lama yashaqqaqu fayakhruju min'hu al-mau wa-inna min'ha lama yahbitu min khashyati al-lahi wama al-lahu bighafilin amma ta'maluna"
+}

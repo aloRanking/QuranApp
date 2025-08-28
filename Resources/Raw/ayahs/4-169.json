@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 169,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 662,
+    "juz": 6,
+    "manzil": 1,
+    "page": 104,
+    "ruku": 84,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13167,
+      "word_number_in_surah": 3541,
+      "word_surah": 4,
+      "word_translation": "Except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "طَرِيقَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13168,
+      "word_number_in_surah": 3542,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "tariqa"
+    },
+    {
+      "word_arabic": "جَهَنَّمَ",
+      "word_ayah": 169,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13169,
+      "word_number_in_surah": 3543,
+      "word_surah": 4,
+      "word_translation": "(to) Hell",
+      "word_transliteration": "jahannama"
+    },
+    {
+      "word_arabic": "خَٰلِدِينَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13170,
+      "word_number_in_surah": 3544,
+      "word_surah": 4,
+      "word_translation": "abiding",
+      "word_transliteration": "khalidina"
+    },
+    {
+      "word_arabic": "فِيهَآ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13171,
+      "word_number_in_surah": 3545,
+      "word_surah": 4,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "أَبَدٗاۚ",
+      "word_ayah": 169,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13172,
+      "word_number_in_surah": 3546,
+      "word_surah": 4,
+      "word_translation": "forever",
+      "word_transliteration": "abadan"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13173,
+      "word_number_in_surah": 3547,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13174,
+      "word_number_in_surah": 3548,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13175,
+      "word_number_in_surah": 3549,
+      "word_surah": 4,
+      "word_translation": "for",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13176,
+      "word_number_in_surah": 3550,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يَسِيرٗا",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13177,
+      "word_number_in_surah": 3551,
+      "word_surah": 4,
+      "word_translation": "easy",
+      "word_transliteration": "yasiran"
+    }
+  ],
+  "fullArabic": "إِلَّا طَرِيقَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٗا",
+  "fullTranslation": "Except the path of Hell; they will abide therein forever. And that, for Allah, is [always] easy.",
+  "fullTransliteration": "illa tariqa jahannama khalidina fiha abadan wakana dhalika ala al-lahi yasiran"
+}

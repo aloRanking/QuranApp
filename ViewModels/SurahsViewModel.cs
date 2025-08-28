@@ -1,15 +1,13 @@
 using System.Collections.ObjectModel;
-using System.ComponentModel;
 using System.Diagnostics;
 using System.Reactive;
-
+using System.Reactive.Linq;
 using QuranApp.Models;
 using QuranApp.Views;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
 
 namespace QuranApp.ViewModels;
-
 
 public partial class SurahsViewModel : ReactiveObject
 {
@@ -19,25 +17,44 @@ public partial class SurahsViewModel : ReactiveObject
     public ObservableCollection<Surah> Surahs { get; set; } = new();
 
     [Reactive]
+    public ObservableCollection<Surah> FilteredSurahs { get; set; } = new();
+
+    [Reactive]
     public bool IsLoading { get; set; } = false;
+
+    [Reactive]
+    public string SearchText { get; set; } = string.Empty;
 
     public ReactiveCommand<Unit, Unit> LoadSurahsCommand { get; }
     public ReactiveCommand<Surah, Unit> SurahSelectedCommand { get; }
-
-
-
-
+    public ReactiveCommand<Surah, Unit> CancelSearchCommand { get; }
 
     public SurahsViewModel(IQuranService quranService)
     {
         _quranService = quranService;
+
         LoadSurahsCommand = ReactiveCommand.CreateFromTask(LoadSurahsAsync);
         SurahSelectedCommand = ReactiveCommand.CreateFromTask<Surah>(NavigateToAyahsAsync);
+        CancelSearchCommand = ReactiveCommand.Create<Surah>(CancelSearch);
 
+      
+    
+
+
+        // React to SearchText changes
+        this.WhenAnyValue(x => x.SearchText)
+            .Throttle(TimeSpan.FromMilliseconds(300)) // debounce typing
+            .DistinctUntilChanged()
+            .ObserveOn(RxApp.MainThreadScheduler)
+            .Subscribe(FilterSurahs);
     }
 
-
-
+    private void CancelSearch(Surah surah)
+    {
+        SearchText = string.Empty;
+        FilterSurahs(string.Empty);
+        //SearchEntry.Unfocus();
+    }
 
     private async Task LoadSurahsAsync()
     {
@@ -48,16 +65,17 @@ public partial class SurahsViewModel : ReactiveObject
             if (data?.Surahs != null)
             {
                 Surahs.Clear();
+                FilteredSurahs.Clear();
+
                 foreach (var surah in data.Surahs)
                 {
                     Surahs.Add(surah);
+                    FilteredSurahs.Add(surah); // initialize filtered list
                 }
             }
             else
             {
-
                 Debug.WriteLine("No surah data was loaded");
-
                 await Shell.Current.DisplayAlert("Error", "Could not load surah data", "OK");
             }
         }
@@ -70,6 +88,23 @@ public partial class SurahsViewModel : ReactiveObject
         {
             IsLoading = false;
         }
+    }
+
+    private void FilterSurahs(string search)
+    {
+        if (Surahs == null) return;
+
+        FilteredSurahs.Clear();
+
+        var query = string.IsNullOrWhiteSpace(search)
+            ? Surahs
+            : Surahs.Where(s =>
+                   s.English.Contains(search, StringComparison.OrdinalIgnoreCase) ||
+                   s.Arabic.Contains(search, StringComparison.OrdinalIgnoreCase) ||
+                   s.Anglicised.Contains(search, StringComparison.OrdinalIgnoreCase));
+
+        foreach (var surah in query)
+            FilteredSurahs.Add(surah);
     }
 
     private async Task NavigateToAyahsAsync(Surah surah)

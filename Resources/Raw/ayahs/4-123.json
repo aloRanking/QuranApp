@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "ayah": 123,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 616,
+    "juz": 5,
+    "manzil": 1,
+    "page": 98,
+    "ruku": 79,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّيۡسَ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12307,
+      "word_number_in_surah": 2681,
+      "word_surah": 4,
+      "word_translation": "Not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "بِأَمَانِيِّكُمۡ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12308,
+      "word_number_in_surah": 2682,
+      "word_surah": 4,
+      "word_translation": "by your desire",
+      "word_transliteration": "bi-amaniyyikum"
+    },
+    {
+      "word_arabic": "وَلَآ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12309,
+      "word_number_in_surah": 2683,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "أَمَانِيِّ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12310,
+      "word_number_in_surah": 2684,
+      "word_surah": 4,
+      "word_translation": "(by the) desire",
+      "word_transliteration": "amaniyyi"
+    },
+    {
+      "word_arabic": "أَهۡلِ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12311,
+      "word_number_in_surah": 2685,
+      "word_surah": 4,
+      "word_translation": "(of the) People",
+      "word_transliteration": "ahli"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِۗ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12312,
+      "word_number_in_surah": 2686,
+      "word_surah": 4,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 123,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12313,
+      "word_number_in_surah": 2687,
+      "word_surah": 4,
+      "word_translation": "Whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَعۡمَلۡ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12314,
+      "word_number_in_surah": 2688,
+      "word_surah": 4,
+      "word_translation": "does",
+      "word_transliteration": "ya'mal"
+    },
+    {
+      "word_arabic": "سُوٓءٗا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12315,
+      "word_number_in_surah": 2689,
+      "word_surah": 4,
+      "word_translation": "evil",
+      "word_transliteration": "suan"
+    },
+    {
+      "word_arabic": "يُجۡزَ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12316,
+      "word_number_in_surah": 2690,
+      "word_surah": 4,
+      "word_translation": "will be recompensed",
+      "word_transliteration": "yuj'za"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12317,
+      "word_number_in_surah": 2691,
+      "word_surah": 4,
+      "word_translation": "for it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12318,
+      "word_number_in_surah": 2692,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَجِدۡ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12319,
+      "word_number_in_surah": 2693,
+      "word_surah": 4,
+      "word_translation": "he will find",
+      "word_transliteration": "yajid"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 123,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12320,
+      "word_number_in_surah": 2694,
+      "word_surah": 4,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 123,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12321,
+      "word_number_in_surah": 2695,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12322,
+      "word_number_in_surah": 2696,
+      "word_surah": 4,
+      "word_translation": "besides",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12323,
+      "word_number_in_surah": 2697,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلِيّٗا",
+      "word_ayah": 123,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12324,
+      "word_number_in_surah": 2698,
+      "word_surah": 4,
+      "word_translation": "any protector",
+      "word_transliteration": "waliyyan"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12325,
+      "word_number_in_surah": 2699,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "نَصِيرٗا",
+      "word_ayah": 123,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12326,
+      "word_number_in_surah": 2700,
+      "word_surah": 4,
+      "word_translation": "any helper",
+      "word_transliteration": "nasiran"
+    }
+  ],
+  "fullArabic": "لَّيۡسَ بِأَمَانِيِّكُمۡ وَلَآ أَمَانِيِّ أَهۡلِ ٱلۡكِتَٰبِۗ مَن يَعۡمَلۡ سُوٓءٗا يُجۡزَ بِهِۦ وَلَا يَجِدۡ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
+  "fullTranslation": "Paradise is not [obtained] by your wishful thinking nor by that of the People of the Scripture. Whoever does a wrong will be recompensed for it, and he will not find besides Allah a protector or a helper.",
+  "fullTransliteration": "laysa bi-amaniyyikum wala amaniyyi ahli al-kitabi man ya'mal suan yuj'za bihi wala yajid lahu min duni al-lahi waliyyan wala nasiran"
+}

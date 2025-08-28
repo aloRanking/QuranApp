@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 41,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 48,
+    "juz": 1,
+    "manzil": 1,
+    "page": 7,
+    "ruku": 6,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَءَامِنُواْ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 630,
+      "word_number_in_surah": 601,
+      "word_surah": 2,
+      "word_translation": "And believe",
+      "word_transliteration": "waaminu"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 631,
+      "word_number_in_surah": 602,
+      "word_surah": 2,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلۡتُ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 632,
+      "word_number_in_surah": 603,
+      "word_surah": 2,
+      "word_translation": "I have sent down",
+      "word_transliteration": "anzaltu"
+    },
+    {
+      "word_arabic": "مُصَدِّقٗا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 633,
+      "word_number_in_surah": 604,
+      "word_surah": 2,
+      "word_translation": "confirming",
+      "word_transliteration": "musaddiqan"
+    },
+    {
+      "word_arabic": "لِّمَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 634,
+      "word_number_in_surah": 605,
+      "word_surah": 2,
+      "word_translation": "that which",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "مَعَكُمۡ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 635,
+      "word_number_in_surah": 606,
+      "word_surah": 2,
+      "word_translation": "(is) with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 636,
+      "word_number_in_surah": 607,
+      "word_surah": 2,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكُونُوٓاْ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 637,
+      "word_number_in_surah": 608,
+      "word_surah": 2,
+      "word_translation": "be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "أَوَّلَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 638,
+      "word_number_in_surah": 609,
+      "word_surah": 2,
+      "word_translation": "(the) first",
+      "word_transliteration": "awwala"
+    },
+    {
+      "word_arabic": "كَافِرِۢ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 639,
+      "word_number_in_surah": 610,
+      "word_surah": 2,
+      "word_translation": "disbeliever",
+      "word_transliteration": "kafirin"
+    },
+    {
+      "word_arabic": "بِهِۦۖ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 640,
+      "word_number_in_surah": 611,
+      "word_surah": 2,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 641,
+      "word_number_in_surah": 612,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَشۡتَرُواْ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 642,
+      "word_number_in_surah": 613,
+      "word_surah": 2,
+      "word_translation": "exchange",
+      "word_transliteration": "tashtaru"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِي",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 643,
+      "word_number_in_surah": 614,
+      "word_surah": 2,
+      "word_translation": "My Signs (for)",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "ثَمَنٗا",
+      "word_ayah": 41,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 644,
+      "word_number_in_surah": 615,
+      "word_surah": 2,
+      "word_translation": "a price",
+      "word_transliteration": "thamanan"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 645,
+      "word_number_in_surah": 616,
+      "word_surah": 2,
+      "word_translation": "small",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "وَإِيَّٰيَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 646,
+      "word_number_in_surah": 617,
+      "word_surah": 2,
+      "word_translation": "and Me Alone",
+      "word_transliteration": "wa-iyyaya"
+    },
+    {
+      "word_arabic": "فَٱتَّقُونِ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 647,
+      "word_number_in_surah": 618,
+      "word_surah": 2,
+      "word_translation": "fear [Me]",
+      "word_transliteration": "fa-ittaquni"
+    }
+  ],
+  "fullArabic": "وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ أَوَّلَ كَافِرِۢ بِهِۦۖ وَلَا تَشۡتَرُواْ بِ‍َٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّٰيَ فَٱتَّقُونِ",
+  "fullTranslation": "And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me.",
+  "fullTransliteration": "waaminu bima anzaltu musaddiqan lima ma'akum wala takunu awwala kafirin bihi wala tashtaru biayati thamanan qalilan wa-iyyaya fa-ittaquni"
+}

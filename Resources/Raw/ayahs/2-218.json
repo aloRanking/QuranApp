@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "ayah": 218,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 225,
+    "juz": 2,
+    "manzil": 1,
+    "page": 34,
+    "ruku": 28,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 218,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4159,
+      "word_number_in_surah": 4130,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4160,
+      "word_number_in_surah": 4131,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4161,
+      "word_number_in_surah": 4132,
+      "word_surah": 2,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4162,
+      "word_number_in_surah": 4133,
+      "word_surah": 2,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "هَاجَرُواْ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4163,
+      "word_number_in_surah": 4134,
+      "word_surah": 2,
+      "word_translation": "emigrated",
+      "word_transliteration": "hajaru"
+    },
+    {
+      "word_arabic": "وَجَٰهَدُواْ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4164,
+      "word_number_in_surah": 4135,
+      "word_surah": 2,
+      "word_translation": "and strove",
+      "word_transliteration": "wajahadu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4165,
+      "word_number_in_surah": 4136,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4166,
+      "word_number_in_surah": 4137,
+      "word_surah": 2,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4167,
+      "word_number_in_surah": 4138,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4168,
+      "word_number_in_surah": 4139,
+      "word_surah": 2,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "يَرۡجُونَ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4169,
+      "word_number_in_surah": 4140,
+      "word_surah": 2,
+      "word_translation": "they hope",
+      "word_transliteration": "yarjuna"
+    },
+    {
+      "word_arabic": "رَحۡمَتَ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4170,
+      "word_number_in_surah": 4141,
+      "word_surah": 2,
+      "word_translation": "(for) Mercy",
+      "word_transliteration": "rahmata"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4171,
+      "word_number_in_surah": 4142,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 218,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4172,
+      "word_number_in_surah": 4143,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4173,
+      "word_number_in_surah": 4144,
+      "word_surah": 2,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 218,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4174,
+      "word_number_in_surah": 4145,
+      "word_surah": 2,
+      "word_translation": "All-Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ أُوْلَٰٓئِكَ يَرۡجُونَ رَحۡمَتَ ٱللَّهِۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "Indeed, those who have believed and those who have emigrated and fought in the cause of Allah - those expect the mercy of Allah. And Allah is Forgiving and Merciful.",
+  "fullTransliteration": "inna alladhina amanu wa-alladhina hajaru wajahadu fi sabili al-lahi ulaika yarjuna rahmata al-lahi wal-lahu ghafurun rahimun"
+}

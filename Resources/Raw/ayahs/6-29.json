@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 29,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 818,
+    "juz": 7,
+    "manzil": 2,
+    "page": 131,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُوٓاْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16606,
+      "word_number_in_surah": 429,
+      "word_surah": 6,
+      "word_translation": "And they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16607,
+      "word_number_in_surah": 430,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "هِيَ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16608,
+      "word_number_in_surah": 431,
+      "word_surah": 6,
+      "word_translation": "it (is)",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16609,
+      "word_number_in_surah": 432,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "حَيَاتُنَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16610,
+      "word_number_in_surah": 433,
+      "word_surah": 6,
+      "word_translation": "our life",
+      "word_transliteration": "hayatuna"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16611,
+      "word_number_in_surah": 434,
+      "word_surah": 6,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16612,
+      "word_number_in_surah": 435,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "نَحۡنُ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16613,
+      "word_number_in_surah": 436,
+      "word_surah": 6,
+      "word_translation": "we",
+      "word_transliteration": "nahnu"
+    },
+    {
+      "word_arabic": "بِمَبۡعُوثِينَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16614,
+      "word_number_in_surah": 437,
+      "word_surah": 6,
+      "word_translation": "(will be) resurrected",
+      "word_transliteration": "bimab'uthina"
+    }
+  ],
+  "fullArabic": "وَقَالُوٓاْ إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا وَمَا نَحۡنُ بِمَبۡعُوثِينَ",
+  "fullTranslation": "And they say, \"There is none but our worldly life, and we will not be resurrected.\"",
+  "fullTransliteration": "waqalu in hiya illa hayatuna al-dun'ya wama nahnu bimab'uthina"
+}

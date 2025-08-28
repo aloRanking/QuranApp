@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "ayah": 23,
+    "surah": 2,
+    "words": 20,
+    "numberInQuran": 30,
+    "juz": 1,
+    "manzil": 1,
+    "page": 4,
+    "ruku": 4,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 294,
+      "word_number_in_surah": 265,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 295,
+      "word_number_in_surah": 266,
+      "word_surah": 2,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 296,
+      "word_number_in_surah": 267,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "رَيۡبٖ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 297,
+      "word_number_in_surah": 268,
+      "word_surah": 2,
+      "word_translation": "doubt",
+      "word_transliteration": "raybin"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 298,
+      "word_number_in_surah": 269,
+      "word_surah": 2,
+      "word_translation": "about what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "نَزَّلۡنَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 299,
+      "word_number_in_surah": 270,
+      "word_surah": 2,
+      "word_translation": "We have revealed",
+      "word_transliteration": "nazzalna"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 300,
+      "word_number_in_surah": 271,
+      "word_surah": 2,
+      "word_translation": "to",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "عَبۡدِنَا",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 301,
+      "word_number_in_surah": 272,
+      "word_surah": 2,
+      "word_translation": "Our slave",
+      "word_transliteration": "abdina"
+    },
+    {
+      "word_arabic": "فَأۡتُواْ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 302,
+      "word_number_in_surah": 273,
+      "word_surah": 2,
+      "word_translation": "then produce",
+      "word_transliteration": "fatu"
+    },
+    {
+      "word_arabic": "بِسُورَةٖ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 303,
+      "word_number_in_surah": 274,
+      "word_surah": 2,
+      "word_translation": "a chapter",
+      "word_transliteration": "bisuratin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 304,
+      "word_number_in_surah": 275,
+      "word_surah": 2,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "مِّثۡلِهِۦ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 305,
+      "word_number_in_surah": 276,
+      "word_surah": 2,
+      "word_translation": "like it",
+      "word_transliteration": "mith'lihi"
+    },
+    {
+      "word_arabic": "وَٱدۡعُواْ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 306,
+      "word_number_in_surah": 277,
+      "word_surah": 2,
+      "word_translation": "and call",
+      "word_transliteration": "wa-id'u"
+    },
+    {
+      "word_arabic": "شُهَدَآءَكُم",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 307,
+      "word_number_in_surah": 278,
+      "word_surah": 2,
+      "word_translation": "your witnesses",
+      "word_transliteration": "shuhadaakum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 308,
+      "word_number_in_surah": 279,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 309,
+      "word_number_in_surah": 280,
+      "word_surah": 2,
+      "word_translation": "other than",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 310,
+      "word_number_in_surah": 281,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 23,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 311,
+      "word_number_in_surah": 282,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 312,
+      "word_number_in_surah": 283,
+      "word_surah": 2,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "صَٰدِقِينَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 313,
+      "word_number_in_surah": 284,
+      "word_surah": 2,
+      "word_translation": "truthful",
+      "word_transliteration": "sadiqina"
+    }
+  ],
+  "fullArabic": "وَإِن كُنتُمۡ فِي رَيۡبٖ مِّمَّا نَزَّلۡنَا عَلَىٰ عَبۡدِنَا فَأۡتُواْ بِسُورَةٖ مِّن مِّثۡلِهِۦ وَٱدۡعُواْ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ صَٰدِقِينَ",
+  "fullTranslation": "And if you are in doubt about what We have sent down upon Our Servant [Muhammad], then produce a surah the like thereof and call upon your witnesses other than Allah, if you should be truthful.",
+  "fullTransliteration": "wa-in kuntum fi raybin mimma nazzalna ala abdina fatu bisuratin min mith'lihi wa-id'u shuhadaakum min duni al-lahi in kuntum sadiqina"
+}

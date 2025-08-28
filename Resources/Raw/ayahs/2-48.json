@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "ayah": 48,
+    "surah": 2,
+    "words": 19,
+    "numberInQuran": 55,
+    "juz": 1,
+    "manzil": 1,
+    "page": 7,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 700,
+      "word_number_in_surah": 671,
+      "word_surah": 2,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "يَوۡمٗا",
+      "word_ayah": 48,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 701,
+      "word_number_in_surah": 672,
+      "word_surah": 2,
+      "word_translation": "a day",
+      "word_transliteration": "yawman"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 702,
+      "word_number_in_surah": 673,
+      "word_surah": 2,
+      "word_translation": "(will) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَجۡزِي",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 703,
+      "word_number_in_surah": 674,
+      "word_surah": 2,
+      "word_translation": "avail",
+      "word_transliteration": "tajzi"
+    },
+    {
+      "word_arabic": "نَفۡسٌ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 704,
+      "word_number_in_surah": 675,
+      "word_surah": 2,
+      "word_translation": "any soul",
+      "word_transliteration": "nafsun"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 705,
+      "word_number_in_surah": 676,
+      "word_surah": 2,
+      "word_translation": "for",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "نَّفۡسٖ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 706,
+      "word_number_in_surah": 677,
+      "word_surah": 2,
+      "word_translation": "(another) soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗا",
+      "word_ayah": 48,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 707,
+      "word_number_in_surah": 678,
+      "word_surah": 2,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 708,
+      "word_number_in_surah": 679,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُقۡبَلُ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 709,
+      "word_number_in_surah": 680,
+      "word_surah": 2,
+      "word_translation": "will be accepted",
+      "word_transliteration": "yuq'balu"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 710,
+      "word_number_in_surah": 681,
+      "word_surah": 2,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "شَفَٰعَةٞ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 711,
+      "word_number_in_surah": 682,
+      "word_surah": 2,
+      "word_translation": "any intercession",
+      "word_transliteration": "shafa'atun"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 712,
+      "word_number_in_surah": 683,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُؤۡخَذُ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 713,
+      "word_number_in_surah": 684,
+      "word_surah": 2,
+      "word_translation": "will be taken",
+      "word_transliteration": "yu'khadhu"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 714,
+      "word_number_in_surah": 685,
+      "word_surah": 2,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "عَدۡلٞ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 715,
+      "word_number_in_surah": 686,
+      "word_surah": 2,
+      "word_translation": "a compensation",
+      "word_transliteration": "adlun"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 716,
+      "word_number_in_surah": 687,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 717,
+      "word_number_in_surah": 688,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يُنصَرُونَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 718,
+      "word_number_in_surah": 689,
+      "word_surah": 2,
+      "word_translation": "will be helped",
+      "word_transliteration": "yunsaruna"
+    }
+  ],
+  "fullArabic": "وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡ‍ٔٗا وَلَا يُقۡبَلُ مِنۡهَا شَفَٰعَةٞ وَلَا يُؤۡخَذُ مِنۡهَا عَدۡلٞ وَلَا هُمۡ يُنصَرُونَ",
+  "fullTranslation": "And fear a Day when no soul will suffice for another soul at all, nor will intercession be accepted from it, nor will compensation be taken from it, nor will they be aided.",
+  "fullTransliteration": "wa-ittaqu yawman la tajzi nafsun an nafsin shayan wala yuq'balu min'ha shafa'atun wala yu'khadhu min'ha adlun wala hum yunsaruna"
+}

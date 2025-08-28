@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "ayah": 125,
+    "surah": 4,
+    "words": 17,
+    "numberInQuran": 618,
+    "juz": 5,
+    "manzil": 1,
+    "page": 98,
+    "ruku": 79,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَنۡ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12343,
+      "word_number_in_surah": 2717,
+      "word_surah": 4,
+      "word_translation": "And who",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "أَحۡسَنُ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12344,
+      "word_number_in_surah": 2718,
+      "word_surah": 4,
+      "word_translation": "(is) better",
+      "word_transliteration": "ahsanu"
+    },
+    {
+      "word_arabic": "دِينٗا",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12345,
+      "word_number_in_surah": 2719,
+      "word_surah": 4,
+      "word_translation": "(in) religion",
+      "word_transliteration": "dinan"
+    },
+    {
+      "word_arabic": "مِّمَّنۡ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12346,
+      "word_number_in_surah": 2720,
+      "word_surah": 4,
+      "word_translation": "than (one) who",
+      "word_transliteration": "mimman"
+    },
+    {
+      "word_arabic": "أَسۡلَمَ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12347,
+      "word_number_in_surah": 2721,
+      "word_surah": 4,
+      "word_translation": "submits",
+      "word_transliteration": "aslama"
+    },
+    {
+      "word_arabic": "وَجۡهَهُۥ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12348,
+      "word_number_in_surah": 2722,
+      "word_surah": 4,
+      "word_translation": "his face",
+      "word_transliteration": "wajhahu"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12349,
+      "word_number_in_surah": 2723,
+      "word_surah": 4,
+      "word_translation": "to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12350,
+      "word_number_in_surah": 2724,
+      "word_surah": 4,
+      "word_translation": "and he",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "مُحۡسِنٞ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12351,
+      "word_number_in_surah": 2725,
+      "word_surah": 4,
+      "word_translation": "(is) a good-doer",
+      "word_transliteration": "muh'sinun"
+    },
+    {
+      "word_arabic": "وَٱتَّبَعَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12352,
+      "word_number_in_surah": 2726,
+      "word_surah": 4,
+      "word_translation": "and follows",
+      "word_transliteration": "wa-ittaba'a"
+    },
+    {
+      "word_arabic": "مِلَّةَ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12353,
+      "word_number_in_surah": 2727,
+      "word_surah": 4,
+      "word_translation": "(the) religion",
+      "word_transliteration": "millata"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12354,
+      "word_number_in_surah": 2728,
+      "word_surah": 4,
+      "word_translation": "(of) Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "حَنِيفٗاۗ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12355,
+      "word_number_in_surah": 2729,
+      "word_surah": 4,
+      "word_translation": "(the) upright",
+      "word_transliteration": "hanifan"
+    },
+    {
+      "word_arabic": "وَٱتَّخَذَ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12356,
+      "word_number_in_surah": 2730,
+      "word_surah": 4,
+      "word_translation": "And was taken",
+      "word_transliteration": "wa-ittakhadha"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12357,
+      "word_number_in_surah": 2731,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12358,
+      "word_number_in_surah": 2732,
+      "word_surah": 4,
+      "word_translation": "Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "خَلِيلٗا",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12359,
+      "word_number_in_surah": 2733,
+      "word_surah": 4,
+      "word_translation": "(as) a friend",
+      "word_transliteration": "khalilan"
+    }
+  ],
+  "fullArabic": "وَمَنۡ أَحۡسَنُ دِينٗا مِّمَّنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ وَٱتَّبَعَ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۗ وَٱتَّخَذَ ٱللَّهُ إِبۡرَٰهِيمَ خَلِيلٗا",
+  "fullTranslation": "And who is better in religion than one who submits himself to Allah while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allah took Abraham as an intimate friend.",
+  "fullTransliteration": "waman ahsanu dinan mimman aslama wajhahu lillahi wahuwa muh'sinun wa-ittaba'a millata ib'rahima hanifan wa-ittakhadha al-lahu ib'rahima khalilan"
+}

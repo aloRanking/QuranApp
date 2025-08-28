@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 169,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 176,
+    "juz": 2,
+    "manzil": 1,
+    "page": 25,
+    "ruku": 22,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3031,
+      "word_number_in_surah": 3002,
+      "word_surah": 2,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "يَأۡمُرُكُم",
+      "word_ayah": 169,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3032,
+      "word_number_in_surah": 3003,
+      "word_surah": 2,
+      "word_translation": "he commands you",
+      "word_transliteration": "yamurukum"
+    },
+    {
+      "word_arabic": "بِٱلسُّوٓءِ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3033,
+      "word_number_in_surah": 3004,
+      "word_surah": 2,
+      "word_translation": "to (do) the evil",
+      "word_transliteration": "bil-sui"
+    },
+    {
+      "word_arabic": "وَٱلۡفَحۡشَآءِ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3034,
+      "word_number_in_surah": 3005,
+      "word_surah": 2,
+      "word_translation": "and the shameful",
+      "word_transliteration": "wal-fahshai"
+    },
+    {
+      "word_arabic": "وَأَن",
+      "word_ayah": 169,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3035,
+      "word_number_in_surah": 3006,
+      "word_surah": 2,
+      "word_translation": "and that",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "تَقُولُواْ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3036,
+      "word_number_in_surah": 3007,
+      "word_surah": 2,
+      "word_translation": "you say",
+      "word_transliteration": "taqulu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3037,
+      "word_number_in_surah": 3008,
+      "word_surah": 2,
+      "word_translation": "about",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3038,
+      "word_number_in_surah": 3009,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3039,
+      "word_number_in_surah": 3010,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3040,
+      "word_number_in_surah": 3011,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3041,
+      "word_number_in_surah": 3012,
+      "word_surah": 2,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "إِنَّمَا يَأۡمُرُكُم بِٱلسُّوٓءِ وَٱلۡفَحۡشَآءِ وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "fullTranslation": "He only orders you to evil and immorality and to say about Allah what you do not know.",
+  "fullTransliteration": "innama yamurukum bil-sui wal-fahshai wa-an taqulu ala al-lahi ma la ta'lamuna"
+}

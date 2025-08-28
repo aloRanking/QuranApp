@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "ayah": 97,
+    "surah": 4,
+    "words": 27,
+    "numberInQuran": 590,
+    "juz": 5,
+    "manzil": 1,
+    "page": 94,
+    "ruku": 75,
+    "hizbQuarter": 37,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11813,
+      "word_number_in_surah": 2187,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11814,
+      "word_number_in_surah": 2188,
+      "word_surah": 4,
+      "word_translation": "those whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "تَوَفَّىٰهُمُ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11815,
+      "word_number_in_surah": 2189,
+      "word_surah": 4,
+      "word_translation": "take them (in death)",
+      "word_transliteration": "tawaffahumu"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11816,
+      "word_number_in_surah": 2190,
+      "word_surah": 4,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikatu"
+    },
+    {
+      "word_arabic": "ظَالِمِيٓ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11817,
+      "word_number_in_surah": 2191,
+      "word_surah": 4,
+      "word_translation": "(while) they (were) wronging",
+      "word_transliteration": "zalimi"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11818,
+      "word_number_in_surah": 2192,
+      "word_surah": 4,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11819,
+      "word_number_in_surah": 2193,
+      "word_surah": 4,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "فِيمَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11820,
+      "word_number_in_surah": 2194,
+      "word_surah": 4,
+      "word_translation": "In what (condition)",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "كُنتُمۡۖ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11821,
+      "word_number_in_surah": 2195,
+      "word_surah": 4,
+      "word_translation": "were you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11822,
+      "word_number_in_surah": 2196,
+      "word_surah": 4,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "كُنَّا",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11823,
+      "word_number_in_surah": 2197,
+      "word_surah": 4,
+      "word_translation": "We were",
+      "word_transliteration": "kunna"
+    },
+    {
+      "word_arabic": "مُسۡتَضۡعَفِينَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11824,
+      "word_number_in_surah": 2198,
+      "word_surah": 4,
+      "word_translation": "oppressed",
+      "word_transliteration": "mus'tad'afina"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11825,
+      "word_number_in_surah": 2199,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۚ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11826,
+      "word_number_in_surah": 2200,
+      "word_surah": 4,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11827,
+      "word_number_in_surah": 2201,
+      "word_surah": 4,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11828,
+      "word_number_in_surah": 2202,
+      "word_surah": 4,
+      "word_translation": "Not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "تَكُنۡ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11829,
+      "word_number_in_surah": 2203,
+      "word_surah": 4,
+      "word_translation": "was",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "أَرۡضُ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11830,
+      "word_number_in_surah": 2204,
+      "word_surah": 4,
+      "word_translation": "(the) earth",
+      "word_transliteration": "ardu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11831,
+      "word_number_in_surah": 2205,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٰسِعَةٗ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11832,
+      "word_number_in_surah": 2206,
+      "word_surah": 4,
+      "word_translation": "spacious (enough)",
+      "word_transliteration": "wasi'atan"
+    },
+    {
+      "word_arabic": "فَتُهَاجِرُواْ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11833,
+      "word_number_in_surah": 2207,
+      "word_surah": 4,
+      "word_translation": "so that you (could) emigrate",
+      "word_transliteration": "fatuhajiru"
+    },
+    {
+      "word_arabic": "فِيهَاۚ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11834,
+      "word_number_in_surah": 2208,
+      "word_surah": 4,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "فَأُوْلَٰٓئِكَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11835,
+      "word_number_in_surah": 2209,
+      "word_surah": 4,
+      "word_translation": "Then those",
+      "word_transliteration": "fa-ulaika"
+    },
+    {
+      "word_arabic": "مَأۡوَىٰهُمۡ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11836,
+      "word_number_in_surah": 2210,
+      "word_surah": 4,
+      "word_translation": "(will have) their abode",
+      "word_transliteration": "mawahum"
+    },
+    {
+      "word_arabic": "جَهَنَّمُۖ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11837,
+      "word_number_in_surah": 2211,
+      "word_surah": 4,
+      "word_translation": "(in) Hell",
+      "word_transliteration": "jahannamu"
+    },
+    {
+      "word_arabic": "وَسَآءَتۡ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11838,
+      "word_number_in_surah": 2212,
+      "word_surah": 4,
+      "word_translation": "and it is an evil",
+      "word_transliteration": "wasaat"
+    },
+    {
+      "word_arabic": "مَصِيرًا",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11839,
+      "word_number_in_surah": 2213,
+      "word_surah": 4,
+      "word_translation": "destination",
+      "word_transliteration": "masiran"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ ظَالِمِيٓ أَنفُسِهِمۡ قَالُواْ فِيمَ كُنتُمۡۖ قَالُواْ كُنَّا مُسۡتَضۡعَفِينَ فِي ٱلۡأَرۡضِۚ قَالُوٓاْ أَلَمۡ تَكُنۡ أَرۡضُ ٱللَّهِ وَٰسِعَةٗ فَتُهَاجِرُواْ فِيهَاۚ فَأُوْلَٰٓئِكَ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَسَآءَتۡ مَصِيرًا",
+  "fullTranslation": "Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, \"In what [condition] were you?\" They will say, \"We were oppressed in the land.\" The angels will say, \"Was not the earth of Allah spacious [enough] for you to emigrate therein?\" For those, their refuge is Hell - and evil it is as a destination.",
+  "fullTransliteration": "inna alladhina tawaffahumu al-malaikatu zalimi anfusihim qalu fima kuntum qalu kunna mus'tad'afina fi al-ardi qalu alam takun ardu al-lahi wasi'atan fatuhajiru fiha fa-ulaika mawahum jahannamu wasaat masiran"
+}

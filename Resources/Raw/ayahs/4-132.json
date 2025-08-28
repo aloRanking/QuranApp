@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "ayah": 132,
+    "surah": 4,
+    "words": 10,
+    "numberInQuran": 625,
+    "juz": 5,
+    "manzil": 1,
+    "page": 99,
+    "ruku": 80,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12506,
+      "word_number_in_surah": 2880,
+      "word_surah": 4,
+      "word_translation": "And for Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12507,
+      "word_number_in_surah": 2881,
+      "word_surah": 4,
+      "word_translation": "(is) whatever",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12508,
+      "word_number_in_surah": 2882,
+      "word_surah": 4,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12509,
+      "word_number_in_surah": 2883,
+      "word_surah": 4,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12510,
+      "word_number_in_surah": 2884,
+      "word_surah": 4,
+      "word_translation": "and whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12511,
+      "word_number_in_surah": 2885,
+      "word_surah": 4,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۚ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12512,
+      "word_number_in_surah": 2886,
+      "word_surah": 4,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12513,
+      "word_number_in_surah": 2887,
+      "word_surah": 4,
+      "word_translation": "And is sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12514,
+      "word_number_in_surah": 2888,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَكِيلًا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12515,
+      "word_number_in_surah": 2889,
+      "word_surah": 4,
+      "word_translation": "(as) a Disposer of affairs",
+      "word_transliteration": "wakilan"
+    }
+  ],
+  "fullArabic": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+  "fullTranslation": "And to Allah belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allah as Disposer of affairs.",
+  "fullTransliteration": "walillahi ma fi al-samawati wama fi al-ardi wakafa bil-lahi wakilan"
+}

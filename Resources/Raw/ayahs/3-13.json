@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "ayah": 13,
+    "surah": 3,
+    "words": 29,
+    "numberInQuran": 306,
+    "juz": 3,
+    "manzil": 1,
+    "page": 51,
+    "ruku": 43,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6320,
+      "word_number_in_surah": 175,
+      "word_surah": 3,
+      "word_translation": "Surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6321,
+      "word_number_in_surah": 176,
+      "word_surah": 3,
+      "word_translation": "it was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6322,
+      "word_number_in_surah": 177,
+      "word_surah": 3,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "ءَايَةٞ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6323,
+      "word_number_in_surah": 178,
+      "word_surah": 3,
+      "word_translation": "a sign",
+      "word_transliteration": "ayatun"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6324,
+      "word_number_in_surah": 179,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "فِئَتَيۡنِ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6325,
+      "word_number_in_surah": 180,
+      "word_surah": 3,
+      "word_translation": "(the) two hosts",
+      "word_transliteration": "fi-atayni"
+    },
+    {
+      "word_arabic": "ٱلۡتَقَتَاۖ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6326,
+      "word_number_in_surah": 181,
+      "word_surah": 3,
+      "word_translation": "which met",
+      "word_transliteration": "al-taqata"
+    },
+    {
+      "word_arabic": "فِئَةٞ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6327,
+      "word_number_in_surah": 182,
+      "word_surah": 3,
+      "word_translation": "one group",
+      "word_transliteration": "fi-atun"
+    },
+    {
+      "word_arabic": "تُقَٰتِلُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6328,
+      "word_number_in_surah": 183,
+      "word_surah": 3,
+      "word_translation": "fighting",
+      "word_transliteration": "tuqatilu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6329,
+      "word_number_in_surah": 184,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6330,
+      "word_number_in_surah": 185,
+      "word_surah": 3,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6331,
+      "word_number_in_surah": 186,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَأُخۡرَىٰ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6332,
+      "word_number_in_surah": 187,
+      "word_surah": 3,
+      "word_translation": "and another",
+      "word_transliteration": "wa-ukh'ra"
+    },
+    {
+      "word_arabic": "كَافِرَةٞ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6333,
+      "word_number_in_surah": 188,
+      "word_surah": 3,
+      "word_translation": "disbelievers",
+      "word_transliteration": "kafiratun"
+    },
+    {
+      "word_arabic": "يَرَوۡنَهُم",
+      "word_ayah": 13,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6334,
+      "word_number_in_surah": 189,
+      "word_surah": 3,
+      "word_translation": "They were seeing them",
+      "word_transliteration": "yarawnahum"
+    },
+    {
+      "word_arabic": "مِّثۡلَيۡهِمۡ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6335,
+      "word_number_in_surah": 190,
+      "word_surah": 3,
+      "word_translation": "twice of them",
+      "word_transliteration": "mith'layhim"
+    },
+    {
+      "word_arabic": "رَأۡيَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6336,
+      "word_number_in_surah": 191,
+      "word_surah": 3,
+      "word_translation": "with the sight",
+      "word_transliteration": "raya"
+    },
+    {
+      "word_arabic": "ٱلۡعَيۡنِۚ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6337,
+      "word_number_in_surah": 192,
+      "word_surah": 3,
+      "word_translation": "(of) their eyes",
+      "word_transliteration": "al-'ayni"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6338,
+      "word_number_in_surah": 193,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُؤَيِّدُ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6339,
+      "word_number_in_surah": 194,
+      "word_surah": 3,
+      "word_translation": "supports",
+      "word_transliteration": "yu-ayyidu"
+    },
+    {
+      "word_arabic": "بِنَصۡرِهِۦ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6340,
+      "word_number_in_surah": 195,
+      "word_surah": 3,
+      "word_translation": "with His help",
+      "word_transliteration": "binasrihi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 13,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6341,
+      "word_number_in_surah": 196,
+      "word_surah": 3,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6342,
+      "word_number_in_surah": 197,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6343,
+      "word_number_in_surah": 198,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6344,
+      "word_number_in_surah": 199,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6345,
+      "word_number_in_surah": 200,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "لَعِبۡرَةٗ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 6346,
+      "word_number_in_surah": 201,
+      "word_surah": 3,
+      "word_translation": "surely (is) a lesson",
+      "word_transliteration": "la'ib'ratan"
+    },
+    {
+      "word_arabic": "لِّأُوْلِي",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 6347,
+      "word_number_in_surah": 202,
+      "word_surah": 3,
+      "word_translation": "for the owners",
+      "word_transliteration": "li-uli"
+    },
+    {
+      "word_arabic": "ٱلۡأَبۡصَٰرِ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 6348,
+      "word_number_in_surah": 203,
+      "word_surah": 3,
+      "word_translation": "(of) vision",
+      "word_transliteration": "al-absari"
+    }
+  ],
+  "fullArabic": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+  "fullTranslation": "Already there has been for you a sign in the two armies which met - one fighting in the cause of Allah and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allah supports with His victory whom He wills. Indeed in that is a lesson for those of vision.",
+  "fullTransliteration": "qad kana lakum ayatun fi fi-atayni al-taqata fi-atun tuqatilu fi sabili al-lahi wa-ukh'ra kafiratun yarawnahum mith'layhim raya al-'ayni wal-lahu yu-ayyidu binasrihi man yashau inna fi dhalika la'ib'ratan li-uli al-absari"
+}

@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "ayah": 1,
+    "surah": 4,
+    "words": 28,
+    "numberInQuran": 494,
+    "juz": 4,
+    "manzil": 1,
+    "page": 77,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9627,
+      "word_number_in_surah": 1,
+      "word_surah": 4,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9628,
+      "word_number_in_surah": 2,
+      "word_surah": 4,
+      "word_translation": "mankind",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "ٱتَّقُواْ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9629,
+      "word_number_in_surah": 3,
+      "word_surah": 4,
+      "word_translation": "Fear",
+      "word_transliteration": "ittaqu"
+    },
+    {
+      "word_arabic": "رَبَّكُمُ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9630,
+      "word_number_in_surah": 4,
+      "word_surah": 4,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbakumu"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9631,
+      "word_number_in_surah": 5,
+      "word_surah": 4,
+      "word_translation": "the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "خَلَقَكُم",
+      "word_ayah": 1,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9632,
+      "word_number_in_surah": 6,
+      "word_surah": 4,
+      "word_translation": "created you",
+      "word_transliteration": "khalaqakum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 1,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9633,
+      "word_number_in_surah": 7,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّفۡسٖ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9634,
+      "word_number_in_surah": 8,
+      "word_surah": 4,
+      "word_translation": "a soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "وَٰحِدَةٖ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9635,
+      "word_number_in_surah": 9,
+      "word_surah": 4,
+      "word_translation": "single",
+      "word_transliteration": "wahidatin"
+    },
+    {
+      "word_arabic": "وَخَلَقَ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9636,
+      "word_number_in_surah": 10,
+      "word_surah": 4,
+      "word_translation": "and created",
+      "word_transliteration": "wakhalaqa"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9637,
+      "word_number_in_surah": 11,
+      "word_surah": 4,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "زَوۡجَهَا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9638,
+      "word_number_in_surah": 12,
+      "word_surah": 4,
+      "word_translation": "its mate",
+      "word_transliteration": "zawjaha"
+    },
+    {
+      "word_arabic": "وَبَثَّ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9639,
+      "word_number_in_surah": 13,
+      "word_surah": 4,
+      "word_translation": "and dispersed",
+      "word_transliteration": "wabatha"
+    },
+    {
+      "word_arabic": "مِنۡهُمَا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9640,
+      "word_number_in_surah": 14,
+      "word_surah": 4,
+      "word_translation": "from both of them",
+      "word_transliteration": "min'huma"
+    },
+    {
+      "word_arabic": "رِجَالٗا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9641,
+      "word_number_in_surah": 15,
+      "word_surah": 4,
+      "word_translation": "men",
+      "word_transliteration": "rijalan"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9642,
+      "word_number_in_surah": 16,
+      "word_surah": 4,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "وَنِسَآءٗۚ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9643,
+      "word_number_in_surah": 17,
+      "word_surah": 4,
+      "word_translation": "and women",
+      "word_transliteration": "wanisaan"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9644,
+      "word_number_in_surah": 18,
+      "word_surah": 4,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9645,
+      "word_number_in_surah": 19,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9646,
+      "word_number_in_surah": 20,
+      "word_surah": 4,
+      "word_translation": "(through) Whom",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "تَسَآءَلُونَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9647,
+      "word_number_in_surah": 21,
+      "word_surah": 4,
+      "word_translation": "you ask",
+      "word_transliteration": "tasaaluna"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9648,
+      "word_number_in_surah": 22,
+      "word_surah": 4,
+      "word_translation": "[with it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡحَامَۚ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 9649,
+      "word_number_in_surah": 23,
+      "word_surah": 4,
+      "word_translation": "and the wombs",
+      "word_transliteration": "wal-arhama"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 9650,
+      "word_number_in_surah": 24,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 9651,
+      "word_number_in_surah": 25,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 9652,
+      "word_number_in_surah": 26,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 9653,
+      "word_number_in_surah": 27,
+      "word_surah": 4,
+      "word_translation": "over you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "رَقِيبٗا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 9654,
+      "word_number_in_surah": 28,
+      "word_surah": 4,
+      "word_translation": "Ever-Watchful",
+      "word_transliteration": "raqiban"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَخَلَقَ مِنۡهَا زَوۡجَهَا وَبَثَّ مِنۡهُمَا رِجَالٗا كَثِيرٗا وَنِسَآءٗۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِي تَسَآءَلُونَ بِهِۦ وَٱلۡأَرۡحَامَۚ إِنَّ ٱللَّهَ كَانَ عَلَيۡكُمۡ رَقِيبٗا",
+  "fullTranslation": "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allah, through whom you ask one another, and the wombs. Indeed Allah is ever, over you, an Observer.",
+  "fullTransliteration": "yaayyuha al-nasu ittaqu rabbakumu alladhi khalaqakum min nafsin wahidatin wakhalaqa min'ha zawjaha wabatha min'huma rijalan kathiran wanisaan wa-ittaqu al-laha alladhi tasaaluna bihi wal-arhama inna al-laha kana alaykum raqiban"
+}

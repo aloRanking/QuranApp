@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "ayah": 33,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 326,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞إِنَّ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6709,
+      "word_number_in_surah": 564,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6710,
+      "word_number_in_surah": 565,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "ٱصۡطَفَىٰٓ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6711,
+      "word_number_in_surah": 566,
+      "word_surah": 3,
+      "word_translation": "chose",
+      "word_transliteration": "is'tafa"
+    },
+    {
+      "word_arabic": "ءَادَمَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6712,
+      "word_number_in_surah": 567,
+      "word_surah": 3,
+      "word_translation": "Adam",
+      "word_transliteration": "adama"
+    },
+    {
+      "word_arabic": "وَنُوحٗا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6713,
+      "word_number_in_surah": 568,
+      "word_surah": 3,
+      "word_translation": "and Nuh",
+      "word_transliteration": "wanuhan"
+    },
+    {
+      "word_arabic": "وَءَالَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6714,
+      "word_number_in_surah": 569,
+      "word_surah": 3,
+      "word_translation": "and (the) family",
+      "word_transliteration": "waala"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6715,
+      "word_number_in_surah": 570,
+      "word_surah": 3,
+      "word_translation": "(of) Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "وَءَالَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6716,
+      "word_number_in_surah": 571,
+      "word_surah": 3,
+      "word_translation": "and (the) family",
+      "word_transliteration": "waala"
+    },
+    {
+      "word_arabic": "عِمۡرَٰنَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6717,
+      "word_number_in_surah": 572,
+      "word_surah": 3,
+      "word_translation": "(of) Imran",
+      "word_transliteration": "im'rana"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6718,
+      "word_number_in_surah": 573,
+      "word_surah": 3,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6719,
+      "word_number_in_surah": 574,
+      "word_surah": 3,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "۞إِنَّ ٱللَّهَ ٱصۡطَفَىٰٓ ءَادَمَ وَنُوحٗا وَءَالَ إِبۡرَٰهِيمَ وَءَالَ عِمۡرَٰنَ عَلَى ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "Indeed, Allah chose Adam and Noah and the family of Abraham and the family of 'Imran over the worlds -",
+  "fullTransliteration": "inna al-laha is'tafa adama wanuhan waala ib'rahima waala im'rana ala al-'alamina"
+}

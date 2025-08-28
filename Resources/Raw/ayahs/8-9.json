@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "ayah": 9,
+    "surah": 8,
+    "words": 11,
+    "numberInQuran": 1169,
+    "juz": 9,
+    "manzil": 2,
+    "page": 178,
+    "ruku": 146,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22653,
+      "word_number_in_surah": 106,
+      "word_surah": 8,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "تَسۡتَغِيثُونَ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22654,
+      "word_number_in_surah": 107,
+      "word_surah": 8,
+      "word_translation": "you were seeking help",
+      "word_transliteration": "tastaghithuna"
+    },
+    {
+      "word_arabic": "رَبَّكُمۡ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22655,
+      "word_number_in_surah": 108,
+      "word_surah": 8,
+      "word_translation": "(of) your Lord",
+      "word_transliteration": "rabbakum"
+    },
+    {
+      "word_arabic": "فَٱسۡتَجَابَ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22656,
+      "word_number_in_surah": 109,
+      "word_surah": 8,
+      "word_translation": "and He answered",
+      "word_transliteration": "fa-is'tajaba"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22657,
+      "word_number_in_surah": 110,
+      "word_surah": 8,
+      "word_translation": "[to] you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "أَنِّي",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22658,
+      "word_number_in_surah": 111,
+      "word_surah": 8,
+      "word_translation": "Indeed I am",
+      "word_transliteration": "anni"
+    },
+    {
+      "word_arabic": "مُمِدُّكُم",
+      "word_ayah": 9,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22659,
+      "word_number_in_surah": 112,
+      "word_surah": 8,
+      "word_translation": "going to reinforce you",
+      "word_transliteration": "mumiddukum"
+    },
+    {
+      "word_arabic": "بِأَلۡفٖ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22660,
+      "word_number_in_surah": 113,
+      "word_surah": 8,
+      "word_translation": "with a thousand",
+      "word_transliteration": "bi-alfin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22661,
+      "word_number_in_surah": 114,
+      "word_surah": 8,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22662,
+      "word_number_in_surah": 115,
+      "word_surah": 8,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikati"
+    },
+    {
+      "word_arabic": "مُرۡدِفِينَ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22663,
+      "word_number_in_surah": 116,
+      "word_surah": 8,
+      "word_translation": "one after another",
+      "word_transliteration": "mur'difina"
+    }
+  ],
+  "fullArabic": "إِذۡ تَسۡتَغِيثُونَ رَبَّكُمۡ فَٱسۡتَجَابَ لَكُمۡ أَنِّي مُمِدُّكُم بِأَلۡفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُرۡدِفِينَ",
+  "fullTranslation": "[Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\"",
+  "fullTransliteration": "idh tastaghithuna rabbakum fa-is'tajaba lakum anni mumiddukum bi-alfin mina al-malaikati mur'difina"
+}

@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 71,
+    "surah": 5,
+    "words": 19,
+    "numberInQuran": 740,
+    "juz": 6,
+    "manzil": 2,
+    "page": 120,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَحَسِبُوٓاْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15101,
+      "word_number_in_surah": 1728,
+      "word_surah": 5,
+      "word_translation": "And they thought",
+      "word_transliteration": "wahasibu"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15102,
+      "word_number_in_surah": 1729,
+      "word_surah": 5,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تَكُونَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15103,
+      "word_number_in_surah": 1730,
+      "word_surah": 5,
+      "word_translation": "will be (for them)",
+      "word_transliteration": "takuna"
+    },
+    {
+      "word_arabic": "فِتۡنَةٞ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15104,
+      "word_number_in_surah": 1731,
+      "word_surah": 5,
+      "word_translation": "a trial",
+      "word_transliteration": "fit'natun"
+    },
+    {
+      "word_arabic": "فَعَمُواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15105,
+      "word_number_in_surah": 1732,
+      "word_surah": 5,
+      "word_translation": "so they became blind",
+      "word_transliteration": "fa'amu"
+    },
+    {
+      "word_arabic": "وَصَمُّواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15106,
+      "word_number_in_surah": 1733,
+      "word_surah": 5,
+      "word_translation": "and they became deaf",
+      "word_transliteration": "wasammu"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15107,
+      "word_number_in_surah": 1734,
+      "word_surah": 5,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تَابَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15108,
+      "word_number_in_surah": 1735,
+      "word_surah": 5,
+      "word_translation": "turned",
+      "word_transliteration": "taba"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15109,
+      "word_number_in_surah": 1736,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15110,
+      "word_number_in_surah": 1737,
+      "word_surah": 5,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15111,
+      "word_number_in_surah": 1738,
+      "word_surah": 5,
+      "word_translation": "then (again)",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "عَمُواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15112,
+      "word_number_in_surah": 1739,
+      "word_surah": 5,
+      "word_translation": "they became blind",
+      "word_transliteration": "amu"
+    },
+    {
+      "word_arabic": "وَصَمُّواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15113,
+      "word_number_in_surah": 1740,
+      "word_surah": 5,
+      "word_translation": "and they became deaf",
+      "word_transliteration": "wasammu"
+    },
+    {
+      "word_arabic": "كَثِيرٞ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15114,
+      "word_number_in_surah": 1741,
+      "word_surah": 5,
+      "word_translation": "many",
+      "word_transliteration": "kathirun"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡۚ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15115,
+      "word_number_in_surah": 1742,
+      "word_surah": 5,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15116,
+      "word_number_in_surah": 1743,
+      "word_surah": 5,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بَصِيرُۢ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15117,
+      "word_number_in_surah": 1744,
+      "word_surah": 5,
+      "word_translation": "(is) All-Seer",
+      "word_transliteration": "basirun"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15118,
+      "word_number_in_surah": 1745,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15119,
+      "word_number_in_surah": 1746,
+      "word_surah": 5,
+      "word_translation": "they do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "وَحَسِبُوٓاْ أَلَّا تَكُونَ فِتۡنَةٞ فَعَمُواْ وَصَمُّواْ ثُمَّ تَابَ ٱللَّهُ عَلَيۡهِمۡ ثُمَّ عَمُواْ وَصَمُّواْ كَثِيرٞ مِّنۡهُمۡۚ وَٱللَّهُ بَصِيرُۢ بِمَا يَعۡمَلُونَ",
+  "fullTranslation": "And they thought there would be no [resulting] punishment, so they became blind and deaf. Then Allah turned to them in forgiveness; then [again] many of them became blind and deaf. And Allah is Seeing of what they do.",
+  "fullTransliteration": "wahasibu alla takuna fit'natun fa'amu wasammu thumma taba al-lahu alayhim thumma amu wasammu kathirun min'hum wal-lahu basirun bima ya'maluna"
+}

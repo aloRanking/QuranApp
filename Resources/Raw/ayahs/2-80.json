@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "ayah": 80,
+    "surah": 2,
+    "words": 23,
+    "numberInQuran": 87,
+    "juz": 1,
+    "manzil": 1,
+    "page": 12,
+    "ruku": 10,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1283,
+      "word_number_in_surah": 1254,
+      "word_surah": 2,
+      "word_translation": "And they say",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "لَن",
+      "word_ayah": 80,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1284,
+      "word_number_in_surah": 1255,
+      "word_surah": 2,
+      "word_translation": "Never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "تَمَسَّنَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1285,
+      "word_number_in_surah": 1256,
+      "word_surah": 2,
+      "word_translation": "will touch us",
+      "word_transliteration": "tamassana"
+    },
+    {
+      "word_arabic": "ٱلنَّارُ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1286,
+      "word_number_in_surah": 1257,
+      "word_surah": 2,
+      "word_translation": "the Fire",
+      "word_transliteration": "al-naru"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1287,
+      "word_number_in_surah": 1258,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَيَّامٗا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1288,
+      "word_number_in_surah": 1259,
+      "word_surah": 2,
+      "word_translation": "(for) days",
+      "word_transliteration": "ayyaman"
+    },
+    {
+      "word_arabic": "مَّعۡدُودَةٗۚ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1289,
+      "word_number_in_surah": 1260,
+      "word_surah": 2,
+      "word_translation": "numbered",
+      "word_transliteration": "ma'dudatan"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1290,
+      "word_number_in_surah": 1261,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَتَّخَذۡتُمۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1291,
+      "word_number_in_surah": 1262,
+      "word_surah": 2,
+      "word_translation": "Have you taken",
+      "word_transliteration": "attakhadhtum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1292,
+      "word_number_in_surah": 1263,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1293,
+      "word_number_in_surah": 1264,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَهۡدٗا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1294,
+      "word_number_in_surah": 1265,
+      "word_surah": 2,
+      "word_translation": "a covenant",
+      "word_transliteration": "ahdan"
+    },
+    {
+      "word_arabic": "فَلَن",
+      "word_ayah": 80,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1295,
+      "word_number_in_surah": 1266,
+      "word_surah": 2,
+      "word_translation": "so never",
+      "word_transliteration": "falan"
+    },
+    {
+      "word_arabic": "يُخۡلِفَ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1296,
+      "word_number_in_surah": 1267,
+      "word_surah": 2,
+      "word_translation": "will break",
+      "word_transliteration": "yukh'lifa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1297,
+      "word_number_in_surah": 1268,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَهۡدَهُۥٓۖ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1298,
+      "word_number_in_surah": 1269,
+      "word_surah": 2,
+      "word_translation": "His Covenant",
+      "word_transliteration": "ahdahu"
+    },
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1299,
+      "word_number_in_surah": 1270,
+      "word_surah": 2,
+      "word_translation": "Or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "تَقُولُونَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1300,
+      "word_number_in_surah": 1271,
+      "word_surah": 2,
+      "word_translation": "(do) you say",
+      "word_transliteration": "taquluna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1301,
+      "word_number_in_surah": 1272,
+      "word_surah": 2,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1302,
+      "word_number_in_surah": 1273,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1303,
+      "word_number_in_surah": 1274,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1304,
+      "word_number_in_surah": 1275,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1305,
+      "word_number_in_surah": 1276,
+      "word_surah": 2,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَقَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَةٗۚ قُلۡ أَتَّخَذۡتُمۡ عِندَ ٱللَّهِ عَهۡدٗا فَلَن يُخۡلِفَ ٱللَّهُ عَهۡدَهُۥٓۖ أَمۡ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "fullTranslation": "And they say, \"Never will the Fire touch us, except for a few days.\" Say, \"Have you taken a covenant with Allah? For Allah will never break His covenant. Or do you say about Allah that which you do not know?\"",
+  "fullTransliteration": "waqalu lan tamassana al-naru illa ayyaman ma'dudatan qul attakhadhtum inda al-lahi ahdan falan yukh'lifa al-lahu ahdahu am taquluna ala al-lahi ma la ta'lamuna"
+}

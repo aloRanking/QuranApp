@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "ayah": 36,
+    "surah": 3,
+    "words": 24,
+    "numberInQuran": 329,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6745,
+      "word_number_in_surah": 600,
+      "word_surah": 3,
+      "word_translation": "Then when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "وَضَعَتۡهَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6746,
+      "word_number_in_surah": 601,
+      "word_surah": 3,
+      "word_translation": "she delivered her",
+      "word_transliteration": "wada'atha"
+    },
+    {
+      "word_arabic": "قَالَتۡ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6747,
+      "word_number_in_surah": 602,
+      "word_surah": 3,
+      "word_translation": "she said",
+      "word_transliteration": "qalat"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6748,
+      "word_number_in_surah": 603,
+      "word_surah": 3,
+      "word_translation": "My Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6749,
+      "word_number_in_surah": 604,
+      "word_surah": 3,
+      "word_translation": "indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "وَضَعۡتُهَآ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6750,
+      "word_number_in_surah": 605,
+      "word_surah": 3,
+      "word_translation": "[I] (have) delivered [her]",
+      "word_transliteration": "wada'tuha"
+    },
+    {
+      "word_arabic": "أُنثَىٰ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6751,
+      "word_number_in_surah": 606,
+      "word_surah": 3,
+      "word_translation": "a female",
+      "word_transliteration": "untha"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6752,
+      "word_number_in_surah": 607,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6753,
+      "word_number_in_surah": 608,
+      "word_surah": 3,
+      "word_translation": "knows better",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6754,
+      "word_number_in_surah": 609,
+      "word_surah": 3,
+      "word_translation": "[of] what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "وَضَعَتۡ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6755,
+      "word_number_in_surah": 610,
+      "word_surah": 3,
+      "word_translation": "she delivered",
+      "word_transliteration": "wada'at"
+    },
+    {
+      "word_arabic": "وَلَيۡسَ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6756,
+      "word_number_in_surah": 611,
+      "word_surah": 3,
+      "word_translation": "and is not",
+      "word_transliteration": "walaysa"
+    },
+    {
+      "word_arabic": "ٱلذَّكَرُ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6757,
+      "word_number_in_surah": 612,
+      "word_surah": 3,
+      "word_translation": "the male",
+      "word_transliteration": "al-dhakaru"
+    },
+    {
+      "word_arabic": "كَٱلۡأُنثَىٰۖ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6758,
+      "word_number_in_surah": 613,
+      "word_surah": 3,
+      "word_translation": "like the female",
+      "word_transliteration": "kal-untha"
+    },
+    {
+      "word_arabic": "وَإِنِّي",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6759,
+      "word_number_in_surah": 614,
+      "word_surah": 3,
+      "word_translation": "And that I",
+      "word_transliteration": "wa-inni"
+    },
+    {
+      "word_arabic": "سَمَّيۡتُهَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6760,
+      "word_number_in_surah": 615,
+      "word_surah": 3,
+      "word_translation": "[I] (have) named her",
+      "word_transliteration": "sammaytuha"
+    },
+    {
+      "word_arabic": "مَرۡيَمَ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6761,
+      "word_number_in_surah": 616,
+      "word_surah": 3,
+      "word_translation": "Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "وَإِنِّيٓ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6762,
+      "word_number_in_surah": 617,
+      "word_surah": 3,
+      "word_translation": "and that I",
+      "word_transliteration": "wa-inni"
+    },
+    {
+      "word_arabic": "أُعِيذُهَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6763,
+      "word_number_in_surah": 618,
+      "word_surah": 3,
+      "word_translation": "[I] seek refuge for her",
+      "word_transliteration": "u'idhuha"
+    },
+    {
+      "word_arabic": "بِكَ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6764,
+      "word_number_in_surah": 619,
+      "word_surah": 3,
+      "word_translation": "in You",
+      "word_transliteration": "bika"
+    },
+    {
+      "word_arabic": "وَذُرِّيَّتَهَا",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6765,
+      "word_number_in_surah": 620,
+      "word_surah": 3,
+      "word_translation": "and her offspring",
+      "word_transliteration": "wadhurriyyataha"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 36,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6766,
+      "word_number_in_surah": 621,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنِ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6767,
+      "word_number_in_surah": 622,
+      "word_surah": 3,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytani"
+    },
+    {
+      "word_arabic": "ٱلرَّجِيمِ",
+      "word_ayah": 36,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6768,
+      "word_number_in_surah": 623,
+      "word_surah": 3,
+      "word_translation": "the rejected",
+      "word_transliteration": "al-rajimi"
+    }
+  ],
+  "fullArabic": "فَلَمَّا وَضَعَتۡهَا قَالَتۡ رَبِّ إِنِّي وَضَعۡتُهَآ أُنثَىٰ وَٱللَّهُ أَعۡلَمُ بِمَا وَضَعَتۡ وَلَيۡسَ ٱلذَّكَرُ كَٱلۡأُنثَىٰۖ وَإِنِّي سَمَّيۡتُهَا مَرۡيَمَ وَإِنِّيٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ",
+  "fullTranslation": "But when she delivered her, she said, \"My Lord, I have delivered a female.\" And Allah was most knowing of what she delivered, \"And the male is not like the female. And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allah].\"",
+  "fullTransliteration": "falamma wada'atha qalat rabbi inni wada'tuha untha wal-lahu a'lamu bima wada'at walaysa al-dhakaru kal-untha wa-inni sammaytuha maryama wa-inni u'idhuha bika wadhurriyyataha mina al-shaytani al-rajimi"
+}

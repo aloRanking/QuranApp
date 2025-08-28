@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "ayah": 75,
+    "surah": 2,
+    "words": 19,
+    "numberInQuran": 82,
+    "juz": 1,
+    "manzil": 1,
+    "page": 11,
+    "ruku": 10,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞أَفَتَطۡمَعُونَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1197,
+      "word_number_in_surah": 1168,
+      "word_surah": 2,
+      "word_translation": "Do you hope",
+      "word_transliteration": "afatatma'una"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 75,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1198,
+      "word_number_in_surah": 1169,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُواْ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1199,
+      "word_number_in_surah": 1170,
+      "word_surah": 2,
+      "word_translation": "they will believe",
+      "word_transliteration": "yu'minu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1200,
+      "word_number_in_surah": 1171,
+      "word_surah": 2,
+      "word_translation": "[for] you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1201,
+      "word_number_in_surah": 1172,
+      "word_surah": 2,
+      "word_translation": "while indeed",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1202,
+      "word_number_in_surah": 1173,
+      "word_surah": 2,
+      "word_translation": "(there) has been",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "فَرِيقٞ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1203,
+      "word_number_in_surah": 1174,
+      "word_surah": 2,
+      "word_translation": "a party",
+      "word_transliteration": "fariqun"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1204,
+      "word_number_in_surah": 1175,
+      "word_surah": 2,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "يَسۡمَعُونَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1205,
+      "word_number_in_surah": 1176,
+      "word_surah": 2,
+      "word_translation": "(who used to) hear",
+      "word_transliteration": "yasma'una"
+    },
+    {
+      "word_arabic": "كَلَٰمَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1206,
+      "word_number_in_surah": 1177,
+      "word_surah": 2,
+      "word_translation": "(the) words",
+      "word_transliteration": "kalama"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1207,
+      "word_number_in_surah": 1178,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1208,
+      "word_number_in_surah": 1179,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يُحَرِّفُونَهُۥ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1209,
+      "word_number_in_surah": 1180,
+      "word_surah": 2,
+      "word_translation": "they distort it",
+      "word_transliteration": "yuharrifunahu"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1210,
+      "word_number_in_surah": 1181,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1211,
+      "word_number_in_surah": 1182,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1212,
+      "word_number_in_surah": 1183,
+      "word_surah": 2,
+      "word_translation": "[what]",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "عَقَلُوهُ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1213,
+      "word_number_in_surah": 1184,
+      "word_surah": 2,
+      "word_translation": "they understood it",
+      "word_transliteration": "aqaluhu"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1214,
+      "word_number_in_surah": 1185,
+      "word_surah": 2,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1215,
+      "word_number_in_surah": 1186,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "۞أَفَتَطۡمَعُونَ أَن يُؤۡمِنُواْ لَكُمۡ وَقَدۡ كَانَ فَرِيقٞ مِّنۡهُمۡ يَسۡمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعۡدِ مَا عَقَلُوهُ وَهُمۡ يَعۡلَمُونَ",
+  "fullTranslation": "Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allah and then distort the Torah after they had understood it while they were knowing?",
+  "fullTransliteration": "afatatma'una an yu'minu lakum waqad kana fariqun min'hum yasma'una kalama al-lahi thumma yuharrifunahu min ba'di ma aqaluhu wahum ya'lamuna"
+}

@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "ayah": 38,
+    "surah": 4,
+    "words": 18,
+    "numberInQuran": 531,
+    "juz": 5,
+    "manzil": 1,
+    "page": 85,
+    "ruku": 67,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10567,
+      "word_number_in_surah": 941,
+      "word_surah": 4,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10568,
+      "word_number_in_surah": 942,
+      "word_surah": 4,
+      "word_translation": "spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَهُمۡ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10569,
+      "word_number_in_surah": 943,
+      "word_surah": 4,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwalahum"
+    },
+    {
+      "word_arabic": "رِئَآءَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10570,
+      "word_number_in_surah": 944,
+      "word_surah": 4,
+      "word_translation": "to be seen",
+      "word_transliteration": "riaa"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10571,
+      "word_number_in_surah": 945,
+      "word_surah": 4,
+      "word_translation": "(by) the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10572,
+      "word_number_in_surah": 946,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10573,
+      "word_number_in_surah": 947,
+      "word_surah": 4,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10574,
+      "word_number_in_surah": 948,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10575,
+      "word_number_in_surah": 949,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "بِٱلۡيَوۡمِ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10576,
+      "word_number_in_surah": 950,
+      "word_surah": 4,
+      "word_translation": "in the Day",
+      "word_transliteration": "bil-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِۗ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10577,
+      "word_number_in_surah": 951,
+      "word_surah": 4,
+      "word_translation": "the Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 38,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10578,
+      "word_number_in_surah": 952,
+      "word_surah": 4,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَكُنِ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10579,
+      "word_number_in_surah": 953,
+      "word_surah": 4,
+      "word_translation": "has",
+      "word_transliteration": "yakuni"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10580,
+      "word_number_in_surah": 954,
+      "word_surah": 4,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10581,
+      "word_number_in_surah": 955,
+      "word_surah": 4,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "قَرِينٗا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10582,
+      "word_number_in_surah": 956,
+      "word_surah": 4,
+      "word_translation": "(as) companion",
+      "word_transliteration": "qarinan"
+    },
+    {
+      "word_arabic": "فَسَآءَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10583,
+      "word_number_in_surah": 957,
+      "word_surah": 4,
+      "word_translation": "then evil",
+      "word_transliteration": "fasaa"
+    },
+    {
+      "word_arabic": "قَرِينٗا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10584,
+      "word_number_in_surah": 958,
+      "word_surah": 4,
+      "word_translation": "(is he as) a companion",
+      "word_transliteration": "qarinan"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ رِئَآءَ ٱلنَّاسِ وَلَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِۗ وَمَن يَكُنِ ٱلشَّيۡطَٰنُ لَهُۥ قَرِينٗا فَسَآءَ قَرِينٗا",
+  "fullTranslation": "And [also] those who spend of their wealth to be seen by the people and believe not in Allah nor in the Last Day. And he to whom Satan is a companion - then evil is he as a companion.",
+  "fullTransliteration": "wa-alladhina yunfiquna amwalahum riaa al-nasi wala yu'minuna bil-lahi wala bil-yawmi al-akhiri waman yakuni al-shaytanu lahu qarinan fasaa qarinan"
+}

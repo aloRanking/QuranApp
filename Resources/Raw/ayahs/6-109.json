@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "ayah": 109,
+    "surah": 6,
+    "words": 21,
+    "numberInQuran": 898,
+    "juz": 7,
+    "manzil": 2,
+    "page": 141,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَقۡسَمُواْ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18051,
+      "word_number_in_surah": 1874,
+      "word_surah": 6,
+      "word_translation": "And they swear",
+      "word_transliteration": "wa-aqsamu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18052,
+      "word_number_in_surah": 1875,
+      "word_surah": 6,
+      "word_translation": "by Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "جَهۡدَ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18053,
+      "word_number_in_surah": 1876,
+      "word_surah": 6,
+      "word_translation": "strongest",
+      "word_transliteration": "jahda"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنِهِمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18054,
+      "word_number_in_surah": 1877,
+      "word_surah": 6,
+      "word_translation": "(of) their oaths",
+      "word_transliteration": "aymanihim"
+    },
+    {
+      "word_arabic": "لَئِن",
+      "word_ayah": 109,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18055,
+      "word_number_in_surah": 1878,
+      "word_surah": 6,
+      "word_translation": "that if",
+      "word_transliteration": "la-in"
+    },
+    {
+      "word_arabic": "جَآءَتۡهُمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18056,
+      "word_number_in_surah": 1879,
+      "word_surah": 6,
+      "word_translation": "came to them",
+      "word_transliteration": "jaathum"
+    },
+    {
+      "word_arabic": "ءَايَةٞ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18057,
+      "word_number_in_surah": 1880,
+      "word_surah": 6,
+      "word_translation": "a sign",
+      "word_transliteration": "ayatun"
+    },
+    {
+      "word_arabic": "لَّيُؤۡمِنُنَّ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18058,
+      "word_number_in_surah": 1881,
+      "word_surah": 6,
+      "word_translation": "they would surely believe",
+      "word_transliteration": "layu'minunna"
+    },
+    {
+      "word_arabic": "بِهَاۚ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18059,
+      "word_number_in_surah": 1882,
+      "word_surah": 6,
+      "word_translation": "in it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18060,
+      "word_number_in_surah": 1883,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18061,
+      "word_number_in_surah": 1884,
+      "word_surah": 6,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18062,
+      "word_number_in_surah": 1885,
+      "word_surah": 6,
+      "word_translation": "the signs",
+      "word_transliteration": "al-ayatu"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18063,
+      "word_number_in_surah": 1886,
+      "word_surah": 6,
+      "word_translation": "(are) with",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18064,
+      "word_number_in_surah": 1887,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18065,
+      "word_number_in_surah": 1888,
+      "word_surah": 6,
+      "word_translation": "And what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يُشۡعِرُكُمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18066,
+      "word_number_in_surah": 1889,
+      "word_surah": 6,
+      "word_translation": "will make you perceive",
+      "word_transliteration": "yush'irukum"
+    },
+    {
+      "word_arabic": "أَنَّهَآ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18067,
+      "word_number_in_surah": 1890,
+      "word_surah": 6,
+      "word_translation": "that [it]",
+      "word_transliteration": "annaha"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18068,
+      "word_number_in_surah": 1891,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "جَآءَتۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18069,
+      "word_number_in_surah": 1892,
+      "word_surah": 6,
+      "word_translation": "it comes",
+      "word_transliteration": "jaat"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18070,
+      "word_number_in_surah": 1893,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18071,
+      "word_number_in_surah": 1894,
+      "word_surah": 6,
+      "word_translation": "they will believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَئِن جَآءَتۡهُمۡ ءَايَةٞ لَّيُؤۡمِنُنَّ بِهَاۚ قُلۡ إِنَّمَا ٱلۡأٓيَٰتُ عِندَ ٱللَّهِۖ وَمَا يُشۡعِرُكُمۡ أَنَّهَآ إِذَا جَآءَتۡ لَا يُؤۡمِنُونَ",
+  "fullTranslation": "And they swear by Allah their strongest oaths that if a sign came to them, they would surely believe in it. Say, \"The signs are only with Allah.\" And what will make you perceive that even if a sign came, they would not believe.",
+  "fullTransliteration": "wa-aqsamu bil-lahi jahda aymanihim la-in jaathum ayatun layu'minunna biha qul innama al-ayatu inda al-lahi wama yush'irukum annaha idha jaat la yu'minuna"
+}

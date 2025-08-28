@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "ayah": 156,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 945,
+    "juz": 8,
+    "manzil": 2,
+    "page": 149,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 156,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19024,
+      "word_number_in_surah": 2847,
+      "word_surah": 6,
+      "word_translation": "Lest",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَقُولُوٓاْ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19025,
+      "word_number_in_surah": 2848,
+      "word_surah": 6,
+      "word_translation": "you say",
+      "word_transliteration": "taqulu"
+    },
+    {
+      "word_arabic": "إِنَّمَآ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19026,
+      "word_number_in_surah": 2849,
+      "word_surah": 6,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 156,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19027,
+      "word_number_in_surah": 2850,
+      "word_surah": 6,
+      "word_translation": "was revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبُ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19028,
+      "word_number_in_surah": 2851,
+      "word_surah": 6,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitabu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19029,
+      "word_number_in_surah": 2852,
+      "word_surah": 6,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "طَآئِفَتَيۡنِ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19030,
+      "word_number_in_surah": 2853,
+      "word_surah": 6,
+      "word_translation": "the two groups",
+      "word_transliteration": "taifatayni"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 156,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19031,
+      "word_number_in_surah": 2854,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِنَا",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19032,
+      "word_number_in_surah": 2855,
+      "word_surah": 6,
+      "word_translation": "before us",
+      "word_transliteration": "qablina"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 156,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19033,
+      "word_number_in_surah": 2856,
+      "word_surah": 6,
+      "word_translation": "and indeed",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كُنَّا",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19034,
+      "word_number_in_surah": 2857,
+      "word_surah": 6,
+      "word_translation": "we were",
+      "word_transliteration": "kunna"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19035,
+      "word_number_in_surah": 2858,
+      "word_surah": 6,
+      "word_translation": "about",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "دِرَاسَتِهِمۡ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19036,
+      "word_number_in_surah": 2859,
+      "word_surah": 6,
+      "word_translation": "their study",
+      "word_transliteration": "dirasatihim"
+    },
+    {
+      "word_arabic": "لَغَٰفِلِينَ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19037,
+      "word_number_in_surah": 2860,
+      "word_surah": 6,
+      "word_translation": "certainly unaware",
+      "word_transliteration": "laghafilina"
+    }
+  ],
+  "fullArabic": "أَن تَقُولُوٓاْ إِنَّمَآ أُنزِلَ ٱلۡكِتَٰبُ عَلَىٰ طَآئِفَتَيۡنِ مِن قَبۡلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمۡ لَغَٰفِلِينَ",
+  "fullTranslation": "[We revealed it] lest you say, \"The Scripture was only sent down to two groups before us, but we were of their study unaware,\"",
+  "fullTransliteration": "an taqulu innama unzila al-kitabu ala taifatayni min qablina wa-in kunna an dirasatihim laghafilina"
+}

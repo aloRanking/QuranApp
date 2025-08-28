@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "ayah": 1,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 790,
+    "juz": 7,
+    "manzil": 2,
+    "page": 128,
+    "ruku": 102,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلۡحَمۡدُ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16178,
+      "word_number_in_surah": 1,
+      "word_surah": 6,
+      "word_translation": "(All) the praises and thanks",
+      "word_transliteration": "al-hamdu"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16179,
+      "word_number_in_surah": 2,
+      "word_surah": 6,
+      "word_translation": "(be) to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16180,
+      "word_number_in_surah": 3,
+      "word_surah": 6,
+      "word_translation": "the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "خَلَقَ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16181,
+      "word_number_in_surah": 4,
+      "word_surah": 6,
+      "word_translation": "created",
+      "word_transliteration": "khalaqa"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16182,
+      "word_number_in_surah": 5,
+      "word_surah": 6,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16183,
+      "word_number_in_surah": 6,
+      "word_surah": 6,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-arda"
+    },
+    {
+      "word_arabic": "وَجَعَلَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16184,
+      "word_number_in_surah": 7,
+      "word_surah": 6,
+      "word_translation": "and made",
+      "word_transliteration": "waja'ala"
+    },
+    {
+      "word_arabic": "ٱلظُّلُمَٰتِ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16185,
+      "word_number_in_surah": 8,
+      "word_surah": 6,
+      "word_translation": "the darkness[es]",
+      "word_transliteration": "al-zulumati"
+    },
+    {
+      "word_arabic": "وَٱلنُّورَۖ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16186,
+      "word_number_in_surah": 9,
+      "word_surah": 6,
+      "word_translation": "and the light",
+      "word_transliteration": "wal-nura"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16187,
+      "word_number_in_surah": 10,
+      "word_surah": 6,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16188,
+      "word_number_in_surah": 11,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16189,
+      "word_number_in_surah": 12,
+      "word_surah": 6,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "بِرَبِّهِمۡ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16190,
+      "word_number_in_surah": 13,
+      "word_surah": 6,
+      "word_translation": "in their Lord",
+      "word_transliteration": "birabbihim"
+    },
+    {
+      "word_arabic": "يَعۡدِلُونَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16191,
+      "word_number_in_surah": 14,
+      "word_surah": 6,
+      "word_translation": "equate others with Him",
+      "word_transliteration": "ya'diluna"
+    }
+  ],
+  "fullArabic": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَۖ ثُمَّ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ يَعۡدِلُونَ",
+  "fullTranslation": "[All] praise is [due] to Allah, who created the heavens and the earth and made the darkness and the light. Then those who disbelieve equate [others] with their Lord.",
+  "fullTransliteration": "al-hamdu lillahi alladhi khalaqa al-samawati wal-arda waja'ala al-zulumati wal-nura thumma alladhina kafaru birabbihim ya'diluna"
+}

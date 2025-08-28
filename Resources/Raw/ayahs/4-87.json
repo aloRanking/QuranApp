@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "ayah": 87,
+    "surah": 4,
+    "words": 17,
+    "numberInQuran": 580,
+    "juz": 5,
+    "manzil": 1,
+    "page": 92,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11522,
+      "word_number_in_surah": 1896,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11523,
+      "word_number_in_surah": 1897,
+      "word_surah": 4,
+      "word_translation": "(there is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11524,
+      "word_number_in_surah": 1898,
+      "word_surah": 4,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11525,
+      "word_number_in_surah": 1899,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَۚ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11526,
+      "word_number_in_surah": 1900,
+      "word_surah": 4,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "لَيَجۡمَعَنَّكُمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11527,
+      "word_number_in_surah": 1901,
+      "word_surah": 4,
+      "word_translation": "surely He will gather you",
+      "word_transliteration": "layajma'annakum"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11528,
+      "word_number_in_surah": 1902,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "يَوۡمِ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11529,
+      "word_number_in_surah": 1903,
+      "word_surah": 4,
+      "word_translation": "(the) Day",
+      "word_transliteration": "yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11530,
+      "word_number_in_surah": 1904,
+      "word_surah": 4,
+      "word_translation": "(of) Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11531,
+      "word_number_in_surah": 1905,
+      "word_surah": 4,
+      "word_translation": "no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "رَيۡبَ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11532,
+      "word_number_in_surah": 1906,
+      "word_surah": 4,
+      "word_translation": "doubt",
+      "word_transliteration": "rayba"
+    },
+    {
+      "word_arabic": "فِيهِۗ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11533,
+      "word_number_in_surah": 1907,
+      "word_surah": 4,
+      "word_translation": "about it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "وَمَنۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11534,
+      "word_number_in_surah": 1908,
+      "word_surah": 4,
+      "word_translation": "And who",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "أَصۡدَقُ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11535,
+      "word_number_in_surah": 1909,
+      "word_surah": 4,
+      "word_translation": "(is) more truthful",
+      "word_transliteration": "asdaqu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11536,
+      "word_number_in_surah": 1910,
+      "word_surah": 4,
+      "word_translation": "than",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11537,
+      "word_number_in_surah": 1911,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "حَدِيثٗا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11538,
+      "word_number_in_surah": 1912,
+      "word_surah": 4,
+      "word_translation": "(in) statement",
+      "word_transliteration": "hadithan"
+    }
+  ],
+  "fullArabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۗ وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ حَدِيثٗا",
+  "fullTranslation": "Allah - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allah in statement.",
+  "fullTransliteration": "al-lahu la ilaha illa huwa layajma'annakum ila yawmi al-qiyamati la rayba fihi waman asdaqu mina al-lahi hadithan"
+}

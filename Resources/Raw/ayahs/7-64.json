@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 64,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1018,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 129,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَكَذَّبُوهُ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20252,
+      "word_number_in_surah": 1025,
+      "word_surah": 7,
+      "word_translation": "But they denied him",
+      "word_transliteration": "fakadhabuhu"
+    },
+    {
+      "word_arabic": "فَأَنجَيۡنَٰهُ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20253,
+      "word_number_in_surah": 1026,
+      "word_surah": 7,
+      "word_translation": "so We saved him",
+      "word_transliteration": "fa-anjaynahu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20254,
+      "word_number_in_surah": 1027,
+      "word_surah": 7,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "مَعَهُۥ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20255,
+      "word_number_in_surah": 1028,
+      "word_surah": 7,
+      "word_translation": "(were) with him",
+      "word_transliteration": "ma'ahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20256,
+      "word_number_in_surah": 1029,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡفُلۡكِ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20257,
+      "word_number_in_surah": 1030,
+      "word_surah": 7,
+      "word_translation": "the ship",
+      "word_transliteration": "al-ful'ki"
+    },
+    {
+      "word_arabic": "وَأَغۡرَقۡنَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20258,
+      "word_number_in_surah": 1031,
+      "word_surah": 7,
+      "word_translation": "And We drowned",
+      "word_transliteration": "wa-aghraqna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20259,
+      "word_number_in_surah": 1032,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20260,
+      "word_number_in_surah": 1033,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَآۚ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20261,
+      "word_number_in_surah": 1034,
+      "word_surah": 7,
+      "word_translation": "Our Verses",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "إِنَّهُمۡ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20262,
+      "word_number_in_surah": 1035,
+      "word_surah": 7,
+      "word_translation": "Indeed they",
+      "word_transliteration": "innahum"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20263,
+      "word_number_in_surah": 1036,
+      "word_surah": 7,
+      "word_translation": "were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "قَوۡمًا",
+      "word_ayah": 64,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20264,
+      "word_number_in_surah": 1037,
+      "word_surah": 7,
+      "word_translation": "a people",
+      "word_transliteration": "qawman"
+    },
+    {
+      "word_arabic": "عَمِينَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20265,
+      "word_number_in_surah": 1038,
+      "word_surah": 7,
+      "word_translation": "blind",
+      "word_transliteration": "amina"
+    }
+  ],
+  "fullArabic": "فَكَذَّبُوهُ فَأَنجَيۡنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِي ٱلۡفُلۡكِ وَأَغۡرَقۡنَا ٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَآۚ إِنَّهُمۡ كَانُواْ قَوۡمًا عَمِينَ",
+  "fullTranslation": "But they denied him, so We saved him and those who were with him in the ship. And We drowned those who denied Our signs. Indeed, they were a blind people.",
+  "fullTransliteration": "fakadhabuhu fa-anjaynahu wa-alladhina ma'ahu fi al-ful'ki wa-aghraqna alladhina kadhabu biayatina innahum kanu qawman amina"
+}

@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "ayah": 101,
+    "surah": 4,
+    "words": 23,
+    "numberInQuran": 594,
+    "juz": 5,
+    "manzil": 1,
+    "page": 94,
+    "ruku": 76,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11893,
+      "word_number_in_surah": 2267,
+      "word_surah": 4,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "ضَرَبۡتُمۡ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11894,
+      "word_number_in_surah": 2268,
+      "word_surah": 4,
+      "word_translation": "you travel",
+      "word_transliteration": "darabtum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11895,
+      "word_number_in_surah": 2269,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11896,
+      "word_number_in_surah": 2270,
+      "word_surah": 4,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "فَلَيۡسَ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11897,
+      "word_number_in_surah": 2271,
+      "word_surah": 4,
+      "word_translation": "then not",
+      "word_transliteration": "falaysa"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11898,
+      "word_number_in_surah": 2272,
+      "word_surah": 4,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "جُنَاحٌ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11899,
+      "word_number_in_surah": 2273,
+      "word_surah": 4,
+      "word_translation": "(is) any blame",
+      "word_transliteration": "junahun"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 101,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11900,
+      "word_number_in_surah": 2274,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَقۡصُرُواْ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11901,
+      "word_number_in_surah": 2275,
+      "word_surah": 4,
+      "word_translation": "you shorten",
+      "word_transliteration": "taqsuru"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11902,
+      "word_number_in_surah": 2276,
+      "word_surah": 4,
+      "word_translation": "[of]",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةِ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11903,
+      "word_number_in_surah": 2277,
+      "word_surah": 4,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salati"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11904,
+      "word_number_in_surah": 2278,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "خِفۡتُمۡ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11905,
+      "word_number_in_surah": 2279,
+      "word_surah": 4,
+      "word_translation": "you fear",
+      "word_transliteration": "khif'tum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 101,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11906,
+      "word_number_in_surah": 2280,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَفۡتِنَكُمُ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11907,
+      "word_number_in_surah": 2281,
+      "word_surah": 4,
+      "word_translation": "(may) harm you",
+      "word_transliteration": "yaftinakumu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11908,
+      "word_number_in_surah": 2282,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُوٓاْۚ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11909,
+      "word_number_in_surah": 2283,
+      "word_surah": 4,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11910,
+      "word_number_in_surah": 2284,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11911,
+      "word_number_in_surah": 2285,
+      "word_surah": 4,
+      "word_translation": "the disbelievers",
+      "word_transliteration": "al-kafirina"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11912,
+      "word_number_in_surah": 2286,
+      "word_surah": 4,
+      "word_translation": "are",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11913,
+      "word_number_in_surah": 2287,
+      "word_surah": 4,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عَدُوّٗا",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11914,
+      "word_number_in_surah": 2288,
+      "word_surah": 4,
+      "word_translation": "an enemy",
+      "word_transliteration": "aduwwan"
+    },
+    {
+      "word_arabic": "مُّبِينٗا",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11915,
+      "word_number_in_surah": 2289,
+      "word_surah": 4,
+      "word_translation": "open",
+      "word_transliteration": "mubinan"
+    }
+  ],
+  "fullArabic": "وَإِذَا ضَرَبۡتُمۡ فِي ٱلۡأَرۡضِ فَلَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَقۡصُرُواْ مِنَ ٱلصَّلَوٰةِ إِنۡ خِفۡتُمۡ أَن يَفۡتِنَكُمُ ٱلَّذِينَ كَفَرُوٓاْۚ إِنَّ ٱلۡكَٰفِرِينَ كَانُواْ لَكُمۡ عَدُوّٗا مُّبِينٗا",
+  "fullTranslation": "And when you travel throughout the land, there is no blame upon you for shortening the prayer, [especially] if you fear that those who disbelieve may disrupt [or attack] you. Indeed, the disbelievers are ever to you a clear enemy.",
+  "fullTransliteration": "wa-idha darabtum fi al-ardi falaysa alaykum junahun an taqsuru mina al-salati in khif'tum an yaftinakumu alladhina kafaru inna al-kafirina kanu lakum aduwwan mubinan"
+}

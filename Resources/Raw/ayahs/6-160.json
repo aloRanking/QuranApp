@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 160,
+    "surah": 6,
+    "words": 16,
+    "numberInQuran": 949,
+    "juz": 8,
+    "manzil": 2,
+    "page": 150,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 160,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19129,
+      "word_number_in_surah": 2952,
+      "word_surah": 6,
+      "word_translation": "Whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "جَآءَ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19130,
+      "word_number_in_surah": 2953,
+      "word_surah": 6,
+      "word_translation": "came",
+      "word_transliteration": "jaa"
+    },
+    {
+      "word_arabic": "بِٱلۡحَسَنَةِ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19131,
+      "word_number_in_surah": 2954,
+      "word_surah": 6,
+      "word_translation": "with a good deed",
+      "word_transliteration": "bil-hasanati"
+    },
+    {
+      "word_arabic": "فَلَهُۥ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19132,
+      "word_number_in_surah": 2955,
+      "word_surah": 6,
+      "word_translation": "then for him",
+      "word_transliteration": "falahu"
+    },
+    {
+      "word_arabic": "عَشۡرُ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19133,
+      "word_number_in_surah": 2956,
+      "word_surah": 6,
+      "word_translation": "(is) ten (times)",
+      "word_transliteration": "ashru"
+    },
+    {
+      "word_arabic": "أَمۡثَالِهَاۖ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19134,
+      "word_number_in_surah": 2957,
+      "word_surah": 6,
+      "word_translation": "the like of it",
+      "word_transliteration": "amthaliha"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 160,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19135,
+      "word_number_in_surah": 2958,
+      "word_surah": 6,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "جَآءَ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19136,
+      "word_number_in_surah": 2959,
+      "word_surah": 6,
+      "word_translation": "came",
+      "word_transliteration": "jaa"
+    },
+    {
+      "word_arabic": "بِٱلسَّيِّئَةِ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19137,
+      "word_number_in_surah": 2960,
+      "word_surah": 6,
+      "word_translation": "with an evil deed",
+      "word_transliteration": "bil-sayi-ati"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19138,
+      "word_number_in_surah": 2961,
+      "word_surah": 6,
+      "word_translation": "then not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "يُجۡزَىٰٓ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19139,
+      "word_number_in_surah": 2962,
+      "word_surah": 6,
+      "word_translation": "he will be recompensed",
+      "word_transliteration": "yuj'za"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19140,
+      "word_number_in_surah": 2963,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مِثۡلَهَا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19141,
+      "word_number_in_surah": 2964,
+      "word_surah": 6,
+      "word_translation": "the like of it",
+      "word_transliteration": "mith'laha"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19142,
+      "word_number_in_surah": 2965,
+      "word_surah": 6,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19143,
+      "word_number_in_surah": 2966,
+      "word_surah": 6,
+      "word_translation": "will not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُظۡلَمُونَ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19144,
+      "word_number_in_surah": 2967,
+      "word_surah": 6,
+      "word_translation": "(be) wronged",
+      "word_transliteration": "yuz'lamuna"
+    }
+  ],
+  "fullArabic": "مَن جَآءَ بِٱلۡحَسَنَةِ فَلَهُۥ عَشۡرُ أَمۡثَالِهَاۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجۡزَىٰٓ إِلَّا مِثۡلَهَا وَهُمۡ لَا يُظۡلَمُونَ",
+  "fullTranslation": "Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit], and whoever comes with an evil deed will not be recompensed except the like thereof; and they will not be wronged.",
+  "fullTransliteration": "man jaa bil-hasanati falahu ashru amthaliha waman jaa bil-sayi-ati fala yuj'za illa mith'laha wahum la yuz'lamuna"
+}

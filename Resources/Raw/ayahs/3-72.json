@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 72,
+    "surah": 3,
+    "words": 17,
+    "numberInQuran": 365,
+    "juz": 3,
+    "manzil": 1,
+    "page": 59,
+    "ruku": 49,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالَت",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7328,
+      "word_number_in_surah": 1183,
+      "word_surah": 3,
+      "word_translation": "And said",
+      "word_transliteration": "waqalat"
+    },
+    {
+      "word_arabic": "طَّآئِفَةٞ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7329,
+      "word_number_in_surah": 1184,
+      "word_surah": 3,
+      "word_translation": "a group",
+      "word_transliteration": "taifatun"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7330,
+      "word_number_in_surah": 1185,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7331,
+      "word_number_in_surah": 1186,
+      "word_surah": 3,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahli"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7332,
+      "word_number_in_surah": 1187,
+      "word_surah": 3,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "ءَامِنُواْ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7333,
+      "word_number_in_surah": 1188,
+      "word_surah": 3,
+      "word_translation": "Believe",
+      "word_transliteration": "aminu"
+    },
+    {
+      "word_arabic": "بِٱلَّذِيٓ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7334,
+      "word_number_in_surah": 1189,
+      "word_surah": 3,
+      "word_translation": "in what",
+      "word_transliteration": "bi-alladhi"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7335,
+      "word_number_in_surah": 1190,
+      "word_surah": 3,
+      "word_translation": "was revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7336,
+      "word_number_in_surah": 1191,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7337,
+      "word_number_in_surah": 1192,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7338,
+      "word_number_in_surah": 1193,
+      "word_surah": 3,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَجۡهَ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7339,
+      "word_number_in_surah": 1194,
+      "word_surah": 3,
+      "word_translation": "(at the) beginning",
+      "word_transliteration": "wajha"
+    },
+    {
+      "word_arabic": "ٱلنَّهَارِ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7340,
+      "word_number_in_surah": 1195,
+      "word_surah": 3,
+      "word_translation": "(of) the day",
+      "word_transliteration": "al-nahari"
+    },
+    {
+      "word_arabic": "وَٱكۡفُرُوٓاْ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7341,
+      "word_number_in_surah": 1196,
+      "word_surah": 3,
+      "word_translation": "and reject",
+      "word_transliteration": "wa-uk'furu"
+    },
+    {
+      "word_arabic": "ءَاخِرَهُۥ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7342,
+      "word_number_in_surah": 1197,
+      "word_surah": 3,
+      "word_translation": "at its end",
+      "word_transliteration": "akhirahu"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7343,
+      "word_number_in_surah": 1198,
+      "word_surah": 3,
+      "word_translation": "perhaps they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَرۡجِعُونَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7344,
+      "word_number_in_surah": 1199,
+      "word_surah": 3,
+      "word_translation": "return",
+      "word_transliteration": "yarji'una"
+    }
+  ],
+  "fullArabic": "وَقَالَت طَّآئِفَةٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ ءَامِنُواْ بِٱلَّذِيٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُواْ وَجۡهَ ٱلنَّهَارِ وَٱكۡفُرُوٓاْ ءَاخِرَهُۥ لَعَلَّهُمۡ يَرۡجِعُونَ",
+  "fullTranslation": "And a faction of the People of the Scripture say [to each other], \"Believe in that which was revealed to the believers at the beginning of the day and reject it at its end that perhaps they will abandon their religion,",
+  "fullTransliteration": "waqalat taifatun min ahli al-kitabi aminu bi-alladhi unzila ala alladhina amanu wajha al-nahari wa-uk'furu akhirahu la'allahum yarji'una"
+}

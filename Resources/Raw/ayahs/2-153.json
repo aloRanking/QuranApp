@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "ayah": 153,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 160,
+    "juz": 2,
+    "manzil": 1,
+    "page": 23,
+    "ruku": 20,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2766,
+      "word_number_in_surah": 2737,
+      "word_surah": 2,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2767,
+      "word_number_in_surah": 2738,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2768,
+      "word_number_in_surah": 2739,
+      "word_surah": 2,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱسۡتَعِينُواْ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2769,
+      "word_number_in_surah": 2740,
+      "word_surah": 2,
+      "word_translation": "Seek help",
+      "word_transliteration": "is'ta'inu"
+    },
+    {
+      "word_arabic": "بِٱلصَّبۡرِ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2770,
+      "word_number_in_surah": 2741,
+      "word_surah": 2,
+      "word_translation": "through patience",
+      "word_transliteration": "bil-sabri"
+    },
+    {
+      "word_arabic": "وَٱلصَّلَوٰةِۚ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2771,
+      "word_number_in_surah": 2742,
+      "word_surah": 2,
+      "word_translation": "and the prayer",
+      "word_transliteration": "wal-salati"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2772,
+      "word_number_in_surah": 2743,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2773,
+      "word_number_in_surah": 2744,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2774,
+      "word_number_in_surah": 2745,
+      "word_surah": 2,
+      "word_translation": "(is) with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلصَّٰبِرِينَ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2775,
+      "word_number_in_surah": 2746,
+      "word_surah": 2,
+      "word_translation": "the patient ones",
+      "word_transliteration": "al-sabirina"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+  "fullTranslation": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+  "fullTransliteration": "yaayyuha alladhina amanu is'ta'inu bil-sabri wal-salati inna al-laha ma'a al-sabirina"
+}

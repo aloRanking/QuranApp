@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "ayah": 130,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 1084,
+    "juz": 9,
+    "manzil": 2,
+    "page": 165,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21155,
+      "word_number_in_surah": 1928,
+      "word_surah": 7,
+      "word_translation": "And certainly",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "أَخَذۡنَآ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21156,
+      "word_number_in_surah": 1929,
+      "word_surah": 7,
+      "word_translation": "We seized",
+      "word_transliteration": "akhadhna"
+    },
+    {
+      "word_arabic": "ءَالَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21157,
+      "word_number_in_surah": 1930,
+      "word_surah": 7,
+      "word_translation": "(the) people",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21158,
+      "word_number_in_surah": 1931,
+      "word_surah": 7,
+      "word_translation": "(of) Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "بِٱلسِّنِينَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21159,
+      "word_number_in_surah": 1932,
+      "word_surah": 7,
+      "word_translation": "with years (of famine)",
+      "word_transliteration": "bil-sinina"
+    },
+    {
+      "word_arabic": "وَنَقۡصٖ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21160,
+      "word_number_in_surah": 1933,
+      "word_surah": 7,
+      "word_translation": "and a deficit",
+      "word_transliteration": "wanaqsin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21161,
+      "word_number_in_surah": 1934,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلثَّمَرَٰتِ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21162,
+      "word_number_in_surah": 1935,
+      "word_surah": 7,
+      "word_translation": "[the] fruits",
+      "word_transliteration": "al-thamarati"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21163,
+      "word_number_in_surah": 1936,
+      "word_surah": 7,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَذَّكَّرُونَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21164,
+      "word_number_in_surah": 1937,
+      "word_surah": 7,
+      "word_translation": "receive admonition",
+      "word_transliteration": "yadhakkaruna"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ أَخَذۡنَآ ءَالَ فِرۡعَوۡنَ بِٱلسِّنِينَ وَنَقۡصٖ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمۡ يَذَّكَّرُونَ",
+  "fullTranslation": "And We certainly seized the people of Pharaoh with years of famine and a deficiency in fruits that perhaps they would be reminded.",
+  "fullTransliteration": "walaqad akhadhna ala fir'awna bil-sinina wanaqsin mina al-thamarati la'allahum yadhakkaruna"
+}

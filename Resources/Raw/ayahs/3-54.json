@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "ayah": 54,
+    "surah": 3,
+    "words": 6,
+    "numberInQuran": 347,
+    "juz": 3,
+    "manzil": 1,
+    "page": 57,
+    "ruku": 46,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَكَرُواْ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7070,
+      "word_number_in_surah": 925,
+      "word_surah": 3,
+      "word_translation": "And they schemed",
+      "word_transliteration": "wamakaru"
+    },
+    {
+      "word_arabic": "وَمَكَرَ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7071,
+      "word_number_in_surah": 926,
+      "word_surah": 3,
+      "word_translation": "and planned",
+      "word_transliteration": "wamakara"
+    },
+    {
+      "word_arabic": "ٱللَّهُۖ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7072,
+      "word_number_in_surah": 927,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7073,
+      "word_number_in_surah": 928,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "خَيۡرُ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7074,
+      "word_number_in_surah": 929,
+      "word_surah": 3,
+      "word_translation": "(is the) best",
+      "word_transliteration": "khayru"
+    },
+    {
+      "word_arabic": "ٱلۡمَٰكِرِينَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7075,
+      "word_number_in_surah": 930,
+      "word_surah": 3,
+      "word_translation": "(of) the planners",
+      "word_transliteration": "al-makirina"
+    }
+  ],
+  "fullArabic": "وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "fullTranslation": "And the disbelievers planned, but Allah planned. And Allah is the best of planners.",
+  "fullTransliteration": "wamakaru wamakara al-lahu wal-lahu khayru al-makirina"
+}

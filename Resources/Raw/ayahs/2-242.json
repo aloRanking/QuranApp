@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 242,
+    "surah": 2,
+    "words": 7,
+    "numberInQuran": 249,
+    "juz": 2,
+    "manzil": 1,
+    "page": 39,
+    "ruku": 32,
+    "hizbQuarter": 15,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 242,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4803,
+      "word_number_in_surah": 4774,
+      "word_surah": 2,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "يُبَيِّنُ",
+      "word_ayah": 242,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4804,
+      "word_number_in_surah": 4775,
+      "word_surah": 2,
+      "word_translation": "makes clear",
+      "word_transliteration": "yubayyinu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 242,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4805,
+      "word_number_in_surah": 4776,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 242,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4806,
+      "word_number_in_surah": 4777,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "ءَايَٰتِهِۦ",
+      "word_ayah": 242,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4807,
+      "word_number_in_surah": 4778,
+      "word_surah": 2,
+      "word_translation": "His Verses",
+      "word_transliteration": "ayatihi"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 242,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4808,
+      "word_number_in_surah": 4779,
+      "word_surah": 2,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَعۡقِلُونَ",
+      "word_ayah": 242,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4809,
+      "word_number_in_surah": 4780,
+      "word_surah": 2,
+      "word_translation": "use your intellect",
+      "word_transliteration": "ta'qiluna"
+    }
+  ],
+  "fullArabic": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
+  "fullTranslation": "Thus does Allah make clear to you His verses that you might use reason.",
+  "fullTransliteration": "kadhalika yubayyinu al-lahu lakum ayatihi la'allakum ta'qiluna"
+}

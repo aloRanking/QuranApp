@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "ayah": 99,
+    "surah": 3,
+    "words": 19,
+    "numberInQuran": 392,
+    "juz": 4,
+    "manzil": 1,
+    "page": 62,
+    "ruku": 51,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 99,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7816,
+      "word_number_in_surah": 1671,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7817,
+      "word_number_in_surah": 1672,
+      "word_surah": 3,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7818,
+      "word_number_in_surah": 1673,
+      "word_surah": 3,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لِمَ",
+      "word_ayah": 99,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7819,
+      "word_number_in_surah": 1674,
+      "word_surah": 3,
+      "word_translation": "Why",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "تَصُدُّونَ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7820,
+      "word_number_in_surah": 1675,
+      "word_surah": 3,
+      "word_translation": "(do) you hinder",
+      "word_transliteration": "tasudduna"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7821,
+      "word_number_in_surah": 1676,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7822,
+      "word_number_in_surah": 1677,
+      "word_surah": 3,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7823,
+      "word_number_in_surah": 1678,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 99,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7824,
+      "word_number_in_surah": 1679,
+      "word_surah": 3,
+      "word_translation": "(those) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "ءَامَنَ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7825,
+      "word_number_in_surah": 1680,
+      "word_surah": 3,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amana"
+    },
+    {
+      "word_arabic": "تَبۡغُونَهَا",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7826,
+      "word_number_in_surah": 1681,
+      "word_surah": 3,
+      "word_translation": "seeking (to make) it",
+      "word_transliteration": "tabghunaha"
+    },
+    {
+      "word_arabic": "عِوَجٗا",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7827,
+      "word_number_in_surah": 1682,
+      "word_surah": 3,
+      "word_translation": "(seem) crooked",
+      "word_transliteration": "iwajan"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 99,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7828,
+      "word_number_in_surah": 1683,
+      "word_surah": 3,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "شُهَدَآءُۗ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7829,
+      "word_number_in_surah": 1684,
+      "word_surah": 3,
+      "word_translation": "(are) witnesses",
+      "word_transliteration": "shuhadau"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7830,
+      "word_number_in_surah": 1685,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7831,
+      "word_number_in_surah": 1686,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِغَٰفِلٍ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7832,
+      "word_number_in_surah": 1687,
+      "word_surah": 3,
+      "word_translation": "(is) unaware",
+      "word_transliteration": "bighafilin"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7833,
+      "word_number_in_surah": 1688,
+      "word_surah": 3,
+      "word_translation": "of what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7834,
+      "word_number_in_surah": 1689,
+      "word_surah": 3,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    }
+  ],
+  "fullArabic": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجٗا وَأَنتُمۡ شُهَدَآءُۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+  "fullTranslation": "Say, \"O People of the Scripture, why do you avert from the way of Allah those who believe, seeking to make it [seem] deviant, while you are witnesses [to the truth]? And Allah is not unaware of what you do.\"",
+  "fullTransliteration": "qul yaahla al-kitabi lima tasudduna an sabili al-lahi man amana tabghunaha iwajan wa-antum shuhadau wama al-lahu bighafilin amma ta'maluna"
+}

@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 62,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 355,
+    "juz": 3,
+    "manzil": 1,
+    "page": 58,
+    "ruku": 47,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7184,
+      "word_number_in_surah": 1039,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7185,
+      "word_number_in_surah": 1040,
+      "word_surah": 3,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "لَهُوَ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7186,
+      "word_number_in_surah": 1041,
+      "word_surah": 3,
+      "word_translation": "surely it (is)",
+      "word_transliteration": "lahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡقَصَصُ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7187,
+      "word_number_in_surah": 1042,
+      "word_surah": 3,
+      "word_translation": "the narration",
+      "word_transliteration": "al-qasasu"
+    },
+    {
+      "word_arabic": "ٱلۡحَقُّۚ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7188,
+      "word_number_in_surah": 1043,
+      "word_surah": 3,
+      "word_translation": "[the] true",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7189,
+      "word_number_in_surah": 1044,
+      "word_surah": 3,
+      "word_translation": "And (there is) no",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7190,
+      "word_number_in_surah": 1045,
+      "word_surah": 3,
+      "word_translation": "(of)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "إِلَٰهٍ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7191,
+      "word_number_in_surah": 1046,
+      "word_surah": 3,
+      "word_translation": "god",
+      "word_transliteration": "ilahin"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7192,
+      "word_number_in_surah": 1047,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱللَّهُۚ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7193,
+      "word_number_in_surah": 1048,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7194,
+      "word_number_in_surah": 1049,
+      "word_surah": 3,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7195,
+      "word_number_in_surah": 1050,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَهُوَ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7196,
+      "word_number_in_surah": 1051,
+      "word_surah": 3,
+      "word_translation": "surely He",
+      "word_transliteration": "lahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡعَزِيزُ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7197,
+      "word_number_in_surah": 1052,
+      "word_surah": 3,
+      "word_translation": "(is) the All-Mighty",
+      "word_transliteration": "al-'azizu"
+    },
+    {
+      "word_arabic": "ٱلۡحَكِيمُ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7198,
+      "word_number_in_surah": 1053,
+      "word_surah": 3,
+      "word_translation": "the All-Wise",
+      "word_transliteration": "al-hakimu"
+    }
+  ],
+  "fullArabic": "إِنَّ هَٰذَا لَهُوَ ٱلۡقَصَصُ ٱلۡحَقُّۚ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "fullTranslation": "Indeed, this is the true narration. And there is no deity except Allah. And indeed, Allah is the Exalted in Might, the Wise.",
+  "fullTransliteration": "inna hadha lahuwa al-qasasu al-haqu wama min ilahin illa al-lahu wa-inna al-laha lahuwa al-'azizu al-hakimu"
+}

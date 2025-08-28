@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 96,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 885,
+    "juz": 7,
+    "manzil": 2,
+    "page": 140,
+    "ruku": 113,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَالِقُ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17834,
+      "word_number_in_surah": 1657,
+      "word_surah": 6,
+      "word_translation": "(He is the) Cleaver",
+      "word_transliteration": "faliqu"
+    },
+    {
+      "word_arabic": "ٱلۡإِصۡبَاحِ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17835,
+      "word_number_in_surah": 1658,
+      "word_surah": 6,
+      "word_translation": "(of) the daybreak",
+      "word_transliteration": "al-is'bahi"
+    },
+    {
+      "word_arabic": "وَجَعَلَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17836,
+      "word_number_in_surah": 1659,
+      "word_surah": 6,
+      "word_translation": "and He has made",
+      "word_transliteration": "waja'ala"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلَ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17837,
+      "word_number_in_surah": 1660,
+      "word_surah": 6,
+      "word_translation": "the night",
+      "word_transliteration": "al-layla"
+    },
+    {
+      "word_arabic": "سَكَنٗا",
+      "word_ayah": 96,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17838,
+      "word_number_in_surah": 1661,
+      "word_surah": 6,
+      "word_translation": "(for) rest",
+      "word_transliteration": "sakanan"
+    },
+    {
+      "word_arabic": "وَٱلشَّمۡسَ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17839,
+      "word_number_in_surah": 1662,
+      "word_surah": 6,
+      "word_translation": "and the sun",
+      "word_transliteration": "wal-shamsa"
+    },
+    {
+      "word_arabic": "وَٱلۡقَمَرَ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17840,
+      "word_number_in_surah": 1663,
+      "word_surah": 6,
+      "word_translation": "and the moon",
+      "word_transliteration": "wal-qamara"
+    },
+    {
+      "word_arabic": "حُسۡبَانٗاۚ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17841,
+      "word_number_in_surah": 1664,
+      "word_surah": 6,
+      "word_translation": "(for) reckoning",
+      "word_transliteration": "hus'banan"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17842,
+      "word_number_in_surah": 1665,
+      "word_surah": 6,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "تَقۡدِيرُ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17843,
+      "word_number_in_surah": 1666,
+      "word_surah": 6,
+      "word_translation": "(is the) ordaining",
+      "word_transliteration": "taqdiru"
+    },
+    {
+      "word_arabic": "ٱلۡعَزِيزِ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17844,
+      "word_number_in_surah": 1667,
+      "word_surah": 6,
+      "word_translation": "(of) the All-Mighty",
+      "word_transliteration": "al-'azizi"
+    },
+    {
+      "word_arabic": "ٱلۡعَلِيمِ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17845,
+      "word_number_in_surah": 1668,
+      "word_surah": 6,
+      "word_translation": "the All-Knowing",
+      "word_transliteration": "al-'alimi"
+    }
+  ],
+  "fullArabic": "فَالِقُ ٱلۡإِصۡبَاحِ وَجَعَلَ ٱلَّيۡلَ سَكَنٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ حُسۡبَانٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+  "fullTranslation": "[He is] the cleaver of daybreak and has made the night for rest and the sun and moon for calculation. That is the determination of the Exalted in Might, the Knowing.",
+  "fullTransliteration": "faliqu al-is'bahi waja'ala al-layla sakanan wal-shamsa wal-qamara hus'banan dhalika taqdiru al-'azizi al-'alimi"
+}

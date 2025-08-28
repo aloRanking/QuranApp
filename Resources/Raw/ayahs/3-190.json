@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 190,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 483,
+    "juz": 4,
+    "manzil": 1,
+    "page": 75,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 190,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9432,
+      "word_number_in_surah": 3287,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9433,
+      "word_number_in_surah": 3288,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "خَلۡقِ",
+      "word_ayah": 190,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9434,
+      "word_number_in_surah": 3289,
+      "word_surah": 3,
+      "word_translation": "(the) creation",
+      "word_transliteration": "khalqi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9435,
+      "word_number_in_surah": 3290,
+      "word_surah": 3,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9436,
+      "word_number_in_surah": 3291,
+      "word_surah": 3,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَٱخۡتِلَٰفِ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9437,
+      "word_number_in_surah": 3292,
+      "word_surah": 3,
+      "word_translation": "and (in the) alternation",
+      "word_transliteration": "wa-ikh'tilafi"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلِ",
+      "word_ayah": 190,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9438,
+      "word_number_in_surah": 3293,
+      "word_surah": 3,
+      "word_translation": "(of) the night",
+      "word_transliteration": "al-layli"
+    },
+    {
+      "word_arabic": "وَٱلنَّهَارِ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9439,
+      "word_number_in_surah": 3294,
+      "word_surah": 3,
+      "word_translation": "and the day",
+      "word_transliteration": "wal-nahari"
+    },
+    {
+      "word_arabic": "لَأٓيَٰتٖ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9440,
+      "word_number_in_surah": 3295,
+      "word_surah": 3,
+      "word_translation": "(are) surely Signs",
+      "word_transliteration": "laayatin"
+    },
+    {
+      "word_arabic": "لِّأُوْلِي",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9441,
+      "word_number_in_surah": 3296,
+      "word_surah": 3,
+      "word_translation": "for men",
+      "word_transliteration": "li-uli"
+    },
+    {
+      "word_arabic": "ٱلۡأَلۡبَٰبِ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9442,
+      "word_number_in_surah": 3297,
+      "word_surah": 3,
+      "word_translation": "(of) understanding",
+      "word_transliteration": "al-albabi"
+    }
+  ],
+  "fullArabic": "إِنَّ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ لَأٓيَٰتٖ لِّأُوْلِي ٱلۡأَلۡبَٰبِ",
+  "fullTranslation": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding.",
+  "fullTransliteration": "inna fi khalqi al-samawati wal-ardi wa-ikh'tilafi al-layli wal-nahari laayatin li-uli al-albabi"
+}

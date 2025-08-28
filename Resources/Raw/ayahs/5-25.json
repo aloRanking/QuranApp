@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "ayah": 25,
+    "surah": 5,
+    "words": 13,
+    "numberInQuran": 694,
+    "juz": 6,
+    "manzil": 2,
+    "page": 112,
+    "ruku": 89,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14063,
+      "word_number_in_surah": 690,
+      "word_surah": 5,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14064,
+      "word_number_in_surah": 691,
+      "word_surah": 5,
+      "word_translation": "O my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14065,
+      "word_number_in_surah": 692,
+      "word_surah": 5,
+      "word_translation": "Indeed, I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14066,
+      "word_number_in_surah": 693,
+      "word_surah": 5,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أَمۡلِكُ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14067,
+      "word_number_in_surah": 694,
+      "word_surah": 5,
+      "word_translation": "(have) power",
+      "word_transliteration": "amliku"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14068,
+      "word_number_in_surah": 695,
+      "word_surah": 5,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "نَفۡسِي",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14069,
+      "word_number_in_surah": 696,
+      "word_surah": 5,
+      "word_translation": "(over) myself",
+      "word_transliteration": "nafsi"
+    },
+    {
+      "word_arabic": "وَأَخِيۖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14070,
+      "word_number_in_surah": 697,
+      "word_surah": 5,
+      "word_translation": "and my brother",
+      "word_transliteration": "wa-akhi"
+    },
+    {
+      "word_arabic": "فَٱفۡرُقۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14071,
+      "word_number_in_surah": 698,
+      "word_surah": 5,
+      "word_translation": "so (make a) separation",
+      "word_transliteration": "fa-uf'ruq"
+    },
+    {
+      "word_arabic": "بَيۡنَنَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14072,
+      "word_number_in_surah": 699,
+      "word_surah": 5,
+      "word_translation": "between us",
+      "word_transliteration": "baynana"
+    },
+    {
+      "word_arabic": "وَبَيۡنَ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14073,
+      "word_number_in_surah": 700,
+      "word_surah": 5,
+      "word_translation": "and between",
+      "word_transliteration": "wabayna"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14074,
+      "word_number_in_surah": 701,
+      "word_surah": 5,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰسِقِينَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14075,
+      "word_number_in_surah": 702,
+      "word_surah": 5,
+      "word_translation": "(the) defiantly disobedient",
+      "word_transliteration": "al-fasiqina"
+    }
+  ],
+  "fullArabic": "قَالَ رَبِّ إِنِّي لَآ أَمۡلِكُ إِلَّا نَفۡسِي وَأَخِيۖ فَٱفۡرُقۡ بَيۡنَنَا وَبَيۡنَ ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ",
+  "fullTranslation": "[Moses] said, \"My Lord, indeed I do not possess except myself and my brother, so part us from the defiantly disobedient people.\"",
+  "fullTransliteration": "qala rabbi inni la amliku illa nafsi wa-akhi fa-uf'ruq baynana wabayna al-qawmi al-fasiqina"
+}

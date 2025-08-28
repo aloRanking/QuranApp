@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 61,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 1015,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 129,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20218,
+      "word_number_in_surah": 991,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20219,
+      "word_number_in_surah": 992,
+      "word_surah": 7,
+      "word_translation": "O my people",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20220,
+      "word_number_in_surah": 993,
+      "word_surah": 7,
+      "word_translation": "(There is) no",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "بِي",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20221,
+      "word_number_in_surah": 994,
+      "word_surah": 7,
+      "word_translation": "in me",
+      "word_transliteration": "bi"
+    },
+    {
+      "word_arabic": "ضَلَٰلَةٞ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20222,
+      "word_number_in_surah": 995,
+      "word_surah": 7,
+      "word_translation": "error",
+      "word_transliteration": "dalalatun"
+    },
+    {
+      "word_arabic": "وَلَٰكِنِّي",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20223,
+      "word_number_in_surah": 996,
+      "word_surah": 7,
+      "word_translation": "but I am",
+      "word_transliteration": "walakinni"
+    },
+    {
+      "word_arabic": "رَسُولٞ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20224,
+      "word_number_in_surah": 997,
+      "word_surah": 7,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 61,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20225,
+      "word_number_in_surah": 998,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20226,
+      "word_number_in_surah": 999,
+      "word_surah": 7,
+      "word_translation": "(the) Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20227,
+      "word_number_in_surah": 1000,
+      "word_surah": 7,
+      "word_translation": "(of) the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "قَالَ يَٰقَوۡمِ لَيۡسَ بِي ضَلَٰلَةٞ وَلَٰكِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "[Noah] said, \"O my people, there is not error in me, but I am a messenger from the Lord of the worlds.\"",
+  "fullTransliteration": "qala yaqawmi laysa bi dalalatun walakinni rasulun min rabbi al-'alamina"
+}

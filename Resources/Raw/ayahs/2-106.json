@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "ayah": 106,
+    "surah": 2,
+    "words": 19,
+    "numberInQuran": 113,
+    "juz": 1,
+    "manzil": 1,
+    "page": 17,
+    "ruku": 14,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞مَا",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1840,
+      "word_number_in_surah": 1811,
+      "word_surah": 2,
+      "word_translation": "What",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "نَنسَخۡ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1841,
+      "word_number_in_surah": 1812,
+      "word_surah": 2,
+      "word_translation": "We abrogate",
+      "word_transliteration": "nansakh"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1842,
+      "word_number_in_surah": 1813,
+      "word_surah": 2,
+      "word_translation": "(of)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ءَايَةٍ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1843,
+      "word_number_in_surah": 1814,
+      "word_surah": 2,
+      "word_translation": "a sign",
+      "word_transliteration": "ayatin"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1844,
+      "word_number_in_surah": 1815,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "نُنسِهَا",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1845,
+      "word_number_in_surah": 1816,
+      "word_surah": 2,
+      "word_translation": "[We] cause it to be forgotten",
+      "word_transliteration": "nunsiha"
+    },
+    {
+      "word_arabic": "نَأۡتِ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1846,
+      "word_number_in_surah": 1817,
+      "word_surah": 2,
+      "word_translation": "We bring",
+      "word_transliteration": "nati"
+    },
+    {
+      "word_arabic": "بِخَيۡرٖ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1847,
+      "word_number_in_surah": 1818,
+      "word_surah": 2,
+      "word_translation": "better",
+      "word_transliteration": "bikhayrin"
+    },
+    {
+      "word_arabic": "مِّنۡهَآ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1848,
+      "word_number_in_surah": 1819,
+      "word_surah": 2,
+      "word_translation": "than it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1849,
+      "word_number_in_surah": 1820,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "مِثۡلِهَآۗ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1850,
+      "word_number_in_surah": 1821,
+      "word_surah": 2,
+      "word_translation": "similar (to) it",
+      "word_transliteration": "mith'liha"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1851,
+      "word_number_in_surah": 1822,
+      "word_surah": 2,
+      "word_translation": "Do not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "تَعۡلَمۡ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1852,
+      "word_number_in_surah": 1823,
+      "word_surah": 2,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lam"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1853,
+      "word_number_in_surah": 1824,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1854,
+      "word_number_in_surah": 1825,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1855,
+      "word_number_in_surah": 1826,
+      "word_surah": 2,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1856,
+      "word_number_in_surah": 1827,
+      "word_surah": 2,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1857,
+      "word_number_in_surah": 1828,
+      "word_surah": 2,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٌ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1858,
+      "word_number_in_surah": 1829,
+      "word_surah": 2,
+      "word_translation": "(is) All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "۞مَا نَنسَخۡ مِنۡ ءَايَةٍ أَوۡ نُنسِهَا نَأۡتِ بِخَيۡرٖ مِّنۡهَآ أَوۡ مِثۡلِهَآۗ أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "fullTranslation": "We do not abrogate a verse or cause it to be forgotten except that We bring forth [one] better than it or similar to it. Do you not know that Allah is over all things competent?",
+  "fullTransliteration": "ma nansakh min ayatin aw nunsiha nati bikhayrin min'ha aw mith'liha alam ta'lam anna al-laha ala kulli shayin qadirun"
+}

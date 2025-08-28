@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "ayah": 93,
+    "surah": 5,
+    "words": 24,
+    "numberInQuran": 762,
+    "juz": 7,
+    "manzil": 2,
+    "page": 123,
+    "ruku": 97,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15517,
+      "word_number_in_surah": 2144,
+      "word_surah": 5,
+      "word_translation": "Not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15518,
+      "word_number_in_surah": 2145,
+      "word_surah": 5,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15519,
+      "word_number_in_surah": 2146,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15520,
+      "word_number_in_surah": 2147,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَعَمِلُواْ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15521,
+      "word_number_in_surah": 2148,
+      "word_surah": 5,
+      "word_translation": "and do",
+      "word_transliteration": "wa'amilu"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحَٰتِ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15522,
+      "word_number_in_surah": 2149,
+      "word_surah": 5,
+      "word_translation": "the good deeds",
+      "word_transliteration": "al-salihati"
+    },
+    {
+      "word_arabic": "جُنَاحٞ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15523,
+      "word_number_in_surah": 2150,
+      "word_surah": 5,
+      "word_translation": "any sin",
+      "word_transliteration": "junahun"
+    },
+    {
+      "word_arabic": "فِيمَا",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15524,
+      "word_number_in_surah": 2151,
+      "word_surah": 5,
+      "word_translation": "for what",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "طَعِمُوٓاْ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15525,
+      "word_number_in_surah": 2152,
+      "word_surah": 5,
+      "word_translation": "they ate",
+      "word_transliteration": "ta'imu"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15526,
+      "word_number_in_surah": 2153,
+      "word_surah": 5,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15527,
+      "word_number_in_surah": 2154,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ٱتَّقَواْ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15528,
+      "word_number_in_surah": 2155,
+      "word_surah": 5,
+      "word_translation": "they fear (Allah)",
+      "word_transliteration": "ittaqaw"
+    },
+    {
+      "word_arabic": "وَّءَامَنُواْ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15529,
+      "word_number_in_surah": 2156,
+      "word_surah": 5,
+      "word_translation": "and they believe",
+      "word_transliteration": "waamanu"
+    },
+    {
+      "word_arabic": "وَعَمِلُواْ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15530,
+      "word_number_in_surah": 2157,
+      "word_surah": 5,
+      "word_translation": "and they do",
+      "word_transliteration": "wa'amilu"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحَٰتِ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15531,
+      "word_number_in_surah": 2158,
+      "word_surah": 5,
+      "word_translation": "[the] good deeds",
+      "word_transliteration": "al-salihati"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15532,
+      "word_number_in_surah": 2159,
+      "word_surah": 5,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱتَّقَواْ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15533,
+      "word_number_in_surah": 2160,
+      "word_surah": 5,
+      "word_translation": "they fear (Allah)",
+      "word_transliteration": "ittaqaw"
+    },
+    {
+      "word_arabic": "وَّءَامَنُواْ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15534,
+      "word_number_in_surah": 2161,
+      "word_surah": 5,
+      "word_translation": "and believe",
+      "word_transliteration": "waamanu"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15535,
+      "word_number_in_surah": 2162,
+      "word_surah": 5,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱتَّقَواْ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15536,
+      "word_number_in_surah": 2163,
+      "word_surah": 5,
+      "word_translation": "they fear (Allah)",
+      "word_transliteration": "ittaqaw"
+    },
+    {
+      "word_arabic": "وَّأَحۡسَنُواْۚ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15537,
+      "word_number_in_surah": 2164,
+      "word_surah": 5,
+      "word_translation": "and do good",
+      "word_transliteration": "wa-ahsanu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15538,
+      "word_number_in_surah": 2165,
+      "word_surah": 5,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15539,
+      "word_number_in_surah": 2166,
+      "word_surah": 5,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُحۡسِنِينَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15540,
+      "word_number_in_surah": 2167,
+      "word_surah": 5,
+      "word_translation": "the good-doers",
+      "word_transliteration": "al-muh'sinina"
+    }
+  ],
+  "fullArabic": "لَيۡسَ عَلَى ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جُنَاحٞ فِيمَا طَعِمُوٓاْ إِذَا مَا ٱتَّقَواْ وَّءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ ثُمَّ ٱتَّقَواْ وَّءَامَنُواْ ثُمَّ ٱتَّقَواْ وَّأَحۡسَنُواْۚ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ",
+  "fullTranslation": "There is not upon those who believe and do righteousness [any] blame concerning what they have eaten [in the past] if they [now] fear Allah and believe and do righteous deeds, and then fear Allah and believe, and then fear Allah and do good; and Allah loves the doers of good.",
+  "fullTransliteration": "laysa ala alladhina amanu wa'amilu al-salihati junahun fima ta'imu idha ma ittaqaw waamanu wa'amilu al-salihati thumma ittaqaw waamanu thumma ittaqaw wa-ahsanu wal-lahu yuhibbu al-muh'sinina"
+}

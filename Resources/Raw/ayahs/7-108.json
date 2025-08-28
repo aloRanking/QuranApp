@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "ayah": 108,
+    "surah": 7,
+    "words": 6,
+    "numberInQuran": 1062,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 134,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَنَزَعَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20947,
+      "word_number_in_surah": 1720,
+      "word_surah": 7,
+      "word_translation": "And he drew out",
+      "word_transliteration": "wanaza'a"
+    },
+    {
+      "word_arabic": "يَدَهُۥ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20948,
+      "word_number_in_surah": 1721,
+      "word_surah": 7,
+      "word_translation": "his hand",
+      "word_transliteration": "yadahu"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20949,
+      "word_number_in_surah": 1722,
+      "word_surah": 7,
+      "word_translation": "and suddenly",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "هِيَ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20950,
+      "word_number_in_surah": 1723,
+      "word_surah": 7,
+      "word_translation": "it",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "بَيۡضَآءُ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20951,
+      "word_number_in_surah": 1724,
+      "word_surah": 7,
+      "word_translation": "(was) white",
+      "word_transliteration": "baydau"
+    },
+    {
+      "word_arabic": "لِلنَّٰظِرِينَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20952,
+      "word_number_in_surah": 1725,
+      "word_surah": 7,
+      "word_translation": "for the observers",
+      "word_transliteration": "lilnnazirina"
+    }
+  ],
+  "fullArabic": "وَنَزَعَ يَدَهُۥ فَإِذَا هِيَ بَيۡضَآءُ لِلنَّٰظِرِينَ",
+  "fullTranslation": "And he drew out his hand; thereupon it was white [with radiance] for the observers.",
+  "fullTransliteration": "wanaza'a yadahu fa-idha hiya baydau lilnnazirina"
+}

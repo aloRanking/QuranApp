@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "ayah": 140,
+    "surah": 6,
+    "words": 20,
+    "numberInQuran": 929,
+    "juz": 8,
+    "manzil": 2,
+    "page": 146,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18623,
+      "word_number_in_surah": 2446,
+      "word_surah": 6,
+      "word_translation": "Certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "خَسِرَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18624,
+      "word_number_in_surah": 2447,
+      "word_surah": 6,
+      "word_translation": "(are) lost",
+      "word_transliteration": "khasira"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18625,
+      "word_number_in_surah": 2448,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَتَلُوٓاْ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18626,
+      "word_number_in_surah": 2449,
+      "word_surah": 6,
+      "word_translation": "killed",
+      "word_transliteration": "qatalu"
+    },
+    {
+      "word_arabic": "أَوۡلَٰدَهُمۡ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18627,
+      "word_number_in_surah": 2450,
+      "word_surah": 6,
+      "word_translation": "their children",
+      "word_transliteration": "awladahum"
+    },
+    {
+      "word_arabic": "سَفَهَۢا",
+      "word_ayah": 140,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18628,
+      "word_number_in_surah": 2451,
+      "word_surah": 6,
+      "word_translation": "(in) foolishness",
+      "word_transliteration": "safahan"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18629,
+      "word_number_in_surah": 2452,
+      "word_surah": 6,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "عِلۡمٖ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18630,
+      "word_number_in_surah": 2453,
+      "word_surah": 6,
+      "word_translation": "knowledge",
+      "word_transliteration": "il'min"
+    },
+    {
+      "word_arabic": "وَحَرَّمُواْ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18631,
+      "word_number_in_surah": 2454,
+      "word_surah": 6,
+      "word_translation": "and forbid",
+      "word_transliteration": "waharramu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18632,
+      "word_number_in_surah": 2455,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "رَزَقَهُمُ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18633,
+      "word_number_in_surah": 2456,
+      "word_surah": 6,
+      "word_translation": "(bas been) provided (to) them",
+      "word_transliteration": "razaqahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18634,
+      "word_number_in_surah": 2457,
+      "word_surah": 6,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱفۡتِرَآءً",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18635,
+      "word_number_in_surah": 2458,
+      "word_surah": 6,
+      "word_translation": "inventing (lies)",
+      "word_transliteration": "if'tiraan"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18636,
+      "word_number_in_surah": 2459,
+      "word_surah": 6,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18637,
+      "word_number_in_surah": 2460,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18638,
+      "word_number_in_surah": 2461,
+      "word_surah": 6,
+      "word_translation": "Certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "ضَلُّواْ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18639,
+      "word_number_in_surah": 2462,
+      "word_surah": 6,
+      "word_translation": "they have gone astray",
+      "word_transliteration": "dallu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18640,
+      "word_number_in_surah": 2463,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18641,
+      "word_number_in_surah": 2464,
+      "word_surah": 6,
+      "word_translation": "they are",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "مُهۡتَدِينَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18642,
+      "word_number_in_surah": 2465,
+      "word_surah": 6,
+      "word_translation": "guided-ones",
+      "word_transliteration": "muh'tadina"
+    }
+  ],
+  "fullArabic": "قَدۡ خَسِرَ ٱلَّذِينَ قَتَلُوٓاْ أَوۡلَٰدَهُمۡ سَفَهَۢا بِغَيۡرِ عِلۡمٖ وَحَرَّمُواْ مَا رَزَقَهُمُ ٱللَّهُ ٱفۡتِرَآءً عَلَى ٱللَّهِۚ قَدۡ ضَلُّواْ وَمَا كَانُواْ مُهۡتَدِينَ",
+  "fullTranslation": "Those will have lost who killed their children in foolishness without knowledge and prohibited what Allah had provided for them, inventing untruth about Allah. They have gone astray and were not [rightly] guided.",
+  "fullTransliteration": "qad khasira alladhina qatalu awladahum safahan bighayri il'min waharramu ma razaqahumu al-lahu if'tiraan ala al-lahi qad dallu wama kanu muh'tadina"
+}

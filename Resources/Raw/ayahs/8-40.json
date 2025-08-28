@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 40,
+    "surah": 8,
+    "words": 10,
+    "numberInQuran": 1200,
+    "juz": 9,
+    "manzil": 2,
+    "page": 181,
+    "ruku": 150,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 40,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23128,
+      "word_number_in_surah": 581,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23129,
+      "word_number_in_surah": 582,
+      "word_surah": 8,
+      "word_translation": "they turn away",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "فَٱعۡلَمُوٓاْ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23130,
+      "word_number_in_surah": 583,
+      "word_surah": 8,
+      "word_translation": "then know",
+      "word_transliteration": "fa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23131,
+      "word_number_in_surah": 584,
+      "word_surah": 8,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23132,
+      "word_number_in_surah": 585,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مَوۡلَىٰكُمۡۚ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23133,
+      "word_number_in_surah": 586,
+      "word_surah": 8,
+      "word_translation": "(is) your Protector",
+      "word_transliteration": "mawlakum"
+    },
+    {
+      "word_arabic": "نِعۡمَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23134,
+      "word_number_in_surah": 587,
+      "word_surah": 8,
+      "word_translation": "Excellent",
+      "word_transliteration": "ni'ma"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡلَىٰ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23135,
+      "word_number_in_surah": 588,
+      "word_surah": 8,
+      "word_translation": "(is) the Protector",
+      "word_transliteration": "al-mawla"
+    },
+    {
+      "word_arabic": "وَنِعۡمَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23136,
+      "word_number_in_surah": 589,
+      "word_surah": 8,
+      "word_translation": "and Excellent",
+      "word_transliteration": "wani'ma"
+    },
+    {
+      "word_arabic": "ٱلنَّصِيرُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23137,
+      "word_number_in_surah": 590,
+      "word_surah": 8,
+      "word_translation": "(is) the Helper",
+      "word_transliteration": "al-nasiru"
+    }
+  ],
+  "fullArabic": "وَإِن تَوَلَّوۡاْ فَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ",
+  "fullTranslation": "But if they turn away - then know that Allah is your protector. Excellent is the protector, and Excellent is the helper.",
+  "fullTransliteration": "wa-in tawallaw fa-i'lamu anna al-laha mawlakum ni'ma al-mawla wani'ma al-nasiru"
+}

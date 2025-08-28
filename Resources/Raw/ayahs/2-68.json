@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "ayah": 68,
+    "surah": 2,
+    "words": 23,
+    "numberInQuran": 75,
+    "juz": 1,
+    "manzil": 1,
+    "page": 10,
+    "ruku": 9,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1057,
+      "word_number_in_surah": 1028,
+      "word_surah": 2,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ٱدۡعُ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1058,
+      "word_number_in_surah": 1029,
+      "word_surah": 2,
+      "word_translation": "Pray",
+      "word_transliteration": "ud'u"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1059,
+      "word_number_in_surah": 1030,
+      "word_surah": 2,
+      "word_translation": "for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1060,
+      "word_number_in_surah": 1031,
+      "word_surah": 2,
+      "word_translation": "(to) your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "يُبَيِّن",
+      "word_ayah": 68,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1061,
+      "word_number_in_surah": 1032,
+      "word_surah": 2,
+      "word_translation": "to make clear",
+      "word_transliteration": "yubayyin"
+    },
+    {
+      "word_arabic": "لَّنَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1062,
+      "word_number_in_surah": 1033,
+      "word_surah": 2,
+      "word_translation": "to us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1063,
+      "word_number_in_surah": 1034,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "هِيَۚ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1064,
+      "word_number_in_surah": 1035,
+      "word_surah": 2,
+      "word_translation": "it (is)",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1065,
+      "word_number_in_surah": 1036,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1066,
+      "word_number_in_surah": 1037,
+      "word_surah": 2,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1067,
+      "word_number_in_surah": 1038,
+      "word_surah": 2,
+      "word_translation": "says",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "إِنَّهَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1068,
+      "word_number_in_surah": 1039,
+      "word_surah": 2,
+      "word_translation": "[Indeed] it",
+      "word_transliteration": "innaha"
+    },
+    {
+      "word_arabic": "بَقَرَةٞ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1069,
+      "word_number_in_surah": 1040,
+      "word_surah": 2,
+      "word_translation": "(is) a cow",
+      "word_transliteration": "baqaratun"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1070,
+      "word_number_in_surah": 1041,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "فَارِضٞ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1071,
+      "word_number_in_surah": 1042,
+      "word_surah": 2,
+      "word_translation": "old",
+      "word_transliteration": "faridun"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1072,
+      "word_number_in_surah": 1043,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "بِكۡرٌ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1073,
+      "word_number_in_surah": 1044,
+      "word_surah": 2,
+      "word_translation": "young",
+      "word_transliteration": "bik'run"
+    },
+    {
+      "word_arabic": "عَوَانُۢ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1074,
+      "word_number_in_surah": 1045,
+      "word_surah": 2,
+      "word_translation": "middle aged",
+      "word_transliteration": "awanun"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1075,
+      "word_number_in_surah": 1046,
+      "word_surah": 2,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ذَٰلِكَۖ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1076,
+      "word_number_in_surah": 1047,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "فَٱفۡعَلُواْ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1077,
+      "word_number_in_surah": 1048,
+      "word_surah": 2,
+      "word_translation": "so do",
+      "word_transliteration": "fa-if'alu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1078,
+      "word_number_in_surah": 1049,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تُؤۡمَرُونَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1079,
+      "word_number_in_surah": 1050,
+      "word_surah": 2,
+      "word_translation": "you are commanded",
+      "word_transliteration": "tu'maruna"
+    }
+  ],
+  "fullArabic": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ لَّا فَارِضٞ وَلَا بِكۡرٌ عَوَانُۢ بَيۡنَ ذَٰلِكَۖ فَٱفۡعَلُواْ مَا تُؤۡمَرُونَ",
+  "fullTranslation": "They said, \"Call upon your Lord to make clear to us what it is.\" [Moses] said, \"[Allah] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded.\"",
+  "fullTransliteration": "qalu ud'u lana rabbaka yubayyin lana ma hiya qala innahu yaqulu innaha baqaratun la faridun wala bik'run awanun bayna dhalika fa-if'alu ma tu'maruna"
+}

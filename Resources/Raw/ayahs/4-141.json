@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "ayah": 141,
+    "surah": 4,
+    "words": 36,
+    "numberInQuran": 634,
+    "juz": 5,
+    "manzil": 1,
+    "page": 101,
+    "ruku": 81,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12680,
+      "word_number_in_surah": 3054,
+      "word_surah": 4,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَتَرَبَّصُونَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12681,
+      "word_number_in_surah": 3055,
+      "word_surah": 4,
+      "word_translation": "are waiting",
+      "word_transliteration": "yatarabbasuna"
+    },
+    {
+      "word_arabic": "بِكُمۡ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12682,
+      "word_number_in_surah": 3056,
+      "word_surah": 4,
+      "word_translation": "for you",
+      "word_transliteration": "bikum"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 141,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12683,
+      "word_number_in_surah": 3057,
+      "word_surah": 4,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12684,
+      "word_number_in_surah": 3058,
+      "word_surah": 4,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12685,
+      "word_number_in_surah": 3059,
+      "word_surah": 4,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فَتۡحٞ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12686,
+      "word_number_in_surah": 3060,
+      "word_surah": 4,
+      "word_translation": "a victory",
+      "word_transliteration": "fathun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12687,
+      "word_number_in_surah": 3061,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12688,
+      "word_number_in_surah": 3062,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12689,
+      "word_number_in_surah": 3063,
+      "word_surah": 4,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12690,
+      "word_number_in_surah": 3064,
+      "word_surah": 4,
+      "word_translation": "Were not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "نَكُن",
+      "word_ayah": 141,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12691,
+      "word_number_in_surah": 3065,
+      "word_surah": 4,
+      "word_translation": "we",
+      "word_transliteration": "nakun"
+    },
+    {
+      "word_arabic": "مَّعَكُمۡ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12692,
+      "word_number_in_surah": 3066,
+      "word_surah": 4,
+      "word_translation": "with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 141,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12693,
+      "word_number_in_surah": 3067,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12694,
+      "word_number_in_surah": 3068,
+      "word_surah": 4,
+      "word_translation": "(there) was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لِلۡكَٰفِرِينَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12695,
+      "word_number_in_surah": 3069,
+      "word_surah": 4,
+      "word_translation": "for the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    },
+    {
+      "word_arabic": "نَصِيبٞ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12696,
+      "word_number_in_surah": 3070,
+      "word_surah": 4,
+      "word_translation": "a chance",
+      "word_transliteration": "nasibun"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12697,
+      "word_number_in_surah": 3071,
+      "word_surah": 4,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12698,
+      "word_number_in_surah": 3072,
+      "word_surah": 4,
+      "word_translation": "Did not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "نَسۡتَحۡوِذۡ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12699,
+      "word_number_in_surah": 3073,
+      "word_surah": 4,
+      "word_translation": "we have advantage",
+      "word_transliteration": "nastahwidh"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12700,
+      "word_number_in_surah": 3074,
+      "word_surah": 4,
+      "word_translation": "over you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَنَمۡنَعۡكُم",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12701,
+      "word_number_in_surah": 3075,
+      "word_surah": 4,
+      "word_translation": "and we protected you",
+      "word_transliteration": "wanamna'kum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 12702,
+      "word_number_in_surah": 3076,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَۚ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 12703,
+      "word_number_in_surah": 3077,
+      "word_surah": 4,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "فَٱللَّهُ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 12704,
+      "word_number_in_surah": 3078,
+      "word_surah": 4,
+      "word_translation": "And Allah",
+      "word_transliteration": "fal-lahu"
+    },
+    {
+      "word_arabic": "يَحۡكُمُ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 12705,
+      "word_number_in_surah": 3079,
+      "word_surah": 4,
+      "word_translation": "will judge",
+      "word_transliteration": "yahkumu"
+    },
+    {
+      "word_arabic": "بَيۡنَكُمۡ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 12706,
+      "word_number_in_surah": 3080,
+      "word_surah": 4,
+      "word_translation": "between you",
+      "word_transliteration": "baynakum"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 12707,
+      "word_number_in_surah": 3081,
+      "word_surah": 4,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۗ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 12708,
+      "word_number_in_surah": 3082,
+      "word_surah": 4,
+      "word_translation": "(of) the Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "وَلَن",
+      "word_ayah": 141,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 12709,
+      "word_number_in_surah": 3083,
+      "word_surah": 4,
+      "word_translation": "and never",
+      "word_transliteration": "walan"
+    },
+    {
+      "word_arabic": "يَجۡعَلَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 12710,
+      "word_number_in_surah": 3084,
+      "word_surah": 4,
+      "word_translation": "will make",
+      "word_transliteration": "yaj'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 12711,
+      "word_number_in_surah": 3085,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لِلۡكَٰفِرِينَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 12712,
+      "word_number_in_surah": 3086,
+      "word_surah": 4,
+      "word_translation": "for the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 12713,
+      "word_number_in_surah": 3087,
+      "word_surah": 4,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 12714,
+      "word_number_in_surah": 3088,
+      "word_surah": 4,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "سَبِيلًا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 12715,
+      "word_number_in_surah": 3089,
+      "word_surah": 4,
+      "word_translation": "a way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمۡ فَإِن كَانَ لَكُمۡ فَتۡحٞ مِّنَ ٱللَّهِ قَالُوٓاْ أَلَمۡ نَكُن مَّعَكُمۡ وَإِن كَانَ لِلۡكَٰفِرِينَ نَصِيبٞ قَالُوٓاْ أَلَمۡ نَسۡتَحۡوِذۡ عَلَيۡكُمۡ وَنَمۡنَعۡكُم مِّنَ ٱلۡمُؤۡمِنِينَۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ وَلَن يَجۡعَلَ ٱللَّهُ لِلۡكَٰفِرِينَ عَلَى ٱلۡمُؤۡمِنِينَ سَبِيلًا",
+  "fullTranslation": "Those who wait [and watch] you. Then if you gain a victory from Allah, they say, \"Were we not with you?\" But if the disbelievers have a success, they say [to them], \"Did we not gain the advantage over you, but we protected you from the believers?\" Allah will judge between [all of] you on the Day of Resurrection, and never will Allah give the disbelievers over the believers a way [to overcome them].",
+  "fullTransliteration": "alladhina yatarabbasuna bikum fa-in kana lakum fathun mina al-lahi qalu alam nakun ma'akum wa-in kana lil'kafirina nasibun qalu alam nastahwidh alaykum wanamna'kum mina al-mu'minina fal-lahu yahkumu baynakum yawma al-qiyamati walan yaj'ala al-lahu lil'kafirina ala al-mu'minina sabilan"
+}

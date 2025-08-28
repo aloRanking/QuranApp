@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ayah": 162,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 951,
+    "juz": 8,
+    "manzil": 2,
+    "page": 150,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19161,
+      "word_number_in_surah": 2984,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19162,
+      "word_number_in_surah": 2985,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "صَلَاتِي",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19163,
+      "word_number_in_surah": 2986,
+      "word_surah": 6,
+      "word_translation": "my prayer",
+      "word_transliteration": "salati"
+    },
+    {
+      "word_arabic": "وَنُسُكِي",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19164,
+      "word_number_in_surah": 2987,
+      "word_surah": 6,
+      "word_translation": "and my rites of sacrifice",
+      "word_transliteration": "wanusuki"
+    },
+    {
+      "word_arabic": "وَمَحۡيَايَ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19165,
+      "word_number_in_surah": 2988,
+      "word_surah": 6,
+      "word_translation": "and my living",
+      "word_transliteration": "wamahyaya"
+    },
+    {
+      "word_arabic": "وَمَمَاتِي",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19166,
+      "word_number_in_surah": 2989,
+      "word_surah": 6,
+      "word_translation": "and my dying",
+      "word_transliteration": "wamamati"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19167,
+      "word_number_in_surah": 2990,
+      "word_surah": 6,
+      "word_translation": "(are) for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19168,
+      "word_number_in_surah": 2991,
+      "word_surah": 6,
+      "word_translation": "Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19169,
+      "word_number_in_surah": 2992,
+      "word_surah": 6,
+      "word_translation": "(of) the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "قُلۡ إِنَّ صَلَاتِي وَنُسُكِي وَمَحۡيَايَ وَمَمَاتِي لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "Say, \"Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds.",
+  "fullTransliteration": "qul inna salati wanusuki wamahyaya wamamati lillahi rabbi al-'alamina"
+}

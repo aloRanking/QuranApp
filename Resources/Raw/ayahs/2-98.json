@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 98,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 105,
+    "juz": 1,
+    "manzil": 1,
+    "page": 15,
+    "ruku": 13,
+    "hizbQuarter": 6,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 98,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1663,
+      "word_number_in_surah": 1634,
+      "word_surah": 2,
+      "word_translation": "Whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1664,
+      "word_number_in_surah": 1635,
+      "word_surah": 2,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَدُوّٗا",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1665,
+      "word_number_in_surah": 1636,
+      "word_surah": 2,
+      "word_translation": "an enemy",
+      "word_transliteration": "aduwwan"
+    },
+    {
+      "word_arabic": "لِّلَّهِ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1666,
+      "word_number_in_surah": 1637,
+      "word_surah": 2,
+      "word_translation": "(to) Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَمَلَٰٓئِكَتِهِۦ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1667,
+      "word_number_in_surah": 1638,
+      "word_surah": 2,
+      "word_translation": "and His Angels",
+      "word_transliteration": "wamalaikatihi"
+    },
+    {
+      "word_arabic": "وَرُسُلِهِۦ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1668,
+      "word_number_in_surah": 1639,
+      "word_surah": 2,
+      "word_translation": "and His Messengers",
+      "word_transliteration": "warusulihi"
+    },
+    {
+      "word_arabic": "وَجِبۡرِيلَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1669,
+      "word_number_in_surah": 1640,
+      "word_surah": 2,
+      "word_translation": "and Jibreel",
+      "word_transliteration": "wajib'rila"
+    },
+    {
+      "word_arabic": "وَمِيكَىٰلَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1670,
+      "word_number_in_surah": 1641,
+      "word_surah": 2,
+      "word_translation": "and Meekael",
+      "word_transliteration": "wamikala"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1671,
+      "word_number_in_surah": 1642,
+      "word_surah": 2,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1672,
+      "word_number_in_surah": 1643,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَدُوّٞ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1673,
+      "word_number_in_surah": 1644,
+      "word_surah": 2,
+      "word_translation": "(is) an enemy",
+      "word_transliteration": "aduwwun"
+    },
+    {
+      "word_arabic": "لِّلۡكَٰفِرِينَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1674,
+      "word_number_in_surah": 1645,
+      "word_surah": 2,
+      "word_translation": "to the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    }
+  ],
+  "fullArabic": "مَن كَانَ عَدُوّٗا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبۡرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوّٞ لِّلۡكَٰفِرِينَ",
+  "fullTranslation": "Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael - then indeed, Allah is an enemy to the disbelievers.",
+  "fullTransliteration": "man kana aduwwan lillahi wamalaikatihi warusulihi wajib'rila wamikala fa-inna al-laha aduwwun lil'kafirina"
+}

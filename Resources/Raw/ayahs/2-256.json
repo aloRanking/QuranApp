@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "ayah": 256,
+    "surah": 2,
+    "words": 24,
+    "numberInQuran": 263,
+    "juz": 3,
+    "manzil": 1,
+    "page": 42,
+    "ruku": 35,
+    "hizbQuarter": 17,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5224,
+      "word_number_in_surah": 5195,
+      "word_surah": 2,
+      "word_translation": "(There is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِكۡرَاهَ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5225,
+      "word_number_in_surah": 5196,
+      "word_surah": 2,
+      "word_translation": "compulsion",
+      "word_transliteration": "ik'raha"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5226,
+      "word_number_in_surah": 5197,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلدِّينِۖ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5227,
+      "word_number_in_surah": 5198,
+      "word_surah": 2,
+      "word_translation": "the religion",
+      "word_transliteration": "al-dini"
+    },
+    {
+      "word_arabic": "قَد",
+      "word_ayah": 256,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5228,
+      "word_number_in_surah": 5199,
+      "word_surah": 2,
+      "word_translation": "Surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "تَّبَيَّنَ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5229,
+      "word_number_in_surah": 5200,
+      "word_surah": 2,
+      "word_translation": "has become distinct",
+      "word_transliteration": "tabayyana"
+    },
+    {
+      "word_arabic": "ٱلرُّشۡدُ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5230,
+      "word_number_in_surah": 5201,
+      "word_surah": 2,
+      "word_translation": "the right (path)",
+      "word_transliteration": "al-rush'du"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5231,
+      "word_number_in_surah": 5202,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡغَيِّۚ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5232,
+      "word_number_in_surah": 5203,
+      "word_surah": 2,
+      "word_translation": "the wrong",
+      "word_transliteration": "al-ghayi"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 256,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5233,
+      "word_number_in_surah": 5204,
+      "word_surah": 2,
+      "word_translation": "Then whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "يَكۡفُرۡ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5234,
+      "word_number_in_surah": 5205,
+      "word_surah": 2,
+      "word_translation": "disbelieves",
+      "word_transliteration": "yakfur"
+    },
+    {
+      "word_arabic": "بِٱلطَّٰغُوتِ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5235,
+      "word_number_in_surah": 5206,
+      "word_surah": 2,
+      "word_translation": "in false deities",
+      "word_transliteration": "bil-taghuti"
+    },
+    {
+      "word_arabic": "وَيُؤۡمِنۢ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5236,
+      "word_number_in_surah": 5207,
+      "word_surah": 2,
+      "word_translation": "and believes",
+      "word_transliteration": "wayu'min"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5237,
+      "word_number_in_surah": 5208,
+      "word_surah": 2,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "فَقَدِ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5238,
+      "word_number_in_surah": 5209,
+      "word_surah": 2,
+      "word_translation": "then surely",
+      "word_transliteration": "faqadi"
+    },
+    {
+      "word_arabic": "ٱسۡتَمۡسَكَ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5239,
+      "word_number_in_surah": 5210,
+      "word_surah": 2,
+      "word_translation": "he grasped",
+      "word_transliteration": "is'tamsaka"
+    },
+    {
+      "word_arabic": "بِٱلۡعُرۡوَةِ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5240,
+      "word_number_in_surah": 5211,
+      "word_surah": 2,
+      "word_translation": "the handhold",
+      "word_transliteration": "bil-'ur'wati"
+    },
+    {
+      "word_arabic": "ٱلۡوُثۡقَىٰ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5241,
+      "word_number_in_surah": 5212,
+      "word_surah": 2,
+      "word_translation": "[the] firm",
+      "word_transliteration": "al-wuth'qa"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5242,
+      "word_number_in_surah": 5213,
+      "word_surah": 2,
+      "word_translation": "(which) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "ٱنفِصَامَ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5243,
+      "word_number_in_surah": 5214,
+      "word_surah": 2,
+      "word_translation": "(will) break",
+      "word_transliteration": "infisama"
+    },
+    {
+      "word_arabic": "لَهَاۗ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 5244,
+      "word_number_in_surah": 5215,
+      "word_surah": 2,
+      "word_translation": "[for it]",
+      "word_transliteration": "laha"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 256,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 5245,
+      "word_number_in_surah": 5216,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 5246,
+      "word_number_in_surah": 5217,
+      "word_surah": 2,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 256,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 5247,
+      "word_number_in_surah": 5218,
+      "word_surah": 2,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "fullTranslation": "There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing.",
+  "fullTransliteration": "la ik'raha fi al-dini qad tabayyana al-rush'du mina al-ghayi faman yakfur bil-taghuti wayu'min bil-lahi faqadi is'tamsaka bil-'ur'wati al-wuth'qa la infisama laha wal-lahu sami'un alimun"
+}

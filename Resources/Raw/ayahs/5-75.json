@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "ayah": 75,
+    "surah": 5,
+    "words": 25,
+    "numberInQuran": 744,
+    "juz": 6,
+    "manzil": 2,
+    "page": 120,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15186,
+      "word_number_in_surah": 1813,
+      "word_surah": 5,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ٱلۡمَسِيحُ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15187,
+      "word_number_in_surah": 1814,
+      "word_surah": 5,
+      "word_translation": "(is) the Messiah",
+      "word_transliteration": "al-masihu"
+    },
+    {
+      "word_arabic": "ٱبۡنُ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15188,
+      "word_number_in_surah": 1815,
+      "word_surah": 5,
+      "word_translation": "son",
+      "word_transliteration": "ub'nu"
+    },
+    {
+      "word_arabic": "مَرۡيَمَ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15189,
+      "word_number_in_surah": 1816,
+      "word_surah": 5,
+      "word_translation": "(of) Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15190,
+      "word_number_in_surah": 1817,
+      "word_surah": 5,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "رَسُولٞ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15191,
+      "word_number_in_surah": 1818,
+      "word_surah": 5,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulun"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15192,
+      "word_number_in_surah": 1819,
+      "word_surah": 5,
+      "word_translation": "certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "خَلَتۡ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15193,
+      "word_number_in_surah": 1820,
+      "word_surah": 5,
+      "word_translation": "had passed",
+      "word_transliteration": "khalat"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 75,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15194,
+      "word_number_in_surah": 1821,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِهِ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15195,
+      "word_number_in_surah": 1822,
+      "word_surah": 5,
+      "word_translation": "before him",
+      "word_transliteration": "qablihi"
+    },
+    {
+      "word_arabic": "ٱلرُّسُلُ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15196,
+      "word_number_in_surah": 1823,
+      "word_surah": 5,
+      "word_translation": "the Messengers",
+      "word_transliteration": "al-rusulu"
+    },
+    {
+      "word_arabic": "وَأُمُّهُۥ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15197,
+      "word_number_in_surah": 1824,
+      "word_surah": 5,
+      "word_translation": "And his mother",
+      "word_transliteration": "wa-ummuhu"
+    },
+    {
+      "word_arabic": "صِدِّيقَةٞۖ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15198,
+      "word_number_in_surah": 1825,
+      "word_surah": 5,
+      "word_translation": "(was) truthful",
+      "word_transliteration": "siddiqatun"
+    },
+    {
+      "word_arabic": "كَانَا",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15199,
+      "word_number_in_surah": 1826,
+      "word_surah": 5,
+      "word_translation": "They both used to",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "يَأۡكُلَانِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15200,
+      "word_number_in_surah": 1827,
+      "word_surah": 5,
+      "word_translation": "eat",
+      "word_transliteration": "yakulani"
+    },
+    {
+      "word_arabic": "ٱلطَّعَامَۗ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15201,
+      "word_number_in_surah": 1828,
+      "word_surah": 5,
+      "word_translation": "[the] food",
+      "word_transliteration": "al-ta'ama"
+    },
+    {
+      "word_arabic": "ٱنظُرۡ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15202,
+      "word_number_in_surah": 1829,
+      "word_surah": 5,
+      "word_translation": "See",
+      "word_transliteration": "unzur"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15203,
+      "word_number_in_surah": 1830,
+      "word_surah": 5,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "نُبَيِّنُ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15204,
+      "word_number_in_surah": 1831,
+      "word_surah": 5,
+      "word_translation": "We make clear",
+      "word_transliteration": "nubayyinu"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15205,
+      "word_number_in_surah": 1832,
+      "word_surah": 5,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15206,
+      "word_number_in_surah": 1833,
+      "word_surah": 5,
+      "word_translation": "the Signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15207,
+      "word_number_in_surah": 1834,
+      "word_surah": 5,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱنظُرۡ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15208,
+      "word_number_in_surah": 1835,
+      "word_surah": 5,
+      "word_translation": "see",
+      "word_transliteration": "unzur"
+    },
+    {
+      "word_arabic": "أَنَّىٰ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15209,
+      "word_number_in_surah": 1836,
+      "word_surah": 5,
+      "word_translation": "how",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "يُؤۡفَكُونَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 15210,
+      "word_number_in_surah": 1837,
+      "word_surah": 5,
+      "word_translation": "they are deluded",
+      "word_transliteration": "yu'fakuna"
+    }
+  ],
+  "fullArabic": "مَّا ٱلۡمَسِيحُ ٱبۡنُ مَرۡيَمَ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٞۖ كَانَا يَأۡكُلَانِ ٱلطَّعَامَۗ ٱنظُرۡ كَيۡفَ نُبَيِّنُ لَهُمُ ٱلۡأٓيَٰتِ ثُمَّ ٱنظُرۡ أَنَّىٰ يُؤۡفَكُونَ",
+  "fullTranslation": "The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food. Look how We make clear to them the signs; then look how they are deluded.",
+  "fullTransliteration": "ma al-masihu ub'nu maryama illa rasulun qad khalat min qablihi al-rusulu wa-ummuhu siddiqatun kana yakulani al-ta'ama unzur kayfa nubayyinu lahumu al-ayati thumma unzur anna yu'fakuna"
+}

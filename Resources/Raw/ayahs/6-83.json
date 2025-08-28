@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 83,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 872,
+    "juz": 7,
+    "manzil": 2,
+    "page": 138,
+    "ruku": 111,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَتِلۡكَ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17565,
+      "word_number_in_surah": 1388,
+      "word_surah": 6,
+      "word_translation": "And this",
+      "word_transliteration": "watil'ka"
+    },
+    {
+      "word_arabic": "حُجَّتُنَآ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17566,
+      "word_number_in_surah": 1389,
+      "word_surah": 6,
+      "word_translation": "(is) Our argument",
+      "word_transliteration": "hujjatuna"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَٰهَآ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17567,
+      "word_number_in_surah": 1390,
+      "word_surah": 6,
+      "word_translation": "We gave it",
+      "word_transliteration": "ataynaha"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17568,
+      "word_number_in_surah": 1391,
+      "word_surah": 6,
+      "word_translation": "(to) Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17569,
+      "word_number_in_surah": 1392,
+      "word_surah": 6,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "قَوۡمِهِۦۚ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17570,
+      "word_number_in_surah": 1393,
+      "word_surah": 6,
+      "word_translation": "his people",
+      "word_transliteration": "qawmihi"
+    },
+    {
+      "word_arabic": "نَرۡفَعُ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17571,
+      "word_number_in_surah": 1394,
+      "word_surah": 6,
+      "word_translation": "We raise",
+      "word_transliteration": "narfa'u"
+    },
+    {
+      "word_arabic": "دَرَجَٰتٖ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17572,
+      "word_number_in_surah": 1395,
+      "word_surah": 6,
+      "word_translation": "(by) degrees",
+      "word_transliteration": "darajatin"
+    },
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 83,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17573,
+      "word_number_in_surah": 1396,
+      "word_surah": 6,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "نَّشَآءُۗ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17574,
+      "word_number_in_surah": 1397,
+      "word_surah": 6,
+      "word_translation": "We will",
+      "word_transliteration": "nashau"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17575,
+      "word_number_in_surah": 1398,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17576,
+      "word_number_in_surah": 1399,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "حَكِيمٌ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17577,
+      "word_number_in_surah": 1400,
+      "word_surah": 6,
+      "word_translation": "(is) All-Wise",
+      "word_transliteration": "hakimun"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17578,
+      "word_number_in_surah": 1401,
+      "word_surah": 6,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَتِلۡكَ حُجَّتُنَآ ءَاتَيۡنَٰهَآ إِبۡرَٰهِيمَ عَلَىٰ قَوۡمِهِۦۚ نَرۡفَعُ دَرَجَٰتٖ مَّن نَّشَآءُۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٞ",
+  "fullTranslation": "And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing.",
+  "fullTransliteration": "watil'ka hujjatuna ataynaha ib'rahima ala qawmihi narfa'u darajatin man nashau inna rabbaka hakimun alimun"
+}

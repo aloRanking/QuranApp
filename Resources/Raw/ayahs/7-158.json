@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "ayah": 158,
+    "surah": 7,
+    "words": 31,
+    "numberInQuran": 1112,
+    "juz": 9,
+    "manzil": 2,
+    "page": 170,
+    "ruku": 141,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21740,
+      "word_number_in_surah": 2513,
+      "word_surah": 7,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21741,
+      "word_number_in_surah": 2514,
+      "word_surah": 7,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21742,
+      "word_number_in_surah": 2515,
+      "word_surah": 7,
+      "word_translation": "mankind",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21743,
+      "word_number_in_surah": 2516,
+      "word_surah": 7,
+      "word_translation": "Indeed I am",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "رَسُولُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21744,
+      "word_number_in_surah": 2517,
+      "word_surah": 7,
+      "word_translation": "(the) Messenger",
+      "word_transliteration": "rasulu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21745,
+      "word_number_in_surah": 2518,
+      "word_surah": 7,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِلَيۡكُمۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21746,
+      "word_number_in_surah": 2519,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "ilaykum"
+    },
+    {
+      "word_arabic": "جَمِيعًا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21747,
+      "word_number_in_surah": 2520,
+      "word_surah": 7,
+      "word_translation": "all",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21748,
+      "word_number_in_surah": 2521,
+      "word_surah": 7,
+      "word_translation": "the One",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21749,
+      "word_number_in_surah": 2522,
+      "word_surah": 7,
+      "word_translation": "for Whom",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "مُلۡكُ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21750,
+      "word_number_in_surah": 2523,
+      "word_surah": 7,
+      "word_translation": "(is the) dominion",
+      "word_transliteration": "mul'ku"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21751,
+      "word_number_in_surah": 2524,
+      "word_surah": 7,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِۖ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21752,
+      "word_number_in_surah": 2525,
+      "word_surah": 7,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21753,
+      "word_number_in_surah": 2526,
+      "word_surah": 7,
+      "word_translation": "(There is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21754,
+      "word_number_in_surah": 2527,
+      "word_surah": 7,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21755,
+      "word_number_in_surah": 2528,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21756,
+      "word_number_in_surah": 2529,
+      "word_surah": 7,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "يُحۡيِۦ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21757,
+      "word_number_in_surah": 2530,
+      "word_surah": 7,
+      "word_translation": "He gives life",
+      "word_transliteration": "yuh'yi"
+    },
+    {
+      "word_arabic": "وَيُمِيتُۖ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21758,
+      "word_number_in_surah": 2531,
+      "word_surah": 7,
+      "word_translation": "and causes death",
+      "word_transliteration": "wayumitu"
+    },
+    {
+      "word_arabic": "فَ‍َٔامِنُواْ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21759,
+      "word_number_in_surah": 2532,
+      "word_surah": 7,
+      "word_translation": "So believe",
+      "word_transliteration": "faaminu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 21760,
+      "word_number_in_surah": 2533,
+      "word_surah": 7,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَرَسُولِهِ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 21761,
+      "word_number_in_surah": 2534,
+      "word_surah": 7,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulihi"
+    },
+    {
+      "word_arabic": "ٱلنَّبِيِّ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 21762,
+      "word_number_in_surah": 2535,
+      "word_surah": 7,
+      "word_translation": "the Prophet",
+      "word_transliteration": "al-nabiyi"
+    },
+    {
+      "word_arabic": "ٱلۡأُمِّيِّ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 21763,
+      "word_number_in_surah": 2536,
+      "word_surah": 7,
+      "word_translation": "the unlettered",
+      "word_transliteration": "al-umiyi"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 21764,
+      "word_number_in_surah": 2537,
+      "word_surah": 7,
+      "word_translation": "the one who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 21765,
+      "word_number_in_surah": 2538,
+      "word_surah": 7,
+      "word_translation": "believes",
+      "word_transliteration": "yu'minu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 21766,
+      "word_number_in_surah": 2539,
+      "word_surah": 7,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَكَلِمَٰتِهِۦ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 21767,
+      "word_number_in_surah": 2540,
+      "word_surah": 7,
+      "word_translation": "and His Words",
+      "word_transliteration": "wakalimatihi"
+    },
+    {
+      "word_arabic": "وَٱتَّبِعُوهُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 21768,
+      "word_number_in_surah": 2541,
+      "word_surah": 7,
+      "word_translation": "and follow him",
+      "word_transliteration": "wa-ittabi'uhu"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 21769,
+      "word_number_in_surah": 2542,
+      "word_surah": 7,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَهۡتَدُونَ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 21770,
+      "word_number_in_surah": 2543,
+      "word_surah": 7,
+      "word_translation": "(be) guided",
+      "word_transliteration": "tahtaduna"
+    }
+  ],
+  "fullArabic": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ فَ‍َٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ",
+  "fullTranslation": "Say, [O Muhammad], \"O mankind, indeed I am the Messenger of Allah to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allah and His Messenger, the unlettered prophet, who believes in Allah and His words, and follow him that you may be guided.",
+  "fullTransliteration": "qul yaayyuha al-nasu inni rasulu al-lahi ilaykum jami'an alladhi lahu mul'ku al-samawati wal-ardi la ilaha illa huwa yuh'yi wayumitu faaminu bil-lahi warasulihi al-nabiyi al-umiyi alladhi yu'minu bil-lahi wakalimatihi wa-ittabi'uhu la'allakum tahtaduna"
+}

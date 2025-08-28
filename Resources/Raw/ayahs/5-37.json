@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 37,
+    "surah": 5,
+    "words": 12,
+    "numberInQuran": 706,
+    "juz": 6,
+    "manzil": 2,
+    "page": 114,
+    "ruku": 91,
+    "hizbQuarter": 45,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يُرِيدُونَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14301,
+      "word_number_in_surah": 928,
+      "word_surah": 5,
+      "word_translation": "They will wish",
+      "word_transliteration": "yuriduna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 37,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14302,
+      "word_number_in_surah": 929,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَخۡرُجُواْ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14303,
+      "word_number_in_surah": 930,
+      "word_surah": 5,
+      "word_translation": "they come out",
+      "word_transliteration": "yakhruju"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14304,
+      "word_number_in_surah": 931,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14305,
+      "word_number_in_surah": 932,
+      "word_surah": 5,
+      "word_translation": "the Fire",
+      "word_transliteration": "al-nari"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14306,
+      "word_number_in_surah": 933,
+      "word_surah": 5,
+      "word_translation": "but not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "هُم",
+      "word_ayah": 37,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14307,
+      "word_number_in_surah": 934,
+      "word_surah": 5,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "بِخَٰرِجِينَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14308,
+      "word_number_in_surah": 935,
+      "word_surah": 5,
+      "word_translation": "will come out",
+      "word_transliteration": "bikharijina"
+    },
+    {
+      "word_arabic": "مِنۡهَاۖ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14309,
+      "word_number_in_surah": 936,
+      "word_surah": 5,
+      "word_translation": "of it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "وَلَهُمۡ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14310,
+      "word_number_in_surah": 937,
+      "word_surah": 5,
+      "word_translation": "And for them",
+      "word_transliteration": "walahum"
+    },
+    {
+      "word_arabic": "عَذَابٞ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14311,
+      "word_number_in_surah": 938,
+      "word_surah": 5,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "مُّقِيمٞ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14312,
+      "word_number_in_surah": 939,
+      "word_surah": 5,
+      "word_translation": "lasting",
+      "word_transliteration": "muqimun"
+    }
+  ],
+  "fullArabic": "يُرِيدُونَ أَن يَخۡرُجُواْ مِنَ ٱلنَّارِ وَمَا هُم بِخَٰرِجِينَ مِنۡهَاۖ وَلَهُمۡ عَذَابٞ مُّقِيمٞ",
+  "fullTranslation": "They will wish to get out of the Fire, but never are they to emerge therefrom, and for them is an enduring punishment.",
+  "fullTransliteration": "yuriduna an yakhruju mina al-nari wama hum bikharijina min'ha walahum adhabun muqimun"
+}

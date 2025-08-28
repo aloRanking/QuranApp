@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "ayah": 48,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1002,
+    "juz": 8,
+    "manzil": 2,
+    "page": 156,
+    "ruku": 127,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَنَادَىٰٓ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19972,
+      "word_number_in_surah": 745,
+      "word_surah": 7,
+      "word_translation": "And (will) call out",
+      "word_transliteration": "wanada"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبُ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19973,
+      "word_number_in_surah": 746,
+      "word_surah": 7,
+      "word_translation": "(the) companions",
+      "word_transliteration": "ashabu"
+    },
+    {
+      "word_arabic": "ٱلۡأَعۡرَافِ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19974,
+      "word_number_in_surah": 747,
+      "word_surah": 7,
+      "word_translation": "(of) the heights",
+      "word_transliteration": "al-a'rafi"
+    },
+    {
+      "word_arabic": "رِجَالٗا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19975,
+      "word_number_in_surah": 748,
+      "word_surah": 7,
+      "word_translation": "(to) men",
+      "word_transliteration": "rijalan"
+    },
+    {
+      "word_arabic": "يَعۡرِفُونَهُم",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19976,
+      "word_number_in_surah": 749,
+      "word_surah": 7,
+      "word_translation": "whom they recognize",
+      "word_transliteration": "ya'rifunahum"
+    },
+    {
+      "word_arabic": "بِسِيمَىٰهُمۡ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19977,
+      "word_number_in_surah": 750,
+      "word_surah": 7,
+      "word_translation": "by their marks",
+      "word_transliteration": "bisimahum"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19978,
+      "word_number_in_surah": 751,
+      "word_surah": 7,
+      "word_translation": "saying",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19979,
+      "word_number_in_surah": 752,
+      "word_surah": 7,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَغۡنَىٰ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19980,
+      "word_number_in_surah": 753,
+      "word_surah": 7,
+      "word_translation": "(has) availed",
+      "word_transliteration": "aghna"
+    },
+    {
+      "word_arabic": "عَنكُمۡ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19981,
+      "word_number_in_surah": 754,
+      "word_surah": 7,
+      "word_translation": "[to] you",
+      "word_transliteration": "ankum"
+    },
+    {
+      "word_arabic": "جَمۡعُكُمۡ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19982,
+      "word_number_in_surah": 755,
+      "word_surah": 7,
+      "word_translation": "your gathering",
+      "word_transliteration": "jam'ukum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19983,
+      "word_number_in_surah": 756,
+      "word_surah": 7,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19984,
+      "word_number_in_surah": 757,
+      "word_surah": 7,
+      "word_translation": "you were",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَسۡتَكۡبِرُونَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19985,
+      "word_number_in_surah": 758,
+      "word_surah": 7,
+      "word_translation": "arrogant (about)",
+      "word_transliteration": "tastakbiruna"
+    }
+  ],
+  "fullArabic": "وَنَادَىٰٓ أَصۡحَٰبُ ٱلۡأَعۡرَافِ رِجَالٗا يَعۡرِفُونَهُم بِسِيمَىٰهُمۡ قَالُواْ مَآ أَغۡنَىٰ عَنكُمۡ جَمۡعُكُمۡ وَمَا كُنتُمۡ تَسۡتَكۡبِرُونَ",
+  "fullTranslation": "And the companions of the Elevations will call to men [within Hell] whom they recognize by their mark, saying, \"Of no avail to you was your gathering and [the fact] that you were arrogant.\"",
+  "fullTransliteration": "wanada ashabu al-a'rafi rijalan ya'rifunahum bisimahum qalu ma aghna ankum jam'ukum wama kuntum tastakbiruna"
+}

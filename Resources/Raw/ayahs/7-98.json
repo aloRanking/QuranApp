@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "ayah": 98,
+    "surah": 7,
+    "words": 9,
+    "numberInQuran": 1052,
+    "juz": 9,
+    "manzil": 2,
+    "page": 163,
+    "ruku": 133,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوَأَمِنَ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20818,
+      "word_number_in_surah": 1591,
+      "word_surah": 7,
+      "word_translation": "Or felt secure",
+      "word_transliteration": "awa-amina"
+    },
+    {
+      "word_arabic": "أَهۡلُ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20819,
+      "word_number_in_surah": 1592,
+      "word_surah": 7,
+      "word_translation": "(the) people",
+      "word_transliteration": "ahlu"
+    },
+    {
+      "word_arabic": "ٱلۡقُرَىٰٓ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20820,
+      "word_number_in_surah": 1593,
+      "word_surah": 7,
+      "word_translation": "(of) the cities",
+      "word_transliteration": "al-qura"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 98,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20821,
+      "word_number_in_surah": 1594,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَأۡتِيَهُم",
+      "word_ayah": 98,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20822,
+      "word_number_in_surah": 1595,
+      "word_surah": 7,
+      "word_translation": "comes to them",
+      "word_transliteration": "yatiyahum"
+    },
+    {
+      "word_arabic": "بَأۡسُنَا",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20823,
+      "word_number_in_surah": 1596,
+      "word_surah": 7,
+      "word_translation": "Our punishment",
+      "word_transliteration": "basuna"
+    },
+    {
+      "word_arabic": "ضُحٗى",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20824,
+      "word_number_in_surah": 1597,
+      "word_surah": 7,
+      "word_translation": "(in) daylight",
+      "word_transliteration": "duhan"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20825,
+      "word_number_in_surah": 1598,
+      "word_surah": 7,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَلۡعَبُونَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20826,
+      "word_number_in_surah": 1599,
+      "word_surah": 7,
+      "word_translation": "(were) playing",
+      "word_transliteration": "yal'abuna"
+    }
+  ],
+  "fullArabic": "أَوَأَمِنَ أَهۡلُ ٱلۡقُرَىٰٓ أَن يَأۡتِيَهُم بَأۡسُنَا ضُحٗى وَهُمۡ يَلۡعَبُونَ",
+  "fullTranslation": "Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?",
+  "fullTransliteration": "awa-amina ahlu al-qura an yatiyahum basuna duhan wahum yal'abuna"
+}

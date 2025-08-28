@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 53,
+    "surah": 5,
+    "words": 15,
+    "numberInQuran": 722,
+    "juz": 6,
+    "manzil": 2,
+    "page": 117,
+    "ruku": 93,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَيَقُولُ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14725,
+      "word_number_in_surah": 1352,
+      "word_surah": 5,
+      "word_translation": "And will say",
+      "word_transliteration": "wayaqulu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14726,
+      "word_number_in_surah": 1353,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14727,
+      "word_number_in_surah": 1354,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "أَهَٰٓؤُلَآءِ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14728,
+      "word_number_in_surah": 1355,
+      "word_surah": 5,
+      "word_translation": "Are these",
+      "word_transliteration": "ahaulai"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14729,
+      "word_number_in_surah": 1356,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أَقۡسَمُواْ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14730,
+      "word_number_in_surah": 1357,
+      "word_surah": 5,
+      "word_translation": "swore",
+      "word_transliteration": "aqsamu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14731,
+      "word_number_in_surah": 1358,
+      "word_surah": 5,
+      "word_translation": "by Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "جَهۡدَ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14732,
+      "word_number_in_surah": 1359,
+      "word_surah": 5,
+      "word_translation": "strongest",
+      "word_transliteration": "jahda"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنِهِمۡ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14733,
+      "word_number_in_surah": 1360,
+      "word_surah": 5,
+      "word_translation": "(of) their oaths",
+      "word_transliteration": "aymanihim"
+    },
+    {
+      "word_arabic": "إِنَّهُمۡ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14734,
+      "word_number_in_surah": 1361,
+      "word_surah": 5,
+      "word_translation": "indeed they",
+      "word_transliteration": "innahum"
+    },
+    {
+      "word_arabic": "لَمَعَكُمۡۚ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14735,
+      "word_number_in_surah": 1362,
+      "word_surah": 5,
+      "word_translation": "(were) with you",
+      "word_transliteration": "lama'akum"
+    },
+    {
+      "word_arabic": "حَبِطَتۡ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14736,
+      "word_number_in_surah": 1363,
+      "word_surah": 5,
+      "word_translation": "Became worthless",
+      "word_transliteration": "habitat"
+    },
+    {
+      "word_arabic": "أَعۡمَٰلُهُمۡ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14737,
+      "word_number_in_surah": 1364,
+      "word_surah": 5,
+      "word_translation": "their deeds",
+      "word_transliteration": "a'maluhum"
+    },
+    {
+      "word_arabic": "فَأَصۡبَحُواْ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14738,
+      "word_number_in_surah": 1365,
+      "word_surah": 5,
+      "word_translation": "and they became",
+      "word_transliteration": "fa-asbahu"
+    },
+    {
+      "word_arabic": "خَٰسِرِينَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14739,
+      "word_number_in_surah": 1366,
+      "word_surah": 5,
+      "word_translation": "(the) losers",
+      "word_transliteration": "khasirina"
+    }
+  ],
+  "fullArabic": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓاْ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ إِنَّهُمۡ لَمَعَكُمۡۚ حَبِطَتۡ أَعۡمَٰلُهُمۡ فَأَصۡبَحُواْ خَٰسِرِينَ",
+  "fullTranslation": "And those who believe will say, \"Are these the ones who swore by Allah their strongest oaths that indeed they were with you?\" Their deeds have become worthless, and they have become losers.",
+  "fullTransliteration": "wayaqulu alladhina amanu ahaulai alladhina aqsamu bil-lahi jahda aymanihim innahum lama'akum habitat a'maluhum fa-asbahu khasirina"
+}

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "ayah": 99,
+    "surah": 4,
+    "words": 10,
+    "numberInQuran": 592,
+    "juz": 5,
+    "manzil": 1,
+    "page": 94,
+    "ruku": 75,
+    "hizbQuarter": 37,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأُوْلَٰٓئِكَ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11852,
+      "word_number_in_surah": 2226,
+      "word_surah": 4,
+      "word_translation": "Then those",
+      "word_transliteration": "fa-ulaika"
+    },
+    {
+      "word_arabic": "عَسَى",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11853,
+      "word_number_in_surah": 2227,
+      "word_surah": 4,
+      "word_translation": "may be",
+      "word_transliteration": "asa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11854,
+      "word_number_in_surah": 2228,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 99,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11855,
+      "word_number_in_surah": 2229,
+      "word_surah": 4,
+      "word_translation": "will",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَعۡفُوَ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11856,
+      "word_number_in_surah": 2230,
+      "word_surah": 4,
+      "word_translation": "pardon",
+      "word_transliteration": "ya'fuwa"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡۚ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11857,
+      "word_number_in_surah": 2231,
+      "word_surah": 4,
+      "word_translation": "[on] them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11858,
+      "word_number_in_surah": 2232,
+      "word_surah": 4,
+      "word_translation": "and is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11859,
+      "word_number_in_surah": 2233,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَفُوًّا",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11860,
+      "word_number_in_surah": 2234,
+      "word_surah": 4,
+      "word_translation": "Oft-Pardoning",
+      "word_transliteration": "afuwwan"
+    },
+    {
+      "word_arabic": "غَفُورٗا",
+      "word_ayah": 99,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11861,
+      "word_number_in_surah": 2235,
+      "word_surah": 4,
+      "word_translation": "Oft-Forgiving",
+      "word_transliteration": "ghafuran"
+    }
+  ],
+  "fullArabic": "فَأُوْلَٰٓئِكَ عَسَى ٱللَّهُ أَن يَعۡفُوَ عَنۡهُمۡۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورٗا",
+  "fullTranslation": "For those it is expected that Allah will pardon them, and Allah is ever Pardoning and Forgiving.",
+  "fullTransliteration": "fa-ulaika asa al-lahu an ya'fuwa anhum wakana al-lahu afuwwan ghafuran"
+}

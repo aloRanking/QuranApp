@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "ayah": 7,
+    "surah": 4,
+    "words": 19,
+    "numberInQuran": 500,
+    "juz": 4,
+    "manzil": 1,
+    "page": 78,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لِّلرِّجَالِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9766,
+      "word_number_in_surah": 140,
+      "word_surah": 4,
+      "word_translation": "For the men",
+      "word_transliteration": "lilrrijali"
+    },
+    {
+      "word_arabic": "نَصِيبٞ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9767,
+      "word_number_in_surah": 141,
+      "word_surah": 4,
+      "word_translation": "a portion",
+      "word_transliteration": "nasibun"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9768,
+      "word_number_in_surah": 142,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "تَرَكَ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9769,
+      "word_number_in_surah": 143,
+      "word_surah": 4,
+      "word_translation": "(is) left",
+      "word_transliteration": "taraka"
+    },
+    {
+      "word_arabic": "ٱلۡوَٰلِدَانِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9770,
+      "word_number_in_surah": 144,
+      "word_surah": 4,
+      "word_translation": "(by) the parents",
+      "word_transliteration": "al-walidani"
+    },
+    {
+      "word_arabic": "وَٱلۡأَقۡرَبُونَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9771,
+      "word_number_in_surah": 145,
+      "word_surah": 4,
+      "word_translation": "and the near relatives",
+      "word_transliteration": "wal-aqrabuna"
+    },
+    {
+      "word_arabic": "وَلِلنِّسَآءِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9772,
+      "word_number_in_surah": 146,
+      "word_surah": 4,
+      "word_translation": "and for the women",
+      "word_transliteration": "walilnnisai"
+    },
+    {
+      "word_arabic": "نَصِيبٞ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9773,
+      "word_number_in_surah": 147,
+      "word_surah": 4,
+      "word_translation": "a portion",
+      "word_transliteration": "nasibun"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9774,
+      "word_number_in_surah": 148,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "تَرَكَ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9775,
+      "word_number_in_surah": 149,
+      "word_surah": 4,
+      "word_translation": "(is) left",
+      "word_transliteration": "taraka"
+    },
+    {
+      "word_arabic": "ٱلۡوَٰلِدَانِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9776,
+      "word_number_in_surah": 150,
+      "word_surah": 4,
+      "word_translation": "(by) parents",
+      "word_transliteration": "al-walidani"
+    },
+    {
+      "word_arabic": "وَٱلۡأَقۡرَبُونَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9777,
+      "word_number_in_surah": 151,
+      "word_surah": 4,
+      "word_translation": "and the near relatives",
+      "word_transliteration": "wal-aqrabuna"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9778,
+      "word_number_in_surah": 152,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "قَلَّ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9779,
+      "word_number_in_surah": 153,
+      "word_surah": 4,
+      "word_translation": "(is) little",
+      "word_transliteration": "qalla"
+    },
+    {
+      "word_arabic": "مِنۡهُ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9780,
+      "word_number_in_surah": 154,
+      "word_surah": 4,
+      "word_translation": "of it",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9781,
+      "word_number_in_surah": 155,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "كَثُرَۚ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9782,
+      "word_number_in_surah": 156,
+      "word_surah": 4,
+      "word_translation": "much",
+      "word_transliteration": "kathura"
+    },
+    {
+      "word_arabic": "نَصِيبٗا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9783,
+      "word_number_in_surah": 157,
+      "word_surah": 4,
+      "word_translation": "a portion",
+      "word_transliteration": "nasiban"
+    },
+    {
+      "word_arabic": "مَّفۡرُوضٗا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9784,
+      "word_number_in_surah": 158,
+      "word_surah": 4,
+      "word_translation": "obligatory",
+      "word_transliteration": "mafrudan"
+    }
+  ],
+  "fullArabic": "لِّلرِّجَالِ نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ وَلِلنِّسَآءِ نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ مِمَّا قَلَّ مِنۡهُ أَوۡ كَثُرَۚ نَصِيبٗا مَّفۡرُوضٗا",
+  "fullTranslation": "For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share.",
+  "fullTransliteration": "lilrrijali nasibun mimma taraka al-walidani wal-aqrabuna walilnnisai nasibun mimma taraka al-walidani wal-aqrabuna mimma qalla min'hu aw kathura nasiban mafrudan"
+}

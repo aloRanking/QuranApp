@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 46,
+    "surah": 7,
+    "words": 18,
+    "numberInQuran": 1000,
+    "juz": 8,
+    "manzil": 2,
+    "page": 156,
+    "ruku": 126,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَبَيۡنَهُمَا",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19941,
+      "word_number_in_surah": 714,
+      "word_surah": 7,
+      "word_translation": "And between them",
+      "word_transliteration": "wabaynahuma"
+    },
+    {
+      "word_arabic": "حِجَابٞۚ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19942,
+      "word_number_in_surah": 715,
+      "word_surah": 7,
+      "word_translation": "(will be) a partition",
+      "word_transliteration": "hijabun"
+    },
+    {
+      "word_arabic": "وَعَلَى",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19943,
+      "word_number_in_surah": 716,
+      "word_surah": 7,
+      "word_translation": "and on",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "ٱلۡأَعۡرَافِ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19944,
+      "word_number_in_surah": 717,
+      "word_surah": 7,
+      "word_translation": "the heights",
+      "word_transliteration": "al-a'rafi"
+    },
+    {
+      "word_arabic": "رِجَالٞ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19945,
+      "word_number_in_surah": 718,
+      "word_surah": 7,
+      "word_translation": "(will be) men",
+      "word_transliteration": "rijalun"
+    },
+    {
+      "word_arabic": "يَعۡرِفُونَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19946,
+      "word_number_in_surah": 719,
+      "word_surah": 7,
+      "word_translation": "recognizing",
+      "word_transliteration": "ya'rifuna"
+    },
+    {
+      "word_arabic": "كُلَّۢا",
+      "word_ayah": 46,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19947,
+      "word_number_in_surah": 720,
+      "word_surah": 7,
+      "word_translation": "all",
+      "word_transliteration": "kullan"
+    },
+    {
+      "word_arabic": "بِسِيمَىٰهُمۡۚ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19948,
+      "word_number_in_surah": 721,
+      "word_surah": 7,
+      "word_translation": "by their marks",
+      "word_transliteration": "bisimahum"
+    },
+    {
+      "word_arabic": "وَنَادَوۡاْ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19949,
+      "word_number_in_surah": 722,
+      "word_surah": 7,
+      "word_translation": "And they will call out",
+      "word_transliteration": "wanadaw"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19950,
+      "word_number_in_surah": 723,
+      "word_surah": 7,
+      "word_translation": "(to the) companions",
+      "word_transliteration": "ashaba"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةِ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19951,
+      "word_number_in_surah": 724,
+      "word_surah": 7,
+      "word_translation": "(of) Paradise",
+      "word_transliteration": "al-janati"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 46,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19952,
+      "word_number_in_surah": 725,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَلَٰمٌ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19953,
+      "word_number_in_surah": 726,
+      "word_surah": 7,
+      "word_translation": "Peace",
+      "word_transliteration": "salamun"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡۚ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19954,
+      "word_number_in_surah": 727,
+      "word_surah": 7,
+      "word_translation": "(be) upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19955,
+      "word_number_in_surah": 728,
+      "word_surah": 7,
+      "word_translation": "Not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَدۡخُلُوهَا",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19956,
+      "word_number_in_surah": 729,
+      "word_surah": 7,
+      "word_translation": "they have entered it",
+      "word_transliteration": "yadkhuluha"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19957,
+      "word_number_in_surah": 730,
+      "word_surah": 7,
+      "word_translation": "but they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَطۡمَعُونَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19958,
+      "word_number_in_surah": 731,
+      "word_surah": 7,
+      "word_translation": "hope",
+      "word_transliteration": "yatma'una"
+    }
+  ],
+  "fullArabic": "وَبَيۡنَهُمَا حِجَابٞۚ وَعَلَى ٱلۡأَعۡرَافِ رِجَالٞ يَعۡرِفُونَ كُلَّۢا بِسِيمَىٰهُمۡۚ وَنَادَوۡاْ أَصۡحَٰبَ ٱلۡجَنَّةِ أَن سَلَٰمٌ عَلَيۡكُمۡۚ لَمۡ يَدۡخُلُوهَا وَهُمۡ يَطۡمَعُونَ",
+  "fullTranslation": "And between them will be a partition, and on [its] elevations are men who recognize all by their mark. And they call out to the companions of Paradise, \"Peace be upon you.\" They have not [yet] entered it, but they long intensely.",
+  "fullTransliteration": "wabaynahuma hijabun wa'ala al-a'rafi rijalun ya'rifuna kullan bisimahum wanadaw ashaba al-janati an salamun alaykum lam yadkhuluha wahum yatma'una"
+}

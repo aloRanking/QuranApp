@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 136,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1090,
+    "juz": 9,
+    "manzil": 2,
+    "page": 166,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَٱنتَقَمۡنَا",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21245,
+      "word_number_in_surah": 2018,
+      "word_surah": 7,
+      "word_translation": "So We took retribution",
+      "word_transliteration": "fa-intaqamna"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21246,
+      "word_number_in_surah": 2019,
+      "word_surah": 7,
+      "word_translation": "from them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "فَأَغۡرَقۡنَٰهُمۡ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21247,
+      "word_number_in_surah": 2020,
+      "word_surah": 7,
+      "word_translation": "and We drowned them",
+      "word_transliteration": "fa-aghraqnahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21248,
+      "word_number_in_surah": 2021,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡيَمِّ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21249,
+      "word_number_in_surah": 2022,
+      "word_surah": 7,
+      "word_translation": "the sea",
+      "word_transliteration": "al-yami"
+    },
+    {
+      "word_arabic": "بِأَنَّهُمۡ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21250,
+      "word_number_in_surah": 2023,
+      "word_surah": 7,
+      "word_translation": "because they",
+      "word_transliteration": "bi-annahum"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21251,
+      "word_number_in_surah": 2024,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21252,
+      "word_number_in_surah": 2025,
+      "word_surah": 7,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "وَكَانُواْ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21253,
+      "word_number_in_surah": 2026,
+      "word_surah": 7,
+      "word_translation": "and they were",
+      "word_transliteration": "wakanu"
+    },
+    {
+      "word_arabic": "عَنۡهَا",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21254,
+      "word_number_in_surah": 2027,
+      "word_surah": 7,
+      "word_translation": "to them",
+      "word_transliteration": "anha"
+    },
+    {
+      "word_arabic": "غَٰفِلِينَ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21255,
+      "word_number_in_surah": 2028,
+      "word_surah": 7,
+      "word_translation": "heedless",
+      "word_transliteration": "ghafilina"
+    }
+  ],
+  "fullArabic": "فَٱنتَقَمۡنَا مِنۡهُمۡ فَأَغۡرَقۡنَٰهُمۡ فِي ٱلۡيَمِّ بِأَنَّهُمۡ كَذَّبُواْ بِ‍َٔايَٰتِنَا وَكَانُواْ عَنۡهَا غَٰفِلِينَ",
+  "fullTranslation": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them.",
+  "fullTransliteration": "fa-intaqamna min'hum fa-aghraqnahum fi al-yami bi-annahum kadhabu biayatina wakanu anha ghafilina"
+}

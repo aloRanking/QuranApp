@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 136,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 429,
+    "juz": 4,
+    "manzil": 1,
+    "page": 67,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8399,
+      "word_number_in_surah": 2254,
+      "word_surah": 3,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "جَزَآؤُهُم",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8400,
+      "word_number_in_surah": 2255,
+      "word_surah": 3,
+      "word_translation": "their reward",
+      "word_transliteration": "jazauhum"
+    },
+    {
+      "word_arabic": "مَّغۡفِرَةٞ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8401,
+      "word_number_in_surah": 2256,
+      "word_surah": 3,
+      "word_translation": "(is) forgiveness",
+      "word_transliteration": "maghfiratun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 136,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8402,
+      "word_number_in_surah": 2257,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّهِمۡ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8403,
+      "word_number_in_surah": 2258,
+      "word_surah": 3,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "وَجَنَّٰتٞ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8404,
+      "word_number_in_surah": 2259,
+      "word_surah": 3,
+      "word_translation": "and Gardens",
+      "word_transliteration": "wajannatun"
+    },
+    {
+      "word_arabic": "تَجۡرِي",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8405,
+      "word_number_in_surah": 2260,
+      "word_surah": 3,
+      "word_translation": "flows",
+      "word_transliteration": "tajri"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 136,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8406,
+      "word_number_in_surah": 2261,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "تَحۡتِهَا",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8407,
+      "word_number_in_surah": 2262,
+      "word_surah": 3,
+      "word_translation": "underneath it",
+      "word_transliteration": "tahtiha"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرُ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8408,
+      "word_number_in_surah": 2263,
+      "word_surah": 3,
+      "word_translation": "the rivers",
+      "word_transliteration": "al-anharu"
+    },
+    {
+      "word_arabic": "خَٰلِدِينَ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8409,
+      "word_number_in_surah": 2264,
+      "word_surah": 3,
+      "word_translation": "abiding forever",
+      "word_transliteration": "khalidina"
+    },
+    {
+      "word_arabic": "فِيهَاۚ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8410,
+      "word_number_in_surah": 2265,
+      "word_surah": 3,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَنِعۡمَ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8411,
+      "word_number_in_surah": 2266,
+      "word_surah": 3,
+      "word_translation": "And an excellent",
+      "word_transliteration": "wani'ma"
+    },
+    {
+      "word_arabic": "أَجۡرُ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8412,
+      "word_number_in_surah": 2267,
+      "word_surah": 3,
+      "word_translation": "reward",
+      "word_transliteration": "ajru"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰمِلِينَ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8413,
+      "word_number_in_surah": 2268,
+      "word_surah": 3,
+      "word_translation": "(for) the (righteous) workers",
+      "word_transliteration": "al-'amilina"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ جَزَآؤُهُم مَّغۡفِرَةٞ مِّن رَّبِّهِمۡ وَجَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَنِعۡمَ أَجۡرُ ٱلۡعَٰمِلِينَ",
+  "fullTranslation": "Those - their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers.",
+  "fullTransliteration": "ulaika jazauhum maghfiratun min rabbihim wajannatun tajri min tahtiha al-anharu khalidina fiha wani'ma ajru al-'amilina"
+}

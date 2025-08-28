@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 115,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 1069,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20996,
+      "word_number_in_surah": 1769,
+      "word_surah": 7,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "يَٰمُوسَىٰٓ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20997,
+      "word_number_in_surah": 1770,
+      "word_surah": 7,
+      "word_translation": "O Musa",
+      "word_transliteration": "yamusa"
+    },
+    {
+      "word_arabic": "إِمَّآ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20998,
+      "word_number_in_surah": 1771,
+      "word_surah": 7,
+      "word_translation": "Whether",
+      "word_transliteration": "imma"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 115,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20999,
+      "word_number_in_surah": 1772,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تُلۡقِيَ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21000,
+      "word_number_in_surah": 1773,
+      "word_surah": 7,
+      "word_translation": "you throw",
+      "word_transliteration": "tul'qiya"
+    },
+    {
+      "word_arabic": "وَإِمَّآ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21001,
+      "word_number_in_surah": 1774,
+      "word_surah": 7,
+      "word_translation": "or",
+      "word_transliteration": "wa-imma"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 115,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21002,
+      "word_number_in_surah": 1775,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "نَّكُونَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21003,
+      "word_number_in_surah": 1776,
+      "word_surah": 7,
+      "word_translation": "we will be",
+      "word_transliteration": "nakuna"
+    },
+    {
+      "word_arabic": "نَحۡنُ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21004,
+      "word_number_in_surah": 1777,
+      "word_surah": 7,
+      "word_translation": "[we]",
+      "word_transliteration": "nahnu"
+    },
+    {
+      "word_arabic": "ٱلۡمُلۡقِينَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21005,
+      "word_number_in_surah": 1778,
+      "word_surah": 7,
+      "word_translation": "the ones to throw",
+      "word_transliteration": "al-mul'qina"
+    }
+  ],
+  "fullArabic": "قَالُواْ يَٰمُوسَىٰٓ إِمَّآ أَن تُلۡقِيَ وَإِمَّآ أَن نَّكُونَ نَحۡنُ ٱلۡمُلۡقِينَ",
+  "fullTranslation": "They said, \"O Moses, either you throw [your staff], or we will be the ones to throw [first].\"",
+  "fullTransliteration": "qalu yamusa imma an tul'qiya wa-imma an nakuna nahnu al-mul'qina"
+}

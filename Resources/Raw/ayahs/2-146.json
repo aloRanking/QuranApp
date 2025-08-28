@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 146,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 153,
+    "juz": 2,
+    "manzil": 1,
+    "page": 23,
+    "ruku": 18,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2655,
+      "word_number_in_surah": 2626,
+      "word_surah": 2,
+      "word_translation": "(To) those whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَٰهُمُ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2656,
+      "word_number_in_surah": 2627,
+      "word_surah": 2,
+      "word_translation": "We gave [them]",
+      "word_transliteration": "ataynahumu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2657,
+      "word_number_in_surah": 2628,
+      "word_surah": 2,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "يَعۡرِفُونَهُۥ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2658,
+      "word_number_in_surah": 2629,
+      "word_surah": 2,
+      "word_translation": "they recognize it",
+      "word_transliteration": "ya'rifunahu"
+    },
+    {
+      "word_arabic": "كَمَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2659,
+      "word_number_in_surah": 2630,
+      "word_surah": 2,
+      "word_translation": "like",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "يَعۡرِفُونَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2660,
+      "word_number_in_surah": 2631,
+      "word_surah": 2,
+      "word_translation": "they recognize",
+      "word_transliteration": "ya'rifuna"
+    },
+    {
+      "word_arabic": "أَبۡنَآءَهُمۡۖ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2661,
+      "word_number_in_surah": 2632,
+      "word_surah": 2,
+      "word_translation": "their sons",
+      "word_transliteration": "abnaahum"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2662,
+      "word_number_in_surah": 2633,
+      "word_surah": 2,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "فَرِيقٗا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2663,
+      "word_number_in_surah": 2634,
+      "word_surah": 2,
+      "word_translation": "a group",
+      "word_transliteration": "fariqan"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2664,
+      "word_number_in_surah": 2635,
+      "word_surah": 2,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "لَيَكۡتُمُونَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2665,
+      "word_number_in_surah": 2636,
+      "word_surah": 2,
+      "word_translation": "surely they conceal",
+      "word_transliteration": "layaktumuna"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2666,
+      "word_number_in_surah": 2637,
+      "word_surah": 2,
+      "word_translation": "the Truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2667,
+      "word_number_in_surah": 2638,
+      "word_surah": 2,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2668,
+      "word_number_in_surah": 2639,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ أَبۡنَآءَهُمۡۖ وَإِنَّ فَرِيقٗا مِّنۡهُمۡ لَيَكۡتُمُونَ ٱلۡحَقَّ وَهُمۡ يَعۡلَمُونَ",
+  "fullTranslation": "Those to whom We gave the Scripture know him as they know their own sons. But indeed, a party of them conceal the truth while they know [it].",
+  "fullTransliteration": "alladhina ataynahumu al-kitaba ya'rifunahu kama ya'rifuna abnaahum wa-inna fariqan min'hum layaktumuna al-haqa wahum ya'lamuna"
+}

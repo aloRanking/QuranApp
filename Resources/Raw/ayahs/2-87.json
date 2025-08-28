@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "ayah": 87,
+    "surah": 2,
+    "words": 28,
+    "numberInQuran": 94,
+    "juz": 1,
+    "manzil": 1,
+    "page": 13,
+    "ruku": 12,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1435,
+      "word_number_in_surah": 1406,
+      "word_surah": 2,
+      "word_translation": "And indeed",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1436,
+      "word_number_in_surah": 1407,
+      "word_surah": 2,
+      "word_translation": "We gave",
+      "word_transliteration": "atayna"
+    },
+    {
+      "word_arabic": "مُوسَى",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1437,
+      "word_number_in_surah": 1408,
+      "word_surah": 2,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1438,
+      "word_number_in_surah": 1409,
+      "word_surah": 2,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَقَفَّيۡنَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1439,
+      "word_number_in_surah": 1410,
+      "word_surah": 2,
+      "word_translation": "and We followed up",
+      "word_transliteration": "waqaffayna"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1440,
+      "word_number_in_surah": 1411,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِۦ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1441,
+      "word_number_in_surah": 1412,
+      "word_surah": 2,
+      "word_translation": "after him",
+      "word_transliteration": "ba'dihi"
+    },
+    {
+      "word_arabic": "بِٱلرُّسُلِۖ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1442,
+      "word_number_in_surah": 1413,
+      "word_surah": 2,
+      "word_translation": "with [the] Messengers",
+      "word_transliteration": "bil-rusuli"
+    },
+    {
+      "word_arabic": "وَءَاتَيۡنَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1443,
+      "word_number_in_surah": 1414,
+      "word_surah": 2,
+      "word_translation": "And We gave",
+      "word_transliteration": "waatayna"
+    },
+    {
+      "word_arabic": "عِيسَى",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1444,
+      "word_number_in_surah": 1415,
+      "word_surah": 2,
+      "word_translation": "Isa",
+      "word_transliteration": "isa"
+    },
+    {
+      "word_arabic": "ٱبۡنَ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1445,
+      "word_number_in_surah": 1416,
+      "word_surah": 2,
+      "word_translation": "(the) son",
+      "word_transliteration": "ib'na"
+    },
+    {
+      "word_arabic": "مَرۡيَمَ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1446,
+      "word_number_in_surah": 1417,
+      "word_surah": 2,
+      "word_translation": "(of) Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "ٱلۡبَيِّنَٰتِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1447,
+      "word_number_in_surah": 1418,
+      "word_surah": 2,
+      "word_translation": "[the] clear signs",
+      "word_transliteration": "al-bayinati"
+    },
+    {
+      "word_arabic": "وَأَيَّدۡنَٰهُ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1448,
+      "word_number_in_surah": 1419,
+      "word_surah": 2,
+      "word_translation": "and We supported him",
+      "word_transliteration": "wa-ayyadnahu"
+    },
+    {
+      "word_arabic": "بِرُوحِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1449,
+      "word_number_in_surah": 1420,
+      "word_surah": 2,
+      "word_translation": "(with)",
+      "word_transliteration": "biruhi"
+    },
+    {
+      "word_arabic": "ٱلۡقُدُسِۗ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1450,
+      "word_number_in_surah": 1421,
+      "word_surah": 2,
+      "word_translation": "the Holy Spirit",
+      "word_transliteration": "al-qudusi"
+    },
+    {
+      "word_arabic": "أَفَكُلَّمَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1451,
+      "word_number_in_surah": 1422,
+      "word_surah": 2,
+      "word_translation": "Is it (not) so (that) whenever",
+      "word_transliteration": "afakullama"
+    },
+    {
+      "word_arabic": "جَآءَكُمۡ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1452,
+      "word_number_in_surah": 1423,
+      "word_surah": 2,
+      "word_translation": "came to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "رَسُولُۢ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1453,
+      "word_number_in_surah": 1424,
+      "word_surah": 2,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulun"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1454,
+      "word_number_in_surah": 1425,
+      "word_surah": 2,
+      "word_translation": "with what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1455,
+      "word_number_in_surah": 1426,
+      "word_surah": 2,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَهۡوَىٰٓ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1456,
+      "word_number_in_surah": 1427,
+      "word_surah": 2,
+      "word_translation": "desire",
+      "word_transliteration": "tahwa"
+    },
+    {
+      "word_arabic": "أَنفُسُكُمُ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1457,
+      "word_number_in_surah": 1428,
+      "word_surah": 2,
+      "word_translation": "yourselves",
+      "word_transliteration": "anfusukumu"
+    },
+    {
+      "word_arabic": "ٱسۡتَكۡبَرۡتُمۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1458,
+      "word_number_in_surah": 1429,
+      "word_surah": 2,
+      "word_translation": "you acted arrogantly",
+      "word_transliteration": "is'takbartum"
+    },
+    {
+      "word_arabic": "فَفَرِيقٗا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1459,
+      "word_number_in_surah": 1430,
+      "word_surah": 2,
+      "word_translation": "So a party",
+      "word_transliteration": "fafariqan"
+    },
+    {
+      "word_arabic": "كَذَّبۡتُمۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 1460,
+      "word_number_in_surah": 1431,
+      "word_surah": 2,
+      "word_translation": "you denied",
+      "word_transliteration": "kadhabtum"
+    },
+    {
+      "word_arabic": "وَفَرِيقٗا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 1461,
+      "word_number_in_surah": 1432,
+      "word_surah": 2,
+      "word_translation": "and a party",
+      "word_transliteration": "wafariqan"
+    },
+    {
+      "word_arabic": "تَقۡتُلُونَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 1462,
+      "word_number_in_surah": 1433,
+      "word_surah": 2,
+      "word_translation": "you kill(ed)",
+      "word_transliteration": "taqtuluna"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَقَفَّيۡنَا مِنۢ بَعۡدِهِۦ بِٱلرُّسُلِۖ وَءَاتَيۡنَا عِيسَى ٱبۡنَ مَرۡيَمَ ٱلۡبَيِّنَٰتِ وَأَيَّدۡنَٰهُ بِرُوحِ ٱلۡقُدُسِۗ أَفَكُلَّمَا جَآءَكُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰٓ أَنفُسُكُمُ ٱسۡتَكۡبَرۡتُمۡ فَفَرِيقٗا كَذَّبۡتُمۡ وَفَرِيقٗا تَقۡتُلُونَ",
+  "fullTranslation": "And We did certainly give Moses the Torah and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.",
+  "fullTransliteration": "walaqad atayna musa al-kitaba waqaffayna min ba'dihi bil-rusuli waatayna isa ib'na maryama al-bayinati wa-ayyadnahu biruhi al-qudusi afakullama jaakum rasulun bima la tahwa anfusukumu is'takbartum fafariqan kadhabtum wafariqan taqtuluna"
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "ayah": 111,
+    "surah": 6,
+    "words": 22,
+    "numberInQuran": 900,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَلَوۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18085,
+      "word_number_in_surah": 1908,
+      "word_surah": 6,
+      "word_translation": "And (even) if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَنَّنَا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18086,
+      "word_number_in_surah": 1909,
+      "word_surah": 6,
+      "word_translation": "[that] We (had)",
+      "word_transliteration": "annana"
+    },
+    {
+      "word_arabic": "نَزَّلۡنَآ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18087,
+      "word_number_in_surah": 1910,
+      "word_surah": 6,
+      "word_translation": "[We] sent down",
+      "word_transliteration": "nazzalna"
+    },
+    {
+      "word_arabic": "إِلَيۡهِمُ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18088,
+      "word_number_in_surah": 1911,
+      "word_surah": 6,
+      "word_translation": "to them",
+      "word_transliteration": "ilayhimu"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18089,
+      "word_number_in_surah": 1912,
+      "word_surah": 6,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikata"
+    },
+    {
+      "word_arabic": "وَكَلَّمَهُمُ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18090,
+      "word_number_in_surah": 1913,
+      "word_surah": 6,
+      "word_translation": "and spoken to them",
+      "word_transliteration": "wakallamahumu"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتَىٰ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18091,
+      "word_number_in_surah": 1914,
+      "word_surah": 6,
+      "word_translation": "the dead",
+      "word_transliteration": "al-mawta"
+    },
+    {
+      "word_arabic": "وَحَشَرۡنَا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18092,
+      "word_number_in_surah": 1915,
+      "word_surah": 6,
+      "word_translation": "and We gathered",
+      "word_transliteration": "wahasharna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18093,
+      "word_number_in_surah": 1916,
+      "word_surah": 6,
+      "word_translation": "before them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18094,
+      "word_number_in_surah": 1917,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18095,
+      "word_number_in_surah": 1918,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قُبُلٗا",
+      "word_ayah": 111,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18096,
+      "word_number_in_surah": 1919,
+      "word_surah": 6,
+      "word_translation": "face to face",
+      "word_transliteration": "qubulan"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18097,
+      "word_number_in_surah": 1920,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18098,
+      "word_number_in_surah": 1921,
+      "word_surah": 6,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "لِيُؤۡمِنُوٓاْ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18099,
+      "word_number_in_surah": 1922,
+      "word_surah": 6,
+      "word_translation": "to believe",
+      "word_transliteration": "liyu'minu"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18100,
+      "word_number_in_surah": 1923,
+      "word_surah": 6,
+      "word_translation": "unless",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 111,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18101,
+      "word_number_in_surah": 1924,
+      "word_surah": 6,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَشَآءَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18102,
+      "word_number_in_surah": 1925,
+      "word_surah": 6,
+      "word_translation": "wills",
+      "word_transliteration": "yashaa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18103,
+      "word_number_in_surah": 1926,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18104,
+      "word_number_in_surah": 1927,
+      "word_surah": 6,
+      "word_translation": "But",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "أَكۡثَرَهُمۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18105,
+      "word_number_in_surah": 1928,
+      "word_surah": 6,
+      "word_translation": "most of them",
+      "word_transliteration": "aktharahum"
+    },
+    {
+      "word_arabic": "يَجۡهَلُونَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18106,
+      "word_number_in_surah": 1929,
+      "word_surah": 6,
+      "word_translation": "(are) ignorant",
+      "word_transliteration": "yajhaluna"
+    }
+  ],
+  "fullArabic": "۞وَلَوۡ أَنَّنَا نَزَّلۡنَآ إِلَيۡهِمُ ٱلۡمَلَٰٓئِكَةَ وَكَلَّمَهُمُ ٱلۡمَوۡتَىٰ وَحَشَرۡنَا عَلَيۡهِمۡ كُلَّ شَيۡءٖ قُبُلٗا مَّا كَانُواْ لِيُؤۡمِنُوٓاْ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَٰكِنَّ أَكۡثَرَهُمۡ يَجۡهَلُونَ",
+  "fullTranslation": "And even if We had sent down to them the angels [with the message] and the dead spoke to them [of it] and We gathered together every [created] thing in front of them, they would not believe unless Allah should will. But most of them, [of that], are ignorant.",
+  "fullTransliteration": "walaw annana nazzalna ilayhimu al-malaikata wakallamahumu al-mawta wahasharna alayhim kulla shayin qubulan ma kanu liyu'minu illa an yashaa al-lahu walakinna aktharahum yajhaluna"
+}

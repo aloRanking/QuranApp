@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 22,
+    "surah": 4,
+    "words": 17,
+    "numberInQuran": 515,
+    "juz": 4,
+    "manzil": 1,
+    "page": 81,
+    "ruku": 64,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10158,
+      "word_number_in_surah": 532,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَنكِحُواْ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10159,
+      "word_number_in_surah": 533,
+      "word_surah": 4,
+      "word_translation": "marry",
+      "word_transliteration": "tankihu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10160,
+      "word_number_in_surah": 534,
+      "word_surah": 4,
+      "word_translation": "whom",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "نَكَحَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10161,
+      "word_number_in_surah": 535,
+      "word_surah": 4,
+      "word_translation": "married",
+      "word_transliteration": "nakaha"
+    },
+    {
+      "word_arabic": "ءَابَآؤُكُم",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10162,
+      "word_number_in_surah": 536,
+      "word_surah": 4,
+      "word_translation": "your fathers",
+      "word_transliteration": "abaukum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10163,
+      "word_number_in_surah": 537,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءِ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10164,
+      "word_number_in_surah": 538,
+      "word_surah": 4,
+      "word_translation": "the women",
+      "word_transliteration": "al-nisai"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10165,
+      "word_number_in_surah": 539,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10166,
+      "word_number_in_surah": 540,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10167,
+      "word_number_in_surah": 541,
+      "word_surah": 4,
+      "word_translation": "has",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "سَلَفَۚ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10168,
+      "word_number_in_surah": 542,
+      "word_surah": 4,
+      "word_translation": "passed before",
+      "word_transliteration": "salafa"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10169,
+      "word_number_in_surah": 543,
+      "word_surah": 4,
+      "word_translation": "indeed it",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10170,
+      "word_number_in_surah": 544,
+      "word_surah": 4,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "فَٰحِشَةٗ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10171,
+      "word_number_in_surah": 545,
+      "word_surah": 4,
+      "word_translation": "an immorality",
+      "word_transliteration": "fahishatan"
+    },
+    {
+      "word_arabic": "وَمَقۡتٗا",
+      "word_ayah": 22,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10172,
+      "word_number_in_surah": 546,
+      "word_surah": 4,
+      "word_translation": "and hateful",
+      "word_transliteration": "wamaqtan"
+    },
+    {
+      "word_arabic": "وَسَآءَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10173,
+      "word_number_in_surah": 547,
+      "word_surah": 4,
+      "word_translation": "and (an) evil",
+      "word_transliteration": "wasaa"
+    },
+    {
+      "word_arabic": "سَبِيلًا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10174,
+      "word_number_in_surah": 548,
+      "word_surah": 4,
+      "word_translation": "way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "وَلَا تَنكِحُواْ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدۡ سَلَفَۚ إِنَّهُۥ كَانَ فَٰحِشَةٗ وَمَقۡتٗا وَسَآءَ سَبِيلًا",
+  "fullTranslation": "And do not marry those [women] whom your fathers married, except what has already occurred. Indeed, it was an immorality and hateful [to Allah] and was evil as a way.",
+  "fullTransliteration": "wala tankihu ma nakaha abaukum mina al-nisai illa ma qad salafa innahu kana fahishatan wamaqtan wasaa sabilan"
+}

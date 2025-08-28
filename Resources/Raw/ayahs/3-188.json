@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "ayah": 188,
+    "surah": 3,
+    "words": 20,
+    "numberInQuran": 481,
+    "juz": 4,
+    "manzil": 1,
+    "page": 75,
+    "ruku": 60,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9403,
+      "word_number_in_surah": 3258,
+      "word_surah": 3,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَحۡسَبَنَّ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9404,
+      "word_number_in_surah": 3259,
+      "word_surah": 3,
+      "word_translation": "think",
+      "word_transliteration": "tahsabanna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9405,
+      "word_number_in_surah": 3260,
+      "word_surah": 3,
+      "word_translation": "(that) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَفۡرَحُونَ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9406,
+      "word_number_in_surah": 3261,
+      "word_surah": 3,
+      "word_translation": "rejoice",
+      "word_transliteration": "yafrahuna"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9407,
+      "word_number_in_surah": 3262,
+      "word_surah": 3,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَتَواْ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9408,
+      "word_number_in_surah": 3263,
+      "word_surah": 3,
+      "word_translation": "(they have) brought",
+      "word_transliteration": "ataw"
+    },
+    {
+      "word_arabic": "وَّيُحِبُّونَ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9409,
+      "word_number_in_surah": 3264,
+      "word_surah": 3,
+      "word_translation": "and they love",
+      "word_transliteration": "wayuhibbuna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 188,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9410,
+      "word_number_in_surah": 3265,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُحۡمَدُواْ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9411,
+      "word_number_in_surah": 3266,
+      "word_surah": 3,
+      "word_translation": "they be praised",
+      "word_transliteration": "yuh'madu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9412,
+      "word_number_in_surah": 3267,
+      "word_surah": 3,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9413,
+      "word_number_in_surah": 3268,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَفۡعَلُواْ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9414,
+      "word_number_in_surah": 3269,
+      "word_surah": 3,
+      "word_translation": "they do",
+      "word_transliteration": "yaf 'alu"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9415,
+      "word_number_in_surah": 3270,
+      "word_surah": 3,
+      "word_translation": "so (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَحۡسَبَنَّهُم",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9416,
+      "word_number_in_surah": 3271,
+      "word_surah": 3,
+      "word_translation": "think (that) they",
+      "word_transliteration": "tahsabannahum"
+    },
+    {
+      "word_arabic": "بِمَفَازَةٖ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9417,
+      "word_number_in_surah": 3272,
+      "word_surah": 3,
+      "word_translation": "(will) escape",
+      "word_transliteration": "bimafazatin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9418,
+      "word_number_in_surah": 3273,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابِۖ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9419,
+      "word_number_in_surah": 3274,
+      "word_surah": 3,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhabi"
+    },
+    {
+      "word_arabic": "وَلَهُمۡ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9420,
+      "word_number_in_surah": 3275,
+      "word_surah": 3,
+      "word_translation": "and for them",
+      "word_transliteration": "walahum"
+    },
+    {
+      "word_arabic": "عَذَابٌ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9421,
+      "word_number_in_surah": 3276,
+      "word_surah": 3,
+      "word_translation": "(is a) punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "أَلِيمٞ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9422,
+      "word_number_in_surah": 3277,
+      "word_surah": 3,
+      "word_translation": "painful",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "لَا تَحۡسَبَنَّ ٱلَّذِينَ يَفۡرَحُونَ بِمَآ أَتَواْ وَّيُحِبُّونَ أَن يُحۡمَدُواْ بِمَا لَمۡ يَفۡعَلُواْ فَلَا تَحۡسَبَنَّهُم بِمَفَازَةٖ مِّنَ ٱلۡعَذَابِۖ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+  "fullTranslation": "And never think that those who rejoice in what they have perpetrated and like to be praised for what they did not do - never think them [to be] in safety from the punishment, and for them is a painful punishment.",
+  "fullTransliteration": "la tahsabanna alladhina yafrahuna bima ataw wayuhibbuna an yuh'madu bima lam yaf 'alu fala tahsabannahum bimafazatin mina al-'adhabi walahum adhabun alimun"
+}

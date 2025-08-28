@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "ayah": 110,
+    "surah": 3,
+    "words": 23,
+    "numberInQuran": 403,
+    "juz": 4,
+    "manzil": 1,
+    "page": 64,
+    "ruku": 53,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7989,
+      "word_number_in_surah": 1844,
+      "word_surah": 3,
+      "word_translation": "You are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "خَيۡرَ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7990,
+      "word_number_in_surah": 1845,
+      "word_surah": 3,
+      "word_translation": "(the) best",
+      "word_transliteration": "khayra"
+    },
+    {
+      "word_arabic": "أُمَّةٍ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7991,
+      "word_number_in_surah": 1846,
+      "word_surah": 3,
+      "word_translation": "(of) people",
+      "word_transliteration": "ummatin"
+    },
+    {
+      "word_arabic": "أُخۡرِجَتۡ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7992,
+      "word_number_in_surah": 1847,
+      "word_surah": 3,
+      "word_translation": "raised",
+      "word_transliteration": "ukh'rijat"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7993,
+      "word_number_in_surah": 1848,
+      "word_surah": 3,
+      "word_translation": "for the mankind",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "تَأۡمُرُونَ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7994,
+      "word_number_in_surah": 1849,
+      "word_surah": 3,
+      "word_translation": "enjoining",
+      "word_transliteration": "tamuruna"
+    },
+    {
+      "word_arabic": "بِٱلۡمَعۡرُوفِ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7995,
+      "word_number_in_surah": 1850,
+      "word_surah": 3,
+      "word_translation": "the right",
+      "word_transliteration": "bil-ma'rufi"
+    },
+    {
+      "word_arabic": "وَتَنۡهَوۡنَ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7996,
+      "word_number_in_surah": 1851,
+      "word_surah": 3,
+      "word_translation": "and forbidding",
+      "word_transliteration": "watanhawna"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7997,
+      "word_number_in_surah": 1852,
+      "word_surah": 3,
+      "word_translation": "[from]",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡمُنكَرِ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7998,
+      "word_number_in_surah": 1853,
+      "word_surah": 3,
+      "word_translation": "the wrong",
+      "word_transliteration": "al-munkari"
+    },
+    {
+      "word_arabic": "وَتُؤۡمِنُونَ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7999,
+      "word_number_in_surah": 1854,
+      "word_surah": 3,
+      "word_translation": "and believing",
+      "word_transliteration": "watu'minuna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِۗ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8000,
+      "word_number_in_surah": 1855,
+      "word_surah": 3,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8001,
+      "word_number_in_surah": 1856,
+      "word_surah": 3,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "ءَامَنَ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8002,
+      "word_number_in_surah": 1857,
+      "word_surah": 3,
+      "word_translation": "believed",
+      "word_transliteration": "amana"
+    },
+    {
+      "word_arabic": "أَهۡلُ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8003,
+      "word_number_in_surah": 1858,
+      "word_surah": 3,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahlu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8004,
+      "word_number_in_surah": 1859,
+      "word_surah": 3,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لَكَانَ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8005,
+      "word_number_in_surah": 1860,
+      "word_surah": 3,
+      "word_translation": "surely would have been",
+      "word_transliteration": "lakana"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 110,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8006,
+      "word_number_in_surah": 1861,
+      "word_surah": 3,
+      "word_translation": "good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "لَّهُمۚ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8007,
+      "word_number_in_surah": 1862,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "مِّنۡهُمُ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8008,
+      "word_number_in_surah": 1863,
+      "word_surah": 3,
+      "word_translation": "Among them",
+      "word_transliteration": "min'humu"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنُونَ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8009,
+      "word_number_in_surah": 1864,
+      "word_surah": 3,
+      "word_translation": "(are) the believers",
+      "word_transliteration": "al-mu'minuna"
+    },
+    {
+      "word_arabic": "وَأَكۡثَرُهُمُ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8010,
+      "word_number_in_surah": 1865,
+      "word_surah": 3,
+      "word_translation": "but most of them",
+      "word_transliteration": "wa-aktharuhumu"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰسِقُونَ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8011,
+      "word_number_in_surah": 1866,
+      "word_surah": 3,
+      "word_translation": "(are) defiantly disobedient",
+      "word_transliteration": "al-fasiquna"
+    }
+  ],
+  "fullArabic": "كُنتُمۡ خَيۡرَ أُمَّةٍ أُخۡرِجَتۡ لِلنَّاسِ تَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَتَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَتُؤۡمِنُونَ بِٱللَّهِۗ وَلَوۡ ءَامَنَ أَهۡلُ ٱلۡكِتَٰبِ لَكَانَ خَيۡرٗا لَّهُمۚ مِّنۡهُمُ ٱلۡمُؤۡمِنُونَ وَأَكۡثَرُهُمُ ٱلۡفَٰسِقُونَ",
+  "fullTranslation": "You are the best nation produced [as an example] for mankind. You enjoin what is right and forbid what is wrong and believe in Allah. If only the People of the Scripture had believed, it would have been better for them. Among them are believers, but most of them are defiantly disobedient.",
+  "fullTransliteration": "kuntum khayra ummatin ukh'rijat lilnnasi tamuruna bil-ma'rufi watanhawna ani al-munkari watu'minuna bil-lahi walaw amana ahlu al-kitabi lakana khayran lahum min'humu al-mu'minuna wa-aktharuhumu al-fasiquna"
+}

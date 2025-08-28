@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 151,
+    "surah": 3,
+    "words": 19,
+    "numberInQuran": 444,
+    "juz": 4,
+    "manzil": 1,
+    "page": 69,
+    "ruku": 57,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "سَنُلۡقِي",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8616,
+      "word_number_in_surah": 2471,
+      "word_surah": 3,
+      "word_translation": "We will cast",
+      "word_transliteration": "sanul'qi"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8617,
+      "word_number_in_surah": 2472,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قُلُوبِ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8618,
+      "word_number_in_surah": 2473,
+      "word_surah": 3,
+      "word_translation": "(the) hearts",
+      "word_transliteration": "qulubi"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8619,
+      "word_number_in_surah": 2474,
+      "word_surah": 3,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8620,
+      "word_number_in_surah": 2475,
+      "word_surah": 3,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "ٱلرُّعۡبَ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8621,
+      "word_number_in_surah": 2476,
+      "word_surah": 3,
+      "word_translation": "[the] terror",
+      "word_transliteration": "al-ru'ba"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8622,
+      "word_number_in_surah": 2477,
+      "word_surah": 3,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَشۡرَكُواْ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8623,
+      "word_number_in_surah": 2478,
+      "word_surah": 3,
+      "word_translation": "they associated partners",
+      "word_transliteration": "ashraku"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 151,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8624,
+      "word_number_in_surah": 2479,
+      "word_surah": 3,
+      "word_translation": "with Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8625,
+      "word_number_in_surah": 2480,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 151,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8626,
+      "word_number_in_surah": 2481,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يُنَزِّلۡ",
+      "word_ayah": 151,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8627,
+      "word_number_in_surah": 2482,
+      "word_surah": 3,
+      "word_translation": "He sent down",
+      "word_transliteration": "yunazzil"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 151,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8628,
+      "word_number_in_surah": 2483,
+      "word_surah": 3,
+      "word_translation": "about it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "سُلۡطَٰنٗاۖ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8629,
+      "word_number_in_surah": 2484,
+      "word_surah": 3,
+      "word_translation": "any authority",
+      "word_transliteration": "sul'tanan"
+    },
+    {
+      "word_arabic": "وَمَأۡوَىٰهُمُ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8630,
+      "word_number_in_surah": 2485,
+      "word_surah": 3,
+      "word_translation": "and their refuge",
+      "word_transliteration": "wamawahumu"
+    },
+    {
+      "word_arabic": "ٱلنَّارُۖ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8631,
+      "word_number_in_surah": 2486,
+      "word_surah": 3,
+      "word_translation": "(will be) the Fire",
+      "word_transliteration": "al-naru"
+    },
+    {
+      "word_arabic": "وَبِئۡسَ",
+      "word_ayah": 151,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8632,
+      "word_number_in_surah": 2487,
+      "word_surah": 3,
+      "word_translation": "and wretched",
+      "word_transliteration": "wabi'sa"
+    },
+    {
+      "word_arabic": "مَثۡوَى",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8633,
+      "word_number_in_surah": 2488,
+      "word_surah": 3,
+      "word_translation": "(is the) abode",
+      "word_transliteration": "mathwa"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8634,
+      "word_number_in_surah": 2489,
+      "word_surah": 3,
+      "word_translation": "[of] the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "سَنُلۡقِي فِي قُلُوبِ ٱلَّذِينَ كَفَرُواْ ٱلرُّعۡبَ بِمَآ أَشۡرَكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗاۖ وَمَأۡوَىٰهُمُ ٱلنَّارُۖ وَبِئۡسَ مَثۡوَى ٱلظَّٰلِمِينَ",
+  "fullTranslation": "We will cast terror into the hearts of those who disbelieve for what they have associated with Allah of which He had not sent down [any] authority. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.",
+  "fullTransliteration": "sanul'qi fi qulubi alladhina kafaru al-ru'ba bima ashraku bil-lahi ma lam yunazzil bihi sul'tanan wamawahumu al-naru wabi'sa mathwa al-zalimina"
+}

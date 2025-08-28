@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "ayah": 118,
+    "surah": 3,
+    "words": 30,
+    "numberInQuran": 411,
+    "juz": 4,
+    "manzil": 1,
+    "page": 65,
+    "ruku": 53,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8137,
+      "word_number_in_surah": 1992,
+      "word_surah": 3,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8138,
+      "word_number_in_surah": 1993,
+      "word_surah": 3,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8139,
+      "word_number_in_surah": 1994,
+      "word_surah": 3,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8140,
+      "word_number_in_surah": 1995,
+      "word_surah": 3,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَتَّخِذُواْ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8141,
+      "word_number_in_surah": 1996,
+      "word_surah": 3,
+      "word_translation": "take",
+      "word_transliteration": "tattakhidhu"
+    },
+    {
+      "word_arabic": "بِطَانَةٗ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8142,
+      "word_number_in_surah": 1997,
+      "word_surah": 3,
+      "word_translation": "(as) intimates",
+      "word_transliteration": "bitanatan"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 118,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8143,
+      "word_number_in_surah": 1998,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِكُمۡ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8144,
+      "word_number_in_surah": 1999,
+      "word_surah": 3,
+      "word_translation": "other than yourselves",
+      "word_transliteration": "dunikum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8145,
+      "word_number_in_surah": 2000,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَأۡلُونَكُمۡ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8146,
+      "word_number_in_surah": 2001,
+      "word_surah": 3,
+      "word_translation": "they will spare you",
+      "word_transliteration": "yalunakum"
+    },
+    {
+      "word_arabic": "خَبَالٗا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8147,
+      "word_number_in_surah": 2002,
+      "word_surah": 3,
+      "word_translation": "(any) ruin",
+      "word_transliteration": "khabalan"
+    },
+    {
+      "word_arabic": "وَدُّواْ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8148,
+      "word_number_in_surah": 2003,
+      "word_surah": 3,
+      "word_translation": "They wish",
+      "word_transliteration": "waddu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8149,
+      "word_number_in_surah": 2004,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "عَنِتُّمۡ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8150,
+      "word_number_in_surah": 2005,
+      "word_surah": 3,
+      "word_translation": "distresses you",
+      "word_transliteration": "anittum"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8151,
+      "word_number_in_surah": 2006,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "بَدَتِ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8152,
+      "word_number_in_surah": 2007,
+      "word_surah": 3,
+      "word_translation": "(has become) apparent",
+      "word_transliteration": "badati"
+    },
+    {
+      "word_arabic": "ٱلۡبَغۡضَآءُ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8153,
+      "word_number_in_surah": 2008,
+      "word_surah": 3,
+      "word_translation": "the hatred",
+      "word_transliteration": "al-baghdau"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8154,
+      "word_number_in_surah": 2009,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَفۡوَٰهِهِمۡ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8155,
+      "word_number_in_surah": 2010,
+      "word_surah": 3,
+      "word_translation": "their mouths",
+      "word_transliteration": "afwahihim"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8156,
+      "word_number_in_surah": 2011,
+      "word_surah": 3,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تُخۡفِي",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8157,
+      "word_number_in_surah": 2012,
+      "word_surah": 3,
+      "word_translation": "conceals",
+      "word_transliteration": "tukh'fi"
+    },
+    {
+      "word_arabic": "صُدُورُهُمۡ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8158,
+      "word_number_in_surah": 2013,
+      "word_surah": 3,
+      "word_translation": "their breasts",
+      "word_transliteration": "suduruhum"
+    },
+    {
+      "word_arabic": "أَكۡبَرُۚ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8159,
+      "word_number_in_surah": 2014,
+      "word_surah": 3,
+      "word_translation": "(is) greater",
+      "word_transliteration": "akbaru"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 8160,
+      "word_number_in_surah": 2015,
+      "word_surah": 3,
+      "word_translation": "Certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "بَيَّنَّا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 8161,
+      "word_number_in_surah": 2016,
+      "word_surah": 3,
+      "word_translation": "We made clear",
+      "word_transliteration": "bayyanna"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 8162,
+      "word_number_in_surah": 2017,
+      "word_surah": 3,
+      "word_translation": "for you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِۖ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 8163,
+      "word_number_in_surah": 2018,
+      "word_surah": 3,
+      "word_translation": "the Verses",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 118,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 8164,
+      "word_number_in_surah": 2019,
+      "word_surah": 3,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 8165,
+      "word_number_in_surah": 2020,
+      "word_surah": 3,
+      "word_translation": "you were",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَعۡقِلُونَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 8166,
+      "word_number_in_surah": 2021,
+      "word_surah": 3,
+      "word_translation": "(to use) reason",
+      "word_transliteration": "ta'qiluna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ بِطَانَةٗ مِّن دُونِكُمۡ لَا يَأۡلُونَكُمۡ خَبَالٗا وَدُّواْ مَا عَنِتُّمۡ قَدۡ بَدَتِ ٱلۡبَغۡضَآءُ مِنۡ أَفۡوَٰهِهِمۡ وَمَا تُخۡفِي صُدُورُهُمۡ أَكۡبَرُۚ قَدۡ بَيَّنَّا لَكُمُ ٱلۡأٓيَٰتِۖ إِن كُنتُمۡ تَعۡقِلُونَ",
+  "fullTranslation": "O you who have believed, do not take as intimates those other than yourselves, for they will not spare you [any] ruin. They wish you would have hardship. Hatred has already appeared from their mouths, and what their breasts conceal is greater. We have certainly made clear to you the signs, if you will use reason.",
+  "fullTransliteration": "yaayyuha alladhina amanu la tattakhidhu bitanatan min dunikum la yalunakum khabalan waddu ma anittum qad badati al-baghdau min afwahihim wama tukh'fi suduruhum akbaru qad bayyanna lakumu al-ayati in kuntum ta'qiluna"
+}

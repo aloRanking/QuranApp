@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "ayah": 151,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 158,
+    "juz": 2,
+    "manzil": 1,
+    "page": 23,
+    "ruku": 19,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كَمَآ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2743,
+      "word_number_in_surah": 2714,
+      "word_surah": 2,
+      "word_translation": "As",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "أَرۡسَلۡنَا",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2744,
+      "word_number_in_surah": 2715,
+      "word_surah": 2,
+      "word_translation": "We sent",
+      "word_transliteration": "arsalna"
+    },
+    {
+      "word_arabic": "فِيكُمۡ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2745,
+      "word_number_in_surah": 2716,
+      "word_surah": 2,
+      "word_translation": "among you",
+      "word_transliteration": "fikum"
+    },
+    {
+      "word_arabic": "رَسُولٗا",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2746,
+      "word_number_in_surah": 2717,
+      "word_surah": 2,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulan"
+    },
+    {
+      "word_arabic": "مِّنكُمۡ",
+      "word_ayah": 151,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2747,
+      "word_number_in_surah": 2718,
+      "word_surah": 2,
+      "word_translation": "from you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "يَتۡلُواْ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2748,
+      "word_number_in_surah": 2719,
+      "word_surah": 2,
+      "word_translation": "(who) recites",
+      "word_transliteration": "yatlu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2749,
+      "word_number_in_surah": 2720,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "ءَايَٰتِنَا",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2750,
+      "word_number_in_surah": 2721,
+      "word_surah": 2,
+      "word_translation": "Our verses",
+      "word_transliteration": "ayatina"
+    },
+    {
+      "word_arabic": "وَيُزَكِّيكُمۡ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2751,
+      "word_number_in_surah": 2722,
+      "word_surah": 2,
+      "word_translation": "and purifies you",
+      "word_transliteration": "wayuzakkikum"
+    },
+    {
+      "word_arabic": "وَيُعَلِّمُكُمُ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2752,
+      "word_number_in_surah": 2723,
+      "word_surah": 2,
+      "word_translation": "and teaches you",
+      "word_transliteration": "wayu'allimukumu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2753,
+      "word_number_in_surah": 2724,
+      "word_surah": 2,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡحِكۡمَةَ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2754,
+      "word_number_in_surah": 2725,
+      "word_surah": 2,
+      "word_translation": "and the wisdom",
+      "word_transliteration": "wal-hik'mata"
+    },
+    {
+      "word_arabic": "وَيُعَلِّمُكُم",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2755,
+      "word_number_in_surah": 2726,
+      "word_surah": 2,
+      "word_translation": "and teaches you",
+      "word_transliteration": "wayu'allimukum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2756,
+      "word_number_in_surah": 2727,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 151,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2757,
+      "word_number_in_surah": 2728,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2758,
+      "word_number_in_surah": 2729,
+      "word_surah": 2,
+      "word_translation": "you were",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 151,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2759,
+      "word_number_in_surah": 2730,
+      "word_surah": 2,
+      "word_translation": "knowing",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
+  "fullTranslation": "Just as We have sent among you a messenger from yourselves reciting to you Our verses and purifying you and teaching you the Book and wisdom and teaching you that which you did not know.",
+  "fullTransliteration": "kama arsalna fikum rasulan minkum yatlu alaykum ayatina wayuzakkikum wayu'allimukumu al-kitaba wal-hik'mata wayu'allimukum ma lam takunu ta'lamuna"
+}

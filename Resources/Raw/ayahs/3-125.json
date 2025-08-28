@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "ayah": 125,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 418,
+    "juz": 4,
+    "manzil": 1,
+    "page": 66,
+    "ruku": 54,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَلَىٰٓۚ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8261,
+      "word_number_in_surah": 2116,
+      "word_surah": 3,
+      "word_translation": "Yes",
+      "word_transliteration": "bala"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 125,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8262,
+      "word_number_in_surah": 2117,
+      "word_surah": 3,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تَصۡبِرُواْ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8263,
+      "word_number_in_surah": 2118,
+      "word_surah": 3,
+      "word_translation": "you are patient",
+      "word_transliteration": "tasbiru"
+    },
+    {
+      "word_arabic": "وَتَتَّقُواْ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8264,
+      "word_number_in_surah": 2119,
+      "word_surah": 3,
+      "word_translation": "and fear (Allah)",
+      "word_transliteration": "watattaqu"
+    },
+    {
+      "word_arabic": "وَيَأۡتُوكُم",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8265,
+      "word_number_in_surah": 2120,
+      "word_surah": 3,
+      "word_translation": "and they come upon you",
+      "word_transliteration": "wayatukum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 125,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8266,
+      "word_number_in_surah": 2121,
+      "word_surah": 3,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَوۡرِهِمۡ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8267,
+      "word_number_in_surah": 2122,
+      "word_surah": 3,
+      "word_translation": "suddenly",
+      "word_transliteration": "fawrihim"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8268,
+      "word_number_in_surah": 2123,
+      "word_surah": 3,
+      "word_translation": "[this]",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "يُمۡدِدۡكُمۡ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8269,
+      "word_number_in_surah": 2124,
+      "word_surah": 3,
+      "word_translation": "will reinforce you",
+      "word_transliteration": "yum'did'kum"
+    },
+    {
+      "word_arabic": "رَبُّكُم",
+      "word_ayah": 125,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8270,
+      "word_number_in_surah": 2125,
+      "word_surah": 3,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbukum"
+    },
+    {
+      "word_arabic": "بِخَمۡسَةِ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8271,
+      "word_number_in_surah": 2126,
+      "word_surah": 3,
+      "word_translation": "with five",
+      "word_transliteration": "bikhamsati"
+    },
+    {
+      "word_arabic": "ءَالَٰفٖ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8272,
+      "word_number_in_surah": 2127,
+      "word_surah": 3,
+      "word_translation": "thousand[s]",
+      "word_transliteration": "alafin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8273,
+      "word_number_in_surah": 2128,
+      "word_surah": 3,
+      "word_translation": "[of]",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8274,
+      "word_number_in_surah": 2129,
+      "word_surah": 3,
+      "word_translation": "[the] Angels",
+      "word_transliteration": "al-malaikati"
+    },
+    {
+      "word_arabic": "مُسَوِّمِينَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8275,
+      "word_number_in_surah": 2130,
+      "word_surah": 3,
+      "word_translation": "[the ones] having marks",
+      "word_transliteration": "musawwimina"
+    }
+  ],
+  "fullArabic": "بَلَىٰٓۚ إِن تَصۡبِرُواْ وَتَتَّقُواْ وَيَأۡتُوكُم مِّن فَوۡرِهِمۡ هَٰذَا يُمۡدِدۡكُمۡ رَبُّكُم بِخَمۡسَةِ ءَالَٰفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُسَوِّمِينَ",
+  "fullTranslation": "Yes, if you remain patient and conscious of Allah and the enemy come upon you [attacking] in rage, your Lord will reinforce you with five thousand angels having marks [of distinction]",
+  "fullTransliteration": "bala in tasbiru watattaqu wayatukum min fawrihim hadha yum'did'kum rabbukum bikhamsati alafin mina al-malaikati musawwimina"
+}

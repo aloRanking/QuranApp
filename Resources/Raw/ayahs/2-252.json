@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ayah": 252,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 259,
+    "juz": 2,
+    "manzil": 1,
+    "page": 41,
+    "ruku": 34,
+    "hizbQuarter": 16,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "تِلۡكَ",
+      "word_ayah": 252,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5092,
+      "word_number_in_surah": 5063,
+      "word_surah": 2,
+      "word_translation": "These",
+      "word_transliteration": "til'ka"
+    },
+    {
+      "word_arabic": "ءَايَٰتُ",
+      "word_ayah": 252,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5093,
+      "word_number_in_surah": 5064,
+      "word_surah": 2,
+      "word_translation": "(are the) Verses",
+      "word_transliteration": "ayatu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 252,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5094,
+      "word_number_in_surah": 5065,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "نَتۡلُوهَا",
+      "word_ayah": 252,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5095,
+      "word_number_in_surah": 5066,
+      "word_surah": 2,
+      "word_translation": "We recite them",
+      "word_transliteration": "natluha"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 252,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5096,
+      "word_number_in_surah": 5067,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّۚ",
+      "word_ayah": 252,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5097,
+      "word_number_in_surah": 5068,
+      "word_surah": 2,
+      "word_translation": "in [the] truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "وَإِنَّكَ",
+      "word_ayah": 252,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5098,
+      "word_number_in_surah": 5069,
+      "word_surah": 2,
+      "word_translation": "And indeed you",
+      "word_transliteration": "wa-innaka"
+    },
+    {
+      "word_arabic": "لَمِنَ",
+      "word_ayah": 252,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5099,
+      "word_number_in_surah": 5070,
+      "word_surah": 2,
+      "word_translation": "(are) surely of",
+      "word_transliteration": "lamina"
+    },
+    {
+      "word_arabic": "ٱلۡمُرۡسَلِينَ",
+      "word_ayah": 252,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5100,
+      "word_number_in_surah": 5071,
+      "word_surah": 2,
+      "word_translation": "the Messengers",
+      "word_transliteration": "al-mur'salina"
+    }
+  ],
+  "fullArabic": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۚ وَإِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+  "fullTranslation": "These are the verses of Allah which We recite to you, [O Muhammad], in truth. And indeed, you are from among the messengers.",
+  "fullTransliteration": "til'ka ayatu al-lahi natluha alayka bil-haqi wa-innaka lamina al-mur'salina"
+}

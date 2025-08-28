@@ -1,0 +1,541 @@
+{
+  "meta": {
+    "ayah": 176,
+    "surah": 4,
+    "words": 50,
+    "numberInQuran": 669,
+    "juz": 6,
+    "manzil": 1,
+    "page": 106,
+    "ruku": 85,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَسۡتَفۡتُونَكَ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13324,
+      "word_number_in_surah": 3698,
+      "word_surah": 4,
+      "word_translation": "They seek your ruling",
+      "word_transliteration": "yastaftunaka"
+    },
+    {
+      "word_arabic": "قُلِ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13325,
+      "word_number_in_surah": 3699,
+      "word_surah": 4,
+      "word_translation": "Say",
+      "word_transliteration": "quli"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13326,
+      "word_number_in_surah": 3700,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "يُفۡتِيكُمۡ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13327,
+      "word_number_in_surah": 3701,
+      "word_surah": 4,
+      "word_translation": "gives you a ruling",
+      "word_transliteration": "yuf'tikum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13328,
+      "word_number_in_surah": 3702,
+      "word_surah": 4,
+      "word_translation": "concerning",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡكَلَٰلَةِۚ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13329,
+      "word_number_in_surah": 3703,
+      "word_surah": 4,
+      "word_translation": "the Kalala",
+      "word_transliteration": "al-kalalati"
+    },
+    {
+      "word_arabic": "إِنِ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13330,
+      "word_number_in_surah": 3704,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "ini"
+    },
+    {
+      "word_arabic": "ٱمۡرُؤٌاْ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13331,
+      "word_number_in_surah": 3705,
+      "word_surah": 4,
+      "word_translation": "a man",
+      "word_transliteration": "im'ru-on"
+    },
+    {
+      "word_arabic": "هَلَكَ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13332,
+      "word_number_in_surah": 3706,
+      "word_surah": 4,
+      "word_translation": "died",
+      "word_transliteration": "halaka"
+    },
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13333,
+      "word_number_in_surah": 3707,
+      "word_surah": 4,
+      "word_translation": "(and) not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13334,
+      "word_number_in_surah": 3708,
+      "word_surah": 4,
+      "word_translation": "he has",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "وَلَدٞ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13335,
+      "word_number_in_surah": 3709,
+      "word_surah": 4,
+      "word_translation": "a child",
+      "word_transliteration": "waladun"
+    },
+    {
+      "word_arabic": "وَلَهُۥٓ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13336,
+      "word_number_in_surah": 3710,
+      "word_surah": 4,
+      "word_translation": "and he has",
+      "word_transliteration": "walahu"
+    },
+    {
+      "word_arabic": "أُخۡتٞ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13337,
+      "word_number_in_surah": 3711,
+      "word_surah": 4,
+      "word_translation": "a sister",
+      "word_transliteration": "ukh'tun"
+    },
+    {
+      "word_arabic": "فَلَهَا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13338,
+      "word_number_in_surah": 3712,
+      "word_surah": 4,
+      "word_translation": "then for her",
+      "word_transliteration": "falaha"
+    },
+    {
+      "word_arabic": "نِصۡفُ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13339,
+      "word_number_in_surah": 3713,
+      "word_surah": 4,
+      "word_translation": "(is) a half",
+      "word_transliteration": "nis'fu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13340,
+      "word_number_in_surah": 3714,
+      "word_surah": 4,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَرَكَۚ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13341,
+      "word_number_in_surah": 3715,
+      "word_surah": 4,
+      "word_translation": "he left",
+      "word_transliteration": "taraka"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13342,
+      "word_number_in_surah": 3716,
+      "word_surah": 4,
+      "word_translation": "And he",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "يَرِثُهَآ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13343,
+      "word_number_in_surah": 3717,
+      "word_surah": 4,
+      "word_translation": "will inherit from her",
+      "word_transliteration": "yarithuha"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 176,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13344,
+      "word_number_in_surah": 3718,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13345,
+      "word_number_in_surah": 3719,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 176,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13346,
+      "word_number_in_surah": 3720,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "لَّهَا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 13347,
+      "word_number_in_surah": 3721,
+      "word_surah": 4,
+      "word_translation": "for her",
+      "word_transliteration": "laha"
+    },
+    {
+      "word_arabic": "وَلَدٞۚ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 13348,
+      "word_number_in_surah": 3722,
+      "word_surah": 4,
+      "word_translation": "a child",
+      "word_transliteration": "waladun"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 176,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 13349,
+      "word_number_in_surah": 3723,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "كَانَتَا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 13350,
+      "word_number_in_surah": 3724,
+      "word_surah": 4,
+      "word_translation": "there were",
+      "word_transliteration": "kanata"
+    },
+    {
+      "word_arabic": "ٱثۡنَتَيۡنِ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 13351,
+      "word_number_in_surah": 3725,
+      "word_surah": 4,
+      "word_translation": "two females",
+      "word_transliteration": "ith'natayni"
+    },
+    {
+      "word_arabic": "فَلَهُمَا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 13352,
+      "word_number_in_surah": 3726,
+      "word_surah": 4,
+      "word_translation": "then for them",
+      "word_transliteration": "falahuma"
+    },
+    {
+      "word_arabic": "ٱلثُّلُثَانِ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 13353,
+      "word_number_in_surah": 3727,
+      "word_surah": 4,
+      "word_translation": "two thirds",
+      "word_transliteration": "al-thuluthani"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 13354,
+      "word_number_in_surah": 3728,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "تَرَكَۚ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 13355,
+      "word_number_in_surah": 3729,
+      "word_surah": 4,
+      "word_translation": "he left",
+      "word_transliteration": "taraka"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 176,
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 13356,
+      "word_number_in_surah": 3730,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كَانُوٓاْ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 13357,
+      "word_number_in_surah": 3731,
+      "word_surah": 4,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "إِخۡوَةٗ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 13358,
+      "word_number_in_surah": 3732,
+      "word_surah": 4,
+      "word_translation": "brothers and sisters",
+      "word_transliteration": "ikh'watan"
+    },
+    {
+      "word_arabic": "رِّجَالٗا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 13359,
+      "word_number_in_surah": 3733,
+      "word_surah": 4,
+      "word_translation": "men",
+      "word_transliteration": "rijalan"
+    },
+    {
+      "word_arabic": "وَنِسَآءٗ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 13360,
+      "word_number_in_surah": 3734,
+      "word_surah": 4,
+      "word_translation": "and women",
+      "word_transliteration": "wanisaan"
+    },
+    {
+      "word_arabic": "فَلِلذَّكَرِ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 13361,
+      "word_number_in_surah": 3735,
+      "word_surah": 4,
+      "word_translation": "then the male will have",
+      "word_transliteration": "falildhakari"
+    },
+    {
+      "word_arabic": "مِثۡلُ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 13362,
+      "word_number_in_surah": 3736,
+      "word_surah": 4,
+      "word_translation": "like",
+      "word_transliteration": "mith'lu"
+    },
+    {
+      "word_arabic": "حَظِّ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 40,
+      "word_number_in_quran": 13363,
+      "word_number_in_surah": 3737,
+      "word_surah": 4,
+      "word_translation": "share",
+      "word_transliteration": "hazzi"
+    },
+    {
+      "word_arabic": "ٱلۡأُنثَيَيۡنِۗ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 41,
+      "word_number_in_quran": 13364,
+      "word_number_in_surah": 3738,
+      "word_surah": 4,
+      "word_translation": "(of) the two females",
+      "word_transliteration": "al-unthayayni"
+    },
+    {
+      "word_arabic": "يُبَيِّنُ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 42,
+      "word_number_in_quran": 13365,
+      "word_number_in_surah": 3739,
+      "word_surah": 4,
+      "word_translation": "makes clear",
+      "word_transliteration": "yubayyinu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 43,
+      "word_number_in_quran": 13366,
+      "word_number_in_surah": 3740,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 44,
+      "word_number_in_quran": 13367,
+      "word_number_in_surah": 3741,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 176,
+      "word_number_in_ayah": 45,
+      "word_number_in_quran": 13368,
+      "word_number_in_surah": 3742,
+      "word_surah": 4,
+      "word_translation": "lest",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَضِلُّواْۗ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 46,
+      "word_number_in_quran": 13369,
+      "word_number_in_surah": 3743,
+      "word_surah": 4,
+      "word_translation": "you go astray",
+      "word_transliteration": "tadillu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 47,
+      "word_number_in_quran": 13370,
+      "word_number_in_surah": 3744,
+      "word_surah": 4,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 48,
+      "word_number_in_quran": 13371,
+      "word_number_in_surah": 3745,
+      "word_surah": 4,
+      "word_translation": "of every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 49,
+      "word_number_in_quran": 13372,
+      "word_number_in_surah": 3746,
+      "word_surah": 4,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 50,
+      "word_number_in_quran": 13373,
+      "word_number_in_surah": 3747,
+      "word_surah": 4,
+      "word_translation": "(is) All-Knower",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "يَسۡتَفۡتُونَكَ قُلِ ٱللَّهُ يُفۡتِيكُمۡ فِي ٱلۡكَلَٰلَةِۚ إِنِ ٱمۡرُؤٌاْ هَلَكَ لَيۡسَ لَهُۥ وَلَدٞ وَلَهُۥٓ أُخۡتٞ فَلَهَا نِصۡفُ مَا تَرَكَۚ وَهُوَ يَرِثُهَآ إِن لَّمۡ يَكُن لَّهَا وَلَدٞۚ فَإِن كَانَتَا ٱثۡنَتَيۡنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَۚ وَإِن كَانُوٓاْ إِخۡوَةٗ رِّجَالٗا وَنِسَآءٗ فَلِلذَّكَرِ مِثۡلُ حَظِّ ٱلۡأُنثَيَيۡنِۗ يُبَيِّنُ ٱللَّهُ لَكُمۡ أَن تَضِلُّواْۗ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمُۢ",
+  "fullTranslation": "They request from you a [legal] ruling. Say, \"Allah gives you a ruling concerning one having neither descendants nor ascendants [as heirs].\" If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two-thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allah makes clear to you [His law], lest you go astray. And Allah is Knowing of all things.",
+  "fullTransliteration": "yastaftunaka quli al-lahu yuf'tikum fi al-kalalati ini im'ru-on halaka laysa lahu waladun walahu ukh'tun falaha nis'fu ma taraka wahuwa yarithuha in lam yakun laha waladun fa-in kanata ith'natayni falahuma al-thuluthani mimma taraka wa-in kanu ikh'watan rijalan wanisaan falildhakari mith'lu hazzi al-unthayayni yubayyinu al-lahu lakum an tadillu wal-lahu bikulli shayin alimun"
+}

@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "ayah": 186,
+    "surah": 3,
+    "words": 24,
+    "numberInQuran": 479,
+    "juz": 4,
+    "manzil": 1,
+    "page": 74,
+    "ruku": 60,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞لَتُبۡلَوُنَّ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9358,
+      "word_number_in_surah": 3213,
+      "word_surah": 3,
+      "word_translation": "You will certainly be tested",
+      "word_transliteration": "latub'lawunna"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9359,
+      "word_number_in_surah": 3214,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلِكُمۡ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9360,
+      "word_number_in_surah": 3215,
+      "word_surah": 3,
+      "word_translation": "your wealth",
+      "word_transliteration": "amwalikum"
+    },
+    {
+      "word_arabic": "وَأَنفُسِكُمۡ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9361,
+      "word_number_in_surah": 3216,
+      "word_surah": 3,
+      "word_translation": "and yourselves",
+      "word_transliteration": "wa-anfusikum"
+    },
+    {
+      "word_arabic": "وَلَتَسۡمَعُنَّ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9362,
+      "word_number_in_surah": 3217,
+      "word_surah": 3,
+      "word_translation": "And you will certainly hear",
+      "word_transliteration": "walatasma'unna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9363,
+      "word_number_in_surah": 3218,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9364,
+      "word_number_in_surah": 3219,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9365,
+      "word_number_in_surah": 3220,
+      "word_surah": 3,
+      "word_translation": "were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9366,
+      "word_number_in_surah": 3221,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 186,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9367,
+      "word_number_in_surah": 3222,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِكُمۡ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9368,
+      "word_number_in_surah": 3223,
+      "word_surah": 3,
+      "word_translation": "before you",
+      "word_transliteration": "qablikum"
+    },
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9369,
+      "word_number_in_surah": 3224,
+      "word_surah": 3,
+      "word_translation": "and from",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9370,
+      "word_number_in_surah": 3225,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أَشۡرَكُوٓاْ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9371,
+      "word_number_in_surah": 3226,
+      "word_surah": 3,
+      "word_translation": "associate partners with Allah",
+      "word_transliteration": "ashraku"
+    },
+    {
+      "word_arabic": "أَذٗى",
+      "word_ayah": 186,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9372,
+      "word_number_in_surah": 3227,
+      "word_surah": 3,
+      "word_translation": "hurtful things",
+      "word_transliteration": "adhan"
+    },
+    {
+      "word_arabic": "كَثِيرٗاۚ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9373,
+      "word_number_in_surah": 3228,
+      "word_surah": 3,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 186,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9374,
+      "word_number_in_surah": 3229,
+      "word_surah": 3,
+      "word_translation": "and if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَصۡبِرُواْ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9375,
+      "word_number_in_surah": 3230,
+      "word_surah": 3,
+      "word_translation": "you are patient",
+      "word_transliteration": "tasbiru"
+    },
+    {
+      "word_arabic": "وَتَتَّقُواْ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9376,
+      "word_number_in_surah": 3231,
+      "word_surah": 3,
+      "word_translation": "and fear (Allah)",
+      "word_transliteration": "watattaqu"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9377,
+      "word_number_in_surah": 3232,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9378,
+      "word_number_in_surah": 3233,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9379,
+      "word_number_in_surah": 3234,
+      "word_surah": 3,
+      "word_translation": "(is) of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عَزۡمِ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 9380,
+      "word_number_in_surah": 3235,
+      "word_surah": 3,
+      "word_translation": "the matters",
+      "word_transliteration": "azmi"
+    },
+    {
+      "word_arabic": "ٱلۡأُمُورِ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 9381,
+      "word_number_in_surah": 3236,
+      "word_surah": 3,
+      "word_translation": "(of) determination",
+      "word_transliteration": "al-umuri"
+    }
+  ],
+  "fullArabic": "۞لَتُبۡلَوُنَّ فِيٓ أَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ وَلَتَسۡمَعُنَّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَمِنَ ٱلَّذِينَ أَشۡرَكُوٓاْ أَذٗى كَثِيرٗاۚ وَإِن تَصۡبِرُواْ وَتَتَّقُواْ فَإِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ",
+  "fullTranslation": "You will surely be tested in your possessions and in yourselves. And you will surely hear from those who were given the Scripture before you and from those who associate others with Allah much abuse. But if you are patient and fear Allah - indeed, that is of the matters [worthy] of determination.",
+  "fullTransliteration": "latub'lawunna fi amwalikum wa-anfusikum walatasma'unna mina alladhina utu al-kitaba min qablikum wamina alladhina ashraku adhan kathiran wa-in tasbiru watattaqu fa-inna dhalika min azmi al-umuri"
+}

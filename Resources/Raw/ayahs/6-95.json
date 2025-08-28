@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 95,
+    "surah": 6,
+    "words": 17,
+    "numberInQuran": 884,
+    "juz": 7,
+    "manzil": 2,
+    "page": 140,
+    "ruku": 113,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞إِنَّ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17817,
+      "word_number_in_surah": 1640,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17818,
+      "word_number_in_surah": 1641,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "فَالِقُ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17819,
+      "word_number_in_surah": 1642,
+      "word_surah": 6,
+      "word_translation": "(is the) Cleaver",
+      "word_transliteration": "faliqu"
+    },
+    {
+      "word_arabic": "ٱلۡحَبِّ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17820,
+      "word_number_in_surah": 1643,
+      "word_surah": 6,
+      "word_translation": "(of) the grain",
+      "word_transliteration": "al-habi"
+    },
+    {
+      "word_arabic": "وَٱلنَّوَىٰۖ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17821,
+      "word_number_in_surah": 1644,
+      "word_surah": 6,
+      "word_translation": "and the date-seed",
+      "word_transliteration": "wal-nawa"
+    },
+    {
+      "word_arabic": "يُخۡرِجُ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17822,
+      "word_number_in_surah": 1645,
+      "word_surah": 6,
+      "word_translation": "He brings forth",
+      "word_transliteration": "yukh'riju"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَّ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17823,
+      "word_number_in_surah": 1646,
+      "word_surah": 6,
+      "word_translation": "the living",
+      "word_transliteration": "al-haya"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17824,
+      "word_number_in_surah": 1647,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمَيِّتِ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17825,
+      "word_number_in_surah": 1648,
+      "word_surah": 6,
+      "word_translation": "the dead",
+      "word_transliteration": "al-mayiti"
+    },
+    {
+      "word_arabic": "وَمُخۡرِجُ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17826,
+      "word_number_in_surah": 1649,
+      "word_surah": 6,
+      "word_translation": "and brings forth",
+      "word_transliteration": "wamukh'riju"
+    },
+    {
+      "word_arabic": "ٱلۡمَيِّتِ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17827,
+      "word_number_in_surah": 1650,
+      "word_surah": 6,
+      "word_translation": "the dead",
+      "word_transliteration": "al-mayiti"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17828,
+      "word_number_in_surah": 1651,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡحَيِّۚ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17829,
+      "word_number_in_surah": 1652,
+      "word_surah": 6,
+      "word_translation": "the living",
+      "word_transliteration": "al-hayi"
+    },
+    {
+      "word_arabic": "ذَٰلِكُمُ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17830,
+      "word_number_in_surah": 1653,
+      "word_surah": 6,
+      "word_translation": "That",
+      "word_transliteration": "dhalikumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُۖ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17831,
+      "word_number_in_surah": 1654,
+      "word_surah": 6,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَأَنَّىٰ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17832,
+      "word_number_in_surah": 1655,
+      "word_surah": 6,
+      "word_translation": "so how",
+      "word_transliteration": "fa-anna"
+    },
+    {
+      "word_arabic": "تُؤۡفَكُونَ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17833,
+      "word_number_in_surah": 1656,
+      "word_surah": 6,
+      "word_translation": "are you deluded",
+      "word_transliteration": "tu'fakuna"
+    }
+  ],
+  "fullArabic": "۞إِنَّ ٱللَّهَ فَالِقُ ٱلۡحَبِّ وَٱلنَّوَىٰۖ يُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَمُخۡرِجُ ٱلۡمَيِّتِ مِنَ ٱلۡحَيِّۚ ذَٰلِكُمُ ٱللَّهُۖ فَأَنَّىٰ تُؤۡفَكُونَ",
+  "fullTranslation": "Indeed, Allah is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allah; so how are you deluded?",
+  "fullTransliteration": "inna al-laha faliqu al-habi wal-nawa yukh'riju al-haya mina al-mayiti wamukh'riju al-mayiti mina al-hayi dhalikumu al-lahu fa-anna tu'fakuna"
+}

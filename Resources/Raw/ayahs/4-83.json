@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "ayah": 83,
+    "surah": 4,
+    "words": 30,
+    "numberInQuran": 576,
+    "juz": 5,
+    "manzil": 1,
+    "page": 91,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11433,
+      "word_number_in_surah": 1807,
+      "word_surah": 4,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "جَآءَهُمۡ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11434,
+      "word_number_in_surah": 1808,
+      "word_surah": 4,
+      "word_translation": "comes to them",
+      "word_transliteration": "jaahum"
+    },
+    {
+      "word_arabic": "أَمۡرٞ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11435,
+      "word_number_in_surah": 1809,
+      "word_surah": 4,
+      "word_translation": "a matter",
+      "word_transliteration": "amrun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11436,
+      "word_number_in_surah": 1810,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡنِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11437,
+      "word_number_in_surah": 1811,
+      "word_surah": 4,
+      "word_translation": "the security",
+      "word_transliteration": "al-amni"
+    },
+    {
+      "word_arabic": "أَوِ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11438,
+      "word_number_in_surah": 1812,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "awi"
+    },
+    {
+      "word_arabic": "ٱلۡخَوۡفِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11439,
+      "word_number_in_surah": 1813,
+      "word_surah": 4,
+      "word_translation": "[the] fear",
+      "word_transliteration": "al-khawfi"
+    },
+    {
+      "word_arabic": "أَذَاعُواْ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11440,
+      "word_number_in_surah": 1814,
+      "word_surah": 4,
+      "word_translation": "they spread",
+      "word_transliteration": "adha'u"
+    },
+    {
+      "word_arabic": "بِهِۦۖ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11441,
+      "word_number_in_surah": 1815,
+      "word_surah": 4,
+      "word_translation": "[with] it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11442,
+      "word_number_in_surah": 1816,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "رَدُّوهُ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11443,
+      "word_number_in_surah": 1817,
+      "word_surah": 4,
+      "word_translation": "they (had) referred it",
+      "word_transliteration": "radduhu"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11444,
+      "word_number_in_surah": 1818,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11445,
+      "word_number_in_surah": 1819,
+      "word_surah": 4,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasuli"
+    },
+    {
+      "word_arabic": "وَإِلَىٰٓ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11446,
+      "word_number_in_surah": 1820,
+      "word_surah": 4,
+      "word_translation": "and to",
+      "word_transliteration": "wa-ila"
+    },
+    {
+      "word_arabic": "أُوْلِي",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11447,
+      "word_number_in_surah": 1821,
+      "word_surah": 4,
+      "word_translation": "those",
+      "word_transliteration": "uli"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡرِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11448,
+      "word_number_in_surah": 1822,
+      "word_surah": 4,
+      "word_translation": "(having) authority",
+      "word_transliteration": "al-amri"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11449,
+      "word_number_in_surah": 1823,
+      "word_surah": 4,
+      "word_translation": "among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "لَعَلِمَهُ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11450,
+      "word_number_in_surah": 1824,
+      "word_surah": 4,
+      "word_translation": "surely would have known it",
+      "word_transliteration": "la'alimahu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11451,
+      "word_number_in_surah": 1825,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَسۡتَنۢبِطُونَهُۥ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11452,
+      "word_number_in_surah": 1826,
+      "word_surah": 4,
+      "word_translation": "draw correct conclusion (from) it",
+      "word_transliteration": "yastanbitunahu"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡۗ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11453,
+      "word_number_in_surah": 1827,
+      "word_surah": 4,
+      "word_translation": "among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "وَلَوۡلَا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11454,
+      "word_number_in_surah": 1828,
+      "word_surah": 4,
+      "word_translation": "And if not",
+      "word_transliteration": "walawla"
+    },
+    {
+      "word_arabic": "فَضۡلُ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11455,
+      "word_number_in_surah": 1829,
+      "word_surah": 4,
+      "word_translation": "(had been the) bounty",
+      "word_transliteration": "fadlu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11456,
+      "word_number_in_surah": 1830,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11457,
+      "word_number_in_surah": 1831,
+      "word_surah": 4,
+      "word_translation": "on you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَرَحۡمَتُهُۥ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11458,
+      "word_number_in_surah": 1832,
+      "word_surah": 4,
+      "word_translation": "and His Mercy",
+      "word_transliteration": "warahmatuhu"
+    },
+    {
+      "word_arabic": "لَٱتَّبَعۡتُمُ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11459,
+      "word_number_in_surah": 1833,
+      "word_surah": 4,
+      "word_translation": "surely you (would have) followed",
+      "word_transliteration": "la-ittaba'tumu"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 11460,
+      "word_number_in_surah": 1834,
+      "word_surah": 4,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytana"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 11461,
+      "word_number_in_surah": 1835,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 11462,
+      "word_number_in_surah": 1836,
+      "word_surah": 4,
+      "word_translation": "a few",
+      "word_transliteration": "qalilan"
+    }
+  ],
+  "fullArabic": "وَإِذَا جَآءَهُمۡ أَمۡرٞ مِّنَ ٱلۡأَمۡنِ أَوِ ٱلۡخَوۡفِ أَذَاعُواْ بِهِۦۖ وَلَوۡ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُوْلِي ٱلۡأَمۡرِ مِنۡهُمۡ لَعَلِمَهُ ٱلَّذِينَ يَسۡتَنۢبِطُونَهُۥ مِنۡهُمۡۗ وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ لَٱتَّبَعۡتُمُ ٱلشَّيۡطَٰنَ إِلَّا قَلِيلٗا",
+  "fullTranslation": "And when there comes to them information about [public] security or fear, they spread it around. But if they had referred it back to the Messenger or to those of authority among them, then the ones who [can] draw correct conclusions from it would have known about it. And if not for the favor of Allah upon you and His mercy, you would have followed Satan, except for a few.",
+  "fullTransliteration": "wa-idha jaahum amrun mina al-amni awi al-khawfi adha'u bihi walaw radduhu ila al-rasuli wa-ila uli al-amri min'hum la'alimahu alladhina yastanbitunahu min'hum walawla fadlu al-lahi alaykum warahmatuhu la-ittaba'tumu al-shaytana illa qalilan"
+}

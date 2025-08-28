@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 4,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 497,
+    "juz": 4,
+    "manzil": 1,
+    "page": 77,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَءَاتُواْ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9699,
+      "word_number_in_surah": 73,
+      "word_surah": 4,
+      "word_translation": "And give",
+      "word_transliteration": "waatu"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءَ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9700,
+      "word_number_in_surah": 74,
+      "word_surah": 4,
+      "word_translation": "the women",
+      "word_transliteration": "al-nisaa"
+    },
+    {
+      "word_arabic": "صَدُقَٰتِهِنَّ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9701,
+      "word_number_in_surah": 75,
+      "word_surah": 4,
+      "word_translation": "their dower",
+      "word_transliteration": "saduqatihinna"
+    },
+    {
+      "word_arabic": "نِحۡلَةٗۚ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9702,
+      "word_number_in_surah": 76,
+      "word_surah": 4,
+      "word_translation": "graciously",
+      "word_transliteration": "nih'latan"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 4,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9703,
+      "word_number_in_surah": 77,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "طِبۡنَ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9704,
+      "word_number_in_surah": 78,
+      "word_surah": 4,
+      "word_translation": "they remit",
+      "word_transliteration": "tib'na"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9705,
+      "word_number_in_surah": 79,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9706,
+      "word_number_in_surah": 80,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9707,
+      "word_number_in_surah": 81,
+      "word_surah": 4,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "مِّنۡهُ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9708,
+      "word_number_in_surah": 82,
+      "word_surah": 4,
+      "word_translation": "of it",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "نَفۡسٗا",
+      "word_ayah": 4,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9709,
+      "word_number_in_surah": 83,
+      "word_surah": 4,
+      "word_translation": "(on their) own",
+      "word_transliteration": "nafsan"
+    },
+    {
+      "word_arabic": "فَكُلُوهُ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9710,
+      "word_number_in_surah": 84,
+      "word_surah": 4,
+      "word_translation": "then eat it",
+      "word_transliteration": "fakuluhu"
+    },
+    {
+      "word_arabic": "هَنِيٓ‍ٔٗا",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9711,
+      "word_number_in_surah": 85,
+      "word_surah": 4,
+      "word_translation": "(in) satisfaction",
+      "word_transliteration": "hanian"
+    },
+    {
+      "word_arabic": "مَّرِيٓ‍ٔٗا",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9712,
+      "word_number_in_surah": 86,
+      "word_surah": 4,
+      "word_translation": "(and) ease",
+      "word_transliteration": "marian"
+    }
+  ],
+  "fullArabic": "وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحۡلَةٗۚ فَإِن طِبۡنَ لَكُمۡ عَن شَيۡءٖ مِّنۡهُ نَفۡسٗا فَكُلُوهُ هَنِيٓ‍ٔٗا مَّرِيٓ‍ٔٗا",
+  "fullTranslation": "And give the women [upon marriage] their [bridal] gifts graciously. But if they give up willingly to you anything of it, then take it in satisfaction and ease.",
+  "fullTransliteration": "waatu al-nisaa saduqatihinna nih'latan fa-in tib'na lakum an shayin min'hu nafsan fakuluhu hanian marian"
+}

@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "ayah": 8,
+    "surah": 5,
+    "words": 26,
+    "numberInQuran": 677,
+    "juz": 6,
+    "manzil": 2,
+    "page": 108,
+    "ruku": 87,
+    "hizbQuarter": 43,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13664,
+      "word_number_in_surah": 291,
+      "word_surah": 5,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13665,
+      "word_number_in_surah": 292,
+      "word_surah": 5,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13666,
+      "word_number_in_surah": 293,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "كُونُواْ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13667,
+      "word_number_in_surah": 294,
+      "word_surah": 5,
+      "word_translation": "Be",
+      "word_transliteration": "kunu"
+    },
+    {
+      "word_arabic": "قَوَّٰمِينَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13668,
+      "word_number_in_surah": 295,
+      "word_surah": 5,
+      "word_translation": "steadfast",
+      "word_transliteration": "qawwamina"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13669,
+      "word_number_in_surah": 296,
+      "word_surah": 5,
+      "word_translation": "for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "شُهَدَآءَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13670,
+      "word_number_in_surah": 297,
+      "word_surah": 5,
+      "word_translation": "(as) witnesses",
+      "word_transliteration": "shuhadaa"
+    },
+    {
+      "word_arabic": "بِٱلۡقِسۡطِۖ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13671,
+      "word_number_in_surah": 298,
+      "word_surah": 5,
+      "word_translation": "in justice",
+      "word_transliteration": "bil-qis'ti"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13672,
+      "word_number_in_surah": 299,
+      "word_surah": 5,
+      "word_translation": "and let not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَجۡرِمَنَّكُمۡ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13673,
+      "word_number_in_surah": 300,
+      "word_surah": 5,
+      "word_translation": "prevent you",
+      "word_transliteration": "yajrimannakum"
+    },
+    {
+      "word_arabic": "شَنَ‍َٔانُ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13674,
+      "word_number_in_surah": 301,
+      "word_surah": 5,
+      "word_translation": "hatred",
+      "word_transliteration": "shanaanu"
+    },
+    {
+      "word_arabic": "قَوۡمٍ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13675,
+      "word_number_in_surah": 302,
+      "word_surah": 5,
+      "word_translation": "(of) a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13676,
+      "word_number_in_surah": 303,
+      "word_surah": 5,
+      "word_translation": "[upon]",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13677,
+      "word_number_in_surah": 304,
+      "word_surah": 5,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تَعۡدِلُواْۚ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13678,
+      "word_number_in_surah": 305,
+      "word_surah": 5,
+      "word_translation": "you do justice",
+      "word_transliteration": "ta'dilu"
+    },
+    {
+      "word_arabic": "ٱعۡدِلُواْ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13679,
+      "word_number_in_surah": 306,
+      "word_surah": 5,
+      "word_translation": "Be just",
+      "word_transliteration": "i'dilu"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13680,
+      "word_number_in_surah": 307,
+      "word_surah": 5,
+      "word_translation": "it",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "أَقۡرَبُ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13681,
+      "word_number_in_surah": 308,
+      "word_surah": 5,
+      "word_translation": "(is) nearer",
+      "word_transliteration": "aqrabu"
+    },
+    {
+      "word_arabic": "لِلتَّقۡوَىٰۖ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13682,
+      "word_number_in_surah": 309,
+      "word_surah": 5,
+      "word_translation": "to [the] piety",
+      "word_transliteration": "lilttaqwa"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13683,
+      "word_number_in_surah": 310,
+      "word_surah": 5,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَۚ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13684,
+      "word_number_in_surah": 311,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13685,
+      "word_number_in_surah": 312,
+      "word_surah": 5,
+      "word_translation": "indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13686,
+      "word_number_in_surah": 313,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "خَبِيرُۢ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 13687,
+      "word_number_in_surah": 314,
+      "word_surah": 5,
+      "word_translation": "(is) All-Aware",
+      "word_transliteration": "khabirun"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 13688,
+      "word_number_in_surah": 315,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 13689,
+      "word_number_in_surah": 316,
+      "word_surah": 5,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُواْ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلۡقِسۡطِۖ وَلَا يَجۡرِمَنَّكُمۡ شَنَ‍َٔانُ قَوۡمٍ عَلَىٰٓ أَلَّا تَعۡدِلُواْۚ ٱعۡدِلُواْ هُوَ أَقۡرَبُ لِلتَّقۡوَىٰۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
+  "fullTranslation": "O you who have believed, be persistently standing firm for Allah, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allah; indeed, Allah is Acquainted with what you do.",
+  "fullTransliteration": "yaayyuha alladhina amanu kunu qawwamina lillahi shuhadaa bil-qis'ti wala yajrimannakum shanaanu qawmin ala alla ta'dilu i'dilu huwa aqrabu lilttaqwa wa-ittaqu al-laha inna al-laha khabirun bima ta'maluna"
+}

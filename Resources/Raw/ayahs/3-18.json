@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 18,
+    "surah": 3,
+    "words": 18,
+    "numberInQuran": 311,
+    "juz": 3,
+    "manzil": 1,
+    "page": 52,
+    "ruku": 43,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "شَهِدَ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6414,
+      "word_number_in_surah": 269,
+      "word_surah": 3,
+      "word_translation": "Bears witness",
+      "word_transliteration": "shahida"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6415,
+      "word_number_in_surah": 270,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَنَّهُۥ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6416,
+      "word_number_in_surah": 271,
+      "word_surah": 3,
+      "word_translation": "that [He]",
+      "word_transliteration": "annahu"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6417,
+      "word_number_in_surah": 272,
+      "word_surah": 3,
+      "word_translation": "(there is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6418,
+      "word_number_in_surah": 273,
+      "word_surah": 3,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6419,
+      "word_number_in_surah": 274,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6420,
+      "word_number_in_surah": 275,
+      "word_surah": 3,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "وَٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6421,
+      "word_number_in_surah": 276,
+      "word_surah": 3,
+      "word_translation": "and (so do) the Angels",
+      "word_transliteration": "wal-malaikatu"
+    },
+    {
+      "word_arabic": "وَأُوْلُواْ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6422,
+      "word_number_in_surah": 277,
+      "word_surah": 3,
+      "word_translation": "and owners",
+      "word_transliteration": "wa-ulu"
+    },
+    {
+      "word_arabic": "ٱلۡعِلۡمِ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6423,
+      "word_number_in_surah": 278,
+      "word_surah": 3,
+      "word_translation": "(of) [the] knowledge",
+      "word_transliteration": "al-'il'mi"
+    },
+    {
+      "word_arabic": "قَآئِمَۢا",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6424,
+      "word_number_in_surah": 279,
+      "word_surah": 3,
+      "word_translation": "standing",
+      "word_transliteration": "qaiman"
+    },
+    {
+      "word_arabic": "بِٱلۡقِسۡطِۚ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6425,
+      "word_number_in_surah": 280,
+      "word_surah": 3,
+      "word_translation": "in justice",
+      "word_transliteration": "bil-qis'ti"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6426,
+      "word_number_in_surah": 281,
+      "word_surah": 3,
+      "word_translation": "(There is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6427,
+      "word_number_in_surah": 282,
+      "word_surah": 3,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6428,
+      "word_number_in_surah": 283,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6429,
+      "word_number_in_surah": 284,
+      "word_surah": 3,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلۡعَزِيزُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6430,
+      "word_number_in_surah": 285,
+      "word_surah": 3,
+      "word_translation": "the All-Mighty",
+      "word_transliteration": "al-'azizu"
+    },
+    {
+      "word_arabic": "ٱلۡحَكِيمُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6431,
+      "word_number_in_surah": 286,
+      "word_surah": 3,
+      "word_translation": "the All-Wise",
+      "word_transliteration": "al-hakimu"
+    }
+  ],
+  "fullArabic": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلۡمَلَٰٓئِكَةُ وَأُوْلُواْ ٱلۡعِلۡمِ قَآئِمَۢا بِٱلۡقِسۡطِۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "fullTranslation": "Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.",
+  "fullTransliteration": "shahida al-lahu annahu la ilaha illa huwa wal-malaikatu wa-ulu al-'il'mi qaiman bil-qis'ti la ilaha illa huwa al-'azizu al-hakimu"
+}

@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "ayah": 92,
+    "surah": 4,
+    "words": 60,
+    "numberInQuran": 585,
+    "juz": 5,
+    "manzil": 1,
+    "page": 93,
+    "ruku": 74,
+    "hizbQuarter": 37,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11657,
+      "word_number_in_surah": 2031,
+      "word_surah": 4,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11658,
+      "word_number_in_surah": 2032,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لِمُؤۡمِنٍ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11659,
+      "word_number_in_surah": 2033,
+      "word_surah": 4,
+      "word_translation": "for a believer",
+      "word_transliteration": "limu'minin"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11660,
+      "word_number_in_surah": 2034,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَقۡتُلَ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11661,
+      "word_number_in_surah": 2035,
+      "word_surah": 4,
+      "word_translation": "he kills",
+      "word_transliteration": "yaqtula"
+    },
+    {
+      "word_arabic": "مُؤۡمِنًا",
+      "word_ayah": 92,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11662,
+      "word_number_in_surah": 2036,
+      "word_surah": 4,
+      "word_translation": "a believer",
+      "word_transliteration": "mu'minan"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11663,
+      "word_number_in_surah": 2037,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "خَطَ‍ٔٗاۚ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11664,
+      "word_number_in_surah": 2038,
+      "word_surah": 4,
+      "word_translation": "(by) mistake",
+      "word_transliteration": "khata-an"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11665,
+      "word_number_in_surah": 2039,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "قَتَلَ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11666,
+      "word_number_in_surah": 2040,
+      "word_surah": 4,
+      "word_translation": "killed",
+      "word_transliteration": "qatala"
+    },
+    {
+      "word_arabic": "مُؤۡمِنًا",
+      "word_ayah": 92,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11667,
+      "word_number_in_surah": 2041,
+      "word_surah": 4,
+      "word_translation": "a believer",
+      "word_transliteration": "mu'minan"
+    },
+    {
+      "word_arabic": "خَطَ‍ٔٗا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11668,
+      "word_number_in_surah": 2042,
+      "word_surah": 4,
+      "word_translation": "(by) mistake",
+      "word_transliteration": "khata-an"
+    },
+    {
+      "word_arabic": "فَتَحۡرِيرُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11669,
+      "word_number_in_surah": 2043,
+      "word_surah": 4,
+      "word_translation": "then freeing",
+      "word_transliteration": "fatahriru"
+    },
+    {
+      "word_arabic": "رَقَبَةٖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11670,
+      "word_number_in_surah": 2044,
+      "word_surah": 4,
+      "word_translation": "(of) a slave",
+      "word_transliteration": "raqabatin"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنَةٖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11671,
+      "word_number_in_surah": 2045,
+      "word_surah": 4,
+      "word_translation": "believing",
+      "word_transliteration": "mu'minatin"
+    },
+    {
+      "word_arabic": "وَدِيَةٞ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11672,
+      "word_number_in_surah": 2046,
+      "word_surah": 4,
+      "word_translation": "and blood money",
+      "word_transliteration": "wadiyatun"
+    },
+    {
+      "word_arabic": "مُّسَلَّمَةٌ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11673,
+      "word_number_in_surah": 2047,
+      "word_surah": 4,
+      "word_translation": "(is to be) paid",
+      "word_transliteration": "musallamatun"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11674,
+      "word_number_in_surah": 2048,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "أَهۡلِهِۦٓ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11675,
+      "word_number_in_surah": 2049,
+      "word_surah": 4,
+      "word_translation": "his family",
+      "word_transliteration": "ahlihi"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11676,
+      "word_number_in_surah": 2050,
+      "word_surah": 4,
+      "word_translation": "unless",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11677,
+      "word_number_in_surah": 2051,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَصَّدَّقُواْۚ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11678,
+      "word_number_in_surah": 2052,
+      "word_surah": 4,
+      "word_translation": "they remit (as) charity",
+      "word_transliteration": "yassaddaqu"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11679,
+      "word_number_in_surah": 2053,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11680,
+      "word_number_in_surah": 2054,
+      "word_surah": 4,
+      "word_translation": "(he) was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11681,
+      "word_number_in_surah": 2055,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَوۡمٍ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11682,
+      "word_number_in_surah": 2056,
+      "word_surah": 4,
+      "word_translation": "a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "عَدُوّٖ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11683,
+      "word_number_in_surah": 2057,
+      "word_surah": 4,
+      "word_translation": "hostile",
+      "word_transliteration": "aduwwin"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 11684,
+      "word_number_in_surah": 2058,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 11685,
+      "word_number_in_surah": 2059,
+      "word_surah": 4,
+      "word_translation": "and he was",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "مُؤۡمِنٞ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 11686,
+      "word_number_in_surah": 2060,
+      "word_surah": 4,
+      "word_translation": "a believer",
+      "word_transliteration": "mu'minun"
+    },
+    {
+      "word_arabic": "فَتَحۡرِيرُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 11687,
+      "word_number_in_surah": 2061,
+      "word_surah": 4,
+      "word_translation": "then freeing",
+      "word_transliteration": "fatahriru"
+    },
+    {
+      "word_arabic": "رَقَبَةٖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 11688,
+      "word_number_in_surah": 2062,
+      "word_surah": 4,
+      "word_translation": "(of) a believing slave",
+      "word_transliteration": "raqabatin"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنَةٖۖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 11689,
+      "word_number_in_surah": 2063,
+      "word_surah": 4,
+      "word_translation": "believing",
+      "word_transliteration": "mu'minatin"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 11690,
+      "word_number_in_surah": 2064,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 11691,
+      "word_number_in_surah": 2065,
+      "word_surah": 4,
+      "word_translation": "(he) was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 11692,
+      "word_number_in_surah": 2066,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَوۡمِۢ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 11693,
+      "word_number_in_surah": 2067,
+      "word_surah": 4,
+      "word_translation": "a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "بَيۡنَكُمۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 11694,
+      "word_number_in_surah": 2068,
+      "word_surah": 4,
+      "word_translation": "between you",
+      "word_transliteration": "baynakum"
+    },
+    {
+      "word_arabic": "وَبَيۡنَهُم",
+      "word_ayah": 92,
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 11695,
+      "word_number_in_surah": 2069,
+      "word_surah": 4,
+      "word_translation": "and between them",
+      "word_transliteration": "wabaynahum"
+    },
+    {
+      "word_arabic": "مِّيثَٰقٞ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 40,
+      "word_number_in_quran": 11696,
+      "word_number_in_surah": 2070,
+      "word_surah": 4,
+      "word_translation": "(is) a treaty",
+      "word_transliteration": "mithaqun"
+    },
+    {
+      "word_arabic": "فَدِيَةٞ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 41,
+      "word_number_in_quran": 11697,
+      "word_number_in_surah": 2071,
+      "word_surah": 4,
+      "word_translation": "then blood money",
+      "word_transliteration": "fadiyatun"
+    },
+    {
+      "word_arabic": "مُّسَلَّمَةٌ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 42,
+      "word_number_in_quran": 11698,
+      "word_number_in_surah": 2072,
+      "word_surah": 4,
+      "word_translation": "(is to be) paid",
+      "word_transliteration": "musallamatun"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 43,
+      "word_number_in_quran": 11699,
+      "word_number_in_surah": 2073,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "أَهۡلِهِۦ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 44,
+      "word_number_in_quran": 11700,
+      "word_number_in_surah": 2074,
+      "word_surah": 4,
+      "word_translation": "his family",
+      "word_transliteration": "ahlihi"
+    },
+    {
+      "word_arabic": "وَتَحۡرِيرُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 45,
+      "word_number_in_quran": 11701,
+      "word_number_in_surah": 2075,
+      "word_surah": 4,
+      "word_translation": "and freeing",
+      "word_transliteration": "watahriru"
+    },
+    {
+      "word_arabic": "رَقَبَةٖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 46,
+      "word_number_in_quran": 11702,
+      "word_number_in_surah": 2076,
+      "word_surah": 4,
+      "word_translation": "(of) a slave",
+      "word_transliteration": "raqabatin"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنَةٖۖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 47,
+      "word_number_in_quran": 11703,
+      "word_number_in_surah": 2077,
+      "word_surah": 4,
+      "word_translation": "believing",
+      "word_transliteration": "mu'minatin"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 48,
+      "word_number_in_quran": 11704,
+      "word_number_in_surah": 2078,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 49,
+      "word_number_in_quran": 11705,
+      "word_number_in_surah": 2079,
+      "word_surah": 4,
+      "word_translation": "(does) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَجِدۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 50,
+      "word_number_in_quran": 11706,
+      "word_number_in_surah": 2080,
+      "word_surah": 4,
+      "word_translation": "find",
+      "word_transliteration": "yajid"
+    },
+    {
+      "word_arabic": "فَصِيَامُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 51,
+      "word_number_in_quran": 11707,
+      "word_number_in_surah": 2081,
+      "word_surah": 4,
+      "word_translation": "then fasting",
+      "word_transliteration": "fasiyamu"
+    },
+    {
+      "word_arabic": "شَهۡرَيۡنِ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 52,
+      "word_number_in_quran": 11708,
+      "word_number_in_surah": 2082,
+      "word_surah": 4,
+      "word_translation": "(for) two months",
+      "word_transliteration": "shahrayni"
+    },
+    {
+      "word_arabic": "مُتَتَابِعَيۡنِ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 53,
+      "word_number_in_quran": 11709,
+      "word_number_in_surah": 2083,
+      "word_surah": 4,
+      "word_translation": "consecutively",
+      "word_transliteration": "mutatabi'ayni"
+    },
+    {
+      "word_arabic": "تَوۡبَةٗ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 54,
+      "word_number_in_quran": 11710,
+      "word_number_in_surah": 2084,
+      "word_surah": 4,
+      "word_translation": "(seeking) repentance",
+      "word_transliteration": "tawbatan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 55,
+      "word_number_in_quran": 11711,
+      "word_number_in_surah": 2085,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 56,
+      "word_number_in_quran": 11712,
+      "word_number_in_surah": 2086,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 57,
+      "word_number_in_quran": 11713,
+      "word_number_in_surah": 2087,
+      "word_surah": 4,
+      "word_translation": "and is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 58,
+      "word_number_in_quran": 11714,
+      "word_number_in_surah": 2088,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلِيمًا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 59,
+      "word_number_in_quran": 11715,
+      "word_number_in_surah": 2089,
+      "word_surah": 4,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "aliman"
+    },
+    {
+      "word_arabic": "حَكِيمٗا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 60,
+      "word_number_in_quran": 11716,
+      "word_number_in_surah": 2090,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "وَمَا كَانَ لِمُؤۡمِنٍ أَن يَقۡتُلَ مُؤۡمِنًا إِلَّا خَطَ‍ٔٗاۚ وَمَن قَتَلَ مُؤۡمِنًا خَطَ‍ٔٗا فَتَحۡرِيرُ رَقَبَةٖ مُّؤۡمِنَةٖ وَدِيَةٞ مُّسَلَّمَةٌ إِلَىٰٓ أَهۡلِهِۦٓ إِلَّآ أَن يَصَّدَّقُواْۚ فَإِن كَانَ مِن قَوۡمٍ عَدُوّٖ لَّكُمۡ وَهُوَ مُؤۡمِنٞ فَتَحۡرِيرُ رَقَبَةٖ مُّؤۡمِنَةٖۖ وَإِن كَانَ مِن قَوۡمِۢ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞ فَدِيَةٞ مُّسَلَّمَةٌ إِلَىٰٓ أَهۡلِهِۦ وَتَحۡرِيرُ رَقَبَةٖ مُّؤۡمِنَةٖۖ فَمَن لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ تَوۡبَةٗ مِّنَ ٱللَّهِۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمٗا",
+  "fullTranslation": "And never is it for a believer to kill a believer except by mistake. And whoever kills a believer by mistake - then the freeing of a believing slave and a compensation payment presented to the deceased's family [is required] unless they give [up their right as] charity. But if the deceased was from a people at war with you and he was a believer - then [only] the freeing of a believing slave; and if he was from a people with whom you have a treaty - then a compensation payment presented to his family and the freeing of a believing slave. And whoever does not find [one or cannot afford to buy one] - then [instead], a fast for two months consecutively, [seeking] acceptance of repentance from Allah. And Allah is ever Knowing and Wise.",
+  "fullTransliteration": "wama kana limu'minin an yaqtula mu'minan illa khata-an waman qatala mu'minan khata-an fatahriru raqabatin mu'minatin wadiyatun musallamatun ila ahlihi illa an yassaddaqu fa-in kana min qawmin aduwwin lakum wahuwa mu'minun fatahriru raqabatin mu'minatin wa-in kana min qawmin baynakum wabaynahum mithaqun fadiyatun musallamatun ila ahlihi watahriru raqabatin mu'minatin faman lam yajid fasiyamu shahrayni mutatabi'ayni tawbatan mina al-lahi wakana al-lahu aliman hakiman"
+}

@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "ayah": 212,
+    "surah": 2,
+    "words": 20,
+    "numberInQuran": 219,
+    "juz": 2,
+    "manzil": 1,
+    "page": 33,
+    "ruku": 27,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "زُيِّنَ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3956,
+      "word_number_in_surah": 3927,
+      "word_surah": 2,
+      "word_translation": "Beautified",
+      "word_transliteration": "zuyyina"
+    },
+    {
+      "word_arabic": "لِلَّذِينَ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3957,
+      "word_number_in_surah": 3928,
+      "word_surah": 2,
+      "word_translation": "for those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3958,
+      "word_number_in_surah": 3929,
+      "word_surah": 2,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةُ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3959,
+      "word_number_in_surah": 3930,
+      "word_surah": 2,
+      "word_translation": "(is) the life",
+      "word_transliteration": "al-hayatu"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3960,
+      "word_number_in_surah": 3931,
+      "word_surah": 2,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَيَسۡخَرُونَ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3961,
+      "word_number_in_surah": 3932,
+      "word_surah": 2,
+      "word_translation": "and they ridicule",
+      "word_transliteration": "wayaskharuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3962,
+      "word_number_in_surah": 3933,
+      "word_surah": 2,
+      "word_translation": "[of]",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3963,
+      "word_number_in_surah": 3934,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْۘ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3964,
+      "word_number_in_surah": 3935,
+      "word_surah": 2,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3965,
+      "word_number_in_surah": 3936,
+      "word_surah": 2,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ٱتَّقَوۡاْ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3966,
+      "word_number_in_surah": 3937,
+      "word_surah": 2,
+      "word_translation": "fear (Allah)",
+      "word_transliteration": "ittaqaw"
+    },
+    {
+      "word_arabic": "فَوۡقَهُمۡ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3967,
+      "word_number_in_surah": 3938,
+      "word_surah": 2,
+      "word_translation": "(they will be) above them",
+      "word_transliteration": "fawqahum"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3968,
+      "word_number_in_surah": 3939,
+      "word_surah": 2,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۗ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3969,
+      "word_number_in_surah": 3940,
+      "word_surah": 2,
+      "word_translation": "(of) Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3970,
+      "word_number_in_surah": 3941,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَرۡزُقُ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3971,
+      "word_number_in_surah": 3942,
+      "word_surah": 2,
+      "word_translation": "provides",
+      "word_transliteration": "yarzuqu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 212,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3972,
+      "word_number_in_surah": 3943,
+      "word_surah": 2,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3973,
+      "word_number_in_surah": 3944,
+      "word_surah": 2,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 212,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3974,
+      "word_number_in_surah": 3945,
+      "word_surah": 2,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "حِسَابٖ",
+      "word_ayah": 212,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3975,
+      "word_number_in_surah": 3946,
+      "word_surah": 2,
+      "word_translation": "measure",
+      "word_transliteration": "hisabin"
+    }
+  ],
+  "fullArabic": "زُيِّنَ لِلَّذِينَ كَفَرُواْ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَيَسۡخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُواْۘ وَٱلَّذِينَ ٱتَّقَوۡاْ فَوۡقَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ وَٱللَّهُ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٖ",
+  "fullTranslation": "Beautified for those who disbelieve is the life of this world, and they ridicule those who believe. But those who fear Allah are above them on the Day of Resurrection. And Allah gives provision to whom He wills without account.",
+  "fullTransliteration": "zuyyina lilladhina kafaru al-hayatu al-dun'ya wayaskharuna mina alladhina amanu wa-alladhina ittaqaw fawqahum yawma al-qiyamati wal-lahu yarzuqu man yashau bighayri hisabin"
+}

@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "ayah": 129,
+    "surah": 7,
+    "words": 22,
+    "numberInQuran": 1083,
+    "juz": 9,
+    "manzil": 2,
+    "page": 165,
+    "ruku": 136,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21133,
+      "word_number_in_surah": 1906,
+      "word_surah": 7,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أُوذِينَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21134,
+      "word_number_in_surah": 1907,
+      "word_surah": 7,
+      "word_translation": "We have been harmed",
+      "word_transliteration": "udhina"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21135,
+      "word_number_in_surah": 1908,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21136,
+      "word_number_in_surah": 1909,
+      "word_surah": 7,
+      "word_translation": "before",
+      "word_transliteration": "qabli"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21137,
+      "word_number_in_surah": 1910,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَأۡتِيَنَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21138,
+      "word_number_in_surah": 1911,
+      "word_surah": 7,
+      "word_translation": "you came to us",
+      "word_transliteration": "tatiyana"
+    },
+    {
+      "word_arabic": "وَمِنۢ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21139,
+      "word_number_in_surah": 1912,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21140,
+      "word_number_in_surah": 1913,
+      "word_surah": 7,
+      "word_translation": "and after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21141,
+      "word_number_in_surah": 1914,
+      "word_surah": 7,
+      "word_translation": "[what]",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "جِئۡتَنَاۚ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21142,
+      "word_number_in_surah": 1915,
+      "word_surah": 7,
+      "word_translation": "you have come to us",
+      "word_transliteration": "ji'tana"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21143,
+      "word_number_in_surah": 1916,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "عَسَىٰ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21144,
+      "word_number_in_surah": 1917,
+      "word_surah": 7,
+      "word_translation": "Perhaps",
+      "word_transliteration": "asa"
+    },
+    {
+      "word_arabic": "رَبُّكُمۡ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21145,
+      "word_number_in_surah": 1918,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbukum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21146,
+      "word_number_in_surah": 1919,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُهۡلِكَ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21147,
+      "word_number_in_surah": 1920,
+      "word_surah": 7,
+      "word_translation": "will destroy",
+      "word_transliteration": "yuh'lika"
+    },
+    {
+      "word_arabic": "عَدُوَّكُمۡ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21148,
+      "word_number_in_surah": 1921,
+      "word_surah": 7,
+      "word_translation": "your enemy",
+      "word_transliteration": "aduwwakum"
+    },
+    {
+      "word_arabic": "وَيَسۡتَخۡلِفَكُمۡ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21149,
+      "word_number_in_surah": 1922,
+      "word_surah": 7,
+      "word_translation": "and make you successors",
+      "word_transliteration": "wayastakhlifakum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21150,
+      "word_number_in_surah": 1923,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21151,
+      "word_number_in_surah": 1924,
+      "word_surah": 7,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "فَيَنظُرَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21152,
+      "word_number_in_surah": 1925,
+      "word_surah": 7,
+      "word_translation": "then see",
+      "word_transliteration": "fayanzura"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 21153,
+      "word_number_in_surah": 1926,
+      "word_surah": 7,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 21154,
+      "word_number_in_surah": 1927,
+      "word_surah": 7,
+      "word_translation": "you will do",
+      "word_transliteration": "ta'maluna"
+    }
+  ],
+  "fullArabic": "قَالُوٓاْ أُوذِينَا مِن قَبۡلِ أَن تَأۡتِيَنَا وَمِنۢ بَعۡدِ مَا جِئۡتَنَاۚ قَالَ عَسَىٰ رَبُّكُمۡ أَن يُهۡلِكَ عَدُوَّكُمۡ وَيَسۡتَخۡلِفَكُمۡ فِي ٱلۡأَرۡضِ فَيَنظُرَ كَيۡفَ تَعۡمَلُونَ",
+  "fullTranslation": "They said, \"We have been harmed before you came to us and after you have come to us.\" He said, \"Perhaps your Lord will destroy your enemy and grant you succession in the land and see how you will do.\"",
+  "fullTransliteration": "qalu udhina min qabli an tatiyana wamin ba'di ma ji'tana qala asa rabbukum an yuh'lika aduwwakum wayastakhlifakum fi al-ardi fayanzura kayfa ta'maluna"
+}

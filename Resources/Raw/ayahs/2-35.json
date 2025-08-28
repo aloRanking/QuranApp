@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "ayah": 35,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 42,
+    "juz": 1,
+    "manzil": 1,
+    "page": 6,
+    "ruku": 5,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقُلۡنَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 542,
+      "word_number_in_surah": 513,
+      "word_surah": 2,
+      "word_translation": "And We said",
+      "word_transliteration": "waqul'na"
+    },
+    {
+      "word_arabic": "يَٰٓـَٔادَمُ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 543,
+      "word_number_in_surah": 514,
+      "word_surah": 2,
+      "word_translation": "O Adam",
+      "word_transliteration": "yaadamu"
+    },
+    {
+      "word_arabic": "ٱسۡكُنۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 544,
+      "word_number_in_surah": 515,
+      "word_surah": 2,
+      "word_translation": "Dwell",
+      "word_transliteration": "us'kun"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 545,
+      "word_number_in_surah": 516,
+      "word_surah": 2,
+      "word_translation": "you",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "وَزَوۡجُكَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 546,
+      "word_number_in_surah": 517,
+      "word_surah": 2,
+      "word_translation": "and your spouse",
+      "word_transliteration": "wazawjuka"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 547,
+      "word_number_in_surah": 518,
+      "word_surah": 2,
+      "word_translation": "(in) Paradise",
+      "word_transliteration": "al-janata"
+    },
+    {
+      "word_arabic": "وَكُلَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 548,
+      "word_number_in_surah": 519,
+      "word_surah": 2,
+      "word_translation": "and [you both] eat",
+      "word_transliteration": "wakula"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 549,
+      "word_number_in_surah": 520,
+      "word_surah": 2,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "رَغَدًا",
+      "word_ayah": 35,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 550,
+      "word_number_in_surah": 521,
+      "word_surah": 2,
+      "word_translation": "freely",
+      "word_transliteration": "raghadan"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 551,
+      "word_number_in_surah": 522,
+      "word_surah": 2,
+      "word_translation": "(from) wherever",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "شِئۡتُمَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 552,
+      "word_number_in_surah": 523,
+      "word_surah": 2,
+      "word_translation": "you [both] wish",
+      "word_transliteration": "shi'tuma"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 553,
+      "word_number_in_surah": 524,
+      "word_surah": 2,
+      "word_translation": "But do not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَقۡرَبَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 554,
+      "word_number_in_surah": 525,
+      "word_surah": 2,
+      "word_translation": "[you two] approach",
+      "word_transliteration": "taqraba"
+    },
+    {
+      "word_arabic": "هَٰذِهِ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 555,
+      "word_number_in_surah": 526,
+      "word_surah": 2,
+      "word_translation": "this",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "ٱلشَّجَرَةَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 556,
+      "word_number_in_surah": 527,
+      "word_surah": 2,
+      "word_translation": "[the] tree",
+      "word_transliteration": "al-shajarata"
+    },
+    {
+      "word_arabic": "فَتَكُونَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 557,
+      "word_number_in_surah": 528,
+      "word_surah": 2,
+      "word_translation": "lest you [both] be",
+      "word_transliteration": "fatakuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 558,
+      "word_number_in_surah": 529,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 559,
+      "word_number_in_surah": 530,
+      "word_surah": 2,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "وَقُلۡنَا يَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+  "fullTranslation": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.\"",
+  "fullTransliteration": "waqul'na yaadamu us'kun anta wazawjuka al-janata wakula min'ha raghadan haythu shi'tuma wala taqraba hadhihi al-shajarata fatakuna mina al-zalimina"
+}

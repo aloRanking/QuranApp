@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ayah": 15,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 804,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 103,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16391,
+      "word_number_in_surah": 214,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16392,
+      "word_number_in_surah": 215,
+      "word_surah": 6,
+      "word_translation": "Indeed, I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أَخَافُ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16393,
+      "word_number_in_surah": 216,
+      "word_surah": 6,
+      "word_translation": "[I] fear",
+      "word_transliteration": "akhafu"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16394,
+      "word_number_in_surah": 217,
+      "word_surah": 6,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "عَصَيۡتُ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16395,
+      "word_number_in_surah": 218,
+      "word_surah": 6,
+      "word_translation": "I disobeyed",
+      "word_transliteration": "asaytu"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16396,
+      "word_number_in_surah": 219,
+      "word_surah": 6,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "عَذَابَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16397,
+      "word_number_in_surah": 220,
+      "word_surah": 6,
+      "word_translation": "punishment",
+      "word_transliteration": "adhaba"
+    },
+    {
+      "word_arabic": "يَوۡمٍ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16398,
+      "word_number_in_surah": 221,
+      "word_surah": 6,
+      "word_translation": "(of) a Day",
+      "word_transliteration": "yawmin"
+    },
+    {
+      "word_arabic": "عَظِيمٖ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16399,
+      "word_number_in_surah": 222,
+      "word_surah": 6,
+      "word_translation": "Mighty",
+      "word_transliteration": "azimin"
+    }
+  ],
+  "fullArabic": "قُلۡ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ",
+  "fullTranslation": "Say, \"Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
+  "fullTransliteration": "qul inni akhafu in asaytu rabbi adhaba yawmin azimin"
+}

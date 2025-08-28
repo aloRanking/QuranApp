@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "ayah": 61,
+    "surah": 8,
+    "words": 12,
+    "numberInQuran": 1221,
+    "juz": 10,
+    "manzil": 2,
+    "page": 184,
+    "ruku": 153,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَإِن",
+      "word_ayah": 61,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23502,
+      "word_number_in_surah": 955,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "جَنَحُواْ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23503,
+      "word_number_in_surah": 956,
+      "word_surah": 8,
+      "word_translation": "they incline",
+      "word_transliteration": "janahu"
+    },
+    {
+      "word_arabic": "لِلسَّلۡمِ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23504,
+      "word_number_in_surah": 957,
+      "word_surah": 8,
+      "word_translation": "to peace",
+      "word_transliteration": "lilssalmi"
+    },
+    {
+      "word_arabic": "فَٱجۡنَحۡ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23505,
+      "word_number_in_surah": 958,
+      "word_surah": 8,
+      "word_translation": "then you (also) incline",
+      "word_transliteration": "fa-ij'nah"
+    },
+    {
+      "word_arabic": "لَهَا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23506,
+      "word_number_in_surah": 959,
+      "word_surah": 8,
+      "word_translation": "to it",
+      "word_transliteration": "laha"
+    },
+    {
+      "word_arabic": "وَتَوَكَّلۡ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23507,
+      "word_number_in_surah": 960,
+      "word_surah": 8,
+      "word_translation": "and put (your) trust",
+      "word_transliteration": "watawakkal"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23508,
+      "word_number_in_surah": 961,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23509,
+      "word_number_in_surah": 962,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23510,
+      "word_number_in_surah": 963,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23511,
+      "word_number_in_surah": 964,
+      "word_surah": 8,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلسَّمِيعُ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23512,
+      "word_number_in_surah": 965,
+      "word_surah": 8,
+      "word_translation": "(is) All-Hearer",
+      "word_transliteration": "al-sami'u"
+    },
+    {
+      "word_arabic": "ٱلۡعَلِيمُ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23513,
+      "word_number_in_surah": 966,
+      "word_surah": 8,
+      "word_translation": "All-Knower",
+      "word_transliteration": "al-'alimu"
+    }
+  ],
+  "fullArabic": "۞وَإِن جَنَحُواْ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "fullTranslation": "And if they incline to peace, then incline to it [also] and rely upon Allah. Indeed, it is He who is the Hearing, the Knowing.",
+  "fullTransliteration": "wa-in janahu lilssalmi fa-ij'nah laha watawakkal ala al-lahi innahu huwa al-sami'u al-'alimu"
+}

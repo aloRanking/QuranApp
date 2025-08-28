@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 133,
+    "surah": 4,
+    "words": 12,
+    "numberInQuran": 626,
+    "juz": 5,
+    "manzil": 1,
+    "page": 99,
+    "ruku": 80,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 133,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12516,
+      "word_number_in_surah": 2890,
+      "word_surah": 4,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَشَأۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12517,
+      "word_number_in_surah": 2891,
+      "word_surah": 4,
+      "word_translation": "He wills",
+      "word_transliteration": "yasha"
+    },
+    {
+      "word_arabic": "يُذۡهِبۡكُمۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12518,
+      "word_number_in_surah": 2892,
+      "word_surah": 4,
+      "word_translation": "He can take you away",
+      "word_transliteration": "yudh'hib'kum"
+    },
+    {
+      "word_arabic": "أَيُّهَا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12519,
+      "word_number_in_surah": 2893,
+      "word_surah": 4,
+      "word_translation": "O",
+      "word_transliteration": "ayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12520,
+      "word_number_in_surah": 2894,
+      "word_surah": 4,
+      "word_translation": "people",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "وَيَأۡتِ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12521,
+      "word_number_in_surah": 2895,
+      "word_surah": 4,
+      "word_translation": "and bring",
+      "word_transliteration": "wayati"
+    },
+    {
+      "word_arabic": "بِ‍َٔاخَرِينَۚ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12522,
+      "word_number_in_surah": 2896,
+      "word_surah": 4,
+      "word_translation": "others",
+      "word_transliteration": "biakharina"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12523,
+      "word_number_in_surah": 2897,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12524,
+      "word_number_in_surah": 2898,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12525,
+      "word_number_in_surah": 2899,
+      "word_surah": 4,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12526,
+      "word_number_in_surah": 2900,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "قَدِيرٗا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12527,
+      "word_number_in_surah": 2901,
+      "word_surah": 4,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadiran"
+    }
+  ],
+  "fullArabic": "إِن يَشَأۡ يُذۡهِبۡكُمۡ أَيُّهَا ٱلنَّاسُ وَيَأۡتِ بِ‍َٔاخَرِينَۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرٗا",
+  "fullTranslation": "If He wills, He can do away with you, O people, and bring others [in your place]. And ever is Allah competent to do that.",
+  "fullTransliteration": "in yasha yudh'hib'kum ayyuha al-nasu wayati biakharina wakana al-lahu ala dhalika qadiran"
+}

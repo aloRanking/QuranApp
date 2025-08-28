@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 27,
+    "surah": 6,
+    "words": 16,
+    "numberInQuran": 816,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16574,
+      "word_number_in_surah": 397,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "تَرَىٰٓ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16575,
+      "word_number_in_surah": 398,
+      "word_surah": 6,
+      "word_translation": "you (could) see",
+      "word_transliteration": "tara"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16576,
+      "word_number_in_surah": 399,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "وُقِفُواْ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16577,
+      "word_number_in_surah": 400,
+      "word_surah": 6,
+      "word_translation": "they are made to stand",
+      "word_transliteration": "wuqifu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16578,
+      "word_number_in_surah": 401,
+      "word_surah": 6,
+      "word_translation": "by",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16579,
+      "word_number_in_surah": 402,
+      "word_surah": 6,
+      "word_translation": "the Fire",
+      "word_transliteration": "al-nari"
+    },
+    {
+      "word_arabic": "فَقَالُواْ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16580,
+      "word_number_in_surah": 403,
+      "word_surah": 6,
+      "word_translation": "then they (will) say",
+      "word_transliteration": "faqalu"
+    },
+    {
+      "word_arabic": "يَٰلَيۡتَنَا",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16581,
+      "word_number_in_surah": 404,
+      "word_surah": 6,
+      "word_translation": "Oh! Would that we",
+      "word_transliteration": "yalaytana"
+    },
+    {
+      "word_arabic": "نُرَدُّ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16582,
+      "word_number_in_surah": 405,
+      "word_surah": 6,
+      "word_translation": "were sent back",
+      "word_transliteration": "nuraddu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16583,
+      "word_number_in_surah": 406,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "نُكَذِّبَ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16584,
+      "word_number_in_surah": 407,
+      "word_surah": 6,
+      "word_translation": "we would deny",
+      "word_transliteration": "nukadhiba"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16585,
+      "word_number_in_surah": 408,
+      "word_surah": 6,
+      "word_translation": "(the) Signs",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "رَبِّنَا",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16586,
+      "word_number_in_surah": 409,
+      "word_surah": 6,
+      "word_translation": "(of) our Lord",
+      "word_transliteration": "rabbina"
+    },
+    {
+      "word_arabic": "وَنَكُونَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16587,
+      "word_number_in_surah": 410,
+      "word_surah": 6,
+      "word_translation": "and we would be",
+      "word_transliteration": "wanakuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16588,
+      "word_number_in_surah": 411,
+      "word_surah": 6,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16589,
+      "word_number_in_surah": 412,
+      "word_surah": 6,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    }
+  ],
+  "fullArabic": "وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَى ٱلنَّارِ فَقَالُواْ يَٰلَيۡتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِ‍َٔايَٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+  "fullTranslation": "If you could but see when they are made to stand before the Fire and will say, \"Oh, would that we could be returned [to life on earth] and not deny the signs of our Lord and be among the believers.\"",
+  "fullTransliteration": "walaw tara idh wuqifu ala al-nari faqalu yalaytana nuraddu wala nukadhiba biayati rabbina wanakuna mina al-mu'minina"
+}

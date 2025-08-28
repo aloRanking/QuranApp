@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 147,
+    "surah": 6,
+    "words": 13,
+    "numberInQuran": 936,
+    "juz": 8,
+    "manzil": 2,
+    "page": 148,
+    "ruku": 119,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 147,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18820,
+      "word_number_in_surah": 2643,
+      "word_surah": 6,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "كَذَّبُوكَ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18821,
+      "word_number_in_surah": 2644,
+      "word_surah": 6,
+      "word_translation": "they deny you",
+      "word_transliteration": "kadhabuka"
+    },
+    {
+      "word_arabic": "فَقُل",
+      "word_ayah": 147,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18822,
+      "word_number_in_surah": 2645,
+      "word_surah": 6,
+      "word_translation": "then say",
+      "word_transliteration": "faqul"
+    },
+    {
+      "word_arabic": "رَّبُّكُمۡ",
+      "word_ayah": 147,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18823,
+      "word_number_in_surah": 2646,
+      "word_surah": 6,
+      "word_translation": "Your Lord",
+      "word_transliteration": "rabbukum"
+    },
+    {
+      "word_arabic": "ذُو",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18824,
+      "word_number_in_surah": 2647,
+      "word_surah": 6,
+      "word_translation": "(is the) Possessor",
+      "word_transliteration": "dhu"
+    },
+    {
+      "word_arabic": "رَحۡمَةٖ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18825,
+      "word_number_in_surah": 2648,
+      "word_surah": 6,
+      "word_translation": "(of) Mercy",
+      "word_transliteration": "rahmatin"
+    },
+    {
+      "word_arabic": "وَٰسِعَةٖ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18826,
+      "word_number_in_surah": 2649,
+      "word_surah": 6,
+      "word_translation": "Vast",
+      "word_transliteration": "wasi'atin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18827,
+      "word_number_in_surah": 2650,
+      "word_surah": 6,
+      "word_translation": "but not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُرَدُّ",
+      "word_ayah": 147,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18828,
+      "word_number_in_surah": 2651,
+      "word_surah": 6,
+      "word_translation": "will be turned back",
+      "word_transliteration": "yuraddu"
+    },
+    {
+      "word_arabic": "بَأۡسُهُۥ",
+      "word_ayah": 147,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18829,
+      "word_number_in_surah": 2652,
+      "word_surah": 6,
+      "word_translation": "His wrath",
+      "word_transliteration": "basuhu"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18830,
+      "word_number_in_surah": 2653,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18831,
+      "word_number_in_surah": 2654,
+      "word_surah": 6,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلۡمُجۡرِمِينَ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18832,
+      "word_number_in_surah": 2655,
+      "word_surah": 6,
+      "word_translation": "(who are) criminals",
+      "word_transliteration": "al-muj'rimina"
+    }
+  ],
+  "fullArabic": "فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمۡ ذُو رَحۡمَةٖ وَٰسِعَةٖ وَلَا يُرَدُّ بَأۡسُهُۥ عَنِ ٱلۡقَوۡمِ ٱلۡمُجۡرِمِينَ",
+  "fullTranslation": "So if they deny you, [O Muhammad], say, \"Your Lord is the possessor of vast mercy; but His punishment cannot be repelled from the people who are criminals.\"",
+  "fullTransliteration": "fa-in kadhabuka faqul rabbukum dhu rahmatin wasi'atin wala yuraddu basuhu ani al-qawmi al-muj'rimina"
+}

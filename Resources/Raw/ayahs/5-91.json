@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "ayah": 91,
+    "surah": 5,
+    "words": 20,
+    "numberInQuran": 760,
+    "juz": 7,
+    "manzil": 2,
+    "page": 123,
+    "ruku": 97,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15484,
+      "word_number_in_surah": 2111,
+      "word_surah": 5,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15485,
+      "word_number_in_surah": 2112,
+      "word_surah": 5,
+      "word_translation": "intends",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15486,
+      "word_number_in_surah": 2113,
+      "word_surah": 5,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 91,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15487,
+      "word_number_in_surah": 2114,
+      "word_surah": 5,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُوقِعَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15488,
+      "word_number_in_surah": 2115,
+      "word_surah": 5,
+      "word_translation": "cause",
+      "word_transliteration": "yuqi'a"
+    },
+    {
+      "word_arabic": "بَيۡنَكُمُ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15489,
+      "word_number_in_surah": 2116,
+      "word_surah": 5,
+      "word_translation": "between you",
+      "word_transliteration": "baynakumu"
+    },
+    {
+      "word_arabic": "ٱلۡعَدَٰوَةَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15490,
+      "word_number_in_surah": 2117,
+      "word_surah": 5,
+      "word_translation": "[the] enmity",
+      "word_transliteration": "al-'adawata"
+    },
+    {
+      "word_arabic": "وَٱلۡبَغۡضَآءَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15491,
+      "word_number_in_surah": 2118,
+      "word_surah": 5,
+      "word_translation": "and [the] hatred",
+      "word_transliteration": "wal-baghdaa"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15492,
+      "word_number_in_surah": 2119,
+      "word_surah": 5,
+      "word_translation": "through",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡخَمۡرِ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15493,
+      "word_number_in_surah": 2120,
+      "word_surah": 5,
+      "word_translation": "intoxicants",
+      "word_transliteration": "al-khamri"
+    },
+    {
+      "word_arabic": "وَٱلۡمَيۡسِرِ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15494,
+      "word_number_in_surah": 2121,
+      "word_surah": 5,
+      "word_translation": "and gambling",
+      "word_transliteration": "wal-maysiri"
+    },
+    {
+      "word_arabic": "وَيَصُدَّكُمۡ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15495,
+      "word_number_in_surah": 2122,
+      "word_surah": 5,
+      "word_translation": "and hinders you",
+      "word_transliteration": "wayasuddakum"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15496,
+      "word_number_in_surah": 2123,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "ذِكۡرِ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15497,
+      "word_number_in_surah": 2124,
+      "word_surah": 5,
+      "word_translation": "(the) remembrance",
+      "word_transliteration": "dhik'ri"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15498,
+      "word_number_in_surah": 2125,
+      "word_surah": 5,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَعَنِ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15499,
+      "word_number_in_surah": 2126,
+      "word_surah": 5,
+      "word_translation": "and from",
+      "word_transliteration": "wa'ani"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةِۖ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15500,
+      "word_number_in_surah": 2127,
+      "word_surah": 5,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salati"
+    },
+    {
+      "word_arabic": "فَهَلۡ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15501,
+      "word_number_in_surah": 2128,
+      "word_surah": 5,
+      "word_translation": "So will",
+      "word_transliteration": "fahal"
+    },
+    {
+      "word_arabic": "أَنتُم",
+      "word_ayah": 91,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15502,
+      "word_number_in_surah": 2129,
+      "word_surah": 5,
+      "word_translation": "you",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "مُّنتَهُونَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15503,
+      "word_number_in_surah": 2130,
+      "word_surah": 5,
+      "word_translation": "(be) the ones who abstain",
+      "word_transliteration": "muntahuna"
+    }
+  ],
+  "fullArabic": "إِنَّمَا يُرِيدُ ٱلشَّيۡطَٰنُ أَن يُوقِعَ بَيۡنَكُمُ ٱلۡعَدَٰوَةَ وَٱلۡبَغۡضَآءَ فِي ٱلۡخَمۡرِ وَٱلۡمَيۡسِرِ وَيَصُدَّكُمۡ عَن ذِكۡرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِۖ فَهَلۡ أَنتُم مُّنتَهُونَ",
+  "fullTranslation": "Satan only wants to cause between you animosity and hatred through intoxicants and gambling and to avert you from the remembrance of Allah and from prayer. So will you not desist?",
+  "fullTransliteration": "innama yuridu al-shaytanu an yuqi'a baynakumu al-'adawata wal-baghdaa fi al-khamri wal-maysiri wayasuddakum an dhik'ri al-lahi wa'ani al-salati fahal antum muntahuna"
+}

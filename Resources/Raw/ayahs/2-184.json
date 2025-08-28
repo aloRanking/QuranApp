@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "ayah": 184,
+    "surah": 2,
+    "words": 32,
+    "numberInQuran": 191,
+    "juz": 2,
+    "manzil": 1,
+    "page": 28,
+    "ruku": 24,
+    "hizbQuarter": 11,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَيَّامٗا",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3330,
+      "word_number_in_surah": 3301,
+      "word_surah": 2,
+      "word_translation": "(Fasting for) days",
+      "word_transliteration": "ayyaman"
+    },
+    {
+      "word_arabic": "مَّعۡدُودَٰتٖۚ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3331,
+      "word_number_in_surah": 3302,
+      "word_surah": 2,
+      "word_translation": "numbered",
+      "word_transliteration": "ma'dudatin"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 184,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3332,
+      "word_number_in_surah": 3303,
+      "word_surah": 2,
+      "word_translation": "So whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3333,
+      "word_number_in_surah": 3304,
+      "word_surah": 2,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مِنكُم",
+      "word_ayah": 184,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3334,
+      "word_number_in_surah": 3305,
+      "word_surah": 2,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "مَّرِيضًا",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3335,
+      "word_number_in_surah": 3306,
+      "word_surah": 2,
+      "word_translation": "sick",
+      "word_transliteration": "maridan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3336,
+      "word_number_in_surah": 3307,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3337,
+      "word_number_in_surah": 3308,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "سَفَرٖ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3338,
+      "word_number_in_surah": 3309,
+      "word_surah": 2,
+      "word_translation": "a journey",
+      "word_transliteration": "safarin"
+    },
+    {
+      "word_arabic": "فَعِدَّةٞ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3339,
+      "word_number_in_surah": 3310,
+      "word_surah": 2,
+      "word_translation": "then a prescribed number",
+      "word_transliteration": "fa'iddatun"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3340,
+      "word_number_in_surah": 3311,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَيَّامٍ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3341,
+      "word_number_in_surah": 3312,
+      "word_surah": 2,
+      "word_translation": "days",
+      "word_transliteration": "ayyamin"
+    },
+    {
+      "word_arabic": "أُخَرَۚ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3342,
+      "word_number_in_surah": 3313,
+      "word_surah": 2,
+      "word_translation": "other",
+      "word_transliteration": "ukhara"
+    },
+    {
+      "word_arabic": "وَعَلَى",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3343,
+      "word_number_in_surah": 3314,
+      "word_surah": 2,
+      "word_translation": "And on",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3344,
+      "word_number_in_surah": 3315,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُطِيقُونَهُۥ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3345,
+      "word_number_in_surah": 3316,
+      "word_surah": 2,
+      "word_translation": "can afford it",
+      "word_transliteration": "yutiqunahu"
+    },
+    {
+      "word_arabic": "فِدۡيَةٞ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3346,
+      "word_number_in_surah": 3317,
+      "word_surah": 2,
+      "word_translation": "a ransom",
+      "word_transliteration": "fid'yatun"
+    },
+    {
+      "word_arabic": "طَعَامُ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3347,
+      "word_number_in_surah": 3318,
+      "word_surah": 2,
+      "word_translation": "(of) feeding",
+      "word_transliteration": "ta'amu"
+    },
+    {
+      "word_arabic": "مِسۡكِينٖۖ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3348,
+      "word_number_in_surah": 3319,
+      "word_surah": 2,
+      "word_translation": "a poor",
+      "word_transliteration": "mis'kinin"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 184,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3349,
+      "word_number_in_surah": 3320,
+      "word_surah": 2,
+      "word_translation": "And whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "تَطَوَّعَ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3350,
+      "word_number_in_surah": 3321,
+      "word_surah": 2,
+      "word_translation": "volunteers",
+      "word_transliteration": "tatawwa'a"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 184,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3351,
+      "word_number_in_surah": 3322,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "فَهُوَ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 3352,
+      "word_number_in_surah": 3323,
+      "word_surah": 2,
+      "word_translation": "then it",
+      "word_transliteration": "fahuwa"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 3353,
+      "word_number_in_surah": 3324,
+      "word_surah": 2,
+      "word_translation": "(is) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّهُۥۚ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 3354,
+      "word_number_in_surah": 3325,
+      "word_surah": 2,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "وَأَن",
+      "word_ayah": 184,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 3355,
+      "word_number_in_surah": 3326,
+      "word_surah": 2,
+      "word_translation": "And to",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "تَصُومُواْ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 3356,
+      "word_number_in_surah": 3327,
+      "word_surah": 2,
+      "word_translation": "fast",
+      "word_transliteration": "tasumu"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 3357,
+      "word_number_in_surah": 3328,
+      "word_surah": 2,
+      "word_translation": "(is) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 3358,
+      "word_number_in_surah": 3329,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 184,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 3359,
+      "word_number_in_surah": 3330,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 3360,
+      "word_number_in_surah": 3331,
+      "word_surah": 2,
+      "word_translation": "you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 3361,
+      "word_number_in_surah": 3332,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "أَيَّامٗا مَّعۡدُودَٰتٖۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ عَلَىٰ سَفَرٖ فَعِدَّةٞ مِّنۡ أَيَّامٍ أُخَرَۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدۡيَةٞ طَعَامُ مِسۡكِينٖۖ فَمَن تَطَوَّعَ خَيۡرٗا فَهُوَ خَيۡرٞ لَّهُۥۚ وَأَن تَصُومُواْ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "[Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day]. And whoever volunteers excess - it is better for him. But to fast is best for you, if you only knew.",
+  "fullTransliteration": "ayyaman ma'dudatin faman kana minkum maridan aw ala safarin fa'iddatun min ayyamin ukhara wa'ala alladhina yutiqunahu fid'yatun ta'amu mis'kinin faman tatawwa'a khayran fahuwa khayrun lahu wa-an tasumu khayrun lakum in kuntum ta'lamuna"
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "ayah": 38,
+    "surah": 8,
+    "words": 16,
+    "numberInQuran": 1198,
+    "juz": 9,
+    "manzil": 2,
+    "page": 181,
+    "ruku": 150,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 38,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23096,
+      "word_number_in_surah": 549,
+      "word_surah": 8,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لِّلَّذِينَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23097,
+      "word_number_in_surah": 550,
+      "word_surah": 8,
+      "word_translation": "to those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "كَفَرُوٓاْ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23098,
+      "word_number_in_surah": 551,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 38,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23099,
+      "word_number_in_surah": 552,
+      "word_surah": 8,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَنتَهُواْ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23100,
+      "word_number_in_surah": 553,
+      "word_surah": 8,
+      "word_translation": "they cease",
+      "word_transliteration": "yantahu"
+    },
+    {
+      "word_arabic": "يُغۡفَرۡ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23101,
+      "word_number_in_surah": 554,
+      "word_surah": 8,
+      "word_translation": "will be forgiven",
+      "word_transliteration": "yugh'far"
+    },
+    {
+      "word_arabic": "لَهُم",
+      "word_ayah": 38,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23102,
+      "word_number_in_surah": 555,
+      "word_surah": 8,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23103,
+      "word_number_in_surah": 556,
+      "word_surah": 8,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23104,
+      "word_number_in_surah": 557,
+      "word_surah": 8,
+      "word_translation": "[verily]",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "سَلَفَ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23105,
+      "word_number_in_surah": 558,
+      "word_surah": 8,
+      "word_translation": "(is) past",
+      "word_transliteration": "salafa"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 38,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23106,
+      "word_number_in_surah": 559,
+      "word_surah": 8,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَعُودُواْ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23107,
+      "word_number_in_surah": 560,
+      "word_surah": 8,
+      "word_translation": "they return",
+      "word_transliteration": "ya'udu"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23108,
+      "word_number_in_surah": 561,
+      "word_surah": 8,
+      "word_translation": "then verily",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "مَضَتۡ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23109,
+      "word_number_in_surah": 562,
+      "word_surah": 8,
+      "word_translation": "preceded",
+      "word_transliteration": "madat"
+    },
+    {
+      "word_arabic": "سُنَّتُ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23110,
+      "word_number_in_surah": 563,
+      "word_surah": 8,
+      "word_translation": "(the) practice",
+      "word_transliteration": "sunnatu"
+    },
+    {
+      "word_arabic": "ٱلۡأَوَّلِينَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23111,
+      "word_number_in_surah": 564,
+      "word_surah": 8,
+      "word_translation": "(of) the former (people)",
+      "word_transliteration": "al-awalina"
+    }
+  ],
+  "fullArabic": "قُل لِّلَّذِينَ كَفَرُوٓاْ إِن يَنتَهُواْ يُغۡفَرۡ لَهُم مَّا قَدۡ سَلَفَ وَإِن يَعُودُواْ فَقَدۡ مَضَتۡ سُنَّتُ ٱلۡأَوَّلِينَ",
+  "fullTranslation": "Say to those who have disbelieved [that] if they cease, what has previously occurred will be forgiven for them. But if they return [to hostility] - then the precedent of the former [rebellious] peoples has already taken place.",
+  "fullTransliteration": "qul lilladhina kafaru in yantahu yugh'far lahum ma qad salafa wa-in ya'udu faqad madat sunnatu al-awalina"
+}

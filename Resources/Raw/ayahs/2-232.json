@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "ayah": 232,
+    "surah": 2,
+    "words": 33,
+    "numberInQuran": 239,
+    "juz": 2,
+    "manzil": 1,
+    "page": 37,
+    "ruku": 31,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4518,
+      "word_number_in_surah": 4489,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "طَلَّقۡتُمُ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4519,
+      "word_number_in_surah": 4490,
+      "word_surah": 2,
+      "word_translation": "you divorce",
+      "word_transliteration": "tallaqtumu"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءَ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4520,
+      "word_number_in_surah": 4491,
+      "word_surah": 2,
+      "word_translation": "[the] women",
+      "word_transliteration": "al-nisaa"
+    },
+    {
+      "word_arabic": "فَبَلَغۡنَ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4521,
+      "word_number_in_surah": 4492,
+      "word_surah": 2,
+      "word_translation": "and they reached",
+      "word_transliteration": "fabalaghna"
+    },
+    {
+      "word_arabic": "أَجَلَهُنَّ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4522,
+      "word_number_in_surah": 4493,
+      "word_surah": 2,
+      "word_translation": "their (waiting) term",
+      "word_transliteration": "ajalahunna"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4523,
+      "word_number_in_surah": 4494,
+      "word_surah": 2,
+      "word_translation": "then (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَعۡضُلُوهُنَّ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4524,
+      "word_number_in_surah": 4495,
+      "word_surah": 2,
+      "word_translation": "hinder them",
+      "word_transliteration": "ta'duluhunna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 232,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4525,
+      "word_number_in_surah": 4496,
+      "word_surah": 2,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَنكِحۡنَ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4526,
+      "word_number_in_surah": 4497,
+      "word_surah": 2,
+      "word_translation": "(from) marrying",
+      "word_transliteration": "yankih'na"
+    },
+    {
+      "word_arabic": "أَزۡوَٰجَهُنَّ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4527,
+      "word_number_in_surah": 4498,
+      "word_surah": 2,
+      "word_translation": "their husbands",
+      "word_transliteration": "azwajahunna"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4528,
+      "word_number_in_surah": 4499,
+      "word_surah": 2,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "تَرَٰضَوۡاْ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4529,
+      "word_number_in_surah": 4500,
+      "word_surah": 2,
+      "word_translation": "they agree",
+      "word_transliteration": "taradaw"
+    },
+    {
+      "word_arabic": "بَيۡنَهُم",
+      "word_ayah": 232,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4530,
+      "word_number_in_surah": 4501,
+      "word_surah": 2,
+      "word_translation": "between themselves",
+      "word_transliteration": "baynahum"
+    },
+    {
+      "word_arabic": "بِٱلۡمَعۡرُوفِۗ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4531,
+      "word_number_in_surah": 4502,
+      "word_surah": 2,
+      "word_translation": "in a fair manner",
+      "word_transliteration": "bil-ma'rufi"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4532,
+      "word_number_in_surah": 4503,
+      "word_surah": 2,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "يُوعَظُ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4533,
+      "word_number_in_surah": 4504,
+      "word_surah": 2,
+      "word_translation": "is admonished",
+      "word_transliteration": "yu'azu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4534,
+      "word_number_in_surah": 4505,
+      "word_surah": 2,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 232,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4535,
+      "word_number_in_surah": 4506,
+      "word_surah": 2,
+      "word_translation": "whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4536,
+      "word_number_in_surah": 4507,
+      "word_surah": 2,
+      "word_translation": "[is]",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4537,
+      "word_number_in_surah": 4508,
+      "word_surah": 2,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4538,
+      "word_number_in_surah": 4509,
+      "word_surah": 2,
+      "word_translation": "believes",
+      "word_transliteration": "yu'minu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4539,
+      "word_number_in_surah": 4510,
+      "word_surah": 2,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡيَوۡمِ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4540,
+      "word_number_in_surah": 4511,
+      "word_surah": 2,
+      "word_translation": "and the Day",
+      "word_transliteration": "wal-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِۗ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4541,
+      "word_number_in_surah": 4512,
+      "word_surah": 2,
+      "word_translation": "[the] Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "ذَٰلِكُمۡ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4542,
+      "word_number_in_surah": 4513,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "dhalikum"
+    },
+    {
+      "word_arabic": "أَزۡكَىٰ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4543,
+      "word_number_in_surah": 4514,
+      "word_surah": 2,
+      "word_translation": "(is) more virtuous",
+      "word_transliteration": "azka"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4544,
+      "word_number_in_surah": 4515,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَأَطۡهَرُۚ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 4545,
+      "word_number_in_surah": 4516,
+      "word_surah": 2,
+      "word_translation": "and more purer",
+      "word_transliteration": "wa-atharu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 4546,
+      "word_number_in_surah": 4517,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَعۡلَمُ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 4547,
+      "word_number_in_surah": 4518,
+      "word_surah": 2,
+      "word_translation": "knows",
+      "word_transliteration": "ya'lamu"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 232,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 4548,
+      "word_number_in_surah": 4519,
+      "word_surah": 2,
+      "word_translation": "and you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 4549,
+      "word_number_in_surah": 4520,
+      "word_surah": 2,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 232,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 4550,
+      "word_number_in_surah": 4521,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَإِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَبَلَغۡنَ أَجَلَهُنَّ فَلَا تَعۡضُلُوهُنَّ أَن يَنكِحۡنَ أَزۡوَٰجَهُنَّ إِذَا تَرَٰضَوۡاْ بَيۡنَهُم بِٱلۡمَعۡرُوفِۗ ذَٰلِكَ يُوعَظُ بِهِۦ مَن كَانَ مِنكُمۡ يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۗ ذَٰلِكُمۡ أَزۡكَىٰ لَكُمۡ وَأَطۡهَرُۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
+  "fullTranslation": "And when you divorce women and they have fulfilled their term, do not prevent them from remarrying their [former] husbands if they agree among themselves on an acceptable basis. That is instructed to whoever of you believes in Allah and the Last Day. That is better for you and purer, and Allah knows and you know not.",
+  "fullTransliteration": "wa-idha tallaqtumu al-nisaa fabalaghna ajalahunna fala ta'duluhunna an yankih'na azwajahunna idha taradaw baynahum bil-ma'rufi dhalika yu'azu bihi man kana minkum yu'minu bil-lahi wal-yawmi al-akhiri dhalikum azka lakum wa-atharu wal-lahu ya'lamu wa-antum la ta'lamuna"
+}

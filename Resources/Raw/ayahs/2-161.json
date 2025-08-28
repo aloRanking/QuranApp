@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 161,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 168,
+    "juz": 2,
+    "manzil": 1,
+    "page": 24,
+    "ruku": 20,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2875,
+      "word_number_in_surah": 2846,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2876,
+      "word_number_in_surah": 2847,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2877,
+      "word_number_in_surah": 2848,
+      "word_surah": 2,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "وَمَاتُواْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2878,
+      "word_number_in_surah": 2849,
+      "word_surah": 2,
+      "word_translation": "and die[d]",
+      "word_transliteration": "wamatu"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2879,
+      "word_number_in_surah": 2850,
+      "word_surah": 2,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "كُفَّارٌ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2880,
+      "word_number_in_surah": 2851,
+      "word_surah": 2,
+      "word_translation": "(were) disbelievers",
+      "word_transliteration": "kuffarun"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2881,
+      "word_number_in_surah": 2852,
+      "word_surah": 2,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2882,
+      "word_number_in_surah": 2853,
+      "word_surah": 2,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "لَعۡنَةُ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2883,
+      "word_number_in_surah": 2854,
+      "word_surah": 2,
+      "word_translation": "(is the) curse",
+      "word_transliteration": "la'natu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2884,
+      "word_number_in_surah": 2855,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2885,
+      "word_number_in_surah": 2856,
+      "word_surah": 2,
+      "word_translation": "and the Angels",
+      "word_transliteration": "wal-malaikati"
+    },
+    {
+      "word_arabic": "وَٱلنَّاسِ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2886,
+      "word_number_in_surah": 2857,
+      "word_surah": 2,
+      "word_translation": "and the mankind",
+      "word_transliteration": "wal-nasi"
+    },
+    {
+      "word_arabic": "أَجۡمَعِينَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2887,
+      "word_number_in_surah": 2858,
+      "word_surah": 2,
+      "word_translation": "all together",
+      "word_transliteration": "ajma'ina"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمۡ كُفَّارٌ أُوْلَٰٓئِكَ عَلَيۡهِمۡ لَعۡنَةُ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجۡمَعِينَ",
+  "fullTranslation": "Indeed, those who disbelieve and die while they are disbelievers - upon them will be the curse of Allah and of the angels and the people, all together,",
+  "fullTransliteration": "inna alladhina kafaru wamatu wahum kuffarun ulaika alayhim la'natu al-lahi wal-malaikati wal-nasi ajma'ina"
+}

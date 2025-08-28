@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "ayah": 103,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 596,
+    "juz": 5,
+    "manzil": 1,
+    "page": 95,
+    "ruku": 76,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11978,
+      "word_number_in_surah": 2352,
+      "word_surah": 4,
+      "word_translation": "Then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "قَضَيۡتُمُ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11979,
+      "word_number_in_surah": 2353,
+      "word_surah": 4,
+      "word_translation": "you (have) finished",
+      "word_transliteration": "qadaytumu"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11980,
+      "word_number_in_surah": 2354,
+      "word_surah": 4,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salata"
+    },
+    {
+      "word_arabic": "فَٱذۡكُرُواْ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11981,
+      "word_number_in_surah": 2355,
+      "word_surah": 4,
+      "word_translation": "then remember",
+      "word_transliteration": "fa-udh'kuru"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11982,
+      "word_number_in_surah": 2356,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "قِيَٰمٗا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11983,
+      "word_number_in_surah": 2357,
+      "word_surah": 4,
+      "word_translation": "standing",
+      "word_transliteration": "qiyaman"
+    },
+    {
+      "word_arabic": "وَقُعُودٗا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11984,
+      "word_number_in_surah": 2358,
+      "word_surah": 4,
+      "word_translation": "and sitting",
+      "word_transliteration": "waqu'udan"
+    },
+    {
+      "word_arabic": "وَعَلَىٰ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11985,
+      "word_number_in_surah": 2359,
+      "word_surah": 4,
+      "word_translation": "and (lying) on",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "جُنُوبِكُمۡۚ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11986,
+      "word_number_in_surah": 2360,
+      "word_surah": 4,
+      "word_translation": "your sides",
+      "word_transliteration": "junubikum"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11987,
+      "word_number_in_surah": 2361,
+      "word_surah": 4,
+      "word_translation": "But when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "ٱطۡمَأۡنَنتُمۡ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11988,
+      "word_number_in_surah": 2362,
+      "word_surah": 4,
+      "word_translation": "you are secure",
+      "word_transliteration": "it'manantum"
+    },
+    {
+      "word_arabic": "فَأَقِيمُواْ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11989,
+      "word_number_in_surah": 2363,
+      "word_surah": 4,
+      "word_translation": "then establish",
+      "word_transliteration": "fa-aqimu"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةَۚ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11990,
+      "word_number_in_surah": 2364,
+      "word_surah": 4,
+      "word_translation": "the (regular) prayer",
+      "word_transliteration": "al-salata"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11991,
+      "word_number_in_surah": 2365,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11992,
+      "word_number_in_surah": 2366,
+      "word_surah": 4,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salata"
+    },
+    {
+      "word_arabic": "كَانَتۡ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11993,
+      "word_number_in_surah": 2367,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kanat"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11994,
+      "word_number_in_surah": 2368,
+      "word_surah": 4,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11995,
+      "word_number_in_surah": 2369,
+      "word_surah": 4,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "كِتَٰبٗا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11996,
+      "word_number_in_surah": 2370,
+      "word_surah": 4,
+      "word_translation": "prescribed",
+      "word_transliteration": "kitaban"
+    },
+    {
+      "word_arabic": "مَّوۡقُوتٗا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11997,
+      "word_number_in_surah": 2371,
+      "word_surah": 4,
+      "word_translation": "(at) fixed times",
+      "word_transliteration": "mawqutan"
+    }
+  ],
+  "fullArabic": "فَإِذَا قَضَيۡتُمُ ٱلصَّلَوٰةَ فَٱذۡكُرُواْ ٱللَّهَ قِيَٰمٗا وَقُعُودٗا وَعَلَىٰ جُنُوبِكُمۡۚ فَإِذَا ٱطۡمَأۡنَنتُمۡ فَأَقِيمُواْ ٱلصَّلَوٰةَۚ إِنَّ ٱلصَّلَوٰةَ كَانَتۡ عَلَى ٱلۡمُؤۡمِنِينَ كِتَٰبٗا مَّوۡقُوتٗا",
+  "fullTranslation": "And when you have completed the prayer, remember Allah standing, sitting, or [lying] on your sides. But when you become secure, re-establish [regular] prayer. Indeed, prayer has been decreed upon the believers a decree of specified times.",
+  "fullTransliteration": "fa-idha qadaytumu al-salata fa-udh'kuru al-laha qiyaman waqu'udan wa'ala junubikum fa-idha it'manantum fa-aqimu al-salata inna al-salata kanat ala al-mu'minina kitaban mawqutan"
+}

@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 160,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 653,
+    "juz": 6,
+    "manzil": 1,
+    "page": 103,
+    "ruku": 83,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَبِظُلۡمٖ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13023,
+      "word_number_in_surah": 3397,
+      "word_surah": 4,
+      "word_translation": "Then for (the) wrongdoing",
+      "word_transliteration": "fabizul'min"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13024,
+      "word_number_in_surah": 3398,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13025,
+      "word_number_in_surah": 3399,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "هَادُواْ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13026,
+      "word_number_in_surah": 3400,
+      "word_surah": 4,
+      "word_translation": "were Jews",
+      "word_transliteration": "hadu"
+    },
+    {
+      "word_arabic": "حَرَّمۡنَا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13027,
+      "word_number_in_surah": 3401,
+      "word_surah": 4,
+      "word_translation": "We made unlawful",
+      "word_transliteration": "harramna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13028,
+      "word_number_in_surah": 3402,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "طَيِّبَٰتٍ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13029,
+      "word_number_in_surah": 3403,
+      "word_surah": 4,
+      "word_translation": "good things",
+      "word_transliteration": "tayyibatin"
+    },
+    {
+      "word_arabic": "أُحِلَّتۡ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13030,
+      "word_number_in_surah": 3404,
+      "word_surah": 4,
+      "word_translation": "which had been lawful",
+      "word_transliteration": "uhillat"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13031,
+      "word_number_in_surah": 3405,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "وَبِصَدِّهِمۡ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13032,
+      "word_number_in_surah": 3406,
+      "word_surah": 4,
+      "word_translation": "and for their hindering",
+      "word_transliteration": "wabisaddihim"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13033,
+      "word_number_in_surah": 3407,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13034,
+      "word_number_in_surah": 3408,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13035,
+      "word_number_in_surah": 3409,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13036,
+      "word_number_in_surah": 3410,
+      "word_surah": 4,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    }
+  ],
+  "fullArabic": "فَبِظُلۡمٖ مِّنَ ٱلَّذِينَ هَادُواْ حَرَّمۡنَا عَلَيۡهِمۡ طَيِّبَٰتٍ أُحِلَّتۡ لَهُمۡ وَبِصَدِّهِمۡ عَن سَبِيلِ ٱللَّهِ كَثِيرٗا",
+  "fullTranslation": "For wrongdoing on the part of the Jews, We made unlawful for them [certain] good foods which had been lawful to them, and for their averting from the way of Allah many [people],",
+  "fullTransliteration": "fabizul'min mina alladhina hadu harramna alayhim tayyibatin uhillat lahum wabisaddihim an sabili al-lahi kathiran"
+}

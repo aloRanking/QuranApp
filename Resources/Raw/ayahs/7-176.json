@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "ayah": 176,
+    "surah": 7,
+    "words": 30,
+    "numberInQuran": 1130,
+    "juz": 9,
+    "manzil": 2,
+    "page": 173,
+    "ruku": 143,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22095,
+      "word_number_in_surah": 2868,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "شِئۡنَا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22096,
+      "word_number_in_surah": 2869,
+      "word_surah": 7,
+      "word_translation": "We willed",
+      "word_transliteration": "shi'na"
+    },
+    {
+      "word_arabic": "لَرَفَعۡنَٰهُ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22097,
+      "word_number_in_surah": 2870,
+      "word_surah": 7,
+      "word_translation": "surely We (could) have raised him",
+      "word_transliteration": "larafa'nahu"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22098,
+      "word_number_in_surah": 2871,
+      "word_surah": 7,
+      "word_translation": "with these",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّهُۥٓ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22099,
+      "word_number_in_surah": 2872,
+      "word_surah": 7,
+      "word_translation": "[and] but he",
+      "word_transliteration": "walakinnahu"
+    },
+    {
+      "word_arabic": "أَخۡلَدَ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22100,
+      "word_number_in_surah": 2873,
+      "word_surah": 7,
+      "word_translation": "adhered",
+      "word_transliteration": "akhlada"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22101,
+      "word_number_in_surah": 2874,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22102,
+      "word_number_in_surah": 2875,
+      "word_surah": 7,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَٱتَّبَعَ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22103,
+      "word_number_in_surah": 2876,
+      "word_surah": 7,
+      "word_translation": "and followed",
+      "word_transliteration": "wa-ittaba'a"
+    },
+    {
+      "word_arabic": "هَوَىٰهُۚ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22104,
+      "word_number_in_surah": 2877,
+      "word_surah": 7,
+      "word_translation": "his (vain) desires",
+      "word_transliteration": "hawahu"
+    },
+    {
+      "word_arabic": "فَمَثَلُهُۥ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22105,
+      "word_number_in_surah": 2878,
+      "word_surah": 7,
+      "word_translation": "So his example",
+      "word_transliteration": "famathaluhu"
+    },
+    {
+      "word_arabic": "كَمَثَلِ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22106,
+      "word_number_in_surah": 2879,
+      "word_surah": 7,
+      "word_translation": "(is) like (the) example",
+      "word_transliteration": "kamathali"
+    },
+    {
+      "word_arabic": "ٱلۡكَلۡبِ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22107,
+      "word_number_in_surah": 2880,
+      "word_surah": 7,
+      "word_translation": "(of) the dog",
+      "word_transliteration": "al-kalbi"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 176,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22108,
+      "word_number_in_surah": 2881,
+      "word_surah": 7,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تَحۡمِلۡ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22109,
+      "word_number_in_surah": 2882,
+      "word_surah": 7,
+      "word_translation": "you attack",
+      "word_transliteration": "tahmil"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22110,
+      "word_number_in_surah": 2883,
+      "word_surah": 7,
+      "word_translation": "[on] him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "يَلۡهَثۡ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22111,
+      "word_number_in_surah": 2884,
+      "word_surah": 7,
+      "word_translation": "he lolls out his tongue",
+      "word_transliteration": "yalhath"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22112,
+      "word_number_in_surah": 2885,
+      "word_surah": 7,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تَتۡرُكۡهُ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22113,
+      "word_number_in_surah": 2886,
+      "word_surah": 7,
+      "word_translation": "if you leave him",
+      "word_transliteration": "tatruk'hu"
+    },
+    {
+      "word_arabic": "يَلۡهَثۚ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22114,
+      "word_number_in_surah": 2887,
+      "word_surah": 7,
+      "word_translation": "he lolls out his tongue",
+      "word_transliteration": "yalhath"
+    },
+    {
+      "word_arabic": "ذَّٰلِكَ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22115,
+      "word_number_in_surah": 2888,
+      "word_surah": 7,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "مَثَلُ",
+      "word_ayah": 176,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22116,
+      "word_number_in_surah": 2889,
+      "word_surah": 7,
+      "word_translation": "(is the) example",
+      "word_transliteration": "mathalu"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 22117,
+      "word_number_in_surah": 2890,
+      "word_surah": 7,
+      "word_translation": "(of) the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 22118,
+      "word_number_in_surah": 2891,
+      "word_surah": 7,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 22119,
+      "word_number_in_surah": 2892,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَاۚ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 22120,
+      "word_number_in_surah": 2893,
+      "word_surah": 7,
+      "word_translation": "[in] Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "فَٱقۡصُصِ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 22121,
+      "word_number_in_surah": 2894,
+      "word_surah": 7,
+      "word_translation": "So relate",
+      "word_transliteration": "fa-uq'susi"
+    },
+    {
+      "word_arabic": "ٱلۡقَصَصَ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 22122,
+      "word_number_in_surah": 2895,
+      "word_surah": 7,
+      "word_translation": "the story",
+      "word_transliteration": "al-qasasa"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 22123,
+      "word_number_in_surah": 2896,
+      "word_surah": 7,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَتَفَكَّرُونَ",
+      "word_ayah": 176,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 22124,
+      "word_number_in_surah": 2897,
+      "word_surah": 7,
+      "word_translation": "reflect",
+      "word_transliteration": "yatafakkaruna"
+    }
+  ],
+  "fullArabic": "وَلَوۡ شِئۡنَا لَرَفَعۡنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخۡلَدَ إِلَى ٱلۡأَرۡضِ وَٱتَّبَعَ هَوَىٰهُۚ فَمَثَلُهُۥ كَمَثَلِ ٱلۡكَلۡبِ إِن تَحۡمِلۡ عَلَيۡهِ يَلۡهَثۡ أَوۡ تَتۡرُكۡهُ يَلۡهَثۚ ذَّٰلِكَ مَثَلُ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَاۚ فَٱقۡصُصِ ٱلۡقَصَصَ لَعَلَّهُمۡ يَتَفَكَّرُونَ",
+  "fullTranslation": "And if We had willed, we could have elevated him thereby, but he adhered [instead] to the earth and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he [still] pants. That is the example of the people who denied Our signs. So relate the stories that perhaps they will give thought.",
+  "fullTransliteration": "walaw shi'na larafa'nahu biha walakinnahu akhlada ila al-ardi wa-ittaba'a hawahu famathaluhu kamathali al-kalbi in tahmil alayhi yalhath aw tatruk'hu yalhath dhalika mathalu al-qawmi alladhina kadhabu biayatina fa-uq'susi al-qasasa la'allahum yatafakkaruna"
+}

@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "ayah": 38,
+    "surah": 6,
+    "words": 22,
+    "numberInQuran": 827,
+    "juz": 7,
+    "manzil": 2,
+    "page": 132,
+    "ruku": 105,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16766,
+      "word_number_in_surah": 589,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 38,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16767,
+      "word_number_in_surah": 590,
+      "word_surah": 6,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دَآبَّةٖ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16768,
+      "word_number_in_surah": 591,
+      "word_surah": 6,
+      "word_translation": "any animal",
+      "word_transliteration": "dabbatin"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16769,
+      "word_number_in_surah": 592,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16770,
+      "word_number_in_surah": 593,
+      "word_surah": 6,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16771,
+      "word_number_in_surah": 594,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "طَٰٓئِرٖ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16772,
+      "word_number_in_surah": 595,
+      "word_surah": 6,
+      "word_translation": "a bird",
+      "word_transliteration": "tairin"
+    },
+    {
+      "word_arabic": "يَطِيرُ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16773,
+      "word_number_in_surah": 596,
+      "word_surah": 6,
+      "word_translation": "(that) flies",
+      "word_transliteration": "yatiru"
+    },
+    {
+      "word_arabic": "بِجَنَاحَيۡهِ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16774,
+      "word_number_in_surah": 597,
+      "word_surah": 6,
+      "word_translation": "with its wings",
+      "word_transliteration": "bijanahayhi"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16775,
+      "word_number_in_surah": 598,
+      "word_surah": 6,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أُمَمٌ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16776,
+      "word_number_in_surah": 599,
+      "word_surah": 6,
+      "word_translation": "(are) communities",
+      "word_transliteration": "umamun"
+    },
+    {
+      "word_arabic": "أَمۡثَالُكُمۚ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16777,
+      "word_number_in_surah": 600,
+      "word_surah": 6,
+      "word_translation": "like you",
+      "word_transliteration": "amthalukum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16778,
+      "word_number_in_surah": 601,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فَرَّطۡنَا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16779,
+      "word_number_in_surah": 602,
+      "word_surah": 6,
+      "word_translation": "We have neglected",
+      "word_transliteration": "farratna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16780,
+      "word_number_in_surah": 603,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16781,
+      "word_number_in_surah": 604,
+      "word_surah": 6,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 38,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16782,
+      "word_number_in_surah": 605,
+      "word_surah": 6,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "شَيۡءٖۚ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16783,
+      "word_number_in_surah": 606,
+      "word_surah": 6,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16784,
+      "word_number_in_surah": 607,
+      "word_surah": 6,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16785,
+      "word_number_in_surah": 608,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16786,
+      "word_number_in_surah": 609,
+      "word_surah": 6,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "يُحۡشَرُونَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16787,
+      "word_number_in_surah": 610,
+      "word_surah": 6,
+      "word_translation": "they will be gathered",
+      "word_transliteration": "yuh'sharuna"
+    }
+  ],
+  "fullArabic": "وَمَا مِن دَآبَّةٖ فِي ٱلۡأَرۡضِ وَلَا طَٰٓئِرٖ يَطِيرُ بِجَنَاحَيۡهِ إِلَّآ أُمَمٌ أَمۡثَالُكُمۚ مَّا فَرَّطۡنَا فِي ٱلۡكِتَٰبِ مِن شَيۡءٖۚ ثُمَّ إِلَىٰ رَبِّهِمۡ يُحۡشَرُونَ",
+  "fullTranslation": "And there is no creature on [or within] the earth or bird that flies with its wings except [that they are] communities like you. We have not neglected in the Register a thing. Then unto their Lord they will be gathered.",
+  "fullTransliteration": "wama min dabbatin fi al-ardi wala tairin yatiru bijanahayhi illa umamun amthalukum ma farratna fi al-kitabi min shayin thumma ila rabbihim yuh'sharuna"
+}

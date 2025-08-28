@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "ayah": 64,
+    "surah": 4,
+    "words": 23,
+    "numberInQuran": 557,
+    "juz": 5,
+    "manzil": 1,
+    "page": 88,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11062,
+      "word_number_in_surah": 1436,
+      "word_surah": 4,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَرۡسَلۡنَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11063,
+      "word_number_in_surah": 1437,
+      "word_surah": 4,
+      "word_translation": "We sent",
+      "word_transliteration": "arsalna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 64,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11064,
+      "word_number_in_surah": 1438,
+      "word_surah": 4,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّسُولٍ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11065,
+      "word_number_in_surah": 1439,
+      "word_surah": 4,
+      "word_translation": "Messenger",
+      "word_transliteration": "rasulin"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11066,
+      "word_number_in_surah": 1440,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "لِيُطَاعَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11067,
+      "word_number_in_surah": 1441,
+      "word_surah": 4,
+      "word_translation": "to be obeyed",
+      "word_transliteration": "liyuta'a"
+    },
+    {
+      "word_arabic": "بِإِذۡنِ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11068,
+      "word_number_in_surah": 1442,
+      "word_surah": 4,
+      "word_translation": "by (the) permission",
+      "word_transliteration": "bi-idh'ni"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11069,
+      "word_number_in_surah": 1443,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11070,
+      "word_number_in_surah": 1444,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَنَّهُمۡ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11071,
+      "word_number_in_surah": 1445,
+      "word_surah": 4,
+      "word_translation": "[that] they",
+      "word_transliteration": "annahum"
+    },
+    {
+      "word_arabic": "إِذ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11072,
+      "word_number_in_surah": 1446,
+      "word_surah": 4,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "ظَّلَمُوٓاْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11073,
+      "word_number_in_surah": 1447,
+      "word_surah": 4,
+      "word_translation": "they wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11074,
+      "word_number_in_surah": 1448,
+      "word_surah": 4,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "جَآءُوكَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11075,
+      "word_number_in_surah": 1449,
+      "word_surah": 4,
+      "word_translation": "(had) come to you",
+      "word_transliteration": "jauka"
+    },
+    {
+      "word_arabic": "فَٱسۡتَغۡفَرُواْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11076,
+      "word_number_in_surah": 1450,
+      "word_surah": 4,
+      "word_translation": "and asked forgiveness",
+      "word_transliteration": "fa-is'taghfaru"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11077,
+      "word_number_in_surah": 1451,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٱسۡتَغۡفَرَ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11078,
+      "word_number_in_surah": 1452,
+      "word_surah": 4,
+      "word_translation": "and asked forgiveness",
+      "word_transliteration": "wa-is'taghfara"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11079,
+      "word_number_in_surah": 1453,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولُ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11080,
+      "word_number_in_surah": 1454,
+      "word_surah": 4,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasulu"
+    },
+    {
+      "word_arabic": "لَوَجَدُواْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11081,
+      "word_number_in_surah": 1455,
+      "word_surah": 4,
+      "word_translation": "surely they would have found",
+      "word_transliteration": "lawajadu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11082,
+      "word_number_in_surah": 1456,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "تَوَّابٗا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11083,
+      "word_number_in_surah": 1457,
+      "word_surah": 4,
+      "word_translation": "Oft-Forgiving",
+      "word_transliteration": "tawwaban"
+    },
+    {
+      "word_arabic": "رَّحِيمٗا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11084,
+      "word_number_in_surah": 1458,
+      "word_surah": 4,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahiman"
+    }
+  ],
+  "fullArabic": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
+  "fullTranslation": "And We did not send any messenger except to be obeyed by permission of Allah. And if, when they wronged themselves, they had come to you, [O Muhammad], and asked forgiveness of Allah and the Messenger had asked forgiveness for them, they would have found Allah Accepting of repentance and Merciful.",
+  "fullTransliteration": "wama arsalna min rasulin illa liyuta'a bi-idh'ni al-lahi walaw annahum idh zalamu anfusahum jauka fa-is'taghfaru al-laha wa-is'taghfara lahumu al-rasulu lawajadu al-laha tawwaban rahiman"
+}

@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "ayah": 47,
+    "surah": 4,
+    "words": 28,
+    "numberInQuran": 540,
+    "juz": 5,
+    "manzil": 1,
+    "page": 86,
+    "ruku": 68,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10750,
+      "word_number_in_surah": 1124,
+      "word_surah": 4,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10751,
+      "word_number_in_surah": 1125,
+      "word_surah": 4,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10752,
+      "word_number_in_surah": 1126,
+      "word_surah": 4,
+      "word_translation": "(have) been given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10753,
+      "word_number_in_surah": 1127,
+      "word_surah": 4,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "ءَامِنُواْ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10754,
+      "word_number_in_surah": 1128,
+      "word_surah": 4,
+      "word_translation": "believe",
+      "word_transliteration": "aminu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10755,
+      "word_number_in_surah": 1129,
+      "word_surah": 4,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "نَزَّلۡنَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10756,
+      "word_number_in_surah": 1130,
+      "word_surah": 4,
+      "word_translation": "We (have) revealed",
+      "word_transliteration": "nazzalna"
+    },
+    {
+      "word_arabic": "مُصَدِّقٗا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10757,
+      "word_number_in_surah": 1131,
+      "word_surah": 4,
+      "word_translation": "confirming",
+      "word_transliteration": "musaddiqan"
+    },
+    {
+      "word_arabic": "لِّمَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10758,
+      "word_number_in_surah": 1132,
+      "word_surah": 4,
+      "word_translation": "what is",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "مَعَكُم",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10759,
+      "word_number_in_surah": 1133,
+      "word_surah": 4,
+      "word_translation": "with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 47,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10760,
+      "word_number_in_surah": 1134,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10761,
+      "word_number_in_surah": 1135,
+      "word_surah": 4,
+      "word_translation": "before",
+      "word_transliteration": "qabli"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 47,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10762,
+      "word_number_in_surah": 1136,
+      "word_surah": 4,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "نَّطۡمِسَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10763,
+      "word_number_in_surah": 1137,
+      "word_surah": 4,
+      "word_translation": "We efface",
+      "word_transliteration": "natmisa"
+    },
+    {
+      "word_arabic": "وُجُوهٗا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10764,
+      "word_number_in_surah": 1138,
+      "word_surah": 4,
+      "word_translation": "faces",
+      "word_transliteration": "wujuhan"
+    },
+    {
+      "word_arabic": "فَنَرُدَّهَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10765,
+      "word_number_in_surah": 1139,
+      "word_surah": 4,
+      "word_translation": "and turn them",
+      "word_transliteration": "fanaruddaha"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10766,
+      "word_number_in_surah": 1140,
+      "word_surah": 4,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَدۡبَارِهَآ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10767,
+      "word_number_in_surah": 1141,
+      "word_surah": 4,
+      "word_translation": "their backs",
+      "word_transliteration": "adbariha"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10768,
+      "word_number_in_surah": 1142,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "نَلۡعَنَهُمۡ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10769,
+      "word_number_in_surah": 1143,
+      "word_surah": 4,
+      "word_translation": "We curse them",
+      "word_transliteration": "nal'anahum"
+    },
+    {
+      "word_arabic": "كَمَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 10770,
+      "word_number_in_surah": 1144,
+      "word_surah": 4,
+      "word_translation": "as",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "لَعَنَّآ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 10771,
+      "word_number_in_surah": 1145,
+      "word_surah": 4,
+      "word_translation": "We cursed",
+      "word_transliteration": "la'anna"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 10772,
+      "word_number_in_surah": 1146,
+      "word_surah": 4,
+      "word_translation": "companions",
+      "word_transliteration": "ashaba"
+    },
+    {
+      "word_arabic": "ٱلسَّبۡتِۚ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 10773,
+      "word_number_in_surah": 1147,
+      "word_surah": 4,
+      "word_translation": "(of) the Sabbath",
+      "word_transliteration": "al-sabti"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 10774,
+      "word_number_in_surah": 1148,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "أَمۡرُ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 10775,
+      "word_number_in_surah": 1149,
+      "word_surah": 4,
+      "word_translation": "(the) command",
+      "word_transliteration": "amru"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 10776,
+      "word_number_in_surah": 1150,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَفۡعُولًا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 10777,
+      "word_number_in_surah": 1151,
+      "word_surah": 4,
+      "word_translation": "(always) executed",
+      "word_transliteration": "maf'ulan"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ ءَامِنُواْ بِمَا نَزَّلۡنَا مُصَدِّقٗا لِّمَا مَعَكُم مِّن قَبۡلِ أَن نَّطۡمِسَ وُجُوهٗا فَنَرُدَّهَا عَلَىٰٓ أَدۡبَارِهَآ أَوۡ نَلۡعَنَهُمۡ كَمَا لَعَنَّآ أَصۡحَٰبَ ٱلسَّبۡتِۚ وَكَانَ أَمۡرُ ٱللَّهِ مَفۡعُولًا",
+  "fullTranslation": "O you who were given the Scripture, believe in what We have sent down [to Muhammad], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers. And ever is the decree of Allah accomplished.",
+  "fullTransliteration": "yaayyuha alladhina utu al-kitaba aminu bima nazzalna musaddiqan lima ma'akum min qabli an natmisa wujuhan fanaruddaha ala adbariha aw nal'anahum kama la'anna ashaba al-sabti wakana amru al-lahi maf'ulan"
+}

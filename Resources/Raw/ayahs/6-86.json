@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 86,
+    "surah": 6,
+    "words": 8,
+    "numberInQuran": 875,
+    "juz": 7,
+    "manzil": 2,
+    "page": 138,
+    "ruku": 111,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِسۡمَٰعِيلَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17607,
+      "word_number_in_surah": 1430,
+      "word_surah": 6,
+      "word_translation": "And Ismail",
+      "word_transliteration": "wa-is'ma'ila"
+    },
+    {
+      "word_arabic": "وَٱلۡيَسَعَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17608,
+      "word_number_in_surah": 1431,
+      "word_surah": 6,
+      "word_translation": "and Al-Yasaa",
+      "word_transliteration": "wal-yasa'a"
+    },
+    {
+      "word_arabic": "وَيُونُسَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17609,
+      "word_number_in_surah": 1432,
+      "word_surah": 6,
+      "word_translation": "and Yunus",
+      "word_transliteration": "wayunusa"
+    },
+    {
+      "word_arabic": "وَلُوطٗاۚ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17610,
+      "word_number_in_surah": 1433,
+      "word_surah": 6,
+      "word_translation": "and Lut",
+      "word_transliteration": "walutan"
+    },
+    {
+      "word_arabic": "وَكُلّٗا",
+      "word_ayah": 86,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17611,
+      "word_number_in_surah": 1434,
+      "word_surah": 6,
+      "word_translation": "and all",
+      "word_transliteration": "wakullan"
+    },
+    {
+      "word_arabic": "فَضَّلۡنَا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17612,
+      "word_number_in_surah": 1435,
+      "word_surah": 6,
+      "word_translation": "We preferred",
+      "word_transliteration": "faddalna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17613,
+      "word_number_in_surah": 1436,
+      "word_surah": 6,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17614,
+      "word_number_in_surah": 1437,
+      "word_surah": 6,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "وَإِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَيُونُسَ وَلُوطٗاۚ وَكُلّٗا فَضَّلۡنَا عَلَى ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds.",
+  "fullTransliteration": "wa-is'ma'ila wal-yasa'a wayunusa walutan wakullan faddalna ala al-'alamina"
+}

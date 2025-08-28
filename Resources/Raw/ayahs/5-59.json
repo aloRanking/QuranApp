@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "ayah": 59,
+    "surah": 5,
+    "words": 20,
+    "numberInQuran": 728,
+    "juz": 6,
+    "manzil": 2,
+    "page": 118,
+    "ruku": 94,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14836,
+      "word_number_in_surah": 1463,
+      "word_surah": 5,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14837,
+      "word_number_in_surah": 1464,
+      "word_surah": 5,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14838,
+      "word_number_in_surah": 1465,
+      "word_surah": 5,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "هَلۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14839,
+      "word_number_in_surah": 1466,
+      "word_surah": 5,
+      "word_translation": "Do",
+      "word_transliteration": "hal"
+    },
+    {
+      "word_arabic": "تَنقِمُونَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14840,
+      "word_number_in_surah": 1467,
+      "word_surah": 5,
+      "word_translation": "you resent",
+      "word_transliteration": "tanqimuna"
+    },
+    {
+      "word_arabic": "مِنَّآ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14841,
+      "word_number_in_surah": 1468,
+      "word_surah": 5,
+      "word_translation": "[of] us",
+      "word_transliteration": "minna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14842,
+      "word_number_in_surah": 1469,
+      "word_surah": 5,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14843,
+      "word_number_in_surah": 1470,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14844,
+      "word_number_in_surah": 1471,
+      "word_surah": 5,
+      "word_translation": "we believe",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14845,
+      "word_number_in_surah": 1472,
+      "word_surah": 5,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14846,
+      "word_number_in_surah": 1473,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14847,
+      "word_number_in_surah": 1474,
+      "word_surah": 5,
+      "word_translation": "has been revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡنَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14848,
+      "word_number_in_surah": 1475,
+      "word_surah": 5,
+      "word_translation": "to us",
+      "word_transliteration": "ilayna"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14849,
+      "word_number_in_surah": 1476,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14850,
+      "word_number_in_surah": 1477,
+      "word_surah": 5,
+      "word_translation": "was revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 59,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14851,
+      "word_number_in_surah": 1478,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 14852,
+      "word_number_in_surah": 1479,
+      "word_surah": 5,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 14853,
+      "word_number_in_surah": 1480,
+      "word_surah": 5,
+      "word_translation": "and that",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "أَكۡثَرَكُمۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 14854,
+      "word_number_in_surah": 1481,
+      "word_surah": 5,
+      "word_translation": "most of you",
+      "word_transliteration": "aktharakum"
+    },
+    {
+      "word_arabic": "فَٰسِقُونَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 14855,
+      "word_number_in_surah": 1482,
+      "word_surah": 5,
+      "word_translation": "(are) defiantly disobedient",
+      "word_transliteration": "fasiquna"
+    }
+  ],
+  "fullArabic": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ هَلۡ تَنقِمُونَ مِنَّآ إِلَّآ أَنۡ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيۡنَا وَمَآ أُنزِلَ مِن قَبۡلُ وَأَنَّ أَكۡثَرَكُمۡ فَٰسِقُونَ",
+  "fullTranslation": "Say, \"O People of the Scripture, do you resent us except [for the fact] that we have believed in Allah and what was revealed to us and what was revealed before and because most of you are defiantly disobedient?\"",
+  "fullTransliteration": "qul yaahla al-kitabi hal tanqimuna minna illa an amanna bil-lahi wama unzila ilayna wama unzila min qablu wa-anna aktharakum fasiquna"
+}

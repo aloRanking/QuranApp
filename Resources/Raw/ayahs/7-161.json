@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "ayah": 161,
+    "surah": 7,
+    "words": 20,
+    "numberInQuran": 1115,
+    "juz": 9,
+    "manzil": 2,
+    "page": 171,
+    "ruku": 141,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21822,
+      "word_number_in_surah": 2595,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قِيلَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21823,
+      "word_number_in_surah": 2596,
+      "word_surah": 7,
+      "word_translation": "it was said",
+      "word_transliteration": "qila"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21824,
+      "word_number_in_surah": 2597,
+      "word_surah": 7,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱسۡكُنُواْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21825,
+      "word_number_in_surah": 2598,
+      "word_surah": 7,
+      "word_translation": "Live",
+      "word_transliteration": "us'kunu"
+    },
+    {
+      "word_arabic": "هَٰذِهِ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21826,
+      "word_number_in_surah": 2599,
+      "word_surah": 7,
+      "word_translation": "(in) this",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "ٱلۡقَرۡيَةَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21827,
+      "word_number_in_surah": 2600,
+      "word_surah": 7,
+      "word_translation": "city",
+      "word_transliteration": "al-qaryata"
+    },
+    {
+      "word_arabic": "وَكُلُواْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21828,
+      "word_number_in_surah": 2601,
+      "word_surah": 7,
+      "word_translation": "and eat",
+      "word_transliteration": "wakulu"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21829,
+      "word_number_in_surah": 2602,
+      "word_surah": 7,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21830,
+      "word_number_in_surah": 2603,
+      "word_surah": 7,
+      "word_translation": "wherever",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "شِئۡتُمۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21831,
+      "word_number_in_surah": 2604,
+      "word_surah": 7,
+      "word_translation": "you wish",
+      "word_transliteration": "shi'tum"
+    },
+    {
+      "word_arabic": "وَقُولُواْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21832,
+      "word_number_in_surah": 2605,
+      "word_surah": 7,
+      "word_translation": "and say",
+      "word_transliteration": "waqulu"
+    },
+    {
+      "word_arabic": "حِطَّةٞ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21833,
+      "word_number_in_surah": 2606,
+      "word_surah": 7,
+      "word_translation": "Repentance",
+      "word_transliteration": "hittatun"
+    },
+    {
+      "word_arabic": "وَٱدۡخُلُواْ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21834,
+      "word_number_in_surah": 2607,
+      "word_surah": 7,
+      "word_translation": "and enter",
+      "word_transliteration": "wa-ud'khulu"
+    },
+    {
+      "word_arabic": "ٱلۡبَابَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21835,
+      "word_number_in_surah": 2608,
+      "word_surah": 7,
+      "word_translation": "the gate",
+      "word_transliteration": "al-baba"
+    },
+    {
+      "word_arabic": "سُجَّدٗا",
+      "word_ayah": 161,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21836,
+      "word_number_in_surah": 2609,
+      "word_surah": 7,
+      "word_translation": "prostrating",
+      "word_transliteration": "sujjadan"
+    },
+    {
+      "word_arabic": "نَّغۡفِرۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21837,
+      "word_number_in_surah": 2610,
+      "word_surah": 7,
+      "word_translation": "We will forgive",
+      "word_transliteration": "naghfir"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21838,
+      "word_number_in_surah": 2611,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "خَطِيٓـَٰٔتِكُمۡۚ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21839,
+      "word_number_in_surah": 2612,
+      "word_surah": 7,
+      "word_translation": "your sins",
+      "word_transliteration": "khatiatikum"
+    },
+    {
+      "word_arabic": "سَنَزِيدُ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21840,
+      "word_number_in_surah": 2613,
+      "word_surah": 7,
+      "word_translation": "We will increase (reward)",
+      "word_transliteration": "sanazidu"
+    },
+    {
+      "word_arabic": "ٱلۡمُحۡسِنِينَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21841,
+      "word_number_in_surah": 2614,
+      "word_surah": 7,
+      "word_translation": "(of) the good-doers",
+      "word_transliteration": "al-muh'sinina"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قِيلَ لَهُمُ ٱسۡكُنُواْ هَٰذِهِ ٱلۡقَرۡيَةَ وَكُلُواْ مِنۡهَا حَيۡثُ شِئۡتُمۡ وَقُولُواْ حِطَّةٞ وَٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا نَّغۡفِرۡ لَكُمۡ خَطِيٓـَٰٔتِكُمۡۚ سَنَزِيدُ ٱلۡمُحۡسِنِينَ",
+  "fullTranslation": "And [mention, O Muhammad], when it was said to them, \"Dwell in this city and eat from it wherever you will and say, 'Relieve us of our burdens,' and enter the gate bowing humbly; We will [then] forgive you your sins. We will increase the doers of good [in goodness and reward].\"",
+  "fullTransliteration": "wa-idh qila lahumu us'kunu hadhihi al-qaryata wakulu min'ha haythu shi'tum waqulu hittatun wa-ud'khulu al-baba sujjadan naghfir lakum khatiatikum sanazidu al-muh'sinina"
+}

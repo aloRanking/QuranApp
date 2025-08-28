@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "ayah": 45,
+    "surah": 3,
+    "words": 20,
+    "numberInQuran": 338,
+    "juz": 3,
+    "manzil": 1,
+    "page": 55,
+    "ruku": 46,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6914,
+      "word_number_in_surah": 769,
+      "word_surah": 3,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "قَالَتِ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6915,
+      "word_number_in_surah": 770,
+      "word_surah": 3,
+      "word_translation": "said",
+      "word_transliteration": "qalati"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6916,
+      "word_number_in_surah": 771,
+      "word_surah": 3,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikatu"
+    },
+    {
+      "word_arabic": "يَٰمَرۡيَمُ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6917,
+      "word_number_in_surah": 772,
+      "word_surah": 3,
+      "word_translation": "O Maryam!",
+      "word_transliteration": "yamaryamu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6918,
+      "word_number_in_surah": 773,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6919,
+      "word_number_in_surah": 774,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يُبَشِّرُكِ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6920,
+      "word_number_in_surah": 775,
+      "word_surah": 3,
+      "word_translation": "gives you glad tidings",
+      "word_transliteration": "yubashiruki"
+    },
+    {
+      "word_arabic": "بِكَلِمَةٖ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6921,
+      "word_number_in_surah": 776,
+      "word_surah": 3,
+      "word_translation": "of a word",
+      "word_transliteration": "bikalimatin"
+    },
+    {
+      "word_arabic": "مِّنۡهُ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6922,
+      "word_number_in_surah": 777,
+      "word_surah": 3,
+      "word_translation": "from Him",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "ٱسۡمُهُ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6923,
+      "word_number_in_surah": 778,
+      "word_surah": 3,
+      "word_translation": "his name",
+      "word_transliteration": "us'muhu"
+    },
+    {
+      "word_arabic": "ٱلۡمَسِيحُ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6924,
+      "word_number_in_surah": 779,
+      "word_surah": 3,
+      "word_translation": "(is) the Messiah",
+      "word_transliteration": "al-masihu"
+    },
+    {
+      "word_arabic": "عِيسَى",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6925,
+      "word_number_in_surah": 780,
+      "word_surah": 3,
+      "word_translation": "Isa",
+      "word_transliteration": "isa"
+    },
+    {
+      "word_arabic": "ٱبۡنُ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6926,
+      "word_number_in_surah": 781,
+      "word_surah": 3,
+      "word_translation": "son",
+      "word_transliteration": "ub'nu"
+    },
+    {
+      "word_arabic": "مَرۡيَمَ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6927,
+      "word_number_in_surah": 782,
+      "word_surah": 3,
+      "word_translation": "(of) Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "وَجِيهٗا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6928,
+      "word_number_in_surah": 783,
+      "word_surah": 3,
+      "word_translation": "honored",
+      "word_transliteration": "wajihan"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6929,
+      "word_number_in_surah": 784,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6930,
+      "word_number_in_surah": 785,
+      "word_surah": 3,
+      "word_translation": "the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَٱلۡأٓخِرَةِ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6931,
+      "word_number_in_surah": 786,
+      "word_surah": 3,
+      "word_translation": "and (in) the Hereafter",
+      "word_transliteration": "wal-akhirati"
+    },
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6932,
+      "word_number_in_surah": 787,
+      "word_surah": 3,
+      "word_translation": "and of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلۡمُقَرَّبِينَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6933,
+      "word_number_in_surah": 788,
+      "word_surah": 3,
+      "word_translation": "those brought near (to Allah)",
+      "word_transliteration": "al-muqarabina"
+    }
+  ],
+  "fullArabic": "إِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٖ مِّنۡهُ ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَى ٱبۡنُ مَرۡيَمَ وَجِيهٗا فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَمِنَ ٱلۡمُقَرَّبِينَ",
+  "fullTranslation": "[And mention] when the angels said, \"O Mary, indeed Allah gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allah].",
+  "fullTransliteration": "idh qalati al-malaikatu yamaryamu inna al-laha yubashiruki bikalimatin min'hu us'muhu al-masihu isa ub'nu maryama wajihan fi al-dun'ya wal-akhirati wamina al-muqarabina"
+}

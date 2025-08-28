@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 66,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 73,
+    "juz": 1,
+    "manzil": 1,
+    "page": 10,
+    "ruku": 9,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَجَعَلۡنَٰهَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1028,
+      "word_number_in_surah": 999,
+      "word_surah": 2,
+      "word_translation": "So We made it",
+      "word_transliteration": "faja'alnaha"
+    },
+    {
+      "word_arabic": "نَكَٰلٗا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1029,
+      "word_number_in_surah": 1000,
+      "word_surah": 2,
+      "word_translation": "a deterrent punishment",
+      "word_transliteration": "nakalan"
+    },
+    {
+      "word_arabic": "لِّمَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1030,
+      "word_number_in_surah": 1001,
+      "word_surah": 2,
+      "word_translation": "for those",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1031,
+      "word_number_in_surah": 1002,
+      "word_surah": 2,
+      "word_translation": "(in) front",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "يَدَيۡهَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1032,
+      "word_number_in_surah": 1003,
+      "word_surah": 2,
+      "word_translation": "(of) them",
+      "word_transliteration": "yadayha"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1033,
+      "word_number_in_surah": 1004,
+      "word_surah": 2,
+      "word_translation": "and those",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "خَلۡفَهَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1034,
+      "word_number_in_surah": 1005,
+      "word_surah": 2,
+      "word_translation": "after them",
+      "word_transliteration": "khalfaha"
+    },
+    {
+      "word_arabic": "وَمَوۡعِظَةٗ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1035,
+      "word_number_in_surah": 1006,
+      "word_surah": 2,
+      "word_translation": "and an admonition",
+      "word_transliteration": "wamaw'izatan"
+    },
+    {
+      "word_arabic": "لِّلۡمُتَّقِينَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1036,
+      "word_number_in_surah": 1007,
+      "word_surah": 2,
+      "word_translation": "for those who fear (Allah)",
+      "word_transliteration": "lil'muttaqina"
+    }
+  ],
+  "fullArabic": "فَجَعَلۡنَٰهَا نَكَٰلٗا لِّمَا بَيۡنَ يَدَيۡهَا وَمَا خَلۡفَهَا وَمَوۡعِظَةٗ لِّلۡمُتَّقِينَ",
+  "fullTranslation": "And We made it a deterrent punishment for those who were present and those who succeeded [them] and a lesson for those who fear Allah.",
+  "fullTransliteration": "faja'alnaha nakalan lima bayna yadayha wama khalfaha wamaw'izatan lil'muttaqina"
+}

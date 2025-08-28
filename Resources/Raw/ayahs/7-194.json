@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 194,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1148,
+    "juz": 9,
+    "manzil": 2,
+    "page": 175,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22383,
+      "word_number_in_surah": 3156,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22384,
+      "word_number_in_surah": 3157,
+      "word_surah": 7,
+      "word_translation": "those whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "تَدۡعُونَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22385,
+      "word_number_in_surah": 3158,
+      "word_surah": 7,
+      "word_translation": "you call",
+      "word_transliteration": "tad'una"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 194,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22386,
+      "word_number_in_surah": 3159,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22387,
+      "word_number_in_surah": 3160,
+      "word_surah": 7,
+      "word_translation": "besides",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22388,
+      "word_number_in_surah": 3161,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عِبَادٌ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22389,
+      "word_number_in_surah": 3162,
+      "word_surah": 7,
+      "word_translation": "(are) slaves",
+      "word_transliteration": "ibadun"
+    },
+    {
+      "word_arabic": "أَمۡثَالُكُمۡۖ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22390,
+      "word_number_in_surah": 3163,
+      "word_surah": 7,
+      "word_translation": "like you",
+      "word_transliteration": "amthalukum"
+    },
+    {
+      "word_arabic": "فَٱدۡعُوهُمۡ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22391,
+      "word_number_in_surah": 3164,
+      "word_surah": 7,
+      "word_translation": "So invoke them",
+      "word_transliteration": "fa-id'uhum"
+    },
+    {
+      "word_arabic": "فَلۡيَسۡتَجِيبُواْ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22392,
+      "word_number_in_surah": 3165,
+      "word_surah": 7,
+      "word_translation": "and let them respond",
+      "word_transliteration": "falyastajibu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22393,
+      "word_number_in_surah": 3166,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 194,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22394,
+      "word_number_in_surah": 3167,
+      "word_surah": 7,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22395,
+      "word_number_in_surah": 3168,
+      "word_surah": 7,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "صَٰدِقِينَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22396,
+      "word_number_in_surah": 3169,
+      "word_surah": 7,
+      "word_translation": "truthful",
+      "word_transliteration": "sadiqina"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمۡثَالُكُمۡۖ فَٱدۡعُوهُمۡ فَلۡيَسۡتَجِيبُواْ لَكُمۡ إِن كُنتُمۡ صَٰدِقِينَ",
+  "fullTranslation": "Indeed, those you [polytheists] call upon besides Allah are servants like you. So call upon them and let them respond to you, if you should be truthful.",
+  "fullTransliteration": "inna alladhina tad'una min duni al-lahi ibadun amthalukum fa-id'uhum falyastajibu lakum in kuntum sadiqina"
+}

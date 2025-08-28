@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 174,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 467,
+    "juz": 4,
+    "manzil": 1,
+    "page": 73,
+    "ruku": 59,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَٱنقَلَبُواْ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9121,
+      "word_number_in_surah": 2976,
+      "word_surah": 3,
+      "word_translation": "So they returned",
+      "word_transliteration": "fa-inqalabu"
+    },
+    {
+      "word_arabic": "بِنِعۡمَةٖ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9122,
+      "word_number_in_surah": 2977,
+      "word_surah": 3,
+      "word_translation": "with (the) Favor",
+      "word_transliteration": "bini'matin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 174,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9123,
+      "word_number_in_surah": 2978,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9124,
+      "word_number_in_surah": 2979,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَفَضۡلٖ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9125,
+      "word_number_in_surah": 2980,
+      "word_surah": 3,
+      "word_translation": "and Bounty",
+      "word_transliteration": "wafadlin"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 174,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9126,
+      "word_number_in_surah": 2981,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَمۡسَسۡهُمۡ",
+      "word_ayah": 174,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9127,
+      "word_number_in_surah": 2982,
+      "word_surah": 3,
+      "word_translation": "touched them",
+      "word_transliteration": "yamsashum"
+    },
+    {
+      "word_arabic": "سُوٓءٞ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9128,
+      "word_number_in_surah": 2983,
+      "word_surah": 3,
+      "word_translation": "any harm",
+      "word_transliteration": "suon"
+    },
+    {
+      "word_arabic": "وَٱتَّبَعُواْ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9129,
+      "word_number_in_surah": 2984,
+      "word_surah": 3,
+      "word_translation": "And they followed",
+      "word_transliteration": "wa-ittaba'u"
+    },
+    {
+      "word_arabic": "رِضۡوَٰنَ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9130,
+      "word_number_in_surah": 2985,
+      "word_surah": 3,
+      "word_translation": "(the) pleasure",
+      "word_transliteration": "rid'wana"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9131,
+      "word_number_in_surah": 2986,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 174,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9132,
+      "word_number_in_surah": 2987,
+      "word_surah": 3,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "ذُو",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9133,
+      "word_number_in_surah": 2988,
+      "word_surah": 3,
+      "word_translation": "(is) Possessor",
+      "word_transliteration": "dhu"
+    },
+    {
+      "word_arabic": "فَضۡلٍ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9134,
+      "word_number_in_surah": 2989,
+      "word_surah": 3,
+      "word_translation": "(of) Bounty",
+      "word_transliteration": "fadlin"
+    },
+    {
+      "word_arabic": "عَظِيمٍ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9135,
+      "word_number_in_surah": 2990,
+      "word_surah": 3,
+      "word_translation": "great",
+      "word_transliteration": "azimin"
+    }
+  ],
+  "fullArabic": "فَٱنقَلَبُواْ بِنِعۡمَةٖ مِّنَ ٱللَّهِ وَفَضۡلٖ لَّمۡ يَمۡسَسۡهُمۡ سُوٓءٞ وَٱتَّبَعُواْ رِضۡوَٰنَ ٱللَّهِۗ وَٱللَّهُ ذُو فَضۡلٍ عَظِيمٍ",
+  "fullTranslation": "So they returned with favor from Allah and bounty, no harm having touched them. And they pursued the pleasure of Allah, and Allah is the possessor of great bounty.",
+  "fullTransliteration": "fa-inqalabu bini'matin mina al-lahi wafadlin lam yamsashum suon wa-ittaba'u rid'wana al-lahi wal-lahu dhu fadlin azimin"
+}

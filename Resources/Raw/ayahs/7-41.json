@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ayah": 41,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 995,
+    "juz": 8,
+    "manzil": 2,
+    "page": 155,
+    "ruku": 126,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَهُم",
+      "word_ayah": 41,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19842,
+      "word_number_in_surah": 615,
+      "word_surah": 7,
+      "word_translation": "For them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 41,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19843,
+      "word_number_in_surah": 616,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "جَهَنَّمَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19844,
+      "word_number_in_surah": 617,
+      "word_surah": 7,
+      "word_translation": "(the) Hell",
+      "word_transliteration": "jahannama"
+    },
+    {
+      "word_arabic": "مِهَادٞ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19845,
+      "word_number_in_surah": 618,
+      "word_surah": 7,
+      "word_translation": "(is) a bed",
+      "word_transliteration": "mihadun"
+    },
+    {
+      "word_arabic": "وَمِن",
+      "word_ayah": 41,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19846,
+      "word_number_in_surah": 619,
+      "word_surah": 7,
+      "word_translation": "and from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "فَوۡقِهِمۡ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19847,
+      "word_number_in_surah": 620,
+      "word_surah": 7,
+      "word_translation": "over them",
+      "word_transliteration": "fawqihim"
+    },
+    {
+      "word_arabic": "غَوَاشٖۚ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19848,
+      "word_number_in_surah": 621,
+      "word_surah": 7,
+      "word_translation": "coverings",
+      "word_transliteration": "ghawashin"
+    },
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19849,
+      "word_number_in_surah": 622,
+      "word_surah": 7,
+      "word_translation": "And thus",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "نَجۡزِي",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19850,
+      "word_number_in_surah": 623,
+      "word_surah": 7,
+      "word_translation": "We recompense",
+      "word_transliteration": "najzi"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19851,
+      "word_number_in_surah": 624,
+      "word_surah": 7,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "لَهُم مِّن جَهَنَّمَ مِهَادٞ وَمِن فَوۡقِهِمۡ غَوَاشٖۚ وَكَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+  "fullTranslation": "They will have from Hell a bed and over them coverings [of fire]. And thus do We recompense the wrongdoers.",
+  "fullTransliteration": "lahum min jahannama mihadun wamin fawqihim ghawashin wakadhalika najzi al-zalimina"
+}

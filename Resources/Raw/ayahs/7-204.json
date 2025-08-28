@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 204,
+    "surah": 7,
+    "words": 8,
+    "numberInQuran": 1158,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22513,
+      "word_number_in_surah": 3286,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "قُرِئَ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22514,
+      "word_number_in_surah": 3287,
+      "word_surah": 7,
+      "word_translation": "is recited",
+      "word_transliteration": "quri-a"
+    },
+    {
+      "word_arabic": "ٱلۡقُرۡءَانُ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22515,
+      "word_number_in_surah": 3288,
+      "word_surah": 7,
+      "word_translation": "the Quran",
+      "word_transliteration": "al-qur'anu"
+    },
+    {
+      "word_arabic": "فَٱسۡتَمِعُواْ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22516,
+      "word_number_in_surah": 3289,
+      "word_surah": 7,
+      "word_translation": "then listen",
+      "word_transliteration": "fa-is'tami'u"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22517,
+      "word_number_in_surah": 3290,
+      "word_surah": 7,
+      "word_translation": "to it",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "وَأَنصِتُواْ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22518,
+      "word_number_in_surah": 3291,
+      "word_surah": 7,
+      "word_translation": "and pay attention",
+      "word_transliteration": "wa-ansitu"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22519,
+      "word_number_in_surah": 3292,
+      "word_surah": 7,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تُرۡحَمُونَ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22520,
+      "word_number_in_surah": 3293,
+      "word_surah": 7,
+      "word_translation": "receive mercy",
+      "word_transliteration": "tur'hamuna"
+    }
+  ],
+  "fullArabic": "وَإِذَا قُرِئَ ٱلۡقُرۡءَانُ فَٱسۡتَمِعُواْ لَهُۥ وَأَنصِتُواْ لَعَلَّكُمۡ تُرۡحَمُونَ",
+  "fullTranslation": "So when the Qur'an is recited, then listen to it and pay attention that you may receive mercy.",
+  "fullTransliteration": "wa-idha quri-a al-qur'anu fa-is'tami'u lahu wa-ansitu la'allakum tur'hamuna"
+}

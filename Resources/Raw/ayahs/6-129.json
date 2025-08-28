@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "ayah": 129,
+    "surah": 6,
+    "words": 8,
+    "numberInQuran": 918,
+    "juz": 8,
+    "manzil": 2,
+    "page": 144,
+    "ruku": 116,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18427,
+      "word_number_in_surah": 2250,
+      "word_surah": 6,
+      "word_translation": "And thus",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "نُوَلِّي",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18428,
+      "word_number_in_surah": 2251,
+      "word_surah": 6,
+      "word_translation": "We make friends",
+      "word_transliteration": "nuwalli"
+    },
+    {
+      "word_arabic": "بَعۡضَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18429,
+      "word_number_in_surah": 2252,
+      "word_surah": 6,
+      "word_translation": "some (of)",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18430,
+      "word_number_in_surah": 2253,
+      "word_surah": 6,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    },
+    {
+      "word_arabic": "بَعۡضَۢا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18431,
+      "word_number_in_surah": 2254,
+      "word_surah": 6,
+      "word_translation": "(to) others",
+      "word_transliteration": "ba'dan"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18432,
+      "word_number_in_surah": 2255,
+      "word_surah": 6,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18433,
+      "word_number_in_surah": 2256,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَكۡسِبُونَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18434,
+      "word_number_in_surah": 2257,
+      "word_surah": 6,
+      "word_translation": "earn",
+      "word_transliteration": "yaksibuna"
+    }
+  ],
+  "fullArabic": "وَكَذَٰلِكَ نُوَلِّي بَعۡضَ ٱلظَّٰلِمِينَ بَعۡضَۢا بِمَا كَانُواْ يَكۡسِبُونَ",
+  "fullTranslation": "And thus will We make some of the wrongdoers allies of others for what they used to earn.",
+  "fullTransliteration": "wakadhalika nuwalli ba'da al-zalimina ba'dan bima kanu yaksibuna"
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 147,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 640,
+    "juz": 5,
+    "manzil": 1,
+    "page": 101,
+    "ruku": 82,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12797,
+      "word_number_in_surah": 3171,
+      "word_surah": 4,
+      "word_translation": "What",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَفۡعَلُ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12798,
+      "word_number_in_surah": 3172,
+      "word_surah": 4,
+      "word_translation": "would do",
+      "word_transliteration": "yaf 'alu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12799,
+      "word_number_in_surah": 3173,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِعَذَابِكُمۡ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12800,
+      "word_number_in_surah": 3174,
+      "word_surah": 4,
+      "word_translation": "by punishing you",
+      "word_transliteration": "bi'adhabikum"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 147,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12801,
+      "word_number_in_surah": 3175,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "شَكَرۡتُمۡ",
+      "word_ayah": 147,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12802,
+      "word_number_in_surah": 3176,
+      "word_surah": 4,
+      "word_translation": "you are grateful",
+      "word_transliteration": "shakartum"
+    },
+    {
+      "word_arabic": "وَءَامَنتُمۡۚ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12803,
+      "word_number_in_surah": 3177,
+      "word_surah": 4,
+      "word_translation": "and you believe",
+      "word_transliteration": "waamantum"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12804,
+      "word_number_in_surah": 3178,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12805,
+      "word_number_in_surah": 3179,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "شَاكِرًا",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12806,
+      "word_number_in_surah": 3180,
+      "word_surah": 4,
+      "word_translation": "All-Appreciative",
+      "word_transliteration": "shakiran"
+    },
+    {
+      "word_arabic": "عَلِيمٗا",
+      "word_ayah": 147,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12807,
+      "word_number_in_surah": 3181,
+      "word_surah": 4,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "aliman"
+    }
+  ],
+  "fullArabic": "مَّا يَفۡعَلُ ٱللَّهُ بِعَذَابِكُمۡ إِن شَكَرۡتُمۡ وَءَامَنتُمۡۚ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمٗا",
+  "fullTranslation": "What would Allah do with your punishment if you are grateful and believe? And ever is Allah Appreciative and Knowing.",
+  "fullTransliteration": "ma yaf 'alu al-lahu bi'adhabikum in shakartum waamantum wakana al-lahu shakiran aliman"
+}

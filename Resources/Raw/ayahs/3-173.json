@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 173,
+    "surah": 3,
+    "words": 17,
+    "numberInQuran": 466,
+    "juz": 4,
+    "manzil": 1,
+    "page": 72,
+    "ruku": 59,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9104,
+      "word_number_in_surah": 2959,
+      "word_surah": 3,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9105,
+      "word_number_in_surah": 2960,
+      "word_surah": 3,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9106,
+      "word_number_in_surah": 2961,
+      "word_surah": 3,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9107,
+      "word_number_in_surah": 2962,
+      "word_surah": 3,
+      "word_translation": "[the people]",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9108,
+      "word_number_in_surah": 2963,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9109,
+      "word_number_in_surah": 2964,
+      "word_surah": 3,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasa"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9110,
+      "word_number_in_surah": 2965,
+      "word_surah": 3,
+      "word_translation": "(have) certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "جَمَعُواْ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9111,
+      "word_number_in_surah": 2966,
+      "word_surah": 3,
+      "word_translation": "gathered",
+      "word_transliteration": "jama'u"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9112,
+      "word_number_in_surah": 2967,
+      "word_surah": 3,
+      "word_translation": "against you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فَٱخۡشَوۡهُمۡ",
+      "word_ayah": 173,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9113,
+      "word_number_in_surah": 2968,
+      "word_surah": 3,
+      "word_translation": "so fear them",
+      "word_transliteration": "fa-ikh'shawhum"
+    },
+    {
+      "word_arabic": "فَزَادَهُمۡ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9114,
+      "word_number_in_surah": 2969,
+      "word_surah": 3,
+      "word_translation": "But it increased them",
+      "word_transliteration": "fazadahum"
+    },
+    {
+      "word_arabic": "إِيمَٰنٗا",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9115,
+      "word_number_in_surah": 2970,
+      "word_surah": 3,
+      "word_translation": "(in the) faith",
+      "word_transliteration": "imanan"
+    },
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9116,
+      "word_number_in_surah": 2971,
+      "word_surah": 3,
+      "word_translation": "and they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "حَسۡبُنَا",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9117,
+      "word_number_in_surah": 2972,
+      "word_surah": 3,
+      "word_translation": "Sufficient for us",
+      "word_transliteration": "hasbuna"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9118,
+      "word_number_in_surah": 2973,
+      "word_surah": 3,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَنِعۡمَ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9119,
+      "word_number_in_surah": 2974,
+      "word_surah": 3,
+      "word_translation": "and (He is the) best",
+      "word_transliteration": "wani'ma"
+    },
+    {
+      "word_arabic": "ٱلۡوَكِيلُ",
+      "word_ayah": 173,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9120,
+      "word_number_in_surah": 2975,
+      "word_surah": 3,
+      "word_translation": "[the] Disposer of affairs",
+      "word_transliteration": "al-wakilu"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدۡ جَمَعُواْ لَكُمۡ فَٱخۡشَوۡهُمۡ فَزَادَهُمۡ إِيمَٰنٗا وَقَالُواْ حَسۡبُنَا ٱللَّهُ وَنِعۡمَ ٱلۡوَكِيلُ",
+  "fullTranslation": "Those to whom hypocrites said, \"Indeed, the people have gathered against you, so fear them.\" But it [merely] increased them in faith, and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs.\"",
+  "fullTransliteration": "alladhina qala lahumu al-nasu inna al-nasa qad jama'u lakum fa-ikh'shawhum fazadahum imanan waqalu hasbuna al-lahu wani'ma al-wakilu"
+}

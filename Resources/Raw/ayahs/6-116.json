@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "ayah": 116,
+    "surah": 6,
+    "words": 18,
+    "numberInQuran": 905,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 116,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18176,
+      "word_number_in_surah": 1999,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تُطِعۡ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18177,
+      "word_number_in_surah": 2000,
+      "word_surah": 6,
+      "word_translation": "you obey",
+      "word_transliteration": "tuti'"
+    },
+    {
+      "word_arabic": "أَكۡثَرَ",
+      "word_ayah": 116,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18178,
+      "word_number_in_surah": 2001,
+      "word_surah": 6,
+      "word_translation": "most",
+      "word_transliteration": "akthara"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 116,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18179,
+      "word_number_in_surah": 2002,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18180,
+      "word_number_in_surah": 2003,
+      "word_surah": 6,
+      "word_translation": "(those) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18181,
+      "word_number_in_surah": 2004,
+      "word_surah": 6,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "يُضِلُّوكَ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18182,
+      "word_number_in_surah": 2005,
+      "word_surah": 6,
+      "word_translation": "they will mislead you",
+      "word_transliteration": "yudilluka"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18183,
+      "word_number_in_surah": 2006,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18184,
+      "word_number_in_surah": 2007,
+      "word_surah": 6,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18185,
+      "word_number_in_surah": 2008,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 116,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18186,
+      "word_number_in_surah": 2009,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَتَّبِعُونَ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18187,
+      "word_number_in_surah": 2010,
+      "word_surah": 6,
+      "word_translation": "they follow",
+      "word_transliteration": "yattabi'una"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18188,
+      "word_number_in_surah": 2011,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱلظَّنَّ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18189,
+      "word_number_in_surah": 2012,
+      "word_surah": 6,
+      "word_translation": "[the] assumption",
+      "word_transliteration": "al-zana"
+    },
+    {
+      "word_arabic": "وَإِنۡ",
+      "word_ayah": 116,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18190,
+      "word_number_in_surah": 2013,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 116,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18191,
+      "word_number_in_surah": 2014,
+      "word_surah": 6,
+      "word_translation": "they (do)",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18192,
+      "word_number_in_surah": 2015,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "يَخۡرُصُونَ",
+      "word_ayah": 116,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18193,
+      "word_number_in_surah": 2016,
+      "word_surah": 6,
+      "word_translation": "guess",
+      "word_transliteration": "yakhrusuna"
+    }
+  ],
+  "fullArabic": "وَإِن تُطِعۡ أَكۡثَرَ مَن فِي ٱلۡأَرۡضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ هُمۡ إِلَّا يَخۡرُصُونَ",
+  "fullTranslation": "And if you obey most of those upon the earth, they will mislead you from the way of Allah. They follow not except assumption, and they are not but falsifying.",
+  "fullTransliteration": "wa-in tuti' akthara man fi al-ardi yudilluka an sabili al-lahi in yattabi'una illa al-zana wa-in hum illa yakhrusuna"
+}

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "ayah": 148,
+    "surah": 3,
+    "words": 10,
+    "numberInQuran": 441,
+    "juz": 4,
+    "manzil": 1,
+    "page": 68,
+    "ruku": 56,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَ‍َٔاتَىٰهُمُ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8588,
+      "word_number_in_surah": 2443,
+      "word_surah": 3,
+      "word_translation": "So gave them",
+      "word_transliteration": "faatahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8589,
+      "word_number_in_surah": 2444,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ثَوَابَ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8590,
+      "word_number_in_surah": 2445,
+      "word_surah": 3,
+      "word_translation": "reward",
+      "word_transliteration": "thawaba"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8591,
+      "word_number_in_surah": 2446,
+      "word_surah": 3,
+      "word_translation": "(in) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَحُسۡنَ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8592,
+      "word_number_in_surah": 2447,
+      "word_surah": 3,
+      "word_translation": "and good",
+      "word_transliteration": "wahus'na"
+    },
+    {
+      "word_arabic": "ثَوَابِ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8593,
+      "word_number_in_surah": 2448,
+      "word_surah": 3,
+      "word_translation": "reward",
+      "word_transliteration": "thawabi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةِۗ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8594,
+      "word_number_in_surah": 2449,
+      "word_surah": 3,
+      "word_translation": "(in) the Hereafter",
+      "word_transliteration": "al-akhirati"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8595,
+      "word_number_in_surah": 2450,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8596,
+      "word_number_in_surah": 2451,
+      "word_surah": 3,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُحۡسِنِينَ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8597,
+      "word_number_in_surah": 2452,
+      "word_surah": 3,
+      "word_translation": "the good-doers",
+      "word_transliteration": "al-muh'sinina"
+    }
+  ],
+  "fullArabic": "فَ‍َٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنۡيَا وَحُسۡنَ ثَوَابِ ٱلۡأٓخِرَةِۗ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ",
+  "fullTranslation": "So Allah gave them the reward of this world and the good reward of the Hereafter. And Allah loves the doers of good.",
+  "fullTransliteration": "faatahumu al-lahu thawaba al-dun'ya wahus'na thawabi al-akhirati wal-lahu yuhibbu al-muh'sinina"
+}

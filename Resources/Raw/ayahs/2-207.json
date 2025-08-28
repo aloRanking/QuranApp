@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 207,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 214,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 207,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3881,
+      "word_number_in_surah": 3852,
+      "word_surah": 2,
+      "word_translation": "And of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 207,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3882,
+      "word_number_in_surah": 3853,
+      "word_surah": 2,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 207,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3883,
+      "word_number_in_surah": 3854,
+      "word_surah": 2,
+      "word_translation": "(is the one) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشۡرِي",
+      "word_ayah": 207,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3884,
+      "word_number_in_surah": 3855,
+      "word_surah": 2,
+      "word_translation": "sells",
+      "word_transliteration": "yashri"
+    },
+    {
+      "word_arabic": "نَفۡسَهُ",
+      "word_ayah": 207,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3885,
+      "word_number_in_surah": 3856,
+      "word_surah": 2,
+      "word_translation": "his own self",
+      "word_transliteration": "nafsahu"
+    },
+    {
+      "word_arabic": "ٱبۡتِغَآءَ",
+      "word_ayah": 207,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3886,
+      "word_number_in_surah": 3857,
+      "word_surah": 2,
+      "word_translation": "seeking",
+      "word_transliteration": "ib'tighaa"
+    },
+    {
+      "word_arabic": "مَرۡضَاتِ",
+      "word_ayah": 207,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3887,
+      "word_number_in_surah": 3858,
+      "word_surah": 2,
+      "word_translation": "pleasure",
+      "word_transliteration": "mardati"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 207,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3888,
+      "word_number_in_surah": 3859,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 207,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3889,
+      "word_number_in_surah": 3860,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "رَءُوفُۢ",
+      "word_ayah": 207,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3890,
+      "word_number_in_surah": 3861,
+      "word_surah": 2,
+      "word_translation": "(is) full of Kindness",
+      "word_transliteration": "raufun"
+    },
+    {
+      "word_arabic": "بِٱلۡعِبَادِ",
+      "word_ayah": 207,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3891,
+      "word_number_in_surah": 3862,
+      "word_surah": 2,
+      "word_translation": "to His servants",
+      "word_transliteration": "bil-'ibadi"
+    }
+  ],
+  "fullArabic": "وَمِنَ ٱلنَّاسِ مَن يَشۡرِي نَفۡسَهُ ٱبۡتِغَآءَ مَرۡضَاتِ ٱللَّهِۚ وَٱللَّهُ رَءُوفُۢ بِٱلۡعِبَادِ",
+  "fullTranslation": "And of the people is he who sells himself, seeking means to the approval of Allah. And Allah is kind to [His] servants.",
+  "fullTransliteration": "wamina al-nasi man yashri nafsahu ib'tighaa mardati al-lahi wal-lahu raufun bil-'ibadi"
+}

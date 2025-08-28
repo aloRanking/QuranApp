@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "ayah": 72,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 79,
+    "juz": 1,
+    "manzil": 1,
+    "page": 11,
+    "ruku": 10,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1139,
+      "word_number_in_surah": 1110,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَتَلۡتُمۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1140,
+      "word_number_in_surah": 1111,
+      "word_surah": 2,
+      "word_translation": "you killed",
+      "word_transliteration": "qataltum"
+    },
+    {
+      "word_arabic": "نَفۡسٗا",
+      "word_ayah": 72,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1141,
+      "word_number_in_surah": 1112,
+      "word_surah": 2,
+      "word_translation": "a man",
+      "word_transliteration": "nafsan"
+    },
+    {
+      "word_arabic": "فَٱدَّٰرَٰٔتُمۡ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1142,
+      "word_number_in_surah": 1113,
+      "word_surah": 2,
+      "word_translation": "then you disputed",
+      "word_transliteration": "fa-iddaratum"
+    },
+    {
+      "word_arabic": "فِيهَاۖ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1143,
+      "word_number_in_surah": 1114,
+      "word_surah": 2,
+      "word_translation": "concerning it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1144,
+      "word_number_in_surah": 1115,
+      "word_surah": 2,
+      "word_translation": "but Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "مُخۡرِجٞ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1145,
+      "word_number_in_surah": 1116,
+      "word_surah": 2,
+      "word_translation": "(is) the One Who brought forth",
+      "word_transliteration": "mukh'rijun"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1146,
+      "word_number_in_surah": 1117,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1147,
+      "word_number_in_surah": 1118,
+      "word_surah": 2,
+      "word_translation": "you were",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَكۡتُمُونَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1148,
+      "word_number_in_surah": 1119,
+      "word_surah": 2,
+      "word_translation": "concealing",
+      "word_transliteration": "taktumuna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قَتَلۡتُمۡ نَفۡسٗا فَٱدَّٰرَٰٔتُمۡ فِيهَاۖ وَٱللَّهُ مُخۡرِجٞ مَّا كُنتُمۡ تَكۡتُمُونَ",
+  "fullTranslation": "And [recall] when you slew a man and disputed over it, but Allah was to bring out that which you were concealing.",
+  "fullTransliteration": "wa-idh qataltum nafsan fa-iddaratum fiha wal-lahu mukh'rijun ma kuntum taktumuna"
+}

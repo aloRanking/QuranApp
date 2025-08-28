@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 140,
+    "surah": 7,
+    "words": 9,
+    "numberInQuran": 1094,
+    "juz": 9,
+    "manzil": 2,
+    "page": 167,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21318,
+      "word_number_in_surah": 2091,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَغَيۡرَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21319,
+      "word_number_in_surah": 2092,
+      "word_surah": 7,
+      "word_translation": "Should other than",
+      "word_transliteration": "aghayra"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21320,
+      "word_number_in_surah": 2093,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَبۡغِيكُمۡ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21321,
+      "word_number_in_surah": 2094,
+      "word_surah": 7,
+      "word_translation": "I seek for you",
+      "word_transliteration": "abghikum"
+    },
+    {
+      "word_arabic": "إِلَٰهٗا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21322,
+      "word_number_in_surah": 2095,
+      "word_surah": 7,
+      "word_translation": "a god",
+      "word_transliteration": "ilahan"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21323,
+      "word_number_in_surah": 2096,
+      "word_surah": 7,
+      "word_translation": "while He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "فَضَّلَكُمۡ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21324,
+      "word_number_in_surah": 2097,
+      "word_surah": 7,
+      "word_translation": "has preferred you",
+      "word_transliteration": "faddalakum"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21325,
+      "word_number_in_surah": 2098,
+      "word_surah": 7,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21326,
+      "word_number_in_surah": 2099,
+      "word_surah": 7,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "قَالَ أَغَيۡرَ ٱللَّهِ أَبۡغِيكُمۡ إِلَٰهٗا وَهُوَ فَضَّلَكُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "He said, \"Is it other than Allah I should desire for you as a god while He has preferred you over the worlds?\"",
+  "fullTransliteration": "qala aghayra al-lahi abghikum ilahan wahuwa faddalakum ala al-'alamina"
+}

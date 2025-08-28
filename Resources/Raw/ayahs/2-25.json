@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "ayah": 25,
+    "surah": 2,
+    "words": 34,
+    "numberInQuran": 32,
+    "juz": 1,
+    "manzil": 1,
+    "page": 5,
+    "ruku": 4,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَبَشِّرِ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 327,
+      "word_number_in_surah": 298,
+      "word_surah": 2,
+      "word_translation": "And give good news",
+      "word_transliteration": "wabashiri"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 328,
+      "word_number_in_surah": 299,
+      "word_surah": 2,
+      "word_translation": "(to) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 329,
+      "word_number_in_surah": 300,
+      "word_surah": 2,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَعَمِلُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 330,
+      "word_number_in_surah": 301,
+      "word_surah": 2,
+      "word_translation": "and do",
+      "word_transliteration": "wa'amilu"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحَٰتِ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 331,
+      "word_number_in_surah": 302,
+      "word_surah": 2,
+      "word_translation": "[the] righteous deeds",
+      "word_transliteration": "al-salihati"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 332,
+      "word_number_in_surah": 303,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 333,
+      "word_number_in_surah": 304,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "جَنَّٰتٖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 334,
+      "word_number_in_surah": 305,
+      "word_surah": 2,
+      "word_translation": "(will be) Gardens",
+      "word_transliteration": "jannatin"
+    },
+    {
+      "word_arabic": "تَجۡرِي",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 335,
+      "word_number_in_surah": 306,
+      "word_surah": 2,
+      "word_translation": "flow",
+      "word_transliteration": "tajri"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 25,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 336,
+      "word_number_in_surah": 307,
+      "word_surah": 2,
+      "word_translation": "[from]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "تَحۡتِهَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 337,
+      "word_number_in_surah": 308,
+      "word_surah": 2,
+      "word_translation": "under them",
+      "word_transliteration": "tahtiha"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرُۖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 338,
+      "word_number_in_surah": 309,
+      "word_surah": 2,
+      "word_translation": "the rivers",
+      "word_transliteration": "al-anharu"
+    },
+    {
+      "word_arabic": "كُلَّمَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 339,
+      "word_number_in_surah": 310,
+      "word_surah": 2,
+      "word_translation": "Every time",
+      "word_transliteration": "kullama"
+    },
+    {
+      "word_arabic": "رُزِقُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 340,
+      "word_number_in_surah": 311,
+      "word_surah": 2,
+      "word_translation": "they are provided",
+      "word_transliteration": "ruziqu"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 341,
+      "word_number_in_surah": 312,
+      "word_surah": 2,
+      "word_translation": "therefrom",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 25,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 342,
+      "word_number_in_surah": 313,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ثَمَرَةٖ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 343,
+      "word_number_in_surah": 314,
+      "word_surah": 2,
+      "word_translation": "fruit",
+      "word_transliteration": "thamaratin"
+    },
+    {
+      "word_arabic": "رِّزۡقٗا",
+      "word_ayah": 25,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 344,
+      "word_number_in_surah": 315,
+      "word_surah": 2,
+      "word_translation": "(as) provision",
+      "word_transliteration": "riz'qan"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 345,
+      "word_number_in_surah": 316,
+      "word_surah": 2,
+      "word_translation": "they (will) say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 346,
+      "word_number_in_surah": 317,
+      "word_surah": 2,
+      "word_translation": "This (is)",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 347,
+      "word_number_in_surah": 318,
+      "word_surah": 2,
+      "word_translation": "the one which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "رُزِقۡنَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 348,
+      "word_number_in_surah": 319,
+      "word_surah": 2,
+      "word_translation": "we were provided",
+      "word_transliteration": "ruziq'na"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 25,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 349,
+      "word_number_in_surah": 320,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُۖ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 350,
+      "word_number_in_surah": 321,
+      "word_surah": 2,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَأُتُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 351,
+      "word_number_in_surah": 322,
+      "word_surah": 2,
+      "word_translation": "And they will be given",
+      "word_transliteration": "wa-utu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 352,
+      "word_number_in_surah": 323,
+      "word_surah": 2,
+      "word_translation": "therefrom",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "مُتَشَٰبِهٗاۖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 353,
+      "word_number_in_surah": 324,
+      "word_surah": 2,
+      "word_translation": "(things) in resemblance",
+      "word_transliteration": "mutashabihan"
+    },
+    {
+      "word_arabic": "وَلَهُمۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 354,
+      "word_number_in_surah": 325,
+      "word_surah": 2,
+      "word_translation": "And for them",
+      "word_transliteration": "walahum"
+    },
+    {
+      "word_arabic": "فِيهَآ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 355,
+      "word_number_in_surah": 326,
+      "word_surah": 2,
+      "word_translation": "therein",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "أَزۡوَٰجٞ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 356,
+      "word_number_in_surah": 327,
+      "word_surah": 2,
+      "word_translation": "spouses",
+      "word_transliteration": "azwajun"
+    },
+    {
+      "word_arabic": "مُّطَهَّرَةٞۖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 357,
+      "word_number_in_surah": 328,
+      "word_surah": 2,
+      "word_translation": "purified",
+      "word_transliteration": "mutahharatun"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 358,
+      "word_number_in_surah": 329,
+      "word_surah": 2,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 359,
+      "word_number_in_surah": 330,
+      "word_surah": 2,
+      "word_translation": "therein",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "خَٰلِدُونَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 360,
+      "word_number_in_surah": 331,
+      "word_surah": 2,
+      "word_translation": "(will) abide forever",
+      "word_transliteration": "khaliduna"
+    }
+  ],
+  "fullArabic": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ كُلَّمَا رُزِقُواْ مِنۡهَا مِن ثَمَرَةٖ رِّزۡقٗا قَالُواْ هَٰذَا ٱلَّذِي رُزِقۡنَا مِن قَبۡلُۖ وَأُتُواْ بِهِۦ مُتَشَٰبِهٗاۖ وَلَهُمۡ فِيهَآ أَزۡوَٰجٞ مُّطَهَّرَةٞۖ وَهُمۡ فِيهَا خَٰلِدُونَ",
+  "fullTranslation": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, \"This is what we were provided with before.\" And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally.",
+  "fullTransliteration": "wabashiri alladhina amanu wa'amilu al-salihati anna lahum jannatin tajri min tahtiha al-anharu kullama ruziqu min'ha min thamaratin riz'qan qalu hadha alladhi ruziq'na min qablu wa-utu bihi mutashabihan walahum fiha azwajun mutahharatun wahum fiha khaliduna"
+}

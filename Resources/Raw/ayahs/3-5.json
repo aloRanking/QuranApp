@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 5,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 298,
+    "juz": 3,
+    "manzil": 1,
+    "page": 50,
+    "ruku": 42,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6183,
+      "word_number_in_surah": 38,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6184,
+      "word_number_in_surah": 39,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6185,
+      "word_number_in_surah": 40,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَخۡفَىٰ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6186,
+      "word_number_in_surah": 41,
+      "word_surah": 3,
+      "word_translation": "is hidden",
+      "word_transliteration": "yakhfa"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6187,
+      "word_number_in_surah": 42,
+      "word_surah": 3,
+      "word_translation": "from Him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "شَيۡءٞ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6188,
+      "word_number_in_surah": 43,
+      "word_surah": 3,
+      "word_translation": "anything",
+      "word_transliteration": "shayon"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6189,
+      "word_number_in_surah": 44,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6190,
+      "word_number_in_surah": 45,
+      "word_surah": 3,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6191,
+      "word_number_in_surah": 46,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6192,
+      "word_number_in_surah": 47,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6193,
+      "word_number_in_surah": 48,
+      "word_surah": 3,
+      "word_translation": "the heaven",
+      "word_transliteration": "al-samai"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱللَّهَ لَا يَخۡفَىٰ عَلَيۡهِ شَيۡءٞ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ",
+  "fullTranslation": "Indeed, from Allah nothing is hidden in the earth nor in the heaven.",
+  "fullTransliteration": "inna al-laha la yakhfa alayhi shayon fi al-ardi wala fi al-samai"
+}

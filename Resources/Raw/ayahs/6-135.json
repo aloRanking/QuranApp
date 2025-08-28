@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "ayah": 135,
+    "surah": 6,
+    "words": 18,
+    "numberInQuran": 924,
+    "juz": 8,
+    "manzil": 2,
+    "page": 145,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18506,
+      "word_number_in_surah": 2329,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18507,
+      "word_number_in_surah": 2330,
+      "word_surah": 6,
+      "word_translation": "O my people",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "ٱعۡمَلُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18508,
+      "word_number_in_surah": 2331,
+      "word_surah": 6,
+      "word_translation": "Work",
+      "word_transliteration": "i'malu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18509,
+      "word_number_in_surah": 2332,
+      "word_surah": 6,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَكَانَتِكُمۡ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18510,
+      "word_number_in_surah": 2333,
+      "word_surah": 6,
+      "word_translation": "your position",
+      "word_transliteration": "makanatikum"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18511,
+      "word_number_in_surah": 2334,
+      "word_surah": 6,
+      "word_translation": "Indeed, I am",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "عَامِلٞۖ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18512,
+      "word_number_in_surah": 2335,
+      "word_surah": 6,
+      "word_translation": "a worker",
+      "word_transliteration": "amilun"
+    },
+    {
+      "word_arabic": "فَسَوۡفَ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18513,
+      "word_number_in_surah": 2336,
+      "word_surah": 6,
+      "word_translation": "And soon",
+      "word_transliteration": "fasawfa"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18514,
+      "word_number_in_surah": 2337,
+      "word_surah": 6,
+      "word_translation": "you will know",
+      "word_transliteration": "ta'lamuna"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 135,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18515,
+      "word_number_in_surah": 2338,
+      "word_surah": 6,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تَكُونُ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18516,
+      "word_number_in_surah": 2339,
+      "word_surah": 6,
+      "word_translation": "will have",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18517,
+      "word_number_in_surah": 2340,
+      "word_surah": 6,
+      "word_translation": "for himself",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "عَٰقِبَةُ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18518,
+      "word_number_in_surah": 2341,
+      "word_surah": 6,
+      "word_translation": "(in) the end",
+      "word_transliteration": "aqibatu"
+    },
+    {
+      "word_arabic": "ٱلدَّارِۚ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18519,
+      "word_number_in_surah": 2342,
+      "word_surah": 6,
+      "word_translation": "(a good) home",
+      "word_transliteration": "al-dari"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18520,
+      "word_number_in_surah": 2343,
+      "word_surah": 6,
+      "word_translation": "Indeed [he]",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18521,
+      "word_number_in_surah": 2344,
+      "word_surah": 6,
+      "word_translation": "(will) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُفۡلِحُ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18522,
+      "word_number_in_surah": 2345,
+      "word_surah": 6,
+      "word_translation": "succeed",
+      "word_transliteration": "yuf'lihu"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمُونَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18523,
+      "word_number_in_surah": 2346,
+      "word_surah": 6,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimuna"
+    }
+  ],
+  "fullArabic": "قُلۡ يَٰقَوۡمِ ٱعۡمَلُواْ عَلَىٰ مَكَانَتِكُمۡ إِنِّي عَامِلٞۖ فَسَوۡفَ تَعۡلَمُونَ مَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+  "fullTranslation": "Say, \"O my people, work according to your position; [for] indeed, I am working. And you are going to know who will have succession in the home. Indeed, the wrongdoers will not succeed.",
+  "fullTransliteration": "qul yaqawmi i'malu ala makanatikum inni amilun fasawfa ta'lamuna man takunu lahu aqibatu al-dari innahu la yuf'lihu al-zalimuna"
+}

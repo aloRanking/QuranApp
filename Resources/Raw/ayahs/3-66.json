@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "ayah": 66,
+    "surah": 3,
+    "words": 19,
+    "numberInQuran": 359,
+    "juz": 3,
+    "manzil": 1,
+    "page": 58,
+    "ruku": 48,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هَٰٓأَنتُمۡ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7251,
+      "word_number_in_surah": 1106,
+      "word_surah": 3,
+      "word_translation": "Here you are",
+      "word_transliteration": "haantum"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7252,
+      "word_number_in_surah": 1107,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "حَٰجَجۡتُمۡ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7253,
+      "word_number_in_surah": 1108,
+      "word_surah": 3,
+      "word_translation": "argued",
+      "word_transliteration": "hajajtum"
+    },
+    {
+      "word_arabic": "فِيمَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7254,
+      "word_number_in_surah": 1109,
+      "word_surah": 3,
+      "word_translation": "about what",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 66,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7255,
+      "word_number_in_surah": 1110,
+      "word_surah": 3,
+      "word_translation": "[for] you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7256,
+      "word_number_in_surah": 1111,
+      "word_surah": 3,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "عِلۡمٞ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7257,
+      "word_number_in_surah": 1112,
+      "word_surah": 3,
+      "word_translation": "(have some) knowledge",
+      "word_transliteration": "il'mun"
+    },
+    {
+      "word_arabic": "فَلِمَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7258,
+      "word_number_in_surah": 1113,
+      "word_surah": 3,
+      "word_translation": "Then why",
+      "word_transliteration": "falima"
+    },
+    {
+      "word_arabic": "تُحَآجُّونَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7259,
+      "word_number_in_surah": 1114,
+      "word_surah": 3,
+      "word_translation": "(do) you argue",
+      "word_transliteration": "tuhajjuna"
+    },
+    {
+      "word_arabic": "فِيمَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7260,
+      "word_number_in_surah": 1115,
+      "word_surah": 3,
+      "word_translation": "about what",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7261,
+      "word_number_in_surah": 1116,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 66,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7262,
+      "word_number_in_surah": 1117,
+      "word_surah": 3,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7263,
+      "word_number_in_surah": 1118,
+      "word_surah": 3,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "عِلۡمٞۚ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7264,
+      "word_number_in_surah": 1119,
+      "word_surah": 3,
+      "word_translation": "(any) knowledge",
+      "word_transliteration": "il'mun"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7265,
+      "word_number_in_surah": 1120,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَعۡلَمُ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7266,
+      "word_number_in_surah": 1121,
+      "word_surah": 3,
+      "word_translation": "knows",
+      "word_transliteration": "ya'lamu"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7267,
+      "word_number_in_surah": 1122,
+      "word_surah": 3,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7268,
+      "word_number_in_surah": 1123,
+      "word_surah": 3,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7269,
+      "word_number_in_surah": 1124,
+      "word_surah": 3,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ حَٰجَجۡتُمۡ فِيمَا لَكُم بِهِۦ عِلۡمٞ فَلِمَ تُحَآجُّونَ فِيمَا لَيۡسَ لَكُم بِهِۦ عِلۡمٞۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
+  "fullTranslation": "Here you are - those who have argued about that of which you have [some] knowledge, but why do you argue about that of which you have no knowledge? And Allah knows, while you know not.",
+  "fullTransliteration": "haantum haulai hajajtum fima lakum bihi il'mun falima tuhajjuna fima laysa lakum bihi il'mun wal-lahu ya'lamu wa-antum la ta'lamuna"
+}

@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "ayah": 57,
+    "surah": 6,
+    "words": 22,
+    "numberInQuran": 846,
+    "juz": 7,
+    "manzil": 2,
+    "page": 134,
+    "ruku": 108,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17085,
+      "word_number_in_surah": 908,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17086,
+      "word_number_in_surah": 909,
+      "word_surah": 6,
+      "word_translation": "Indeed I am",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17087,
+      "word_number_in_surah": 910,
+      "word_surah": 6,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "بَيِّنَةٖ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17088,
+      "word_number_in_surah": 911,
+      "word_surah": 6,
+      "word_translation": "clear proof",
+      "word_transliteration": "bayyinatin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 57,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17089,
+      "word_number_in_surah": 912,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّي",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17090,
+      "word_number_in_surah": 913,
+      "word_surah": 6,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "وَكَذَّبۡتُم",
+      "word_ayah": 57,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17091,
+      "word_number_in_surah": 914,
+      "word_surah": 6,
+      "word_translation": "while you deny",
+      "word_transliteration": "wakadhabtum"
+    },
+    {
+      "word_arabic": "بِهِۦۚ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17092,
+      "word_number_in_surah": 915,
+      "word_surah": 6,
+      "word_translation": "[with] it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17093,
+      "word_number_in_surah": 916,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "عِندِي",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17094,
+      "word_number_in_surah": 917,
+      "word_surah": 6,
+      "word_translation": "I have",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17095,
+      "word_number_in_surah": 918,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَسۡتَعۡجِلُونَ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17096,
+      "word_number_in_surah": 919,
+      "word_surah": 6,
+      "word_translation": "you seek to hasten",
+      "word_transliteration": "tasta'jiluna"
+    },
+    {
+      "word_arabic": "بِهِۦٓۚ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17097,
+      "word_number_in_surah": 920,
+      "word_surah": 6,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "إِنِ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17098,
+      "word_number_in_surah": 921,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "ini"
+    },
+    {
+      "word_arabic": "ٱلۡحُكۡمُ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17099,
+      "word_number_in_surah": 922,
+      "word_surah": 6,
+      "word_translation": "(is) the decision",
+      "word_transliteration": "al-huk'mu"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17100,
+      "word_number_in_surah": 923,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "لِلَّهِۖ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17101,
+      "word_number_in_surah": 924,
+      "word_surah": 6,
+      "word_translation": "for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "يَقُصُّ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17102,
+      "word_number_in_surah": 925,
+      "word_surah": 6,
+      "word_translation": "He relates",
+      "word_transliteration": "yaqussu"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّۖ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17103,
+      "word_number_in_surah": 926,
+      "word_surah": 6,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17104,
+      "word_number_in_surah": 927,
+      "word_surah": 6,
+      "word_translation": "and He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "خَيۡرُ",
+      "word_ayah": 57,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17105,
+      "word_number_in_surah": 928,
+      "word_surah": 6,
+      "word_translation": "(is the) best",
+      "word_transliteration": "khayru"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰصِلِينَ",
+      "word_ayah": 57,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17106,
+      "word_number_in_surah": 929,
+      "word_surah": 6,
+      "word_translation": "(of) the Deciders",
+      "word_transliteration": "al-fasilina"
+    }
+  ],
+  "fullArabic": "قُلۡ إِنِّي عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي وَكَذَّبۡتُم بِهِۦۚ مَا عِندِي مَا تَسۡتَعۡجِلُونَ بِهِۦٓۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ يَقُصُّ ٱلۡحَقَّۖ وَهُوَ خَيۡرُ ٱلۡفَٰصِلِينَ",
+  "fullTranslation": "Say, \"Indeed, I am on clear evidence from my Lord, and you have denied it. I do not have that for which you are impatient. The decision is only for Allah. He relates the truth, and He is the best of deciders.\"",
+  "fullTransliteration": "qul inni ala bayyinatin min rabbi wakadhabtum bihi ma indi ma tasta'jiluna bihi ini al-huk'mu illa lillahi yaqussu al-haqa wahuwa khayru al-fasilina"
+}

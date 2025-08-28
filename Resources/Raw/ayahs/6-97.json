@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "ayah": 97,
+    "surah": 6,
+    "words": 16,
+    "numberInQuran": 886,
+    "juz": 7,
+    "manzil": 2,
+    "page": 140,
+    "ruku": 113,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17846,
+      "word_number_in_surah": 1669,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17847,
+      "word_number_in_surah": 1670,
+      "word_surah": 6,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "جَعَلَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17848,
+      "word_number_in_surah": 1671,
+      "word_surah": 6,
+      "word_translation": "made",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17849,
+      "word_number_in_surah": 1672,
+      "word_surah": 6,
+      "word_translation": "for you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلنُّجُومَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17850,
+      "word_number_in_surah": 1673,
+      "word_surah": 6,
+      "word_translation": "the stars",
+      "word_transliteration": "al-nujuma"
+    },
+    {
+      "word_arabic": "لِتَهۡتَدُواْ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17851,
+      "word_number_in_surah": 1674,
+      "word_surah": 6,
+      "word_translation": "that you may guide yourselves",
+      "word_transliteration": "litahtadu"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17852,
+      "word_number_in_surah": 1675,
+      "word_surah": 6,
+      "word_translation": "with them",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17853,
+      "word_number_in_surah": 1676,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ظُلُمَٰتِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17854,
+      "word_number_in_surah": 1677,
+      "word_surah": 6,
+      "word_translation": "the darkness[es]",
+      "word_transliteration": "zulumati"
+    },
+    {
+      "word_arabic": "ٱلۡبَرِّ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17855,
+      "word_number_in_surah": 1678,
+      "word_surah": 6,
+      "word_translation": "(of) the land",
+      "word_transliteration": "al-bari"
+    },
+    {
+      "word_arabic": "وَٱلۡبَحۡرِۗ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17856,
+      "word_number_in_surah": 1679,
+      "word_surah": 6,
+      "word_translation": "and the sea",
+      "word_transliteration": "wal-bahri"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17857,
+      "word_number_in_surah": 1680,
+      "word_surah": 6,
+      "word_translation": "Certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "فَصَّلۡنَا",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17858,
+      "word_number_in_surah": 1681,
+      "word_surah": 6,
+      "word_translation": "We have made clear",
+      "word_transliteration": "fassalna"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17859,
+      "word_number_in_surah": 1682,
+      "word_surah": 6,
+      "word_translation": "the Signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "لِقَوۡمٖ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17860,
+      "word_number_in_surah": 1683,
+      "word_surah": 6,
+      "word_translation": "for a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17861,
+      "word_number_in_surah": 1684,
+      "word_surah": 6,
+      "word_translation": "(who) know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهۡتَدُواْ بِهَا فِي ظُلُمَٰتِ ٱلۡبَرِّ وَٱلۡبَحۡرِۗ قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
+  "fullTranslation": "And it is He who placed for you the stars that you may be guided by them through the darknesses of the land and sea. We have detailed the signs for a people who know.",
+  "fullTransliteration": "wahuwa alladhi ja'ala lakumu al-nujuma litahtadu biha fi zulumati al-bari wal-bahri qad fassalna al-ayati liqawmin ya'lamuna"
+}

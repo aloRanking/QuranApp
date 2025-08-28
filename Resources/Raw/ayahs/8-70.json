@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "ayah": 70,
+    "surah": 8,
+    "words": 24,
+    "numberInQuran": 1230,
+    "juz": 10,
+    "manzil": 2,
+    "page": 186,
+    "ruku": 155,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23647,
+      "word_number_in_surah": 1100,
+      "word_surah": 8,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّبِيُّ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23648,
+      "word_number_in_surah": 1101,
+      "word_surah": 8,
+      "word_translation": "Prophet",
+      "word_transliteration": "al-nabiyu"
+    },
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 70,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23649,
+      "word_number_in_surah": 1102,
+      "word_surah": 8,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لِّمَن",
+      "word_ayah": 70,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23650,
+      "word_number_in_surah": 1103,
+      "word_surah": 8,
+      "word_translation": "to whoever",
+      "word_transliteration": "liman"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23651,
+      "word_number_in_surah": 1104,
+      "word_surah": 8,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَيۡدِيكُم",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23652,
+      "word_number_in_surah": 1105,
+      "word_surah": 8,
+      "word_translation": "your hands",
+      "word_transliteration": "aydikum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23653,
+      "word_number_in_surah": 1106,
+      "word_surah": 8,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡأَسۡرَىٰٓ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23654,
+      "word_number_in_surah": 1107,
+      "word_surah": 8,
+      "word_translation": "the captives",
+      "word_transliteration": "al-asra"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 70,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23655,
+      "word_number_in_surah": 1108,
+      "word_surah": 8,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَعۡلَمِ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23656,
+      "word_number_in_surah": 1109,
+      "word_surah": 8,
+      "word_translation": "knows",
+      "word_transliteration": "ya'lami"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23657,
+      "word_number_in_surah": 1110,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23658,
+      "word_number_in_surah": 1111,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قُلُوبِكُمۡ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23659,
+      "word_number_in_surah": 1112,
+      "word_surah": 8,
+      "word_translation": "your hearts",
+      "word_transliteration": "qulubikum"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 70,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23660,
+      "word_number_in_surah": 1113,
+      "word_surah": 8,
+      "word_translation": "any good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "يُؤۡتِكُمۡ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23661,
+      "word_number_in_surah": 1114,
+      "word_surah": 8,
+      "word_translation": "He will give you",
+      "word_transliteration": "yu'tikum"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 70,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23662,
+      "word_number_in_surah": 1115,
+      "word_surah": 8,
+      "word_translation": "better",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "مِّمَّآ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23663,
+      "word_number_in_surah": 1116,
+      "word_surah": 8,
+      "word_translation": "than what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "أُخِذَ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23664,
+      "word_number_in_surah": 1117,
+      "word_surah": 8,
+      "word_translation": "was taken",
+      "word_transliteration": "ukhidha"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23665,
+      "word_number_in_surah": 1118,
+      "word_surah": 8,
+      "word_translation": "from you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "وَيَغۡفِرۡ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23666,
+      "word_number_in_surah": 1119,
+      "word_surah": 8,
+      "word_translation": "and He will forgive",
+      "word_transliteration": "wayaghfir"
+    },
+    {
+      "word_arabic": "لَكُمۡۚ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 23667,
+      "word_number_in_surah": 1120,
+      "word_surah": 8,
+      "word_translation": "you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 23668,
+      "word_number_in_surah": 1121,
+      "word_surah": 8,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 23669,
+      "word_number_in_surah": 1122,
+      "word_surah": 8,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 23670,
+      "word_number_in_surah": 1123,
+      "word_surah": 8,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّمَن فِيٓ أَيۡدِيكُم مِّنَ ٱلۡأَسۡرَىٰٓ إِن يَعۡلَمِ ٱللَّهُ فِي قُلُوبِكُمۡ خَيۡرٗا يُؤۡتِكُمۡ خَيۡرٗا مِّمَّآ أُخِذَ مِنكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "O Prophet, say to whoever is in your hands of the captives, \"If Allah knows [any] good in your hearts, He will give you [something] better than what was taken from you, and He will forgive you; and Allah is Forgiving and Merciful.\"",
+  "fullTransliteration": "yaayyuha al-nabiyu qul liman fi aydikum mina al-asra in ya'lami al-lahu fi qulubikum khayran yu'tikum khayran mimma ukhidha minkum wayaghfir lakum wal-lahu ghafurun rahimun"
+}

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ayah": 13,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 802,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 103,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَلَهُۥ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16358,
+      "word_number_in_surah": 181,
+      "word_surah": 6,
+      "word_translation": "And for Him",
+      "word_transliteration": "walahu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16359,
+      "word_number_in_surah": 182,
+      "word_surah": 6,
+      "word_translation": "(is) whatever",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "سَكَنَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16360,
+      "word_number_in_surah": 183,
+      "word_surah": 6,
+      "word_translation": "dwells",
+      "word_transliteration": "sakana"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16361,
+      "word_number_in_surah": 184,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلِ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16362,
+      "word_number_in_surah": 185,
+      "word_surah": 6,
+      "word_translation": "the night",
+      "word_transliteration": "al-layli"
+    },
+    {
+      "word_arabic": "وَٱلنَّهَارِۚ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16363,
+      "word_number_in_surah": 186,
+      "word_surah": 6,
+      "word_translation": "and the day",
+      "word_transliteration": "wal-nahari"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16364,
+      "word_number_in_surah": 187,
+      "word_surah": 6,
+      "word_translation": "and He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلسَّمِيعُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16365,
+      "word_number_in_surah": 188,
+      "word_surah": 6,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "al-sami'u"
+    },
+    {
+      "word_arabic": "ٱلۡعَلِيمُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16366,
+      "word_number_in_surah": 189,
+      "word_surah": 6,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "al-'alimu"
+    }
+  ],
+  "fullArabic": "۞وَلَهُۥ مَا سَكَنَ فِي ٱلَّيۡلِ وَٱلنَّهَارِۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "fullTranslation": "And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing.",
+  "fullTransliteration": "walahu ma sakana fi al-layli wal-nahari wahuwa al-sami'u al-'alimu"
+}

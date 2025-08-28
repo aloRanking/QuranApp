@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "ayah": 59,
+    "surah": 7,
+    "words": 20,
+    "numberInQuran": 1013,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 129,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَقَدۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20189,
+      "word_number_in_surah": 962,
+      "word_surah": 7,
+      "word_translation": "Certainly",
+      "word_transliteration": "laqad"
+    },
+    {
+      "word_arabic": "أَرۡسَلۡنَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20190,
+      "word_number_in_surah": 963,
+      "word_surah": 7,
+      "word_translation": "We sent",
+      "word_transliteration": "arsalna"
+    },
+    {
+      "word_arabic": "نُوحًا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20191,
+      "word_number_in_surah": 964,
+      "word_surah": 7,
+      "word_translation": "Nuh",
+      "word_transliteration": "nuhan"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20192,
+      "word_number_in_surah": 965,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "قَوۡمِهِۦ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20193,
+      "word_number_in_surah": 966,
+      "word_surah": 7,
+      "word_translation": "his people",
+      "word_transliteration": "qawmihi"
+    },
+    {
+      "word_arabic": "فَقَالَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20194,
+      "word_number_in_surah": 967,
+      "word_surah": 7,
+      "word_translation": "and he said",
+      "word_transliteration": "faqala"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20195,
+      "word_number_in_surah": 968,
+      "word_surah": 7,
+      "word_translation": "O my people!",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "ٱعۡبُدُواْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20196,
+      "word_number_in_surah": 969,
+      "word_surah": 7,
+      "word_translation": "Worship",
+      "word_transliteration": "u'budu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20197,
+      "word_number_in_surah": 970,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20198,
+      "word_number_in_surah": 971,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 59,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20199,
+      "word_number_in_surah": 972,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20200,
+      "word_number_in_surah": 973,
+      "word_surah": 7,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "إِلَٰهٍ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20201,
+      "word_number_in_surah": 974,
+      "word_surah": 7,
+      "word_translation": "god",
+      "word_transliteration": "ilahin"
+    },
+    {
+      "word_arabic": "غَيۡرُهُۥٓ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20202,
+      "word_number_in_surah": 975,
+      "word_surah": 7,
+      "word_translation": "other than Him",
+      "word_transliteration": "ghayruhu"
+    },
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20203,
+      "word_number_in_surah": 976,
+      "word_surah": 7,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أَخَافُ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20204,
+      "word_number_in_surah": 977,
+      "word_surah": 7,
+      "word_translation": "[I] fear",
+      "word_transliteration": "akhafu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20205,
+      "word_number_in_surah": 978,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "عَذَابَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20206,
+      "word_number_in_surah": 979,
+      "word_surah": 7,
+      "word_translation": "punishment",
+      "word_transliteration": "adhaba"
+    },
+    {
+      "word_arabic": "يَوۡمٍ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 20207,
+      "word_number_in_surah": 980,
+      "word_surah": 7,
+      "word_translation": "(of the) Day",
+      "word_transliteration": "yawmin"
+    },
+    {
+      "word_arabic": "عَظِيمٖ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 20208,
+      "word_number_in_surah": 981,
+      "word_surah": 7,
+      "word_translation": "Great",
+      "word_transliteration": "azimin"
+    }
+  ],
+  "fullArabic": "لَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ",
+  "fullTranslation": "We had certainly sent Noah to his people, and he said, \"O my people, worship Allah; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day.",
+  "fullTransliteration": "laqad arsalna nuhan ila qawmihi faqala yaqawmi u'budu al-laha ma lakum min ilahin ghayruhu inni akhafu alaykum adhaba yawmin azimin"
+}

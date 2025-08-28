@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "ayah": 79,
+    "surah": 3,
+    "words": 28,
+    "numberInQuran": 372,
+    "juz": 3,
+    "manzil": 1,
+    "page": 60,
+    "ruku": 49,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7486,
+      "word_number_in_surah": 1341,
+      "word_surah": 3,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7487,
+      "word_number_in_surah": 1342,
+      "word_surah": 3,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لِبَشَرٍ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7488,
+      "word_number_in_surah": 1343,
+      "word_surah": 3,
+      "word_translation": "for a human",
+      "word_transliteration": "libasharin"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 79,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7489,
+      "word_number_in_surah": 1344,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُؤۡتِيَهُ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7490,
+      "word_number_in_surah": 1345,
+      "word_surah": 3,
+      "word_translation": "gives him",
+      "word_transliteration": "yu'tiyahu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7491,
+      "word_number_in_surah": 1346,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7492,
+      "word_number_in_surah": 1347,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡحُكۡمَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7493,
+      "word_number_in_surah": 1348,
+      "word_surah": 3,
+      "word_translation": "and the wisdom",
+      "word_transliteration": "wal-huk'ma"
+    },
+    {
+      "word_arabic": "وَٱلنُّبُوَّةَ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7494,
+      "word_number_in_surah": 1349,
+      "word_surah": 3,
+      "word_translation": "and the Prophethood",
+      "word_transliteration": "wal-nubuwata"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7495,
+      "word_number_in_surah": 1350,
+      "word_surah": 3,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يَقُولَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7496,
+      "word_number_in_surah": 1351,
+      "word_surah": 3,
+      "word_translation": "he says",
+      "word_transliteration": "yaqula"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7497,
+      "word_number_in_surah": 1352,
+      "word_surah": 3,
+      "word_translation": "to the people",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "كُونُواْ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7498,
+      "word_number_in_surah": 1353,
+      "word_surah": 3,
+      "word_translation": "Be",
+      "word_transliteration": "kunu"
+    },
+    {
+      "word_arabic": "عِبَادٗا",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7499,
+      "word_number_in_surah": 1354,
+      "word_surah": 3,
+      "word_translation": "worshippers",
+      "word_transliteration": "ibadan"
+    },
+    {
+      "word_arabic": "لِّي",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7500,
+      "word_number_in_surah": 1355,
+      "word_surah": 3,
+      "word_translation": "of me",
+      "word_transliteration": "li"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 79,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7501,
+      "word_number_in_surah": 1356,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7502,
+      "word_number_in_surah": 1357,
+      "word_surah": 3,
+      "word_translation": "besides",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7503,
+      "word_number_in_surah": 1358,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7504,
+      "word_number_in_surah": 1359,
+      "word_surah": 3,
+      "word_translation": "but (would say)",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "كُونُواْ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7505,
+      "word_number_in_surah": 1360,
+      "word_surah": 3,
+      "word_translation": "Be",
+      "word_transliteration": "kunu"
+    },
+    {
+      "word_arabic": "رَبَّٰنِيِّ‍ۧنَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7506,
+      "word_number_in_surah": 1361,
+      "word_surah": 3,
+      "word_translation": "worshippers of the Lord",
+      "word_transliteration": "rabbaniyyina"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7507,
+      "word_number_in_surah": 1362,
+      "word_surah": 3,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7508,
+      "word_number_in_surah": 1363,
+      "word_surah": 3,
+      "word_translation": "you have been",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تُعَلِّمُونَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7509,
+      "word_number_in_surah": 1364,
+      "word_surah": 3,
+      "word_translation": "teaching",
+      "word_transliteration": "tu'allimuna"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 7510,
+      "word_number_in_surah": 1365,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَبِمَا",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 7511,
+      "word_number_in_surah": 1366,
+      "word_surah": 3,
+      "word_translation": "and because",
+      "word_transliteration": "wabima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 7512,
+      "word_number_in_surah": 1367,
+      "word_surah": 3,
+      "word_translation": "you have been",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَدۡرُسُونَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 7513,
+      "word_number_in_surah": 1368,
+      "word_surah": 3,
+      "word_translation": "studying (it)",
+      "word_transliteration": "tadrusuna"
+    }
+  ],
+  "fullArabic": "مَا كَانَ لِبَشَرٍ أَن يُؤۡتِيَهُ ٱللَّهُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادٗا لِّي مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُواْ رَبَّٰنِيِّ‍ۧنَ بِمَا كُنتُمۡ تُعَلِّمُونَ ٱلۡكِتَٰبَ وَبِمَا كُنتُمۡ تَدۡرُسُونَ",
+  "fullTranslation": "It is not for a human [prophet] that Allah should give him the Scripture and authority and prophethood and then he would say to the people, \"Be servants to me rather than Allah,\" but [instead, he would say], \"Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied.\"",
+  "fullTransliteration": "ma kana libasharin an yu'tiyahu al-lahu al-kitaba wal-huk'ma wal-nubuwata thumma yaqula lilnnasi kunu ibadan li min duni al-lahi walakin kunu rabbaniyyina bima kuntum tu'allimuna al-kitaba wabima kuntum tadrusuna"
+}

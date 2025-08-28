@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "ayah": 102,
+    "surah": 6,
+    "words": 16,
+    "numberInQuran": 891,
+    "juz": 7,
+    "manzil": 2,
+    "page": 141,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكُمُ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17952,
+      "word_number_in_surah": 1775,
+      "word_surah": 6,
+      "word_translation": "That",
+      "word_transliteration": "dhalikumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17953,
+      "word_number_in_surah": 1776,
+      "word_surah": 6,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "رَبُّكُمۡۖ",
+      "word_ayah": 102,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17954,
+      "word_number_in_surah": 1777,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbukum"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17955,
+      "word_number_in_surah": 1778,
+      "word_surah": 6,
+      "word_translation": "(there is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17956,
+      "word_number_in_surah": 1779,
+      "word_surah": 6,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17957,
+      "word_number_in_surah": 1780,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَۖ",
+      "word_ayah": 102,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17958,
+      "word_number_in_surah": 1781,
+      "word_surah": 6,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "خَٰلِقُ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17959,
+      "word_number_in_surah": 1782,
+      "word_surah": 6,
+      "word_translation": "(the) Creator",
+      "word_transliteration": "khaliqu"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 102,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17960,
+      "word_number_in_surah": 1783,
+      "word_surah": 6,
+      "word_translation": "(of) every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 102,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17961,
+      "word_number_in_surah": 1784,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "فَٱعۡبُدُوهُۚ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17962,
+      "word_number_in_surah": 1785,
+      "word_surah": 6,
+      "word_translation": "so worship Him",
+      "word_transliteration": "fa-u'buduhu"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 102,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17963,
+      "word_number_in_surah": 1786,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17964,
+      "word_number_in_surah": 1787,
+      "word_surah": 6,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 102,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17965,
+      "word_number_in_surah": 1788,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 102,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17966,
+      "word_number_in_surah": 1789,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "وَكِيلٞ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17967,
+      "word_number_in_surah": 1790,
+      "word_surah": 6,
+      "word_translation": "a Guardian",
+      "word_transliteration": "wakilun"
+    }
+  ],
+  "fullArabic": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡۖ لَآ إِلَٰهَ إِلَّا هُوَۖ خَٰلِقُ كُلِّ شَيۡءٖ فَٱعۡبُدُوهُۚ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ وَكِيلٞ",
+  "fullTranslation": "That is Allah, your Lord; there is no deity except Him, the Creator of all things, so worship Him. And He is Disposer of all things.",
+  "fullTransliteration": "dhalikumu al-lahu rabbukum la ilaha illa huwa khaliqu kulli shayin fa-u'buduhu wahuwa ala kulli shayin wakilun"
+}

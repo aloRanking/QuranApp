@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "ayah": 103,
+    "surah": 5,
+    "words": 21,
+    "numberInQuran": 772,
+    "juz": 7,
+    "manzil": 2,
+    "page": 124,
+    "ruku": 99,
+    "hizbQuarter": 50,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15730,
+      "word_number_in_surah": 2357,
+      "word_surah": 5,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "جَعَلَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15731,
+      "word_number_in_surah": 2358,
+      "word_surah": 5,
+      "word_translation": "has (been) made",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15732,
+      "word_number_in_surah": 2359,
+      "word_surah": 5,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15733,
+      "word_number_in_surah": 2360,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَحِيرَةٖ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15734,
+      "word_number_in_surah": 2361,
+      "word_surah": 5,
+      "word_translation": "a Bahirah",
+      "word_transliteration": "bahiratin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15735,
+      "word_number_in_surah": 2362,
+      "word_surah": 5,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "سَآئِبَةٖ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15736,
+      "word_number_in_surah": 2363,
+      "word_surah": 5,
+      "word_translation": "a Saibah",
+      "word_transliteration": "saibatin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15737,
+      "word_number_in_surah": 2364,
+      "word_surah": 5,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "وَصِيلَةٖ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15738,
+      "word_number_in_surah": 2365,
+      "word_surah": 5,
+      "word_translation": "a Wasilah",
+      "word_transliteration": "wasilatin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15739,
+      "word_number_in_surah": 2366,
+      "word_surah": 5,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "حَامٖ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15740,
+      "word_number_in_surah": 2367,
+      "word_surah": 5,
+      "word_translation": "a Hami",
+      "word_transliteration": "hamin"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15741,
+      "word_number_in_surah": 2368,
+      "word_surah": 5,
+      "word_translation": "[And] but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15742,
+      "word_number_in_surah": 2369,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15743,
+      "word_number_in_surah": 2370,
+      "word_surah": 5,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "يَفۡتَرُونَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15744,
+      "word_number_in_surah": 2371,
+      "word_surah": 5,
+      "word_translation": "they invent",
+      "word_transliteration": "yaftaruna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15745,
+      "word_number_in_surah": 2372,
+      "word_surah": 5,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15746,
+      "word_number_in_surah": 2373,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلۡكَذِبَۖ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15747,
+      "word_number_in_surah": 2374,
+      "word_surah": 5,
+      "word_translation": "the lie",
+      "word_transliteration": "al-kadhiba"
+    },
+    {
+      "word_arabic": "وَأَكۡثَرُهُمۡ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15748,
+      "word_number_in_surah": 2375,
+      "word_surah": 5,
+      "word_translation": "and most of them",
+      "word_transliteration": "wa-aktharuhum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15749,
+      "word_number_in_surah": 2376,
+      "word_surah": 5,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡقِلُونَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15750,
+      "word_number_in_surah": 2377,
+      "word_surah": 5,
+      "word_translation": "use reason",
+      "word_transliteration": "ya'qiluna"
+    }
+  ],
+  "fullArabic": "مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٖ وَلَا سَآئِبَةٖ وَلَا وَصِيلَةٖ وَلَا حَامٖ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُواْ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ وَأَكۡثَرُهُمۡ لَا يَعۡقِلُونَ",
+  "fullTranslation": "Allah has not appointed [such innovations as] bahirah or sa'ibah or wasilah or ham. But those who disbelieve invent falsehood about Allah, and most of them do not reason.",
+  "fullTransliteration": "ma ja'ala al-lahu min bahiratin wala saibatin wala wasilatin wala hamin walakinna alladhina kafaru yaftaruna ala al-lahi al-kadhiba wa-aktharuhum la ya'qiluna"
+}

@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "ayah": 54,
+    "surah": 2,
+    "words": 26,
+    "numberInQuran": 61,
+    "juz": 1,
+    "manzil": 1,
+    "page": 8,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 774,
+      "word_number_in_surah": 745,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 775,
+      "word_number_in_surah": 746,
+      "word_surah": 2,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 776,
+      "word_number_in_surah": 747,
+      "word_surah": 2,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "لِقَوۡمِهِۦ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 777,
+      "word_number_in_surah": 748,
+      "word_surah": 2,
+      "word_translation": "to his people",
+      "word_transliteration": "liqawmihi"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 778,
+      "word_number_in_surah": 749,
+      "word_surah": 2,
+      "word_translation": "O my people!",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "إِنَّكُمۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 779,
+      "word_number_in_surah": 750,
+      "word_surah": 2,
+      "word_translation": "Indeed you",
+      "word_transliteration": "innakum"
+    },
+    {
+      "word_arabic": "ظَلَمۡتُمۡ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 780,
+      "word_number_in_surah": 751,
+      "word_surah": 2,
+      "word_translation": "[you] have wronged",
+      "word_transliteration": "zalamtum"
+    },
+    {
+      "word_arabic": "أَنفُسَكُم",
+      "word_ayah": 54,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 781,
+      "word_number_in_surah": 752,
+      "word_surah": 2,
+      "word_translation": "yourselves",
+      "word_transliteration": "anfusakum"
+    },
+    {
+      "word_arabic": "بِٱتِّخَاذِكُمُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 782,
+      "word_number_in_surah": 753,
+      "word_surah": 2,
+      "word_translation": "by your taking",
+      "word_transliteration": "bi-ittikhadhikumu"
+    },
+    {
+      "word_arabic": "ٱلۡعِجۡلَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 783,
+      "word_number_in_surah": 754,
+      "word_surah": 2,
+      "word_translation": "the calf",
+      "word_transliteration": "al-'ij'la"
+    },
+    {
+      "word_arabic": "فَتُوبُوٓاْ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 784,
+      "word_number_in_surah": 755,
+      "word_surah": 2,
+      "word_translation": "So turn in repentance",
+      "word_transliteration": "fatubu"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 785,
+      "word_number_in_surah": 756,
+      "word_surah": 2,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "بَارِئِكُمۡ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 786,
+      "word_number_in_surah": 757,
+      "word_surah": 2,
+      "word_translation": "your Creator",
+      "word_transliteration": "bari-ikum"
+    },
+    {
+      "word_arabic": "فَٱقۡتُلُوٓاْ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 787,
+      "word_number_in_surah": 758,
+      "word_surah": 2,
+      "word_translation": "and kill",
+      "word_transliteration": "fa-uq'tulu"
+    },
+    {
+      "word_arabic": "أَنفُسَكُمۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 788,
+      "word_number_in_surah": 759,
+      "word_surah": 2,
+      "word_translation": "yourselves",
+      "word_transliteration": "anfusakum"
+    },
+    {
+      "word_arabic": "ذَٰلِكُمۡ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 789,
+      "word_number_in_surah": 760,
+      "word_surah": 2,
+      "word_translation": "That",
+      "word_transliteration": "dhalikum"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 790,
+      "word_number_in_surah": 761,
+      "word_surah": 2,
+      "word_translation": "(is) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 791,
+      "word_number_in_surah": 762,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 792,
+      "word_number_in_surah": 763,
+      "word_surah": 2,
+      "word_translation": "with",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "بَارِئِكُمۡ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 793,
+      "word_number_in_surah": 764,
+      "word_surah": 2,
+      "word_translation": "your Creator",
+      "word_transliteration": "bari-ikum"
+    },
+    {
+      "word_arabic": "فَتَابَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 794,
+      "word_number_in_surah": 765,
+      "word_surah": 2,
+      "word_translation": "Then He turned",
+      "word_transliteration": "fataba"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡۚ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 795,
+      "word_number_in_surah": 766,
+      "word_surah": 2,
+      "word_translation": "towards you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 796,
+      "word_number_in_surah": 767,
+      "word_surah": 2,
+      "word_translation": "Indeed He!",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 797,
+      "word_number_in_surah": 768,
+      "word_surah": 2,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلتَّوَّابُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 798,
+      "word_number_in_surah": 769,
+      "word_surah": 2,
+      "word_translation": "(is) the Oft-returning",
+      "word_transliteration": "al-tawabu"
+    },
+    {
+      "word_arabic": "ٱلرَّحِيمُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 799,
+      "word_number_in_surah": 770,
+      "word_surah": 2,
+      "word_translation": "the Most Merciful",
+      "word_transliteration": "al-rahimu"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ إِنَّكُمۡ ظَلَمۡتُمۡ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلۡعِجۡلَ فَتُوبُوٓاْ إِلَىٰ بَارِئِكُمۡ فَٱقۡتُلُوٓاْ أَنفُسَكُمۡ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ عِندَ بَارِئِكُمۡ فَتَابَ عَلَيۡكُمۡۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "fullTranslation": "And [recall] when Moses said to his people, \"O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves. That is best for [all of] you in the sight of your Creator.\" Then He accepted your repentance; indeed, He is the Accepting of repentance, the Merciful.",
+  "fullTransliteration": "wa-idh qala musa liqawmihi yaqawmi innakum zalamtum anfusakum bi-ittikhadhikumu al-'ij'la fatubu ila bari-ikum fa-uq'tulu anfusakum dhalikum khayrun lakum inda bari-ikum fataba alaykum innahu huwa al-tawabu al-rahimu"
+}

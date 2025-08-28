@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 2,
+    "surah": 8,
+    "words": 17,
+    "numberInQuran": 1162,
+    "juz": 9,
+    "manzil": 2,
+    "page": 177,
+    "ruku": 146,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22566,
+      "word_number_in_surah": 19,
+      "word_surah": 8,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنُونَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22567,
+      "word_number_in_surah": 20,
+      "word_surah": 8,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minuna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22568,
+      "word_number_in_surah": 21,
+      "word_surah": 8,
+      "word_translation": "(are) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22569,
+      "word_number_in_surah": 22,
+      "word_surah": 8,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "ذُكِرَ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22570,
+      "word_number_in_surah": 23,
+      "word_surah": 8,
+      "word_translation": "is mentioned",
+      "word_transliteration": "dhukira"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22571,
+      "word_number_in_surah": 24,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَجِلَتۡ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22572,
+      "word_number_in_surah": 25,
+      "word_surah": 8,
+      "word_translation": "feel fear",
+      "word_transliteration": "wajilat"
+    },
+    {
+      "word_arabic": "قُلُوبُهُمۡ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22573,
+      "word_number_in_surah": 26,
+      "word_surah": 8,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubuhum"
+    },
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22574,
+      "word_number_in_surah": 27,
+      "word_surah": 8,
+      "word_translation": "and when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "تُلِيَتۡ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22575,
+      "word_number_in_surah": 28,
+      "word_surah": 8,
+      "word_translation": "are recited",
+      "word_transliteration": "tuliyat"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22576,
+      "word_number_in_surah": 29,
+      "word_surah": 8,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "ءَايَٰتُهُۥ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22577,
+      "word_number_in_surah": 30,
+      "word_surah": 8,
+      "word_translation": "His Verses",
+      "word_transliteration": "ayatuhu"
+    },
+    {
+      "word_arabic": "زَادَتۡهُمۡ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22578,
+      "word_number_in_surah": 31,
+      "word_surah": 8,
+      "word_translation": "they increase them",
+      "word_transliteration": "zadathum"
+    },
+    {
+      "word_arabic": "إِيمَٰنٗا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22579,
+      "word_number_in_surah": 32,
+      "word_surah": 8,
+      "word_translation": "(in) faith",
+      "word_transliteration": "imanan"
+    },
+    {
+      "word_arabic": "وَعَلَىٰ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22580,
+      "word_number_in_surah": 33,
+      "word_surah": 8,
+      "word_translation": "and upon",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22581,
+      "word_number_in_surah": 34,
+      "word_surah": 8,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "يَتَوَكَّلُونَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22582,
+      "word_number_in_surah": 35,
+      "word_surah": 8,
+      "word_translation": "they put their trust",
+      "word_transliteration": "yatawakkaluna"
+    }
+  ],
+  "fullArabic": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِيَتۡ عَلَيۡهِمۡ ءَايَٰتُهُۥ زَادَتۡهُمۡ إِيمَٰنٗا وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
+  "fullTranslation": "The believers are only those who, when Allah is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -",
+  "fullTransliteration": "innama al-mu'minuna alladhina idha dhukira al-lahu wajilat qulubuhum wa-idha tuliyat alayhim ayatuhu zadathum imanan wa'ala rabbihim yatawakkaluna"
+}

@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 166,
+    "surah": 4,
+    "words": 13,
+    "numberInQuran": 659,
+    "juz": 6,
+    "manzil": 1,
+    "page": 104,
+    "ruku": 84,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّٰكِنِ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13131,
+      "word_number_in_surah": 3505,
+      "word_surah": 4,
+      "word_translation": "But",
+      "word_transliteration": "lakini"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13132,
+      "word_number_in_surah": 3506,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "يَشۡهَدُ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13133,
+      "word_number_in_surah": 3507,
+      "word_surah": 4,
+      "word_translation": "bears witness",
+      "word_transliteration": "yashhadu"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13134,
+      "word_number_in_surah": 3508,
+      "word_surah": 4,
+      "word_translation": "to what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13135,
+      "word_number_in_surah": 3509,
+      "word_surah": 4,
+      "word_translation": "He (has) revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "إِلَيۡكَۖ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13136,
+      "word_number_in_surah": 3510,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "أَنزَلَهُۥ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13137,
+      "word_number_in_surah": 3511,
+      "word_surah": 4,
+      "word_translation": "He has sent it down",
+      "word_transliteration": "anzalahu"
+    },
+    {
+      "word_arabic": "بِعِلۡمِهِۦۖ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13138,
+      "word_number_in_surah": 3512,
+      "word_surah": 4,
+      "word_translation": "with His Knowledge",
+      "word_transliteration": "bi'il'mihi"
+    },
+    {
+      "word_arabic": "وَٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13139,
+      "word_number_in_surah": 3513,
+      "word_surah": 4,
+      "word_translation": "and the Angels",
+      "word_transliteration": "wal-malaikatu"
+    },
+    {
+      "word_arabic": "يَشۡهَدُونَۚ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13140,
+      "word_number_in_surah": 3514,
+      "word_surah": 4,
+      "word_translation": "bear witness",
+      "word_transliteration": "yashhaduna"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13141,
+      "word_number_in_surah": 3515,
+      "word_surah": 4,
+      "word_translation": "And is sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13142,
+      "word_number_in_surah": 3516,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "شَهِيدًا",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13143,
+      "word_number_in_surah": 3517,
+      "word_surah": 4,
+      "word_translation": "(as) a Witness",
+      "word_transliteration": "shahidan"
+    }
+  ],
+  "fullArabic": "لَّٰكِنِ ٱللَّهُ يَشۡهَدُ بِمَآ أَنزَلَ إِلَيۡكَۖ أَنزَلَهُۥ بِعِلۡمِهِۦۖ وَٱلۡمَلَٰٓئِكَةُ يَشۡهَدُونَۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+  "fullTranslation": "But Allah bears witness to that which He has revealed to you. He has sent it down with His knowledge, and the angels bear witness [as well]. And sufficient is Allah as Witness.",
+  "fullTransliteration": "lakini al-lahu yashhadu bima anzala ilayka anzalahu bi'il'mihi wal-malaikatu yashhaduna wakafa bil-lahi shahidan"
+}

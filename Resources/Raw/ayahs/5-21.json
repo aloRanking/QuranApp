@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 21,
+    "surah": 5,
+    "words": 14,
+    "numberInQuran": 690,
+    "juz": 6,
+    "manzil": 2,
+    "page": 111,
+    "ruku": 89,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13995,
+      "word_number_in_surah": 622,
+      "word_surah": 5,
+      "word_translation": "O my people",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "ٱدۡخُلُواْ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13996,
+      "word_number_in_surah": 623,
+      "word_surah": 5,
+      "word_translation": "Enter",
+      "word_transliteration": "ud'khulu"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13997,
+      "word_number_in_surah": 624,
+      "word_surah": 5,
+      "word_translation": "the land",
+      "word_transliteration": "al-arda"
+    },
+    {
+      "word_arabic": "ٱلۡمُقَدَّسَةَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13998,
+      "word_number_in_surah": 625,
+      "word_surah": 5,
+      "word_translation": "the Holy",
+      "word_transliteration": "al-muqadasata"
+    },
+    {
+      "word_arabic": "ٱلَّتِي",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13999,
+      "word_number_in_surah": 626,
+      "word_surah": 5,
+      "word_translation": "which",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "كَتَبَ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14000,
+      "word_number_in_surah": 627,
+      "word_surah": 5,
+      "word_translation": "(has been) ordained",
+      "word_transliteration": "kataba"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14001,
+      "word_number_in_surah": 628,
+      "word_surah": 5,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14002,
+      "word_number_in_surah": 629,
+      "word_surah": 5,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14003,
+      "word_number_in_surah": 630,
+      "word_surah": 5,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَرۡتَدُّواْ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14004,
+      "word_number_in_surah": 631,
+      "word_surah": 5,
+      "word_translation": "turn",
+      "word_transliteration": "tartaddu"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14005,
+      "word_number_in_surah": 632,
+      "word_surah": 5,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَدۡبَارِكُمۡ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14006,
+      "word_number_in_surah": 633,
+      "word_surah": 5,
+      "word_translation": "your backs",
+      "word_transliteration": "adbarikum"
+    },
+    {
+      "word_arabic": "فَتَنقَلِبُواْ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14007,
+      "word_number_in_surah": 634,
+      "word_surah": 5,
+      "word_translation": "then you will turn back",
+      "word_transliteration": "fatanqalibu"
+    },
+    {
+      "word_arabic": "خَٰسِرِينَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14008,
+      "word_number_in_surah": 635,
+      "word_surah": 5,
+      "word_translation": "(as) losers",
+      "word_transliteration": "khasirina"
+    }
+  ],
+  "fullArabic": "يَٰقَوۡمِ ٱدۡخُلُواْ ٱلۡأَرۡضَ ٱلۡمُقَدَّسَةَ ٱلَّتِي كَتَبَ ٱللَّهُ لَكُمۡ وَلَا تَرۡتَدُّواْ عَلَىٰٓ أَدۡبَارِكُمۡ فَتَنقَلِبُواْ خَٰسِرِينَ",
+  "fullTranslation": "O my people, enter the Holy Land which Allah has assigned to you and do not turn back [from fighting in Allah 's cause] and [thus] become losers.\"",
+  "fullTransliteration": "yaqawmi ud'khulu al-arda al-muqadasata allati kataba al-lahu lakum wala tartaddu ala adbarikum fatanqalibu khasirina"
+}

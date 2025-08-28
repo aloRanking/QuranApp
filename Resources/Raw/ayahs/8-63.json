@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "ayah": 63,
+    "surah": 8,
+    "words": 20,
+    "numberInQuran": 1223,
+    "juz": 10,
+    "manzil": 2,
+    "page": 185,
+    "ruku": 153,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَلَّفَ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23526,
+      "word_number_in_surah": 979,
+      "word_surah": 8,
+      "word_translation": "And He (has) put affection",
+      "word_transliteration": "wa-allafa"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23527,
+      "word_number_in_surah": 980,
+      "word_surah": 8,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "قُلُوبِهِمۡۚ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23528,
+      "word_number_in_surah": 981,
+      "word_surah": 8,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23529,
+      "word_number_in_surah": 982,
+      "word_surah": 8,
+      "word_translation": "If",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "أَنفَقۡتَ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23530,
+      "word_number_in_surah": 983,
+      "word_surah": 8,
+      "word_translation": "you (had) spent",
+      "word_transliteration": "anfaqta"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23531,
+      "word_number_in_surah": 984,
+      "word_surah": 8,
+      "word_translation": "whatever",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23532,
+      "word_number_in_surah": 985,
+      "word_surah": 8,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23533,
+      "word_number_in_surah": 986,
+      "word_surah": 8,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "جَمِيعٗا",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23534,
+      "word_number_in_surah": 987,
+      "word_surah": 8,
+      "word_translation": "all",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "مَّآ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23535,
+      "word_number_in_surah": 988,
+      "word_surah": 8,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَلَّفۡتَ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23536,
+      "word_number_in_surah": 989,
+      "word_surah": 8,
+      "word_translation": "(could) you (have) put affection",
+      "word_transliteration": "allafta"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23537,
+      "word_number_in_surah": 990,
+      "word_surah": 8,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "قُلُوبِهِمۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23538,
+      "word_number_in_surah": 991,
+      "word_surah": 8,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23539,
+      "word_number_in_surah": 992,
+      "word_surah": 8,
+      "word_translation": "but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23540,
+      "word_number_in_surah": 993,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "أَلَّفَ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23541,
+      "word_number_in_surah": 994,
+      "word_surah": 8,
+      "word_translation": "(has) put affection",
+      "word_transliteration": "allafa"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمۡۚ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23542,
+      "word_number_in_surah": 995,
+      "word_surah": 8,
+      "word_translation": "between them",
+      "word_transliteration": "baynahum"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23543,
+      "word_number_in_surah": 996,
+      "word_surah": 8,
+      "word_translation": "Indeed, He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "عَزِيزٌ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23544,
+      "word_number_in_surah": 997,
+      "word_surah": 8,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "حَكِيمٞ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23545,
+      "word_number_in_surah": 998,
+      "word_surah": 8,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "وَأَلَّفَ بَيۡنَ قُلُوبِهِمۡۚ لَوۡ أَنفَقۡتَ مَا فِي ٱلۡأَرۡضِ جَمِيعٗا مَّآ أَلَّفۡتَ بَيۡنَ قُلُوبِهِمۡ وَلَٰكِنَّ ٱللَّهَ أَلَّفَ بَيۡنَهُمۡۚ إِنَّهُۥ عَزِيزٌ حَكِيمٞ",
+  "fullTranslation": "And brought together their hearts. If you had spent all that is in the earth, you could not have brought their hearts together; but Allah brought them together. Indeed, He is Exalted in Might and Wise.",
+  "fullTransliteration": "wa-allafa bayna qulubihim law anfaqta ma fi al-ardi jami'an ma allafta bayna qulubihim walakinna al-laha allafa baynahum innahu azizun hakimun"
+}

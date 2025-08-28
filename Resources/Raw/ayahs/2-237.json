@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "ayah": 237,
+    "surah": 2,
+    "words": 35,
+    "numberInQuran": 244,
+    "juz": 2,
+    "manzil": 1,
+    "page": 38,
+    "ruku": 32,
+    "hizbQuarter": 15,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 237,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4712,
+      "word_number_in_surah": 4683,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "طَلَّقۡتُمُوهُنَّ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4713,
+      "word_number_in_surah": 4684,
+      "word_surah": 2,
+      "word_translation": "you divorce them",
+      "word_transliteration": "tallaqtumuhunna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 237,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4714,
+      "word_number_in_surah": 4685,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4715,
+      "word_number_in_surah": 4686,
+      "word_surah": 2,
+      "word_translation": "before",
+      "word_transliteration": "qabli"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 237,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4716,
+      "word_number_in_surah": 4687,
+      "word_surah": 2,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَمَسُّوهُنَّ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4717,
+      "word_number_in_surah": 4688,
+      "word_surah": 2,
+      "word_translation": "you (have) touched them",
+      "word_transliteration": "tamassuhunna"
+    },
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4718,
+      "word_number_in_surah": 4689,
+      "word_surah": 2,
+      "word_translation": "while already",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "فَرَضۡتُمۡ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4719,
+      "word_number_in_surah": 4690,
+      "word_surah": 2,
+      "word_translation": "you have specified",
+      "word_transliteration": "faradtum"
+    },
+    {
+      "word_arabic": "لَهُنَّ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4720,
+      "word_number_in_surah": 4691,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "lahunna"
+    },
+    {
+      "word_arabic": "فَرِيضَةٗ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4721,
+      "word_number_in_surah": 4692,
+      "word_surah": 2,
+      "word_translation": "an obligation (dower)",
+      "word_transliteration": "faridatan"
+    },
+    {
+      "word_arabic": "فَنِصۡفُ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4722,
+      "word_number_in_surah": 4693,
+      "word_surah": 2,
+      "word_translation": "then (give) half",
+      "word_transliteration": "fanis'fu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4723,
+      "word_number_in_surah": 4694,
+      "word_surah": 2,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فَرَضۡتُمۡ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4724,
+      "word_number_in_surah": 4695,
+      "word_surah": 2,
+      "word_translation": "you have specified",
+      "word_transliteration": "faradtum"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4725,
+      "word_number_in_surah": 4696,
+      "word_surah": 2,
+      "word_translation": "unless",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 237,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4726,
+      "word_number_in_surah": 4697,
+      "word_surah": 2,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَعۡفُونَ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4727,
+      "word_number_in_surah": 4698,
+      "word_surah": 2,
+      "word_translation": "they (women) forgo (it)",
+      "word_transliteration": "ya'funa"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4728,
+      "word_number_in_surah": 4699,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَعۡفُوَاْ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4729,
+      "word_number_in_surah": 4700,
+      "word_surah": 2,
+      "word_translation": "forgoes",
+      "word_transliteration": "ya'fuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4730,
+      "word_number_in_surah": 4701,
+      "word_surah": 2,
+      "word_translation": "the one",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "بِيَدِهِۦ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4731,
+      "word_number_in_surah": 4702,
+      "word_surah": 2,
+      "word_translation": "in whose hands",
+      "word_transliteration": "biyadihi"
+    },
+    {
+      "word_arabic": "عُقۡدَةُ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4732,
+      "word_number_in_surah": 4703,
+      "word_surah": 2,
+      "word_translation": "(is the) knot",
+      "word_transliteration": "uq'datu"
+    },
+    {
+      "word_arabic": "ٱلنِّكَاحِۚ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4733,
+      "word_number_in_surah": 4704,
+      "word_surah": 2,
+      "word_translation": "(of) the marriage",
+      "word_transliteration": "al-nikahi"
+    },
+    {
+      "word_arabic": "وَأَن",
+      "word_ayah": 237,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4734,
+      "word_number_in_surah": 4705,
+      "word_surah": 2,
+      "word_translation": "And that",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "تَعۡفُوٓاْ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4735,
+      "word_number_in_surah": 4706,
+      "word_surah": 2,
+      "word_translation": "you forgo",
+      "word_transliteration": "ta'fu"
+    },
+    {
+      "word_arabic": "أَقۡرَبُ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4736,
+      "word_number_in_surah": 4707,
+      "word_surah": 2,
+      "word_translation": "(is) nearer",
+      "word_transliteration": "aqrabu"
+    },
+    {
+      "word_arabic": "لِلتَّقۡوَىٰۚ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4737,
+      "word_number_in_surah": 4708,
+      "word_surah": 2,
+      "word_translation": "to [the] righteousness",
+      "word_transliteration": "lilttaqwa"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4738,
+      "word_number_in_surah": 4709,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَنسَوُاْ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 4739,
+      "word_number_in_surah": 4710,
+      "word_surah": 2,
+      "word_translation": "forget",
+      "word_transliteration": "tansawu"
+    },
+    {
+      "word_arabic": "ٱلۡفَضۡلَ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 4740,
+      "word_number_in_surah": 4711,
+      "word_surah": 2,
+      "word_translation": "the graciousness",
+      "word_transliteration": "al-fadla"
+    },
+    {
+      "word_arabic": "بَيۡنَكُمۡۚ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 4741,
+      "word_number_in_surah": 4712,
+      "word_surah": 2,
+      "word_translation": "among you",
+      "word_transliteration": "baynakum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 237,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 4742,
+      "word_number_in_surah": 4713,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 4743,
+      "word_number_in_surah": 4714,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 4744,
+      "word_number_in_surah": 4715,
+      "word_surah": 2,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 4745,
+      "word_number_in_surah": 4716,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    },
+    {
+      "word_arabic": "بَصِيرٌ",
+      "word_ayah": 237,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 4746,
+      "word_number_in_surah": 4717,
+      "word_surah": 2,
+      "word_translation": "(is) All-Seer",
+      "word_transliteration": "basirun"
+    }
+  ],
+  "fullArabic": "وَإِن طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ وَقَدۡ فَرَضۡتُمۡ لَهُنَّ فَرِيضَةٗ فَنِصۡفُ مَا فَرَضۡتُمۡ إِلَّآ أَن يَعۡفُونَ أَوۡ يَعۡفُوَاْ ٱلَّذِي بِيَدِهِۦ عُقۡدَةُ ٱلنِّكَاحِۚ وَأَن تَعۡفُوٓاْ أَقۡرَبُ لِلتَّقۡوَىٰۚ وَلَا تَنسَوُاْ ٱلۡفَضۡلَ بَيۡنَكُمۡۚ إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+  "fullTranslation": "And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allah, of whatever you do, is Seeing.",
+  "fullTransliteration": "wa-in tallaqtumuhunna min qabli an tamassuhunna waqad faradtum lahunna faridatan fanis'fu ma faradtum illa an ya'funa aw ya'fuwa alladhi biyadihi uq'datu al-nikahi wa-an ta'fu aqrabu lilttaqwa wala tansawu al-fadla baynakum inna al-laha bima ta'maluna basirun"
+}

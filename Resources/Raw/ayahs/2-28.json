@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "ayah": 28,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 35,
+    "juz": 1,
+    "manzil": 1,
+    "page": 5,
+    "ruku": 4,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 420,
+      "word_number_in_surah": 391,
+      "word_surah": 2,
+      "word_translation": "How",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 421,
+      "word_number_in_surah": 392,
+      "word_surah": 2,
+      "word_translation": "(can) you disbelieve",
+      "word_transliteration": "takfuruna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 422,
+      "word_number_in_surah": 393,
+      "word_surah": 2,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَكُنتُمۡ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 423,
+      "word_number_in_surah": 394,
+      "word_surah": 2,
+      "word_translation": "While you were",
+      "word_transliteration": "wakuntum"
+    },
+    {
+      "word_arabic": "أَمۡوَٰتٗا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 424,
+      "word_number_in_surah": 395,
+      "word_surah": 2,
+      "word_translation": "dead",
+      "word_transliteration": "amwatan"
+    },
+    {
+      "word_arabic": "فَأَحۡيَٰكُمۡۖ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 425,
+      "word_number_in_surah": 396,
+      "word_surah": 2,
+      "word_translation": "then He gave you life",
+      "word_transliteration": "fa-ahyakum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 426,
+      "word_number_in_surah": 397,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يُمِيتُكُمۡ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 427,
+      "word_number_in_surah": 398,
+      "word_surah": 2,
+      "word_translation": "He will cause you to die",
+      "word_transliteration": "yumitukum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 428,
+      "word_number_in_surah": 399,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يُحۡيِيكُمۡ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 429,
+      "word_number_in_surah": 400,
+      "word_surah": 2,
+      "word_translation": "He will give you life",
+      "word_transliteration": "yuh'yikum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 430,
+      "word_number_in_surah": 401,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 431,
+      "word_number_in_surah": 402,
+      "word_surah": 2,
+      "word_translation": "to Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "تُرۡجَعُونَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 432,
+      "word_number_in_surah": 403,
+      "word_surah": 2,
+      "word_translation": "you will be returned",
+      "word_transliteration": "tur'ja'una"
+    }
+  ],
+  "fullArabic": "كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
+  "fullTranslation": "How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned.",
+  "fullTransliteration": "kayfa takfuruna bil-lahi wakuntum amwatan fa-ahyakum thumma yumitukum thumma yuh'yikum thumma ilayhi tur'ja'una"
+}

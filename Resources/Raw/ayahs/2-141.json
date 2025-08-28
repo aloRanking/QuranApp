@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "ayah": 141,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 148,
+    "juz": 1,
+    "manzil": 1,
+    "page": 21,
+    "ruku": 17,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "تِلۡكَ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2508,
+      "word_number_in_surah": 2479,
+      "word_surah": 2,
+      "word_translation": "This",
+      "word_transliteration": "til'ka"
+    },
+    {
+      "word_arabic": "أُمَّةٞ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2509,
+      "word_number_in_surah": 2480,
+      "word_surah": 2,
+      "word_translation": "(was) a community",
+      "word_transliteration": "ummatun"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2510,
+      "word_number_in_surah": 2481,
+      "word_surah": 2,
+      "word_translation": "(which)",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "خَلَتۡۖ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2511,
+      "word_number_in_surah": 2482,
+      "word_surah": 2,
+      "word_translation": "has passed away",
+      "word_transliteration": "khalat"
+    },
+    {
+      "word_arabic": "لَهَا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2512,
+      "word_number_in_surah": 2483,
+      "word_surah": 2,
+      "word_translation": "for it",
+      "word_transliteration": "laha"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2513,
+      "word_number_in_surah": 2484,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَسَبَتۡ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2514,
+      "word_number_in_surah": 2485,
+      "word_surah": 2,
+      "word_translation": "it earned",
+      "word_transliteration": "kasabat"
+    },
+    {
+      "word_arabic": "وَلَكُم",
+      "word_ayah": 141,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2515,
+      "word_number_in_surah": 2486,
+      "word_surah": 2,
+      "word_translation": "and for you",
+      "word_transliteration": "walakum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2516,
+      "word_number_in_surah": 2487,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَسَبۡتُمۡۖ",
+      "word_ayah": 141,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2517,
+      "word_number_in_surah": 2488,
+      "word_surah": 2,
+      "word_translation": "you have earned",
+      "word_transliteration": "kasabtum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2518,
+      "word_number_in_surah": 2489,
+      "word_surah": 2,
+      "word_translation": "And not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُسۡ‍َٔلُونَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2519,
+      "word_number_in_surah": 2490,
+      "word_surah": 2,
+      "word_translation": "you will be asked",
+      "word_transliteration": "tus'aluna"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2520,
+      "word_number_in_surah": 2491,
+      "word_surah": 2,
+      "word_translation": "about what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2521,
+      "word_number_in_surah": 2492,
+      "word_surah": 2,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2522,
+      "word_number_in_surah": 2493,
+      "word_surah": 2,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "تِلۡكَ أُمَّةٞ قَدۡ خَلَتۡۖ لَهَا مَا كَسَبَتۡ وَلَكُم مَّا كَسَبۡتُمۡۖ وَلَا تُسۡ‍َٔلُونَ عَمَّا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "That is a nation which has passed on. It will have [the consequence of] what it earned, and you will have what you have earned. And you will not be asked about what they used to do.",
+  "fullTransliteration": "til'ka ummatun qad khalat laha ma kasabat walakum ma kasabtum wala tus'aluna amma kanu ya'maluna"
+}

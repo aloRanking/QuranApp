@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 199,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 206,
+    "juz": 2,
+    "manzil": 1,
+    "page": 31,
+    "ruku": 26,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 199,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3755,
+      "word_number_in_surah": 3726,
+      "word_surah": 2,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "أَفِيضُواْ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3756,
+      "word_number_in_surah": 3727,
+      "word_surah": 2,
+      "word_translation": "depart",
+      "word_transliteration": "afidu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 199,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3757,
+      "word_number_in_surah": 3728,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3758,
+      "word_number_in_surah": 3729,
+      "word_surah": 2,
+      "word_translation": "wherever",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "أَفَاضَ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3759,
+      "word_number_in_surah": 3730,
+      "word_surah": 2,
+      "word_translation": "depart",
+      "word_transliteration": "afada"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3760,
+      "word_number_in_surah": 3731,
+      "word_surah": 2,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "وَٱسۡتَغۡفِرُواْ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3761,
+      "word_number_in_surah": 3732,
+      "word_surah": 2,
+      "word_translation": "and ask forgiveness",
+      "word_transliteration": "wa-is'taghfiru"
+    },
+    {
+      "word_arabic": "ٱللَّهَۚ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3762,
+      "word_number_in_surah": 3733,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 199,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3763,
+      "word_number_in_surah": 3734,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3764,
+      "word_number_in_surah": 3735,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3765,
+      "word_number_in_surah": 3736,
+      "word_surah": 2,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3766,
+      "word_number_in_surah": 3737,
+      "word_surah": 2,
+      "word_translation": "All-Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "ثُمَّ أَفِيضُواْ مِنۡ حَيۡثُ أَفَاضَ ٱلنَّاسُ وَٱسۡتَغۡفِرُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "Then depart from the place from where [all] the people depart and ask forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.",
+  "fullTransliteration": "thumma afidu min haythu afada al-nasu wa-is'taghfiru al-laha inna al-laha ghafurun rahimun"
+}

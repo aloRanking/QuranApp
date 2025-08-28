@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 182,
+    "surah": 7,
+    "words": 8,
+    "numberInQuran": 1136,
+    "juz": 9,
+    "manzil": 2,
+    "page": 174,
+    "ruku": 144,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22195,
+      "word_number_in_surah": 2968,
+      "word_surah": 7,
+      "word_translation": "But those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22196,
+      "word_number_in_surah": 2969,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22197,
+      "word_number_in_surah": 2970,
+      "word_surah": 7,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "سَنَسۡتَدۡرِجُهُم",
+      "word_ayah": 182,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22198,
+      "word_number_in_surah": 2971,
+      "word_surah": 7,
+      "word_translation": "We will gradually lead them",
+      "word_transliteration": "sanastadrijuhum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 182,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22199,
+      "word_number_in_surah": 2972,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22200,
+      "word_number_in_surah": 2973,
+      "word_surah": 7,
+      "word_translation": "where",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22201,
+      "word_number_in_surah": 2974,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22202,
+      "word_number_in_surah": 2975,
+      "word_surah": 7,
+      "word_translation": "they know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَا سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
+  "fullTranslation": "But those who deny Our signs - We will progressively lead them [to destruction] from where they do not know.",
+  "fullTransliteration": "wa-alladhina kadhabu biayatina sanastadrijuhum min haythu la ya'lamuna"
+}

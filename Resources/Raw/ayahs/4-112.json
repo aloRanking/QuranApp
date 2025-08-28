@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "ayah": 112,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 605,
+    "juz": 5,
+    "manzil": 1,
+    "page": 96,
+    "ruku": 77,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 112,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12119,
+      "word_number_in_surah": 2493,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَكۡسِبۡ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12120,
+      "word_number_in_surah": 2494,
+      "word_surah": 4,
+      "word_translation": "earns",
+      "word_transliteration": "yaksib"
+    },
+    {
+      "word_arabic": "خَطِيٓ‍َٔةً",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12121,
+      "word_number_in_surah": 2495,
+      "word_surah": 4,
+      "word_translation": "a fault",
+      "word_transliteration": "khatiatan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12122,
+      "word_number_in_surah": 2496,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "إِثۡمٗا",
+      "word_ayah": 112,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12123,
+      "word_number_in_surah": 2497,
+      "word_surah": 4,
+      "word_translation": "a sin",
+      "word_transliteration": "ith'man"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12124,
+      "word_number_in_surah": 2498,
+      "word_surah": 4,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يَرۡمِ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12125,
+      "word_number_in_surah": 2499,
+      "word_surah": 4,
+      "word_translation": "throws",
+      "word_transliteration": "yarmi"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12126,
+      "word_number_in_surah": 2500,
+      "word_surah": 4,
+      "word_translation": "it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "بَرِيٓ‍ٔٗا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12127,
+      "word_number_in_surah": 2501,
+      "word_surah": 4,
+      "word_translation": "(on) an innocent",
+      "word_transliteration": "barian"
+    },
+    {
+      "word_arabic": "فَقَدِ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12128,
+      "word_number_in_surah": 2502,
+      "word_surah": 4,
+      "word_translation": "then surely",
+      "word_transliteration": "faqadi"
+    },
+    {
+      "word_arabic": "ٱحۡتَمَلَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12129,
+      "word_number_in_surah": 2503,
+      "word_surah": 4,
+      "word_translation": "he (has) burdened (himself)",
+      "word_transliteration": "ih'tamala"
+    },
+    {
+      "word_arabic": "بُهۡتَٰنٗا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12130,
+      "word_number_in_surah": 2504,
+      "word_surah": 4,
+      "word_translation": "(with) a slander",
+      "word_transliteration": "buh'tanan"
+    },
+    {
+      "word_arabic": "وَإِثۡمٗا",
+      "word_ayah": 112,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12131,
+      "word_number_in_surah": 2505,
+      "word_surah": 4,
+      "word_translation": "and a sin",
+      "word_transliteration": "wa-ith'man"
+    },
+    {
+      "word_arabic": "مُّبِينٗا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12132,
+      "word_number_in_surah": 2506,
+      "word_surah": 4,
+      "word_translation": "manifest",
+      "word_transliteration": "mubinan"
+    }
+  ],
+  "fullArabic": "وَمَن يَكۡسِبۡ خَطِيٓ‍َٔةً أَوۡ إِثۡمٗا ثُمَّ يَرۡمِ بِهِۦ بَرِيٓ‍ٔٗا فَقَدِ ٱحۡتَمَلَ بُهۡتَٰنٗا وَإِثۡمٗا مُّبِينٗا",
+  "fullTranslation": "But whoever earns an offense or a sin and then blames it on an innocent [person] has taken upon himself a slander and manifest sin.",
+  "fullTransliteration": "waman yaksib khatiatan aw ith'man thumma yarmi bihi barian faqadi ih'tamala buh'tanan wa-ith'man mubinan"
+}

@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "ayah": 17,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 971,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19383,
+      "word_number_in_surah": 156,
+      "word_surah": 7,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "لَأٓتِيَنَّهُم",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19384,
+      "word_number_in_surah": 157,
+      "word_surah": 7,
+      "word_translation": "surely, I will come to them",
+      "word_transliteration": "laatiyannahum"
+    },
+    {
+      "word_arabic": "مِّنۢ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19385,
+      "word_number_in_surah": 158,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَيۡنِ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19386,
+      "word_number_in_surah": 159,
+      "word_surah": 7,
+      "word_translation": "before",
+      "word_transliteration": "bayni"
+    },
+    {
+      "word_arabic": "أَيۡدِيهِمۡ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19387,
+      "word_number_in_surah": 160,
+      "word_surah": 7,
+      "word_translation": "them",
+      "word_transliteration": "aydihim"
+    },
+    {
+      "word_arabic": "وَمِنۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19388,
+      "word_number_in_surah": 161,
+      "word_surah": 7,
+      "word_translation": "and from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "خَلۡفِهِمۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19389,
+      "word_number_in_surah": 162,
+      "word_surah": 7,
+      "word_translation": "behind them",
+      "word_transliteration": "khalfihim"
+    },
+    {
+      "word_arabic": "وَعَنۡ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19390,
+      "word_number_in_surah": 163,
+      "word_surah": 7,
+      "word_translation": "and from",
+      "word_transliteration": "wa'an"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنِهِمۡ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19391,
+      "word_number_in_surah": 164,
+      "word_surah": 7,
+      "word_translation": "their right",
+      "word_transliteration": "aymanihim"
+    },
+    {
+      "word_arabic": "وَعَن",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19392,
+      "word_number_in_surah": 165,
+      "word_surah": 7,
+      "word_translation": "and from",
+      "word_transliteration": "wa'an"
+    },
+    {
+      "word_arabic": "شَمَآئِلِهِمۡۖ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19393,
+      "word_number_in_surah": 166,
+      "word_surah": 7,
+      "word_translation": "their left",
+      "word_transliteration": "shamailihim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19394,
+      "word_number_in_surah": 167,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَجِدُ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19395,
+      "word_number_in_surah": 168,
+      "word_surah": 7,
+      "word_translation": "You (will) find",
+      "word_transliteration": "tajidu"
+    },
+    {
+      "word_arabic": "أَكۡثَرَهُمۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19396,
+      "word_number_in_surah": 169,
+      "word_surah": 7,
+      "word_translation": "most of them",
+      "word_transliteration": "aktharahum"
+    },
+    {
+      "word_arabic": "شَٰكِرِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19397,
+      "word_number_in_surah": 170,
+      "word_surah": 7,
+      "word_translation": "grateful",
+      "word_transliteration": "shakirina"
+    }
+  ],
+  "fullArabic": "ثُمَّ لَأٓتِيَنَّهُم مِّنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ وَعَنۡ أَيۡمَٰنِهِمۡ وَعَن شَمَآئِلِهِمۡۖ وَلَا تَجِدُ أَكۡثَرَهُمۡ شَٰكِرِينَ",
+  "fullTranslation": "Then I will come to them from before them and from behind them and on their right and on their left, and You will not find most of them grateful [to You].\"",
+  "fullTransliteration": "thumma laatiyannahum min bayni aydihim wamin khalfihim wa'an aymanihim wa'an shamailihim wala tajidu aktharahum shakirina"
+}

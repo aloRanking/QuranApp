@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "ayah": 21,
+    "surah": 7,
+    "words": 5,
+    "numberInQuran": 975,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَاسَمَهُمَآ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19451,
+      "word_number_in_surah": 224,
+      "word_surah": 7,
+      "word_translation": "And he swore (to) both of them",
+      "word_transliteration": "waqasamahuma"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19452,
+      "word_number_in_surah": 225,
+      "word_surah": 7,
+      "word_translation": "Indeed I am",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "لَكُمَا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19453,
+      "word_number_in_surah": 226,
+      "word_surah": 7,
+      "word_translation": "to both of you",
+      "word_transliteration": "lakuma"
+    },
+    {
+      "word_arabic": "لَمِنَ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19454,
+      "word_number_in_surah": 227,
+      "word_surah": 7,
+      "word_translation": "among",
+      "word_transliteration": "lamina"
+    },
+    {
+      "word_arabic": "ٱلنَّٰصِحِينَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19455,
+      "word_number_in_surah": 228,
+      "word_surah": 7,
+      "word_translation": "the sincere advisers",
+      "word_transliteration": "al-nasihina"
+    }
+  ],
+  "fullArabic": "وَقَاسَمَهُمَآ إِنِّي لَكُمَا لَمِنَ ٱلنَّٰصِحِينَ",
+  "fullTranslation": "And he swore [by Allah] to them, \"Indeed, I am to you from among the sincere advisors.\"",
+  "fullTransliteration": "waqasamahuma inni lakuma lamina al-nasihina"
+}

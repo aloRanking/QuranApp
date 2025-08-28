@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "ayah": 133,
+    "surah": 2,
+    "words": 27,
+    "numberInQuran": 140,
+    "juz": 1,
+    "manzil": 1,
+    "page": 20,
+    "ruku": 17,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2347,
+      "word_number_in_surah": 2318,
+      "word_surah": 2,
+      "word_translation": "Or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2348,
+      "word_number_in_surah": 2319,
+      "word_surah": 2,
+      "word_translation": "were you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "شُهَدَآءَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2349,
+      "word_number_in_surah": 2320,
+      "word_surah": 2,
+      "word_translation": "witnesses",
+      "word_transliteration": "shuhadaa"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2350,
+      "word_number_in_surah": 2321,
+      "word_surah": 2,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "حَضَرَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2351,
+      "word_number_in_surah": 2322,
+      "word_surah": 2,
+      "word_translation": "came to",
+      "word_transliteration": "hadara"
+    },
+    {
+      "word_arabic": "يَعۡقُوبَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2352,
+      "word_number_in_surah": 2323,
+      "word_surah": 2,
+      "word_translation": "Yaqub",
+      "word_transliteration": "ya'quba"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2353,
+      "word_number_in_surah": 2324,
+      "word_surah": 2,
+      "word_translation": "[the] death",
+      "word_transliteration": "al-mawtu"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2354,
+      "word_number_in_surah": 2325,
+      "word_surah": 2,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2355,
+      "word_number_in_surah": 2326,
+      "word_surah": 2,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "لِبَنِيهِ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2356,
+      "word_number_in_surah": 2327,
+      "word_surah": 2,
+      "word_translation": "to his sons",
+      "word_transliteration": "libanihi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2357,
+      "word_number_in_surah": 2328,
+      "word_surah": 2,
+      "word_translation": "What",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَعۡبُدُونَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2358,
+      "word_number_in_surah": 2329,
+      "word_surah": 2,
+      "word_translation": "will you worship",
+      "word_transliteration": "ta'buduna"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2359,
+      "word_number_in_surah": 2330,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِيۖ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2360,
+      "word_number_in_surah": 2331,
+      "word_surah": 2,
+      "word_translation": "after me",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2361,
+      "word_number_in_surah": 2332,
+      "word_surah": 2,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "نَعۡبُدُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2362,
+      "word_number_in_surah": 2333,
+      "word_surah": 2,
+      "word_translation": "We will worship",
+      "word_transliteration": "na'budu"
+    },
+    {
+      "word_arabic": "إِلَٰهَكَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2363,
+      "word_number_in_surah": 2334,
+      "word_surah": 2,
+      "word_translation": "your God",
+      "word_transliteration": "ilahaka"
+    },
+    {
+      "word_arabic": "وَإِلَٰهَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 2364,
+      "word_number_in_surah": 2335,
+      "word_surah": 2,
+      "word_translation": "and (the) God",
+      "word_transliteration": "wa-ilaha"
+    },
+    {
+      "word_arabic": "ءَابَآئِكَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 2365,
+      "word_number_in_surah": 2336,
+      "word_surah": 2,
+      "word_translation": "(of) your forefathers",
+      "word_transliteration": "abaika"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِ‍ۧمَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 2366,
+      "word_number_in_surah": 2337,
+      "word_surah": 2,
+      "word_translation": "Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "وَإِسۡمَٰعِيلَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 2367,
+      "word_number_in_surah": 2338,
+      "word_surah": 2,
+      "word_translation": "and Ismail",
+      "word_transliteration": "wa-is'ma'ila"
+    },
+    {
+      "word_arabic": "وَإِسۡحَٰقَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 2368,
+      "word_number_in_surah": 2339,
+      "word_surah": 2,
+      "word_translation": "and Ishaq",
+      "word_transliteration": "wa-is'haqa"
+    },
+    {
+      "word_arabic": "إِلَٰهٗا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 2369,
+      "word_number_in_surah": 2340,
+      "word_surah": 2,
+      "word_translation": "God",
+      "word_transliteration": "ilahan"
+    },
+    {
+      "word_arabic": "وَٰحِدٗا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 2370,
+      "word_number_in_surah": 2341,
+      "word_surah": 2,
+      "word_translation": "One",
+      "word_transliteration": "wahidan"
+    },
+    {
+      "word_arabic": "وَنَحۡنُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 2371,
+      "word_number_in_surah": 2342,
+      "word_surah": 2,
+      "word_translation": "And we",
+      "word_transliteration": "wanahnu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 2372,
+      "word_number_in_surah": 2343,
+      "word_surah": 2,
+      "word_translation": "to Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "مُسۡلِمُونَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 2373,
+      "word_number_in_surah": 2344,
+      "word_surah": 2,
+      "word_translation": "(are) submissive",
+      "word_transliteration": "mus'limuna"
+    }
+  ],
+  "fullArabic": "أَمۡ كُنتُمۡ شُهَدَآءَ إِذۡ حَضَرَ يَعۡقُوبَ ٱلۡمَوۡتُ إِذۡ قَالَ لِبَنِيهِ مَا تَعۡبُدُونَ مِنۢ بَعۡدِيۖ قَالُواْ نَعۡبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبۡرَٰهِ‍ۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ إِلَٰهٗا وَٰحِدٗا وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
+  "fullTranslation": "Or were you witnesses when death approached Jacob, when he said to his sons, \"What will you worship after me?\" They said, \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him.\"",
+  "fullTransliteration": "am kuntum shuhadaa idh hadara ya'quba al-mawtu idh qala libanihi ma ta'buduna min ba'di qalu na'budu ilahaka wa-ilaha abaika ib'rahima wa-is'ma'ila wa-is'haqa ilahan wahidan wanahnu lahu mus'limuna"
+}

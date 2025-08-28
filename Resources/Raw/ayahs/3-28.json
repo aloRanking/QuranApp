@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "ayah": 28,
+    "surah": 3,
+    "words": 27,
+    "numberInQuran": 321,
+    "juz": 3,
+    "manzil": 1,
+    "page": 53,
+    "ruku": 44,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6609,
+      "word_number_in_surah": 464,
+      "word_surah": 3,
+      "word_translation": "(Let) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَتَّخِذِ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6610,
+      "word_number_in_surah": 465,
+      "word_surah": 3,
+      "word_translation": "take",
+      "word_transliteration": "yattakhidhi"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنُونَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6611,
+      "word_number_in_surah": 466,
+      "word_surah": 3,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minuna"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6612,
+      "word_number_in_surah": 467,
+      "word_surah": 3,
+      "word_translation": "the disbelievers",
+      "word_transliteration": "al-kafirina"
+    },
+    {
+      "word_arabic": "أَوۡلِيَآءَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6613,
+      "word_number_in_surah": 468,
+      "word_surah": 3,
+      "word_translation": "(as) allies",
+      "word_transliteration": "awliyaa"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 28,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6614,
+      "word_number_in_surah": 469,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6615,
+      "word_number_in_surah": 470,
+      "word_surah": 3,
+      "word_translation": "instead of",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَۖ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6616,
+      "word_number_in_surah": 471,
+      "word_surah": 3,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 28,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6617,
+      "word_number_in_surah": 472,
+      "word_surah": 3,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَفۡعَلۡ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6618,
+      "word_number_in_surah": 473,
+      "word_surah": 3,
+      "word_translation": "does",
+      "word_transliteration": "yaf 'al"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6619,
+      "word_number_in_surah": 474,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "فَلَيۡسَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6620,
+      "word_number_in_surah": 475,
+      "word_surah": 3,
+      "word_translation": "then not he (has)",
+      "word_transliteration": "falaysa"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6621,
+      "word_number_in_surah": 476,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6622,
+      "word_number_in_surah": 477,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6623,
+      "word_number_in_surah": 478,
+      "word_surah": 3,
+      "word_translation": "[in]",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6624,
+      "word_number_in_surah": 479,
+      "word_surah": 3,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6625,
+      "word_number_in_surah": 480,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 28,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6626,
+      "word_number_in_surah": 481,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَتَّقُواْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6627,
+      "word_number_in_surah": 482,
+      "word_surah": 3,
+      "word_translation": "you fear",
+      "word_transliteration": "tattaqu"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6628,
+      "word_number_in_surah": 483,
+      "word_surah": 3,
+      "word_translation": "from them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "تُقَىٰةٗۗ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6629,
+      "word_number_in_surah": 484,
+      "word_surah": 3,
+      "word_translation": "(as) a precaution",
+      "word_transliteration": "tuqatan"
+    },
+    {
+      "word_arabic": "وَيُحَذِّرُكُمُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6630,
+      "word_number_in_surah": 485,
+      "word_surah": 3,
+      "word_translation": "And warns you",
+      "word_transliteration": "wayuhadhirukumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6631,
+      "word_number_in_surah": 486,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "نَفۡسَهُۥۗ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6632,
+      "word_number_in_surah": 487,
+      "word_surah": 3,
+      "word_translation": "(of) Himself",
+      "word_transliteration": "nafsahu"
+    },
+    {
+      "word_arabic": "وَإِلَى",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6633,
+      "word_number_in_surah": 488,
+      "word_surah": 3,
+      "word_translation": "and to",
+      "word_transliteration": "wa-ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6634,
+      "word_number_in_surah": 489,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلۡمَصِيرُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 6635,
+      "word_number_in_surah": 490,
+      "word_surah": 3,
+      "word_translation": "(is) the destination",
+      "word_transliteration": "al-masiru"
+    }
+  ],
+  "fullArabic": "لَّا يَتَّخِذِ ٱلۡمُؤۡمِنُونَ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ مِن دُونِ ٱلۡمُؤۡمِنِينَۖ وَمَن يَفۡعَلۡ ذَٰلِكَ فَلَيۡسَ مِنَ ٱللَّهِ فِي شَيۡءٍ إِلَّآ أَن تَتَّقُواْ مِنۡهُمۡ تُقَىٰةٗۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
+  "fullTranslation": "Let not believers take disbelievers as allies rather than believers. And whoever [of you] does that has nothing with Allah, except when taking precaution against them in prudence. And Allah warns you of Himself, and to Allah is the [final] destination.",
+  "fullTransliteration": "la yattakhidhi al-mu'minuna al-kafirina awliyaa min duni al-mu'minina waman yaf 'al dhalika falaysa mina al-lahi fi shayin illa an tattaqu min'hum tuqatan wayuhadhirukumu al-lahu nafsahu wa-ila al-lahi al-masiru"
+}

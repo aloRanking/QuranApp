@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 239,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 246,
+    "juz": 2,
+    "manzil": 1,
+    "page": 39,
+    "ruku": 32,
+    "hizbQuarter": 15,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِنۡ",
+      "word_ayah": 239,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4755,
+      "word_number_in_surah": 4726,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "خِفۡتُمۡ",
+      "word_ayah": 239,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4756,
+      "word_number_in_surah": 4727,
+      "word_surah": 2,
+      "word_translation": "you fear",
+      "word_transliteration": "khif'tum"
+    },
+    {
+      "word_arabic": "فَرِجَالًا",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4757,
+      "word_number_in_surah": 4728,
+      "word_surah": 2,
+      "word_translation": "then (pray) on foot",
+      "word_transliteration": "farijalan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 239,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4758,
+      "word_number_in_surah": 4729,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "رُكۡبَانٗاۖ",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4759,
+      "word_number_in_surah": 4730,
+      "word_surah": 2,
+      "word_translation": "riding",
+      "word_transliteration": "ruk'banan"
+    },
+    {
+      "word_arabic": "فَإِذَآ",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4760,
+      "word_number_in_surah": 4731,
+      "word_surah": 2,
+      "word_translation": "Then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "أَمِنتُمۡ",
+      "word_ayah": 239,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4761,
+      "word_number_in_surah": 4732,
+      "word_surah": 2,
+      "word_translation": "you are secure",
+      "word_transliteration": "amintum"
+    },
+    {
+      "word_arabic": "فَٱذۡكُرُواْ",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4762,
+      "word_number_in_surah": 4733,
+      "word_surah": 2,
+      "word_translation": "then remember",
+      "word_transliteration": "fa-udh'kuru"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4763,
+      "word_number_in_surah": 4734,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَمَا",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4764,
+      "word_number_in_surah": 4735,
+      "word_surah": 2,
+      "word_translation": "as",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "عَلَّمَكُم",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4765,
+      "word_number_in_surah": 4736,
+      "word_surah": 2,
+      "word_translation": "He (has) taught you",
+      "word_transliteration": "allamakum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4766,
+      "word_number_in_surah": 4737,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 239,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4767,
+      "word_number_in_surah": 4738,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4768,
+      "word_number_in_surah": 4739,
+      "word_surah": 2,
+      "word_translation": "you were",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 239,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4769,
+      "word_number_in_surah": 4740,
+      "word_surah": 2,
+      "word_translation": "knowing",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "فَإِنۡ خِفۡتُمۡ فَرِجَالًا أَوۡ رُكۡبَانٗاۖ فَإِذَآ أَمِنتُمۡ فَٱذۡكُرُواْ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
+  "fullTranslation": "And if you fear [an enemy, then pray] on foot or riding. But when you are secure, then remember Allah [in prayer], as He has taught you that which you did not [previously] know.",
+  "fullTransliteration": "fa-in khif'tum farijalan aw ruk'banan fa-idha amintum fa-udh'kuru al-laha kama allamakum ma lam takunu ta'lamuna"
+}

@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ayah": 15,
+    "surah": 8,
+    "words": 11,
+    "numberInQuran": 1175,
+    "juz": 9,
+    "manzil": 2,
+    "page": 178,
+    "ruku": 147,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22746,
+      "word_number_in_surah": 199,
+      "word_surah": 8,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22747,
+      "word_number_in_surah": 200,
+      "word_surah": 8,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22748,
+      "word_number_in_surah": 201,
+      "word_surah": 8,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22749,
+      "word_number_in_surah": 202,
+      "word_surah": 8,
+      "word_translation": "When",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "لَقِيتُمُ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22750,
+      "word_number_in_surah": 203,
+      "word_surah": 8,
+      "word_translation": "you meet",
+      "word_transliteration": "laqitumu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22751,
+      "word_number_in_surah": 204,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22752,
+      "word_number_in_surah": 205,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "زَحۡفٗا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22753,
+      "word_number_in_surah": 206,
+      "word_surah": 8,
+      "word_translation": "advancing",
+      "word_transliteration": "zahfan"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22754,
+      "word_number_in_surah": 207,
+      "word_surah": 8,
+      "word_translation": "then (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تُوَلُّوهُمُ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22755,
+      "word_number_in_surah": 208,
+      "word_surah": 8,
+      "word_translation": "turn to them",
+      "word_transliteration": "tuwalluhumu"
+    },
+    {
+      "word_arabic": "ٱلۡأَدۡبَارَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22756,
+      "word_number_in_surah": 209,
+      "word_surah": 8,
+      "word_translation": "the backs",
+      "word_transliteration": "al-adbara"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ زَحۡفٗا فَلَا تُوَلُّوهُمُ ٱلۡأَدۡبَارَ",
+  "fullTranslation": "O you who have believed, when you meet those who disbelieve advancing [for battle], do not turn to them your backs [in flight].",
+  "fullTransliteration": "yaayyuha alladhina amanu idha laqitumu alladhina kafaru zahfan fala tuwalluhumu al-adbara"
+}

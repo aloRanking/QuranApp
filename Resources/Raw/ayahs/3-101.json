@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "ayah": 101,
+    "surah": 3,
+    "words": 17,
+    "numberInQuran": 394,
+    "juz": 4,
+    "manzil": 1,
+    "page": 63,
+    "ruku": 51,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَيۡفَ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7849,
+      "word_number_in_surah": 1704,
+      "word_surah": 3,
+      "word_translation": "And how (could)",
+      "word_transliteration": "wakayfa"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونَ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7850,
+      "word_number_in_surah": 1705,
+      "word_surah": 3,
+      "word_translation": "you disbelieve",
+      "word_transliteration": "takfuruna"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7851,
+      "word_number_in_surah": 1706,
+      "word_surah": 3,
+      "word_translation": "while [you]",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تُتۡلَىٰ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7852,
+      "word_number_in_surah": 1707,
+      "word_surah": 3,
+      "word_translation": "is recited",
+      "word_transliteration": "tut'la"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7853,
+      "word_number_in_surah": 1708,
+      "word_surah": 3,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "ءَايَٰتُ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7854,
+      "word_number_in_surah": 1709,
+      "word_surah": 3,
+      "word_translation": "(the) Verses",
+      "word_transliteration": "ayatu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7855,
+      "word_number_in_surah": 1710,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَفِيكُمۡ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7856,
+      "word_number_in_surah": 1711,
+      "word_surah": 3,
+      "word_translation": "and among you",
+      "word_transliteration": "wafikum"
+    },
+    {
+      "word_arabic": "رَسُولُهُۥۗ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7857,
+      "word_number_in_surah": 1712,
+      "word_surah": 3,
+      "word_translation": "(is) His Messenger",
+      "word_transliteration": "rasuluhu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 101,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7858,
+      "word_number_in_surah": 1713,
+      "word_surah": 3,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَعۡتَصِم",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7859,
+      "word_number_in_surah": 1714,
+      "word_surah": 3,
+      "word_translation": "holds firmly",
+      "word_transliteration": "ya'tasim"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7860,
+      "word_number_in_surah": 1715,
+      "word_surah": 3,
+      "word_translation": "to Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7861,
+      "word_number_in_surah": 1716,
+      "word_surah": 3,
+      "word_translation": "then surely",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "هُدِيَ",
+      "word_ayah": 101,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7862,
+      "word_number_in_surah": 1717,
+      "word_surah": 3,
+      "word_translation": "he is guided",
+      "word_transliteration": "hudiya"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7863,
+      "word_number_in_surah": 1718,
+      "word_surah": 3,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "صِرَٰطٖ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7864,
+      "word_number_in_surah": 1719,
+      "word_surah": 3,
+      "word_translation": "a path",
+      "word_transliteration": "siratin"
+    },
+    {
+      "word_arabic": "مُّسۡتَقِيمٖ",
+      "word_ayah": 101,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7865,
+      "word_number_in_surah": 1720,
+      "word_surah": 3,
+      "word_translation": "straight",
+      "word_transliteration": "mus'taqimin"
+    }
+  ],
+  "fullArabic": "وَكَيۡفَ تَكۡفُرُونَ وَأَنتُمۡ تُتۡلَىٰ عَلَيۡكُمۡ ءَايَٰتُ ٱللَّهِ وَفِيكُمۡ رَسُولُهُۥۗ وَمَن يَعۡتَصِم بِٱللَّهِ فَقَدۡ هُدِيَ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "fullTranslation": "And how could you disbelieve while to you are being recited the verses of Allah and among you is His Messenger? And whoever holds firmly to Allah has [indeed] been guided to a straight path.",
+  "fullTransliteration": "wakayfa takfuruna wa-antum tut'la alaykum ayatu al-lahi wafikum rasuluhu waman ya'tasim bil-lahi faqad hudiya ila siratin mus'taqimin"
+}

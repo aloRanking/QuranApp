@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "ayah": 19,
+    "surah": 3,
+    "words": 26,
+    "numberInQuran": 312,
+    "juz": 3,
+    "manzil": 1,
+    "page": 52,
+    "ruku": 43,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6432,
+      "word_number_in_surah": 287,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلدِّينَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6433,
+      "word_number_in_surah": 288,
+      "word_surah": 3,
+      "word_translation": "the religion",
+      "word_transliteration": "al-dina"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6434,
+      "word_number_in_surah": 289,
+      "word_surah": 3,
+      "word_translation": "near",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6435,
+      "word_number_in_surah": 290,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلۡإِسۡلَٰمُۗ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6436,
+      "word_number_in_surah": 291,
+      "word_surah": 3,
+      "word_translation": "(is) Islam",
+      "word_transliteration": "al-is'lamu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6437,
+      "word_number_in_surah": 292,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱخۡتَلَفَ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6438,
+      "word_number_in_surah": 293,
+      "word_surah": 3,
+      "word_translation": "differed",
+      "word_transliteration": "ikh'talafa"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6439,
+      "word_number_in_surah": 294,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6440,
+      "word_number_in_surah": 295,
+      "word_surah": 3,
+      "word_translation": "were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6441,
+      "word_number_in_surah": 296,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6442,
+      "word_number_in_surah": 297,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6443,
+      "word_number_in_surah": 298,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6444,
+      "word_number_in_surah": 299,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6445,
+      "word_number_in_surah": 300,
+      "word_surah": 3,
+      "word_translation": "[what]",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "جَآءَهُمُ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6446,
+      "word_number_in_surah": 301,
+      "word_surah": 3,
+      "word_translation": "came to them",
+      "word_transliteration": "jaahumu"
+    },
+    {
+      "word_arabic": "ٱلۡعِلۡمُ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6447,
+      "word_number_in_surah": 302,
+      "word_surah": 3,
+      "word_translation": "[the] knowledge",
+      "word_transliteration": "al-'il'mu"
+    },
+    {
+      "word_arabic": "بَغۡيَۢا",
+      "word_ayah": 19,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6448,
+      "word_number_in_surah": 303,
+      "word_surah": 3,
+      "word_translation": "out of envy",
+      "word_transliteration": "baghyan"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمۡۗ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6449,
+      "word_number_in_surah": 304,
+      "word_surah": 3,
+      "word_translation": "among them",
+      "word_transliteration": "baynahum"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 19,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6450,
+      "word_number_in_surah": 305,
+      "word_surah": 3,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَكۡفُرۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6451,
+      "word_number_in_surah": 306,
+      "word_surah": 3,
+      "word_translation": "disbelieves",
+      "word_transliteration": "yakfur"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6452,
+      "word_number_in_surah": 307,
+      "word_surah": 3,
+      "word_translation": "in (the) Verses",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6453,
+      "word_number_in_surah": 308,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6454,
+      "word_number_in_surah": 309,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6455,
+      "word_number_in_surah": 310,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَرِيعُ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6456,
+      "word_number_in_surah": 311,
+      "word_surah": 3,
+      "word_translation": "(is) swift",
+      "word_transliteration": "sari'u"
+    },
+    {
+      "word_arabic": "ٱلۡحِسَابِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6457,
+      "word_number_in_surah": 312,
+      "word_surah": 3,
+      "word_translation": "(in taking) account",
+      "word_transliteration": "al-hisabi"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلۡإِسۡلَٰمُۗ وَمَا ٱخۡتَلَفَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۗ وَمَن يَكۡفُرۡ بِ‍َٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
+  "fullTranslation": "Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account.",
+  "fullTransliteration": "inna al-dina inda al-lahi al-is'lamu wama ikh'talafa alladhina utu al-kitaba illa min ba'di ma jaahumu al-'il'mu baghyan baynahum waman yakfur biayati al-lahi fa-inna al-laha sari'u al-hisabi"
+}

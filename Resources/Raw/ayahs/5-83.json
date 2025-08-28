@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "ayah": 83,
+    "surah": 5,
+    "words": 21,
+    "numberInQuran": 752,
+    "juz": 7,
+    "manzil": 2,
+    "page": 122,
+    "ruku": 96,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15337,
+      "word_number_in_surah": 1964,
+      "word_surah": 5,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "سَمِعُواْ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15338,
+      "word_number_in_surah": 1965,
+      "word_surah": 5,
+      "word_translation": "they listen",
+      "word_transliteration": "sami'u"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15339,
+      "word_number_in_surah": 1966,
+      "word_surah": 5,
+      "word_translation": "(to) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15340,
+      "word_number_in_surah": 1967,
+      "word_surah": 5,
+      "word_translation": "has been revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15341,
+      "word_number_in_surah": 1968,
+      "word_surah": 5,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15342,
+      "word_number_in_surah": 1969,
+      "word_surah": 5,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasuli"
+    },
+    {
+      "word_arabic": "تَرَىٰٓ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15343,
+      "word_number_in_surah": 1970,
+      "word_surah": 5,
+      "word_translation": "you see",
+      "word_transliteration": "tara"
+    },
+    {
+      "word_arabic": "أَعۡيُنَهُمۡ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15344,
+      "word_number_in_surah": 1971,
+      "word_surah": 5,
+      "word_translation": "their eyes",
+      "word_transliteration": "a'yunahum"
+    },
+    {
+      "word_arabic": "تَفِيضُ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15345,
+      "word_number_in_surah": 1972,
+      "word_surah": 5,
+      "word_translation": "overflowing",
+      "word_transliteration": "tafidu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15346,
+      "word_number_in_surah": 1973,
+      "word_surah": 5,
+      "word_translation": "with",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلدَّمۡعِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15347,
+      "word_number_in_surah": 1974,
+      "word_surah": 5,
+      "word_translation": "the tears",
+      "word_transliteration": "al-dam'i"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15348,
+      "word_number_in_surah": 1975,
+      "word_surah": 5,
+      "word_translation": "for what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "عَرَفُواْ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15349,
+      "word_number_in_surah": 1976,
+      "word_surah": 5,
+      "word_translation": "they recognized",
+      "word_transliteration": "arafu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15350,
+      "word_number_in_surah": 1977,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡحَقِّۖ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15351,
+      "word_number_in_surah": 1978,
+      "word_surah": 5,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqi"
+    },
+    {
+      "word_arabic": "يَقُولُونَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15352,
+      "word_number_in_surah": 1979,
+      "word_surah": 5,
+      "word_translation": "They say",
+      "word_transliteration": "yaquluna"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15353,
+      "word_number_in_surah": 1980,
+      "word_surah": 5,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15354,
+      "word_number_in_surah": 1981,
+      "word_surah": 5,
+      "word_translation": "we have believed",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "فَٱكۡتُبۡنَا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15355,
+      "word_number_in_surah": 1982,
+      "word_surah": 5,
+      "word_translation": "so write us",
+      "word_transliteration": "fa-uk'tub'na"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15356,
+      "word_number_in_surah": 1983,
+      "word_surah": 5,
+      "word_translation": "with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلشَّٰهِدِينَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15357,
+      "word_number_in_surah": 1984,
+      "word_surah": 5,
+      "word_translation": "the witnesses",
+      "word_transliteration": "al-shahidina"
+    }
+  ],
+  "fullArabic": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
+  "fullTranslation": "And when they hear what has been revealed to the Messenger, you see their eyes overflowing with tears because of what they have recognized of the truth. They say, \"Our Lord, we have believed, so register us among the witnesses.",
+  "fullTransliteration": "wa-idha sami'u ma unzila ila al-rasuli tara a'yunahum tafidu mina al-dam'i mimma arafu mina al-haqi yaquluna rabbana amanna fa-uk'tub'na ma'a al-shahidina"
+}

@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "ayah": 160,
+    "surah": 3,
+    "words": 18,
+    "numberInQuran": 453,
+    "juz": 4,
+    "manzil": 1,
+    "page": 71,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 160,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8883,
+      "word_number_in_surah": 2738,
+      "word_surah": 3,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَنصُرۡكُمُ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8884,
+      "word_number_in_surah": 2739,
+      "word_surah": 3,
+      "word_translation": "helps you",
+      "word_transliteration": "yansur'kumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8885,
+      "word_number_in_surah": 2740,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8886,
+      "word_number_in_surah": 2741,
+      "word_surah": 3,
+      "word_translation": "then not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "غَالِبَ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8887,
+      "word_number_in_surah": 2742,
+      "word_surah": 3,
+      "word_translation": "(can) overcome",
+      "word_transliteration": "ghaliba"
+    },
+    {
+      "word_arabic": "لَكُمۡۖ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8888,
+      "word_number_in_surah": 2743,
+      "word_surah": 3,
+      "word_translation": "[for] you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 160,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8889,
+      "word_number_in_surah": 2744,
+      "word_surah": 3,
+      "word_translation": "and if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَخۡذُلۡكُمۡ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8890,
+      "word_number_in_surah": 2745,
+      "word_surah": 3,
+      "word_translation": "He forsakes you",
+      "word_transliteration": "yakhdhul'kum"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 160,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8891,
+      "word_number_in_surah": 2746,
+      "word_surah": 3,
+      "word_translation": "then who",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "ذَا",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8892,
+      "word_number_in_surah": 2747,
+      "word_surah": 3,
+      "word_translation": "(is)",
+      "word_transliteration": "dha"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8893,
+      "word_number_in_surah": 2748,
+      "word_surah": 3,
+      "word_translation": "the one who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "يَنصُرُكُم",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8894,
+      "word_number_in_surah": 2749,
+      "word_surah": 3,
+      "word_translation": "can help you",
+      "word_transliteration": "yansurukum"
+    },
+    {
+      "word_arabic": "مِّنۢ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8895,
+      "word_number_in_surah": 2750,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِۦۗ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8896,
+      "word_number_in_surah": 2751,
+      "word_surah": 3,
+      "word_translation": "after Him",
+      "word_transliteration": "ba'dihi"
+    },
+    {
+      "word_arabic": "وَعَلَى",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8897,
+      "word_number_in_surah": 2752,
+      "word_surah": 3,
+      "word_translation": "And on",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8898,
+      "word_number_in_surah": 2753,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَلۡيَتَوَكَّلِ",
+      "word_ayah": 160,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8899,
+      "word_number_in_surah": 2754,
+      "word_surah": 3,
+      "word_translation": "let put (their) trust",
+      "word_transliteration": "falyatawakkali"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنُونَ",
+      "word_ayah": 160,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8900,
+      "word_number_in_surah": 2755,
+      "word_surah": 3,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minuna"
+    }
+  ],
+  "fullArabic": "إِن يَنصُرۡكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمۡۖ وَإِن يَخۡذُلۡكُمۡ فَمَن ذَا ٱلَّذِي يَنصُرُكُم مِّنۢ بَعۡدِهِۦۗ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+  "fullTranslation": "If Allah should aid you, no one can overcome you; but if He should forsake you, who is there that can aid you after Him? And upon Allah let the believers rely.",
+  "fullTransliteration": "in yansur'kumu al-lahu fala ghaliba lakum wa-in yakhdhul'kum faman dha alladhi yansurukum min ba'dihi wa'ala al-lahi falyatawakkali al-mu'minuna"
+}

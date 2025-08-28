@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "ayah": 102,
+    "surah": 3,
+    "words": 12,
+    "numberInQuran": 395,
+    "juz": 4,
+    "manzil": 1,
+    "page": 63,
+    "ruku": 52,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7866,
+      "word_number_in_surah": 1721,
+      "word_surah": 3,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7867,
+      "word_number_in_surah": 1722,
+      "word_surah": 3,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7868,
+      "word_number_in_surah": 1723,
+      "word_surah": 3,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱتَّقُواْ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7869,
+      "word_number_in_surah": 1724,
+      "word_surah": 3,
+      "word_translation": "Fear",
+      "word_transliteration": "ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7870,
+      "word_number_in_surah": 1725,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "حَقَّ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7871,
+      "word_number_in_surah": 1726,
+      "word_surah": 3,
+      "word_translation": "(as is His) right",
+      "word_transliteration": "haqqa"
+    },
+    {
+      "word_arabic": "تُقَاتِهِۦ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7872,
+      "word_number_in_surah": 1727,
+      "word_surah": 3,
+      "word_translation": "(that) He (should) be feared",
+      "word_transliteration": "tuqatihi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7873,
+      "word_number_in_surah": 1728,
+      "word_surah": 3,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَمُوتُنَّ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7874,
+      "word_number_in_surah": 1729,
+      "word_surah": 3,
+      "word_translation": "die",
+      "word_transliteration": "tamutunna"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7875,
+      "word_number_in_surah": 1730,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "وَأَنتُم",
+      "word_ayah": 102,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7876,
+      "word_number_in_surah": 1731,
+      "word_surah": 3,
+      "word_translation": "[while you]",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "مُّسۡلِمُونَ",
+      "word_ayah": 102,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7877,
+      "word_number_in_surah": 1732,
+      "word_surah": 3,
+      "word_translation": "(as) Muslims",
+      "word_transliteration": "mus'limuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسۡلِمُونَ",
+  "fullTranslation": "O you who have believed, fear Allah as He should be feared and do not die except as Muslims [in submission to Him].",
+  "fullTransliteration": "yaayyuha alladhina amanu ittaqu al-laha haqqa tuqatihi wala tamutunna illa wa-antum mus'limuna"
+}

@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "ayah": 20,
+    "surah": 5,
+    "words": 22,
+    "numberInQuran": 689,
+    "juz": 6,
+    "manzil": 2,
+    "page": 111,
+    "ruku": 89,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13973,
+      "word_number_in_surah": 600,
+      "word_surah": 5,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13974,
+      "word_number_in_surah": 601,
+      "word_surah": 5,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13975,
+      "word_number_in_surah": 602,
+      "word_surah": 5,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "لِقَوۡمِهِۦ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13976,
+      "word_number_in_surah": 603,
+      "word_surah": 5,
+      "word_translation": "to his people",
+      "word_transliteration": "liqawmihi"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13977,
+      "word_number_in_surah": 604,
+      "word_surah": 5,
+      "word_translation": "O my people",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "ٱذۡكُرُواْ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13978,
+      "word_number_in_surah": 605,
+      "word_surah": 5,
+      "word_translation": "remember",
+      "word_transliteration": "udh'kuru"
+    },
+    {
+      "word_arabic": "نِعۡمَةَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13979,
+      "word_number_in_surah": 606,
+      "word_surah": 5,
+      "word_translation": "(the) Favor",
+      "word_transliteration": "ni'mata"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13980,
+      "word_number_in_surah": 607,
+      "word_surah": 5,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13981,
+      "word_number_in_surah": 608,
+      "word_surah": 5,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13982,
+      "word_number_in_surah": 609,
+      "word_surah": 5,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "جَعَلَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13983,
+      "word_number_in_surah": 610,
+      "word_surah": 5,
+      "word_translation": "He placed",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "فِيكُمۡ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13984,
+      "word_number_in_surah": 611,
+      "word_surah": 5,
+      "word_translation": "among you",
+      "word_transliteration": "fikum"
+    },
+    {
+      "word_arabic": "أَنۢبِيَآءَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13985,
+      "word_number_in_surah": 612,
+      "word_surah": 5,
+      "word_translation": "Prophets",
+      "word_transliteration": "anbiyaa"
+    },
+    {
+      "word_arabic": "وَجَعَلَكُم",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13986,
+      "word_number_in_surah": 613,
+      "word_surah": 5,
+      "word_translation": "and made you",
+      "word_transliteration": "waja'alakum"
+    },
+    {
+      "word_arabic": "مُّلُوكٗا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13987,
+      "word_number_in_surah": 614,
+      "word_surah": 5,
+      "word_translation": "kings",
+      "word_transliteration": "mulukan"
+    },
+    {
+      "word_arabic": "وَءَاتَىٰكُم",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13988,
+      "word_number_in_surah": 615,
+      "word_surah": 5,
+      "word_translation": "and He gave you",
+      "word_transliteration": "waatakum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13989,
+      "word_number_in_surah": 616,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13990,
+      "word_number_in_surah": 617,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يُؤۡتِ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13991,
+      "word_number_in_surah": 618,
+      "word_surah": 5,
+      "word_translation": "He (had) given",
+      "word_transliteration": "yu'ti"
+    },
+    {
+      "word_arabic": "أَحَدٗا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13992,
+      "word_number_in_surah": 619,
+      "word_surah": 5,
+      "word_translation": "(to) anyone",
+      "word_transliteration": "ahadan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13993,
+      "word_number_in_surah": 620,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13994,
+      "word_number_in_surah": 621,
+      "word_surah": 5,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ جَعَلَ فِيكُمۡ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكٗا وَءَاتَىٰكُم مَّا لَمۡ يُؤۡتِ أَحَدٗا مِّنَ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "And [mention, O Muhammad], when Moses said to his people, \"O my people, remember the favor of Allah upon you when He appointed among you prophets and made you possessors and gave you that which He had not given anyone among the worlds.",
+  "fullTransliteration": "wa-idh qala musa liqawmihi yaqawmi udh'kuru ni'mata al-lahi alaykum idh ja'ala fikum anbiyaa waja'alakum mulukan waatakum ma lam yu'ti ahadan mina al-'alamina"
+}

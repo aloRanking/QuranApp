@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 13,
+    "surah": 4,
+    "words": 18,
+    "numberInQuran": 506,
+    "juz": 4,
+    "manzil": 1,
+    "page": 79,
+    "ruku": 63,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "تِلۡكَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9985,
+      "word_number_in_surah": 359,
+      "word_surah": 4,
+      "word_translation": "These",
+      "word_transliteration": "til'ka"
+    },
+    {
+      "word_arabic": "حُدُودُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9986,
+      "word_number_in_surah": 360,
+      "word_surah": 4,
+      "word_translation": "(are the) limits",
+      "word_transliteration": "hududu"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9987,
+      "word_number_in_surah": 361,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 13,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9988,
+      "word_number_in_surah": 362,
+      "word_surah": 4,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُطِعِ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9989,
+      "word_number_in_surah": 363,
+      "word_surah": 4,
+      "word_translation": "obeys",
+      "word_transliteration": "yuti'i"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9990,
+      "word_number_in_surah": 364,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَرَسُولَهُۥ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9991,
+      "word_number_in_surah": 365,
+      "word_surah": 4,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulahu"
+    },
+    {
+      "word_arabic": "يُدۡخِلۡهُ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9992,
+      "word_number_in_surah": 366,
+      "word_surah": 4,
+      "word_translation": "He will admit him",
+      "word_transliteration": "yud'khil'hu"
+    },
+    {
+      "word_arabic": "جَنَّٰتٖ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9993,
+      "word_number_in_surah": 367,
+      "word_surah": 4,
+      "word_translation": "(to) Gardens",
+      "word_transliteration": "jannatin"
+    },
+    {
+      "word_arabic": "تَجۡرِي",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9994,
+      "word_number_in_surah": 368,
+      "word_surah": 4,
+      "word_translation": "flows",
+      "word_transliteration": "tajri"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 13,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9995,
+      "word_number_in_surah": 369,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "تَحۡتِهَا",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9996,
+      "word_number_in_surah": 370,
+      "word_surah": 4,
+      "word_translation": "underneath them",
+      "word_transliteration": "tahtiha"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡهَٰرُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9997,
+      "word_number_in_surah": 371,
+      "word_surah": 4,
+      "word_translation": "the rivers",
+      "word_transliteration": "al-anharu"
+    },
+    {
+      "word_arabic": "خَٰلِدِينَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9998,
+      "word_number_in_surah": 372,
+      "word_surah": 4,
+      "word_translation": "(will) abide forever",
+      "word_transliteration": "khalidina"
+    },
+    {
+      "word_arabic": "فِيهَاۚ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9999,
+      "word_number_in_surah": 373,
+      "word_surah": 4,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَذَٰلِكَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10000,
+      "word_number_in_surah": 374,
+      "word_surah": 4,
+      "word_translation": "And that",
+      "word_transliteration": "wadhalika"
+    },
+    {
+      "word_arabic": "ٱلۡفَوۡزُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10001,
+      "word_number_in_surah": 375,
+      "word_surah": 4,
+      "word_translation": "(is) the success",
+      "word_transliteration": "al-fawzu"
+    },
+    {
+      "word_arabic": "ٱلۡعَظِيمُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10002,
+      "word_number_in_surah": 376,
+      "word_surah": 4,
+      "word_translation": "[the] great",
+      "word_transliteration": "al-'azimu"
+    }
+  ],
+  "fullArabic": "تِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدۡخِلۡهُ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+  "fullTranslation": "These are the limits [set by] Allah, and whoever obeys Allah and His Messenger will be admitted by Him to gardens [in Paradise] under which rivers flow, abiding eternally therein; and that is the great attainment.",
+  "fullTransliteration": "til'ka hududu al-lahi waman yuti'i al-laha warasulahu yud'khil'hu jannatin tajri min tahtiha al-anharu khalidina fiha wadhalika al-fawzu al-'azimu"
+}

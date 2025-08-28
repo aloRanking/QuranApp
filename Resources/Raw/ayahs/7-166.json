@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 166,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1120,
+    "juz": 9,
+    "manzil": 2,
+    "page": 172,
+    "ruku": 142,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21923,
+      "word_number_in_surah": 2696,
+      "word_surah": 7,
+      "word_translation": "So when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "عَتَوۡاْ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21924,
+      "word_number_in_surah": 2697,
+      "word_surah": 7,
+      "word_translation": "they exceeded all bounds",
+      "word_transliteration": "ataw"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21925,
+      "word_number_in_surah": 2698,
+      "word_surah": 7,
+      "word_translation": "about",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21926,
+      "word_number_in_surah": 2699,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "نُهُواْ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21927,
+      "word_number_in_surah": 2700,
+      "word_surah": 7,
+      "word_translation": "they were forbidden",
+      "word_transliteration": "nuhu"
+    },
+    {
+      "word_arabic": "عَنۡهُ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21928,
+      "word_number_in_surah": 2701,
+      "word_surah": 7,
+      "word_translation": "from it",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "قُلۡنَا",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21929,
+      "word_number_in_surah": 2702,
+      "word_surah": 7,
+      "word_translation": "We said",
+      "word_transliteration": "qul'na"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21930,
+      "word_number_in_surah": 2703,
+      "word_surah": 7,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "كُونُواْ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21931,
+      "word_number_in_surah": 2704,
+      "word_surah": 7,
+      "word_translation": "Be",
+      "word_transliteration": "kunu"
+    },
+    {
+      "word_arabic": "قِرَدَةً",
+      "word_ayah": 166,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21932,
+      "word_number_in_surah": 2705,
+      "word_surah": 7,
+      "word_translation": "apes",
+      "word_transliteration": "qiradatan"
+    },
+    {
+      "word_arabic": "خَٰسِ‍ِٔينَ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21933,
+      "word_number_in_surah": 2706,
+      "word_surah": 7,
+      "word_translation": "despised",
+      "word_transliteration": "khasiina"
+    }
+  ],
+  "fullArabic": "فَلَمَّا عَتَوۡاْ عَن مَّا نُهُواْ عَنۡهُ قُلۡنَا لَهُمۡ كُونُواْ قِرَدَةً خَٰسِ‍ِٔينَ",
+  "fullTranslation": "So when they were insolent about that which they had been forbidden, We said to them, \"Be apes, despised.\"",
+  "fullTransliteration": "falamma ataw an ma nuhu anhu qul'na lahum kunu qiradatan khasiina"
+}

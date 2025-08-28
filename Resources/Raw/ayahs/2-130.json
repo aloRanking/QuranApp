@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "ayah": 130,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 137,
+    "juz": 1,
+    "manzil": 1,
+    "page": 20,
+    "ruku": 17,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 130,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2304,
+      "word_number_in_surah": 2275,
+      "word_surah": 2,
+      "word_translation": "And who",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَرۡغَبُ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2305,
+      "word_number_in_surah": 2276,
+      "word_surah": 2,
+      "word_translation": "will turn away",
+      "word_transliteration": "yarghabu"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2306,
+      "word_number_in_surah": 2277,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "مِّلَّةِ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2307,
+      "word_number_in_surah": 2278,
+      "word_surah": 2,
+      "word_translation": "(the) religion",
+      "word_transliteration": "millati"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِ‍ۧمَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2308,
+      "word_number_in_surah": 2279,
+      "word_surah": 2,
+      "word_translation": "(of) Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2309,
+      "word_number_in_surah": 2280,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 130,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2310,
+      "word_number_in_surah": 2281,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "سَفِهَ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2311,
+      "word_number_in_surah": 2282,
+      "word_surah": 2,
+      "word_translation": "fooled",
+      "word_transliteration": "safiha"
+    },
+    {
+      "word_arabic": "نَفۡسَهُۥۚ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2312,
+      "word_number_in_surah": 2283,
+      "word_surah": 2,
+      "word_translation": "himself",
+      "word_transliteration": "nafsahu"
+    },
+    {
+      "word_arabic": "وَلَقَدِ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2313,
+      "word_number_in_surah": 2284,
+      "word_surah": 2,
+      "word_translation": "And indeed",
+      "word_transliteration": "walaqadi"
+    },
+    {
+      "word_arabic": "ٱصۡطَفَيۡنَٰهُ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2314,
+      "word_number_in_surah": 2285,
+      "word_surah": 2,
+      "word_translation": "We chose him",
+      "word_transliteration": "is'tafaynahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2315,
+      "word_number_in_surah": 2286,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَاۖ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2316,
+      "word_number_in_surah": 2287,
+      "word_surah": 2,
+      "word_translation": "the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَإِنَّهُۥ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2317,
+      "word_number_in_surah": 2288,
+      "word_surah": 2,
+      "word_translation": "and indeed he",
+      "word_transliteration": "wa-innahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2318,
+      "word_number_in_surah": 2289,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةِ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2319,
+      "word_number_in_surah": 2290,
+      "word_surah": 2,
+      "word_translation": "the Hereafter",
+      "word_transliteration": "al-akhirati"
+    },
+    {
+      "word_arabic": "لَمِنَ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2320,
+      "word_number_in_surah": 2291,
+      "word_surah": 2,
+      "word_translation": "surely (will be) among",
+      "word_transliteration": "lamina"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحِينَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 2321,
+      "word_number_in_surah": 2292,
+      "word_surah": 2,
+      "word_translation": "the righteous",
+      "word_transliteration": "al-salihina"
+    }
+  ],
+  "fullArabic": "وَمَن يَرۡغَبُ عَن مِّلَّةِ إِبۡرَٰهِ‍ۧمَ إِلَّا مَن سَفِهَ نَفۡسَهُۥۚ وَلَقَدِ ٱصۡطَفَيۡنَٰهُ فِي ٱلدُّنۡيَاۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
+  "fullTranslation": "And who would be averse to the religion of Abraham except one who makes a fool of himself. And We had chosen him in this world, and indeed he, in the Hereafter, will be among the righteous.",
+  "fullTransliteration": "waman yarghabu an millati ib'rahima illa man safiha nafsahu walaqadi is'tafaynahu fi al-dun'ya wa-innahu fi al-akhirati lamina al-salihina"
+}

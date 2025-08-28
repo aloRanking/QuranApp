@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 111,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 1065,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20969,
+      "word_number_in_surah": 1742,
+      "word_surah": 7,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَرۡجِهۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20970,
+      "word_number_in_surah": 1743,
+      "word_surah": 7,
+      "word_translation": "Postpone him",
+      "word_transliteration": "arjih"
+    },
+    {
+      "word_arabic": "وَأَخَاهُ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20971,
+      "word_number_in_surah": 1744,
+      "word_surah": 7,
+      "word_translation": "and his brother",
+      "word_transliteration": "wa-akhahu"
+    },
+    {
+      "word_arabic": "وَأَرۡسِلۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20972,
+      "word_number_in_surah": 1745,
+      "word_surah": 7,
+      "word_translation": "and send",
+      "word_transliteration": "wa-arsil"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20973,
+      "word_number_in_surah": 1746,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡمَدَآئِنِ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20974,
+      "word_number_in_surah": 1747,
+      "word_surah": 7,
+      "word_translation": "the cities",
+      "word_transliteration": "al-madaini"
+    },
+    {
+      "word_arabic": "حَٰشِرِينَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20975,
+      "word_number_in_surah": 1748,
+      "word_surah": 7,
+      "word_translation": "gatherers",
+      "word_transliteration": "hashirina"
+    }
+  ],
+  "fullArabic": "قَالُوٓاْ أَرۡجِهۡ وَأَخَاهُ وَأَرۡسِلۡ فِي ٱلۡمَدَآئِنِ حَٰشِرِينَ",
+  "fullTranslation": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers",
+  "fullTransliteration": "qalu arjih wa-akhahu wa-arsil fi al-madaini hashirina"
+}

@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "ayah": 78,
+    "surah": 3,
+    "words": 29,
+    "numberInQuran": 371,
+    "juz": 3,
+    "manzil": 1,
+    "page": 60,
+    "ruku": 49,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7457,
+      "word_number_in_surah": 1312,
+      "word_surah": 3,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7458,
+      "word_number_in_surah": 1313,
+      "word_surah": 3,
+      "word_translation": "among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "لَفَرِيقٗا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7459,
+      "word_number_in_surah": 1314,
+      "word_surah": 3,
+      "word_translation": "surely (is) a group",
+      "word_transliteration": "lafariqan"
+    },
+    {
+      "word_arabic": "يَلۡوُۥنَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7460,
+      "word_number_in_surah": 1315,
+      "word_surah": 3,
+      "word_translation": "they distort",
+      "word_transliteration": "yalwuna"
+    },
+    {
+      "word_arabic": "أَلۡسِنَتَهُم",
+      "word_ayah": 78,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7461,
+      "word_number_in_surah": 1316,
+      "word_surah": 3,
+      "word_translation": "their tongues",
+      "word_transliteration": "alsinatahum"
+    },
+    {
+      "word_arabic": "بِٱلۡكِتَٰبِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7462,
+      "word_number_in_surah": 1317,
+      "word_surah": 3,
+      "word_translation": "in (reciting) the Book",
+      "word_transliteration": "bil-kitabi"
+    },
+    {
+      "word_arabic": "لِتَحۡسَبُوهُ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7463,
+      "word_number_in_surah": 1318,
+      "word_surah": 3,
+      "word_translation": "so that you may think it",
+      "word_transliteration": "litahsabuhu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7464,
+      "word_number_in_surah": 1319,
+      "word_surah": 3,
+      "word_translation": "(is) from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7465,
+      "word_number_in_surah": 1320,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7466,
+      "word_number_in_surah": 1321,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7467,
+      "word_number_in_surah": 1322,
+      "word_surah": 3,
+      "word_translation": "it",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7468,
+      "word_number_in_surah": 1323,
+      "word_surah": 3,
+      "word_translation": "(is) from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7469,
+      "word_number_in_surah": 1324,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "وَيَقُولُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7470,
+      "word_number_in_surah": 1325,
+      "word_surah": 3,
+      "word_translation": "And they say",
+      "word_transliteration": "wayaquluna"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7471,
+      "word_number_in_surah": 1326,
+      "word_surah": 3,
+      "word_translation": "It",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7472,
+      "word_number_in_surah": 1327,
+      "word_surah": 3,
+      "word_translation": "(is)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7473,
+      "word_number_in_surah": 1328,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7474,
+      "word_number_in_surah": 1329,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7475,
+      "word_number_in_surah": 1330,
+      "word_surah": 3,
+      "word_translation": "But not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7476,
+      "word_number_in_surah": 1331,
+      "word_surah": 3,
+      "word_translation": "it",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7477,
+      "word_number_in_surah": 1332,
+      "word_surah": 3,
+      "word_translation": "(is)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7478,
+      "word_number_in_surah": 1333,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7479,
+      "word_number_in_surah": 1334,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَيَقُولُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7480,
+      "word_number_in_surah": 1335,
+      "word_surah": 3,
+      "word_translation": "And they say",
+      "word_transliteration": "wayaquluna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 7481,
+      "word_number_in_surah": 1336,
+      "word_surah": 3,
+      "word_translation": "about",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 7482,
+      "word_number_in_surah": 1337,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلۡكَذِبَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 7483,
+      "word_number_in_surah": 1338,
+      "word_surah": 3,
+      "word_translation": "the lie",
+      "word_transliteration": "al-kadhiba"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 7484,
+      "word_number_in_surah": 1339,
+      "word_surah": 3,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 7485,
+      "word_number_in_surah": 1340,
+      "word_surah": 3,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "وَإِنَّ مِنۡهُمۡ لَفَرِيقٗا يَلۡوُۥنَ أَلۡسِنَتَهُم بِٱلۡكِتَٰبِ لِتَحۡسَبُوهُ مِنَ ٱلۡكِتَٰبِ وَمَا هُوَ مِنَ ٱلۡكِتَٰبِ وَيَقُولُونَ هُوَ مِنۡ عِندِ ٱللَّهِ وَمَا هُوَ مِنۡ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
+  "fullTranslation": "And indeed, there is among them a party who alter the Scripture with their tongues so you may think it is from the Scripture, but it is not from the Scripture. And they say, \"This is from Allah,\" but it is not from Allah. And they speak untruth about Allah while they know.",
+  "fullTransliteration": "wa-inna min'hum lafariqan yalwuna alsinatahum bil-kitabi litahsabuhu mina al-kitabi wama huwa mina al-kitabi wayaquluna huwa min indi al-lahi wama huwa min indi al-lahi wayaquluna ala al-lahi al-kadhiba wahum ya'lamuna"
+}

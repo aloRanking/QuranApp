@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 74,
+    "surah": 8,
+    "words": 18,
+    "numberInQuran": 1234,
+    "juz": 10,
+    "manzil": 2,
+    "page": 186,
+    "ruku": 155,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23742,
+      "word_number_in_surah": 1195,
+      "word_surah": 8,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23743,
+      "word_number_in_surah": 1196,
+      "word_surah": 8,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَهَاجَرُواْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23744,
+      "word_number_in_surah": 1197,
+      "word_surah": 8,
+      "word_translation": "and emigrated",
+      "word_transliteration": "wahajaru"
+    },
+    {
+      "word_arabic": "وَجَٰهَدُواْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23745,
+      "word_number_in_surah": 1198,
+      "word_surah": 8,
+      "word_translation": "and strove hard",
+      "word_transliteration": "wajahadu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23746,
+      "word_number_in_surah": 1199,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23747,
+      "word_number_in_surah": 1200,
+      "word_surah": 8,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23748,
+      "word_number_in_surah": 1201,
+      "word_surah": 8,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23749,
+      "word_number_in_surah": 1202,
+      "word_surah": 8,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَاوَواْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23750,
+      "word_number_in_surah": 1203,
+      "word_surah": 8,
+      "word_translation": "gave shelter",
+      "word_transliteration": "awaw"
+    },
+    {
+      "word_arabic": "وَّنَصَرُوٓاْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23751,
+      "word_number_in_surah": 1204,
+      "word_surah": 8,
+      "word_translation": "and helped",
+      "word_transliteration": "wanasaru"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23752,
+      "word_number_in_surah": 1205,
+      "word_surah": 8,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23753,
+      "word_number_in_surah": 1206,
+      "word_surah": 8,
+      "word_translation": "they (are)",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنُونَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23754,
+      "word_number_in_surah": 1207,
+      "word_surah": 8,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minuna"
+    },
+    {
+      "word_arabic": "حَقّٗاۚ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23755,
+      "word_number_in_surah": 1208,
+      "word_surah": 8,
+      "word_translation": "(in) truth",
+      "word_transliteration": "haqqan"
+    },
+    {
+      "word_arabic": "لَّهُم",
+      "word_ayah": 74,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23756,
+      "word_number_in_surah": 1209,
+      "word_surah": 8,
+      "word_translation": "For them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "مَّغۡفِرَةٞ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23757,
+      "word_number_in_surah": 1210,
+      "word_surah": 8,
+      "word_translation": "(is) forgiveness",
+      "word_transliteration": "maghfiratun"
+    },
+    {
+      "word_arabic": "وَرِزۡقٞ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23758,
+      "word_number_in_surah": 1211,
+      "word_surah": 8,
+      "word_translation": "and a provision",
+      "word_transliteration": "wariz'qun"
+    },
+    {
+      "word_arabic": "كَرِيمٞ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23759,
+      "word_number_in_surah": 1212,
+      "word_surah": 8,
+      "word_translation": "noble",
+      "word_transliteration": "karimun"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+  "fullTranslation": "But those who have believed and emigrated and fought in the cause of Allah and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision.",
+  "fullTransliteration": "wa-alladhina amanu wahajaru wajahadu fi sabili al-lahi wa-alladhina awaw wanasaru ulaika humu al-mu'minuna haqqan lahum maghfiratun wariz'qun karimun"
+}

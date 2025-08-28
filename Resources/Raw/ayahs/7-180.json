@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 180,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1134,
+    "juz": 9,
+    "manzil": 2,
+    "page": 174,
+    "ruku": 143,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22174,
+      "word_number_in_surah": 2947,
+      "word_surah": 7,
+      "word_translation": "And for Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "ٱلۡأَسۡمَآءُ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22175,
+      "word_number_in_surah": 2948,
+      "word_surah": 7,
+      "word_translation": "(are) the names",
+      "word_transliteration": "al-asmau"
+    },
+    {
+      "word_arabic": "ٱلۡحُسۡنَىٰ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22176,
+      "word_number_in_surah": 2949,
+      "word_surah": 7,
+      "word_translation": "the most beautiful",
+      "word_transliteration": "al-hus'na"
+    },
+    {
+      "word_arabic": "فَٱدۡعُوهُ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22177,
+      "word_number_in_surah": 2950,
+      "word_surah": 7,
+      "word_translation": "so invoke Him",
+      "word_transliteration": "fa-id'uhu"
+    },
+    {
+      "word_arabic": "بِهَاۖ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22178,
+      "word_number_in_surah": 2951,
+      "word_surah": 7,
+      "word_translation": "by them",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "وَذَرُواْ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22179,
+      "word_number_in_surah": 2952,
+      "word_surah": 7,
+      "word_translation": "And leave",
+      "word_transliteration": "wadharu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22180,
+      "word_number_in_surah": 2953,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُلۡحِدُونَ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22181,
+      "word_number_in_surah": 2954,
+      "word_surah": 7,
+      "word_translation": "deviate",
+      "word_transliteration": "yul'hiduna"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22182,
+      "word_number_in_surah": 2955,
+      "word_surah": 7,
+      "word_translation": "concerning",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَسۡمَٰٓئِهِۦۚ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22183,
+      "word_number_in_surah": 2956,
+      "word_surah": 7,
+      "word_translation": "His names",
+      "word_transliteration": "asmaihi"
+    },
+    {
+      "word_arabic": "سَيُجۡزَوۡنَ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22184,
+      "word_number_in_surah": 2957,
+      "word_surah": 7,
+      "word_translation": "They will be recompensed",
+      "word_transliteration": "sayuj'zawna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22185,
+      "word_number_in_surah": 2958,
+      "word_surah": 7,
+      "word_translation": "for what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22186,
+      "word_number_in_surah": 2959,
+      "word_surah": 7,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22187,
+      "word_number_in_surah": 2960,
+      "word_surah": 7,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "وَلِلَّهِ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰ فَٱدۡعُوهُ بِهَاۖ وَذَرُواْ ٱلَّذِينَ يُلۡحِدُونَ فِيٓ أَسۡمَٰٓئِهِۦۚ سَيُجۡزَوۡنَ مَا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "And to Allah belong the best names, so invoke Him by them. And leave [the company of] those who practice deviation concerning His names. They will be recompensed for what they have been doing.",
+  "fullTransliteration": "walillahi al-asmau al-hus'na fa-id'uhu biha wadharu alladhina yul'hiduna fi asmaihi sayuj'zawna ma kanu ya'maluna"
+}

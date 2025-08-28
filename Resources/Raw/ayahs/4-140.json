@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "ayah": 140,
+    "surah": 4,
+    "words": 33,
+    "numberInQuran": 633,
+    "juz": 5,
+    "manzil": 1,
+    "page": 100,
+    "ruku": 81,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12647,
+      "word_number_in_surah": 3021,
+      "word_surah": 4,
+      "word_translation": "And surely",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "نَزَّلَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12648,
+      "word_number_in_surah": 3022,
+      "word_surah": 4,
+      "word_translation": "He has revealed",
+      "word_transliteration": "nazzala"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12649,
+      "word_number_in_surah": 3023,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12650,
+      "word_number_in_surah": 3024,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12651,
+      "word_number_in_surah": 3025,
+      "word_surah": 4,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12652,
+      "word_number_in_surah": 3026,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12653,
+      "word_number_in_surah": 3027,
+      "word_surah": 4,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "سَمِعۡتُمۡ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12654,
+      "word_number_in_surah": 3028,
+      "word_surah": 4,
+      "word_translation": "you hear",
+      "word_transliteration": "sami'tum"
+    },
+    {
+      "word_arabic": "ءَايَٰتِ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12655,
+      "word_number_in_surah": 3029,
+      "word_surah": 4,
+      "word_translation": "(the) Verses",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12656,
+      "word_number_in_surah": 3030,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يُكۡفَرُ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12657,
+      "word_number_in_surah": 3031,
+      "word_surah": 4,
+      "word_translation": "being rejected",
+      "word_transliteration": "yuk'faru"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12658,
+      "word_number_in_surah": 3032,
+      "word_surah": 4,
+      "word_translation": "[it]",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "وَيُسۡتَهۡزَأُ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12659,
+      "word_number_in_surah": 3033,
+      "word_surah": 4,
+      "word_translation": "and ridiculed",
+      "word_transliteration": "wayus'tahza-u"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12660,
+      "word_number_in_surah": 3034,
+      "word_surah": 4,
+      "word_translation": "at [it]",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12661,
+      "word_number_in_surah": 3035,
+      "word_surah": 4,
+      "word_translation": "then do not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَقۡعُدُواْ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12662,
+      "word_number_in_surah": 3036,
+      "word_surah": 4,
+      "word_translation": "sit",
+      "word_transliteration": "taq'udu"
+    },
+    {
+      "word_arabic": "مَعَهُمۡ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12663,
+      "word_number_in_surah": 3037,
+      "word_surah": 4,
+      "word_translation": "with them",
+      "word_transliteration": "ma'ahum"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12664,
+      "word_number_in_surah": 3038,
+      "word_surah": 4,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَخُوضُواْ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12665,
+      "word_number_in_surah": 3039,
+      "word_surah": 4,
+      "word_translation": "they engage",
+      "word_transliteration": "yakhudu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12666,
+      "word_number_in_surah": 3040,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "حَدِيثٍ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12667,
+      "word_number_in_surah": 3041,
+      "word_surah": 4,
+      "word_translation": "a conversation",
+      "word_transliteration": "hadithin"
+    },
+    {
+      "word_arabic": "غَيۡرِهِۦٓ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12668,
+      "word_number_in_surah": 3042,
+      "word_surah": 4,
+      "word_translation": "other than that",
+      "word_transliteration": "ghayrihi"
+    },
+    {
+      "word_arabic": "إِنَّكُمۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 12669,
+      "word_number_in_surah": 3043,
+      "word_surah": 4,
+      "word_translation": "Indeed you",
+      "word_transliteration": "innakum"
+    },
+    {
+      "word_arabic": "إِذٗا",
+      "word_ayah": 140,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 12670,
+      "word_number_in_surah": 3044,
+      "word_surah": 4,
+      "word_translation": "then",
+      "word_transliteration": "idhan"
+    },
+    {
+      "word_arabic": "مِّثۡلُهُمۡۗ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 12671,
+      "word_number_in_surah": 3045,
+      "word_surah": 4,
+      "word_translation": "(would be) like them",
+      "word_transliteration": "mith'luhum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 12672,
+      "word_number_in_surah": 3046,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 12673,
+      "word_number_in_surah": 3047,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "جَامِعُ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 12674,
+      "word_number_in_surah": 3048,
+      "word_surah": 4,
+      "word_translation": "will gather",
+      "word_transliteration": "jami'u"
+    },
+    {
+      "word_arabic": "ٱلۡمُنَٰفِقِينَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 12675,
+      "word_number_in_surah": 3049,
+      "word_surah": 4,
+      "word_translation": "the hypocrites",
+      "word_transliteration": "al-munafiqina"
+    },
+    {
+      "word_arabic": "وَٱلۡكَٰفِرِينَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 12676,
+      "word_number_in_surah": 3050,
+      "word_surah": 4,
+      "word_translation": "and the disbelievers",
+      "word_transliteration": "wal-kafirina"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 12677,
+      "word_number_in_surah": 3051,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "جَهَنَّمَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 12678,
+      "word_number_in_surah": 3052,
+      "word_surah": 4,
+      "word_translation": "Hell",
+      "word_transliteration": "jahannama"
+    },
+    {
+      "word_arabic": "جَمِيعًا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 12679,
+      "word_number_in_surah": 3053,
+      "word_surah": 4,
+      "word_translation": "all together",
+      "word_transliteration": "jami'an"
+    }
+  ],
+  "fullArabic": "وَقَدۡ نَزَّلَ عَلَيۡكُمۡ فِي ٱلۡكِتَٰبِ أَنۡ إِذَا سَمِعۡتُمۡ ءَايَٰتِ ٱللَّهِ يُكۡفَرُ بِهَا وَيُسۡتَهۡزَأُ بِهَا فَلَا تَقۡعُدُواْ مَعَهُمۡ حَتَّىٰ يَخُوضُواْ فِي حَدِيثٍ غَيۡرِهِۦٓ إِنَّكُمۡ إِذٗا مِّثۡلُهُمۡۗ إِنَّ ٱللَّهَ جَامِعُ ٱلۡمُنَٰفِقِينَ وَٱلۡكَٰفِرِينَ فِي جَهَنَّمَ جَمِيعًا",
+  "fullTranslation": "And it has already come down to you in the Book that when you hear the verses of Allah [recited], they are denied [by them] and ridiculed; so do not sit with them until they enter into another conversation. Indeed, you would then be like them. Indeed Allah will gather the hypocrites and disbelievers in Hell all together -",
+  "fullTransliteration": "waqad nazzala alaykum fi al-kitabi an idha sami'tum ayati al-lahi yuk'faru biha wayus'tahza-u biha fala taq'udu ma'ahum hatta yakhudu fi hadithin ghayrihi innakum idhan mith'luhum inna al-laha jami'u al-munafiqina wal-kafirina fi jahannama jami'an"
+}

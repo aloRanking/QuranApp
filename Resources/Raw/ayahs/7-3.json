@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 3,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 957,
+    "juz": 8,
+    "manzil": 2,
+    "page": 151,
+    "ruku": 122,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱتَّبِعُواْ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19242,
+      "word_number_in_surah": 15,
+      "word_surah": 7,
+      "word_translation": "Follow",
+      "word_transliteration": "ittabi'u"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19243,
+      "word_number_in_surah": 16,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19244,
+      "word_number_in_surah": 17,
+      "word_surah": 7,
+      "word_translation": "has been revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡكُم",
+      "word_ayah": 3,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19245,
+      "word_number_in_surah": 18,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "ilaykum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 3,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19246,
+      "word_number_in_surah": 19,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19247,
+      "word_number_in_surah": 20,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19248,
+      "word_number_in_surah": 21,
+      "word_surah": 7,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعُواْ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19249,
+      "word_number_in_surah": 22,
+      "word_surah": 7,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'u"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 3,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19250,
+      "word_number_in_surah": 23,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِهِۦٓ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19251,
+      "word_number_in_surah": 24,
+      "word_surah": 7,
+      "word_translation": "beside Him",
+      "word_transliteration": "dunihi"
+    },
+    {
+      "word_arabic": "أَوۡلِيَآءَۗ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19252,
+      "word_number_in_surah": 25,
+      "word_surah": 7,
+      "word_translation": "any allies",
+      "word_transliteration": "awliyaa"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19253,
+      "word_number_in_surah": 26,
+      "word_surah": 7,
+      "word_translation": "Little",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19254,
+      "word_number_in_surah": 27,
+      "word_surah": 7,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَذَكَّرُونَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19255,
+      "word_number_in_surah": 28,
+      "word_surah": 7,
+      "word_translation": "you remember",
+      "word_transliteration": "tadhakkaruna"
+    }
+  ],
+  "fullArabic": "ٱتَّبِعُواْ مَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡ وَلَا تَتَّبِعُواْ مِن دُونِهِۦٓ أَوۡلِيَآءَۗ قَلِيلٗا مَّا تَذَكَّرُونَ",
+  "fullTranslation": "Follow, [O mankind], what has been revealed to you from your Lord and do not follow other than Him any allies. Little do you remember.",
+  "fullTransliteration": "ittabi'u ma unzila ilaykum min rabbikum wala tattabi'u min dunihi awliyaa qalilan ma tadhakkaruna"
+}

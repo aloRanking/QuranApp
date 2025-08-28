@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "ayah": 149,
+    "surah": 3,
+    "words": 12,
+    "numberInQuran": 442,
+    "juz": 4,
+    "manzil": 1,
+    "page": 69,
+    "ruku": 57,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8598,
+      "word_number_in_surah": 2453,
+      "word_surah": 3,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8599,
+      "word_number_in_surah": 2454,
+      "word_surah": 3,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8600,
+      "word_number_in_surah": 2455,
+      "word_surah": 3,
+      "word_translation": "believe!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 149,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8601,
+      "word_number_in_surah": 2456,
+      "word_surah": 3,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تُطِيعُواْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8602,
+      "word_number_in_surah": 2457,
+      "word_surah": 3,
+      "word_translation": "you obey",
+      "word_transliteration": "tuti'u"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8603,
+      "word_number_in_surah": 2458,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8604,
+      "word_number_in_surah": 2459,
+      "word_surah": 3,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "يَرُدُّوكُمۡ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8605,
+      "word_number_in_surah": 2460,
+      "word_surah": 3,
+      "word_translation": "they will turn you back",
+      "word_transliteration": "yaruddukum"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8606,
+      "word_number_in_surah": 2461,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَعۡقَٰبِكُمۡ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8607,
+      "word_number_in_surah": 2462,
+      "word_surah": 3,
+      "word_translation": "your heels",
+      "word_transliteration": "a'qabikum"
+    },
+    {
+      "word_arabic": "فَتَنقَلِبُواْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8608,
+      "word_number_in_surah": 2463,
+      "word_surah": 3,
+      "word_translation": "then you will turn back",
+      "word_transliteration": "fatanqalibu"
+    },
+    {
+      "word_arabic": "خَٰسِرِينَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8609,
+      "word_number_in_surah": 2464,
+      "word_surah": 3,
+      "word_translation": "(as) losers",
+      "word_transliteration": "khasirina"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تُطِيعُواْ ٱلَّذِينَ كَفَرُواْ يَرُدُّوكُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ فَتَنقَلِبُواْ خَٰسِرِينَ",
+  "fullTranslation": "O you who have believed, if you obey those who disbelieve, they will turn you back on your heels, and you will [then] become losers.",
+  "fullTransliteration": "yaayyuha alladhina amanu in tuti'u alladhina kafaru yaruddukum ala a'qabikum fatanqalibu khasirina"
+}

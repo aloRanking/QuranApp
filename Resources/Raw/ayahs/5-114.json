@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "ayah": 114,
+    "surah": 5,
+    "words": 22,
+    "numberInQuran": 783,
+    "juz": 7,
+    "manzil": 2,
+    "page": 127,
+    "ruku": 100,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16020,
+      "word_number_in_surah": 2647,
+      "word_surah": 5,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "عِيسَى",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16021,
+      "word_number_in_surah": 2648,
+      "word_surah": 5,
+      "word_translation": "Isa",
+      "word_transliteration": "isa"
+    },
+    {
+      "word_arabic": "ٱبۡنُ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16022,
+      "word_number_in_surah": 2649,
+      "word_surah": 5,
+      "word_translation": "son",
+      "word_transliteration": "ub'nu"
+    },
+    {
+      "word_arabic": "مَرۡيَمَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16023,
+      "word_number_in_surah": 2650,
+      "word_surah": 5,
+      "word_translation": "(of) Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "ٱللَّهُمَّ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16024,
+      "word_number_in_surah": 2651,
+      "word_surah": 5,
+      "word_translation": "O Allah",
+      "word_transliteration": "al-lahuma"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16025,
+      "word_number_in_surah": 2652,
+      "word_surah": 5,
+      "word_translation": "our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "أَنزِلۡ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16026,
+      "word_number_in_surah": 2653,
+      "word_surah": 5,
+      "word_translation": "send down",
+      "word_transliteration": "anzil"
+    },
+    {
+      "word_arabic": "عَلَيۡنَا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16027,
+      "word_number_in_surah": 2654,
+      "word_surah": 5,
+      "word_translation": "to us",
+      "word_transliteration": "alayna"
+    },
+    {
+      "word_arabic": "مَآئِدَةٗ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16028,
+      "word_number_in_surah": 2655,
+      "word_surah": 5,
+      "word_translation": "a table spread",
+      "word_transliteration": "maidatan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16029,
+      "word_number_in_surah": 2656,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16030,
+      "word_number_in_surah": 2657,
+      "word_surah": 5,
+      "word_translation": "the heaven",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "تَكُونُ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16031,
+      "word_number_in_surah": 2658,
+      "word_surah": 5,
+      "word_translation": "to be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16032,
+      "word_number_in_surah": 2659,
+      "word_surah": 5,
+      "word_translation": "for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "عِيدٗا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16033,
+      "word_number_in_surah": 2660,
+      "word_surah": 5,
+      "word_translation": "a festival",
+      "word_transliteration": "idan"
+    },
+    {
+      "word_arabic": "لِّأَوَّلِنَا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16034,
+      "word_number_in_surah": 2661,
+      "word_surah": 5,
+      "word_translation": "for first of us",
+      "word_transliteration": "li-awwalina"
+    },
+    {
+      "word_arabic": "وَءَاخِرِنَا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16035,
+      "word_number_in_surah": 2662,
+      "word_surah": 5,
+      "word_translation": "and last of us",
+      "word_transliteration": "waakhirina"
+    },
+    {
+      "word_arabic": "وَءَايَةٗ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16036,
+      "word_number_in_surah": 2663,
+      "word_surah": 5,
+      "word_translation": "and a sign",
+      "word_transliteration": "waayatan"
+    },
+    {
+      "word_arabic": "مِّنكَۖ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16037,
+      "word_number_in_surah": 2664,
+      "word_surah": 5,
+      "word_translation": "from You",
+      "word_transliteration": "minka"
+    },
+    {
+      "word_arabic": "وَٱرۡزُقۡنَا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16038,
+      "word_number_in_surah": 2665,
+      "word_surah": 5,
+      "word_translation": "And provide us",
+      "word_transliteration": "wa-ur'zuq'na"
+    },
+    {
+      "word_arabic": "وَأَنتَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16039,
+      "word_number_in_surah": 2666,
+      "word_surah": 5,
+      "word_translation": "and You",
+      "word_transliteration": "wa-anta"
+    },
+    {
+      "word_arabic": "خَيۡرُ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16040,
+      "word_number_in_surah": 2667,
+      "word_surah": 5,
+      "word_translation": "(are) best",
+      "word_transliteration": "khayru"
+    },
+    {
+      "word_arabic": "ٱلرَّٰزِقِينَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16041,
+      "word_number_in_surah": 2668,
+      "word_surah": 5,
+      "word_translation": "(of) the providers",
+      "word_transliteration": "al-raziqina"
+    }
+  ],
+  "fullArabic": "قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلۡ عَلَيۡنَا مَآئِدَةٗ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدٗا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةٗ مِّنكَۖ وَٱرۡزُقۡنَا وَأَنتَ خَيۡرُ ٱلرَّٰزِقِينَ",
+  "fullTranslation": "Said Jesus, the son of Mary, \"O Allah, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers.\"",
+  "fullTransliteration": "qala isa ub'nu maryama al-lahuma rabbana anzil alayna maidatan mina al-samai takunu lana idan li-awwalina waakhirina waayatan minka wa-ur'zuq'na wa-anta khayru al-raziqina"
+}

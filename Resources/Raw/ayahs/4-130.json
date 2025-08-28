@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 130,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 623,
+    "juz": 5,
+    "manzil": 1,
+    "page": 99,
+    "ruku": 80,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 130,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12463,
+      "word_number_in_surah": 2837,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَتَفَرَّقَا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12464,
+      "word_number_in_surah": 2838,
+      "word_surah": 4,
+      "word_translation": "they separate",
+      "word_transliteration": "yatafarraqa"
+    },
+    {
+      "word_arabic": "يُغۡنِ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12465,
+      "word_number_in_surah": 2839,
+      "word_surah": 4,
+      "word_translation": "will be enriched",
+      "word_transliteration": "yugh'ni"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12466,
+      "word_number_in_surah": 2840,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "كُلّٗا",
+      "word_ayah": 130,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12467,
+      "word_number_in_surah": 2841,
+      "word_surah": 4,
+      "word_translation": "each (of them)",
+      "word_transliteration": "kullan"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 130,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12468,
+      "word_number_in_surah": 2842,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "سَعَتِهِۦۚ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12469,
+      "word_number_in_surah": 2843,
+      "word_surah": 4,
+      "word_translation": "His abundance",
+      "word_transliteration": "sa'atihi"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12470,
+      "word_number_in_surah": 2844,
+      "word_surah": 4,
+      "word_translation": "and is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12471,
+      "word_number_in_surah": 2845,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَٰسِعًا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12472,
+      "word_number_in_surah": 2846,
+      "word_surah": 4,
+      "word_translation": "All-Encompassing",
+      "word_transliteration": "wasi'an"
+    },
+    {
+      "word_arabic": "حَكِيمٗا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12473,
+      "word_number_in_surah": 2847,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "وَإِن يَتَفَرَّقَا يُغۡنِ ٱللَّهُ كُلّٗا مِّن سَعَتِهِۦۚ وَكَانَ ٱللَّهُ وَٰسِعًا حَكِيمٗا",
+  "fullTranslation": "But if they separate [by divorce], Allah will enrich each [of them] from His abundance. And ever is Allah Encompassing and Wise.",
+  "fullTransliteration": "wa-in yatafarraqa yugh'ni al-lahu kullan min sa'atihi wakana al-lahu wasi'an hakiman"
+}

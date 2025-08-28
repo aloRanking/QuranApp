@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "ayah": 125,
+    "surah": 6,
+    "words": 28,
+    "numberInQuran": 914,
+    "juz": 8,
+    "manzil": 2,
+    "page": 144,
+    "ruku": 116,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 125,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18345,
+      "word_number_in_surah": 2168,
+      "word_surah": 6,
+      "word_translation": "So whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "يُرِدِ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18346,
+      "word_number_in_surah": 2169,
+      "word_surah": 6,
+      "word_translation": "wants",
+      "word_transliteration": "yuridi"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18347,
+      "word_number_in_surah": 2170,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 125,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18348,
+      "word_number_in_surah": 2171,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَهۡدِيَهُۥ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18349,
+      "word_number_in_surah": 2172,
+      "word_surah": 6,
+      "word_translation": "He guides him",
+      "word_transliteration": "yahdiyahu"
+    },
+    {
+      "word_arabic": "يَشۡرَحۡ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18350,
+      "word_number_in_surah": 2173,
+      "word_surah": 6,
+      "word_translation": "He expands",
+      "word_transliteration": "yashrah"
+    },
+    {
+      "word_arabic": "صَدۡرَهُۥ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18351,
+      "word_number_in_surah": 2174,
+      "word_surah": 6,
+      "word_translation": "his breast",
+      "word_transliteration": "sadrahu"
+    },
+    {
+      "word_arabic": "لِلۡإِسۡلَٰمِۖ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18352,
+      "word_number_in_surah": 2175,
+      "word_surah": 6,
+      "word_translation": "to Islam",
+      "word_transliteration": "lil'is'lami"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 125,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18353,
+      "word_number_in_surah": 2176,
+      "word_surah": 6,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُرِدۡ",
+      "word_ayah": 125,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18354,
+      "word_number_in_surah": 2177,
+      "word_surah": 6,
+      "word_translation": "He wants",
+      "word_transliteration": "yurid"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 125,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18355,
+      "word_number_in_surah": 2178,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُضِلَّهُۥ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18356,
+      "word_number_in_surah": 2179,
+      "word_surah": 6,
+      "word_translation": "He lets him go astray",
+      "word_transliteration": "yudillahu"
+    },
+    {
+      "word_arabic": "يَجۡعَلۡ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18357,
+      "word_number_in_surah": 2180,
+      "word_surah": 6,
+      "word_translation": "He makes",
+      "word_transliteration": "yaj'al"
+    },
+    {
+      "word_arabic": "صَدۡرَهُۥ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18358,
+      "word_number_in_surah": 2181,
+      "word_surah": 6,
+      "word_translation": "his breast",
+      "word_transliteration": "sadrahu"
+    },
+    {
+      "word_arabic": "ضَيِّقًا",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18359,
+      "word_number_in_surah": 2182,
+      "word_surah": 6,
+      "word_translation": "tight",
+      "word_transliteration": "dayyiqan"
+    },
+    {
+      "word_arabic": "حَرَجٗا",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18360,
+      "word_number_in_surah": 2183,
+      "word_surah": 6,
+      "word_translation": "and constricted",
+      "word_transliteration": "harajan"
+    },
+    {
+      "word_arabic": "كَأَنَّمَا",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18361,
+      "word_number_in_surah": 2184,
+      "word_surah": 6,
+      "word_translation": "as though",
+      "word_transliteration": "ka-annama"
+    },
+    {
+      "word_arabic": "يَصَّعَّدُ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18362,
+      "word_number_in_surah": 2185,
+      "word_surah": 6,
+      "word_translation": "he (were) climbing",
+      "word_transliteration": "yassa'adu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18363,
+      "word_number_in_surah": 2186,
+      "word_surah": 6,
+      "word_translation": "into",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِۚ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18364,
+      "word_number_in_surah": 2187,
+      "word_surah": 6,
+      "word_translation": "the sky",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18365,
+      "word_number_in_surah": 2188,
+      "word_surah": 6,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "يَجۡعَلُ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18366,
+      "word_number_in_surah": 2189,
+      "word_surah": 6,
+      "word_translation": "places",
+      "word_transliteration": "yaj'alu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18367,
+      "word_number_in_surah": 2190,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلرِّجۡسَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18368,
+      "word_number_in_surah": 2191,
+      "word_surah": 6,
+      "word_translation": "the filth",
+      "word_transliteration": "al-rij'sa"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18369,
+      "word_number_in_surah": 2192,
+      "word_surah": 6,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18370,
+      "word_number_in_surah": 2193,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 18371,
+      "word_number_in_surah": 2194,
+      "word_surah": 6,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 125,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 18372,
+      "word_number_in_surah": 2195,
+      "word_surah": 6,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "فَمَن يُرِدِ ٱللَّهُ أَن يَهۡدِيَهُۥ يَشۡرَحۡ صَدۡرَهُۥ لِلۡإِسۡلَٰمِۖ وَمَن يُرِدۡ أَن يُضِلَّهُۥ يَجۡعَلۡ صَدۡرَهُۥ ضَيِّقًا حَرَجٗا كَأَنَّمَا يَصَّعَّدُ فِي ٱلسَّمَآءِۚ كَذَٰلِكَ يَجۡعَلُ ٱللَّهُ ٱلرِّجۡسَ عَلَى ٱلَّذِينَ لَا يُؤۡمِنُونَ",
+  "fullTranslation": "So whoever Allah wants to guide - He expands his breast to [contain] Islam; and whoever He wants to misguide - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allah place defilement upon those who do not believe.",
+  "fullTransliteration": "faman yuridi al-lahu an yahdiyahu yashrah sadrahu lil'is'lami waman yurid an yudillahu yaj'al sadrahu dayyiqan harajan ka-annama yassa'adu fi al-samai kadhalika yaj'alu al-lahu al-rij'sa ala alladhina la yu'minuna"
+}

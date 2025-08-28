@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "ayah": 22,
+    "surah": 7,
+    "words": 28,
+    "numberInQuran": 976,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَدَلَّىٰهُمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19456,
+      "word_number_in_surah": 229,
+      "word_surah": 7,
+      "word_translation": "So he made both of them fall",
+      "word_transliteration": "fadallahuma"
+    },
+    {
+      "word_arabic": "بِغُرُورٖۚ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19457,
+      "word_number_in_surah": 230,
+      "word_surah": 7,
+      "word_translation": "by deception",
+      "word_transliteration": "bighururin"
+    },
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19458,
+      "word_number_in_surah": 231,
+      "word_surah": 7,
+      "word_translation": "Then when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "ذَاقَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19459,
+      "word_number_in_surah": 232,
+      "word_surah": 7,
+      "word_translation": "they both tasted",
+      "word_transliteration": "dhaqa"
+    },
+    {
+      "word_arabic": "ٱلشَّجَرَةَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19460,
+      "word_number_in_surah": 233,
+      "word_surah": 7,
+      "word_translation": "the tree",
+      "word_transliteration": "al-shajarata"
+    },
+    {
+      "word_arabic": "بَدَتۡ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19461,
+      "word_number_in_surah": 234,
+      "word_surah": 7,
+      "word_translation": "became apparent",
+      "word_transliteration": "badat"
+    },
+    {
+      "word_arabic": "لَهُمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19462,
+      "word_number_in_surah": 235,
+      "word_surah": 7,
+      "word_translation": "to both of them",
+      "word_transliteration": "lahuma"
+    },
+    {
+      "word_arabic": "سَوۡءَٰتُهُمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19463,
+      "word_number_in_surah": 236,
+      "word_surah": 7,
+      "word_translation": "their shame",
+      "word_transliteration": "sawatuhuma"
+    },
+    {
+      "word_arabic": "وَطَفِقَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19464,
+      "word_number_in_surah": 237,
+      "word_surah": 7,
+      "word_translation": "and they began",
+      "word_transliteration": "watafiqa"
+    },
+    {
+      "word_arabic": "يَخۡصِفَانِ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19465,
+      "word_number_in_surah": 238,
+      "word_surah": 7,
+      "word_translation": "(to) fasten",
+      "word_transliteration": "yakhsifani"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19466,
+      "word_number_in_surah": 239,
+      "word_surah": 7,
+      "word_translation": "over themselves",
+      "word_transliteration": "alayhima"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 22,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19467,
+      "word_number_in_surah": 240,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "وَرَقِ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19468,
+      "word_number_in_surah": 241,
+      "word_surah": 7,
+      "word_translation": "(the) leaves",
+      "word_transliteration": "waraqi"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةِۖ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19469,
+      "word_number_in_surah": 242,
+      "word_surah": 7,
+      "word_translation": "(of) the Garden",
+      "word_transliteration": "al-janati"
+    },
+    {
+      "word_arabic": "وَنَادَىٰهُمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19470,
+      "word_number_in_surah": 243,
+      "word_surah": 7,
+      "word_translation": "And called them both",
+      "word_transliteration": "wanadahuma"
+    },
+    {
+      "word_arabic": "رَبُّهُمَآ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19471,
+      "word_number_in_surah": 244,
+      "word_surah": 7,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbuhuma"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19472,
+      "word_number_in_surah": 245,
+      "word_surah": 7,
+      "word_translation": "Did not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "أَنۡهَكُمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19473,
+      "word_number_in_surah": 246,
+      "word_surah": 7,
+      "word_translation": "I forbid you both",
+      "word_transliteration": "anhakuma"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19474,
+      "word_number_in_surah": 247,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تِلۡكُمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19475,
+      "word_number_in_surah": 248,
+      "word_surah": 7,
+      "word_translation": "this",
+      "word_transliteration": "til'kuma"
+    },
+    {
+      "word_arabic": "ٱلشَّجَرَةِ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19476,
+      "word_number_in_surah": 249,
+      "word_surah": 7,
+      "word_translation": "[the] tree",
+      "word_transliteration": "al-shajarati"
+    },
+    {
+      "word_arabic": "وَأَقُل",
+      "word_ayah": 22,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19477,
+      "word_number_in_surah": 250,
+      "word_surah": 7,
+      "word_translation": "and [I] say",
+      "word_transliteration": "wa-aqul"
+    },
+    {
+      "word_arabic": "لَّكُمَآ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19478,
+      "word_number_in_surah": 251,
+      "word_surah": 7,
+      "word_translation": "to both of you",
+      "word_transliteration": "lakuma"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 19479,
+      "word_number_in_surah": 252,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 19480,
+      "word_number_in_surah": 253,
+      "word_surah": 7,
+      "word_translation": "[the] Shaitaan",
+      "word_transliteration": "al-shaytana"
+    },
+    {
+      "word_arabic": "لَكُمَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 19481,
+      "word_number_in_surah": 254,
+      "word_surah": 7,
+      "word_translation": "to both of you",
+      "word_transliteration": "lakuma"
+    },
+    {
+      "word_arabic": "عَدُوّٞ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 19482,
+      "word_number_in_surah": 255,
+      "word_surah": 7,
+      "word_translation": "(is) an enemy",
+      "word_transliteration": "aduwwun"
+    },
+    {
+      "word_arabic": "مُّبِينٞ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 19483,
+      "word_number_in_surah": 256,
+      "word_surah": 7,
+      "word_translation": "open",
+      "word_transliteration": "mubinun"
+    }
+  ],
+  "fullArabic": "فَدَلَّىٰهُمَا بِغُرُورٖۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتۡ لَهُمَا سَوۡءَٰتُهُمَا وَطَفِقَا يَخۡصِفَانِ عَلَيۡهِمَا مِن وَرَقِ ٱلۡجَنَّةِۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمۡ أَنۡهَكُمَا عَن تِلۡكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيۡطَٰنَ لَكُمَا عَدُوّٞ مُّبِينٞ",
+  "fullTranslation": "So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, \"Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?\"",
+  "fullTransliteration": "fadallahuma bighururin falamma dhaqa al-shajarata badat lahuma sawatuhuma watafiqa yakhsifani alayhima min waraqi al-janati wanadahuma rabbuhuma alam anhakuma an til'kuma al-shajarati wa-aqul lakuma inna al-shaytana lakuma aduwwun mubinun"
+}

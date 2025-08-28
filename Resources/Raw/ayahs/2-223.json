@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 223,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 230,
+    "juz": 2,
+    "manzil": 1,
+    "page": 35,
+    "ruku": 29,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "نِسَآؤُكُمۡ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4293,
+      "word_number_in_surah": 4264,
+      "word_surah": 2,
+      "word_translation": "Your wives",
+      "word_transliteration": "nisaukum"
+    },
+    {
+      "word_arabic": "حَرۡثٞ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4294,
+      "word_number_in_surah": 4265,
+      "word_surah": 2,
+      "word_translation": "(are) a tilth",
+      "word_transliteration": "harthun"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 223,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4295,
+      "word_number_in_surah": 4266,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فَأۡتُواْ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4296,
+      "word_number_in_surah": 4267,
+      "word_surah": 2,
+      "word_translation": "so come",
+      "word_transliteration": "fatu"
+    },
+    {
+      "word_arabic": "حَرۡثَكُمۡ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4297,
+      "word_number_in_surah": 4268,
+      "word_surah": 2,
+      "word_translation": "(to) your tilth",
+      "word_transliteration": "harthakum"
+    },
+    {
+      "word_arabic": "أَنَّىٰ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4298,
+      "word_number_in_surah": 4269,
+      "word_surah": 2,
+      "word_translation": "when",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "شِئۡتُمۡۖ",
+      "word_ayah": 223,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4299,
+      "word_number_in_surah": 4270,
+      "word_surah": 2,
+      "word_translation": "you wish",
+      "word_transliteration": "shi'tum"
+    },
+    {
+      "word_arabic": "وَقَدِّمُواْ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4300,
+      "word_number_in_surah": 4271,
+      "word_surah": 2,
+      "word_translation": "and send forth (good deeds)",
+      "word_transliteration": "waqaddimu"
+    },
+    {
+      "word_arabic": "لِأَنفُسِكُمۡۚ",
+      "word_ayah": 223,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4301,
+      "word_number_in_surah": 4272,
+      "word_surah": 2,
+      "word_translation": "for yourselves",
+      "word_transliteration": "li-anfusikum"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4302,
+      "word_number_in_surah": 4273,
+      "word_surah": 2,
+      "word_translation": "And be conscious",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4303,
+      "word_number_in_surah": 4274,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٱعۡلَمُوٓاْ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4304,
+      "word_number_in_surah": 4275,
+      "word_surah": 2,
+      "word_translation": "and know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّكُم",
+      "word_ayah": 223,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4305,
+      "word_number_in_surah": 4276,
+      "word_surah": 2,
+      "word_translation": "that you",
+      "word_transliteration": "annakum"
+    },
+    {
+      "word_arabic": "مُّلَٰقُوهُۗ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4306,
+      "word_number_in_surah": 4277,
+      "word_surah": 2,
+      "word_translation": "(will) meet Him",
+      "word_transliteration": "mulaquhu"
+    },
+    {
+      "word_arabic": "وَبَشِّرِ",
+      "word_ayah": 223,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4307,
+      "word_number_in_surah": 4278,
+      "word_surah": 2,
+      "word_translation": "And give glad tidings",
+      "word_transliteration": "wabashiri"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 223,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4308,
+      "word_number_in_surah": 4279,
+      "word_surah": 2,
+      "word_translation": "(to) the believers",
+      "word_transliteration": "al-mu'minina"
+    }
+  ],
+  "fullArabic": "نِسَآؤُكُمۡ حَرۡثٞ لَّكُمۡ فَأۡتُواْ حَرۡثَكُمۡ أَنَّىٰ شِئۡتُمۡۖ وَقَدِّمُواْ لِأَنفُسِكُمۡۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُم مُّلَٰقُوهُۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+  "fullTranslation": "Your wives are a place of sowing of seed for you, so come to your place of cultivation however you wish and put forth [righteousness] for yourselves. And fear Allah and know that you will meet Him. And give good tidings to the believers.",
+  "fullTransliteration": "nisaukum harthun lakum fatu harthakum anna shi'tum waqaddimu li-anfusikum wa-ittaqu al-laha wa-i'lamu annakum mulaquhu wabashiri al-mu'minina"
+}

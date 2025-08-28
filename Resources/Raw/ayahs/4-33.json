@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 33,
+    "surah": 4,
+    "words": 19,
+    "numberInQuran": 526,
+    "juz": 5,
+    "manzil": 1,
+    "page": 83,
+    "ruku": 66,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِكُلّٖ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10439,
+      "word_number_in_surah": 813,
+      "word_surah": 4,
+      "word_translation": "And for all",
+      "word_transliteration": "walikullin"
+    },
+    {
+      "word_arabic": "جَعَلۡنَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10440,
+      "word_number_in_surah": 814,
+      "word_surah": 4,
+      "word_translation": "We (have) made",
+      "word_transliteration": "ja'alna"
+    },
+    {
+      "word_arabic": "مَوَٰلِيَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10441,
+      "word_number_in_surah": 815,
+      "word_surah": 4,
+      "word_translation": "heirs",
+      "word_transliteration": "mawaliya"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10442,
+      "word_number_in_surah": 816,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "تَرَكَ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10443,
+      "word_number_in_surah": 817,
+      "word_surah": 4,
+      "word_translation": "(is) left",
+      "word_transliteration": "taraka"
+    },
+    {
+      "word_arabic": "ٱلۡوَٰلِدَانِ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10444,
+      "word_number_in_surah": 818,
+      "word_surah": 4,
+      "word_translation": "(by) the parents",
+      "word_transliteration": "al-walidani"
+    },
+    {
+      "word_arabic": "وَٱلۡأَقۡرَبُونَۚ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10445,
+      "word_number_in_surah": 819,
+      "word_surah": 4,
+      "word_translation": "and the relatives",
+      "word_transliteration": "wal-aqrabuna"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10446,
+      "word_number_in_surah": 820,
+      "word_surah": 4,
+      "word_translation": "And those whom",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "عَقَدَتۡ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10447,
+      "word_number_in_surah": 821,
+      "word_surah": 4,
+      "word_translation": "pledged",
+      "word_transliteration": "aqadat"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنُكُمۡ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10448,
+      "word_number_in_surah": 822,
+      "word_surah": 4,
+      "word_translation": "your right hands",
+      "word_transliteration": "aymanukum"
+    },
+    {
+      "word_arabic": "فَ‍َٔاتُوهُمۡ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10449,
+      "word_number_in_surah": 823,
+      "word_surah": 4,
+      "word_translation": "then give them",
+      "word_transliteration": "faatuhum"
+    },
+    {
+      "word_arabic": "نَصِيبَهُمۡۚ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10450,
+      "word_number_in_surah": 824,
+      "word_surah": 4,
+      "word_translation": "their share",
+      "word_transliteration": "nasibahum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10451,
+      "word_number_in_surah": 825,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10452,
+      "word_number_in_surah": 826,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10453,
+      "word_number_in_surah": 827,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10454,
+      "word_number_in_surah": 828,
+      "word_surah": 4,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10455,
+      "word_number_in_surah": 829,
+      "word_surah": 4,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10456,
+      "word_number_in_surah": 830,
+      "word_surah": 4,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "شَهِيدًا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10457,
+      "word_number_in_surah": 831,
+      "word_surah": 4,
+      "word_translation": "a Witness",
+      "word_transliteration": "shahidan"
+    }
+  ],
+  "fullArabic": "وَلِكُلّٖ جَعَلۡنَا مَوَٰلِيَ مِمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَۚ وَٱلَّذِينَ عَقَدَتۡ أَيۡمَٰنُكُمۡ فَ‍َٔاتُوهُمۡ نَصِيبَهُمۡۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدًا",
+  "fullTranslation": "And for all, We have made heirs to what is left by parents and relatives. And to those whom your oaths have bound [to you] - give them their share. Indeed Allah is ever, over all things, a Witness.",
+  "fullTransliteration": "walikullin ja'alna mawaliya mimma taraka al-walidani wal-aqrabuna wa-alladhina aqadat aymanukum faatuhum nasibahum inna al-laha kana ala kulli shayin shahidan"
+}

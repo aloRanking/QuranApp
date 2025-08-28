@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 62,
+    "surah": 4,
+    "words": 16,
+    "numberInQuran": 555,
+    "juz": 5,
+    "manzil": 1,
+    "page": 88,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَكَيۡفَ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11030,
+      "word_number_in_surah": 1404,
+      "word_surah": 4,
+      "word_translation": "So how",
+      "word_transliteration": "fakayfa"
+    },
+    {
+      "word_arabic": "إِذَآ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11031,
+      "word_number_in_surah": 1405,
+      "word_surah": 4,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "أَصَٰبَتۡهُم",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11032,
+      "word_number_in_surah": 1406,
+      "word_surah": 4,
+      "word_translation": "befalls them",
+      "word_transliteration": "asabathum"
+    },
+    {
+      "word_arabic": "مُّصِيبَةُۢ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11033,
+      "word_number_in_surah": 1407,
+      "word_surah": 4,
+      "word_translation": "disaster",
+      "word_transliteration": "musibatun"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11034,
+      "word_number_in_surah": 1408,
+      "word_surah": 4,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "قَدَّمَتۡ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11035,
+      "word_number_in_surah": 1409,
+      "word_surah": 4,
+      "word_translation": "sent forth",
+      "word_transliteration": "qaddamat"
+    },
+    {
+      "word_arabic": "أَيۡدِيهِمۡ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11036,
+      "word_number_in_surah": 1410,
+      "word_surah": 4,
+      "word_translation": "their hands",
+      "word_transliteration": "aydihim"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11037,
+      "word_number_in_surah": 1411,
+      "word_surah": 4,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "جَآءُوكَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11038,
+      "word_number_in_surah": 1412,
+      "word_surah": 4,
+      "word_translation": "they come to you",
+      "word_transliteration": "jauka"
+    },
+    {
+      "word_arabic": "يَحۡلِفُونَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11039,
+      "word_number_in_surah": 1413,
+      "word_surah": 4,
+      "word_translation": "swearing",
+      "word_transliteration": "yahlifuna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11040,
+      "word_number_in_surah": 1414,
+      "word_surah": 4,
+      "word_translation": "by Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11041,
+      "word_number_in_surah": 1415,
+      "word_surah": 4,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "أَرَدۡنَآ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11042,
+      "word_number_in_surah": 1416,
+      "word_surah": 4,
+      "word_translation": "we intended",
+      "word_transliteration": "aradna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11043,
+      "word_number_in_surah": 1417,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "إِحۡسَٰنٗا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11044,
+      "word_number_in_surah": 1418,
+      "word_surah": 4,
+      "word_translation": "good",
+      "word_transliteration": "ih'sanan"
+    },
+    {
+      "word_arabic": "وَتَوۡفِيقًا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11045,
+      "word_number_in_surah": 1419,
+      "word_surah": 4,
+      "word_translation": "and reconciliation",
+      "word_transliteration": "watawfiqan"
+    }
+  ],
+  "fullArabic": "فَكَيۡفَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ ثُمَّ جَآءُوكَ يَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَآ إِلَّآ إِحۡسَٰنٗا وَتَوۡفِيقًا",
+  "fullTranslation": "So how [will it be] when disaster strikes them because of what their hands have put forth and then they come to you swearing by Allah, \"We intended nothing but good conduct and accommodation.\"",
+  "fullTransliteration": "fakayfa idha asabathum musibatun bima qaddamat aydihim thumma jauka yahlifuna bil-lahi in aradna illa ih'sanan watawfiqan"
+}

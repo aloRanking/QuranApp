@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "ayah": 109,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 402,
+    "juz": 4,
+    "manzil": 1,
+    "page": 64,
+    "ruku": 52,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7978,
+      "word_number_in_surah": 1833,
+      "word_surah": 3,
+      "word_translation": "And to Allah (belongs)",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7979,
+      "word_number_in_surah": 1834,
+      "word_surah": 3,
+      "word_translation": "whatever",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7980,
+      "word_number_in_surah": 1835,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7981,
+      "word_number_in_surah": 1836,
+      "word_surah": 3,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7982,
+      "word_number_in_surah": 1837,
+      "word_surah": 3,
+      "word_translation": "and whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7983,
+      "word_number_in_surah": 1838,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۚ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7984,
+      "word_number_in_surah": 1839,
+      "word_surah": 3,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَإِلَى",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7985,
+      "word_number_in_surah": 1840,
+      "word_surah": 3,
+      "word_translation": "And to",
+      "word_transliteration": "wa-ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7986,
+      "word_number_in_surah": 1841,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "تُرۡجَعُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7987,
+      "word_number_in_surah": 1842,
+      "word_surah": 3,
+      "word_translation": "will be returned",
+      "word_transliteration": "tur'ja'u"
+    },
+    {
+      "word_arabic": "ٱلۡأُمُورُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7988,
+      "word_number_in_surah": 1843,
+      "word_surah": 3,
+      "word_translation": "the matters",
+      "word_transliteration": "al-umuru"
+    }
+  ],
+  "fullArabic": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+  "fullTranslation": "To Allah belongs whatever is in the heavens and whatever is on the earth. And to Allah will [all] matters be returned.",
+  "fullTransliteration": "walillahi ma fi al-samawati wama fi al-ardi wa-ila al-lahi tur'ja'u al-umuru"
+}

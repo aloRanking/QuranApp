@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "ayah": 181,
+    "surah": 3,
+    "words": 22,
+    "numberInQuran": 474,
+    "juz": 4,
+    "manzil": 1,
+    "page": 74,
+    "ruku": 60,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّقَدۡ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9264,
+      "word_number_in_surah": 3119,
+      "word_surah": 3,
+      "word_translation": "Certainly",
+      "word_transliteration": "laqad"
+    },
+    {
+      "word_arabic": "سَمِعَ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9265,
+      "word_number_in_surah": 3120,
+      "word_surah": 3,
+      "word_translation": "heard",
+      "word_transliteration": "sami'a"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9266,
+      "word_number_in_surah": 3121,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "قَوۡلَ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9267,
+      "word_number_in_surah": 3122,
+      "word_surah": 3,
+      "word_translation": "(the) saying",
+      "word_transliteration": "qawla"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9268,
+      "word_number_in_surah": 3123,
+      "word_surah": 3,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9269,
+      "word_number_in_surah": 3124,
+      "word_surah": 3,
+      "word_translation": "said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9270,
+      "word_number_in_surah": 3125,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9271,
+      "word_number_in_surah": 3126,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "فَقِيرٞ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9272,
+      "word_number_in_surah": 3127,
+      "word_surah": 3,
+      "word_translation": "(is) poor",
+      "word_transliteration": "faqirun"
+    },
+    {
+      "word_arabic": "وَنَحۡنُ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9273,
+      "word_number_in_surah": 3128,
+      "word_surah": 3,
+      "word_translation": "while we",
+      "word_transliteration": "wanahnu"
+    },
+    {
+      "word_arabic": "أَغۡنِيَآءُۘ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9274,
+      "word_number_in_surah": 3129,
+      "word_surah": 3,
+      "word_translation": "(are) rich",
+      "word_transliteration": "aghniyau"
+    },
+    {
+      "word_arabic": "سَنَكۡتُبُ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9275,
+      "word_number_in_surah": 3130,
+      "word_surah": 3,
+      "word_translation": "We will record",
+      "word_transliteration": "sanaktubu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9276,
+      "word_number_in_surah": 3131,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9277,
+      "word_number_in_surah": 3132,
+      "word_surah": 3,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "وَقَتۡلَهُمُ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9278,
+      "word_number_in_surah": 3133,
+      "word_surah": 3,
+      "word_translation": "and their killing",
+      "word_transliteration": "waqatlahumu"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۢبِيَآءَ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9279,
+      "word_number_in_surah": 3134,
+      "word_surah": 3,
+      "word_translation": "the Prophets",
+      "word_transliteration": "al-anbiyaa"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9280,
+      "word_number_in_surah": 3135,
+      "word_surah": 3,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "حَقّٖ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9281,
+      "word_number_in_surah": 3136,
+      "word_surah": 3,
+      "word_translation": "(any) right",
+      "word_transliteration": "haqqin"
+    },
+    {
+      "word_arabic": "وَنَقُولُ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9282,
+      "word_number_in_surah": 3137,
+      "word_surah": 3,
+      "word_translation": "and We will say",
+      "word_transliteration": "wanaqulu"
+    },
+    {
+      "word_arabic": "ذُوقُواْ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9283,
+      "word_number_in_surah": 3138,
+      "word_surah": 3,
+      "word_translation": "Taste",
+      "word_transliteration": "dhuqu"
+    },
+    {
+      "word_arabic": "عَذَابَ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9284,
+      "word_number_in_surah": 3139,
+      "word_surah": 3,
+      "word_translation": "(the) punishment",
+      "word_transliteration": "adhaba"
+    },
+    {
+      "word_arabic": "ٱلۡحَرِيقِ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9285,
+      "word_number_in_surah": 3140,
+      "word_surah": 3,
+      "word_translation": "(of) the Burning Fire",
+      "word_transliteration": "al-hariqi"
+    }
+  ],
+  "fullArabic": "لَّقَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ فَقِيرٞ وَنَحۡنُ أَغۡنِيَآءُۘ سَنَكۡتُبُ مَا قَالُواْ وَقَتۡلَهُمُ ٱلۡأَنۢبِيَآءَ بِغَيۡرِ حَقّٖ وَنَقُولُ ذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
+  "fullTranslation": "Allah has certainly heard the statement of those [Jews] who said, \"Indeed, Allah is poor, while we are rich.\" We will record what they said and their killing of the prophets without right and will say, \"Taste the punishment of the Burning Fire.",
+  "fullTransliteration": "laqad sami'a al-lahu qawla alladhina qalu inna al-laha faqirun wanahnu aghniyau sanaktubu ma qalu waqatlahumu al-anbiyaa bighayri haqqin wanaqulu dhuqu adhaba al-hariqi"
+}

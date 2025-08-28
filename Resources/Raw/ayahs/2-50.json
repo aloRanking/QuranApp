@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 50,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 57,
+    "juz": 1,
+    "manzil": 1,
+    "page": 8,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 737,
+      "word_number_in_surah": 708,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "فَرَقۡنَا",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 738,
+      "word_number_in_surah": 709,
+      "word_surah": 2,
+      "word_translation": "We parted",
+      "word_transliteration": "faraqna"
+    },
+    {
+      "word_arabic": "بِكُمُ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 739,
+      "word_number_in_surah": 710,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "bikumu"
+    },
+    {
+      "word_arabic": "ٱلۡبَحۡرَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 740,
+      "word_number_in_surah": 711,
+      "word_surah": 2,
+      "word_translation": "the sea",
+      "word_transliteration": "al-bahra"
+    },
+    {
+      "word_arabic": "فَأَنجَيۡنَٰكُمۡ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 741,
+      "word_number_in_surah": 712,
+      "word_surah": 2,
+      "word_translation": "then We saved you",
+      "word_transliteration": "fa-anjaynakum"
+    },
+    {
+      "word_arabic": "وَأَغۡرَقۡنَآ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 742,
+      "word_number_in_surah": 713,
+      "word_surah": 2,
+      "word_translation": "and We drowned",
+      "word_transliteration": "wa-aghraqna"
+    },
+    {
+      "word_arabic": "ءَالَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 743,
+      "word_number_in_surah": 714,
+      "word_surah": 2,
+      "word_translation": "(the) people",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 744,
+      "word_number_in_surah": 715,
+      "word_surah": 2,
+      "word_translation": "(of) Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 745,
+      "word_number_in_surah": 716,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَنظُرُونَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 746,
+      "word_number_in_surah": 717,
+      "word_surah": 2,
+      "word_translation": "(were) looking",
+      "word_transliteration": "tanzuruna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَيۡنَٰكُمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ",
+  "fullTranslation": "And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on.",
+  "fullTransliteration": "wa-idh faraqna bikumu al-bahra fa-anjaynakum wa-aghraqna ala fir'awna wa-antum tanzuruna"
+}

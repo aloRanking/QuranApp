@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "ayah": 72,
+    "surah": 6,
+    "words": 8,
+    "numberInQuran": 861,
+    "juz": 7,
+    "manzil": 2,
+    "page": 136,
+    "ruku": 110,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَنۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17390,
+      "word_number_in_surah": 1213,
+      "word_surah": 6,
+      "word_translation": "And to",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "أَقِيمُواْ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17391,
+      "word_number_in_surah": 1214,
+      "word_surah": 6,
+      "word_translation": "establish",
+      "word_transliteration": "aqimu"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17392,
+      "word_number_in_surah": 1215,
+      "word_surah": 6,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salata"
+    },
+    {
+      "word_arabic": "وَٱتَّقُوهُۚ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17393,
+      "word_number_in_surah": 1216,
+      "word_surah": 6,
+      "word_translation": "and fear Him",
+      "word_transliteration": "wa-ittaquhu"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17394,
+      "word_number_in_surah": 1217,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17395,
+      "word_number_in_surah": 1218,
+      "word_surah": 6,
+      "word_translation": "(is) the One",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17396,
+      "word_number_in_surah": 1219,
+      "word_surah": 6,
+      "word_translation": "to Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "تُحۡشَرُونَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17397,
+      "word_number_in_surah": 1220,
+      "word_surah": 6,
+      "word_translation": "you will be gathered",
+      "word_transliteration": "tuh'sharuna"
+    }
+  ],
+  "fullArabic": "وَأَنۡ أَقِيمُواْ ٱلصَّلَوٰةَ وَٱتَّقُوهُۚ وَهُوَ ٱلَّذِيٓ إِلَيۡهِ تُحۡشَرُونَ",
+  "fullTranslation": "And to establish prayer and fear Him.\" And it is He to whom you will be gathered.",
+  "fullTransliteration": "wa-an aqimu al-salata wa-ittaquhu wahuwa alladhi ilayhi tuh'sharuna"
+}

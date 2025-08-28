@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "ayah": 19,
+    "surah": 6,
+    "words": 37,
+    "numberInQuran": 808,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 103,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16433,
+      "word_number_in_surah": 256,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَيُّ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16434,
+      "word_number_in_surah": 257,
+      "word_surah": 6,
+      "word_translation": "What",
+      "word_transliteration": "ayyu"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16435,
+      "word_number_in_surah": 258,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "أَكۡبَرُ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16436,
+      "word_number_in_surah": 259,
+      "word_surah": 6,
+      "word_translation": "(is) greatest",
+      "word_transliteration": "akbaru"
+    },
+    {
+      "word_arabic": "شَهَٰدَةٗۖ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16437,
+      "word_number_in_surah": 260,
+      "word_surah": 6,
+      "word_translation": "(as) a testimony",
+      "word_transliteration": "shahadatan"
+    },
+    {
+      "word_arabic": "قُلِ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16438,
+      "word_number_in_surah": 261,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "quli"
+    },
+    {
+      "word_arabic": "ٱللَّهُۖ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16439,
+      "word_number_in_surah": 262,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "شَهِيدُۢ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16440,
+      "word_number_in_surah": 263,
+      "word_surah": 6,
+      "word_translation": "(is) Witness",
+      "word_transliteration": "shahidun"
+    },
+    {
+      "word_arabic": "بَيۡنِي",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16441,
+      "word_number_in_surah": 264,
+      "word_surah": 6,
+      "word_translation": "between me",
+      "word_transliteration": "bayni"
+    },
+    {
+      "word_arabic": "وَبَيۡنَكُمۡۚ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16442,
+      "word_number_in_surah": 265,
+      "word_surah": 6,
+      "word_translation": "and between you",
+      "word_transliteration": "wabaynakum"
+    },
+    {
+      "word_arabic": "وَأُوحِيَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16443,
+      "word_number_in_surah": 266,
+      "word_surah": 6,
+      "word_translation": "and has been revealed",
+      "word_transliteration": "wauhiya"
+    },
+    {
+      "word_arabic": "إِلَيَّ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16444,
+      "word_number_in_surah": 267,
+      "word_surah": 6,
+      "word_translation": "to me",
+      "word_transliteration": "ilayya"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16445,
+      "word_number_in_surah": 268,
+      "word_surah": 6,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "ٱلۡقُرۡءَانُ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16446,
+      "word_number_in_surah": 269,
+      "word_surah": 6,
+      "word_translation": "[the] Quran",
+      "word_transliteration": "al-qur'anu"
+    },
+    {
+      "word_arabic": "لِأُنذِرَكُم",
+      "word_ayah": 19,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16447,
+      "word_number_in_surah": 270,
+      "word_surah": 6,
+      "word_translation": "that I may warn you",
+      "word_transliteration": "li-undhirakum"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16448,
+      "word_number_in_surah": 271,
+      "word_surah": 6,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَمَنۢ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16449,
+      "word_number_in_surah": 272,
+      "word_surah": 6,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "بَلَغَۚ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16450,
+      "word_number_in_surah": 273,
+      "word_surah": 6,
+      "word_translation": "it reaches",
+      "word_transliteration": "balagha"
+    },
+    {
+      "word_arabic": "أَئِنَّكُمۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16451,
+      "word_number_in_surah": 274,
+      "word_surah": 6,
+      "word_translation": "Do you truly",
+      "word_transliteration": "a-innakum"
+    },
+    {
+      "word_arabic": "لَتَشۡهَدُونَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16452,
+      "word_number_in_surah": 275,
+      "word_surah": 6,
+      "word_translation": "testify",
+      "word_transliteration": "latashhaduna"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16453,
+      "word_number_in_surah": 276,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16454,
+      "word_number_in_surah": 277,
+      "word_surah": 6,
+      "word_translation": "with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16455,
+      "word_number_in_surah": 278,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ءَالِهَةً",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 16456,
+      "word_number_in_surah": 279,
+      "word_surah": 6,
+      "word_translation": "(there are) gods",
+      "word_transliteration": "alihatan"
+    },
+    {
+      "word_arabic": "أُخۡرَىٰۚ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 16457,
+      "word_number_in_surah": 280,
+      "word_surah": 6,
+      "word_translation": "other",
+      "word_transliteration": "ukh'ra"
+    },
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 19,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 16458,
+      "word_number_in_surah": 281,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لَّآ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 16459,
+      "word_number_in_surah": 282,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أَشۡهَدُۚ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 16460,
+      "word_number_in_surah": 283,
+      "word_surah": 6,
+      "word_translation": "(do) I testify",
+      "word_transliteration": "ashhadu"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 16461,
+      "word_number_in_surah": 284,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 16462,
+      "word_number_in_surah": 285,
+      "word_surah": 6,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 19,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 16463,
+      "word_number_in_surah": 286,
+      "word_surah": 6,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "إِلَٰهٞ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 16464,
+      "word_number_in_surah": 287,
+      "word_surah": 6,
+      "word_translation": "(is) God",
+      "word_transliteration": "ilahun"
+    },
+    {
+      "word_arabic": "وَٰحِدٞ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 16465,
+      "word_number_in_surah": 288,
+      "word_surah": 6,
+      "word_translation": "One",
+      "word_transliteration": "wahidun"
+    },
+    {
+      "word_arabic": "وَإِنَّنِي",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 16466,
+      "word_number_in_surah": 289,
+      "word_surah": 6,
+      "word_translation": "and indeed, I am",
+      "word_transliteration": "wa-innani"
+    },
+    {
+      "word_arabic": "بَرِيٓءٞ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 16467,
+      "word_number_in_surah": 290,
+      "word_surah": 6,
+      "word_translation": "free",
+      "word_transliteration": "barion"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 16468,
+      "word_number_in_surah": 291,
+      "word_surah": 6,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "تُشۡرِكُونَ",
+      "word_ayah": 19,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 16469,
+      "word_number_in_surah": 292,
+      "word_surah": 6,
+      "word_translation": "you associate (with Him)",
+      "word_transliteration": "tush'rikuna"
+    }
+  ],
+  "fullArabic": "قُلۡ أَيُّ شَيۡءٍ أَكۡبَرُ شَهَٰدَةٗۖ قُلِ ٱللَّهُۖ شَهِيدُۢ بَيۡنِي وَبَيۡنَكُمۡۚ وَأُوحِيَ إِلَيَّ هَٰذَا ٱلۡقُرۡءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَۚ أَئِنَّكُمۡ لَتَشۡهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخۡرَىٰۚ قُل لَّآ أَشۡهَدُۚ قُلۡ إِنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَإِنَّنِي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ",
+  "fullTranslation": "Say, \"What thing is greatest in testimony?\" Say, \"Allah is witness between me and you. And this Qur'an was revealed to me that I may warn you thereby and whomever it reaches. Do you [truly] testify that with Allah there are other deities?\" Say, \"I will not testify [with you].\" Say, \"Indeed, He is but one God, and indeed, I am free of what you associate [with Him].\"",
+  "fullTransliteration": "qul ayyu shayin akbaru shahadatan quli al-lahu shahidun bayni wabaynakum wauhiya ilayya hadha al-qur'anu li-undhirakum bihi waman balagha a-innakum latashhaduna anna ma'a al-lahi alihatan ukh'ra qul la ashhadu qul innama huwa ilahun wahidun wa-innani barion mimma tush'rikuna"
+}

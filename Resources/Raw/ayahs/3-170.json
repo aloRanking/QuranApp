@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "ayah": 170,
+    "surah": 3,
+    "words": 19,
+    "numberInQuran": 463,
+    "juz": 4,
+    "manzil": 1,
+    "page": 72,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَرِحِينَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9059,
+      "word_number_in_surah": 2914,
+      "word_surah": 3,
+      "word_translation": "Rejoicing",
+      "word_transliteration": "farihina"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9060,
+      "word_number_in_surah": 2915,
+      "word_surah": 3,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "ءَاتَىٰهُمُ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9061,
+      "word_number_in_surah": 2916,
+      "word_surah": 3,
+      "word_translation": "bestowed them",
+      "word_transliteration": "atahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9062,
+      "word_number_in_surah": 2917,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 170,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9063,
+      "word_number_in_surah": 2918,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَضۡلِهِۦ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9064,
+      "word_number_in_surah": 2919,
+      "word_surah": 3,
+      "word_translation": "His Bounty",
+      "word_transliteration": "fadlihi"
+    },
+    {
+      "word_arabic": "وَيَسۡتَبۡشِرُونَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9065,
+      "word_number_in_surah": 2920,
+      "word_surah": 3,
+      "word_translation": "and they receive good tidings",
+      "word_transliteration": "wayastabshiruna"
+    },
+    {
+      "word_arabic": "بِٱلَّذِينَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9066,
+      "word_number_in_surah": 2921,
+      "word_surah": 3,
+      "word_translation": "about those who",
+      "word_transliteration": "bi-alladhina"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9067,
+      "word_number_in_surah": 2922,
+      "word_surah": 3,
+      "word_translation": "(have) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَلۡحَقُواْ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9068,
+      "word_number_in_surah": 2923,
+      "word_surah": 3,
+      "word_translation": "yet joined",
+      "word_transliteration": "yalhaqu"
+    },
+    {
+      "word_arabic": "بِهِم",
+      "word_ayah": 170,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9069,
+      "word_number_in_surah": 2924,
+      "word_surah": 3,
+      "word_translation": "[with] them",
+      "word_transliteration": "bihim"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9070,
+      "word_number_in_surah": 2925,
+      "word_surah": 3,
+      "word_translation": "[from]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَلۡفِهِمۡ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9071,
+      "word_number_in_surah": 2926,
+      "word_surah": 3,
+      "word_translation": "(but are) left behind",
+      "word_transliteration": "khalfihim"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9072,
+      "word_number_in_surah": 2927,
+      "word_surah": 3,
+      "word_translation": "that (there will be) no",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "خَوۡفٌ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9073,
+      "word_number_in_surah": 2928,
+      "word_surah": 3,
+      "word_translation": "fear",
+      "word_transliteration": "khawfun"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9074,
+      "word_number_in_surah": 2929,
+      "word_surah": 3,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9075,
+      "word_number_in_surah": 2930,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9076,
+      "word_number_in_surah": 2931,
+      "word_surah": 3,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يَحۡزَنُونَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9077,
+      "word_number_in_surah": 2932,
+      "word_surah": 3,
+      "word_translation": "will grieve",
+      "word_transliteration": "yahzanuna"
+    }
+  ],
+  "fullArabic": "فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦ وَيَسۡتَبۡشِرُونَ بِٱلَّذِينَ لَمۡ يَلۡحَقُواْ بِهِم مِّنۡ خَلۡفِهِمۡ أَلَّا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "fullTranslation": "Rejoicing in what Allah has bestowed upon them of His bounty, and they receive good tidings about those [to be martyred] after them who have not yet joined them - that there will be no fear concerning them, nor will they grieve.",
+  "fullTransliteration": "farihina bima atahumu al-lahu min fadlihi wayastabshiruna bi-alladhina lam yalhaqu bihim min khalfihim alla khawfun alayhim wala hum yahzanuna"
+}

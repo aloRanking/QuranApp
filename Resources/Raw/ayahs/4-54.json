@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 54,
+    "surah": 4,
+    "words": 18,
+    "numberInQuran": 547,
+    "juz": 5,
+    "manzil": 1,
+    "page": 87,
+    "ruku": 69,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10863,
+      "word_number_in_surah": 1237,
+      "word_surah": 4,
+      "word_translation": "Or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "يَحۡسُدُونَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10864,
+      "word_number_in_surah": 1238,
+      "word_surah": 4,
+      "word_translation": "are they jealous",
+      "word_transliteration": "yahsuduna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10865,
+      "word_number_in_surah": 1239,
+      "word_surah": 4,
+      "word_translation": "(of) the people",
+      "word_transliteration": "al-nasa"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10866,
+      "word_number_in_surah": 1240,
+      "word_surah": 4,
+      "word_translation": "for",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10867,
+      "word_number_in_surah": 1241,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ءَاتَىٰهُمُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10868,
+      "word_number_in_surah": 1242,
+      "word_surah": 4,
+      "word_translation": "gave them",
+      "word_transliteration": "atahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10869,
+      "word_number_in_surah": 1243,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 54,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10870,
+      "word_number_in_surah": 1244,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَضۡلِهِۦۖ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10871,
+      "word_number_in_surah": 1245,
+      "word_surah": 4,
+      "word_translation": "His Bounty",
+      "word_transliteration": "fadlihi"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10872,
+      "word_number_in_surah": 1246,
+      "word_surah": 4,
+      "word_translation": "But surely",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَآ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10873,
+      "word_number_in_surah": 1247,
+      "word_surah": 4,
+      "word_translation": "We gave",
+      "word_transliteration": "atayna"
+    },
+    {
+      "word_arabic": "ءَالَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10874,
+      "word_number_in_surah": 1248,
+      "word_surah": 4,
+      "word_translation": "(the) family",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10875,
+      "word_number_in_surah": 1249,
+      "word_surah": 4,
+      "word_translation": "(of) Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10876,
+      "word_number_in_surah": 1250,
+      "word_surah": 4,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡحِكۡمَةَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10877,
+      "word_number_in_surah": 1251,
+      "word_surah": 4,
+      "word_translation": "and [the] wisdom",
+      "word_transliteration": "wal-hik'mata"
+    },
+    {
+      "word_arabic": "وَءَاتَيۡنَٰهُم",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10878,
+      "word_number_in_surah": 1252,
+      "word_surah": 4,
+      "word_translation": "and [We] gave them",
+      "word_transliteration": "waataynahum"
+    },
+    {
+      "word_arabic": "مُّلۡكًا",
+      "word_ayah": 54,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10879,
+      "word_number_in_surah": 1253,
+      "word_surah": 4,
+      "word_translation": "a kingdom",
+      "word_transliteration": "mul'kan"
+    },
+    {
+      "word_arabic": "عَظِيمٗا",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10880,
+      "word_number_in_surah": 1254,
+      "word_surah": 4,
+      "word_translation": "great",
+      "word_transliteration": "aziman"
+    }
+  ],
+  "fullArabic": "أَمۡ يَحۡسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦۖ فَقَدۡ ءَاتَيۡنَآ ءَالَ إِبۡرَٰهِيمَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَءَاتَيۡنَٰهُم مُّلۡكًا عَظِيمٗا",
+  "fullTranslation": "Or do they envy people for what Allah has given them of His bounty? But we had already given the family of Abraham the Scripture and wisdom and conferred upon them a great kingdom.",
+  "fullTransliteration": "am yahsuduna al-nasa ala ma atahumu al-lahu min fadlihi faqad atayna ala ib'rahima al-kitaba wal-hik'mata waataynahum mul'kan aziman"
+}

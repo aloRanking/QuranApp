@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "ayah": 120,
+    "surah": 7,
+    "words": 3,
+    "numberInQuran": 1074,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأُلۡقِيَ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21038,
+      "word_number_in_surah": 1811,
+      "word_surah": 7,
+      "word_translation": "And fell down",
+      "word_transliteration": "wa-ul'qiya"
+    },
+    {
+      "word_arabic": "ٱلسَّحَرَةُ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21039,
+      "word_number_in_surah": 1812,
+      "word_surah": 7,
+      "word_translation": "the magicians",
+      "word_transliteration": "al-saharatu"
+    },
+    {
+      "word_arabic": "سَٰجِدِينَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21040,
+      "word_number_in_surah": 1813,
+      "word_surah": 7,
+      "word_translation": "prostrate",
+      "word_transliteration": "sajidina"
+    }
+  ],
+  "fullArabic": "وَأُلۡقِيَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+  "fullTranslation": "And the magicians fell down in prostration [to Allah].",
+  "fullTransliteration": "wa-ul'qiya al-saharatu sajidina"
+}

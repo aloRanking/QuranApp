@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "ayah": 3,
+    "surah": 4,
+    "words": 28,
+    "numberInQuran": 496,
+    "juz": 4,
+    "manzil": 1,
+    "page": 77,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِنۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9671,
+      "word_number_in_surah": 45,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "خِفۡتُمۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9672,
+      "word_number_in_surah": 46,
+      "word_surah": 4,
+      "word_translation": "you fear",
+      "word_transliteration": "khif'tum"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9673,
+      "word_number_in_surah": 47,
+      "word_surah": 4,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تُقۡسِطُواْ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9674,
+      "word_number_in_surah": 48,
+      "word_surah": 4,
+      "word_translation": "you will be able to do justice",
+      "word_transliteration": "tuq'situ"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9675,
+      "word_number_in_surah": 49,
+      "word_surah": 4,
+      "word_translation": "with",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡيَتَٰمَىٰ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9676,
+      "word_number_in_surah": 50,
+      "word_surah": 4,
+      "word_translation": "the orphans",
+      "word_transliteration": "al-yatama"
+    },
+    {
+      "word_arabic": "فَٱنكِحُواْ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9677,
+      "word_number_in_surah": 51,
+      "word_surah": 4,
+      "word_translation": "then marry",
+      "word_transliteration": "fa-inkihu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9678,
+      "word_number_in_surah": 52,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "طَابَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9679,
+      "word_number_in_surah": 53,
+      "word_surah": 4,
+      "word_translation": "seems suitable",
+      "word_transliteration": "taba"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 3,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9680,
+      "word_number_in_surah": 54,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9681,
+      "word_number_in_surah": 55,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنِّسَآءِ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9682,
+      "word_number_in_surah": 56,
+      "word_surah": 4,
+      "word_translation": "the women",
+      "word_transliteration": "al-nisai"
+    },
+    {
+      "word_arabic": "مَثۡنَىٰ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9683,
+      "word_number_in_surah": 57,
+      "word_surah": 4,
+      "word_translation": "two",
+      "word_transliteration": "mathna"
+    },
+    {
+      "word_arabic": "وَثُلَٰثَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9684,
+      "word_number_in_surah": 58,
+      "word_surah": 4,
+      "word_translation": "or three",
+      "word_transliteration": "wathulatha"
+    },
+    {
+      "word_arabic": "وَرُبَٰعَۖ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9685,
+      "word_number_in_surah": 59,
+      "word_surah": 4,
+      "word_translation": "or four",
+      "word_transliteration": "waruba'a"
+    },
+    {
+      "word_arabic": "فَإِنۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9686,
+      "word_number_in_surah": 60,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "خِفۡتُمۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9687,
+      "word_number_in_surah": 61,
+      "word_surah": 4,
+      "word_translation": "you fear",
+      "word_transliteration": "khif'tum"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9688,
+      "word_number_in_surah": 62,
+      "word_surah": 4,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تَعۡدِلُواْ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9689,
+      "word_number_in_surah": 63,
+      "word_surah": 4,
+      "word_translation": "you can do justice",
+      "word_transliteration": "ta'dilu"
+    },
+    {
+      "word_arabic": "فَوَٰحِدَةً",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9690,
+      "word_number_in_surah": 64,
+      "word_surah": 4,
+      "word_translation": "then (marry) one",
+      "word_transliteration": "fawahidatan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9691,
+      "word_number_in_surah": 65,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9692,
+      "word_number_in_surah": 66,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "مَلَكَتۡ",
+      "word_ayah": 3,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 9693,
+      "word_number_in_surah": 67,
+      "word_surah": 4,
+      "word_translation": "possesses",
+      "word_transliteration": "malakat"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنُكُمۡۚ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 9694,
+      "word_number_in_surah": 68,
+      "word_surah": 4,
+      "word_translation": "your right hand",
+      "word_transliteration": "aymanukum"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 9695,
+      "word_number_in_surah": 69,
+      "word_surah": 4,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "أَدۡنَىٰٓ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 9696,
+      "word_number_in_surah": 70,
+      "word_surah": 4,
+      "word_translation": "(is) more appropriate",
+      "word_transliteration": "adna"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 9697,
+      "word_number_in_surah": 71,
+      "word_surah": 4,
+      "word_translation": "that (may) not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تَعُولُواْ",
+      "word_ayah": 3,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 9698,
+      "word_number_in_surah": 72,
+      "word_surah": 4,
+      "word_translation": "you oppress",
+      "word_transliteration": "ta'ulu"
+    }
+  ],
+  "fullArabic": "وَإِنۡ خِفۡتُمۡ أَلَّا تُقۡسِطُواْ فِي ٱلۡيَتَٰمَىٰ فَٱنكِحُواْ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۖ فَإِنۡ خِفۡتُمۡ أَلَّا تَعۡدِلُواْ فَوَٰحِدَةً أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۚ ذَٰلِكَ أَدۡنَىٰٓ أَلَّا تَعُولُواْ",
+  "fullTranslation": "And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hand possesses. That is more suitable that you may not incline [to injustice].",
+  "fullTransliteration": "wa-in khif'tum alla tuq'situ fi al-yatama fa-inkihu ma taba lakum mina al-nisai mathna wathulatha waruba'a fa-in khif'tum alla ta'dilu fawahidatan aw ma malakat aymanukum dhalika adna alla ta'ulu"
+}

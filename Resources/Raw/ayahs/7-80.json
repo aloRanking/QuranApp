@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 80,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1034,
+    "juz": 8,
+    "manzil": 2,
+    "page": 160,
+    "ruku": 131,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلُوطًا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20519,
+      "word_number_in_surah": 1292,
+      "word_surah": 7,
+      "word_translation": "And Lut",
+      "word_transliteration": "walutan"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20520,
+      "word_number_in_surah": 1293,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20521,
+      "word_number_in_surah": 1294,
+      "word_surah": 7,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "لِقَوۡمِهِۦٓ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20522,
+      "word_number_in_surah": 1295,
+      "word_surah": 7,
+      "word_translation": "to his people",
+      "word_transliteration": "liqawmihi"
+    },
+    {
+      "word_arabic": "أَتَأۡتُونَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20523,
+      "word_number_in_surah": 1296,
+      "word_surah": 7,
+      "word_translation": "Do you commit",
+      "word_transliteration": "atatuna"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰحِشَةَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20524,
+      "word_number_in_surah": 1297,
+      "word_surah": 7,
+      "word_translation": "(such) immorality",
+      "word_transliteration": "al-fahishata"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20525,
+      "word_number_in_surah": 1298,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "سَبَقَكُم",
+      "word_ayah": 80,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20526,
+      "word_number_in_surah": 1299,
+      "word_surah": 7,
+      "word_translation": "has preceded you",
+      "word_transliteration": "sabaqakum"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20527,
+      "word_number_in_surah": 1300,
+      "word_surah": 7,
+      "word_translation": "therein",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20528,
+      "word_number_in_surah": 1301,
+      "word_surah": 7,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَحَدٖ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20529,
+      "word_number_in_surah": 1302,
+      "word_surah": 7,
+      "word_translation": "one",
+      "word_transliteration": "ahadin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20530,
+      "word_number_in_surah": 1303,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20531,
+      "word_number_in_surah": 1304,
+      "word_surah": 7,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ أَتَأۡتُونَ ٱلۡفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنۡ أَحَدٖ مِّنَ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "And [We had sent] Lot when he said to his people, \"Do you commit such immorality as no one has preceded you with from among the worlds?",
+  "fullTransliteration": "walutan idh qala liqawmihi atatuna al-fahishata ma sabaqakum biha min ahadin mina al-'alamina"
+}

@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 133,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1087,
+    "juz": 9,
+    "manzil": 2,
+    "page": 166,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأَرۡسَلۡنَا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21199,
+      "word_number_in_surah": 1972,
+      "word_surah": 7,
+      "word_translation": "So We sent",
+      "word_transliteration": "fa-arsalna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21200,
+      "word_number_in_surah": 1973,
+      "word_surah": 7,
+      "word_translation": "on them",
+      "word_transliteration": "alayhimu"
+    },
+    {
+      "word_arabic": "ٱلطُّوفَانَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21201,
+      "word_number_in_surah": 1974,
+      "word_surah": 7,
+      "word_translation": "the flood",
+      "word_transliteration": "al-tufana"
+    },
+    {
+      "word_arabic": "وَٱلۡجَرَادَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21202,
+      "word_number_in_surah": 1975,
+      "word_surah": 7,
+      "word_translation": "and the locusts",
+      "word_transliteration": "wal-jarada"
+    },
+    {
+      "word_arabic": "وَٱلۡقُمَّلَ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21203,
+      "word_number_in_surah": 1976,
+      "word_surah": 7,
+      "word_translation": "and the lice",
+      "word_transliteration": "wal-qumala"
+    },
+    {
+      "word_arabic": "وَٱلضَّفَادِعَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21204,
+      "word_number_in_surah": 1977,
+      "word_surah": 7,
+      "word_translation": "and the frogs",
+      "word_transliteration": "wal-dafadi'a"
+    },
+    {
+      "word_arabic": "وَٱلدَّمَ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21205,
+      "word_number_in_surah": 1978,
+      "word_surah": 7,
+      "word_translation": "and the blood",
+      "word_transliteration": "wal-dama"
+    },
+    {
+      "word_arabic": "ءَايَٰتٖ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21206,
+      "word_number_in_surah": 1979,
+      "word_surah": 7,
+      "word_translation": "(as) signs",
+      "word_transliteration": "ayatin"
+    },
+    {
+      "word_arabic": "مُّفَصَّلَٰتٖ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21207,
+      "word_number_in_surah": 1980,
+      "word_surah": 7,
+      "word_translation": "manifest",
+      "word_transliteration": "mufassalatin"
+    },
+    {
+      "word_arabic": "فَٱسۡتَكۡبَرُواْ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21208,
+      "word_number_in_surah": 1981,
+      "word_surah": 7,
+      "word_translation": "but they showed arrogance",
+      "word_transliteration": "fa-is'takbaru"
+    },
+    {
+      "word_arabic": "وَكَانُواْ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21209,
+      "word_number_in_surah": 1982,
+      "word_surah": 7,
+      "word_translation": "and they were",
+      "word_transliteration": "wakanu"
+    },
+    {
+      "word_arabic": "قَوۡمٗا",
+      "word_ayah": 133,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21210,
+      "word_number_in_surah": 1983,
+      "word_surah": 7,
+      "word_translation": "a people",
+      "word_transliteration": "qawman"
+    },
+    {
+      "word_arabic": "مُّجۡرِمِينَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21211,
+      "word_number_in_surah": 1984,
+      "word_surah": 7,
+      "word_translation": "criminal",
+      "word_transliteration": "muj'rimina"
+    }
+  ],
+  "fullArabic": "فَأَرۡسَلۡنَا عَلَيۡهِمُ ٱلطُّوفَانَ وَٱلۡجَرَادَ وَٱلۡقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٖ مُّفَصَّلَٰتٖ فَٱسۡتَكۡبَرُواْ وَكَانُواْ قَوۡمٗا مُّجۡرِمِينَ",
+  "fullTranslation": "So We sent upon them the flood and locusts and lice and frogs and blood as distinct signs, but they were arrogant and were a criminal people.",
+  "fullTransliteration": "fa-arsalna alayhimu al-tufana wal-jarada wal-qumala wal-dafadi'a wal-dama ayatin mufassalatin fa-is'takbaru wakanu qawman muj'rimina"
+}

@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "ayah": 219,
+    "surah": 2,
+    "words": 26,
+    "numberInQuran": 226,
+    "juz": 2,
+    "manzil": 1,
+    "page": 34,
+    "ruku": 28,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞يَسۡ‍َٔلُونَكَ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4175,
+      "word_number_in_surah": 4146,
+      "word_surah": 2,
+      "word_translation": "They ask you",
+      "word_transliteration": "yasalunaka"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4176,
+      "word_number_in_surah": 4147,
+      "word_surah": 2,
+      "word_translation": "about",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡخَمۡرِ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4177,
+      "word_number_in_surah": 4148,
+      "word_surah": 2,
+      "word_translation": "[the] intoxicants",
+      "word_transliteration": "al-khamri"
+    },
+    {
+      "word_arabic": "وَٱلۡمَيۡسِرِۖ",
+      "word_ayah": 219,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4178,
+      "word_number_in_surah": 4149,
+      "word_surah": 2,
+      "word_translation": "and [the] games of chance",
+      "word_transliteration": "wal-maysiri"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 219,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4179,
+      "word_number_in_surah": 4150,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "فِيهِمَآ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4180,
+      "word_number_in_surah": 4151,
+      "word_surah": 2,
+      "word_translation": "In both of them",
+      "word_transliteration": "fihima"
+    },
+    {
+      "word_arabic": "إِثۡمٞ",
+      "word_ayah": 219,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4181,
+      "word_number_in_surah": 4152,
+      "word_surah": 2,
+      "word_translation": "(is) a sin",
+      "word_transliteration": "ith'mun"
+    },
+    {
+      "word_arabic": "كَبِيرٞ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4182,
+      "word_number_in_surah": 4153,
+      "word_surah": 2,
+      "word_translation": "great",
+      "word_transliteration": "kabirun"
+    },
+    {
+      "word_arabic": "وَمَنَٰفِعُ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4183,
+      "word_number_in_surah": 4154,
+      "word_surah": 2,
+      "word_translation": "and (some) benefits",
+      "word_transliteration": "wamanafi'u"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4184,
+      "word_number_in_surah": 4155,
+      "word_surah": 2,
+      "word_translation": "for [the] people",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "وَإِثۡمُهُمَآ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4185,
+      "word_number_in_surah": 4156,
+      "word_surah": 2,
+      "word_translation": "But sin of both of them",
+      "word_transliteration": "wa-ith'muhuma"
+    },
+    {
+      "word_arabic": "أَكۡبَرُ",
+      "word_ayah": 219,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4186,
+      "word_number_in_surah": 4157,
+      "word_surah": 2,
+      "word_translation": "(is) greater",
+      "word_transliteration": "akbaru"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 219,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4187,
+      "word_number_in_surah": 4158,
+      "word_surah": 2,
+      "word_translation": "than",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّفۡعِهِمَاۗ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4188,
+      "word_number_in_surah": 4159,
+      "word_surah": 2,
+      "word_translation": "(the) benefit of (the) two",
+      "word_transliteration": "naf'ihima"
+    },
+    {
+      "word_arabic": "وَيَسۡ‍َٔلُونَكَ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4189,
+      "word_number_in_surah": 4160,
+      "word_surah": 2,
+      "word_translation": "And they ask you",
+      "word_transliteration": "wayasalunaka"
+    },
+    {
+      "word_arabic": "مَاذَا",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4190,
+      "word_number_in_surah": 4161,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "madha"
+    },
+    {
+      "word_arabic": "يُنفِقُونَۖ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4191,
+      "word_number_in_surah": 4162,
+      "word_surah": 2,
+      "word_translation": "they (should) spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "قُلِ",
+      "word_ayah": 219,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4192,
+      "word_number_in_surah": 4163,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "quli"
+    },
+    {
+      "word_arabic": "ٱلۡعَفۡوَۗ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4193,
+      "word_number_in_surah": 4164,
+      "word_surah": 2,
+      "word_translation": "The surplus",
+      "word_transliteration": "al-'afwa"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4194,
+      "word_number_in_surah": 4165,
+      "word_surah": 2,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "يُبَيِّنُ",
+      "word_ayah": 219,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4195,
+      "word_number_in_surah": 4166,
+      "word_surah": 2,
+      "word_translation": "makes clear",
+      "word_transliteration": "yubayyinu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4196,
+      "word_number_in_surah": 4167,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 219,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4197,
+      "word_number_in_surah": 4168,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4198,
+      "word_number_in_surah": 4169,
+      "word_surah": 2,
+      "word_translation": "[the] Verses",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4199,
+      "word_number_in_surah": 4170,
+      "word_surah": 2,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَتَفَكَّرُونَ",
+      "word_ayah": 219,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4200,
+      "word_number_in_surah": 4171,
+      "word_surah": 2,
+      "word_translation": "ponder",
+      "word_transliteration": "tatafakkaruna"
+    }
+  ],
+  "fullArabic": "۞يَسۡ‍َٔلُونَكَ عَنِ ٱلۡخَمۡرِ وَٱلۡمَيۡسِرِۖ قُلۡ فِيهِمَآ إِثۡمٞ كَبِيرٞ وَمَنَٰفِعُ لِلنَّاسِ وَإِثۡمُهُمَآ أَكۡبَرُ مِن نَّفۡعِهِمَاۗ وَيَسۡ‍َٔلُونَكَ مَاذَا يُنفِقُونَۖ قُلِ ٱلۡعَفۡوَۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِ لَعَلَّكُمۡ تَتَفَكَّرُونَ",
+  "fullTranslation": "They ask you about wine and gambling. Say, \"In them is great sin and [yet, some] benefit for people. But their sin is greater than their benefit.\" And they ask you what they should spend. Say, \"The excess [beyond needs].\" Thus Allah makes clear to you the verses [of revelation] that you might give thought.",
+  "fullTransliteration": "yasalunaka ani al-khamri wal-maysiri qul fihima ith'mun kabirun wamanafi'u lilnnasi wa-ith'muhuma akbaru min naf'ihima wayasalunaka madha yunfiquna quli al-'afwa kadhalika yubayyinu al-lahu lakumu al-ayati la'allakum tatafakkaruna"
+}

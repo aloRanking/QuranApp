@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "ayah": 135,
+    "surah": 3,
+    "words": 23,
+    "numberInQuran": 428,
+    "juz": 4,
+    "manzil": 1,
+    "page": 67,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8376,
+      "word_number_in_surah": 2231,
+      "word_surah": 3,
+      "word_translation": "And those",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8377,
+      "word_number_in_surah": 2232,
+      "word_surah": 3,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "فَعَلُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8378,
+      "word_number_in_surah": 2233,
+      "word_surah": 3,
+      "word_translation": "they did",
+      "word_transliteration": "fa'alu"
+    },
+    {
+      "word_arabic": "فَٰحِشَةً",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8379,
+      "word_number_in_surah": 2234,
+      "word_surah": 3,
+      "word_translation": "immorality",
+      "word_transliteration": "fahishatan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8380,
+      "word_number_in_surah": 2235,
+      "word_surah": 3,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "ظَلَمُوٓاْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8381,
+      "word_number_in_surah": 2236,
+      "word_surah": 3,
+      "word_translation": "wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8382,
+      "word_number_in_surah": 2237,
+      "word_surah": 3,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "ذَكَرُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8383,
+      "word_number_in_surah": 2238,
+      "word_surah": 3,
+      "word_translation": "they remember",
+      "word_transliteration": "dhakaru"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8384,
+      "word_number_in_surah": 2239,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "فَٱسۡتَغۡفَرُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8385,
+      "word_number_in_surah": 2240,
+      "word_surah": 3,
+      "word_translation": "then ask forgiveness",
+      "word_transliteration": "fa-is'taghfaru"
+    },
+    {
+      "word_arabic": "لِذُنُوبِهِمۡ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8386,
+      "word_number_in_surah": 2241,
+      "word_surah": 3,
+      "word_translation": "for their sins",
+      "word_transliteration": "lidhunubihim"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 135,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8387,
+      "word_number_in_surah": 2242,
+      "word_surah": 3,
+      "word_translation": "and who",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَغۡفِرُ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8388,
+      "word_number_in_surah": 2243,
+      "word_surah": 3,
+      "word_translation": "(can) forgive",
+      "word_transliteration": "yaghfiru"
+    },
+    {
+      "word_arabic": "ٱلذُّنُوبَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8389,
+      "word_number_in_surah": 2244,
+      "word_surah": 3,
+      "word_translation": "the sins",
+      "word_transliteration": "al-dhunuba"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8390,
+      "word_number_in_surah": 2245,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8391,
+      "word_number_in_surah": 2246,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَمۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8392,
+      "word_number_in_surah": 2247,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "walam"
+    },
+    {
+      "word_arabic": "يُصِرُّواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8393,
+      "word_number_in_surah": 2248,
+      "word_surah": 3,
+      "word_translation": "they persist",
+      "word_transliteration": "yusirru"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8394,
+      "word_number_in_surah": 2249,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8395,
+      "word_number_in_surah": 2250,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فَعَلُواْ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8396,
+      "word_number_in_surah": 2251,
+      "word_surah": 3,
+      "word_translation": "they did",
+      "word_transliteration": "fa'alu"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8397,
+      "word_number_in_surah": 2252,
+      "word_surah": 3,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8398,
+      "word_number_in_surah": 2253,
+      "word_surah": 3,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ إِذَا فَعَلُواْ فَٰحِشَةً أَوۡ ظَلَمُوٓاْ أَنفُسَهُمۡ ذَكَرُواْ ٱللَّهَ فَٱسۡتَغۡفَرُواْ لِذُنُوبِهِمۡ وَمَن يَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمۡ يَعۡلَمُونَ",
+  "fullTranslation": "And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah? - and [who] do not persist in what they have done while they know.",
+  "fullTransliteration": "wa-alladhina idha fa'alu fahishatan aw zalamu anfusahum dhakaru al-laha fa-is'taghfaru lidhunubihim waman yaghfiru al-dhunuba illa al-lahu walam yusirru ala ma fa'alu wahum ya'lamuna"
+}

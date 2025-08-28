@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 105,
+    "surah": 5,
+    "words": 19,
+    "numberInQuran": 774,
+    "juz": 7,
+    "manzil": 2,
+    "page": 125,
+    "ruku": 99,
+    "hizbQuarter": 50,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15775,
+      "word_number_in_surah": 2402,
+      "word_surah": 5,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15776,
+      "word_number_in_surah": 2403,
+      "word_surah": 5,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15777,
+      "word_number_in_surah": 2404,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15778,
+      "word_number_in_surah": 2405,
+      "word_surah": 5,
+      "word_translation": "Upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "أَنفُسَكُمۡۖ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15779,
+      "word_number_in_surah": 2406,
+      "word_surah": 5,
+      "word_translation": "(is to guard) yourselves",
+      "word_transliteration": "anfusakum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15780,
+      "word_number_in_surah": 2407,
+      "word_surah": 5,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَضُرُّكُم",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15781,
+      "word_number_in_surah": 2408,
+      "word_surah": 5,
+      "word_translation": "will harm you",
+      "word_transliteration": "yadurrukum"
+    },
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 105,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15782,
+      "word_number_in_surah": 2409,
+      "word_surah": 5,
+      "word_translation": "(those) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "ضَلَّ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15783,
+      "word_number_in_surah": 2410,
+      "word_surah": 5,
+      "word_translation": "(have gone) astray",
+      "word_transliteration": "dalla"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15784,
+      "word_number_in_surah": 2411,
+      "word_surah": 5,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "ٱهۡتَدَيۡتُمۡۚ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15785,
+      "word_number_in_surah": 2412,
+      "word_surah": 5,
+      "word_translation": "you have been guided",
+      "word_transliteration": "ih'tadaytum"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15786,
+      "word_number_in_surah": 2413,
+      "word_surah": 5,
+      "word_translation": "To",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15787,
+      "word_number_in_surah": 2414,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَرۡجِعُكُمۡ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15788,
+      "word_number_in_surah": 2415,
+      "word_surah": 5,
+      "word_translation": "(is) your return",
+      "word_transliteration": "marji'ukum"
+    },
+    {
+      "word_arabic": "جَمِيعٗا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15789,
+      "word_number_in_surah": 2416,
+      "word_surah": 5,
+      "word_translation": "all",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "فَيُنَبِّئُكُم",
+      "word_ayah": 105,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15790,
+      "word_number_in_surah": 2417,
+      "word_surah": 5,
+      "word_translation": "then He will inform you",
+      "word_transliteration": "fayunabbi-ukum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15791,
+      "word_number_in_surah": 2418,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15792,
+      "word_number_in_surah": 2419,
+      "word_surah": 5,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15793,
+      "word_number_in_surah": 2420,
+      "word_surah": 5,
+      "word_translation": "do",
+      "word_transliteration": "ta'maluna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "fullTranslation": "O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allah is you return all together; then He will inform you of what you used to do.",
+  "fullTransliteration": "yaayyuha alladhina amanu alaykum anfusakum la yadurrukum man dalla idha ih'tadaytum ila al-lahi marji'ukum jami'an fayunabbi-ukum bima kuntum ta'maluna"
+}

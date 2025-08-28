@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "ayah": 203,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 210,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَٱذۡكُرُواْ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3813,
+      "word_number_in_surah": 3784,
+      "word_surah": 2,
+      "word_translation": "And remember",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3814,
+      "word_number_in_surah": 3785,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3815,
+      "word_number_in_surah": 3786,
+      "word_surah": 2,
+      "word_translation": "during",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَيَّامٖ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3816,
+      "word_number_in_surah": 3787,
+      "word_surah": 2,
+      "word_translation": "days",
+      "word_transliteration": "ayyamin"
+    },
+    {
+      "word_arabic": "مَّعۡدُودَٰتٖۚ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3817,
+      "word_number_in_surah": 3788,
+      "word_surah": 2,
+      "word_translation": "numbered",
+      "word_transliteration": "ma'dudatin"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 203,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3818,
+      "word_number_in_surah": 3789,
+      "word_surah": 2,
+      "word_translation": "Then (he) who",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "تَعَجَّلَ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3819,
+      "word_number_in_surah": 3790,
+      "word_surah": 2,
+      "word_translation": "hurries",
+      "word_transliteration": "ta'ajjala"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3820,
+      "word_number_in_surah": 3791,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "يَوۡمَيۡنِ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3821,
+      "word_number_in_surah": 3792,
+      "word_surah": 2,
+      "word_translation": "two days",
+      "word_transliteration": "yawmayni"
+    },
+    {
+      "word_arabic": "فَلَآ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3822,
+      "word_number_in_surah": 3793,
+      "word_surah": 2,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "إِثۡمَ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3823,
+      "word_number_in_surah": 3794,
+      "word_surah": 2,
+      "word_translation": "sin",
+      "word_transliteration": "ith'ma"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3824,
+      "word_number_in_surah": 3795,
+      "word_surah": 2,
+      "word_translation": "upon him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 203,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3825,
+      "word_number_in_surah": 3796,
+      "word_surah": 2,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "تَأَخَّرَ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3826,
+      "word_number_in_surah": 3797,
+      "word_surah": 2,
+      "word_translation": "delays",
+      "word_transliteration": "ta-akhara"
+    },
+    {
+      "word_arabic": "فَلَآ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3827,
+      "word_number_in_surah": 3798,
+      "word_surah": 2,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "إِثۡمَ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3828,
+      "word_number_in_surah": 3799,
+      "word_surah": 2,
+      "word_translation": "sin",
+      "word_transliteration": "ith'ma"
+    },
+    {
+      "word_arabic": "عَلَيۡهِۖ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3829,
+      "word_number_in_surah": 3800,
+      "word_surah": 2,
+      "word_translation": "upon him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "لِمَنِ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3830,
+      "word_number_in_surah": 3801,
+      "word_surah": 2,
+      "word_translation": "for (the one) who",
+      "word_transliteration": "limani"
+    },
+    {
+      "word_arabic": "ٱتَّقَىٰۗ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3831,
+      "word_number_in_surah": 3802,
+      "word_surah": 2,
+      "word_translation": "fears",
+      "word_transliteration": "ittaqa"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3832,
+      "word_number_in_surah": 3803,
+      "word_surah": 2,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3833,
+      "word_number_in_surah": 3804,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٱعۡلَمُوٓاْ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3834,
+      "word_number_in_surah": 3805,
+      "word_surah": 2,
+      "word_translation": "and know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّكُمۡ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 3835,
+      "word_number_in_surah": 3806,
+      "word_surah": 2,
+      "word_translation": "that you",
+      "word_transliteration": "annakum"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 3836,
+      "word_number_in_surah": 3807,
+      "word_surah": 2,
+      "word_translation": "unto Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "تُحۡشَرُونَ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 3837,
+      "word_number_in_surah": 3808,
+      "word_surah": 2,
+      "word_translation": "will be gathered",
+      "word_transliteration": "tuh'sharuna"
+    }
+  ],
+  "fullArabic": "۞وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
+  "fullTranslation": "And remember Allah during [specific] numbered days. Then whoever hastens [his departure] in two days - there is no sin upon him; and whoever delays [until the third] - there is no sin upon him - for him who fears Allah. And fear Allah and know that unto Him you will be gathered.",
+  "fullTransliteration": "wa-udh'kuru al-laha fi ayyamin ma'dudatin faman ta'ajjala fi yawmayni fala ith'ma alayhi waman ta-akhara fala ith'ma alayhi limani ittaqa wa-ittaqu al-laha wa-i'lamu annakum ilayhi tuh'sharuna"
+}

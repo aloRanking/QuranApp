@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 193,
+    "surah": 7,
+    "words": 12,
+    "numberInQuran": 1147,
+    "juz": 9,
+    "manzil": 2,
+    "page": 175,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 193,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22371,
+      "word_number_in_surah": 3144,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَدۡعُوهُمۡ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22372,
+      "word_number_in_surah": 3145,
+      "word_surah": 7,
+      "word_translation": "you call them",
+      "word_transliteration": "tad'uhum"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22373,
+      "word_number_in_surah": 3146,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلۡهُدَىٰ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22374,
+      "word_number_in_surah": 3147,
+      "word_surah": 7,
+      "word_translation": "the guidance",
+      "word_transliteration": "al-huda"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22375,
+      "word_number_in_surah": 3148,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَتَّبِعُوكُمۡۚ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22376,
+      "word_number_in_surah": 3149,
+      "word_surah": 7,
+      "word_translation": "will they follow you",
+      "word_transliteration": "yattabi'ukum"
+    },
+    {
+      "word_arabic": "سَوَآءٌ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22377,
+      "word_number_in_surah": 3150,
+      "word_surah": 7,
+      "word_translation": "(It is) same",
+      "word_transliteration": "sawaon"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22378,
+      "word_number_in_surah": 3151,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "أَدَعَوۡتُمُوهُمۡ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22379,
+      "word_number_in_surah": 3152,
+      "word_surah": 7,
+      "word_translation": "whether you call them",
+      "word_transliteration": "ada'awtumuhum"
+    },
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 193,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22380,
+      "word_number_in_surah": 3153,
+      "word_surah": 7,
+      "word_translation": "or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "أَنتُمۡ",
+      "word_ayah": 193,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22381,
+      "word_number_in_surah": 3154,
+      "word_surah": 7,
+      "word_translation": "you",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "صَٰمِتُونَ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22382,
+      "word_number_in_surah": 3155,
+      "word_surah": 7,
+      "word_translation": "remain silent",
+      "word_transliteration": "samituna"
+    }
+  ],
+  "fullArabic": "وَإِن تَدۡعُوهُمۡ إِلَى ٱلۡهُدَىٰ لَا يَتَّبِعُوكُمۡۚ سَوَآءٌ عَلَيۡكُمۡ أَدَعَوۡتُمُوهُمۡ أَمۡ أَنتُمۡ صَٰمِتُونَ",
+  "fullTranslation": "And if you [believers] invite them to guidance, they will not follow you. It is all the same for you whether you invite them or you are silent.",
+  "fullTransliteration": "wa-in tad'uhum ila al-huda la yattabi'ukum sawaon alaykum ada'awtumuhum am antum samituna"
+}

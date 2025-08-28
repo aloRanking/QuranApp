@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "ayah": 280,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 287,
+    "juz": 3,
+    "manzil": 1,
+    "page": 47,
+    "ruku": 39,
+    "hizbQuarter": 19,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 280,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5853,
+      "word_number_in_surah": 5824,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 280,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5854,
+      "word_number_in_surah": 5825,
+      "word_surah": 2,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "ذُو",
+      "word_ayah": 280,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5855,
+      "word_number_in_surah": 5826,
+      "word_surah": 2,
+      "word_translation": "the (debtor)",
+      "word_transliteration": "dhu"
+    },
+    {
+      "word_arabic": "عُسۡرَةٖ",
+      "word_ayah": 280,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5856,
+      "word_number_in_surah": 5827,
+      "word_surah": 2,
+      "word_translation": "in difficulty",
+      "word_transliteration": "us'ratin"
+    },
+    {
+      "word_arabic": "فَنَظِرَةٌ",
+      "word_ayah": 280,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5857,
+      "word_number_in_surah": 5828,
+      "word_surah": 2,
+      "word_translation": "then postponement",
+      "word_transliteration": "fanaziratun"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 280,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5858,
+      "word_number_in_surah": 5829,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "مَيۡسَرَةٖۚ",
+      "word_ayah": 280,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5859,
+      "word_number_in_surah": 5830,
+      "word_surah": 2,
+      "word_translation": "ease",
+      "word_transliteration": "maysaratin"
+    },
+    {
+      "word_arabic": "وَأَن",
+      "word_ayah": 280,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5860,
+      "word_number_in_surah": 5831,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "تَصَدَّقُواْ",
+      "word_ayah": 280,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5861,
+      "word_number_in_surah": 5832,
+      "word_surah": 2,
+      "word_translation": "you remit as charity",
+      "word_transliteration": "tasaddaqu"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 280,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5862,
+      "word_number_in_surah": 5833,
+      "word_surah": 2,
+      "word_translation": "(it is) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 280,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5863,
+      "word_number_in_surah": 5834,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 280,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5864,
+      "word_number_in_surah": 5835,
+      "word_surah": 2,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 280,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5865,
+      "word_number_in_surah": 5836,
+      "word_surah": 2,
+      "word_translation": "you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 280,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5866,
+      "word_number_in_surah": 5837,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَإِن كَانَ ذُو عُسۡرَةٖ فَنَظِرَةٌ إِلَىٰ مَيۡسَرَةٖۚ وَأَن تَصَدَّقُواْ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "And if someone is in hardship, then [let there be] postponement until [a time of] ease. But if you give [from your right as] charity, then it is better for you, if you only knew.",
+  "fullTransliteration": "wa-in kana dhu us'ratin fanaziratun ila maysaratin wa-an tasaddaqu khayrun lakum in kuntum ta'lamuna"
+}

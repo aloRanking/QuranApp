@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "ayah": 85,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 578,
+    "juz": 5,
+    "manzil": 1,
+    "page": 91,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 85,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11485,
+      "word_number_in_surah": 1859,
+      "word_surah": 4,
+      "word_translation": "Whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشۡفَعۡ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11486,
+      "word_number_in_surah": 1860,
+      "word_surah": 4,
+      "word_translation": "intercedes",
+      "word_transliteration": "yashfa'"
+    },
+    {
+      "word_arabic": "شَفَٰعَةً",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11487,
+      "word_number_in_surah": 1861,
+      "word_surah": 4,
+      "word_translation": "an intercession",
+      "word_transliteration": "shafa'atan"
+    },
+    {
+      "word_arabic": "حَسَنَةٗ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11488,
+      "word_number_in_surah": 1862,
+      "word_surah": 4,
+      "word_translation": "good",
+      "word_transliteration": "hasanatan"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 85,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11489,
+      "word_number_in_surah": 1863,
+      "word_surah": 4,
+      "word_translation": "will have",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "لَّهُۥ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11490,
+      "word_number_in_surah": 1864,
+      "word_surah": 4,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "نَصِيبٞ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11491,
+      "word_number_in_surah": 1865,
+      "word_surah": 4,
+      "word_translation": "a share",
+      "word_transliteration": "nasibun"
+    },
+    {
+      "word_arabic": "مِّنۡهَاۖ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11492,
+      "word_number_in_surah": 1866,
+      "word_surah": 4,
+      "word_translation": "of it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 85,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11493,
+      "word_number_in_surah": 1867,
+      "word_surah": 4,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَشۡفَعۡ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11494,
+      "word_number_in_surah": 1868,
+      "word_surah": 4,
+      "word_translation": "intercedes",
+      "word_transliteration": "yashfa'"
+    },
+    {
+      "word_arabic": "شَفَٰعَةٗ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11495,
+      "word_number_in_surah": 1869,
+      "word_surah": 4,
+      "word_translation": "an intercession",
+      "word_transliteration": "shafa'atan"
+    },
+    {
+      "word_arabic": "سَيِّئَةٗ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11496,
+      "word_number_in_surah": 1870,
+      "word_surah": 4,
+      "word_translation": "evil",
+      "word_transliteration": "sayyi-atan"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 85,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11497,
+      "word_number_in_surah": 1871,
+      "word_surah": 4,
+      "word_translation": "will have",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "لَّهُۥ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11498,
+      "word_number_in_surah": 1872,
+      "word_surah": 4,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "كِفۡلٞ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11499,
+      "word_number_in_surah": 1873,
+      "word_surah": 4,
+      "word_translation": "a portion",
+      "word_transliteration": "kif'lun"
+    },
+    {
+      "word_arabic": "مِّنۡهَاۗ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11500,
+      "word_number_in_surah": 1874,
+      "word_surah": 4,
+      "word_translation": "of it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11501,
+      "word_number_in_surah": 1875,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11502,
+      "word_number_in_surah": 1876,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11503,
+      "word_number_in_surah": 1877,
+      "word_surah": 4,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11504,
+      "word_number_in_surah": 1878,
+      "word_surah": 4,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11505,
+      "word_number_in_surah": 1879,
+      "word_surah": 4,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "مُّقِيتٗا",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11506,
+      "word_number_in_surah": 1880,
+      "word_surah": 4,
+      "word_translation": "a Keeper",
+      "word_transliteration": "muqitan"
+    }
+  ],
+  "fullArabic": "مَّن يَشۡفَعۡ شَفَٰعَةً حَسَنَةٗ يَكُن لَّهُۥ نَصِيبٞ مِّنۡهَاۖ وَمَن يَشۡفَعۡ شَفَٰعَةٗ سَيِّئَةٗ يَكُن لَّهُۥ كِفۡلٞ مِّنۡهَاۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ مُّقِيتٗا",
+  "fullTranslation": "Whoever intercedes for a good cause will have a reward therefrom; and whoever intercedes for an evil cause will have a burden therefrom. And ever is Allah, over all things, a Keeper.",
+  "fullTransliteration": "man yashfa' shafa'atan hasanatan yakun lahu nasibun min'ha waman yashfa' shafa'atan sayyi-atan yakun lahu kif'lun min'ha wakana al-lahu ala kulli shayin muqitan"
+}

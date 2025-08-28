@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "ayah": 65,
+    "surah": 8,
+    "words": 26,
+    "numberInQuran": 1225,
+    "juz": 10,
+    "manzil": 2,
+    "page": 185,
+    "ruku": 154,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23554,
+      "word_number_in_surah": 1007,
+      "word_surah": 8,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّبِيُّ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23555,
+      "word_number_in_surah": 1008,
+      "word_surah": 8,
+      "word_translation": "Prophet",
+      "word_transliteration": "al-nabiyu"
+    },
+    {
+      "word_arabic": "حَرِّضِ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23556,
+      "word_number_in_surah": 1009,
+      "word_surah": 8,
+      "word_translation": "Urge",
+      "word_transliteration": "harridi"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23557,
+      "word_number_in_surah": 1010,
+      "word_surah": 8,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23558,
+      "word_number_in_surah": 1011,
+      "word_surah": 8,
+      "word_translation": "to",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡقِتَالِۚ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23559,
+      "word_number_in_surah": 1012,
+      "word_surah": 8,
+      "word_translation": "[the] fight",
+      "word_transliteration": "al-qitali"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 65,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23560,
+      "word_number_in_surah": 1013,
+      "word_surah": 8,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 65,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23561,
+      "word_number_in_surah": 1014,
+      "word_surah": 8,
+      "word_translation": "(there) are",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "مِّنكُمۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23562,
+      "word_number_in_surah": 1015,
+      "word_surah": 8,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "عِشۡرُونَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23563,
+      "word_number_in_surah": 1016,
+      "word_surah": 8,
+      "word_translation": "twenty",
+      "word_transliteration": "ish'runa"
+    },
+    {
+      "word_arabic": "صَٰبِرُونَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23564,
+      "word_number_in_surah": 1017,
+      "word_surah": 8,
+      "word_translation": "steadfast",
+      "word_transliteration": "sabiruna"
+    },
+    {
+      "word_arabic": "يَغۡلِبُواْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23565,
+      "word_number_in_surah": 1018,
+      "word_surah": 8,
+      "word_translation": "they will overcome",
+      "word_transliteration": "yaghlibu"
+    },
+    {
+      "word_arabic": "مِاْئَتَيۡنِۚ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23566,
+      "word_number_in_surah": 1019,
+      "word_surah": 8,
+      "word_translation": "two hundred",
+      "word_transliteration": "mi-atayni"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 65,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23567,
+      "word_number_in_surah": 1020,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 65,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23568,
+      "word_number_in_surah": 1021,
+      "word_surah": 8,
+      "word_translation": "(there) are",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "مِّنكُم",
+      "word_ayah": 65,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23569,
+      "word_number_in_surah": 1022,
+      "word_surah": 8,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "مِّاْئَةٞ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23570,
+      "word_number_in_surah": 1023,
+      "word_surah": 8,
+      "word_translation": "a hundred",
+      "word_transliteration": "mi-atun"
+    },
+    {
+      "word_arabic": "يَغۡلِبُوٓاْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23571,
+      "word_number_in_surah": 1024,
+      "word_surah": 8,
+      "word_translation": "they will overcome",
+      "word_transliteration": "yaghlibu"
+    },
+    {
+      "word_arabic": "أَلۡفٗا",
+      "word_ayah": 65,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23572,
+      "word_number_in_surah": 1025,
+      "word_surah": 8,
+      "word_translation": "a thousand",
+      "word_transliteration": "alfan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23573,
+      "word_number_in_surah": 1026,
+      "word_surah": 8,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 23574,
+      "word_number_in_surah": 1027,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 23575,
+      "word_number_in_surah": 1028,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "بِأَنَّهُمۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 23576,
+      "word_number_in_surah": 1029,
+      "word_surah": 8,
+      "word_translation": "because they",
+      "word_transliteration": "bi-annahum"
+    },
+    {
+      "word_arabic": "قَوۡمٞ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 23577,
+      "word_number_in_surah": 1030,
+      "word_surah": 8,
+      "word_translation": "(are) a people",
+      "word_transliteration": "qawmun"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 23578,
+      "word_number_in_surah": 1031,
+      "word_surah": 8,
+      "word_translation": "(who do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَفۡقَهُونَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 23579,
+      "word_number_in_surah": 1032,
+      "word_surah": 8,
+      "word_translation": "understand",
+      "word_transliteration": "yafqahuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةٞ يَغۡلِبُوٓاْ أَلۡفٗا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمٞ لَّا يَفۡقَهُونَ",
+  "fullTranslation": "O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are] steadfast, they will overcome a thousand of those who have disbelieved because they are a people who do not understand.",
+  "fullTransliteration": "yaayyuha al-nabiyu harridi al-mu'minina ala al-qitali in yakun minkum ish'runa sabiruna yaghlibu mi-atayni wa-in yakun minkum mi-atun yaghlibu alfan mina alladhina kafaru bi-annahum qawmun la yafqahuna"
+}

@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 65,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 72,
+    "juz": 1,
+    "manzil": 1,
+    "page": 10,
+    "ruku": 9,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1016,
+      "word_number_in_surah": 987,
+      "word_surah": 2,
+      "word_translation": "And indeed",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "عَلِمۡتُمُ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1017,
+      "word_number_in_surah": 988,
+      "word_surah": 2,
+      "word_translation": "you knew",
+      "word_transliteration": "alim'tumu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1018,
+      "word_number_in_surah": 989,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱعۡتَدَوۡاْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1019,
+      "word_number_in_surah": 990,
+      "word_surah": 2,
+      "word_translation": "transgressed",
+      "word_transliteration": "i'tadaw"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1020,
+      "word_number_in_surah": 991,
+      "word_surah": 2,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1021,
+      "word_number_in_surah": 992,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّبۡتِ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1022,
+      "word_number_in_surah": 993,
+      "word_surah": 2,
+      "word_translation": "the (matter of) Sabbath",
+      "word_transliteration": "al-sabti"
+    },
+    {
+      "word_arabic": "فَقُلۡنَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1023,
+      "word_number_in_surah": 994,
+      "word_surah": 2,
+      "word_translation": "So We said",
+      "word_transliteration": "faqul'na"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1024,
+      "word_number_in_surah": 995,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "كُونُواْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1025,
+      "word_number_in_surah": 996,
+      "word_surah": 2,
+      "word_translation": "Be",
+      "word_transliteration": "kunu"
+    },
+    {
+      "word_arabic": "قِرَدَةً",
+      "word_ayah": 65,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1026,
+      "word_number_in_surah": 997,
+      "word_surah": 2,
+      "word_translation": "apes",
+      "word_transliteration": "qiradatan"
+    },
+    {
+      "word_arabic": "خَٰسِ‍ِٔينَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1027,
+      "word_number_in_surah": 998,
+      "word_surah": 2,
+      "word_translation": "despised",
+      "word_transliteration": "khasiina"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ عَلِمۡتُمُ ٱلَّذِينَ ٱعۡتَدَوۡاْ مِنكُمۡ فِي ٱلسَّبۡتِ فَقُلۡنَا لَهُمۡ كُونُواْ قِرَدَةً خَٰسِ‍ِٔينَ",
+  "fullTranslation": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\"",
+  "fullTransliteration": "walaqad alim'tumu alladhina i'tadaw minkum fi al-sabti faqul'na lahum kunu qiradatan khasiina"
+}

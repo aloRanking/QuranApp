@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "ayah": 66,
+    "surah": 4,
+    "words": 27,
+    "numberInQuran": 559,
+    "juz": 5,
+    "manzil": 1,
+    "page": 89,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11104,
+      "word_number_in_surah": 1478,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَنَّا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11105,
+      "word_number_in_surah": 1479,
+      "word_surah": 4,
+      "word_translation": "[that] We",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "كَتَبۡنَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11106,
+      "word_number_in_surah": 1480,
+      "word_surah": 4,
+      "word_translation": "(had) decreed",
+      "word_transliteration": "katabna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11107,
+      "word_number_in_surah": 1481,
+      "word_surah": 4,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "أَنِ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11108,
+      "word_number_in_surah": 1482,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱقۡتُلُوٓاْ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11109,
+      "word_number_in_surah": 1483,
+      "word_surah": 4,
+      "word_translation": "Kill",
+      "word_transliteration": "uq'tulu"
+    },
+    {
+      "word_arabic": "أَنفُسَكُمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11110,
+      "word_number_in_surah": 1484,
+      "word_surah": 4,
+      "word_translation": "yourselves",
+      "word_transliteration": "anfusakum"
+    },
+    {
+      "word_arabic": "أَوِ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11111,
+      "word_number_in_surah": 1485,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "awi"
+    },
+    {
+      "word_arabic": "ٱخۡرُجُواْ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11112,
+      "word_number_in_surah": 1486,
+      "word_surah": 4,
+      "word_translation": "Go forth",
+      "word_transliteration": "ukh'ruju"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 66,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11113,
+      "word_number_in_surah": 1487,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دِيَٰرِكُم",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11114,
+      "word_number_in_surah": 1488,
+      "word_surah": 4,
+      "word_translation": "your homes",
+      "word_transliteration": "diyarikum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11115,
+      "word_number_in_surah": 1489,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فَعَلُوهُ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11116,
+      "word_number_in_surah": 1490,
+      "word_surah": 4,
+      "word_translation": "they would have done it",
+      "word_transliteration": "fa'aluhu"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11117,
+      "word_number_in_surah": 1491,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "قَلِيلٞ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11118,
+      "word_number_in_surah": 1492,
+      "word_surah": 4,
+      "word_translation": "a few",
+      "word_transliteration": "qalilun"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡۖ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11119,
+      "word_number_in_surah": 1493,
+      "word_surah": 4,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11120,
+      "word_number_in_surah": 1494,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَنَّهُمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11121,
+      "word_number_in_surah": 1495,
+      "word_surah": 4,
+      "word_translation": "[that] they",
+      "word_transliteration": "annahum"
+    },
+    {
+      "word_arabic": "فَعَلُواْ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11122,
+      "word_number_in_surah": 1496,
+      "word_surah": 4,
+      "word_translation": "had done",
+      "word_transliteration": "fa'alu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11123,
+      "word_number_in_surah": 1497,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُوعَظُونَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11124,
+      "word_number_in_surah": 1498,
+      "word_surah": 4,
+      "word_translation": "they were advised",
+      "word_transliteration": "yu'azuna"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11125,
+      "word_number_in_surah": 1499,
+      "word_surah": 4,
+      "word_translation": "with [it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "لَكَانَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11126,
+      "word_number_in_surah": 1500,
+      "word_surah": 4,
+      "word_translation": "surely (it) would have been",
+      "word_transliteration": "lakana"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 66,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11127,
+      "word_number_in_surah": 1501,
+      "word_surah": 4,
+      "word_translation": "better",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "لَّهُمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11128,
+      "word_number_in_surah": 1502,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "وَأَشَدَّ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11129,
+      "word_number_in_surah": 1503,
+      "word_surah": 4,
+      "word_translation": "and stronger",
+      "word_transliteration": "wa-ashadda"
+    },
+    {
+      "word_arabic": "تَثۡبِيتٗا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11130,
+      "word_number_in_surah": 1504,
+      "word_surah": 4,
+      "word_translation": "strengthen(ing)",
+      "word_transliteration": "tathbitan"
+    }
+  ],
+  "fullArabic": "وَلَوۡ أَنَّا كَتَبۡنَا عَلَيۡهِمۡ أَنِ ٱقۡتُلُوٓاْ أَنفُسَكُمۡ أَوِ ٱخۡرُجُواْ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٞ مِّنۡهُمۡۖ وَلَوۡ أَنَّهُمۡ فَعَلُواْ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيۡرٗا لَّهُمۡ وَأَشَدَّ تَثۡبِيتٗا",
+  "fullTranslation": "And if We had decreed upon them, \"Kill yourselves\" or \"Leave your homes,\" they would not have done it, except for a few of them. But if they had done what they were instructed, it would have been better for them and a firmer position [for them in faith].",
+  "fullTransliteration": "walaw anna katabna alayhim ani uq'tulu anfusakum awi ukh'ruju min diyarikum ma fa'aluhu illa qalilun min'hum walaw annahum fa'alu ma yu'azuna bihi lakana khayran lahum wa-ashadda tathbitan"
+}

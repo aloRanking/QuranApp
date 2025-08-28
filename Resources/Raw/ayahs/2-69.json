@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "ayah": 69,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 76,
+    "juz": 1,
+    "manzil": 1,
+    "page": 10,
+    "ruku": 9,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1080,
+      "word_number_in_surah": 1051,
+      "word_surah": 2,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ٱدۡعُ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1081,
+      "word_number_in_surah": 1052,
+      "word_surah": 2,
+      "word_translation": "Pray",
+      "word_transliteration": "ud'u"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1082,
+      "word_number_in_surah": 1053,
+      "word_surah": 2,
+      "word_translation": "for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1083,
+      "word_number_in_surah": 1054,
+      "word_surah": 2,
+      "word_translation": "(to) your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "يُبَيِّن",
+      "word_ayah": 69,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1084,
+      "word_number_in_surah": 1055,
+      "word_surah": 2,
+      "word_translation": "to make clear",
+      "word_transliteration": "yubayyin"
+    },
+    {
+      "word_arabic": "لَّنَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1085,
+      "word_number_in_surah": 1056,
+      "word_surah": 2,
+      "word_translation": "to us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1086,
+      "word_number_in_surah": 1057,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَوۡنُهَاۚ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1087,
+      "word_number_in_surah": 1058,
+      "word_surah": 2,
+      "word_translation": "(is) its color",
+      "word_transliteration": "lawnuha"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1088,
+      "word_number_in_surah": 1059,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1089,
+      "word_number_in_surah": 1060,
+      "word_surah": 2,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1090,
+      "word_number_in_surah": 1061,
+      "word_surah": 2,
+      "word_translation": "says",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "إِنَّهَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1091,
+      "word_number_in_surah": 1062,
+      "word_surah": 2,
+      "word_translation": "[Indeed] it is",
+      "word_transliteration": "innaha"
+    },
+    {
+      "word_arabic": "بَقَرَةٞ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1092,
+      "word_number_in_surah": 1063,
+      "word_surah": 2,
+      "word_translation": "a cow",
+      "word_transliteration": "baqaratun"
+    },
+    {
+      "word_arabic": "صَفۡرَآءُ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1093,
+      "word_number_in_surah": 1064,
+      "word_surah": 2,
+      "word_translation": "yellow",
+      "word_transliteration": "safrau"
+    },
+    {
+      "word_arabic": "فَاقِعٞ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1094,
+      "word_number_in_surah": 1065,
+      "word_surah": 2,
+      "word_translation": "bright",
+      "word_transliteration": "faqi'un"
+    },
+    {
+      "word_arabic": "لَّوۡنُهَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1095,
+      "word_number_in_surah": 1066,
+      "word_surah": 2,
+      "word_translation": "(in) its color",
+      "word_transliteration": "lawnuha"
+    },
+    {
+      "word_arabic": "تَسُرُّ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1096,
+      "word_number_in_surah": 1067,
+      "word_surah": 2,
+      "word_translation": "pleasing",
+      "word_transliteration": "tasurru"
+    },
+    {
+      "word_arabic": "ٱلنَّٰظِرِينَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1097,
+      "word_number_in_surah": 1068,
+      "word_surah": 2,
+      "word_translation": "(to) those who see (it)",
+      "word_transliteration": "al-nazirina"
+    }
+  ],
+  "fullArabic": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ صَفۡرَآءُ فَاقِعٞ لَّوۡنُهَا تَسُرُّ ٱلنَّٰظِرِينَ",
+  "fullTranslation": "They said, \"Call upon your Lord to show us what is her color.\" He said, \"He says, 'It is a yellow cow, bright in color - pleasing to the observers.' \"",
+  "fullTransliteration": "qalu ud'u lana rabbaka yubayyin lana ma lawnuha qala innahu yaqulu innaha baqaratun safrau faqi'un lawnuha tasurru al-nazirina"
+}

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "ayah": 48,
+    "surah": 3,
+    "words": 5,
+    "numberInQuran": 341,
+    "juz": 3,
+    "manzil": 1,
+    "page": 56,
+    "ruku": 46,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَيُعَلِّمُهُ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6964,
+      "word_number_in_surah": 819,
+      "word_surah": 3,
+      "word_translation": "And He will teach him",
+      "word_transliteration": "wayu'allimuhu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6965,
+      "word_number_in_surah": 820,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡحِكۡمَةَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6966,
+      "word_number_in_surah": 821,
+      "word_surah": 3,
+      "word_translation": "and [the] wisdom",
+      "word_transliteration": "wal-hik'mata"
+    },
+    {
+      "word_arabic": "وَٱلتَّوۡرَىٰةَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6967,
+      "word_number_in_surah": 822,
+      "word_surah": 3,
+      "word_translation": "and the Taurat",
+      "word_transliteration": "wal-tawrata"
+    },
+    {
+      "word_arabic": "وَٱلۡإِنجِيلَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6968,
+      "word_number_in_surah": 823,
+      "word_surah": 3,
+      "word_translation": "and the Injeel",
+      "word_transliteration": "wal-injila"
+    }
+  ],
+  "fullArabic": "وَيُعَلِّمُهُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ",
+  "fullTranslation": "And He will teach him writing and wisdom and the Torah and the Gospel",
+  "fullTransliteration": "wayu'allimuhu al-kitaba wal-hik'mata wal-tawrata wal-injila"
+}

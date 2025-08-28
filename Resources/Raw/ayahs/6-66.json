@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "ayah": 66,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 855,
+    "juz": 7,
+    "manzil": 2,
+    "page": 135,
+    "ruku": 109,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَذَّبَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17257,
+      "word_number_in_surah": 1080,
+      "word_surah": 6,
+      "word_translation": "But denied",
+      "word_transliteration": "wakadhaba"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17258,
+      "word_number_in_surah": 1081,
+      "word_surah": 6,
+      "word_translation": "it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "قَوۡمُكَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17259,
+      "word_number_in_surah": 1082,
+      "word_surah": 6,
+      "word_translation": "your people",
+      "word_transliteration": "qawmuka"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17260,
+      "word_number_in_surah": 1083,
+      "word_surah": 6,
+      "word_translation": "while it",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡحَقُّۚ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17261,
+      "word_number_in_surah": 1084,
+      "word_surah": 6,
+      "word_translation": "(is) the truth",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 66,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17262,
+      "word_number_in_surah": 1085,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لَّسۡتُ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17263,
+      "word_number_in_surah": 1086,
+      "word_surah": 6,
+      "word_translation": "I am not",
+      "word_transliteration": "lastu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُم",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17264,
+      "word_number_in_surah": 1087,
+      "word_surah": 6,
+      "word_translation": "over you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "بِوَكِيلٖ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17265,
+      "word_number_in_surah": 1088,
+      "word_surah": 6,
+      "word_translation": "a manager",
+      "word_transliteration": "biwakilin"
+    }
+  ],
+  "fullArabic": "وَكَذَّبَ بِهِۦ قَوۡمُكَ وَهُوَ ٱلۡحَقُّۚ قُل لَّسۡتُ عَلَيۡكُم بِوَكِيلٖ",
+  "fullTranslation": "But your people have denied it while it is the truth. Say, \"I am not over you a manager.\"",
+  "fullTransliteration": "wakadhaba bihi qawmuka wahuwa al-haqu qul lastu alaykum biwakilin"
+}

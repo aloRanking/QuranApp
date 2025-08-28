@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 31,
+    "surah": 8,
+    "words": 17,
+    "numberInQuran": 1191,
+    "juz": 9,
+    "manzil": 2,
+    "page": 180,
+    "ruku": 149,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22975,
+      "word_number_in_surah": 428,
+      "word_surah": 8,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "تُتۡلَىٰ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22976,
+      "word_number_in_surah": 429,
+      "word_surah": 8,
+      "word_translation": "are recited",
+      "word_transliteration": "tut'la"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22977,
+      "word_number_in_surah": 430,
+      "word_surah": 8,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "ءَايَٰتُنَا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22978,
+      "word_number_in_surah": 431,
+      "word_surah": 8,
+      "word_translation": "Our Verses",
+      "word_transliteration": "ayatuna"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22979,
+      "word_number_in_surah": 432,
+      "word_surah": 8,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22980,
+      "word_number_in_surah": 433,
+      "word_surah": 8,
+      "word_translation": "Verily",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "سَمِعۡنَا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22981,
+      "word_number_in_surah": 434,
+      "word_surah": 8,
+      "word_translation": "we have heard",
+      "word_transliteration": "sami'na"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22982,
+      "word_number_in_surah": 435,
+      "word_surah": 8,
+      "word_translation": "if",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "نَشَآءُ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22983,
+      "word_number_in_surah": 436,
+      "word_surah": 8,
+      "word_translation": "we wish",
+      "word_transliteration": "nashau"
+    },
+    {
+      "word_arabic": "لَقُلۡنَا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22984,
+      "word_number_in_surah": 437,
+      "word_surah": 8,
+      "word_translation": "surely, we could say",
+      "word_transliteration": "laqul'na"
+    },
+    {
+      "word_arabic": "مِثۡلَ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22985,
+      "word_number_in_surah": 438,
+      "word_surah": 8,
+      "word_translation": "like",
+      "word_transliteration": "mith'la"
+    },
+    {
+      "word_arabic": "هَٰذَآ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22986,
+      "word_number_in_surah": 439,
+      "word_surah": 8,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22987,
+      "word_number_in_surah": 440,
+      "word_surah": 8,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "هَٰذَآ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22988,
+      "word_number_in_surah": 441,
+      "word_surah": 8,
+      "word_translation": "is this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22989,
+      "word_number_in_surah": 442,
+      "word_surah": 8,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَسَٰطِيرُ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22990,
+      "word_number_in_surah": 443,
+      "word_surah": 8,
+      "word_translation": "tales",
+      "word_transliteration": "asatiru"
+    },
+    {
+      "word_arabic": "ٱلۡأَوَّلِينَ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22991,
+      "word_number_in_surah": 444,
+      "word_surah": 8,
+      "word_translation": "(of) the former (people)",
+      "word_transliteration": "al-awalina"
+    }
+  ],
+  "fullArabic": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا قَالُواْ قَدۡ سَمِعۡنَا لَوۡ نَشَآءُ لَقُلۡنَا مِثۡلَ هَٰذَآ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+  "fullTranslation": "And when Our verses are recited to them, they say, \"We have heard. If we willed, we could say [something] like this. This is not but legends of the former peoples.\"",
+  "fullTransliteration": "wa-idha tut'la alayhim ayatuna qalu qad sami'na law nashau laqul'na mith'la hadha in hadha illa asatiru al-awalina"
+}

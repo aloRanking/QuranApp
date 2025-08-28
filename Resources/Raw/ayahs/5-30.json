@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "ayah": 30,
+    "surah": 5,
+    "words": 9,
+    "numberInQuran": 699,
+    "juz": 6,
+    "manzil": 2,
+    "page": 112,
+    "ruku": 90,
+    "hizbQuarter": 45,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَطَوَّعَتۡ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14143,
+      "word_number_in_surah": 770,
+      "word_surah": 5,
+      "word_translation": "Then prompted",
+      "word_transliteration": "fatawwa'at"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14144,
+      "word_number_in_surah": 771,
+      "word_surah": 5,
+      "word_translation": "to him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "نَفۡسُهُۥ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14145,
+      "word_number_in_surah": 772,
+      "word_surah": 5,
+      "word_translation": "his soul",
+      "word_transliteration": "nafsuhu"
+    },
+    {
+      "word_arabic": "قَتۡلَ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14146,
+      "word_number_in_surah": 773,
+      "word_surah": 5,
+      "word_translation": "(to) kill",
+      "word_transliteration": "qatla"
+    },
+    {
+      "word_arabic": "أَخِيهِ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14147,
+      "word_number_in_surah": 774,
+      "word_surah": 5,
+      "word_translation": "his brother",
+      "word_transliteration": "akhihi"
+    },
+    {
+      "word_arabic": "فَقَتَلَهُۥ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14148,
+      "word_number_in_surah": 775,
+      "word_surah": 5,
+      "word_translation": "so he killed him",
+      "word_transliteration": "faqatalahu"
+    },
+    {
+      "word_arabic": "فَأَصۡبَحَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14149,
+      "word_number_in_surah": 776,
+      "word_surah": 5,
+      "word_translation": "and became",
+      "word_transliteration": "fa-asbaha"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14150,
+      "word_number_in_surah": 777,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰسِرِينَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14151,
+      "word_number_in_surah": 778,
+      "word_surah": 5,
+      "word_translation": "the losers",
+      "word_transliteration": "al-khasirina"
+    }
+  ],
+  "fullArabic": "فَطَوَّعَتۡ لَهُۥ نَفۡسُهُۥ قَتۡلَ أَخِيهِ فَقَتَلَهُۥ فَأَصۡبَحَ مِنَ ٱلۡخَٰسِرِينَ",
+  "fullTranslation": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers.",
+  "fullTransliteration": "fatawwa'at lahu nafsuhu qatla akhihi faqatalahu fa-asbaha mina al-khasirina"
+}

@@ -2,6 +2,7 @@
 using QuranApp.Views;
 using QuranApp.ViewModels;
 using CommunityToolkit.Maui;
+using DotNet.Meteor.HotReload.Plugin;
 
 namespace QuranApp;
 
@@ -10,6 +11,9 @@ public static class MauiProgram
 	public static MauiApp CreateMauiApp()
 	{
 		var builder = MauiApp.CreateBuilder();
+
+
+		
 		builder
 			.UseMauiApp<App>()
 			.UseMauiCommunityToolkit()
@@ -23,10 +27,16 @@ public static class MauiProgram
 		builder.Services.AddTransient<SurahsViewModel>();
 		builder.Services.AddTransient<SurahsPage>();
 		builder.Services.AddTransient<AyahsViewModel>();
-		builder.Services.AddTransient<AyahsPage>();
+		builder.Services.AddTransient<AyahsPage>(); 
+		
+
+
+		
 
 #if DEBUG
+		builder.EnableHotReload();
 		builder.Logging.AddDebug();
+	
 #endif
 
 		return builder.Build();

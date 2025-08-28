@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 86,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 579,
+    "juz": 5,
+    "manzil": 1,
+    "page": 91,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11507,
+      "word_number_in_surah": 1881,
+      "word_surah": 4,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "حُيِّيتُم",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11508,
+      "word_number_in_surah": 1882,
+      "word_surah": 4,
+      "word_translation": "you are greeted",
+      "word_transliteration": "huyyitum"
+    },
+    {
+      "word_arabic": "بِتَحِيَّةٖ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11509,
+      "word_number_in_surah": 1883,
+      "word_surah": 4,
+      "word_translation": "with a greeting",
+      "word_transliteration": "bitahiyyatin"
+    },
+    {
+      "word_arabic": "فَحَيُّواْ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11510,
+      "word_number_in_surah": 1884,
+      "word_surah": 4,
+      "word_translation": "then greet",
+      "word_transliteration": "fahayyu"
+    },
+    {
+      "word_arabic": "بِأَحۡسَنَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11511,
+      "word_number_in_surah": 1885,
+      "word_surah": 4,
+      "word_translation": "with better",
+      "word_transliteration": "bi-ahsana"
+    },
+    {
+      "word_arabic": "مِنۡهَآ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11512,
+      "word_number_in_surah": 1886,
+      "word_surah": 4,
+      "word_translation": "than it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11513,
+      "word_number_in_surah": 1887,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "رُدُّوهَآۗ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11514,
+      "word_number_in_surah": 1888,
+      "word_surah": 4,
+      "word_translation": "return it",
+      "word_transliteration": "rudduha"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11515,
+      "word_number_in_surah": 1889,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11516,
+      "word_number_in_surah": 1890,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11517,
+      "word_number_in_surah": 1891,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11518,
+      "word_number_in_surah": 1892,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11519,
+      "word_number_in_surah": 1893,
+      "word_surah": 4,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11520,
+      "word_number_in_surah": 1894,
+      "word_surah": 4,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "حَسِيبًا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11521,
+      "word_number_in_surah": 1895,
+      "word_surah": 4,
+      "word_translation": "an Accountant",
+      "word_transliteration": "hasiban"
+    }
+  ],
+  "fullArabic": "وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا",
+  "fullTranslation": "And when you are greeted with a greeting, greet [in return] with one better than it or [at least] return it [in a like manner]. Indeed, Allah is ever, over all things, an Accountant.",
+  "fullTransliteration": "wa-idha huyyitum bitahiyyatin fahayyu bi-ahsana min'ha aw rudduha inna al-laha kana ala kulli shayin hasiban"
+}

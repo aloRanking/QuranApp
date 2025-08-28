@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "ayah": 152,
+    "surah": 4,
+    "words": 17,
+    "numberInQuran": 645,
+    "juz": 6,
+    "manzil": 1,
+    "page": 102,
+    "ruku": 82,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12866,
+      "word_number_in_surah": 3240,
+      "word_surah": 4,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12867,
+      "word_number_in_surah": 3241,
+      "word_surah": 4,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 152,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12868,
+      "word_number_in_surah": 3242,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَرُسُلِهِۦ",
+      "word_ayah": 152,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12869,
+      "word_number_in_surah": 3243,
+      "word_surah": 4,
+      "word_translation": "and His Messengers",
+      "word_transliteration": "warusulihi"
+    },
+    {
+      "word_arabic": "وَلَمۡ",
+      "word_ayah": 152,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12870,
+      "word_number_in_surah": 3244,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "walam"
+    },
+    {
+      "word_arabic": "يُفَرِّقُواْ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12871,
+      "word_number_in_surah": 3245,
+      "word_surah": 4,
+      "word_translation": "they differentiate",
+      "word_transliteration": "yufarriqu"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 152,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12872,
+      "word_number_in_surah": 3246,
+      "word_surah": 4,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "أَحَدٖ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12873,
+      "word_number_in_surah": 3247,
+      "word_surah": 4,
+      "word_translation": "(any) one",
+      "word_transliteration": "ahadin"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 152,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12874,
+      "word_number_in_surah": 3248,
+      "word_surah": 4,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12875,
+      "word_number_in_surah": 3249,
+      "word_surah": 4,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "سَوۡفَ",
+      "word_ayah": 152,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12876,
+      "word_number_in_surah": 3250,
+      "word_surah": 4,
+      "word_translation": "soon",
+      "word_transliteration": "sawfa"
+    },
+    {
+      "word_arabic": "يُؤۡتِيهِمۡ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12877,
+      "word_number_in_surah": 3251,
+      "word_surah": 4,
+      "word_translation": "He will give them",
+      "word_transliteration": "yu'tihim"
+    },
+    {
+      "word_arabic": "أُجُورَهُمۡۚ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12878,
+      "word_number_in_surah": 3252,
+      "word_surah": 4,
+      "word_translation": "their reward",
+      "word_transliteration": "ujurahum"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12879,
+      "word_number_in_surah": 3253,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12880,
+      "word_number_in_surah": 3254,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "غَفُورٗا",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12881,
+      "word_number_in_surah": 3255,
+      "word_surah": 4,
+      "word_translation": "Oft-Forgiving",
+      "word_transliteration": "ghafuran"
+    },
+    {
+      "word_arabic": "رَّحِيمٗا",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12882,
+      "word_number_in_surah": 3256,
+      "word_surah": 4,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahiman"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦ وَلَمۡ يُفَرِّقُواْ بَيۡنَ أَحَدٖ مِّنۡهُمۡ أُوْلَٰٓئِكَ سَوۡفَ يُؤۡتِيهِمۡ أُجُورَهُمۡۚ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+  "fullTranslation": "But they who believe in Allah and His messengers and do not discriminate between any of them - to those He is going to give their rewards. And ever is Allah Forgiving and Merciful.",
+  "fullTransliteration": "wa-alladhina amanu bil-lahi warusulihi walam yufarriqu bayna ahadin min'hum ulaika sawfa yu'tihim ujurahum wakana al-lahu ghafuran rahiman"
+}

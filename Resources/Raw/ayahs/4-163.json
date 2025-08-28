@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "ayah": 163,
+    "surah": 4,
+    "words": 25,
+    "numberInQuran": 656,
+    "juz": 6,
+    "manzil": 1,
+    "page": 104,
+    "ruku": 84,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞إِنَّآ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13077,
+      "word_number_in_surah": 3451,
+      "word_surah": 4,
+      "word_translation": "Indeed, We",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "أَوۡحَيۡنَآ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13078,
+      "word_number_in_surah": 3452,
+      "word_surah": 4,
+      "word_translation": "have revealed",
+      "word_transliteration": "awhayna"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13079,
+      "word_number_in_surah": 3453,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "كَمَآ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13080,
+      "word_number_in_surah": 3454,
+      "word_surah": 4,
+      "word_translation": "as",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "أَوۡحَيۡنَآ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13081,
+      "word_number_in_surah": 3455,
+      "word_surah": 4,
+      "word_translation": "We revealed",
+      "word_transliteration": "awhayna"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13082,
+      "word_number_in_surah": 3456,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "نُوحٖ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13083,
+      "word_number_in_surah": 3457,
+      "word_surah": 4,
+      "word_translation": "Nuh",
+      "word_transliteration": "nuhin"
+    },
+    {
+      "word_arabic": "وَٱلنَّبِيِّ‍ۧنَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13084,
+      "word_number_in_surah": 3458,
+      "word_surah": 4,
+      "word_translation": "and the Prophets",
+      "word_transliteration": "wal-nabiyina"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13085,
+      "word_number_in_surah": 3459,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِۦۚ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13086,
+      "word_number_in_surah": 3460,
+      "word_surah": 4,
+      "word_translation": "after him",
+      "word_transliteration": "ba'dihi"
+    },
+    {
+      "word_arabic": "وَأَوۡحَيۡنَآ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13087,
+      "word_number_in_surah": 3461,
+      "word_surah": 4,
+      "word_translation": "and We revealed",
+      "word_transliteration": "wa-awhayna"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13088,
+      "word_number_in_surah": 3462,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13089,
+      "word_number_in_surah": 3463,
+      "word_surah": 4,
+      "word_translation": "Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "وَإِسۡمَٰعِيلَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13090,
+      "word_number_in_surah": 3464,
+      "word_surah": 4,
+      "word_translation": "and Ismail",
+      "word_transliteration": "wa-is'ma'ila"
+    },
+    {
+      "word_arabic": "وَإِسۡحَٰقَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13091,
+      "word_number_in_surah": 3465,
+      "word_surah": 4,
+      "word_translation": "and Ishaq",
+      "word_transliteration": "wa-is'haqa"
+    },
+    {
+      "word_arabic": "وَيَعۡقُوبَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13092,
+      "word_number_in_surah": 3466,
+      "word_surah": 4,
+      "word_translation": "and Yaqub",
+      "word_transliteration": "waya'quba"
+    },
+    {
+      "word_arabic": "وَٱلۡأَسۡبَاطِ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13093,
+      "word_number_in_surah": 3467,
+      "word_surah": 4,
+      "word_translation": "and the tribes",
+      "word_transliteration": "wal-asbati"
+    },
+    {
+      "word_arabic": "وَعِيسَىٰ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13094,
+      "word_number_in_surah": 3468,
+      "word_surah": 4,
+      "word_translation": "and Isa",
+      "word_transliteration": "wa'isa"
+    },
+    {
+      "word_arabic": "وَأَيُّوبَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13095,
+      "word_number_in_surah": 3469,
+      "word_surah": 4,
+      "word_translation": "and Ayub",
+      "word_transliteration": "wa-ayyuba"
+    },
+    {
+      "word_arabic": "وَيُونُسَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13096,
+      "word_number_in_surah": 3470,
+      "word_surah": 4,
+      "word_translation": "and Yunus",
+      "word_transliteration": "wayunusa"
+    },
+    {
+      "word_arabic": "وَهَٰرُونَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13097,
+      "word_number_in_surah": 3471,
+      "word_surah": 4,
+      "word_translation": "and Harun",
+      "word_transliteration": "waharuna"
+    },
+    {
+      "word_arabic": "وَسُلَيۡمَٰنَۚ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13098,
+      "word_number_in_surah": 3472,
+      "word_surah": 4,
+      "word_translation": "and Sulaiman",
+      "word_transliteration": "wasulaymana"
+    },
+    {
+      "word_arabic": "وَءَاتَيۡنَا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13099,
+      "word_number_in_surah": 3473,
+      "word_surah": 4,
+      "word_translation": "and We gave",
+      "word_transliteration": "waatayna"
+    },
+    {
+      "word_arabic": "دَاوُۥدَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 13100,
+      "word_number_in_surah": 3474,
+      "word_surah": 4,
+      "word_translation": "Dawood",
+      "word_transliteration": "dawuda"
+    },
+    {
+      "word_arabic": "زَبُورٗا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 13101,
+      "word_number_in_surah": 3475,
+      "word_surah": 4,
+      "word_translation": "the Zaboor",
+      "word_transliteration": "zaburan"
+    }
+  ],
+  "fullArabic": "۞إِنَّآ أَوۡحَيۡنَآ إِلَيۡكَ كَمَآ أَوۡحَيۡنَآ إِلَىٰ نُوحٖ وَٱلنَّبِيِّ‍ۧنَ مِنۢ بَعۡدِهِۦۚ وَأَوۡحَيۡنَآ إِلَىٰٓ إِبۡرَٰهِيمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيۡمَٰنَۚ وَءَاتَيۡنَا دَاوُۥدَ زَبُورٗا",
+  "fullTranslation": "Indeed, We have revealed to you, [O Muhammad], as We revealed to Noah and the prophets after him. And we revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants, Jesus, Job, Jonah, Aaron, and Solomon, and to David We gave the book [of Psalms].",
+  "fullTransliteration": "inna awhayna ilayka kama awhayna ila nuhin wal-nabiyina min ba'dihi wa-awhayna ila ib'rahima wa-is'ma'ila wa-is'haqa waya'quba wal-asbati wa'isa wa-ayyuba wayunusa waharuna wasulaymana waatayna dawuda zaburan"
+}

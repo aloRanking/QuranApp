@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "ayah": 91,
+    "surah": 2,
+    "words": 30,
+    "numberInQuran": 98,
+    "juz": 1,
+    "manzil": 1,
+    "page": 14,
+    "ruku": 12,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1526,
+      "word_number_in_surah": 1497,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "قِيلَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1527,
+      "word_number_in_surah": 1498,
+      "word_surah": 2,
+      "word_translation": "it is said",
+      "word_transliteration": "qila"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1528,
+      "word_number_in_surah": 1499,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "ءَامِنُواْ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1529,
+      "word_number_in_surah": 1500,
+      "word_surah": 2,
+      "word_translation": "Believe",
+      "word_transliteration": "aminu"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1530,
+      "word_number_in_surah": 1501,
+      "word_surah": 2,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1531,
+      "word_number_in_surah": 1502,
+      "word_surah": 2,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1532,
+      "word_number_in_surah": 1503,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1533,
+      "word_number_in_surah": 1504,
+      "word_surah": 2,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "نُؤۡمِنُ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1534,
+      "word_number_in_surah": 1505,
+      "word_surah": 2,
+      "word_translation": "We believe",
+      "word_transliteration": "nu'minu"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1535,
+      "word_number_in_surah": 1506,
+      "word_surah": 2,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1536,
+      "word_number_in_surah": 1507,
+      "word_surah": 2,
+      "word_translation": "was revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "عَلَيۡنَا",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1537,
+      "word_number_in_surah": 1508,
+      "word_surah": 2,
+      "word_translation": "to us",
+      "word_transliteration": "alayna"
+    },
+    {
+      "word_arabic": "وَيَكۡفُرُونَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1538,
+      "word_number_in_surah": 1509,
+      "word_surah": 2,
+      "word_translation": "And they disbelieve",
+      "word_transliteration": "wayakfuruna"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1539,
+      "word_number_in_surah": 1510,
+      "word_surah": 2,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "وَرَآءَهُۥ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1540,
+      "word_number_in_surah": 1511,
+      "word_surah": 2,
+      "word_translation": "(is) besides it",
+      "word_transliteration": "waraahu"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1541,
+      "word_number_in_surah": 1512,
+      "word_surah": 2,
+      "word_translation": "while it",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡحَقُّ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1542,
+      "word_number_in_surah": 1513,
+      "word_surah": 2,
+      "word_translation": "(is) the truth",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "مُصَدِّقٗا",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1543,
+      "word_number_in_surah": 1514,
+      "word_surah": 2,
+      "word_translation": "confirming",
+      "word_transliteration": "musaddiqan"
+    },
+    {
+      "word_arabic": "لِّمَا",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1544,
+      "word_number_in_surah": 1515,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "مَعَهُمۡۗ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1545,
+      "word_number_in_surah": 1516,
+      "word_surah": 2,
+      "word_translation": "(is) with them",
+      "word_transliteration": "ma'ahum"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1546,
+      "word_number_in_surah": 1517,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "فَلِمَ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1547,
+      "word_number_in_surah": 1518,
+      "word_surah": 2,
+      "word_translation": "Then why",
+      "word_transliteration": "falima"
+    },
+    {
+      "word_arabic": "تَقۡتُلُونَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1548,
+      "word_number_in_surah": 1519,
+      "word_surah": 2,
+      "word_translation": "(did) you kill",
+      "word_transliteration": "taqtuluna"
+    },
+    {
+      "word_arabic": "أَنۢبِيَآءَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1549,
+      "word_number_in_surah": 1520,
+      "word_surah": 2,
+      "word_translation": "(the) Prophets",
+      "word_transliteration": "anbiyaa"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1550,
+      "word_number_in_surah": 1521,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 91,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 1551,
+      "word_number_in_surah": 1522,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 1552,
+      "word_number_in_surah": 1523,
+      "word_surah": 2,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 91,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 1553,
+      "word_number_in_surah": 1524,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُم",
+      "word_ayah": 91,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 1554,
+      "word_number_in_surah": 1525,
+      "word_surah": 2,
+      "word_translation": "you were",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنِينَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 1555,
+      "word_number_in_surah": 1526,
+      "word_surah": 2,
+      "word_translation": "believers",
+      "word_transliteration": "mu'minina"
+    }
+  ],
+  "fullArabic": "وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ بِمَآ أَنزَلَ ٱللَّهُ قَالُواْ نُؤۡمِنُ بِمَآ أُنزِلَ عَلَيۡنَا وَيَكۡفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا مَعَهُمۡۗ قُلۡ فَلِمَ تَقۡتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبۡلُ إِن كُنتُم مُّؤۡمِنِينَ",
+  "fullTranslation": "And when it is said to them, \"Believe in what Allah has revealed,\" they say, \"We believe [only] in what was revealed to us.\" And they disbelieve in what came after it, while it is the truth confirming that which is with them. Say, \"Then why did you kill the prophets of Allah before, if you are [indeed] believers?\"",
+  "fullTransliteration": "wa-idha qila lahum aminu bima anzala al-lahu qalu nu'minu bima unzila alayna wayakfuruna bima waraahu wahuwa al-haqu musaddiqan lima ma'ahum qul falima taqtuluna anbiyaa al-lahi min qablu in kuntum mu'minina"
+}

@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 76,
+    "surah": 7,
+    "words": 8,
+    "numberInQuran": 1030,
+    "juz": 8,
+    "manzil": 2,
+    "page": 160,
+    "ruku": 131,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20476,
+      "word_number_in_surah": 1249,
+      "word_surah": 7,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20477,
+      "word_number_in_surah": 1250,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱسۡتَكۡبَرُوٓاْ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20478,
+      "word_number_in_surah": 1251,
+      "word_surah": 7,
+      "word_translation": "were arrogant",
+      "word_transliteration": "is'takbaru"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20479,
+      "word_number_in_surah": 1252,
+      "word_surah": 7,
+      "word_translation": "Indeed we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "بِٱلَّذِيٓ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20480,
+      "word_number_in_surah": 1253,
+      "word_surah": 7,
+      "word_translation": "in that which",
+      "word_transliteration": "bi-alladhi"
+    },
+    {
+      "word_arabic": "ءَامَنتُم",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20481,
+      "word_number_in_surah": 1254,
+      "word_surah": 7,
+      "word_translation": "you believe",
+      "word_transliteration": "amantum"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20482,
+      "word_number_in_surah": 1255,
+      "word_surah": 7,
+      "word_translation": "in it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "كَٰفِرُونَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20483,
+      "word_number_in_surah": 1256,
+      "word_surah": 7,
+      "word_translation": "(are) disbelievers",
+      "word_transliteration": "kafiruna"
+    }
+  ],
+  "fullArabic": "قَالَ ٱلَّذِينَ ٱسۡتَكۡبَرُوٓاْ إِنَّا بِٱلَّذِيٓ ءَامَنتُم بِهِۦ كَٰفِرُونَ",
+  "fullTranslation": "Said those who were arrogant, \"Indeed we, in that which you have believed, are disbelievers.\"",
+  "fullTransliteration": "qala alladhina is'takbaru inna bi-alladhi amantum bihi kafiruna"
+}

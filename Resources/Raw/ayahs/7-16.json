@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "ayah": 16,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 970,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19376,
+      "word_number_in_surah": 149,
+      "word_surah": 7,
+      "word_translation": "(Shaitaan) said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "فَبِمَآ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19377,
+      "word_number_in_surah": 150,
+      "word_surah": 7,
+      "word_translation": "Because",
+      "word_transliteration": "fabima"
+    },
+    {
+      "word_arabic": "أَغۡوَيۡتَنِي",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19378,
+      "word_number_in_surah": 151,
+      "word_surah": 7,
+      "word_translation": "You have sent me astray",
+      "word_transliteration": "aghwaytani"
+    },
+    {
+      "word_arabic": "لَأَقۡعُدَنَّ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19379,
+      "word_number_in_surah": 152,
+      "word_surah": 7,
+      "word_translation": "surely I will sit",
+      "word_transliteration": "la-aq'udanna"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19380,
+      "word_number_in_surah": 153,
+      "word_surah": 7,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "صِرَٰطَكَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19381,
+      "word_number_in_surah": 154,
+      "word_surah": 7,
+      "word_translation": "(on) Your path",
+      "word_transliteration": "sirataka"
+    },
+    {
+      "word_arabic": "ٱلۡمُسۡتَقِيمَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19382,
+      "word_number_in_surah": 155,
+      "word_surah": 7,
+      "word_translation": "the straight",
+      "word_transliteration": "al-mus'taqima"
+    }
+  ],
+  "fullArabic": "قَالَ فَبِمَآ أَغۡوَيۡتَنِي لَأَقۡعُدَنَّ لَهُمۡ صِرَٰطَكَ ٱلۡمُسۡتَقِيمَ",
+  "fullTranslation": "[Satan] said, \"Because You have put me in error, I will surely sit in wait for them on Your straight path.",
+  "fullTransliteration": "qala fabima aghwaytani la-aq'udanna lahum sirataka al-mus'taqima"
+}

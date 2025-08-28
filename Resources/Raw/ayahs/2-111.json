@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "ayah": 111,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 118,
+    "juz": 1,
+    "manzil": 1,
+    "page": 17,
+    "ruku": 14,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1944,
+      "word_number_in_surah": 1915,
+      "word_surah": 2,
+      "word_translation": "And they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "لَن",
+      "word_ayah": 111,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1945,
+      "word_number_in_surah": 1916,
+      "word_surah": 2,
+      "word_translation": "Never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "يَدۡخُلَ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1946,
+      "word_number_in_surah": 1917,
+      "word_surah": 2,
+      "word_translation": "will enter",
+      "word_transliteration": "yadkhula"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1947,
+      "word_number_in_surah": 1918,
+      "word_surah": 2,
+      "word_translation": "the Paradise",
+      "word_transliteration": "al-janata"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1948,
+      "word_number_in_surah": 1919,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 111,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1949,
+      "word_number_in_surah": 1920,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1950,
+      "word_number_in_surah": 1921,
+      "word_surah": 2,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "هُودًا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1951,
+      "word_number_in_surah": 1922,
+      "word_surah": 2,
+      "word_translation": "(a) Jew[s]",
+      "word_transliteration": "hudan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1952,
+      "word_number_in_surah": 1923,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "نَصَٰرَىٰۗ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1953,
+      "word_number_in_surah": 1924,
+      "word_surah": 2,
+      "word_translation": "(a) Christian[s]",
+      "word_transliteration": "nasara"
+    },
+    {
+      "word_arabic": "تِلۡكَ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1954,
+      "word_number_in_surah": 1925,
+      "word_surah": 2,
+      "word_translation": "That",
+      "word_transliteration": "til'ka"
+    },
+    {
+      "word_arabic": "أَمَانِيُّهُمۡۗ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1955,
+      "word_number_in_surah": 1926,
+      "word_surah": 2,
+      "word_translation": "(is) their wishful thinking",
+      "word_transliteration": "amaniyyuhum"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1956,
+      "word_number_in_surah": 1927,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "هَاتُواْ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1957,
+      "word_number_in_surah": 1928,
+      "word_surah": 2,
+      "word_translation": "Bring",
+      "word_transliteration": "hatu"
+    },
+    {
+      "word_arabic": "بُرۡهَٰنَكُمۡ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1958,
+      "word_number_in_surah": 1929,
+      "word_surah": 2,
+      "word_translation": "your proof",
+      "word_transliteration": "bur'hanakum"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 111,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1959,
+      "word_number_in_surah": 1930,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1960,
+      "word_number_in_surah": 1931,
+      "word_surah": 2,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "صَٰدِقِينَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1961,
+      "word_number_in_surah": 1932,
+      "word_surah": 2,
+      "word_translation": "[those who are] truthful",
+      "word_transliteration": "sadiqina"
+    }
+  ],
+  "fullArabic": "وَقَالُواْ لَن يَدۡخُلَ ٱلۡجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوۡ نَصَٰرَىٰۗ تِلۡكَ أَمَانِيُّهُمۡۗ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡ إِن كُنتُمۡ صَٰدِقِينَ",
+  "fullTranslation": "And they say, \"None will enter Paradise except one who is a Jew or a Christian.\" That is [merely] their wishful thinking, Say, \"Produce your proof, if you should be truthful.\"",
+  "fullTransliteration": "waqalu lan yadkhula al-janata illa man kana hudan aw nasara til'ka amaniyyuhum qul hatu bur'hanakum in kuntum sadiqina"
+}

@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "ayah": 131,
+    "surah": 4,
+    "words": 32,
+    "numberInQuran": 624,
+    "juz": 5,
+    "manzil": 1,
+    "page": 99,
+    "ruku": 80,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12474,
+      "word_number_in_surah": 2848,
+      "word_surah": 4,
+      "word_translation": "And for Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12475,
+      "word_number_in_surah": 2849,
+      "word_surah": 4,
+      "word_translation": "(is) whatever",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12476,
+      "word_number_in_surah": 2850,
+      "word_surah": 4,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12477,
+      "word_number_in_surah": 2851,
+      "word_surah": 4,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12478,
+      "word_number_in_surah": 2852,
+      "word_surah": 4,
+      "word_translation": "and whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12479,
+      "word_number_in_surah": 2853,
+      "word_surah": 4,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۗ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12480,
+      "word_number_in_surah": 2854,
+      "word_surah": 4,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12481,
+      "word_number_in_surah": 2855,
+      "word_surah": 4,
+      "word_translation": "And surely",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "وَصَّيۡنَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12482,
+      "word_number_in_surah": 2856,
+      "word_surah": 4,
+      "word_translation": "We have instructed",
+      "word_transliteration": "wassayna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12483,
+      "word_number_in_surah": 2857,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12484,
+      "word_number_in_surah": 2858,
+      "word_surah": 4,
+      "word_translation": "were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12485,
+      "word_number_in_surah": 2859,
+      "word_surah": 4,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 131,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12486,
+      "word_number_in_surah": 2860,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِكُمۡ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12487,
+      "word_number_in_surah": 2861,
+      "word_surah": 4,
+      "word_translation": "before you",
+      "word_transliteration": "qablikum"
+    },
+    {
+      "word_arabic": "وَإِيَّاكُمۡ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12488,
+      "word_number_in_surah": 2862,
+      "word_surah": 4,
+      "word_translation": "and yourselves",
+      "word_transliteration": "wa-iyyakum"
+    },
+    {
+      "word_arabic": "أَنِ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12489,
+      "word_number_in_surah": 2863,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱتَّقُواْ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12490,
+      "word_number_in_surah": 2864,
+      "word_surah": 4,
+      "word_translation": "you fear",
+      "word_transliteration": "ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَۚ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12491,
+      "word_number_in_surah": 2865,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 131,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12492,
+      "word_number_in_surah": 2866,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَكۡفُرُواْ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12493,
+      "word_number_in_surah": 2867,
+      "word_surah": 4,
+      "word_translation": "you disbelieve",
+      "word_transliteration": "takfuru"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12494,
+      "word_number_in_surah": 2868,
+      "word_surah": 4,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 131,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12495,
+      "word_number_in_surah": 2869,
+      "word_surah": 4,
+      "word_translation": "for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 12496,
+      "word_number_in_surah": 2870,
+      "word_surah": 4,
+      "word_translation": "(is) whatever",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 12497,
+      "word_number_in_surah": 2871,
+      "word_surah": 4,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 12498,
+      "word_number_in_surah": 2872,
+      "word_surah": 4,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 12499,
+      "word_number_in_surah": 2873,
+      "word_surah": 4,
+      "word_translation": "and whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 12500,
+      "word_number_in_surah": 2874,
+      "word_surah": 4,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۚ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 12501,
+      "word_number_in_surah": 2875,
+      "word_surah": 4,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 12502,
+      "word_number_in_surah": 2876,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 12503,
+      "word_number_in_surah": 2877,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "غَنِيًّا",
+      "word_ayah": 131,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 12504,
+      "word_number_in_surah": 2878,
+      "word_surah": 4,
+      "word_translation": "Free of need",
+      "word_transliteration": "ghaniyyan"
+    },
+    {
+      "word_arabic": "حَمِيدٗا",
+      "word_ayah": 131,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 12505,
+      "word_number_in_surah": 2879,
+      "word_surah": 4,
+      "word_translation": "Praiseworthy",
+      "word_transliteration": "hamidan"
+    }
+  ],
+  "fullArabic": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَلَقَدۡ وَصَّيۡنَا ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَإِيَّاكُمۡ أَنِ ٱتَّقُواْ ٱللَّهَۚ وَإِن تَكۡفُرُواْ فَإِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ غَنِيًّا حَمِيدٗا",
+  "fullTranslation": "And to Allah belongs whatever is in the heavens and whatever is on the earth. And We have instructed those who were given the Scripture before you and yourselves to fear Allah. But if you disbelieve - then to Allah belongs whatever is in the heavens and whatever is on the earth. And ever is Allah Free of need and Praiseworthy.",
+  "fullTransliteration": "walillahi ma fi al-samawati wama fi al-ardi walaqad wassayna alladhina utu al-kitaba min qablikum wa-iyyakum ani ittaqu al-laha wa-in takfuru fa-inna lillahi ma fi al-samawati wama fi al-ardi wakana al-lahu ghaniyyan hamidan"
+}

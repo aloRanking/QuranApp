@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 64,
+    "surah": 8,
+    "words": 8,
+    "numberInQuran": 1224,
+    "juz": 10,
+    "manzil": 2,
+    "page": 185,
+    "ruku": 153,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23546,
+      "word_number_in_surah": 999,
+      "word_surah": 8,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّبِيُّ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23547,
+      "word_number_in_surah": 1000,
+      "word_surah": 8,
+      "word_translation": "Prophet",
+      "word_transliteration": "al-nabiyu"
+    },
+    {
+      "word_arabic": "حَسۡبُكَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23548,
+      "word_number_in_surah": 1001,
+      "word_surah": 8,
+      "word_translation": "Sufficient for you",
+      "word_transliteration": "hasbuka"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23549,
+      "word_number_in_surah": 1002,
+      "word_surah": 8,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَمَنِ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23550,
+      "word_number_in_surah": 1003,
+      "word_surah": 8,
+      "word_translation": "and whoever",
+      "word_transliteration": "wamani"
+    },
+    {
+      "word_arabic": "ٱتَّبَعَكَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23551,
+      "word_number_in_surah": 1004,
+      "word_surah": 8,
+      "word_translation": "follows you",
+      "word_transliteration": "ittaba'aka"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23552,
+      "word_number_in_surah": 1005,
+      "word_surah": 8,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23553,
+      "word_number_in_surah": 1006,
+      "word_surah": 8,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ",
+  "fullTranslation": "O Prophet, sufficient for you is Allah and for whoever follows you of the believers.",
+  "fullTransliteration": "yaayyuha al-nabiyu hasbuka al-lahu wamani ittaba'aka mina al-mu'minina"
+}

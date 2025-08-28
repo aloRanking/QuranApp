@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 92,
+    "surah": 5,
+    "words": 13,
+    "numberInQuran": 761,
+    "juz": 7,
+    "manzil": 2,
+    "page": 123,
+    "ruku": 97,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَطِيعُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15504,
+      "word_number_in_surah": 2131,
+      "word_surah": 5,
+      "word_translation": "And obey",
+      "word_transliteration": "wa-ati'u"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15505,
+      "word_number_in_surah": 2132,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَأَطِيعُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15506,
+      "word_number_in_surah": 2133,
+      "word_surah": 5,
+      "word_translation": "and obey",
+      "word_transliteration": "wa-ati'u"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15507,
+      "word_number_in_surah": 2134,
+      "word_surah": 5,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasula"
+    },
+    {
+      "word_arabic": "وَٱحۡذَرُواْۚ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15508,
+      "word_number_in_surah": 2135,
+      "word_surah": 5,
+      "word_translation": "and beware",
+      "word_transliteration": "wa-ih'dharu"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15509,
+      "word_number_in_surah": 2136,
+      "word_surah": 5,
+      "word_translation": "And if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّيۡتُمۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15510,
+      "word_number_in_surah": 2137,
+      "word_surah": 5,
+      "word_translation": "you turn away",
+      "word_transliteration": "tawallaytum"
+    },
+    {
+      "word_arabic": "فَٱعۡلَمُوٓاْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15511,
+      "word_number_in_surah": 2138,
+      "word_surah": 5,
+      "word_translation": "then know",
+      "word_transliteration": "fa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّمَا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15512,
+      "word_number_in_surah": 2139,
+      "word_surah": 5,
+      "word_translation": "only",
+      "word_transliteration": "annama"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15513,
+      "word_number_in_surah": 2140,
+      "word_surah": 5,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "رَسُولِنَا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15514,
+      "word_number_in_surah": 2141,
+      "word_surah": 5,
+      "word_translation": "Our Messenger",
+      "word_transliteration": "rasulina"
+    },
+    {
+      "word_arabic": "ٱلۡبَلَٰغُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15515,
+      "word_number_in_surah": 2142,
+      "word_surah": 5,
+      "word_translation": "(is to) convey (the Message)",
+      "word_transliteration": "al-balaghu"
+    },
+    {
+      "word_arabic": "ٱلۡمُبِينُ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15516,
+      "word_number_in_surah": 2143,
+      "word_surah": 5,
+      "word_translation": "clearly",
+      "word_transliteration": "al-mubinu"
+    }
+  ],
+  "fullArabic": "وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَٱحۡذَرُواْۚ فَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+  "fullTranslation": "And obey Allah and obey the Messenger and beware. And if you turn away - then know that upon Our Messenger is only [the responsibility for] clear notification.",
+  "fullTransliteration": "wa-ati'u al-laha wa-ati'u al-rasula wa-ih'dharu fa-in tawallaytum fa-i'lamu annama ala rasulina al-balaghu al-mubinu"
+}

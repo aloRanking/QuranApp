@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "ayah": 108,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 401,
+    "juz": 4,
+    "manzil": 1,
+    "page": 63,
+    "ruku": 52,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "تِلۡكَ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7967,
+      "word_number_in_surah": 1822,
+      "word_surah": 3,
+      "word_translation": "These",
+      "word_transliteration": "til'ka"
+    },
+    {
+      "word_arabic": "ءَايَٰتُ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7968,
+      "word_number_in_surah": 1823,
+      "word_surah": 3,
+      "word_translation": "(are the) Verses",
+      "word_transliteration": "ayatu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7969,
+      "word_number_in_surah": 1824,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "نَتۡلُوهَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7970,
+      "word_number_in_surah": 1825,
+      "word_surah": 3,
+      "word_translation": "We recite them",
+      "word_transliteration": "natluha"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7971,
+      "word_number_in_surah": 1826,
+      "word_surah": 3,
+      "word_translation": "to you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّۗ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7972,
+      "word_number_in_surah": 1827,
+      "word_surah": 3,
+      "word_translation": "in truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7973,
+      "word_number_in_surah": 1828,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7974,
+      "word_number_in_surah": 1829,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7975,
+      "word_number_in_surah": 1830,
+      "word_surah": 3,
+      "word_translation": "wants",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "ظُلۡمٗا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7976,
+      "word_number_in_surah": 1831,
+      "word_surah": 3,
+      "word_translation": "injustice",
+      "word_transliteration": "zul'man"
+    },
+    {
+      "word_arabic": "لِّلۡعَٰلَمِينَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7977,
+      "word_number_in_surah": 1832,
+      "word_surah": 3,
+      "word_translation": "to the worlds",
+      "word_transliteration": "lil'alamina"
+    }
+  ],
+  "fullArabic": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ يُرِيدُ ظُلۡمٗا لِّلۡعَٰلَمِينَ",
+  "fullTranslation": "These are the verses of Allah. We recite them to you, [O Muhammad], in truth; and Allah wants no injustice to the worlds.",
+  "fullTransliteration": "til'ka ayatu al-lahi natluha alayka bil-haqi wama al-lahu yuridu zul'man lil'alamina"
+}

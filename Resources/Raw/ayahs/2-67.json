@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "ayah": 67,
+    "surah": 2,
+    "words": 20,
+    "numberInQuran": 74,
+    "juz": 1,
+    "manzil": 1,
+    "page": 10,
+    "ruku": 9,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1037,
+      "word_number_in_surah": 1008,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1038,
+      "word_number_in_surah": 1009,
+      "word_surah": 2,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1039,
+      "word_number_in_surah": 1010,
+      "word_surah": 2,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "لِقَوۡمِهِۦٓ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1040,
+      "word_number_in_surah": 1011,
+      "word_surah": 2,
+      "word_translation": "to his people",
+      "word_transliteration": "liqawmihi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1041,
+      "word_number_in_surah": 1012,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1042,
+      "word_number_in_surah": 1013,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَأۡمُرُكُمۡ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1043,
+      "word_number_in_surah": 1014,
+      "word_surah": 2,
+      "word_translation": "commands you",
+      "word_transliteration": "yamurukum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 67,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1044,
+      "word_number_in_surah": 1015,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَذۡبَحُواْ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1045,
+      "word_number_in_surah": 1016,
+      "word_surah": 2,
+      "word_translation": "you slaughter",
+      "word_transliteration": "tadhbahu"
+    },
+    {
+      "word_arabic": "بَقَرَةٗۖ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1046,
+      "word_number_in_surah": 1017,
+      "word_surah": 2,
+      "word_translation": "a cow",
+      "word_transliteration": "baqaratan"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1047,
+      "word_number_in_surah": 1018,
+      "word_surah": 2,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَتَتَّخِذُنَا",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1048,
+      "word_number_in_surah": 1019,
+      "word_surah": 2,
+      "word_translation": "Do you take us",
+      "word_transliteration": "atattakhidhuna"
+    },
+    {
+      "word_arabic": "هُزُوٗاۖ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1049,
+      "word_number_in_surah": 1020,
+      "word_surah": 2,
+      "word_translation": "(in) ridicule",
+      "word_transliteration": "huzuwan"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1050,
+      "word_number_in_surah": 1021,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَعُوذُ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1051,
+      "word_number_in_surah": 1022,
+      "word_surah": 2,
+      "word_translation": "I seek refuge",
+      "word_transliteration": "a'udhu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1052,
+      "word_number_in_surah": 1023,
+      "word_surah": 2,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1053,
+      "word_number_in_surah": 1024,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "أَكُونَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1054,
+      "word_number_in_surah": 1025,
+      "word_surah": 2,
+      "word_translation": "I be",
+      "word_transliteration": "akuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1055,
+      "word_number_in_surah": 1026,
+      "word_surah": 2,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡجَٰهِلِينَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1056,
+      "word_number_in_surah": 1027,
+      "word_surah": 2,
+      "word_translation": "the ignorant",
+      "word_transliteration": "al-jahilina"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦٓ إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تَذۡبَحُواْ بَقَرَةٗۖ قَالُوٓاْ أَتَتَّخِذُنَا هُزُوٗاۖ قَالَ أَعُوذُ بِٱللَّهِ أَنۡ أَكُونَ مِنَ ٱلۡجَٰهِلِينَ",
+  "fullTranslation": "And [recall] when Moses said to his people, \"Indeed, Allah commands you to slaughter a cow.\" They said, \"Do you take us in ridicule?\" He said, \"I seek refuge in Allah from being among the ignorant.\"",
+  "fullTransliteration": "wa-idh qala musa liqawmihi inna al-laha yamurukum an tadhbahu baqaratan qalu atattakhidhuna huzuwan qala a'udhu bil-lahi an akuna mina al-jahilina"
+}

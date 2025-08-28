@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "ayah": 183,
+    "surah": 3,
+    "words": 28,
+    "numberInQuran": 476,
+    "juz": 4,
+    "manzil": 1,
+    "page": 74,
+    "ruku": 60,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9295,
+      "word_number_in_surah": 3150,
+      "word_surah": 3,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9296,
+      "word_number_in_surah": 3151,
+      "word_surah": 3,
+      "word_translation": "said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9297,
+      "word_number_in_surah": 3152,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9298,
+      "word_number_in_surah": 3153,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَهِدَ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9299,
+      "word_number_in_surah": 3154,
+      "word_surah": 3,
+      "word_translation": "(has) taken promise",
+      "word_transliteration": "ahida"
+    },
+    {
+      "word_arabic": "إِلَيۡنَآ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9300,
+      "word_number_in_surah": 3155,
+      "word_surah": 3,
+      "word_translation": "from us",
+      "word_transliteration": "ilayna"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9301,
+      "word_number_in_surah": 3156,
+      "word_surah": 3,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "نُؤۡمِنَ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9302,
+      "word_number_in_surah": 3157,
+      "word_surah": 3,
+      "word_translation": "we (should) believe",
+      "word_transliteration": "nu'mina"
+    },
+    {
+      "word_arabic": "لِرَسُولٍ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9303,
+      "word_number_in_surah": 3158,
+      "word_surah": 3,
+      "word_translation": "in a Messenger",
+      "word_transliteration": "lirasulin"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9304,
+      "word_number_in_surah": 3159,
+      "word_surah": 3,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَأۡتِيَنَا",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9305,
+      "word_number_in_surah": 3160,
+      "word_surah": 3,
+      "word_translation": "he brings to us",
+      "word_transliteration": "yatiyana"
+    },
+    {
+      "word_arabic": "بِقُرۡبَانٖ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9306,
+      "word_number_in_surah": 3161,
+      "word_surah": 3,
+      "word_translation": "a sacrifice",
+      "word_transliteration": "biqur'banin"
+    },
+    {
+      "word_arabic": "تَأۡكُلُهُ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9307,
+      "word_number_in_surah": 3162,
+      "word_surah": 3,
+      "word_translation": "consumes it",
+      "word_transliteration": "takuluhu"
+    },
+    {
+      "word_arabic": "ٱلنَّارُۗ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9308,
+      "word_number_in_surah": 3163,
+      "word_surah": 3,
+      "word_translation": "the fire",
+      "word_transliteration": "al-naru"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9309,
+      "word_number_in_surah": 3164,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9310,
+      "word_number_in_surah": 3165,
+      "word_surah": 3,
+      "word_translation": "Surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "جَآءَكُمۡ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9311,
+      "word_number_in_surah": 3166,
+      "word_surah": 3,
+      "word_translation": "came to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "رُسُلٞ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9312,
+      "word_number_in_surah": 3167,
+      "word_surah": 3,
+      "word_translation": "Messengers",
+      "word_transliteration": "rusulun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 183,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9313,
+      "word_number_in_surah": 3168,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِي",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9314,
+      "word_number_in_surah": 3169,
+      "word_surah": 3,
+      "word_translation": "before me",
+      "word_transliteration": "qabli"
+    },
+    {
+      "word_arabic": "بِٱلۡبَيِّنَٰتِ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9315,
+      "word_number_in_surah": 3170,
+      "word_surah": 3,
+      "word_translation": "with the clear Signs",
+      "word_transliteration": "bil-bayinati"
+    },
+    {
+      "word_arabic": "وَبِٱلَّذِي",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9316,
+      "word_number_in_surah": 3171,
+      "word_surah": 3,
+      "word_translation": "and with what",
+      "word_transliteration": "wabi-alladhi"
+    },
+    {
+      "word_arabic": "قُلۡتُمۡ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 9317,
+      "word_number_in_surah": 3172,
+      "word_surah": 3,
+      "word_translation": "you speak",
+      "word_transliteration": "qul'tum"
+    },
+    {
+      "word_arabic": "فَلِمَ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 9318,
+      "word_number_in_surah": 3173,
+      "word_surah": 3,
+      "word_translation": "So why",
+      "word_transliteration": "falima"
+    },
+    {
+      "word_arabic": "قَتَلۡتُمُوهُمۡ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 9319,
+      "word_number_in_surah": 3174,
+      "word_surah": 3,
+      "word_translation": "you killed them",
+      "word_transliteration": "qataltumuhum"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 183,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 9320,
+      "word_number_in_surah": 3175,
+      "word_surah": 3,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 183,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 9321,
+      "word_number_in_surah": 3176,
+      "word_surah": 3,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "صَٰدِقِينَ",
+      "word_ayah": 183,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 9322,
+      "word_number_in_surah": 3177,
+      "word_surah": 3,
+      "word_translation": "truthful",
+      "word_transliteration": "sadiqina"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ عَهِدَ إِلَيۡنَآ أَلَّا نُؤۡمِنَ لِرَسُولٍ حَتَّىٰ يَأۡتِيَنَا بِقُرۡبَانٖ تَأۡكُلُهُ ٱلنَّارُۗ قُلۡ قَدۡ جَآءَكُمۡ رُسُلٞ مِّن قَبۡلِي بِٱلۡبَيِّنَٰتِ وَبِٱلَّذِي قُلۡتُمۡ فَلِمَ قَتَلۡتُمُوهُمۡ إِن كُنتُمۡ صَٰدِقِينَ",
+  "fullTranslation": "[They are] those who said, \"Indeed, Allah has taken our promise not to believe any messenger until he brings us an offering which fire [from heaven] will consume.\" Say, \"There have already come to you messengers before me with clear proofs and [even] that of which you speak. So why did you kill them, if you should be truthful?\"",
+  "fullTransliteration": "alladhina qalu inna al-laha ahida ilayna alla nu'mina lirasulin hatta yatiyana biqur'banin takuluhu al-naru qul qad jaakum rusulun min qabli bil-bayinati wabi-alladhi qul'tum falima qataltumuhum in kuntum sadiqina"
+}

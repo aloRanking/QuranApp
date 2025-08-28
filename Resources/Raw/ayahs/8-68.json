@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ayah": 68,
+    "surah": 8,
+    "words": 10,
+    "numberInQuran": 1228,
+    "juz": 10,
+    "manzil": 2,
+    "page": 185,
+    "ruku": 154,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّوۡلَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23626,
+      "word_number_in_surah": 1079,
+      "word_surah": 8,
+      "word_translation": "Had not",
+      "word_transliteration": "lawla"
+    },
+    {
+      "word_arabic": "كِتَٰبٞ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23627,
+      "word_number_in_surah": 1080,
+      "word_surah": 8,
+      "word_translation": "an ordainment",
+      "word_transliteration": "kitabun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23628,
+      "word_number_in_surah": 1081,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23629,
+      "word_number_in_surah": 1082,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "سَبَقَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23630,
+      "word_number_in_surah": 1083,
+      "word_surah": 8,
+      "word_translation": "preceded",
+      "word_transliteration": "sabaqa"
+    },
+    {
+      "word_arabic": "لَمَسَّكُمۡ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23631,
+      "word_number_in_surah": 1084,
+      "word_surah": 8,
+      "word_translation": "surely (would) have touched you",
+      "word_transliteration": "lamassakum"
+    },
+    {
+      "word_arabic": "فِيمَآ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23632,
+      "word_number_in_surah": 1085,
+      "word_surah": 8,
+      "word_translation": "for what",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "أَخَذۡتُمۡ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23633,
+      "word_number_in_surah": 1086,
+      "word_surah": 8,
+      "word_translation": "you took",
+      "word_transliteration": "akhadhtum"
+    },
+    {
+      "word_arabic": "عَذَابٌ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23634,
+      "word_number_in_surah": 1087,
+      "word_surah": 8,
+      "word_translation": "a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "عَظِيمٞ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23635,
+      "word_number_in_surah": 1088,
+      "word_surah": 8,
+      "word_translation": "great",
+      "word_transliteration": "azimun"
+    }
+  ],
+  "fullArabic": "لَّوۡلَا كِتَٰبٞ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِيمَآ أَخَذۡتُمۡ عَذَابٌ عَظِيمٞ",
+  "fullTranslation": "If not for a decree from Allah that preceded, you would have been touched for what you took by a great punishment.",
+  "fullTransliteration": "lawla kitabun mina al-lahi sabaqa lamassakum fima akhadhtum adhabun azimun"
+}

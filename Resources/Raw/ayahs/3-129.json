@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 129,
+    "surah": 3,
+    "words": 16,
+    "numberInQuran": 422,
+    "juz": 4,
+    "manzil": 1,
+    "page": 66,
+    "ruku": 54,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8314,
+      "word_number_in_surah": 2169,
+      "word_surah": 3,
+      "word_translation": "And to Allah (belongs)",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8315,
+      "word_number_in_surah": 2170,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8316,
+      "word_number_in_surah": 2171,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8317,
+      "word_number_in_surah": 2172,
+      "word_surah": 3,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8318,
+      "word_number_in_surah": 2173,
+      "word_surah": 3,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8319,
+      "word_number_in_surah": 2174,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۚ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8320,
+      "word_number_in_surah": 2175,
+      "word_surah": 3,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "يَغۡفِرُ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8321,
+      "word_number_in_surah": 2176,
+      "word_surah": 3,
+      "word_translation": "He forgives",
+      "word_transliteration": "yaghfiru"
+    },
+    {
+      "word_arabic": "لِمَن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8322,
+      "word_number_in_surah": 2177,
+      "word_surah": 3,
+      "word_translation": "[for] whom",
+      "word_transliteration": "liman"
+    },
+    {
+      "word_arabic": "يَشَآءُ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8323,
+      "word_number_in_surah": 2178,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَيُعَذِّبُ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8324,
+      "word_number_in_surah": 2179,
+      "word_surah": 3,
+      "word_translation": "and punishes",
+      "word_transliteration": "wayu'adhibu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 129,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8325,
+      "word_number_in_surah": 2180,
+      "word_surah": 3,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8326,
+      "word_number_in_surah": 2181,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8327,
+      "word_number_in_surah": 2182,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8328,
+      "word_number_in_surah": 2183,
+      "word_surah": 3,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8329,
+      "word_number_in_surah": 2184,
+      "word_surah": 3,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "And to Allah belongs whatever is in the heavens and whatever is on the earth. He forgives whom He wills and punishes whom He wills. And Allah is Forgiving and Merciful.",
+  "fullTransliteration": "walillahi ma fi al-samawati wama fi al-ardi yaghfiru liman yashau wayu'adhibu man yashau wal-lahu ghafurun rahimun"
+}

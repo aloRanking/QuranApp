@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "ayah": 59,
+    "surah": 4,
+    "words": 28,
+    "numberInQuran": 552,
+    "juz": 5,
+    "manzil": 1,
+    "page": 87,
+    "ruku": 69,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10957,
+      "word_number_in_surah": 1331,
+      "word_surah": 4,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10958,
+      "word_number_in_surah": 1332,
+      "word_surah": 4,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10959,
+      "word_number_in_surah": 1333,
+      "word_surah": 4,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "أَطِيعُواْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10960,
+      "word_number_in_surah": 1334,
+      "word_surah": 4,
+      "word_translation": "Obey",
+      "word_transliteration": "ati'u"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10961,
+      "word_number_in_surah": 1335,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَأَطِيعُواْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10962,
+      "word_number_in_surah": 1336,
+      "word_surah": 4,
+      "word_translation": "and obey",
+      "word_transliteration": "wa-ati'u"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10963,
+      "word_number_in_surah": 1337,
+      "word_surah": 4,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasula"
+    },
+    {
+      "word_arabic": "وَأُوْلِي",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10964,
+      "word_number_in_surah": 1338,
+      "word_surah": 4,
+      "word_translation": "and those",
+      "word_transliteration": "wa-uli"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡرِ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10965,
+      "word_number_in_surah": 1339,
+      "word_surah": 4,
+      "word_translation": "(having) authority",
+      "word_transliteration": "al-amri"
+    },
+    {
+      "word_arabic": "مِنكُمۡۖ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10966,
+      "word_number_in_surah": 1340,
+      "word_surah": 4,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 59,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10967,
+      "word_number_in_surah": 1341,
+      "word_surah": 4,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَنَٰزَعۡتُمۡ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10968,
+      "word_number_in_surah": 1342,
+      "word_surah": 4,
+      "word_translation": "you disagree",
+      "word_transliteration": "tanaza'tum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10969,
+      "word_number_in_surah": 1343,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10970,
+      "word_number_in_surah": 1344,
+      "word_surah": 4,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "فَرُدُّوهُ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10971,
+      "word_number_in_surah": 1345,
+      "word_surah": 4,
+      "word_translation": "refer it",
+      "word_transliteration": "farudduhu"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10972,
+      "word_number_in_surah": 1346,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10973,
+      "word_number_in_surah": 1347,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱلرَّسُولِ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10974,
+      "word_number_in_surah": 1348,
+      "word_surah": 4,
+      "word_translation": "and the Messenger",
+      "word_transliteration": "wal-rasuli"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 59,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10975,
+      "word_number_in_surah": 1349,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10976,
+      "word_number_in_surah": 1350,
+      "word_surah": 4,
+      "word_translation": "you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تُؤۡمِنُونَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 10977,
+      "word_number_in_surah": 1351,
+      "word_surah": 4,
+      "word_translation": "believe",
+      "word_transliteration": "tu'minuna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 10978,
+      "word_number_in_surah": 1352,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡيَوۡمِ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 10979,
+      "word_number_in_surah": 1353,
+      "word_surah": 4,
+      "word_translation": "and the Day",
+      "word_transliteration": "wal-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِۚ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 10980,
+      "word_number_in_surah": 1354,
+      "word_surah": 4,
+      "word_translation": "[the] Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 10981,
+      "word_number_in_surah": 1355,
+      "word_surah": 4,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 10982,
+      "word_number_in_surah": 1356,
+      "word_surah": 4,
+      "word_translation": "(is) best",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "وَأَحۡسَنُ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 10983,
+      "word_number_in_surah": 1357,
+      "word_surah": 4,
+      "word_translation": "and more suitable",
+      "word_transliteration": "wa-ahsanu"
+    },
+    {
+      "word_arabic": "تَأۡوِيلًا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 10984,
+      "word_number_in_surah": 1358,
+      "word_surah": 4,
+      "word_translation": "(for final) determination",
+      "word_transliteration": "tawilan"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
+  "fullTranslation": "O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is the best [way] and best in result.",
+  "fullTransliteration": "yaayyuha alladhina amanu ati'u al-laha wa-ati'u al-rasula wa-uli al-amri minkum fa-in tanaza'tum fi shayin farudduhu ila al-lahi wal-rasuli in kuntum tu'minuna bil-lahi wal-yawmi al-akhiri dhalika khayrun wa-ahsanu tawilan"
+}

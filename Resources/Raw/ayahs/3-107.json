@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "ayah": 107,
+    "surah": 3,
+    "words": 10,
+    "numberInQuran": 400,
+    "juz": 4,
+    "manzil": 1,
+    "page": 63,
+    "ruku": 52,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَمَّا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7957,
+      "word_number_in_surah": 1812,
+      "word_surah": 3,
+      "word_translation": "But as for",
+      "word_transliteration": "wa-amma"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7958,
+      "word_number_in_surah": 1813,
+      "word_surah": 3,
+      "word_translation": "those whose",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱبۡيَضَّتۡ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7959,
+      "word_number_in_surah": 1814,
+      "word_surah": 3,
+      "word_translation": "turn white",
+      "word_transliteration": "ib'yaddat"
+    },
+    {
+      "word_arabic": "وُجُوهُهُمۡ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7960,
+      "word_number_in_surah": 1815,
+      "word_surah": 3,
+      "word_translation": "[their] faces",
+      "word_transliteration": "wujuhuhum"
+    },
+    {
+      "word_arabic": "فَفِي",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7961,
+      "word_number_in_surah": 1816,
+      "word_surah": 3,
+      "word_translation": "then (they will be) in",
+      "word_transliteration": "fafi"
+    },
+    {
+      "word_arabic": "رَحۡمَةِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7962,
+      "word_number_in_surah": 1817,
+      "word_surah": 3,
+      "word_translation": "(the) Mercy",
+      "word_transliteration": "rahmati"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7963,
+      "word_number_in_surah": 1818,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7964,
+      "word_number_in_surah": 1819,
+      "word_surah": 3,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7965,
+      "word_number_in_surah": 1820,
+      "word_surah": 3,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "خَٰلِدُونَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7966,
+      "word_number_in_surah": 1821,
+      "word_surah": 3,
+      "word_translation": "(will) abide forever",
+      "word_transliteration": "khaliduna"
+    }
+  ],
+  "fullArabic": "وَأَمَّا ٱلَّذِينَ ٱبۡيَضَّتۡ وُجُوهُهُمۡ فَفِي رَحۡمَةِ ٱللَّهِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "fullTranslation": "But as for those whose faces will turn white, [they will be] within the mercy of Allah. They will abide therein eternally.",
+  "fullTransliteration": "wa-amma alladhina ib'yaddat wujuhuhum fafi rahmati al-lahi hum fiha khaliduna"
+}

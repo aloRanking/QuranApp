@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "ayah": 130,
+    "surah": 3,
+    "words": 12,
+    "numberInQuran": 423,
+    "juz": 4,
+    "manzil": 1,
+    "page": 66,
+    "ruku": 55,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8330,
+      "word_number_in_surah": 2185,
+      "word_surah": 3,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8331,
+      "word_number_in_surah": 2186,
+      "word_surah": 3,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8332,
+      "word_number_in_surah": 2187,
+      "word_surah": 3,
+      "word_translation": "believe!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8333,
+      "word_number_in_surah": 2188,
+      "word_surah": 3,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَأۡكُلُواْ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8334,
+      "word_number_in_surah": 2189,
+      "word_surah": 3,
+      "word_translation": "eat",
+      "word_transliteration": "takulu"
+    },
+    {
+      "word_arabic": "ٱلرِّبَوٰٓاْ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8335,
+      "word_number_in_surah": 2190,
+      "word_surah": 3,
+      "word_translation": "the usury",
+      "word_transliteration": "al-riba"
+    },
+    {
+      "word_arabic": "أَضۡعَٰفٗا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8336,
+      "word_number_in_surah": 2191,
+      "word_surah": 3,
+      "word_translation": "doubled",
+      "word_transliteration": "ad'afan"
+    },
+    {
+      "word_arabic": "مُّضَٰعَفَةٗۖ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8337,
+      "word_number_in_surah": 2192,
+      "word_surah": 3,
+      "word_translation": "multiplied",
+      "word_transliteration": "muda'afatan"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8338,
+      "word_number_in_surah": 2193,
+      "word_surah": 3,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8339,
+      "word_number_in_surah": 2194,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8340,
+      "word_number_in_surah": 2195,
+      "word_surah": 3,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تُفۡلِحُونَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8341,
+      "word_number_in_surah": 2196,
+      "word_surah": 3,
+      "word_translation": "(be) successful",
+      "word_transliteration": "tuf'lihuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَأۡكُلُواْ ٱلرِّبَوٰٓاْ أَضۡعَٰفٗا مُّضَٰعَفَةٗۖ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "fullTranslation": "O you who have believed, do not consume usury, doubled and multiplied, but fear Allah that you may be successful.",
+  "fullTransliteration": "yaayyuha alladhina amanu la takulu al-riba ad'afan muda'afatan wa-ittaqu al-laha la'allakum tuf'lihuna"
+}

@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "ayah": 230,
+    "surah": 2,
+    "words": 30,
+    "numberInQuran": 237,
+    "juz": 2,
+    "manzil": 1,
+    "page": 36,
+    "ruku": 30,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 230,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4443,
+      "word_number_in_surah": 4414,
+      "word_surah": 2,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "طَلَّقَهَا",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4444,
+      "word_number_in_surah": 4415,
+      "word_surah": 2,
+      "word_translation": "he divorces her (finally)",
+      "word_transliteration": "tallaqaha"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4445,
+      "word_number_in_surah": 4416,
+      "word_surah": 2,
+      "word_translation": "then (she is) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَحِلُّ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4446,
+      "word_number_in_surah": 4417,
+      "word_surah": 2,
+      "word_translation": "lawful",
+      "word_transliteration": "tahillu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 230,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4447,
+      "word_number_in_surah": 4418,
+      "word_surah": 2,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 230,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4448,
+      "word_number_in_surah": 4419,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدُ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4449,
+      "word_number_in_surah": 4420,
+      "word_surah": 2,
+      "word_translation": "after (that)",
+      "word_transliteration": "ba'du"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4450,
+      "word_number_in_surah": 4421,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "تَنكِحَ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4451,
+      "word_number_in_surah": 4422,
+      "word_surah": 2,
+      "word_translation": "she marries",
+      "word_transliteration": "tankiha"
+    },
+    {
+      "word_arabic": "زَوۡجًا",
+      "word_ayah": 230,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4452,
+      "word_number_in_surah": 4423,
+      "word_surah": 2,
+      "word_translation": "a spouse",
+      "word_transliteration": "zawjan"
+    },
+    {
+      "word_arabic": "غَيۡرَهُۥۗ",
+      "word_ayah": 230,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4453,
+      "word_number_in_surah": 4424,
+      "word_surah": 2,
+      "word_translation": "other than him",
+      "word_transliteration": "ghayrahu"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 230,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4454,
+      "word_number_in_surah": 4425,
+      "word_surah": 2,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "طَلَّقَهَا",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4455,
+      "word_number_in_surah": 4426,
+      "word_surah": 2,
+      "word_translation": "he divorces her",
+      "word_transliteration": "tallaqaha"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4456,
+      "word_number_in_surah": 4427,
+      "word_surah": 2,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "جُنَاحَ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4457,
+      "word_number_in_surah": 4428,
+      "word_surah": 2,
+      "word_translation": "sin",
+      "word_transliteration": "junaha"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمَآ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4458,
+      "word_number_in_surah": 4429,
+      "word_surah": 2,
+      "word_translation": "on them",
+      "word_transliteration": "alayhima"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 230,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4459,
+      "word_number_in_surah": 4430,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَتَرَاجَعَآ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4460,
+      "word_number_in_surah": 4431,
+      "word_surah": 2,
+      "word_translation": "they return to each other",
+      "word_transliteration": "yataraja'a"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 230,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4461,
+      "word_number_in_surah": 4432,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "ظَنَّآ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4462,
+      "word_number_in_surah": 4433,
+      "word_surah": 2,
+      "word_translation": "they believe",
+      "word_transliteration": "zanna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 230,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4463,
+      "word_number_in_surah": 4434,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُقِيمَا",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4464,
+      "word_number_in_surah": 4435,
+      "word_surah": 2,
+      "word_translation": "they (will be able to) keep",
+      "word_transliteration": "yuqima"
+    },
+    {
+      "word_arabic": "حُدُودَ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4465,
+      "word_number_in_surah": 4436,
+      "word_surah": 2,
+      "word_translation": "(the) limits",
+      "word_transliteration": "hududa"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4466,
+      "word_number_in_surah": 4437,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَتِلۡكَ",
+      "word_ayah": 230,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4467,
+      "word_number_in_surah": 4438,
+      "word_surah": 2,
+      "word_translation": "And these",
+      "word_transliteration": "watil'ka"
+    },
+    {
+      "word_arabic": "حُدُودُ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4468,
+      "word_number_in_surah": 4439,
+      "word_surah": 2,
+      "word_translation": "(are the) limits",
+      "word_transliteration": "hududu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4469,
+      "word_number_in_surah": 4440,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يُبَيِّنُهَا",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 4470,
+      "word_number_in_surah": 4441,
+      "word_surah": 2,
+      "word_translation": "He makes them clear",
+      "word_transliteration": "yubayyinuha"
+    },
+    {
+      "word_arabic": "لِقَوۡمٖ",
+      "word_ayah": 230,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 4471,
+      "word_number_in_surah": 4442,
+      "word_surah": 2,
+      "word_translation": "to a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 230,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 4472,
+      "word_number_in_surah": 4443,
+      "word_surah": 2,
+      "word_translation": "who know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعۡدُ حَتَّىٰ تَنكِحَ زَوۡجًا غَيۡرَهُۥۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِۗ وَتِلۡكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوۡمٖ يَعۡلَمُونَ",
+  "fullTranslation": "And if he has divorced her [for the third time], then she is not lawful to him afterward until [after] she marries a husband other than him. And if the latter husband divorces her [or dies], there is no blame upon the woman and her former husband for returning to each other if they think that they can keep [within] the limits of Allah. These are the limits of Allah, which He makes clear to a people who know.",
+  "fullTransliteration": "fa-in tallaqaha fala tahillu lahu min ba'du hatta tankiha zawjan ghayrahu fa-in tallaqaha fala junaha alayhima an yataraja'a in zanna an yuqima hududa al-lahi watil'ka hududu al-lahi yubayyinuha liqawmin ya'lamuna"
+}

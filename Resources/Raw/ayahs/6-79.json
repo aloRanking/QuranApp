@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 79,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 868,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17495,
+      "word_number_in_surah": 1318,
+      "word_surah": 6,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "وَجَّهۡتُ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17496,
+      "word_number_in_surah": 1319,
+      "word_surah": 6,
+      "word_translation": "[I] have turned",
+      "word_transliteration": "wajjahtu"
+    },
+    {
+      "word_arabic": "وَجۡهِيَ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17497,
+      "word_number_in_surah": 1320,
+      "word_surah": 6,
+      "word_translation": "my face",
+      "word_transliteration": "wajhiya"
+    },
+    {
+      "word_arabic": "لِلَّذِي",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17498,
+      "word_number_in_surah": 1321,
+      "word_surah": 6,
+      "word_translation": "to the One Who",
+      "word_transliteration": "lilladhi"
+    },
+    {
+      "word_arabic": "فَطَرَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17499,
+      "word_number_in_surah": 1322,
+      "word_surah": 6,
+      "word_translation": "created",
+      "word_transliteration": "fatara"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17500,
+      "word_number_in_surah": 1323,
+      "word_surah": 6,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17501,
+      "word_number_in_surah": 1324,
+      "word_surah": 6,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-arda"
+    },
+    {
+      "word_arabic": "حَنِيفٗاۖ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17502,
+      "word_number_in_surah": 1325,
+      "word_surah": 6,
+      "word_translation": "(as) a true monotheist",
+      "word_transliteration": "hanifan"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17503,
+      "word_number_in_surah": 1326,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَنَا۠",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17504,
+      "word_number_in_surah": 1327,
+      "word_surah": 6,
+      "word_translation": "I (am)",
+      "word_transliteration": "ana"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17505,
+      "word_number_in_surah": 1328,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكِينَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17506,
+      "word_number_in_surah": 1329,
+      "word_surah": 6,
+      "word_translation": "the polytheists",
+      "word_transliteration": "al-mush'rikina"
+    }
+  ],
+  "fullArabic": "إِنِّي وَجَّهۡتُ وَجۡهِيَ لِلَّذِي فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ حَنِيفٗاۖ وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ",
+  "fullTranslation": "Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah.\"",
+  "fullTransliteration": "inni wajjahtu wajhiya lilladhi fatara al-samawati wal-arda hanifan wama ana mina al-mush'rikina"
+}

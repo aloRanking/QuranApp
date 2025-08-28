@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "ayah": 88,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 581,
+    "juz": 5,
+    "manzil": 1,
+    "page": 92,
+    "ruku": 73,
+    "hizbQuarter": 37,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞فَمَا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11539,
+      "word_number_in_surah": 1913,
+      "word_surah": 4,
+      "word_translation": "So what",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11540,
+      "word_number_in_surah": 1914,
+      "word_surah": 4,
+      "word_translation": "(is the matter) with you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11541,
+      "word_number_in_surah": 1915,
+      "word_surah": 4,
+      "word_translation": "concerning",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡمُنَٰفِقِينَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11542,
+      "word_number_in_surah": 1916,
+      "word_surah": 4,
+      "word_translation": "the hypocrites (that)",
+      "word_transliteration": "al-munafiqina"
+    },
+    {
+      "word_arabic": "فِئَتَيۡنِ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11543,
+      "word_number_in_surah": 1917,
+      "word_surah": 4,
+      "word_translation": "(you have become) two parties",
+      "word_transliteration": "fi-atayni"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11544,
+      "word_number_in_surah": 1918,
+      "word_surah": 4,
+      "word_translation": "While Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَرۡكَسَهُم",
+      "word_ayah": 88,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11545,
+      "word_number_in_surah": 1919,
+      "word_surah": 4,
+      "word_translation": "cast them back",
+      "word_transliteration": "arkasahum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11546,
+      "word_number_in_surah": 1920,
+      "word_surah": 4,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَسَبُوٓاْۚ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11547,
+      "word_number_in_surah": 1921,
+      "word_surah": 4,
+      "word_translation": "they earned",
+      "word_transliteration": "kasabu"
+    },
+    {
+      "word_arabic": "أَتُرِيدُونَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11548,
+      "word_number_in_surah": 1922,
+      "word_surah": 4,
+      "word_translation": "Do you wish",
+      "word_transliteration": "aturiduna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 88,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11549,
+      "word_number_in_surah": 1923,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَهۡدُواْ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11550,
+      "word_number_in_surah": 1924,
+      "word_surah": 4,
+      "word_translation": "you guide",
+      "word_transliteration": "tahdu"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11551,
+      "word_number_in_surah": 1925,
+      "word_surah": 4,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "أَضَلَّ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11552,
+      "word_number_in_surah": 1926,
+      "word_surah": 4,
+      "word_translation": "is let astray",
+      "word_transliteration": "adalla"
+    },
+    {
+      "word_arabic": "ٱللَّهُۖ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11553,
+      "word_number_in_surah": 1927,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 88,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11554,
+      "word_number_in_surah": 1928,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُضۡلِلِ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11555,
+      "word_number_in_surah": 1929,
+      "word_surah": 4,
+      "word_translation": "is let astray",
+      "word_transliteration": "yud'lili"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11556,
+      "word_number_in_surah": 1930,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَلَن",
+      "word_ayah": 88,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11557,
+      "word_number_in_surah": 1931,
+      "word_surah": 4,
+      "word_translation": "then never",
+      "word_transliteration": "falan"
+    },
+    {
+      "word_arabic": "تَجِدَ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11558,
+      "word_number_in_surah": 1932,
+      "word_surah": 4,
+      "word_translation": "will you find",
+      "word_transliteration": "tajida"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11559,
+      "word_number_in_surah": 1933,
+      "word_surah": 4,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "سَبِيلٗا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11560,
+      "word_number_in_surah": 1934,
+      "word_surah": 4,
+      "word_translation": "a way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "۞فَمَا لَكُمۡ فِي ٱلۡمُنَٰفِقِينَ فِئَتَيۡنِ وَٱللَّهُ أَرۡكَسَهُم بِمَا كَسَبُوٓاْۚ أَتُرِيدُونَ أَن تَهۡدُواْ مَنۡ أَضَلَّ ٱللَّهُۖ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلٗا",
+  "fullTranslation": "What is [the matter] with you [that you are] two groups concerning the hypocrites, while Allah has made them fall back [into error and disbelief] for what they earned. Do you wish to guide those whom Allah has sent astray? And he whom Allah sends astray - never will you find for him a way [of guidance].",
+  "fullTransliteration": "fama lakum fi al-munafiqina fi-atayni wal-lahu arkasahum bima kasabu aturiduna an tahdu man adalla al-lahu waman yud'lili al-lahu falan tajida lahu sabilan"
+}

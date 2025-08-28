@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 168,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1122,
+    "juz": 9,
+    "manzil": 2,
+    "page": 172,
+    "ruku": 142,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَطَّعۡنَٰهُمۡ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21953,
+      "word_number_in_surah": 2726,
+      "word_surah": 7,
+      "word_translation": "And We divided them",
+      "word_transliteration": "waqatta'nahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21954,
+      "word_number_in_surah": 2727,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21955,
+      "word_number_in_surah": 2728,
+      "word_surah": 7,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "أُمَمٗاۖ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21956,
+      "word_number_in_surah": 2729,
+      "word_surah": 7,
+      "word_translation": "(as) nations",
+      "word_transliteration": "umaman"
+    },
+    {
+      "word_arabic": "مِّنۡهُمُ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21957,
+      "word_number_in_surah": 2730,
+      "word_surah": 7,
+      "word_translation": "Among them",
+      "word_transliteration": "min'humu"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحُونَ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21958,
+      "word_number_in_surah": 2731,
+      "word_surah": 7,
+      "word_translation": "(are) the righteous",
+      "word_transliteration": "al-salihuna"
+    },
+    {
+      "word_arabic": "وَمِنۡهُمۡ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21959,
+      "word_number_in_surah": 2732,
+      "word_surah": 7,
+      "word_translation": "and among them",
+      "word_transliteration": "wamin'hum"
+    },
+    {
+      "word_arabic": "دُونَ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21960,
+      "word_number_in_surah": 2733,
+      "word_surah": 7,
+      "word_translation": "(are) other than",
+      "word_transliteration": "duna"
+    },
+    {
+      "word_arabic": "ذَٰلِكَۖ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21961,
+      "word_number_in_surah": 2734,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "وَبَلَوۡنَٰهُم",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21962,
+      "word_number_in_surah": 2735,
+      "word_surah": 7,
+      "word_translation": "And We tested them",
+      "word_transliteration": "wabalawnahum"
+    },
+    {
+      "word_arabic": "بِٱلۡحَسَنَٰتِ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21963,
+      "word_number_in_surah": 2736,
+      "word_surah": 7,
+      "word_translation": "with the good",
+      "word_transliteration": "bil-hasanati"
+    },
+    {
+      "word_arabic": "وَٱلسَّيِّ‍َٔاتِ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21964,
+      "word_number_in_surah": 2737,
+      "word_surah": 7,
+      "word_translation": "and the bad",
+      "word_transliteration": "wal-sayiati"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21965,
+      "word_number_in_surah": 2738,
+      "word_surah": 7,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَرۡجِعُونَ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21966,
+      "word_number_in_surah": 2739,
+      "word_surah": 7,
+      "word_translation": "return",
+      "word_transliteration": "yarji'una"
+    }
+  ],
+  "fullArabic": "وَقَطَّعۡنَٰهُمۡ فِي ٱلۡأَرۡضِ أُمَمٗاۖ مِّنۡهُمُ ٱلصَّٰلِحُونَ وَمِنۡهُمۡ دُونَ ذَٰلِكَۖ وَبَلَوۡنَٰهُم بِٱلۡحَسَنَٰتِ وَٱلسَّيِّ‍َٔاتِ لَعَلَّهُمۡ يَرۡجِعُونَ",
+  "fullTranslation": "And We divided them throughout the earth into nations. Of them some were righteous, and of them some were otherwise. And We tested them with good [times] and bad that perhaps they would return [to obedience].",
+  "fullTransliteration": "waqatta'nahum fi al-ardi umaman min'humu al-salihuna wamin'hum duna dhalika wabalawnahum bil-hasanati wal-sayiati la'allahum yarji'una"
+}

@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 46,
+    "surah": 8,
+    "words": 13,
+    "numberInQuran": 1206,
+    "juz": 10,
+    "manzil": 2,
+    "page": 183,
+    "ruku": 151,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَطِيعُواْ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23257,
+      "word_number_in_surah": 710,
+      "word_surah": 8,
+      "word_translation": "And obey",
+      "word_transliteration": "wa-ati'u"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23258,
+      "word_number_in_surah": 711,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَرَسُولَهُۥ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23259,
+      "word_number_in_surah": 712,
+      "word_surah": 8,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulahu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23260,
+      "word_number_in_surah": 713,
+      "word_surah": 8,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَنَٰزَعُواْ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23261,
+      "word_number_in_surah": 714,
+      "word_surah": 8,
+      "word_translation": "dispute",
+      "word_transliteration": "tanaza'u"
+    },
+    {
+      "word_arabic": "فَتَفۡشَلُواْ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23262,
+      "word_number_in_surah": 715,
+      "word_surah": 8,
+      "word_translation": "lest you lose courage",
+      "word_transliteration": "fatafshalu"
+    },
+    {
+      "word_arabic": "وَتَذۡهَبَ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23263,
+      "word_number_in_surah": 716,
+      "word_surah": 8,
+      "word_translation": "and (would) depart",
+      "word_transliteration": "watadhhaba"
+    },
+    {
+      "word_arabic": "رِيحُكُمۡۖ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23264,
+      "word_number_in_surah": 717,
+      "word_surah": 8,
+      "word_translation": "your strength",
+      "word_transliteration": "rihukum"
+    },
+    {
+      "word_arabic": "وَٱصۡبِرُوٓاْۚ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23265,
+      "word_number_in_surah": 718,
+      "word_surah": 8,
+      "word_translation": "and be patient",
+      "word_transliteration": "wa-is'biru"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23266,
+      "word_number_in_surah": 719,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23267,
+      "word_number_in_surah": 720,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23268,
+      "word_number_in_surah": 721,
+      "word_surah": 8,
+      "word_translation": "(is) with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلصَّٰبِرِينَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23269,
+      "word_number_in_surah": 722,
+      "word_surah": 8,
+      "word_translation": "the patient ones",
+      "word_transliteration": "al-sabirina"
+    }
+  ],
+  "fullArabic": "وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُواْ فَتَفۡشَلُواْ وَتَذۡهَبَ رِيحُكُمۡۖ وَٱصۡبِرُوٓاْۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+  "fullTranslation": "And obey Allah and His Messenger, and do not dispute and [thus] lose courage and [then] your strength would depart; and be patient. Indeed, Allah is with the patient.",
+  "fullTransliteration": "wa-ati'u al-laha warasulahu wala tanaza'u fatafshalu watadhhaba rihukum wa-is'biru inna al-laha ma'a al-sabirina"
+}

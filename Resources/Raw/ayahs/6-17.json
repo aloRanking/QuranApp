@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "ayah": 17,
+    "surah": 6,
+    "words": 17,
+    "numberInQuran": 806,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 103,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 17,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16409,
+      "word_number_in_surah": 232,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَمۡسَسۡكَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16410,
+      "word_number_in_surah": 233,
+      "word_surah": 6,
+      "word_translation": "touches you",
+      "word_transliteration": "yamsaska"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16411,
+      "word_number_in_surah": 234,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِضُرّٖ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16412,
+      "word_number_in_surah": 235,
+      "word_surah": 6,
+      "word_translation": "with affliction",
+      "word_transliteration": "bidurrin"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16413,
+      "word_number_in_surah": 236,
+      "word_surah": 6,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "كَاشِفَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16414,
+      "word_number_in_surah": 237,
+      "word_surah": 6,
+      "word_translation": "remover",
+      "word_transliteration": "kashifa"
+    },
+    {
+      "word_arabic": "لَهُۥٓ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16415,
+      "word_number_in_surah": 238,
+      "word_surah": 6,
+      "word_translation": "of it",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16416,
+      "word_number_in_surah": 239,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَۖ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16417,
+      "word_number_in_surah": 240,
+      "word_surah": 6,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 17,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16418,
+      "word_number_in_surah": 241,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَمۡسَسۡكَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16419,
+      "word_number_in_surah": 242,
+      "word_surah": 6,
+      "word_translation": "He touches you",
+      "word_transliteration": "yamsaska"
+    },
+    {
+      "word_arabic": "بِخَيۡرٖ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16420,
+      "word_number_in_surah": 243,
+      "word_surah": 6,
+      "word_translation": "with good",
+      "word_transliteration": "bikhayrin"
+    },
+    {
+      "word_arabic": "فَهُوَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16421,
+      "word_number_in_surah": 244,
+      "word_surah": 6,
+      "word_translation": "then He",
+      "word_transliteration": "fahuwa"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16422,
+      "word_number_in_surah": 245,
+      "word_surah": 6,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16423,
+      "word_number_in_surah": 246,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16424,
+      "word_number_in_surah": 247,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٞ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16425,
+      "word_number_in_surah": 248,
+      "word_surah": 6,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "وَإِن يَمۡسَسۡكَ ٱللَّهُ بِضُرّٖ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَۖ وَإِن يَمۡسَسۡكَ بِخَيۡرٖ فَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "fullTranslation": "And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent.",
+  "fullTransliteration": "wa-in yamsaska al-lahu bidurrin fala kashifa lahu illa huwa wa-in yamsaska bikhayrin fahuwa ala kulli shayin qadirun"
+}

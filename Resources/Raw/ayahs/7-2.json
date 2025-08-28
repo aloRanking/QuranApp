@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "ayah": 2,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 956,
+    "juz": 8,
+    "manzil": 2,
+    "page": 151,
+    "ruku": 122,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كِتَٰبٌ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19229,
+      "word_number_in_surah": 2,
+      "word_surah": 7,
+      "word_translation": "A Book",
+      "word_transliteration": "kitabun"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19230,
+      "word_number_in_surah": 3,
+      "word_surah": 7,
+      "word_translation": "revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19231,
+      "word_number_in_surah": 4,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19232,
+      "word_number_in_surah": 5,
+      "word_surah": 7,
+      "word_translation": "so (let) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 2,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19233,
+      "word_number_in_surah": 6,
+      "word_surah": 7,
+      "word_translation": "be",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19234,
+      "word_number_in_surah": 7,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "صَدۡرِكَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19235,
+      "word_number_in_surah": 8,
+      "word_surah": 7,
+      "word_translation": "your breast",
+      "word_transliteration": "sadrika"
+    },
+    {
+      "word_arabic": "حَرَجٞ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19236,
+      "word_number_in_surah": 9,
+      "word_surah": 7,
+      "word_translation": "any uneasiness",
+      "word_transliteration": "harajun"
+    },
+    {
+      "word_arabic": "مِّنۡهُ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19237,
+      "word_number_in_surah": 10,
+      "word_surah": 7,
+      "word_translation": "from it",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "لِتُنذِرَ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19238,
+      "word_number_in_surah": 11,
+      "word_surah": 7,
+      "word_translation": "that you warn",
+      "word_transliteration": "litundhira"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 2,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19239,
+      "word_number_in_surah": 12,
+      "word_surah": 7,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَذِكۡرَىٰ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19240,
+      "word_number_in_surah": 13,
+      "word_surah": 7,
+      "word_translation": "and a reminder",
+      "word_transliteration": "wadhik'ra"
+    },
+    {
+      "word_arabic": "لِلۡمُؤۡمِنِينَ",
+      "word_ayah": 2,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19241,
+      "word_number_in_surah": 14,
+      "word_surah": 7,
+      "word_translation": "for the believers",
+      "word_transliteration": "lil'mu'minina"
+    }
+  ],
+  "fullArabic": "كِتَٰبٌ أُنزِلَ إِلَيۡكَ فَلَا يَكُن فِي صَدۡرِكَ حَرَجٞ مِّنۡهُ لِتُنذِرَ بِهِۦ وَذِكۡرَىٰ لِلۡمُؤۡمِنِينَ",
+  "fullTranslation": "[This is] a Book revealed to you, [O Muhammad] - so let there not be in your breast distress therefrom - that you may warn thereby and as a reminder to the believers.",
+  "fullTransliteration": "kitabun unzila ilayka fala yakun fi sadrika harajun min'hu litundhira bihi wadhik'ra lil'mu'minina"
+}

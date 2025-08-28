@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "ayah": 15,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 508,
+    "juz": 4,
+    "manzil": 1,
+    "page": 80,
+    "ruku": 64,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّٰتِي",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10016,
+      "word_number_in_surah": 390,
+      "word_surah": 4,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-allati"
+    },
+    {
+      "word_arabic": "يَأۡتِينَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10017,
+      "word_number_in_surah": 391,
+      "word_surah": 4,
+      "word_translation": "commit",
+      "word_transliteration": "yatina"
+    },
+    {
+      "word_arabic": "ٱلۡفَٰحِشَةَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10018,
+      "word_number_in_surah": 392,
+      "word_surah": 4,
+      "word_translation": "[the] immorality",
+      "word_transliteration": "al-fahishata"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 15,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10019,
+      "word_number_in_surah": 393,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نِّسَآئِكُمۡ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10020,
+      "word_number_in_surah": 394,
+      "word_surah": 4,
+      "word_translation": "your women",
+      "word_transliteration": "nisaikum"
+    },
+    {
+      "word_arabic": "فَٱسۡتَشۡهِدُواْ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10021,
+      "word_number_in_surah": 395,
+      "word_surah": 4,
+      "word_translation": "then call to witness",
+      "word_transliteration": "fa-is'tashhidu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِنَّ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10022,
+      "word_number_in_surah": 396,
+      "word_surah": 4,
+      "word_translation": "against them",
+      "word_transliteration": "alayhinna"
+    },
+    {
+      "word_arabic": "أَرۡبَعَةٗ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10023,
+      "word_number_in_surah": 397,
+      "word_surah": 4,
+      "word_translation": "four",
+      "word_transliteration": "arba'atan"
+    },
+    {
+      "word_arabic": "مِّنكُمۡۖ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10024,
+      "word_number_in_surah": 398,
+      "word_surah": 4,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 15,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10025,
+      "word_number_in_surah": 399,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "شَهِدُواْ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10026,
+      "word_number_in_surah": 400,
+      "word_surah": 4,
+      "word_translation": "they testify",
+      "word_transliteration": "shahidu"
+    },
+    {
+      "word_arabic": "فَأَمۡسِكُوهُنَّ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10027,
+      "word_number_in_surah": 401,
+      "word_surah": 4,
+      "word_translation": "then confine them",
+      "word_transliteration": "fa-amsikuhunna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10028,
+      "word_number_in_surah": 402,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡبُيُوتِ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10029,
+      "word_number_in_surah": 403,
+      "word_surah": 4,
+      "word_translation": "their houses",
+      "word_transliteration": "al-buyuti"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10030,
+      "word_number_in_surah": 404,
+      "word_surah": 4,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَتَوَفَّىٰهُنَّ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10031,
+      "word_number_in_surah": 405,
+      "word_surah": 4,
+      "word_translation": "comes to them",
+      "word_transliteration": "yatawaffahunna"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتُ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10032,
+      "word_number_in_surah": 406,
+      "word_surah": 4,
+      "word_translation": "[the] death",
+      "word_transliteration": "al-mawtu"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10033,
+      "word_number_in_surah": 407,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَجۡعَلَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10034,
+      "word_number_in_surah": 408,
+      "word_surah": 4,
+      "word_translation": "makes",
+      "word_transliteration": "yaj'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10035,
+      "word_number_in_surah": 409,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَهُنَّ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 10036,
+      "word_number_in_surah": 410,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "lahunna"
+    },
+    {
+      "word_arabic": "سَبِيلٗا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 10037,
+      "word_number_in_surah": 411,
+      "word_surah": 4,
+      "word_translation": "a way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "وَٱلَّٰتِي يَأۡتِينَ ٱلۡفَٰحِشَةَ مِن نِّسَآئِكُمۡ فَٱسۡتَشۡهِدُواْ عَلَيۡهِنَّ أَرۡبَعَةٗ مِّنكُمۡۖ فَإِن شَهِدُواْ فَأَمۡسِكُوهُنَّ فِي ٱلۡبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلۡمَوۡتُ أَوۡ يَجۡعَلَ ٱللَّهُ لَهُنَّ سَبِيلٗا",
+  "fullTranslation": "Those who commit unlawful sexual intercourse of your women - bring against them four [witnesses] from among you. And if they testify, confine the guilty women to houses until death takes them or Allah ordains for them [another] way.",
+  "fullTransliteration": "wa-allati yatina al-fahishata min nisaikum fa-is'tashhidu alayhinna arba'atan minkum fa-in shahidu fa-amsikuhunna fi al-buyuti hatta yatawaffahunna al-mawtu aw yaj'ala al-lahu lahunna sabilan"
+}

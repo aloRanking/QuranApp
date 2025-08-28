@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 32,
+    "surah": 6,
+    "words": 13,
+    "numberInQuran": 821,
+    "juz": 7,
+    "manzil": 2,
+    "page": 131,
+    "ruku": 105,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16660,
+      "word_number_in_surah": 483,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةُ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16661,
+      "word_number_in_surah": 484,
+      "word_surah": 6,
+      "word_translation": "(is) the life",
+      "word_transliteration": "al-hayatu"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَآ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16662,
+      "word_number_in_surah": 485,
+      "word_surah": 6,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16663,
+      "word_number_in_surah": 486,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "لَعِبٞ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16664,
+      "word_number_in_surah": 487,
+      "word_surah": 6,
+      "word_translation": "a play",
+      "word_transliteration": "la'ibun"
+    },
+    {
+      "word_arabic": "وَلَهۡوٞۖ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16665,
+      "word_number_in_surah": 488,
+      "word_surah": 6,
+      "word_translation": "and amusement",
+      "word_transliteration": "walahwun"
+    },
+    {
+      "word_arabic": "وَلَلدَّارُ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16666,
+      "word_number_in_surah": 489,
+      "word_surah": 6,
+      "word_translation": "but the home",
+      "word_transliteration": "walalddaru"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةُ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16667,
+      "word_number_in_surah": 490,
+      "word_surah": 6,
+      "word_translation": "(of) the Hereafter",
+      "word_transliteration": "al-akhiratu"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16668,
+      "word_number_in_surah": 491,
+      "word_surah": 6,
+      "word_translation": "(is) best",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لِّلَّذِينَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16669,
+      "word_number_in_surah": 492,
+      "word_surah": 6,
+      "word_translation": "for those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "يَتَّقُونَۚ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16670,
+      "word_number_in_surah": 493,
+      "word_surah": 6,
+      "word_translation": "(are) God conscious",
+      "word_transliteration": "yattaquna"
+    },
+    {
+      "word_arabic": "أَفَلَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16671,
+      "word_number_in_surah": 494,
+      "word_surah": 6,
+      "word_translation": "Then not",
+      "word_transliteration": "afala"
+    },
+    {
+      "word_arabic": "تَعۡقِلُونَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16672,
+      "word_number_in_surah": 495,
+      "word_surah": 6,
+      "word_translation": "(will) you reason",
+      "word_transliteration": "ta'qiluna"
+    }
+  ],
+  "fullArabic": "وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا لَعِبٞ وَلَهۡوٞۖ وَلَلدَّارُ ٱلۡأٓخِرَةُ خَيۡرٞ لِّلَّذِينَ يَتَّقُونَۚ أَفَلَا تَعۡقِلُونَ",
+  "fullTranslation": "And the worldly life is not but amusement and diversion; but the home of the Hereafter is best for those who fear Allah, so will you not reason?",
+  "fullTransliteration": "wama al-hayatu al-dun'ya illa la'ibun walahwun walalddaru al-akhiratu khayrun lilladhina yattaquna afala ta'qiluna"
+}

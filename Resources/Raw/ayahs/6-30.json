@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "ayah": 30,
+    "surah": 6,
+    "words": 19,
+    "numberInQuran": 819,
+    "juz": 7,
+    "manzil": 2,
+    "page": 131,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16615,
+      "word_number_in_surah": 438,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "تَرَىٰٓ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16616,
+      "word_number_in_surah": 439,
+      "word_surah": 6,
+      "word_translation": "you (could) see",
+      "word_transliteration": "tara"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16617,
+      "word_number_in_surah": 440,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "وُقِفُواْ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16618,
+      "word_number_in_surah": 441,
+      "word_surah": 6,
+      "word_translation": "they will be made to stand",
+      "word_transliteration": "wuqifu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16619,
+      "word_number_in_surah": 442,
+      "word_surah": 6,
+      "word_translation": "before",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡۚ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16620,
+      "word_number_in_surah": 443,
+      "word_surah": 6,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16621,
+      "word_number_in_surah": 444,
+      "word_surah": 6,
+      "word_translation": "He (will) say",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَلَيۡسَ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16622,
+      "word_number_in_surah": 445,
+      "word_surah": 6,
+      "word_translation": "Is not",
+      "word_transliteration": "alaysa"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16623,
+      "word_number_in_surah": 446,
+      "word_surah": 6,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّۚ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16624,
+      "word_number_in_surah": 447,
+      "word_surah": 6,
+      "word_translation": "the truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16625,
+      "word_number_in_surah": 448,
+      "word_surah": 6,
+      "word_translation": "They will say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "بَلَىٰ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16626,
+      "word_number_in_surah": 449,
+      "word_surah": 6,
+      "word_translation": "Yes",
+      "word_transliteration": "bala"
+    },
+    {
+      "word_arabic": "وَرَبِّنَاۚ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16627,
+      "word_number_in_surah": 450,
+      "word_surah": 6,
+      "word_translation": "by our Lord",
+      "word_transliteration": "warabbina"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16628,
+      "word_number_in_surah": 451,
+      "word_surah": 6,
+      "word_translation": "He (will) say",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "فَذُوقُواْ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16629,
+      "word_number_in_surah": 452,
+      "word_surah": 6,
+      "word_translation": "So taste",
+      "word_transliteration": "fadhuqu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16630,
+      "word_number_in_surah": 453,
+      "word_surah": 6,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhaba"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16631,
+      "word_number_in_surah": 454,
+      "word_surah": 6,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16632,
+      "word_number_in_surah": 455,
+      "word_surah": 6,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16633,
+      "word_number_in_surah": 456,
+      "word_surah": 6,
+      "word_translation": "disbelieve",
+      "word_transliteration": "takfuruna"
+    }
+  ],
+  "fullArabic": "وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَىٰ رَبِّهِمۡۚ قَالَ أَلَيۡسَ هَٰذَا بِٱلۡحَقِّۚ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+  "fullTranslation": "If you could but see when they will be made to stand before their Lord. He will say, \"Is this not the truth?\" They will say, \"Yes, by our Lord.\" He will [then] say, \"So taste the punishment because you used to disbelieve.\"",
+  "fullTransliteration": "walaw tara idh wuqifu ala rabbihim qala alaysa hadha bil-haqi qalu bala warabbina qala fadhuqu al-'adhaba bima kuntum takfuruna"
+}

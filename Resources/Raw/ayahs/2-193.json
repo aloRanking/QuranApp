@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 193,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 200,
+    "juz": 2,
+    "manzil": 1,
+    "page": 30,
+    "ruku": 25,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَٰتِلُوهُمۡ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3576,
+      "word_number_in_surah": 3547,
+      "word_surah": 2,
+      "word_translation": "And fight (against) them",
+      "word_transliteration": "waqatiluhum"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3577,
+      "word_number_in_surah": 3548,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3578,
+      "word_number_in_surah": 3549,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَكُونَ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3579,
+      "word_number_in_surah": 3550,
+      "word_surah": 2,
+      "word_translation": "(there) is",
+      "word_transliteration": "takuna"
+    },
+    {
+      "word_arabic": "فِتۡنَةٞ",
+      "word_ayah": 193,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3580,
+      "word_number_in_surah": 3551,
+      "word_surah": 2,
+      "word_translation": "oppression",
+      "word_transliteration": "fit'natun"
+    },
+    {
+      "word_arabic": "وَيَكُونَ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3581,
+      "word_number_in_surah": 3552,
+      "word_surah": 2,
+      "word_translation": "and becomes",
+      "word_transliteration": "wayakuna"
+    },
+    {
+      "word_arabic": "ٱلدِّينُ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3582,
+      "word_number_in_surah": 3553,
+      "word_surah": 2,
+      "word_translation": "the religion",
+      "word_transliteration": "al-dinu"
+    },
+    {
+      "word_arabic": "لِلَّهِۖ",
+      "word_ayah": 193,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3583,
+      "word_number_in_surah": 3554,
+      "word_surah": 2,
+      "word_translation": "for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "فَإِنِ",
+      "word_ayah": 193,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3584,
+      "word_number_in_surah": 3555,
+      "word_surah": 2,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-ini"
+    },
+    {
+      "word_arabic": "ٱنتَهَوۡاْ",
+      "word_ayah": 193,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3585,
+      "word_number_in_surah": 3556,
+      "word_surah": 2,
+      "word_translation": "they cease",
+      "word_transliteration": "intahaw"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3586,
+      "word_number_in_surah": 3557,
+      "word_surah": 2,
+      "word_translation": "then (let there be) no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "عُدۡوَٰنَ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3587,
+      "word_number_in_surah": 3558,
+      "word_surah": 2,
+      "word_translation": "hostility",
+      "word_transliteration": "ud'wana"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3588,
+      "word_number_in_surah": 3559,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3589,
+      "word_number_in_surah": 3560,
+      "word_surah": 2,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 193,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3590,
+      "word_number_in_surah": 3561,
+      "word_surah": 2,
+      "word_translation": "the oppressors",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ لِلَّهِۖ فَإِنِ ٱنتَهَوۡاْ فَلَا عُدۡوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ",
+  "fullTranslation": "Fight them until there is no [more] fitnah and [until] worship is [acknowledged to be] for Allah. But if they cease, then there is to be no aggression except against the oppressors.",
+  "fullTransliteration": "waqatiluhum hatta la takuna fit'natun wayakuna al-dinu lillahi fa-ini intahaw fala ud'wana illa ala al-zalimina"
+}

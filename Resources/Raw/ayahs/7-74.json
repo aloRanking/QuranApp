@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "ayah": 74,
+    "surah": 7,
+    "words": 25,
+    "numberInQuran": 1028,
+    "juz": 8,
+    "manzil": 2,
+    "page": 160,
+    "ruku": 131,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱذۡكُرُوٓاْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20428,
+      "word_number_in_surah": 1201,
+      "word_surah": 7,
+      "word_translation": "And remember",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20429,
+      "word_number_in_surah": 1202,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "جَعَلَكُمۡ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20430,
+      "word_number_in_surah": 1203,
+      "word_surah": 7,
+      "word_translation": "He made you",
+      "word_transliteration": "ja'alakum"
+    },
+    {
+      "word_arabic": "خُلَفَآءَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20431,
+      "word_number_in_surah": 1204,
+      "word_surah": 7,
+      "word_translation": "successors",
+      "word_transliteration": "khulafaa"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20432,
+      "word_number_in_surah": 1205,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20433,
+      "word_number_in_surah": 1206,
+      "word_surah": 7,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "عَادٖ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20434,
+      "word_number_in_surah": 1207,
+      "word_surah": 7,
+      "word_translation": "Aad",
+      "word_transliteration": "adin"
+    },
+    {
+      "word_arabic": "وَبَوَّأَكُمۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20435,
+      "word_number_in_surah": 1208,
+      "word_surah": 7,
+      "word_translation": "and settled you",
+      "word_transliteration": "wabawwa-akum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20436,
+      "word_number_in_surah": 1209,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20437,
+      "word_number_in_surah": 1210,
+      "word_surah": 7,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "تَتَّخِذُونَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20438,
+      "word_number_in_surah": 1211,
+      "word_surah": 7,
+      "word_translation": "You take",
+      "word_transliteration": "tattakhidhuna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 74,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20439,
+      "word_number_in_surah": 1212,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "سُهُولِهَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20440,
+      "word_number_in_surah": 1213,
+      "word_surah": 7,
+      "word_translation": "its plains",
+      "word_transliteration": "suhuliha"
+    },
+    {
+      "word_arabic": "قُصُورٗا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20441,
+      "word_number_in_surah": 1214,
+      "word_surah": 7,
+      "word_translation": "palaces",
+      "word_transliteration": "qusuran"
+    },
+    {
+      "word_arabic": "وَتَنۡحِتُونَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20442,
+      "word_number_in_surah": 1215,
+      "word_surah": 7,
+      "word_translation": "and you carve out",
+      "word_transliteration": "watanhituna"
+    },
+    {
+      "word_arabic": "ٱلۡجِبَالَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20443,
+      "word_number_in_surah": 1216,
+      "word_surah": 7,
+      "word_translation": "the mountains",
+      "word_transliteration": "al-jibala"
+    },
+    {
+      "word_arabic": "بُيُوتٗاۖ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20444,
+      "word_number_in_surah": 1217,
+      "word_surah": 7,
+      "word_translation": "(as) homes",
+      "word_transliteration": "buyutan"
+    },
+    {
+      "word_arabic": "فَٱذۡكُرُوٓاْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20445,
+      "word_number_in_surah": 1218,
+      "word_surah": 7,
+      "word_translation": "So remember",
+      "word_transliteration": "fa-udh'kuru"
+    },
+    {
+      "word_arabic": "ءَالَآءَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 20446,
+      "word_number_in_surah": 1219,
+      "word_surah": 7,
+      "word_translation": "(the) Bounties",
+      "word_transliteration": "alaa"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 20447,
+      "word_number_in_surah": 1220,
+      "word_surah": 7,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 20448,
+      "word_number_in_surah": 1221,
+      "word_surah": 7,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَعۡثَوۡاْ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 20449,
+      "word_number_in_surah": 1222,
+      "word_surah": 7,
+      "word_translation": "act wickedly",
+      "word_transliteration": "ta'thaw"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 20450,
+      "word_number_in_surah": 1223,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 20451,
+      "word_number_in_surah": 1224,
+      "word_surah": 7,
+      "word_translation": "(the) earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "مُفۡسِدِينَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 20452,
+      "word_number_in_surah": 1225,
+      "word_surah": 7,
+      "word_translation": "spreading corruption",
+      "word_transliteration": "muf'sidina"
+    }
+  ],
+  "fullArabic": "وَٱذۡكُرُوٓاْ إِذۡ جَعَلَكُمۡ خُلَفَآءَ مِنۢ بَعۡدِ عَادٖ وَبَوَّأَكُمۡ فِي ٱلۡأَرۡضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورٗا وَتَنۡحِتُونَ ٱلۡجِبَالَ بُيُوتٗاۖ فَٱذۡكُرُوٓاْ ءَالَآءَ ٱللَّهِ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+  "fullTranslation": "And remember when He made you successors after the 'Aad and settled you in the land, [and] you take for yourselves palaces from its plains and carve from the mountains, homes. Then remember the favors of Allah and do not commit abuse on the earth, spreading corruption.\"",
+  "fullTransliteration": "wa-udh'kuru idh ja'alakum khulafaa min ba'di adin wabawwa-akum fi al-ardi tattakhidhuna min suhuliha qusuran watanhituna al-jibala buyutan fa-udh'kuru alaa al-lahi wala ta'thaw fi al-ardi muf'sidina"
+}

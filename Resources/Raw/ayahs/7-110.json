@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ayah": 110,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 1064,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20962,
+      "word_number_in_surah": 1735,
+      "word_surah": 7,
+      "word_translation": "He wants",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 110,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20963,
+      "word_number_in_surah": 1736,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُخۡرِجَكُم",
+      "word_ayah": 110,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20964,
+      "word_number_in_surah": 1737,
+      "word_surah": 7,
+      "word_translation": "drive you out",
+      "word_transliteration": "yukh'rijakum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 110,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20965,
+      "word_number_in_surah": 1738,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَرۡضِكُمۡۖ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20966,
+      "word_number_in_surah": 1739,
+      "word_surah": 7,
+      "word_translation": "your land",
+      "word_transliteration": "ardikum"
+    },
+    {
+      "word_arabic": "فَمَاذَا",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20967,
+      "word_number_in_surah": 1740,
+      "word_surah": 7,
+      "word_translation": "so what",
+      "word_transliteration": "famadha"
+    },
+    {
+      "word_arabic": "تَأۡمُرُونَ",
+      "word_ayah": 110,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20968,
+      "word_number_in_surah": 1741,
+      "word_surah": 7,
+      "word_translation": "(do) you instruct",
+      "word_transliteration": "tamuruna"
+    }
+  ],
+  "fullArabic": "يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُمۡۖ فَمَاذَا تَأۡمُرُونَ",
+  "fullTranslation": "Who wants to expel you from your land [through magic], so what do you instruct?\"",
+  "fullTransliteration": "yuridu an yukh'rijakum min ardikum famadha tamuruna"
+}

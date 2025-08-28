@@ -60,6 +60,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	<PackageReference Include="DotNetMeteor.HotReload.Plugin" Version="3.*"/>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="9.0.70" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0" />
 		<PackageReference Include="ReactiveUI" Version="20.4.1" />

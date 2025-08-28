@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "ayah": 262,
+    "surah": 2,
+    "words": 24,
+    "numberInQuran": 269,
+    "juz": 3,
+    "manzil": 1,
+    "page": 44,
+    "ruku": 37,
+    "hizbQuarter": 17,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5445,
+      "word_number_in_surah": 5416,
+      "word_surah": 2,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5446,
+      "word_number_in_surah": 5417,
+      "word_surah": 2,
+      "word_translation": "spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَهُمۡ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5447,
+      "word_number_in_surah": 5418,
+      "word_surah": 2,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwalahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5448,
+      "word_number_in_surah": 5419,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5449,
+      "word_number_in_surah": 5420,
+      "word_surah": 2,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5450,
+      "word_number_in_surah": 5421,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 262,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5451,
+      "word_number_in_surah": 5422,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5452,
+      "word_number_in_surah": 5423,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُتۡبِعُونَ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5453,
+      "word_number_in_surah": 5424,
+      "word_surah": 2,
+      "word_translation": "they follow",
+      "word_transliteration": "yut'bi'una"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5454,
+      "word_number_in_surah": 5425,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَنفَقُواْ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5455,
+      "word_number_in_surah": 5426,
+      "word_surah": 2,
+      "word_translation": "they spend",
+      "word_transliteration": "anfaqu"
+    },
+    {
+      "word_arabic": "مَنّٗا",
+      "word_ayah": 262,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5456,
+      "word_number_in_surah": 5427,
+      "word_surah": 2,
+      "word_translation": "(with) reminders of generosity",
+      "word_transliteration": "mannan"
+    },
+    {
+      "word_arabic": "وَلَآ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5457,
+      "word_number_in_surah": 5428,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "أَذٗى",
+      "word_ayah": 262,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5458,
+      "word_number_in_surah": 5429,
+      "word_surah": 2,
+      "word_translation": "hurt",
+      "word_transliteration": "adhan"
+    },
+    {
+      "word_arabic": "لَّهُمۡ",
+      "word_ayah": 262,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5459,
+      "word_number_in_surah": 5430,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "أَجۡرُهُمۡ",
+      "word_ayah": 262,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5460,
+      "word_number_in_surah": 5431,
+      "word_surah": 2,
+      "word_translation": "their reward",
+      "word_transliteration": "ajruhum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5461,
+      "word_number_in_surah": 5432,
+      "word_surah": 2,
+      "word_translation": "(is) with",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 262,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5462,
+      "word_number_in_surah": 5433,
+      "word_surah": 2,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5463,
+      "word_number_in_surah": 5434,
+      "word_surah": 2,
+      "word_translation": "and (there will be) no",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "خَوۡفٌ",
+      "word_ayah": 262,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5464,
+      "word_number_in_surah": 5435,
+      "word_surah": 2,
+      "word_translation": "fear",
+      "word_transliteration": "khawfun"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 5465,
+      "word_number_in_surah": 5436,
+      "word_surah": 2,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 5466,
+      "word_number_in_surah": 5437,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 262,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 5467,
+      "word_number_in_surah": 5438,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يَحۡزَنُونَ",
+      "word_ayah": 262,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 5468,
+      "word_number_in_surah": 5439,
+      "word_surah": 2,
+      "word_translation": "will grieve",
+      "word_transliteration": "yahzanuna"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتۡبِعُونَ مَآ أَنفَقُواْ مَنّٗا وَلَآ أَذٗى لَّهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "fullTranslation": "Those who spend their wealth in the way of Allah and then do not follow up what they have spent with reminders [of it] or [other] injury will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.",
+  "fullTransliteration": "alladhina yunfiquna amwalahum fi sabili al-lahi thumma la yut'bi'una ma anfaqu mannan wala adhan lahum ajruhum inda rabbihim wala khawfun alayhim wala hum yahzanuna"
+}

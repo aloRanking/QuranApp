@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ayah": 47,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 54,
+    "juz": 1,
+    "manzil": 1,
+    "page": 7,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰبَنِيٓ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 689,
+      "word_number_in_surah": 660,
+      "word_surah": 2,
+      "word_translation": "O Children",
+      "word_transliteration": "yabani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 690,
+      "word_number_in_surah": 661,
+      "word_surah": 2,
+      "word_translation": "(of) Israel!",
+      "word_transliteration": "is'raila"
+    },
+    {
+      "word_arabic": "ٱذۡكُرُواْ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 691,
+      "word_number_in_surah": 662,
+      "word_surah": 2,
+      "word_translation": "Remember",
+      "word_transliteration": "udh'kuru"
+    },
+    {
+      "word_arabic": "نِعۡمَتِيَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 692,
+      "word_number_in_surah": 663,
+      "word_surah": 2,
+      "word_translation": "My Favor",
+      "word_transliteration": "ni'matiya"
+    },
+    {
+      "word_arabic": "ٱلَّتِيٓ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 693,
+      "word_number_in_surah": 664,
+      "word_surah": 2,
+      "word_translation": "which",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "أَنۡعَمۡتُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 694,
+      "word_number_in_surah": 665,
+      "word_surah": 2,
+      "word_translation": "I bestowed",
+      "word_transliteration": "an'amtu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 695,
+      "word_number_in_surah": 666,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَأَنِّي",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 696,
+      "word_number_in_surah": 667,
+      "word_surah": 2,
+      "word_translation": "and that I",
+      "word_transliteration": "wa-anni"
+    },
+    {
+      "word_arabic": "فَضَّلۡتُكُمۡ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 697,
+      "word_number_in_surah": 668,
+      "word_surah": 2,
+      "word_translation": "[I] preferred you",
+      "word_transliteration": "faddaltukum"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 698,
+      "word_number_in_surah": 669,
+      "word_surah": 2,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 699,
+      "word_number_in_surah": 670,
+      "word_surah": 2,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَنِّي فَضَّلۡتُكُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "O Children of Israel, remember My favor that I have bestowed upon you and that I preferred you over the worlds.",
+  "fullTransliteration": "yabani is'raila udh'kuru ni'matiya allati an'amtu alaykum wa-anni faddaltukum ala al-'alamina"
+}

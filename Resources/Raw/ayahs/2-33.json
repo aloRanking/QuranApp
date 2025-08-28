@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "ayah": 33,
+    "surah": 2,
+    "words": 22,
+    "numberInQuran": 40,
+    "juz": 1,
+    "manzil": 1,
+    "page": 6,
+    "ruku": 5,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 507,
+      "word_number_in_surah": 478,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "يَٰٓـَٔادَمُ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 508,
+      "word_number_in_surah": 479,
+      "word_surah": 2,
+      "word_translation": "O Adam!",
+      "word_transliteration": "yaadamu"
+    },
+    {
+      "word_arabic": "أَنۢبِئۡهُم",
+      "word_ayah": 33,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 509,
+      "word_number_in_surah": 480,
+      "word_surah": 2,
+      "word_translation": "Inform them",
+      "word_transliteration": "anbi'hum"
+    },
+    {
+      "word_arabic": "بِأَسۡمَآئِهِمۡۖ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 510,
+      "word_number_in_surah": 481,
+      "word_surah": 2,
+      "word_translation": "of their names",
+      "word_transliteration": "bi-asmaihim"
+    },
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 511,
+      "word_number_in_surah": 482,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَنۢبَأَهُم",
+      "word_ayah": 33,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 512,
+      "word_number_in_surah": 483,
+      "word_surah": 2,
+      "word_translation": "he had informed them",
+      "word_transliteration": "anba-ahum"
+    },
+    {
+      "word_arabic": "بِأَسۡمَآئِهِمۡ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 513,
+      "word_number_in_surah": 484,
+      "word_surah": 2,
+      "word_translation": "of their names",
+      "word_transliteration": "bi-asmaihim"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 514,
+      "word_number_in_surah": 485,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 515,
+      "word_number_in_surah": 486,
+      "word_surah": 2,
+      "word_translation": "Did not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "أَقُل",
+      "word_ayah": 33,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 516,
+      "word_number_in_surah": 487,
+      "word_surah": 2,
+      "word_translation": "I say",
+      "word_transliteration": "aqul"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 517,
+      "word_number_in_surah": 488,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 518,
+      "word_number_in_surah": 489,
+      "word_surah": 2,
+      "word_translation": "Indeed, I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 519,
+      "word_number_in_surah": 490,
+      "word_surah": 2,
+      "word_translation": "[I] know",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "غَيۡبَ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 520,
+      "word_number_in_surah": 491,
+      "word_surah": 2,
+      "word_translation": "(the) unseen",
+      "word_transliteration": "ghayba"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 521,
+      "word_number_in_surah": 492,
+      "word_surah": 2,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 522,
+      "word_number_in_surah": 493,
+      "word_surah": 2,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَأَعۡلَمُ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 523,
+      "word_number_in_surah": 494,
+      "word_surah": 2,
+      "word_translation": "and I know",
+      "word_transliteration": "wa-a'lamu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 524,
+      "word_number_in_surah": 495,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تُبۡدُونَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 525,
+      "word_number_in_surah": 496,
+      "word_surah": 2,
+      "word_translation": "you reveal",
+      "word_transliteration": "tub'duna"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 526,
+      "word_number_in_surah": 497,
+      "word_surah": 2,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 527,
+      "word_number_in_surah": 498,
+      "word_surah": 2,
+      "word_translation": "you [were]",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَكۡتُمُونَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 528,
+      "word_number_in_surah": 499,
+      "word_surah": 2,
+      "word_translation": "conceal",
+      "word_transliteration": "taktumuna"
+    }
+  ],
+  "fullArabic": "قَالَ يَٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ",
+  "fullTranslation": "He said, \"O Adam, inform them of their names.\" And when he had informed them of their names, He said, \"Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed.\"",
+  "fullTransliteration": "qala yaadamu anbi'hum bi-asmaihim falamma anba-ahum bi-asmaihim qala alam aqul lakum inni a'lamu ghayba al-samawati wal-ardi wa-a'lamu ma tub'duna wama kuntum taktumuna"
+}

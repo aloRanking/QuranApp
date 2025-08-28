@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "ayah": 144,
+    "surah": 3,
+    "words": 27,
+    "numberInQuran": 437,
+    "juz": 4,
+    "manzil": 1,
+    "page": 68,
+    "ruku": 56,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8497,
+      "word_number_in_surah": 2352,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "مُحَمَّدٌ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8498,
+      "word_number_in_surah": 2353,
+      "word_surah": 3,
+      "word_translation": "(is) Muhammad",
+      "word_transliteration": "muhammadun"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8499,
+      "word_number_in_surah": 2354,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "رَسُولٞ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8500,
+      "word_number_in_surah": 2355,
+      "word_surah": 3,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulun"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8501,
+      "word_number_in_surah": 2356,
+      "word_surah": 3,
+      "word_translation": "certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "خَلَتۡ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8502,
+      "word_number_in_surah": 2357,
+      "word_surah": 3,
+      "word_translation": "passed away",
+      "word_transliteration": "khalat"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 144,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8503,
+      "word_number_in_surah": 2358,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِهِ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8504,
+      "word_number_in_surah": 2359,
+      "word_surah": 3,
+      "word_translation": "before him",
+      "word_transliteration": "qablihi"
+    },
+    {
+      "word_arabic": "ٱلرُّسُلُۚ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8505,
+      "word_number_in_surah": 2360,
+      "word_surah": 3,
+      "word_translation": "[the] (other) Messengers",
+      "word_transliteration": "al-rusulu"
+    },
+    {
+      "word_arabic": "أَفَإِيْن",
+      "word_ayah": 144,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8506,
+      "word_number_in_surah": 2361,
+      "word_surah": 3,
+      "word_translation": "So if",
+      "word_transliteration": "afa-in"
+    },
+    {
+      "word_arabic": "مَّاتَ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8507,
+      "word_number_in_surah": 2362,
+      "word_surah": 3,
+      "word_translation": "he died",
+      "word_transliteration": "mata"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8508,
+      "word_number_in_surah": 2363,
+      "word_surah": 3,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "قُتِلَ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8509,
+      "word_number_in_surah": 2364,
+      "word_surah": 3,
+      "word_translation": "is slain",
+      "word_transliteration": "qutila"
+    },
+    {
+      "word_arabic": "ٱنقَلَبۡتُمۡ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8510,
+      "word_number_in_surah": 2365,
+      "word_surah": 3,
+      "word_translation": "will you turn back",
+      "word_transliteration": "inqalabtum"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8511,
+      "word_number_in_surah": 2366,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَعۡقَٰبِكُمۡۚ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8512,
+      "word_number_in_surah": 2367,
+      "word_surah": 3,
+      "word_translation": "your heels",
+      "word_transliteration": "a'qabikum"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 144,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8513,
+      "word_number_in_surah": 2368,
+      "word_surah": 3,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَنقَلِبۡ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8514,
+      "word_number_in_surah": 2369,
+      "word_surah": 3,
+      "word_translation": "turns back",
+      "word_transliteration": "yanqalib"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8515,
+      "word_number_in_surah": 2370,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "عَقِبَيۡهِ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8516,
+      "word_number_in_surah": 2371,
+      "word_surah": 3,
+      "word_translation": "his heels",
+      "word_transliteration": "aqibayhi"
+    },
+    {
+      "word_arabic": "فَلَن",
+      "word_ayah": 144,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8517,
+      "word_number_in_surah": 2372,
+      "word_surah": 3,
+      "word_translation": "then never",
+      "word_transliteration": "falan"
+    },
+    {
+      "word_arabic": "يَضُرَّ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8518,
+      "word_number_in_surah": 2373,
+      "word_surah": 3,
+      "word_translation": "will he harm",
+      "word_transliteration": "yadurra"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8519,
+      "word_number_in_surah": 2374,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗاۗ",
+      "word_ayah": 144,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 8520,
+      "word_number_in_surah": 2375,
+      "word_surah": 3,
+      "word_translation": "(in) anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَسَيَجۡزِي",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 8521,
+      "word_number_in_surah": 2376,
+      "word_surah": 3,
+      "word_translation": "And will reward",
+      "word_transliteration": "wasayajzi"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 8522,
+      "word_number_in_surah": 2377,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلشَّٰكِرِينَ",
+      "word_ayah": 144,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 8523,
+      "word_number_in_surah": 2378,
+      "word_surah": 3,
+      "word_translation": "the grateful ones",
+      "word_transliteration": "al-shakirina"
+    }
+  ],
+  "fullArabic": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ فَلَن يَضُرَّ ٱللَّهَ شَيۡ‍ٔٗاۗ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ",
+  "fullTranslation": "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allah at all; but Allah will reward the grateful.",
+  "fullTransliteration": "wama muhammadun illa rasulun qad khalat min qablihi al-rusulu afa-in mata aw qutila inqalabtum ala a'qabikum waman yanqalib ala aqibayhi falan yadurra al-laha shayan wasayajzi al-lahu al-shakirina"
+}

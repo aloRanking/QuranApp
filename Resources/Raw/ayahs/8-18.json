@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "ayah": 18,
+    "surah": 8,
+    "words": 6,
+    "numberInQuran": 1178,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 147,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكُمۡ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22798,
+      "word_number_in_surah": 251,
+      "word_surah": 8,
+      "word_translation": "That (is the case)",
+      "word_transliteration": "dhalikum"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22799,
+      "word_number_in_surah": 252,
+      "word_surah": 8,
+      "word_translation": "and that",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22800,
+      "word_number_in_surah": 253,
+      "word_surah": 8,
+      "word_translation": "Allah (is)",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مُوهِنُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22801,
+      "word_number_in_surah": 254,
+      "word_surah": 8,
+      "word_translation": "one who makes weak",
+      "word_transliteration": "muhinu"
+    },
+    {
+      "word_arabic": "كَيۡدِ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22802,
+      "word_number_in_surah": 255,
+      "word_surah": 8,
+      "word_translation": "(the) plan",
+      "word_transliteration": "kaydi"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22803,
+      "word_number_in_surah": 256,
+      "word_surah": 8,
+      "word_translation": "(of) the disbelievers",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "ذَٰلِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَيۡدِ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "That [is so], and [also] that Allah will weaken the plot of the disbelievers.",
+  "fullTransliteration": "dhalikum wa-anna al-laha muhinu kaydi al-kafirina"
+}

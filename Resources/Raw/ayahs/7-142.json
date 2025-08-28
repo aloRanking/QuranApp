@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "ayah": 142,
+    "surah": 7,
+    "words": 23,
+    "numberInQuran": 1096,
+    "juz": 9,
+    "manzil": 2,
+    "page": 167,
+    "ruku": 138,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَوَٰعَدۡنَا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21345,
+      "word_number_in_surah": 2118,
+      "word_surah": 7,
+      "word_translation": "And We appointed",
+      "word_transliteration": "wawa'adna"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21346,
+      "word_number_in_surah": 2119,
+      "word_surah": 7,
+      "word_translation": "(for) Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "ثَلَٰثِينَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21347,
+      "word_number_in_surah": 2120,
+      "word_surah": 7,
+      "word_translation": "thirty",
+      "word_transliteration": "thalathina"
+    },
+    {
+      "word_arabic": "لَيۡلَةٗ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21348,
+      "word_number_in_surah": 2121,
+      "word_surah": 7,
+      "word_translation": "nights",
+      "word_transliteration": "laylatan"
+    },
+    {
+      "word_arabic": "وَأَتۡمَمۡنَٰهَا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21349,
+      "word_number_in_surah": 2122,
+      "word_surah": 7,
+      "word_translation": "and We completed them",
+      "word_transliteration": "wa-atmamnaha"
+    },
+    {
+      "word_arabic": "بِعَشۡرٖ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21350,
+      "word_number_in_surah": 2123,
+      "word_surah": 7,
+      "word_translation": "with ten (more)",
+      "word_transliteration": "bi'ashrin"
+    },
+    {
+      "word_arabic": "فَتَمَّ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21351,
+      "word_number_in_surah": 2124,
+      "word_surah": 7,
+      "word_translation": "so was completed",
+      "word_transliteration": "fatamma"
+    },
+    {
+      "word_arabic": "مِيقَٰتُ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21352,
+      "word_number_in_surah": 2125,
+      "word_surah": 7,
+      "word_translation": "(the) set term",
+      "word_transliteration": "miqatu"
+    },
+    {
+      "word_arabic": "رَبِّهِۦٓ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21353,
+      "word_number_in_surah": 2126,
+      "word_surah": 7,
+      "word_translation": "(of) his Lord",
+      "word_transliteration": "rabbihi"
+    },
+    {
+      "word_arabic": "أَرۡبَعِينَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21354,
+      "word_number_in_surah": 2127,
+      "word_surah": 7,
+      "word_translation": "(of) forty",
+      "word_transliteration": "arba'ina"
+    },
+    {
+      "word_arabic": "لَيۡلَةٗۚ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21355,
+      "word_number_in_surah": 2128,
+      "word_surah": 7,
+      "word_translation": "night(s)",
+      "word_transliteration": "laylatan"
+    },
+    {
+      "word_arabic": "وَقَالَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21356,
+      "word_number_in_surah": 2129,
+      "word_surah": 7,
+      "word_translation": "And said",
+      "word_transliteration": "waqala"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21357,
+      "word_number_in_surah": 2130,
+      "word_surah": 7,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "لِأَخِيهِ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21358,
+      "word_number_in_surah": 2131,
+      "word_surah": 7,
+      "word_translation": "to his brother",
+      "word_transliteration": "li-akhihi"
+    },
+    {
+      "word_arabic": "هَٰرُونَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21359,
+      "word_number_in_surah": 2132,
+      "word_surah": 7,
+      "word_translation": "Harun",
+      "word_transliteration": "haruna"
+    },
+    {
+      "word_arabic": "ٱخۡلُفۡنِي",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21360,
+      "word_number_in_surah": 2133,
+      "word_surah": 7,
+      "word_translation": "Take my place",
+      "word_transliteration": "ukh'luf'ni"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21361,
+      "word_number_in_surah": 2134,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قَوۡمِي",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21362,
+      "word_number_in_surah": 2135,
+      "word_surah": 7,
+      "word_translation": "my people",
+      "word_transliteration": "qawmi"
+    },
+    {
+      "word_arabic": "وَأَصۡلِحۡ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21363,
+      "word_number_in_surah": 2136,
+      "word_surah": 7,
+      "word_translation": "and do right",
+      "word_transliteration": "wa-aslih"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21364,
+      "word_number_in_surah": 2137,
+      "word_surah": 7,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعۡ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 21365,
+      "word_number_in_surah": 2138,
+      "word_surah": 7,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'"
+    },
+    {
+      "word_arabic": "سَبِيلَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 21366,
+      "word_number_in_surah": 2139,
+      "word_surah": 7,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabila"
+    },
+    {
+      "word_arabic": "ٱلۡمُفۡسِدِينَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 21367,
+      "word_number_in_surah": 2140,
+      "word_surah": 7,
+      "word_translation": "(of) the corrupters",
+      "word_transliteration": "al-muf'sidina"
+    }
+  ],
+  "fullArabic": "۞وَوَٰعَدۡنَا مُوسَىٰ ثَلَٰثِينَ لَيۡلَةٗ وَأَتۡمَمۡنَٰهَا بِعَشۡرٖ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرۡبَعِينَ لَيۡلَةٗۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخۡلُفۡنِي فِي قَوۡمِي وَأَصۡلِحۡ وَلَا تَتَّبِعۡ سَبِيلَ ٱلۡمُفۡسِدِينَ",
+  "fullTranslation": "And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, \"Take my place among my people, do right [by them], and do not follow the way of the corrupters.\"",
+  "fullTransliteration": "wawa'adna musa thalathina laylatan wa-atmamnaha bi'ashrin fatamma miqatu rabbihi arba'ina laylatan waqala musa li-akhihi haruna ukh'luf'ni fi qawmi wa-aslih wala tattabi' sabila al-muf'sidina"
+}

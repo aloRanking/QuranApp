@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "ayah": 234,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 241,
+    "juz": 2,
+    "manzil": 1,
+    "page": 38,
+    "ruku": 31,
+    "hizbQuarter": 15,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4615,
+      "word_number_in_surah": 4586,
+      "word_surah": 2,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "يُتَوَفَّوۡنَ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4616,
+      "word_number_in_surah": 4587,
+      "word_surah": 2,
+      "word_translation": "pass away",
+      "word_transliteration": "yutawaffawna"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4617,
+      "word_number_in_surah": 4588,
+      "word_surah": 2,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "وَيَذَرُونَ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4618,
+      "word_number_in_surah": 4589,
+      "word_surah": 2,
+      "word_translation": "and leave behind",
+      "word_transliteration": "wayadharuna"
+    },
+    {
+      "word_arabic": "أَزۡوَٰجٗا",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4619,
+      "word_number_in_surah": 4590,
+      "word_surah": 2,
+      "word_translation": "wives",
+      "word_transliteration": "azwajan"
+    },
+    {
+      "word_arabic": "يَتَرَبَّصۡنَ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4620,
+      "word_number_in_surah": 4591,
+      "word_surah": 2,
+      "word_translation": "(the widows) should wait",
+      "word_transliteration": "yatarabbasna"
+    },
+    {
+      "word_arabic": "بِأَنفُسِهِنَّ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4621,
+      "word_number_in_surah": 4592,
+      "word_surah": 2,
+      "word_translation": "for themselves",
+      "word_transliteration": "bi-anfusihinna"
+    },
+    {
+      "word_arabic": "أَرۡبَعَةَ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4622,
+      "word_number_in_surah": 4593,
+      "word_surah": 2,
+      "word_translation": "(for) four",
+      "word_transliteration": "arba'ata"
+    },
+    {
+      "word_arabic": "أَشۡهُرٖ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4623,
+      "word_number_in_surah": 4594,
+      "word_surah": 2,
+      "word_translation": "months",
+      "word_transliteration": "ashhurin"
+    },
+    {
+      "word_arabic": "وَعَشۡرٗاۖ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4624,
+      "word_number_in_surah": 4595,
+      "word_surah": 2,
+      "word_translation": "and ten (days)",
+      "word_transliteration": "wa'ashran"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4625,
+      "word_number_in_surah": 4596,
+      "word_surah": 2,
+      "word_translation": "Then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "بَلَغۡنَ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4626,
+      "word_number_in_surah": 4597,
+      "word_surah": 2,
+      "word_translation": "they reach",
+      "word_transliteration": "balaghna"
+    },
+    {
+      "word_arabic": "أَجَلَهُنَّ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4627,
+      "word_number_in_surah": 4598,
+      "word_surah": 2,
+      "word_translation": "their (specified) term",
+      "word_transliteration": "ajalahunna"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4628,
+      "word_number_in_surah": 4599,
+      "word_surah": 2,
+      "word_translation": "then (there is) no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "جُنَاحَ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4629,
+      "word_number_in_surah": 4600,
+      "word_surah": 2,
+      "word_translation": "blame",
+      "word_transliteration": "junaha"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4630,
+      "word_number_in_surah": 4601,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "فِيمَا",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4631,
+      "word_number_in_surah": 4602,
+      "word_surah": 2,
+      "word_translation": "for what",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "فَعَلۡنَ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4632,
+      "word_number_in_surah": 4603,
+      "word_surah": 2,
+      "word_translation": "they do",
+      "word_transliteration": "fa'alna"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4633,
+      "word_number_in_surah": 4604,
+      "word_surah": 2,
+      "word_translation": "concerning",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَنفُسِهِنَّ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4634,
+      "word_number_in_surah": 4605,
+      "word_surah": 2,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihinna"
+    },
+    {
+      "word_arabic": "بِٱلۡمَعۡرُوفِۗ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4635,
+      "word_number_in_surah": 4606,
+      "word_surah": 2,
+      "word_translation": "in a fair manner",
+      "word_transliteration": "bil-ma'rufi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 234,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4636,
+      "word_number_in_surah": 4607,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4637,
+      "word_number_in_surah": 4608,
+      "word_surah": 2,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4638,
+      "word_number_in_surah": 4609,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    },
+    {
+      "word_arabic": "خَبِيرٞ",
+      "word_ayah": 234,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4639,
+      "word_number_in_surah": 4610,
+      "word_surah": 2,
+      "word_translation": "(is) All-Aware",
+      "word_transliteration": "khabirun"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ أَرۡبَعَةَ أَشۡهُرٖ وَعَشۡرٗاۖ فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ بِٱلۡمَعۡرُوفِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "fullTranslation": "And those who are taken in death among you and leave wives behind - they, [the wives, shall] wait four months and ten [days]. And when they have fulfilled their term, then there is no blame upon you for what they do with themselves in an acceptable manner. And Allah is [fully] Acquainted with what you do.",
+  "fullTransliteration": "wa-alladhina yutawaffawna minkum wayadharuna azwajan yatarabbasna bi-anfusihinna arba'ata ashhurin wa'ashran fa-idha balaghna ajalahunna fala junaha alaykum fima fa'alna fi anfusihinna bil-ma'rufi wal-lahu bima ta'maluna khabirun"
+}

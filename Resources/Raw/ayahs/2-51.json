@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "ayah": 51,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 58,
+    "juz": 1,
+    "manzil": 1,
+    "page": 8,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 747,
+      "word_number_in_surah": 718,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "وَٰعَدۡنَا",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 748,
+      "word_number_in_surah": 719,
+      "word_surah": 2,
+      "word_translation": "We appointed",
+      "word_transliteration": "wa'adna"
+    },
+    {
+      "word_arabic": "مُوسَىٰٓ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 749,
+      "word_number_in_surah": 720,
+      "word_surah": 2,
+      "word_translation": "(for) Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "أَرۡبَعِينَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 750,
+      "word_number_in_surah": 721,
+      "word_surah": 2,
+      "word_translation": "forty",
+      "word_transliteration": "arba'ina"
+    },
+    {
+      "word_arabic": "لَيۡلَةٗ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 751,
+      "word_number_in_surah": 722,
+      "word_surah": 2,
+      "word_translation": "nights",
+      "word_transliteration": "laylatan"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 752,
+      "word_number_in_surah": 723,
+      "word_surah": 2,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱتَّخَذۡتُمُ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 753,
+      "word_number_in_surah": 724,
+      "word_surah": 2,
+      "word_translation": "you took",
+      "word_transliteration": "ittakhadhtumu"
+    },
+    {
+      "word_arabic": "ٱلۡعِجۡلَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 754,
+      "word_number_in_surah": 725,
+      "word_surah": 2,
+      "word_translation": "the calf",
+      "word_transliteration": "al-'ij'la"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 755,
+      "word_number_in_surah": 726,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِۦ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 756,
+      "word_number_in_surah": 727,
+      "word_surah": 2,
+      "word_translation": "after him",
+      "word_transliteration": "ba'dihi"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 757,
+      "word_number_in_surah": 728,
+      "word_surah": 2,
+      "word_translation": "and you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "ظَٰلِمُونَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 758,
+      "word_number_in_surah": 729,
+      "word_surah": 2,
+      "word_translation": "(were) wrongdoers",
+      "word_transliteration": "zalimuna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ وَٰعَدۡنَا مُوسَىٰٓ أَرۡبَعِينَ لَيۡلَةٗ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
+  "fullTranslation": "And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him, while you were wrongdoers.",
+  "fullTransliteration": "wa-idh wa'adna musa arba'ina laylatan thumma ittakhadhtumu al-'ij'la min ba'dihi wa-antum zalimuna"
+}

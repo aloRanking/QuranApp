@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "ayah": 164,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 657,
+    "juz": 6,
+    "manzil": 1,
+    "page": 104,
+    "ruku": 84,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَرُسُلٗا",
+      "word_ayah": 164,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13102,
+      "word_number_in_surah": 3476,
+      "word_surah": 4,
+      "word_translation": "And Messengers",
+      "word_transliteration": "warusulan"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13103,
+      "word_number_in_surah": 3477,
+      "word_surah": 4,
+      "word_translation": "surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "قَصَصۡنَٰهُمۡ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13104,
+      "word_number_in_surah": 3478,
+      "word_surah": 4,
+      "word_translation": "We (have) mentioned them",
+      "word_transliteration": "qasasnahum"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13105,
+      "word_number_in_surah": 3479,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 164,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13106,
+      "word_number_in_surah": 3480,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13107,
+      "word_number_in_surah": 3481,
+      "word_surah": 4,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَرُسُلٗا",
+      "word_ayah": 164,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13108,
+      "word_number_in_surah": 3482,
+      "word_surah": 4,
+      "word_translation": "and Messengers",
+      "word_transliteration": "warusulan"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13109,
+      "word_number_in_surah": 3483,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "نَقۡصُصۡهُمۡ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13110,
+      "word_number_in_surah": 3484,
+      "word_surah": 4,
+      "word_translation": "We (have) mentioned them",
+      "word_transliteration": "naqsus'hum"
+    },
+    {
+      "word_arabic": "عَلَيۡكَۚ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13111,
+      "word_number_in_surah": 3485,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "وَكَلَّمَ",
+      "word_ayah": 164,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13112,
+      "word_number_in_surah": 3486,
+      "word_surah": 4,
+      "word_translation": "And spoke",
+      "word_transliteration": "wakallama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13113,
+      "word_number_in_surah": 3487,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13114,
+      "word_number_in_surah": 3488,
+      "word_surah": 4,
+      "word_translation": "(to) Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "تَكۡلِيمٗا",
+      "word_ayah": 164,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13115,
+      "word_number_in_surah": 3489,
+      "word_surah": 4,
+      "word_translation": "(in a) conversation",
+      "word_transliteration": "takliman"
+    }
+  ],
+  "fullArabic": "وَرُسُلٗا قَدۡ قَصَصۡنَٰهُمۡ عَلَيۡكَ مِن قَبۡلُ وَرُسُلٗا لَّمۡ نَقۡصُصۡهُمۡ عَلَيۡكَۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكۡلِيمٗا",
+  "fullTranslation": "And [We sent] messengers about whom We have related [their stories] to you before and messengers about whom We have not related to you. And Allah spoke to Moses with [direct] speech.",
+  "fullTransliteration": "warusulan qad qasasnahum alayka min qablu warusulan lam naqsus'hum alayka wakallama al-lahu musa takliman"
+}

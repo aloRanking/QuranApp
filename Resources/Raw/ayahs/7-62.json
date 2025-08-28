@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 62,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1016,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 129,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُبَلِّغُكُمۡ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20228,
+      "word_number_in_surah": 1001,
+      "word_surah": 7,
+      "word_translation": "I convey to you",
+      "word_transliteration": "uballighukum"
+    },
+    {
+      "word_arabic": "رِسَٰلَٰتِ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20229,
+      "word_number_in_surah": 1002,
+      "word_surah": 7,
+      "word_translation": "the Messages",
+      "word_transliteration": "risalati"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20230,
+      "word_number_in_surah": 1003,
+      "word_surah": 7,
+      "word_translation": "(of) my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "وَأَنصَحُ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20231,
+      "word_number_in_surah": 1004,
+      "word_surah": 7,
+      "word_translation": "and [I] advise",
+      "word_transliteration": "wa-ansahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20232,
+      "word_number_in_surah": 1005,
+      "word_surah": 7,
+      "word_translation": "[to] you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَأَعۡلَمُ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20233,
+      "word_number_in_surah": 1006,
+      "word_surah": 7,
+      "word_translation": "and I know",
+      "word_transliteration": "wa-a'lamu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20234,
+      "word_number_in_surah": 1007,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20235,
+      "word_number_in_surah": 1008,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20236,
+      "word_number_in_surah": 1009,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20237,
+      "word_number_in_surah": 1010,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20238,
+      "word_number_in_surah": 1011,
+      "word_surah": 7,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنصَحُ لَكُمۡ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "fullTranslation": "I convey to you the messages of my Lord and advise you; and I know from Allah what you do not know.",
+  "fullTransliteration": "uballighukum risalati rabbi wa-ansahu lakum wa-a'lamu mina al-lahi ma la ta'lamuna"
+}

@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "ayah": 140,
+    "surah": 3,
+    "words": 24,
+    "numberInQuran": 433,
+    "juz": 4,
+    "manzil": 1,
+    "page": 67,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 140,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8442,
+      "word_number_in_surah": 2297,
+      "word_surah": 3,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَمۡسَسۡكُمۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8443,
+      "word_number_in_surah": 2298,
+      "word_surah": 3,
+      "word_translation": "touched you",
+      "word_transliteration": "yamsaskum"
+    },
+    {
+      "word_arabic": "قَرۡحٞ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8444,
+      "word_number_in_surah": 2299,
+      "word_surah": 3,
+      "word_translation": "a wound",
+      "word_transliteration": "qarhun"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8445,
+      "word_number_in_surah": 2300,
+      "word_surah": 3,
+      "word_translation": "so certainly",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "مَسَّ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8446,
+      "word_number_in_surah": 2301,
+      "word_surah": 3,
+      "word_translation": "(has) touched",
+      "word_transliteration": "massa"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8447,
+      "word_number_in_surah": 2302,
+      "word_surah": 3,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawma"
+    },
+    {
+      "word_arabic": "قَرۡحٞ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8448,
+      "word_number_in_surah": 2303,
+      "word_surah": 3,
+      "word_translation": "wound",
+      "word_transliteration": "qarhun"
+    },
+    {
+      "word_arabic": "مِّثۡلُهُۥۚ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8449,
+      "word_number_in_surah": 2304,
+      "word_surah": 3,
+      "word_translation": "like it",
+      "word_transliteration": "mith'luhu"
+    },
+    {
+      "word_arabic": "وَتِلۡكَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8450,
+      "word_number_in_surah": 2305,
+      "word_surah": 3,
+      "word_translation": "And this",
+      "word_transliteration": "watil'ka"
+    },
+    {
+      "word_arabic": "ٱلۡأَيَّامُ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8451,
+      "word_number_in_surah": 2306,
+      "word_surah": 3,
+      "word_translation": "[the] days",
+      "word_transliteration": "al-ayamu"
+    },
+    {
+      "word_arabic": "نُدَاوِلُهَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8452,
+      "word_number_in_surah": 2307,
+      "word_surah": 3,
+      "word_translation": "We alternate them",
+      "word_transliteration": "nudawiluha"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8453,
+      "word_number_in_surah": 2308,
+      "word_surah": 3,
+      "word_translation": "among",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8454,
+      "word_number_in_surah": 2309,
+      "word_surah": 3,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "وَلِيَعۡلَمَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8455,
+      "word_number_in_surah": 2310,
+      "word_surah": 3,
+      "word_translation": "[and] so that makes evident",
+      "word_transliteration": "waliya'lama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8456,
+      "word_number_in_surah": 2311,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8457,
+      "word_number_in_surah": 2312,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8458,
+      "word_number_in_surah": 2313,
+      "word_surah": 3,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَيَتَّخِذَ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8459,
+      "word_number_in_surah": 2314,
+      "word_surah": 3,
+      "word_translation": "and take",
+      "word_transliteration": "wayattakhidha"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8460,
+      "word_number_in_surah": 2315,
+      "word_surah": 3,
+      "word_translation": "from you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "شُهَدَآءَۗ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8461,
+      "word_number_in_surah": 2316,
+      "word_surah": 3,
+      "word_translation": "martyrs",
+      "word_transliteration": "shuhadaa"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 140,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8462,
+      "word_number_in_surah": 2317,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8463,
+      "word_number_in_surah": 2318,
+      "word_surah": 3,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8464,
+      "word_number_in_surah": 2319,
+      "word_surah": 3,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 140,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 8465,
+      "word_number_in_surah": 2320,
+      "word_surah": 3,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "إِن يَمۡسَسۡكُمۡ قَرۡحٞ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحٞ مِّثۡلُهُۥۚ وَتِلۡكَ ٱلۡأَيَّامُ نُدَاوِلُهَا بَيۡنَ ٱلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَيَتَّخِذَ مِنكُمۡ شُهَدَآءَۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+  "fullTranslation": "If a wound should touch you - there has already touched the [opposing] people a wound similar to it. And these days [of varying conditions] We alternate among the people so that Allah may make evident those who believe and [may] take to Himself from among you martyrs - and Allah does not like the wrongdoers -",
+  "fullTransliteration": "in yamsaskum qarhun faqad massa al-qawma qarhun mith'luhu watil'ka al-ayamu nudawiluha bayna al-nasi waliya'lama al-lahu alladhina amanu wayattakhidha minkum shuhadaa wal-lahu la yuhibbu al-zalimina"
+}

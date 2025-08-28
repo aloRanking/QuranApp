@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "ayah": 203,
+    "surah": 7,
+    "words": 23,
+    "numberInQuran": 1157,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22490,
+      "word_number_in_surah": 3263,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22491,
+      "word_number_in_surah": 3264,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَأۡتِهِم",
+      "word_ayah": 203,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22492,
+      "word_number_in_surah": 3265,
+      "word_surah": 7,
+      "word_translation": "you bring them",
+      "word_transliteration": "tatihim"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَةٖ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22493,
+      "word_number_in_surah": 3266,
+      "word_surah": 7,
+      "word_translation": "a Sign",
+      "word_transliteration": "biayatin"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22494,
+      "word_number_in_surah": 3267,
+      "word_surah": 7,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "لَوۡلَا",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22495,
+      "word_number_in_surah": 3268,
+      "word_surah": 7,
+      "word_translation": "Why (have) not",
+      "word_transliteration": "lawla"
+    },
+    {
+      "word_arabic": "ٱجۡتَبَيۡتَهَاۚ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22496,
+      "word_number_in_surah": 3269,
+      "word_surah": 7,
+      "word_translation": "you devised it",
+      "word_transliteration": "ij'tabaytaha"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22497,
+      "word_number_in_surah": 3270,
+      "word_surah": 7,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّمَآ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22498,
+      "word_number_in_surah": 3271,
+      "word_surah": 7,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "أَتَّبِعُ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22499,
+      "word_number_in_surah": 3272,
+      "word_surah": 7,
+      "word_translation": "I follow",
+      "word_transliteration": "attabi'u"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22500,
+      "word_number_in_surah": 3273,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُوحَىٰٓ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22501,
+      "word_number_in_surah": 3274,
+      "word_surah": 7,
+      "word_translation": "is revealed",
+      "word_transliteration": "yuha"
+    },
+    {
+      "word_arabic": "إِلَيَّ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22502,
+      "word_number_in_surah": 3275,
+      "word_surah": 7,
+      "word_translation": "to me",
+      "word_transliteration": "ilayya"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 203,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22503,
+      "word_number_in_surah": 3276,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّيۚ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22504,
+      "word_number_in_surah": 3277,
+      "word_surah": 7,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22505,
+      "word_number_in_surah": 3278,
+      "word_surah": 7,
+      "word_translation": "This (is)",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "بَصَآئِرُ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22506,
+      "word_number_in_surah": 3279,
+      "word_surah": 7,
+      "word_translation": "enlightenment",
+      "word_transliteration": "basairu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 203,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22507,
+      "word_number_in_surah": 3280,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22508,
+      "word_number_in_surah": 3281,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "وَهُدٗى",
+      "word_ayah": 203,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22509,
+      "word_number_in_surah": 3282,
+      "word_surah": 7,
+      "word_translation": "and guidance",
+      "word_transliteration": "wahudan"
+    },
+    {
+      "word_arabic": "وَرَحۡمَةٞ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22510,
+      "word_number_in_surah": 3283,
+      "word_surah": 7,
+      "word_translation": "and mercy",
+      "word_transliteration": "warahmatun"
+    },
+    {
+      "word_arabic": "لِّقَوۡمٖ",
+      "word_ayah": 203,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22511,
+      "word_number_in_surah": 3284,
+      "word_surah": 7,
+      "word_translation": "for a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 203,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 22512,
+      "word_number_in_surah": 3285,
+      "word_surah": 7,
+      "word_translation": "who believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "وَإِذَا لَمۡ تَأۡتِهِم بِ‍َٔايَةٖ قَالُواْ لَوۡلَا ٱجۡتَبَيۡتَهَاۚ قُلۡ إِنَّمَآ أَتَّبِعُ مَا يُوحَىٰٓ إِلَيَّ مِن رَّبِّيۚ هَٰذَا بَصَآئِرُ مِن رَّبِّكُمۡ وَهُدٗى وَرَحۡمَةٞ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "fullTranslation": "And when you, [O Muhammad], do not bring them a sign, they say, \"Why have you not contrived it?\" Say, \"I only follow what is revealed to me from my Lord. This [Qur'an] is enlightenment from your Lord and guidance and mercy for a people who believe.\"",
+  "fullTransliteration": "wa-idha lam tatihim biayatin qalu lawla ij'tabaytaha qul innama attabi'u ma yuha ilayya min rabbi hadha basairu min rabbikum wahudan warahmatun liqawmin yu'minuna"
+}

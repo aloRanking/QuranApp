@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "ayah": 11,
+    "surah": 5,
+    "words": 23,
+    "numberInQuran": 680,
+    "juz": 6,
+    "manzil": 2,
+    "page": 109,
+    "ruku": 87,
+    "hizbQuarter": 43,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13707,
+      "word_number_in_surah": 334,
+      "word_surah": 5,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13708,
+      "word_number_in_surah": 335,
+      "word_surah": 5,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13709,
+      "word_number_in_surah": 336,
+      "word_surah": 5,
+      "word_translation": "believe!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱذۡكُرُواْ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13710,
+      "word_number_in_surah": 337,
+      "word_surah": 5,
+      "word_translation": "Remember",
+      "word_transliteration": "udh'kuru"
+    },
+    {
+      "word_arabic": "نِعۡمَتَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13711,
+      "word_number_in_surah": 338,
+      "word_surah": 5,
+      "word_translation": "(the) Favor",
+      "word_transliteration": "ni'mata"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13712,
+      "word_number_in_surah": 339,
+      "word_surah": 5,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13713,
+      "word_number_in_surah": 340,
+      "word_surah": 5,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13714,
+      "word_number_in_surah": 341,
+      "word_surah": 5,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "هَمَّ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13715,
+      "word_number_in_surah": 342,
+      "word_surah": 5,
+      "word_translation": "(were) determined",
+      "word_transliteration": "hamma"
+    },
+    {
+      "word_arabic": "قَوۡمٌ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13716,
+      "word_number_in_surah": 343,
+      "word_surah": 5,
+      "word_translation": "a people",
+      "word_transliteration": "qawmun"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 11,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13717,
+      "word_number_in_surah": 344,
+      "word_surah": 5,
+      "word_translation": "[to]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَبۡسُطُوٓاْ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13718,
+      "word_number_in_surah": 345,
+      "word_surah": 5,
+      "word_translation": "stretch",
+      "word_transliteration": "yabsutu"
+    },
+    {
+      "word_arabic": "إِلَيۡكُمۡ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13719,
+      "word_number_in_surah": 346,
+      "word_surah": 5,
+      "word_translation": "towards you",
+      "word_transliteration": "ilaykum"
+    },
+    {
+      "word_arabic": "أَيۡدِيَهُمۡ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13720,
+      "word_number_in_surah": 347,
+      "word_surah": 5,
+      "word_translation": "their hands",
+      "word_transliteration": "aydiyahum"
+    },
+    {
+      "word_arabic": "فَكَفَّ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13721,
+      "word_number_in_surah": 348,
+      "word_surah": 5,
+      "word_translation": "but He restrained",
+      "word_transliteration": "fakaffa"
+    },
+    {
+      "word_arabic": "أَيۡدِيَهُمۡ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13722,
+      "word_number_in_surah": 349,
+      "word_surah": 5,
+      "word_translation": "their hands",
+      "word_transliteration": "aydiyahum"
+    },
+    {
+      "word_arabic": "عَنكُمۡۖ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13723,
+      "word_number_in_surah": 350,
+      "word_surah": 5,
+      "word_translation": "from you",
+      "word_transliteration": "ankum"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13724,
+      "word_number_in_surah": 351,
+      "word_surah": 5,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَۚ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13725,
+      "word_number_in_surah": 352,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَعَلَى",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13726,
+      "word_number_in_surah": 353,
+      "word_surah": 5,
+      "word_translation": "And upon",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13727,
+      "word_number_in_surah": 354,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَلۡيَتَوَكَّلِ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13728,
+      "word_number_in_surah": 355,
+      "word_surah": 5,
+      "word_translation": "so let put the trust",
+      "word_transliteration": "falyatawakkali"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنُونَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13729,
+      "word_number_in_surah": 356,
+      "word_surah": 5,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ هَمَّ قَوۡمٌ أَن يَبۡسُطُوٓاْ إِلَيۡكُمۡ أَيۡدِيَهُمۡ فَكَفَّ أَيۡدِيَهُمۡ عَنكُمۡۖ وَٱتَّقُواْ ٱللَّهَۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+  "fullTranslation": "O you who have believed, remember the favor of Allah upon you when a people determined to extend their hands [in aggression] against you, but He withheld their hands from you; and fear Allah. And upon Allah let the believers rely.",
+  "fullTransliteration": "yaayyuha alladhina amanu udh'kuru ni'mata al-lahi alaykum idh hamma qawmun an yabsutu ilaykum aydiyahum fakaffa aydiyahum ankum wa-ittaqu al-laha wa'ala al-lahi falyatawakkali al-mu'minuna"
+}

@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "ayah": 74,
+    "surah": 4,
+    "words": 21,
+    "numberInQuran": 567,
+    "juz": 5,
+    "manzil": 1,
+    "page": 89,
+    "ruku": 71,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞فَلۡيُقَٰتِلۡ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11210,
+      "word_number_in_surah": 1584,
+      "word_surah": 4,
+      "word_translation": "So let fight",
+      "word_transliteration": "falyuqatil"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11211,
+      "word_number_in_surah": 1585,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11212,
+      "word_number_in_surah": 1586,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11213,
+      "word_number_in_surah": 1587,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11214,
+      "word_number_in_surah": 1588,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَشۡرُونَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11215,
+      "word_number_in_surah": 1589,
+      "word_surah": 4,
+      "word_translation": "sell",
+      "word_transliteration": "yashruna"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةَ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11216,
+      "word_number_in_surah": 1590,
+      "word_surah": 4,
+      "word_translation": "the life",
+      "word_transliteration": "al-hayata"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11217,
+      "word_number_in_surah": 1591,
+      "word_surah": 4,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "بِٱلۡأٓخِرَةِۚ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11218,
+      "word_number_in_surah": 1592,
+      "word_surah": 4,
+      "word_translation": "for the Hereafter",
+      "word_transliteration": "bil-akhirati"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 74,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11219,
+      "word_number_in_surah": 1593,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُقَٰتِلۡ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11220,
+      "word_number_in_surah": 1594,
+      "word_surah": 4,
+      "word_translation": "fights",
+      "word_transliteration": "yuqatil"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11221,
+      "word_number_in_surah": 1595,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11222,
+      "word_number_in_surah": 1596,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11223,
+      "word_number_in_surah": 1597,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَيُقۡتَلۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11224,
+      "word_number_in_surah": 1598,
+      "word_surah": 4,
+      "word_translation": "then he is killed",
+      "word_transliteration": "fayuq'tal"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11225,
+      "word_number_in_surah": 1599,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَغۡلِبۡ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11226,
+      "word_number_in_surah": 1600,
+      "word_surah": 4,
+      "word_translation": "achieves victory",
+      "word_transliteration": "yaghlib"
+    },
+    {
+      "word_arabic": "فَسَوۡفَ",
+      "word_ayah": 74,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11227,
+      "word_number_in_surah": 1601,
+      "word_surah": 4,
+      "word_translation": "then soon",
+      "word_transliteration": "fasawfa"
+    },
+    {
+      "word_arabic": "نُؤۡتِيهِ",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11228,
+      "word_number_in_surah": 1602,
+      "word_surah": 4,
+      "word_translation": "We will grant him",
+      "word_transliteration": "nu'tihi"
+    },
+    {
+      "word_arabic": "أَجۡرًا",
+      "word_ayah": 74,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11229,
+      "word_number_in_surah": 1603,
+      "word_surah": 4,
+      "word_translation": "a reward",
+      "word_transliteration": "ajran"
+    },
+    {
+      "word_arabic": "عَظِيمٗا",
+      "word_ayah": 74,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11230,
+      "word_number_in_surah": 1604,
+      "word_surah": 4,
+      "word_translation": "a great",
+      "word_transliteration": "aziman"
+    }
+  ],
+  "fullArabic": "۞فَلۡيُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشۡرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۚ وَمَن يُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ فَيُقۡتَلۡ أَوۡ يَغۡلِبۡ فَسَوۡفَ نُؤۡتِيهِ أَجۡرًا عَظِيمٗا",
+  "fullTranslation": "So let those fight in the cause of Allah who sell the life of this world for the Hereafter. And he who fights in the cause of Allah and is killed or achieves victory - We will bestow upon him a great reward.",
+  "fullTransliteration": "falyuqatil fi sabili al-lahi alladhina yashruna al-hayata al-dun'ya bil-akhirati waman yuqatil fi sabili al-lahi fayuq'tal aw yaghlib fasawfa nu'tihi ajran aziman"
+}

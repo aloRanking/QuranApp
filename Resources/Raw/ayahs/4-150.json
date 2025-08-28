@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "ayah": 150,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 643,
+    "juz": 6,
+    "manzil": 1,
+    "page": 102,
+    "ruku": 82,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12836,
+      "word_number_in_surah": 3210,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12837,
+      "word_number_in_surah": 3211,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَكۡفُرُونَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12838,
+      "word_number_in_surah": 3212,
+      "word_surah": 4,
+      "word_translation": "disbelieve",
+      "word_transliteration": "yakfuruna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12839,
+      "word_number_in_surah": 3213,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَرُسُلِهِۦ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12840,
+      "word_number_in_surah": 3214,
+      "word_surah": 4,
+      "word_translation": "and His Messengers",
+      "word_transliteration": "warusulihi"
+    },
+    {
+      "word_arabic": "وَيُرِيدُونَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12841,
+      "word_number_in_surah": 3215,
+      "word_surah": 4,
+      "word_translation": "and they wish",
+      "word_transliteration": "wayuriduna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 150,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12842,
+      "word_number_in_surah": 3216,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُفَرِّقُواْ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12843,
+      "word_number_in_surah": 3217,
+      "word_surah": 4,
+      "word_translation": "they differentiate",
+      "word_transliteration": "yufarriqu"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12844,
+      "word_number_in_surah": 3218,
+      "word_surah": 4,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12845,
+      "word_number_in_surah": 3219,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَرُسُلِهِۦ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12846,
+      "word_number_in_surah": 3220,
+      "word_surah": 4,
+      "word_translation": "and His Messengers",
+      "word_transliteration": "warusulihi"
+    },
+    {
+      "word_arabic": "وَيَقُولُونَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12847,
+      "word_number_in_surah": 3221,
+      "word_surah": 4,
+      "word_translation": "and they say",
+      "word_transliteration": "wayaquluna"
+    },
+    {
+      "word_arabic": "نُؤۡمِنُ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12848,
+      "word_number_in_surah": 3222,
+      "word_surah": 4,
+      "word_translation": "We believe",
+      "word_transliteration": "nu'minu"
+    },
+    {
+      "word_arabic": "بِبَعۡضٖ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12849,
+      "word_number_in_surah": 3223,
+      "word_surah": 4,
+      "word_translation": "in some",
+      "word_transliteration": "biba'din"
+    },
+    {
+      "word_arabic": "وَنَكۡفُرُ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12850,
+      "word_number_in_surah": 3224,
+      "word_surah": 4,
+      "word_translation": "and we disbelieve",
+      "word_transliteration": "wanakfuru"
+    },
+    {
+      "word_arabic": "بِبَعۡضٖ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12851,
+      "word_number_in_surah": 3225,
+      "word_surah": 4,
+      "word_translation": "in others",
+      "word_transliteration": "biba'din"
+    },
+    {
+      "word_arabic": "وَيُرِيدُونَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12852,
+      "word_number_in_surah": 3226,
+      "word_surah": 4,
+      "word_translation": "And they wish",
+      "word_transliteration": "wayuriduna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 150,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12853,
+      "word_number_in_surah": 3227,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَتَّخِذُواْ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12854,
+      "word_number_in_surah": 3228,
+      "word_surah": 4,
+      "word_translation": "they take",
+      "word_transliteration": "yattakhidhu"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12855,
+      "word_number_in_surah": 3229,
+      "word_surah": 4,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12856,
+      "word_number_in_surah": 3230,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "سَبِيلًا",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12857,
+      "word_number_in_surah": 3231,
+      "word_surah": 4,
+      "word_translation": "a way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا",
+  "fullTranslation": "Indeed, those who disbelieve in Allah and His messengers and wish to discriminate between Allah and His messengers and say, \"We believe in some and disbelieve in others,\" and wish to adopt a way in between -",
+  "fullTransliteration": "inna alladhina yakfuruna bil-lahi warusulihi wayuriduna an yufarriqu bayna al-lahi warusulihi wayaquluna nu'minu biba'din wanakfuru biba'din wayuriduna an yattakhidhu bayna dhalika sabilan"
+}

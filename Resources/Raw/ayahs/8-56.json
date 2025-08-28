@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "ayah": 56,
+    "surah": 8,
+    "words": 12,
+    "numberInQuran": 1216,
+    "juz": 10,
+    "manzil": 2,
+    "page": 184,
+    "ruku": 152,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23425,
+      "word_number_in_surah": 878,
+      "word_surah": 8,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "عَٰهَدتَّ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23426,
+      "word_number_in_surah": 879,
+      "word_surah": 8,
+      "word_translation": "you made a covenant",
+      "word_transliteration": "ahadtta"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23427,
+      "word_number_in_surah": 880,
+      "word_surah": 8,
+      "word_translation": "with them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23428,
+      "word_number_in_surah": 881,
+      "word_surah": 8,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يَنقُضُونَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23429,
+      "word_number_in_surah": 882,
+      "word_surah": 8,
+      "word_translation": "they break",
+      "word_transliteration": "yanquduna"
+    },
+    {
+      "word_arabic": "عَهۡدَهُمۡ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23430,
+      "word_number_in_surah": 883,
+      "word_surah": 8,
+      "word_translation": "their covenant",
+      "word_transliteration": "ahdahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23431,
+      "word_number_in_surah": 884,
+      "word_surah": 8,
+      "word_translation": "[in]",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23432,
+      "word_number_in_surah": 885,
+      "word_surah": 8,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "مَرَّةٖ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23433,
+      "word_number_in_surah": 886,
+      "word_surah": 8,
+      "word_translation": "time",
+      "word_transliteration": "marratin"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23434,
+      "word_number_in_surah": 887,
+      "word_surah": 8,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23435,
+      "word_number_in_surah": 888,
+      "word_surah": 8,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَتَّقُونَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23436,
+      "word_number_in_surah": 889,
+      "word_surah": 8,
+      "word_translation": "fear (Allah)",
+      "word_transliteration": "yattaquna"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ عَٰهَدتَّ مِنۡهُمۡ ثُمَّ يَنقُضُونَ عَهۡدَهُمۡ فِي كُلِّ مَرَّةٖ وَهُمۡ لَا يَتَّقُونَ",
+  "fullTranslation": "The ones with whom you made a treaty but then they break their pledge every time, and they do not fear Allah.",
+  "fullTransliteration": "alladhina ahadtta min'hum thumma yanquduna ahdahum fi kulli marratin wahum la yattaquna"
+}

@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 52,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 545,
+    "juz": 5,
+    "manzil": 1,
+    "page": 87,
+    "ruku": 69,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10842,
+      "word_number_in_surah": 1216,
+      "word_surah": 4,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10843,
+      "word_number_in_surah": 1217,
+      "word_surah": 4,
+      "word_translation": "(are) the ones",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "لَعَنَهُمُ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10844,
+      "word_number_in_surah": 1218,
+      "word_surah": 4,
+      "word_translation": "(who have been) cursed",
+      "word_transliteration": "la'anahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُۖ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10845,
+      "word_number_in_surah": 1219,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 52,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10846,
+      "word_number_in_surah": 1220,
+      "word_surah": 4,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَلۡعَنِ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10847,
+      "word_number_in_surah": 1221,
+      "word_surah": 4,
+      "word_translation": "(is) cursed",
+      "word_transliteration": "yal'ani"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10848,
+      "word_number_in_surah": 1222,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَلَن",
+      "word_ayah": 52,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10849,
+      "word_number_in_surah": 1223,
+      "word_surah": 4,
+      "word_translation": "then never",
+      "word_transliteration": "falan"
+    },
+    {
+      "word_arabic": "تَجِدَ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10850,
+      "word_number_in_surah": 1224,
+      "word_surah": 4,
+      "word_translation": "will you find",
+      "word_transliteration": "tajida"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10851,
+      "word_number_in_surah": 1225,
+      "word_surah": 4,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "نَصِيرًا",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10852,
+      "word_number_in_surah": 1226,
+      "word_surah": 4,
+      "word_translation": "(any) helper",
+      "word_transliteration": "nasiran"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُۖ وَمَن يَلۡعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+  "fullTranslation": "Those are the ones whom Allah has cursed; and he whom Allah curses - never will you find for him a helper.",
+  "fullTransliteration": "ulaika alladhina la'anahumu al-lahu waman yal'ani al-lahu falan tajida lahu nasiran"
+}

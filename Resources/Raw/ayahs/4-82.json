@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 82,
+    "surah": 4,
+    "words": 13,
+    "numberInQuran": 575,
+    "juz": 5,
+    "manzil": 1,
+    "page": 91,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَفَلَا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11420,
+      "word_number_in_surah": 1794,
+      "word_surah": 4,
+      "word_translation": "Then (do) not",
+      "word_transliteration": "afala"
+    },
+    {
+      "word_arabic": "يَتَدَبَّرُونَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11421,
+      "word_number_in_surah": 1795,
+      "word_surah": 4,
+      "word_translation": "they ponder",
+      "word_transliteration": "yatadabbaruna"
+    },
+    {
+      "word_arabic": "ٱلۡقُرۡءَانَۚ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11422,
+      "word_number_in_surah": 1796,
+      "word_surah": 4,
+      "word_translation": "(on) the Quran",
+      "word_transliteration": "al-qur'ana"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11423,
+      "word_number_in_surah": 1797,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11424,
+      "word_number_in_surah": 1798,
+      "word_surah": 4,
+      "word_translation": "it had (been)",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11425,
+      "word_number_in_surah": 1799,
+      "word_surah": 4,
+      "word_translation": "(of)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11426,
+      "word_number_in_surah": 1800,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "غَيۡرِ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11427,
+      "word_number_in_surah": 1801,
+      "word_surah": 4,
+      "word_translation": "other than",
+      "word_transliteration": "ghayri"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11428,
+      "word_number_in_surah": 1802,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "لَوَجَدُواْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11429,
+      "word_number_in_surah": 1803,
+      "word_surah": 4,
+      "word_translation": "surely they (would have) found",
+      "word_transliteration": "lawajadu"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11430,
+      "word_number_in_surah": 1804,
+      "word_surah": 4,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "ٱخۡتِلَٰفٗا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11431,
+      "word_number_in_surah": 1805,
+      "word_surah": 4,
+      "word_translation": "contradiction",
+      "word_transliteration": "ikh'tilafan"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11432,
+      "word_number_in_surah": 1806,
+      "word_surah": 4,
+      "word_translation": "much",
+      "word_transliteration": "kathiran"
+    }
+  ],
+  "fullArabic": "أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَۚ وَلَوۡ كَانَ مِنۡ عِندِ غَيۡرِ ٱللَّهِ لَوَجَدُواْ فِيهِ ٱخۡتِلَٰفٗا كَثِيرٗا",
+  "fullTranslation": "Then do they not reflect upon the Qur'an? If it had been from [any] other than Allah, they would have found within it much contradiction.",
+  "fullTransliteration": "afala yatadabbaruna al-qur'ana walaw kana min indi ghayri al-lahi lawajadu fihi ikh'tilafan kathiran"
+}

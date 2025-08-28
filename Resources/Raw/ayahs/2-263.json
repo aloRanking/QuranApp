@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "ayah": 263,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 270,
+    "juz": 3,
+    "manzil": 1,
+    "page": 44,
+    "ruku": 37,
+    "hizbQuarter": 18,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞قَوۡلٞ",
+      "word_ayah": 263,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5469,
+      "word_number_in_surah": 5440,
+      "word_surah": 2,
+      "word_translation": "A word",
+      "word_transliteration": "qawlun"
+    },
+    {
+      "word_arabic": "مَّعۡرُوفٞ",
+      "word_ayah": 263,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5470,
+      "word_number_in_surah": 5441,
+      "word_surah": 2,
+      "word_translation": "kind",
+      "word_transliteration": "ma'rufun"
+    },
+    {
+      "word_arabic": "وَمَغۡفِرَةٌ",
+      "word_ayah": 263,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5471,
+      "word_number_in_surah": 5442,
+      "word_surah": 2,
+      "word_translation": "and (seeking) forgiveness",
+      "word_transliteration": "wamaghfiratun"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 263,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5472,
+      "word_number_in_surah": 5443,
+      "word_surah": 2,
+      "word_translation": "(are) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 263,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5473,
+      "word_number_in_surah": 5444,
+      "word_surah": 2,
+      "word_translation": "than",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "صَدَقَةٖ",
+      "word_ayah": 263,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5474,
+      "word_number_in_surah": 5445,
+      "word_surah": 2,
+      "word_translation": "a charity",
+      "word_transliteration": "sadaqatin"
+    },
+    {
+      "word_arabic": "يَتۡبَعُهَآ",
+      "word_ayah": 263,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5475,
+      "word_number_in_surah": 5446,
+      "word_surah": 2,
+      "word_translation": "followed [it]",
+      "word_transliteration": "yatba'uha"
+    },
+    {
+      "word_arabic": "أَذٗىۗ",
+      "word_ayah": 263,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5476,
+      "word_number_in_surah": 5447,
+      "word_surah": 2,
+      "word_translation": "(by) hurt",
+      "word_transliteration": "adhan"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 263,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5477,
+      "word_number_in_surah": 5448,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "غَنِيٌّ",
+      "word_ayah": 263,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5478,
+      "word_number_in_surah": 5449,
+      "word_surah": 2,
+      "word_translation": "(is) All-Sufficient",
+      "word_transliteration": "ghaniyyun"
+    },
+    {
+      "word_arabic": "حَلِيمٞ",
+      "word_ayah": 263,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5479,
+      "word_number_in_surah": 5450,
+      "word_surah": 2,
+      "word_translation": "All-Forbearing",
+      "word_transliteration": "halimun"
+    }
+  ],
+  "fullArabic": "۞قَوۡلٞ مَّعۡرُوفٞ وَمَغۡفِرَةٌ خَيۡرٞ مِّن صَدَقَةٖ يَتۡبَعُهَآ أَذٗىۗ وَٱللَّهُ غَنِيٌّ حَلِيمٞ",
+  "fullTranslation": "Kind speech and forgiveness are better than charity followed by injury. And Allah is Free of need and Forbearing.",
+  "fullTransliteration": "qawlun ma'rufun wamaghfiratun khayrun min sadaqatin yatba'uha adhan wal-lahu ghaniyyun halimun"
+}

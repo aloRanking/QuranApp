@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "ayah": 170,
+    "surah": 2,
+    "words": 22,
+    "numberInQuran": 177,
+    "juz": 2,
+    "manzil": 1,
+    "page": 26,
+    "ruku": 22,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3042,
+      "word_number_in_surah": 3013,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "قِيلَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3043,
+      "word_number_in_surah": 3014,
+      "word_surah": 2,
+      "word_translation": "it is said",
+      "word_transliteration": "qila"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3044,
+      "word_number_in_surah": 3015,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱتَّبِعُواْ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3045,
+      "word_number_in_surah": 3016,
+      "word_surah": 2,
+      "word_translation": "Follow",
+      "word_transliteration": "ittabi'u"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3046,
+      "word_number_in_surah": 3017,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3047,
+      "word_number_in_surah": 3018,
+      "word_surah": 2,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3048,
+      "word_number_in_surah": 3019,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3049,
+      "word_number_in_surah": 3020,
+      "word_surah": 2,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3050,
+      "word_number_in_surah": 3021,
+      "word_surah": 2,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "نَتَّبِعُ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3051,
+      "word_number_in_surah": 3022,
+      "word_surah": 2,
+      "word_translation": "we follow",
+      "word_transliteration": "nattabi'u"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3052,
+      "word_number_in_surah": 3023,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَلۡفَيۡنَا",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3053,
+      "word_number_in_surah": 3024,
+      "word_surah": 2,
+      "word_translation": "we found",
+      "word_transliteration": "alfayna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3054,
+      "word_number_in_surah": 3025,
+      "word_surah": 2,
+      "word_translation": "[on it]",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "ءَابَآءَنَآۚ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3055,
+      "word_number_in_surah": 3026,
+      "word_surah": 2,
+      "word_translation": "our forefathers (following)",
+      "word_transliteration": "abaana"
+    },
+    {
+      "word_arabic": "أَوَلَوۡ",
+      "word_ayah": 170,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3056,
+      "word_number_in_surah": 3027,
+      "word_surah": 2,
+      "word_translation": "Even though",
+      "word_transliteration": "awalaw"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3057,
+      "word_number_in_surah": 3028,
+      "word_surah": 2,
+      "word_translation": "[were]",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "ءَابَآؤُهُمۡ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3058,
+      "word_number_in_surah": 3029,
+      "word_surah": 2,
+      "word_translation": "their forefathers",
+      "word_transliteration": "abauhum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3059,
+      "word_number_in_surah": 3030,
+      "word_surah": 2,
+      "word_translation": "(did) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡقِلُونَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3060,
+      "word_number_in_surah": 3031,
+      "word_surah": 2,
+      "word_translation": "understand",
+      "word_transliteration": "ya'qiluna"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗا",
+      "word_ayah": 170,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3061,
+      "word_number_in_surah": 3032,
+      "word_surah": 2,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3062,
+      "word_number_in_surah": 3033,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَهۡتَدُونَ",
+      "word_ayah": 170,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3063,
+      "word_number_in_surah": 3034,
+      "word_surah": 2,
+      "word_translation": "were they guided",
+      "word_transliteration": "yahtaduna"
+    }
+  ],
+  "fullArabic": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُواْ مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلۡ نَتَّبِعُ مَآ أَلۡفَيۡنَا عَلَيۡهِ ءَابَآءَنَآۚ أَوَلَوۡ كَانَ ءَابَآؤُهُمۡ لَا يَعۡقِلُونَ شَيۡ‍ٔٗا وَلَا يَهۡتَدُونَ",
+  "fullTranslation": "And when it is said to them, \"Follow what Allah has revealed,\" they say, \"Rather, we will follow that which we found our fathers doing.\" Even though their fathers understood nothing, nor were they guided?",
+  "fullTransliteration": "wa-idha qila lahumu ittabi'u ma anzala al-lahu qalu bal nattabi'u ma alfayna alayhi abaana awalaw kana abauhum la ya'qiluna shayan wala yahtaduna"
+}

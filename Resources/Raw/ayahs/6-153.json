@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 153,
+    "surah": 6,
+    "words": 17,
+    "numberInQuran": 942,
+    "juz": 8,
+    "manzil": 2,
+    "page": 149,
+    "ruku": 120,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18982,
+      "word_number_in_surah": 2805,
+      "word_surah": 6,
+      "word_translation": "And that",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18983,
+      "word_number_in_surah": 2806,
+      "word_surah": 6,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "صِرَٰطِي",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18984,
+      "word_number_in_surah": 2807,
+      "word_surah": 6,
+      "word_translation": "(is) My path",
+      "word_transliteration": "sirati"
+    },
+    {
+      "word_arabic": "مُسۡتَقِيمٗا",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18985,
+      "word_number_in_surah": 2808,
+      "word_surah": 6,
+      "word_translation": "straight",
+      "word_transliteration": "mus'taqiman"
+    },
+    {
+      "word_arabic": "فَٱتَّبِعُوهُۖ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18986,
+      "word_number_in_surah": 2809,
+      "word_surah": 6,
+      "word_translation": "so follow it",
+      "word_transliteration": "fa-ittabi'uhu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18987,
+      "word_number_in_surah": 2810,
+      "word_surah": 6,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعُواْ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18988,
+      "word_number_in_surah": 2811,
+      "word_surah": 6,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'u"
+    },
+    {
+      "word_arabic": "ٱلسُّبُلَ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18989,
+      "word_number_in_surah": 2812,
+      "word_surah": 6,
+      "word_translation": "the (other) paths",
+      "word_transliteration": "al-subula"
+    },
+    {
+      "word_arabic": "فَتَفَرَّقَ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18990,
+      "word_number_in_surah": 2813,
+      "word_surah": 6,
+      "word_translation": "then they will separate",
+      "word_transliteration": "fatafarraqa"
+    },
+    {
+      "word_arabic": "بِكُمۡ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18991,
+      "word_number_in_surah": 2814,
+      "word_surah": 6,
+      "word_translation": "you",
+      "word_transliteration": "bikum"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18992,
+      "word_number_in_surah": 2815,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِهِۦۚ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18993,
+      "word_number_in_surah": 2816,
+      "word_surah": 6,
+      "word_translation": "His path",
+      "word_transliteration": "sabilihi"
+    },
+    {
+      "word_arabic": "ذَٰلِكُمۡ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18994,
+      "word_number_in_surah": 2817,
+      "word_surah": 6,
+      "word_translation": "That",
+      "word_transliteration": "dhalikum"
+    },
+    {
+      "word_arabic": "وَصَّىٰكُم",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18995,
+      "word_number_in_surah": 2818,
+      "word_surah": 6,
+      "word_translation": "(He) has enjoined on you",
+      "word_transliteration": "wassakum"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18996,
+      "word_number_in_surah": 2819,
+      "word_surah": 6,
+      "word_translation": "[with it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18997,
+      "word_number_in_surah": 2820,
+      "word_surah": 6,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَتَّقُونَ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18998,
+      "word_number_in_surah": 2821,
+      "word_surah": 6,
+      "word_translation": "become righteous",
+      "word_transliteration": "tattaquna"
+    }
+  ],
+  "fullArabic": "وَأَنَّ هَٰذَا صِرَٰطِي مُسۡتَقِيمٗا فَٱتَّبِعُوهُۖ وَلَا تَتَّبِعُواْ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمۡ عَن سَبِيلِهِۦۚ ذَٰلِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ تَتَّقُونَ",
+  "fullTranslation": "And, [moreover], this is My path, which is straight, so follow it; and do not follow [other] ways, for you will be separated from His way. This has He instructed you that you may become righteous.",
+  "fullTransliteration": "wa-anna hadha sirati mus'taqiman fa-ittabi'uhu wala tattabi'u al-subula fatafarraqa bikum an sabilihi dhalikum wassakum bihi la'allakum tattaquna"
+}

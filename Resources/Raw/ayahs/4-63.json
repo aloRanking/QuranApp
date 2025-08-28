@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "ayah": 63,
+    "surah": 4,
+    "words": 16,
+    "numberInQuran": 556,
+    "juz": 5,
+    "manzil": 1,
+    "page": 88,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11046,
+      "word_number_in_surah": 1420,
+      "word_surah": 4,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11047,
+      "word_number_in_surah": 1421,
+      "word_surah": 4,
+      "word_translation": "(are) the ones who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَعۡلَمُ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11048,
+      "word_number_in_surah": 1422,
+      "word_surah": 4,
+      "word_translation": "knows",
+      "word_transliteration": "ya'lamu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11049,
+      "word_number_in_surah": 1423,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11050,
+      "word_number_in_surah": 1424,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11051,
+      "word_number_in_surah": 1425,
+      "word_surah": 4,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قُلُوبِهِمۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11052,
+      "word_number_in_surah": 1426,
+      "word_surah": 4,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "فَأَعۡرِضۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11053,
+      "word_number_in_surah": 1427,
+      "word_surah": 4,
+      "word_translation": "so turn away",
+      "word_transliteration": "fa-a'rid"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11054,
+      "word_number_in_surah": 1428,
+      "word_surah": 4,
+      "word_translation": "from them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "وَعِظۡهُمۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11055,
+      "word_number_in_surah": 1429,
+      "word_surah": 4,
+      "word_translation": "and admonish them",
+      "word_transliteration": "wa'iz'hum"
+    },
+    {
+      "word_arabic": "وَقُل",
+      "word_ayah": 63,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11056,
+      "word_number_in_surah": 1430,
+      "word_surah": 4,
+      "word_translation": "and say",
+      "word_transliteration": "waqul"
+    },
+    {
+      "word_arabic": "لَّهُمۡ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11057,
+      "word_number_in_surah": 1431,
+      "word_surah": 4,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11058,
+      "word_number_in_surah": 1432,
+      "word_surah": 4,
+      "word_translation": "concerning",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11059,
+      "word_number_in_surah": 1433,
+      "word_surah": 4,
+      "word_translation": "their souls",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "قَوۡلَۢا",
+      "word_ayah": 63,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11060,
+      "word_number_in_surah": 1434,
+      "word_surah": 4,
+      "word_translation": "a word",
+      "word_transliteration": "qawlan"
+    },
+    {
+      "word_arabic": "بَلِيغٗا",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11061,
+      "word_number_in_surah": 1435,
+      "word_surah": 4,
+      "word_translation": "penetrating",
+      "word_transliteration": "balighan"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ ٱلَّذِينَ يَعۡلَمُ ٱللَّهُ مَا فِي قُلُوبِهِمۡ فَأَعۡرِضۡ عَنۡهُمۡ وَعِظۡهُمۡ وَقُل لَّهُمۡ فِيٓ أَنفُسِهِمۡ قَوۡلَۢا بَلِيغٗا",
+  "fullTranslation": "Those are the ones of whom Allah knows what is in their hearts, so turn away from them but admonish them and speak to them a far-reaching word.",
+  "fullTransliteration": "ulaika alladhina ya'lamu al-lahu ma fi qulubihim fa-a'rid anhum wa'iz'hum waqul lahum fi anfusihim qawlan balighan"
+}

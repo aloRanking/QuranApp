@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "ayah": 35,
+    "surah": 3,
+    "words": 18,
+    "numberInQuran": 328,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6727,
+      "word_number_in_surah": 582,
+      "word_surah": 3,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "قَالَتِ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6728,
+      "word_number_in_surah": 583,
+      "word_surah": 3,
+      "word_translation": "[she] said",
+      "word_transliteration": "qalati"
+    },
+    {
+      "word_arabic": "ٱمۡرَأَتُ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6729,
+      "word_number_in_surah": 584,
+      "word_surah": 3,
+      "word_translation": "(the) wife",
+      "word_transliteration": "im'ra-atu"
+    },
+    {
+      "word_arabic": "عِمۡرَٰنَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6730,
+      "word_number_in_surah": 585,
+      "word_surah": 3,
+      "word_translation": "(of) Imran",
+      "word_transliteration": "im'rana"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6731,
+      "word_number_in_surah": 586,
+      "word_surah": 3,
+      "word_translation": "My Lord!",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6732,
+      "word_number_in_surah": 587,
+      "word_surah": 3,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "نَذَرۡتُ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6733,
+      "word_number_in_surah": 588,
+      "word_surah": 3,
+      "word_translation": "[I] vowed",
+      "word_transliteration": "nadhartu"
+    },
+    {
+      "word_arabic": "لَكَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6734,
+      "word_number_in_surah": 589,
+      "word_surah": 3,
+      "word_translation": "to You",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6735,
+      "word_number_in_surah": 590,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6736,
+      "word_number_in_surah": 591,
+      "word_surah": 3,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "بَطۡنِي",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6737,
+      "word_number_in_surah": 592,
+      "word_surah": 3,
+      "word_translation": "my womb",
+      "word_transliteration": "batni"
+    },
+    {
+      "word_arabic": "مُحَرَّرٗا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6738,
+      "word_number_in_surah": 593,
+      "word_surah": 3,
+      "word_translation": "dedicated",
+      "word_transliteration": "muharraran"
+    },
+    {
+      "word_arabic": "فَتَقَبَّلۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6739,
+      "word_number_in_surah": 594,
+      "word_surah": 3,
+      "word_translation": "so accept",
+      "word_transliteration": "fataqabbal"
+    },
+    {
+      "word_arabic": "مِنِّيٓۖ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6740,
+      "word_number_in_surah": 595,
+      "word_surah": 3,
+      "word_translation": "from me",
+      "word_transliteration": "minni"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6741,
+      "word_number_in_surah": 596,
+      "word_surah": 3,
+      "word_translation": "Indeed You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6742,
+      "word_number_in_surah": 597,
+      "word_surah": 3,
+      "word_translation": "You",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "ٱلسَّمِيعُ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6743,
+      "word_number_in_surah": 598,
+      "word_surah": 3,
+      "word_translation": "(are) the All-Hearing",
+      "word_transliteration": "al-sami'u"
+    },
+    {
+      "word_arabic": "ٱلۡعَلِيمُ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6744,
+      "word_number_in_surah": 599,
+      "word_surah": 3,
+      "word_translation": "the All-Knowing",
+      "word_transliteration": "al-'alimu"
+    }
+  ],
+  "fullArabic": "إِذۡ قَالَتِ ٱمۡرَأَتُ عِمۡرَٰنَ رَبِّ إِنِّي نَذَرۡتُ لَكَ مَا فِي بَطۡنِي مُحَرَّرٗا فَتَقَبَّلۡ مِنِّيٓۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "fullTranslation": "[Mention, O Muhammad], when the wife of 'Imran said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\"",
+  "fullTransliteration": "idh qalati im'ra-atu im'rana rabbi inni nadhartu laka ma fi batni muharraran fataqabbal minni innaka anta al-sami'u al-'alimu"
+}

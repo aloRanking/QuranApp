@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "ayah": 48,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 541,
+    "juz": 5,
+    "manzil": 1,
+    "page": 86,
+    "ruku": 68,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10778,
+      "word_number_in_surah": 1152,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10779,
+      "word_number_in_surah": 1153,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10780,
+      "word_number_in_surah": 1154,
+      "word_surah": 4,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَغۡفِرُ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10781,
+      "word_number_in_surah": 1155,
+      "word_surah": 4,
+      "word_translation": "forgive",
+      "word_transliteration": "yaghfiru"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 48,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10782,
+      "word_number_in_surah": 1156,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُشۡرَكَ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10783,
+      "word_number_in_surah": 1157,
+      "word_surah": 4,
+      "word_translation": "partners be associated",
+      "word_transliteration": "yush'raka"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10784,
+      "word_number_in_surah": 1158,
+      "word_surah": 4,
+      "word_translation": "with Him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَيَغۡفِرُ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10785,
+      "word_number_in_surah": 1159,
+      "word_surah": 4,
+      "word_translation": "but He forgives",
+      "word_transliteration": "wayaghfiru"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10786,
+      "word_number_in_surah": 1160,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "دُونَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10787,
+      "word_number_in_surah": 1161,
+      "word_surah": 4,
+      "word_translation": "other than",
+      "word_transliteration": "duna"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10788,
+      "word_number_in_surah": 1162,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "لِمَن",
+      "word_ayah": 48,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10789,
+      "word_number_in_surah": 1163,
+      "word_surah": 4,
+      "word_translation": "for whom",
+      "word_transliteration": "liman"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10790,
+      "word_number_in_surah": 1164,
+      "word_surah": 4,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 48,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10791,
+      "word_number_in_surah": 1165,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُشۡرِكۡ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10792,
+      "word_number_in_surah": 1166,
+      "word_surah": 4,
+      "word_translation": "associates partners",
+      "word_transliteration": "yush'rik"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10793,
+      "word_number_in_surah": 1167,
+      "word_surah": 4,
+      "word_translation": "with Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "فَقَدِ",
+      "word_ayah": 48,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10794,
+      "word_number_in_surah": 1168,
+      "word_surah": 4,
+      "word_translation": "then surely",
+      "word_transliteration": "faqadi"
+    },
+    {
+      "word_arabic": "ٱفۡتَرَىٰٓ",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10795,
+      "word_number_in_surah": 1169,
+      "word_surah": 4,
+      "word_translation": "he has fabricated",
+      "word_transliteration": "if'tara"
+    },
+    {
+      "word_arabic": "إِثۡمًا",
+      "word_ayah": 48,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10796,
+      "word_number_in_surah": 1170,
+      "word_surah": 4,
+      "word_translation": "a sin",
+      "word_transliteration": "ith'man"
+    },
+    {
+      "word_arabic": "عَظِيمًا",
+      "word_ayah": 48,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10797,
+      "word_number_in_surah": 1171,
+      "word_surah": 4,
+      "word_translation": "tremendous",
+      "word_transliteration": "aziman"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱللَّهَ لَا يَغۡفِرُ أَن يُشۡرَكَ بِهِۦ وَيَغۡفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَقَدِ ٱفۡتَرَىٰٓ إِثۡمًا عَظِيمًا",
+  "fullTranslation": "Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allah has certainly fabricated a tremendous sin.",
+  "fullTransliteration": "inna al-laha la yaghfiru an yush'raka bihi wayaghfiru ma duna dhalika liman yashau waman yush'rik bil-lahi faqadi if'tara ith'man aziman"
+}

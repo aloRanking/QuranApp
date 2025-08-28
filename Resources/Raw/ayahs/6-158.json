@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "ayah": 158,
+    "surah": 6,
+    "words": 37,
+    "numberInQuran": 947,
+    "juz": 8,
+    "manzil": 2,
+    "page": 150,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هَلۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19073,
+      "word_number_in_surah": 2896,
+      "word_surah": 6,
+      "word_translation": "Are",
+      "word_transliteration": "hal"
+    },
+    {
+      "word_arabic": "يَنظُرُونَ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19074,
+      "word_number_in_surah": 2897,
+      "word_surah": 6,
+      "word_translation": "they waiting",
+      "word_transliteration": "yanzuruna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19075,
+      "word_number_in_surah": 2898,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 158,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19076,
+      "word_number_in_surah": 2899,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَأۡتِيَهُمُ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19077,
+      "word_number_in_surah": 2900,
+      "word_surah": 6,
+      "word_translation": "comes to them",
+      "word_transliteration": "tatiyahumu"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19078,
+      "word_number_in_surah": 2901,
+      "word_surah": 6,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikatu"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19079,
+      "word_number_in_surah": 2902,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَأۡتِيَ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19080,
+      "word_number_in_surah": 2903,
+      "word_surah": 6,
+      "word_translation": "comes",
+      "word_transliteration": "yatiya"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19081,
+      "word_number_in_surah": 2904,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19082,
+      "word_number_in_surah": 2905,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَأۡتِيَ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19083,
+      "word_number_in_surah": 2906,
+      "word_surah": 6,
+      "word_translation": "comes",
+      "word_transliteration": "yatiya"
+    },
+    {
+      "word_arabic": "بَعۡضُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19084,
+      "word_number_in_surah": 2907,
+      "word_surah": 6,
+      "word_translation": "some (of)",
+      "word_transliteration": "ba'du"
+    },
+    {
+      "word_arabic": "ءَايَٰتِ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19085,
+      "word_number_in_surah": 2908,
+      "word_surah": 6,
+      "word_translation": "(the) Signs",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "رَبِّكَۗ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19086,
+      "word_number_in_surah": 2909,
+      "word_surah": 6,
+      "word_translation": "(of) your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19087,
+      "word_number_in_surah": 2910,
+      "word_surah": 6,
+      "word_translation": "(The) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "يَأۡتِي",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19088,
+      "word_number_in_surah": 2911,
+      "word_surah": 6,
+      "word_translation": "(when) comes",
+      "word_transliteration": "yati"
+    },
+    {
+      "word_arabic": "بَعۡضُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19089,
+      "word_number_in_surah": 2912,
+      "word_surah": 6,
+      "word_translation": "some (of)",
+      "word_transliteration": "ba'du"
+    },
+    {
+      "word_arabic": "ءَايَٰتِ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19090,
+      "word_number_in_surah": 2913,
+      "word_surah": 6,
+      "word_translation": "(the) Signs",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "رَبِّكَ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19091,
+      "word_number_in_surah": 2914,
+      "word_surah": 6,
+      "word_translation": "(of) your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19092,
+      "word_number_in_surah": 2915,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَنفَعُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19093,
+      "word_number_in_surah": 2916,
+      "word_surah": 6,
+      "word_translation": "will benefit",
+      "word_transliteration": "yanfa'u"
+    },
+    {
+      "word_arabic": "نَفۡسًا",
+      "word_ayah": 158,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19094,
+      "word_number_in_surah": 2917,
+      "word_surah": 6,
+      "word_translation": "a soul",
+      "word_transliteration": "nafsan"
+    },
+    {
+      "word_arabic": "إِيمَٰنُهَا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19095,
+      "word_number_in_surah": 2918,
+      "word_surah": 6,
+      "word_translation": "its faith",
+      "word_transliteration": "imanuha"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 19096,
+      "word_number_in_surah": 2919,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَكُنۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 19097,
+      "word_number_in_surah": 2920,
+      "word_surah": 6,
+      "word_translation": "(if) it had",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "ءَامَنَتۡ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 19098,
+      "word_number_in_surah": 2921,
+      "word_surah": 6,
+      "word_translation": "believed",
+      "word_transliteration": "amanat"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 158,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 19099,
+      "word_number_in_surah": 2922,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 19100,
+      "word_number_in_surah": 2923,
+      "word_surah": 6,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 19101,
+      "word_number_in_surah": 2924,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "كَسَبَتۡ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 19102,
+      "word_number_in_surah": 2925,
+      "word_surah": 6,
+      "word_translation": "earned",
+      "word_transliteration": "kasabat"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 19103,
+      "word_number_in_surah": 2926,
+      "word_surah": 6,
+      "word_translation": "through",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "إِيمَٰنِهَا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 19104,
+      "word_number_in_surah": 2927,
+      "word_surah": 6,
+      "word_translation": "its faith",
+      "word_transliteration": "imaniha"
+    },
+    {
+      "word_arabic": "خَيۡرٗاۗ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 19105,
+      "word_number_in_surah": 2928,
+      "word_surah": 6,
+      "word_translation": "any good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "قُلِ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 19106,
+      "word_number_in_surah": 2929,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "quli"
+    },
+    {
+      "word_arabic": "ٱنتَظِرُوٓاْ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 19107,
+      "word_number_in_surah": 2930,
+      "word_surah": 6,
+      "word_translation": "Wait",
+      "word_transliteration": "intaziru"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 19108,
+      "word_number_in_surah": 2931,
+      "word_surah": 6,
+      "word_translation": "Indeed, we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "مُنتَظِرُونَ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 19109,
+      "word_number_in_surah": 2932,
+      "word_surah": 6,
+      "word_translation": "(are) those who wait",
+      "word_transliteration": "muntaziruna"
+    }
+  ],
+  "fullArabic": "هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَٰٓئِكَةُ أَوۡ يَأۡتِيَ رَبُّكَ أَوۡ يَأۡتِيَ بَعۡضُ ءَايَٰتِ رَبِّكَۗ يَوۡمَ يَأۡتِي بَعۡضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفۡسًا إِيمَٰنُهَا لَمۡ تَكُنۡ ءَامَنَتۡ مِن قَبۡلُ أَوۡ كَسَبَتۡ فِيٓ إِيمَٰنِهَا خَيۡرٗاۗ قُلِ ٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ",
+  "fullTranslation": "Do they [then] wait for anything except that the angels should come to them or your Lord should come or that there come some of the signs of your Lord? The Day that some of the signs of your Lord will come no soul will benefit from its faith as long as it had not believed before or had earned through its faith some good. Say, \"Wait. Indeed, we [also] are waiting.\"",
+  "fullTransliteration": "hal yanzuruna illa an tatiyahumu al-malaikatu aw yatiya rabbuka aw yatiya ba'du ayati rabbika yawma yati ba'du ayati rabbika la yanfa'u nafsan imanuha lam takun amanat min qablu aw kasabat fi imaniha khayran quli intaziru inna muntaziruna"
+}

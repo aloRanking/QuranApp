@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "ayah": 172,
+    "surah": 7,
+    "words": 26,
+    "numberInQuran": 1126,
+    "juz": 9,
+    "manzil": 2,
+    "page": 173,
+    "ruku": 143,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22036,
+      "word_number_in_surah": 2809,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "أَخَذَ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22037,
+      "word_number_in_surah": 2810,
+      "word_surah": 7,
+      "word_translation": "(was) taken",
+      "word_transliteration": "akhadha"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22038,
+      "word_number_in_surah": 2811,
+      "word_surah": 7,
+      "word_translation": "(by) your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22039,
+      "word_number_in_surah": 2812,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَنِيٓ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22040,
+      "word_number_in_surah": 2813,
+      "word_surah": 7,
+      "word_translation": "(the) Children",
+      "word_transliteration": "bani"
+    },
+    {
+      "word_arabic": "ءَادَمَ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22041,
+      "word_number_in_surah": 2814,
+      "word_surah": 7,
+      "word_translation": "(of) Adam",
+      "word_transliteration": "adama"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 172,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22042,
+      "word_number_in_surah": 2815,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ظُهُورِهِمۡ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22043,
+      "word_number_in_surah": 2816,
+      "word_surah": 7,
+      "word_translation": "their loins",
+      "word_transliteration": "zuhurihim"
+    },
+    {
+      "word_arabic": "ذُرِّيَّتَهُمۡ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22044,
+      "word_number_in_surah": 2817,
+      "word_surah": 7,
+      "word_translation": "their descendants",
+      "word_transliteration": "dhurriyyatahum"
+    },
+    {
+      "word_arabic": "وَأَشۡهَدَهُمۡ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22045,
+      "word_number_in_surah": 2818,
+      "word_surah": 7,
+      "word_translation": "and made them testify",
+      "word_transliteration": "wa-ashhadahum"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22046,
+      "word_number_in_surah": 2819,
+      "word_surah": 7,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22047,
+      "word_number_in_surah": 2820,
+      "word_surah": 7,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "أَلَسۡتُ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22048,
+      "word_number_in_surah": 2821,
+      "word_surah": 7,
+      "word_translation": "Am I not",
+      "word_transliteration": "alastu"
+    },
+    {
+      "word_arabic": "بِرَبِّكُمۡۖ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22049,
+      "word_number_in_surah": 2822,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "birabbikum"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22050,
+      "word_number_in_surah": 2823,
+      "word_surah": 7,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "بَلَىٰ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22051,
+      "word_number_in_surah": 2824,
+      "word_surah": 7,
+      "word_translation": "Yes",
+      "word_transliteration": "bala"
+    },
+    {
+      "word_arabic": "شَهِدۡنَآۚ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22052,
+      "word_number_in_surah": 2825,
+      "word_surah": 7,
+      "word_translation": "we have testified",
+      "word_transliteration": "shahid'na"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 172,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22053,
+      "word_number_in_surah": 2826,
+      "word_surah": 7,
+      "word_translation": "Lest",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَقُولُواْ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22054,
+      "word_number_in_surah": 2827,
+      "word_surah": 7,
+      "word_translation": "you say",
+      "word_transliteration": "taqulu"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 172,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22055,
+      "word_number_in_surah": 2828,
+      "word_surah": 7,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22056,
+      "word_number_in_surah": 2829,
+      "word_surah": 7,
+      "word_translation": "(of) the Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22057,
+      "word_number_in_surah": 2830,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "كُنَّا",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 22058,
+      "word_number_in_surah": 2831,
+      "word_surah": 7,
+      "word_translation": "we were",
+      "word_transliteration": "kunna"
+    },
+    {
+      "word_arabic": "عَنۡ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 22059,
+      "word_number_in_surah": 2832,
+      "word_surah": 7,
+      "word_translation": "about",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 22060,
+      "word_number_in_surah": 2833,
+      "word_surah": 7,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "غَٰفِلِينَ",
+      "word_ayah": 172,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 22061,
+      "word_number_in_surah": 2834,
+      "word_surah": 7,
+      "word_translation": "unaware",
+      "word_transliteration": "ghafilina"
+    }
+  ],
+  "fullArabic": "وَإِذۡ أَخَذَ رَبُّكَ مِنۢ بَنِيٓ ءَادَمَ مِن ظُهُورِهِمۡ ذُرِّيَّتَهُمۡ وَأَشۡهَدَهُمۡ عَلَىٰٓ أَنفُسِهِمۡ أَلَسۡتُ بِرَبِّكُمۡۖ قَالُواْ بَلَىٰ شَهِدۡنَآۚ أَن تَقُولُواْ يَوۡمَ ٱلۡقِيَٰمَةِ إِنَّا كُنَّا عَنۡ هَٰذَا غَٰفِلِينَ",
+  "fullTranslation": "And [mention] when your Lord took from the children of Adam - from their loins - their descendants and made them testify of themselves, [saying to them], \"Am I not your Lord?\" They said, \"Yes, we have testified.\" [This] - lest you should say on the day of Resurrection, \"Indeed, we were of this unaware.\"",
+  "fullTransliteration": "wa-idh akhadha rabbuka min bani adama min zuhurihim dhurriyyatahum wa-ashhadahum ala anfusihim alastu birabbikum qalu bala shahid'na an taqulu yawma al-qiyamati inna kunna an hadha ghafilina"
+}

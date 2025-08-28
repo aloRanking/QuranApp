@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "ayah": 168,
+    "surah": 4,
+    "words": 12,
+    "numberInQuran": 661,
+    "juz": 6,
+    "manzil": 1,
+    "page": 104,
+    "ruku": 84,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13155,
+      "word_number_in_surah": 3529,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13156,
+      "word_number_in_surah": 3530,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13157,
+      "word_number_in_surah": 3531,
+      "word_surah": 4,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "وَظَلَمُواْ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13158,
+      "word_number_in_surah": 3532,
+      "word_surah": 4,
+      "word_translation": "and did wrong",
+      "word_transliteration": "wazalamu"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13159,
+      "word_number_in_surah": 3533,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَكُنِ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13160,
+      "word_number_in_surah": 3534,
+      "word_surah": 4,
+      "word_translation": "will",
+      "word_transliteration": "yakuni"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13161,
+      "word_number_in_surah": 3535,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لِيَغۡفِرَ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13162,
+      "word_number_in_surah": 3536,
+      "word_surah": 4,
+      "word_translation": "[to] forgive",
+      "word_transliteration": "liyaghfira"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13163,
+      "word_number_in_surah": 3537,
+      "word_surah": 4,
+      "word_translation": "them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13164,
+      "word_number_in_surah": 3538,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "لِيَهۡدِيَهُمۡ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13165,
+      "word_number_in_surah": 3539,
+      "word_surah": 4,
+      "word_translation": "He will guide them",
+      "word_transliteration": "liyahdiyahum"
+    },
+    {
+      "word_arabic": "طَرِيقًا",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13166,
+      "word_number_in_surah": 3540,
+      "word_surah": 4,
+      "word_translation": "(to) a way",
+      "word_transliteration": "tariqan"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَظَلَمُواْ لَمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ طَرِيقًا",
+  "fullTranslation": "Indeed, those who disbelieve and commit wrong [or injustice] - never will Allah forgive them, nor will He guide them to a path.",
+  "fullTransliteration": "inna alladhina kafaru wazalamu lam yakuni al-lahu liyaghfira lahum wala liyahdiyahum tariqan"
+}

@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "ayah": 35,
+    "surah": 6,
+    "words": 28,
+    "numberInQuran": 824,
+    "juz": 7,
+    "manzil": 2,
+    "page": 131,
+    "ruku": 105,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 35,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16709,
+      "word_number_in_surah": 532,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16710,
+      "word_number_in_surah": 533,
+      "word_surah": 6,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "كَبُرَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16711,
+      "word_number_in_surah": 534,
+      "word_surah": 6,
+      "word_translation": "difficult",
+      "word_transliteration": "kabura"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16712,
+      "word_number_in_surah": 535,
+      "word_surah": 6,
+      "word_translation": "for you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "إِعۡرَاضُهُمۡ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16713,
+      "word_number_in_surah": 536,
+      "word_surah": 6,
+      "word_translation": "their aversion",
+      "word_transliteration": "i'raduhum"
+    },
+    {
+      "word_arabic": "فَإِنِ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16714,
+      "word_number_in_surah": 537,
+      "word_surah": 6,
+      "word_translation": "then if",
+      "word_transliteration": "fa-ini"
+    },
+    {
+      "word_arabic": "ٱسۡتَطَعۡتَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16715,
+      "word_number_in_surah": 538,
+      "word_surah": 6,
+      "word_translation": "you are able",
+      "word_transliteration": "is'tata'ta"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 35,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16716,
+      "word_number_in_surah": 539,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَبۡتَغِيَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16717,
+      "word_number_in_surah": 540,
+      "word_surah": 6,
+      "word_translation": "seek",
+      "word_transliteration": "tabtaghiya"
+    },
+    {
+      "word_arabic": "نَفَقٗا",
+      "word_ayah": 35,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16718,
+      "word_number_in_surah": 541,
+      "word_surah": 6,
+      "word_translation": "a tunnel",
+      "word_transliteration": "nafaqan"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16719,
+      "word_number_in_surah": 542,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16720,
+      "word_number_in_surah": 543,
+      "word_surah": 6,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16721,
+      "word_number_in_surah": 544,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "سُلَّمٗا",
+      "word_ayah": 35,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16722,
+      "word_number_in_surah": 545,
+      "word_surah": 6,
+      "word_translation": "a ladder",
+      "word_transliteration": "sullaman"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16723,
+      "word_number_in_surah": 546,
+      "word_surah": 6,
+      "word_translation": "into",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16724,
+      "word_number_in_surah": 547,
+      "word_surah": 6,
+      "word_translation": "the sky",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "فَتَأۡتِيَهُم",
+      "word_ayah": 35,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16725,
+      "word_number_in_surah": 548,
+      "word_surah": 6,
+      "word_translation": "so that you bring to them",
+      "word_transliteration": "fatatiyahum"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَةٖۚ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16726,
+      "word_number_in_surah": 549,
+      "word_surah": 6,
+      "word_translation": "a Sign",
+      "word_transliteration": "biayatin"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16727,
+      "word_number_in_surah": 550,
+      "word_surah": 6,
+      "word_translation": "But if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16728,
+      "word_number_in_surah": 551,
+      "word_surah": 6,
+      "word_translation": "(had) willed",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16729,
+      "word_number_in_surah": 552,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَجَمَعَهُمۡ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16730,
+      "word_number_in_surah": 553,
+      "word_surah": 6,
+      "word_translation": "surely He (would) have gathered them",
+      "word_transliteration": "lajama'ahum"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16731,
+      "word_number_in_surah": 554,
+      "word_surah": 6,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡهُدَىٰۚ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 16732,
+      "word_number_in_surah": 555,
+      "word_surah": 6,
+      "word_translation": "the guidance",
+      "word_transliteration": "al-huda"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 16733,
+      "word_number_in_surah": 556,
+      "word_surah": 6,
+      "word_translation": "So (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَكُونَنَّ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 16734,
+      "word_number_in_surah": 557,
+      "word_surah": 6,
+      "word_translation": "be",
+      "word_transliteration": "takunanna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 16735,
+      "word_number_in_surah": 558,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡجَٰهِلِينَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 16736,
+      "word_number_in_surah": 559,
+      "word_surah": 6,
+      "word_translation": "the ignorant",
+      "word_transliteration": "al-jahilina"
+    }
+  ],
+  "fullArabic": "وَإِن كَانَ كَبُرَ عَلَيۡكَ إِعۡرَاضُهُمۡ فَإِنِ ٱسۡتَطَعۡتَ أَن تَبۡتَغِيَ نَفَقٗا فِي ٱلۡأَرۡضِ أَوۡ سُلَّمٗا فِي ٱلسَّمَآءِ فَتَأۡتِيَهُم بِ‍َٔايَةٖۚ وَلَوۡ شَآءَ ٱللَّهُ لَجَمَعَهُمۡ عَلَى ٱلۡهُدَىٰۚ فَلَا تَكُونَنَّ مِنَ ٱلۡجَٰهِلِينَ",
+  "fullTranslation": "And if their evasion is difficult for you, then if you are able to seek a tunnel into the earth or a stairway into the sky to bring them a sign, [then do so]. But if Allah had willed, He would have united them upon guidance. So never be of the ignorant.",
+  "fullTransliteration": "wa-in kana kabura alayka i'raduhum fa-ini is'tata'ta an tabtaghiya nafaqan fi al-ardi aw sullaman fi al-samai fatatiyahum biayatin walaw shaa al-lahu lajama'ahum ala al-huda fala takunanna mina al-jahilina"
+}

@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "ayah": 205,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 212,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3855,
+      "word_number_in_surah": 3826,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "تَوَلَّىٰ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3856,
+      "word_number_in_surah": 3827,
+      "word_surah": 2,
+      "word_translation": "he turns away",
+      "word_transliteration": "tawalla"
+    },
+    {
+      "word_arabic": "سَعَىٰ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3857,
+      "word_number_in_surah": 3828,
+      "word_surah": 2,
+      "word_translation": "he strives",
+      "word_transliteration": "sa'a"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3858,
+      "word_number_in_surah": 3829,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3859,
+      "word_number_in_surah": 3830,
+      "word_surah": 2,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "لِيُفۡسِدَ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3860,
+      "word_number_in_surah": 3831,
+      "word_surah": 2,
+      "word_translation": "to spread corruption",
+      "word_transliteration": "liyuf'sida"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3861,
+      "word_number_in_surah": 3832,
+      "word_surah": 2,
+      "word_translation": "[in it]",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَيُهۡلِكَ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3862,
+      "word_number_in_surah": 3833,
+      "word_surah": 2,
+      "word_translation": "and destroys",
+      "word_transliteration": "wayuh'lika"
+    },
+    {
+      "word_arabic": "ٱلۡحَرۡثَ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3863,
+      "word_number_in_surah": 3834,
+      "word_surah": 2,
+      "word_translation": "the crops",
+      "word_transliteration": "al-hartha"
+    },
+    {
+      "word_arabic": "وَٱلنَّسۡلَۚ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3864,
+      "word_number_in_surah": 3835,
+      "word_surah": 2,
+      "word_translation": "and progeny",
+      "word_transliteration": "wal-nasla"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3865,
+      "word_number_in_surah": 3836,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3866,
+      "word_number_in_surah": 3837,
+      "word_surah": 2,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3867,
+      "word_number_in_surah": 3838,
+      "word_surah": 2,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡفَسَادَ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3868,
+      "word_number_in_surah": 3839,
+      "word_surah": 2,
+      "word_translation": "[the] corruption",
+      "word_transliteration": "al-fasada"
+    }
+  ],
+  "fullArabic": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِي ٱلۡأَرۡضِ لِيُفۡسِدَ فِيهَا وَيُهۡلِكَ ٱلۡحَرۡثَ وَٱلنَّسۡلَۚ وَٱللَّهُ لَا يُحِبُّ ٱلۡفَسَادَ",
+  "fullTranslation": "And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allah does not like corruption.",
+  "fullTransliteration": "wa-idha tawalla sa'a fi al-ardi liyuf'sida fiha wayuh'lika al-hartha wal-nasla wal-lahu la yuhibbu al-fasada"
+}

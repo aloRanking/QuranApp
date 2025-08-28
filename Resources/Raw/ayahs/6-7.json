@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "ayah": 7,
+    "surah": 6,
+    "words": 16,
+    "numberInQuran": 796,
+    "juz": 7,
+    "manzil": 2,
+    "page": 128,
+    "ruku": 102,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16272,
+      "word_number_in_surah": 95,
+      "word_surah": 6,
+      "word_translation": "And (even) if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "نَزَّلۡنَا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16273,
+      "word_number_in_surah": 96,
+      "word_surah": 6,
+      "word_translation": "We (had) sent down",
+      "word_transliteration": "nazzalna"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16274,
+      "word_number_in_surah": 97,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "كِتَٰبٗا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16275,
+      "word_number_in_surah": 98,
+      "word_surah": 6,
+      "word_translation": "a written Scripture",
+      "word_transliteration": "kitaban"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16276,
+      "word_number_in_surah": 99,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قِرۡطَاسٖ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16277,
+      "word_number_in_surah": 100,
+      "word_surah": 6,
+      "word_translation": "a parchment",
+      "word_transliteration": "qir'tasin"
+    },
+    {
+      "word_arabic": "فَلَمَسُوهُ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16278,
+      "word_number_in_surah": 101,
+      "word_surah": 6,
+      "word_translation": "and they touched it",
+      "word_transliteration": "falamasuhu"
+    },
+    {
+      "word_arabic": "بِأَيۡدِيهِمۡ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16279,
+      "word_number_in_surah": 102,
+      "word_surah": 6,
+      "word_translation": "with their hands",
+      "word_transliteration": "bi-aydihim"
+    },
+    {
+      "word_arabic": "لَقَالَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16280,
+      "word_number_in_surah": 103,
+      "word_surah": 6,
+      "word_translation": "surely (would) have said",
+      "word_transliteration": "laqala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16281,
+      "word_number_in_surah": 104,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُوٓاْ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16282,
+      "word_number_in_surah": 105,
+      "word_surah": 6,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16283,
+      "word_number_in_surah": 106,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "هَٰذَآ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16284,
+      "word_number_in_surah": 107,
+      "word_surah": 6,
+      "word_translation": "(is) this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16285,
+      "word_number_in_surah": 108,
+      "word_surah": 6,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "سِحۡرٞ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16286,
+      "word_number_in_surah": 109,
+      "word_surah": 6,
+      "word_translation": "magic",
+      "word_transliteration": "sih'run"
+    },
+    {
+      "word_arabic": "مُّبِينٞ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16287,
+      "word_number_in_surah": 110,
+      "word_surah": 6,
+      "word_translation": "clear",
+      "word_transliteration": "mubinun"
+    }
+  ],
+  "fullArabic": "وَلَوۡ نَزَّلۡنَا عَلَيۡكَ كِتَٰبٗا فِي قِرۡطَاسٖ فَلَمَسُوهُ بِأَيۡدِيهِمۡ لَقَالَ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ",
+  "fullTranslation": "And even if We had sent down to you, [O Muhammad], a written scripture on a page and they touched it with their hands, the disbelievers would say, \"This is not but obvious magic.\"",
+  "fullTransliteration": "walaw nazzalna alayka kitaban fi qir'tasin falamasuhu bi-aydihim laqala alladhina kafaru in hadha illa sih'run mubinun"
+}

@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "ayah": 167,
+    "surah": 7,
+    "words": 19,
+    "numberInQuran": 1121,
+    "juz": 9,
+    "manzil": 2,
+    "page": 172,
+    "ruku": 142,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21934,
+      "word_number_in_surah": 2707,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "تَأَذَّنَ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21935,
+      "word_number_in_surah": 2708,
+      "word_surah": 7,
+      "word_translation": "declared",
+      "word_transliteration": "ta-adhana"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21936,
+      "word_number_in_surah": 2709,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "لَيَبۡعَثَنَّ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21937,
+      "word_number_in_surah": 2710,
+      "word_surah": 7,
+      "word_translation": "that He would surely send",
+      "word_transliteration": "layab'athanna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21938,
+      "word_number_in_surah": 2711,
+      "word_surah": 7,
+      "word_translation": "upon them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21939,
+      "word_number_in_surah": 2712,
+      "word_surah": 7,
+      "word_translation": "till",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "يَوۡمِ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21940,
+      "word_number_in_surah": 2713,
+      "word_surah": 7,
+      "word_translation": "(the) Day",
+      "word_transliteration": "yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21941,
+      "word_number_in_surah": 2714,
+      "word_surah": 7,
+      "word_translation": "(of) the Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 167,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21942,
+      "word_number_in_surah": 2715,
+      "word_surah": 7,
+      "word_translation": "(those) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَسُومُهُمۡ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21943,
+      "word_number_in_surah": 2716,
+      "word_surah": 7,
+      "word_translation": "would afflict them",
+      "word_transliteration": "yasumuhum"
+    },
+    {
+      "word_arabic": "سُوٓءَ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21944,
+      "word_number_in_surah": 2717,
+      "word_surah": 7,
+      "word_translation": "(with) a grievous",
+      "word_transliteration": "sua"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابِۗ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21945,
+      "word_number_in_surah": 2718,
+      "word_surah": 7,
+      "word_translation": "[the] punishment",
+      "word_transliteration": "al-'adhabi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21946,
+      "word_number_in_surah": 2719,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21947,
+      "word_number_in_surah": 2720,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "لَسَرِيعُ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21948,
+      "word_number_in_surah": 2721,
+      "word_surah": 7,
+      "word_translation": "(is) surely swift",
+      "word_transliteration": "lasari'u"
+    },
+    {
+      "word_arabic": "ٱلۡعِقَابِ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21949,
+      "word_number_in_surah": 2722,
+      "word_surah": 7,
+      "word_translation": "(in) the retribution",
+      "word_transliteration": "al-'iqabi"
+    },
+    {
+      "word_arabic": "وَإِنَّهُۥ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21950,
+      "word_number_in_surah": 2723,
+      "word_surah": 7,
+      "word_translation": "but indeed He",
+      "word_transliteration": "wa-innahu"
+    },
+    {
+      "word_arabic": "لَغَفُورٞ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21951,
+      "word_number_in_surah": 2724,
+      "word_surah": 7,
+      "word_translation": "(is) surely Oft-Forgiving",
+      "word_transliteration": "laghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21952,
+      "word_number_in_surah": 2725,
+      "word_surah": 7,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "وَإِذۡ تَأَذَّنَ رَبُّكَ لَيَبۡعَثَنَّ عَلَيۡهِمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ مَن يَسُومُهُمۡ سُوٓءَ ٱلۡعَذَابِۗ إِنَّ رَبَّكَ لَسَرِيعُ ٱلۡعِقَابِ وَإِنَّهُۥ لَغَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "And [mention] when your Lord declared that He would surely [continue to] send upon them until the Day of Resurrection those who would afflict them with the worst torment. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.",
+  "fullTransliteration": "wa-idh ta-adhana rabbuka layab'athanna alayhim ila yawmi al-qiyamati man yasumuhum sua al-'adhabi inna rabbaka lasari'u al-'iqabi wa-innahu laghafurun rahimun"
+}

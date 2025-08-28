@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "ayah": 106,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1060,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 134,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20930,
+      "word_number_in_surah": 1703,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 106,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20931,
+      "word_number_in_surah": 1704,
+      "word_surah": 7,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتَ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20932,
+      "word_number_in_surah": 1705,
+      "word_surah": 7,
+      "word_translation": "you have",
+      "word_transliteration": "kunta"
+    },
+    {
+      "word_arabic": "جِئۡتَ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20933,
+      "word_number_in_surah": 1706,
+      "word_surah": 7,
+      "word_translation": "come",
+      "word_transliteration": "ji'ta"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَةٖ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20934,
+      "word_number_in_surah": 1707,
+      "word_surah": 7,
+      "word_translation": "with a Sign",
+      "word_transliteration": "biayatin"
+    },
+    {
+      "word_arabic": "فَأۡتِ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20935,
+      "word_number_in_surah": 1708,
+      "word_surah": 7,
+      "word_translation": "then bring",
+      "word_transliteration": "fati"
+    },
+    {
+      "word_arabic": "بِهَآ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20936,
+      "word_number_in_surah": 1709,
+      "word_surah": 7,
+      "word_translation": "it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 106,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20937,
+      "word_number_in_surah": 1710,
+      "word_surah": 7,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتَ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20938,
+      "word_number_in_surah": 1711,
+      "word_surah": 7,
+      "word_translation": "you are",
+      "word_transliteration": "kunta"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20939,
+      "word_number_in_surah": 1712,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلصَّٰدِقِينَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20940,
+      "word_number_in_surah": 1713,
+      "word_surah": 7,
+      "word_translation": "the truthful",
+      "word_transliteration": "al-sadiqina"
+    }
+  ],
+  "fullArabic": "قَالَ إِن كُنتَ جِئۡتَ بِ‍َٔايَةٖ فَأۡتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+  "fullTranslation": "[Pharaoh] said, \"If you have come with a sign, then bring it forth, if you should be of the truthful.\"",
+  "fullTransliteration": "qala in kunta ji'ta biayatin fati biha in kunta mina al-sadiqina"
+}

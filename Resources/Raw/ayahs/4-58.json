@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "ayah": 58,
+    "surah": 4,
+    "words": 25,
+    "numberInQuran": 551,
+    "juz": 5,
+    "manzil": 1,
+    "page": 87,
+    "ruku": 69,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞إِنَّ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10932,
+      "word_number_in_surah": 1306,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10933,
+      "word_number_in_surah": 1307,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَأۡمُرُكُمۡ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10934,
+      "word_number_in_surah": 1308,
+      "word_surah": 4,
+      "word_translation": "orders you",
+      "word_transliteration": "yamurukum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 58,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10935,
+      "word_number_in_surah": 1309,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تُؤَدُّواْ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10936,
+      "word_number_in_surah": 1310,
+      "word_surah": 4,
+      "word_translation": "render",
+      "word_transliteration": "tu-addu"
+    },
+    {
+      "word_arabic": "ٱلۡأَمَٰنَٰتِ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10937,
+      "word_number_in_surah": 1311,
+      "word_surah": 4,
+      "word_translation": "the trusts",
+      "word_transliteration": "al-amanati"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10938,
+      "word_number_in_surah": 1312,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "أَهۡلِهَا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10939,
+      "word_number_in_surah": 1313,
+      "word_surah": 4,
+      "word_translation": "their owners",
+      "word_transliteration": "ahliha"
+    },
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10940,
+      "word_number_in_surah": 1314,
+      "word_surah": 4,
+      "word_translation": "and when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "حَكَمۡتُم",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10941,
+      "word_number_in_surah": 1315,
+      "word_surah": 4,
+      "word_translation": "you judge",
+      "word_transliteration": "hakamtum"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10942,
+      "word_number_in_surah": 1316,
+      "word_surah": 4,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10943,
+      "word_number_in_surah": 1317,
+      "word_surah": 4,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 58,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10944,
+      "word_number_in_surah": 1318,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَحۡكُمُواْ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10945,
+      "word_number_in_surah": 1319,
+      "word_surah": 4,
+      "word_translation": "judge",
+      "word_transliteration": "tahkumu"
+    },
+    {
+      "word_arabic": "بِٱلۡعَدۡلِۚ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10946,
+      "word_number_in_surah": 1320,
+      "word_surah": 4,
+      "word_translation": "with justice",
+      "word_transliteration": "bil-'adli"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10947,
+      "word_number_in_surah": 1321,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10948,
+      "word_number_in_surah": 1322,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "نِعِمَّا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10949,
+      "word_number_in_surah": 1323,
+      "word_surah": 4,
+      "word_translation": "excellently",
+      "word_transliteration": "ni'imma"
+    },
+    {
+      "word_arabic": "يَعِظُكُم",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10950,
+      "word_number_in_surah": 1324,
+      "word_surah": 4,
+      "word_translation": "advises you",
+      "word_transliteration": "ya'izukum"
+    },
+    {
+      "word_arabic": "بِهِۦٓۗ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10951,
+      "word_number_in_surah": 1325,
+      "word_surah": 4,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 10952,
+      "word_number_in_surah": 1326,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 10953,
+      "word_number_in_surah": 1327,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 10954,
+      "word_number_in_surah": 1328,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "سَمِيعَۢا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 10955,
+      "word_number_in_surah": 1329,
+      "word_surah": 4,
+      "word_translation": "All-Hearing",
+      "word_transliteration": "sami'an"
+    },
+    {
+      "word_arabic": "بَصِيرٗا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 10956,
+      "word_number_in_surah": 1330,
+      "word_surah": 4,
+      "word_translation": "All-Seeing",
+      "word_transliteration": "basiran"
+    }
+  ],
+  "fullArabic": "۞إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تُؤَدُّواْ ٱلۡأَمَٰنَٰتِ إِلَىٰٓ أَهۡلِهَا وَإِذَا حَكَمۡتُم بَيۡنَ ٱلنَّاسِ أَن تَحۡكُمُواْ بِٱلۡعَدۡلِۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓۗ إِنَّ ٱللَّهَ كَانَ سَمِيعَۢا بَصِيرٗا",
+  "fullTranslation": "Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allah instructs you. Indeed, Allah is ever Hearing and Seeing.",
+  "fullTransliteration": "inna al-laha yamurukum an tu-addu al-amanati ila ahliha wa-idha hakamtum bayna al-nasi an tahkumu bil-'adli inna al-laha ni'imma ya'izukum bihi inna al-laha kana sami'an basiran"
+}

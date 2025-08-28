@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "ayah": 26,
+    "surah": 3,
+    "words": 25,
+    "numberInQuran": 319,
+    "juz": 3,
+    "manzil": 1,
+    "page": 53,
+    "ruku": 44,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلِ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6563,
+      "word_number_in_surah": 418,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "quli"
+    },
+    {
+      "word_arabic": "ٱللَّهُمَّ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6564,
+      "word_number_in_surah": 419,
+      "word_surah": 3,
+      "word_translation": "O Allah!",
+      "word_transliteration": "al-lahuma"
+    },
+    {
+      "word_arabic": "مَٰلِكَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6565,
+      "word_number_in_surah": 420,
+      "word_surah": 3,
+      "word_translation": "Owner",
+      "word_transliteration": "malika"
+    },
+    {
+      "word_arabic": "ٱلۡمُلۡكِ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6566,
+      "word_number_in_surah": 421,
+      "word_surah": 3,
+      "word_translation": "(of) the Dominion",
+      "word_transliteration": "al-mul'ki"
+    },
+    {
+      "word_arabic": "تُؤۡتِي",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6567,
+      "word_number_in_surah": 422,
+      "word_surah": 3,
+      "word_translation": "You give",
+      "word_transliteration": "tu'ti"
+    },
+    {
+      "word_arabic": "ٱلۡمُلۡكَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6568,
+      "word_number_in_surah": 423,
+      "word_surah": 3,
+      "word_translation": "the dominion",
+      "word_transliteration": "al-mul'ka"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 26,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6569,
+      "word_number_in_surah": 424,
+      "word_surah": 3,
+      "word_translation": "(to) whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تَشَآءُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6570,
+      "word_number_in_surah": 425,
+      "word_surah": 3,
+      "word_translation": "You will",
+      "word_transliteration": "tashau"
+    },
+    {
+      "word_arabic": "وَتَنزِعُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6571,
+      "word_number_in_surah": 426,
+      "word_surah": 3,
+      "word_translation": "and You take away",
+      "word_transliteration": "watanzi'u"
+    },
+    {
+      "word_arabic": "ٱلۡمُلۡكَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6572,
+      "word_number_in_surah": 427,
+      "word_surah": 3,
+      "word_translation": "the dominion",
+      "word_transliteration": "al-mul'ka"
+    },
+    {
+      "word_arabic": "مِمَّن",
+      "word_ayah": 26,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6573,
+      "word_number_in_surah": 428,
+      "word_surah": 3,
+      "word_translation": "from whom",
+      "word_transliteration": "mimman"
+    },
+    {
+      "word_arabic": "تَشَآءُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6574,
+      "word_number_in_surah": 429,
+      "word_surah": 3,
+      "word_translation": "You will",
+      "word_transliteration": "tashau"
+    },
+    {
+      "word_arabic": "وَتُعِزُّ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6575,
+      "word_number_in_surah": 430,
+      "word_surah": 3,
+      "word_translation": "and You honor",
+      "word_transliteration": "watu'izzu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 26,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6576,
+      "word_number_in_surah": 431,
+      "word_surah": 3,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تَشَآءُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6577,
+      "word_number_in_surah": 432,
+      "word_surah": 3,
+      "word_translation": "You will",
+      "word_transliteration": "tashau"
+    },
+    {
+      "word_arabic": "وَتُذِلُّ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6578,
+      "word_number_in_surah": 433,
+      "word_surah": 3,
+      "word_translation": "and You humiliate",
+      "word_transliteration": "watudhillu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 26,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6579,
+      "word_number_in_surah": 434,
+      "word_surah": 3,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تَشَآءُۖ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6580,
+      "word_number_in_surah": 435,
+      "word_surah": 3,
+      "word_translation": "You will",
+      "word_transliteration": "tashau"
+    },
+    {
+      "word_arabic": "بِيَدِكَ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6581,
+      "word_number_in_surah": 436,
+      "word_surah": 3,
+      "word_translation": "In Your hand",
+      "word_transliteration": "biyadika"
+    },
+    {
+      "word_arabic": "ٱلۡخَيۡرُۖ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6582,
+      "word_number_in_surah": 437,
+      "word_surah": 3,
+      "word_translation": "(is all) the good",
+      "word_transliteration": "al-khayru"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6583,
+      "word_number_in_surah": 438,
+      "word_surah": 3,
+      "word_translation": "Indeed You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6584,
+      "word_number_in_surah": 439,
+      "word_surah": 3,
+      "word_translation": "(are) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6585,
+      "word_number_in_surah": 440,
+      "word_surah": 3,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6586,
+      "word_number_in_surah": 441,
+      "word_surah": 3,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٞ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6587,
+      "word_number_in_surah": 442,
+      "word_surah": 3,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "fullTranslation": "Say, \"O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.",
+  "fullTransliteration": "quli al-lahuma malika al-mul'ki tu'ti al-mul'ka man tashau watanzi'u al-mul'ka mimman tashau watu'izzu man tashau watudhillu man tashau biyadika al-khayru innaka ala kulli shayin qadirun"
+}

@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "ayah": 41,
+    "surah": 4,
+    "words": 12,
+    "numberInQuran": 534,
+    "juz": 5,
+    "manzil": 1,
+    "page": 85,
+    "ruku": 67,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَكَيۡفَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10615,
+      "word_number_in_surah": 989,
+      "word_surah": 4,
+      "word_translation": "So how (will it be)",
+      "word_transliteration": "fakayfa"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10616,
+      "word_number_in_surah": 990,
+      "word_surah": 4,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "جِئۡنَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10617,
+      "word_number_in_surah": 991,
+      "word_surah": 4,
+      "word_translation": "We bring",
+      "word_transliteration": "ji'na"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 41,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10618,
+      "word_number_in_surah": 992,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10619,
+      "word_number_in_surah": 993,
+      "word_surah": 4,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "أُمَّةِۢ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10620,
+      "word_number_in_surah": 994,
+      "word_surah": 4,
+      "word_translation": "nation",
+      "word_transliteration": "ummatin"
+    },
+    {
+      "word_arabic": "بِشَهِيدٖ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10621,
+      "word_number_in_surah": 995,
+      "word_surah": 4,
+      "word_translation": "a witness",
+      "word_transliteration": "bishahidin"
+    },
+    {
+      "word_arabic": "وَجِئۡنَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10622,
+      "word_number_in_surah": 996,
+      "word_surah": 4,
+      "word_translation": "and We bring",
+      "word_transliteration": "waji'na"
+    },
+    {
+      "word_arabic": "بِكَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10623,
+      "word_number_in_surah": 997,
+      "word_surah": 4,
+      "word_translation": "you",
+      "word_transliteration": "bika"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10624,
+      "word_number_in_surah": 998,
+      "word_surah": 4,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10625,
+      "word_number_in_surah": 999,
+      "word_surah": 4,
+      "word_translation": "these (people)",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "شَهِيدٗا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10626,
+      "word_number_in_surah": 1000,
+      "word_surah": 4,
+      "word_translation": "(as) a witness",
+      "word_transliteration": "shahidan"
+    }
+  ],
+  "fullArabic": "فَكَيۡفَ إِذَا جِئۡنَا مِن كُلِّ أُمَّةِۢ بِشَهِيدٖ وَجِئۡنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدٗا",
+  "fullTranslation": "So how [will it be] when We bring from every nation a witness and we bring you, [O Muhammad] against these [people] as a witness?",
+  "fullTransliteration": "fakayfa idha ji'na min kulli ummatin bishahidin waji'na bika ala haulai shahidan"
+}

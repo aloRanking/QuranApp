@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "ayah": 60,
+    "surah": 6,
+    "words": 22,
+    "numberInQuran": 849,
+    "juz": 7,
+    "manzil": 2,
+    "page": 135,
+    "ruku": 108,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17152,
+      "word_number_in_surah": 975,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17153,
+      "word_number_in_surah": 976,
+      "word_surah": 6,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "يَتَوَفَّىٰكُم",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17154,
+      "word_number_in_surah": 977,
+      "word_surah": 6,
+      "word_translation": "takes your (soul)",
+      "word_transliteration": "yatawaffakum"
+    },
+    {
+      "word_arabic": "بِٱلَّيۡلِ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17155,
+      "word_number_in_surah": 978,
+      "word_surah": 6,
+      "word_translation": "by the night",
+      "word_transliteration": "bi-al-layli"
+    },
+    {
+      "word_arabic": "وَيَعۡلَمُ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17156,
+      "word_number_in_surah": 979,
+      "word_surah": 6,
+      "word_translation": "and He knows",
+      "word_transliteration": "waya'lamu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17157,
+      "word_number_in_surah": 980,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "جَرَحۡتُم",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17158,
+      "word_number_in_surah": 981,
+      "word_surah": 6,
+      "word_translation": "you committed",
+      "word_transliteration": "jarahtum"
+    },
+    {
+      "word_arabic": "بِٱلنَّهَارِ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17159,
+      "word_number_in_surah": 982,
+      "word_surah": 6,
+      "word_translation": "by the day",
+      "word_transliteration": "bil-nahari"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17160,
+      "word_number_in_surah": 983,
+      "word_surah": 6,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يَبۡعَثُكُمۡ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17161,
+      "word_number_in_surah": 984,
+      "word_surah": 6,
+      "word_translation": "He raises you up",
+      "word_transliteration": "yab'athukum"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17162,
+      "word_number_in_surah": 985,
+      "word_surah": 6,
+      "word_translation": "therein",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "لِيُقۡضَىٰٓ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17163,
+      "word_number_in_surah": 986,
+      "word_surah": 6,
+      "word_translation": "so that is fulfilled",
+      "word_transliteration": "liyuq'da"
+    },
+    {
+      "word_arabic": "أَجَلٞ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17164,
+      "word_number_in_surah": 987,
+      "word_surah": 6,
+      "word_translation": "(the) term",
+      "word_transliteration": "ajalun"
+    },
+    {
+      "word_arabic": "مُّسَمّٗىۖ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17165,
+      "word_number_in_surah": 988,
+      "word_surah": 6,
+      "word_translation": "specified",
+      "word_transliteration": "musamman"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17166,
+      "word_number_in_surah": 989,
+      "word_surah": 6,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17167,
+      "word_number_in_surah": 990,
+      "word_surah": 6,
+      "word_translation": "to Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "مَرۡجِعُكُمۡ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17168,
+      "word_number_in_surah": 991,
+      "word_surah": 6,
+      "word_translation": "will be your return",
+      "word_transliteration": "marji'ukum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17169,
+      "word_number_in_surah": 992,
+      "word_surah": 6,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يُنَبِّئُكُم",
+      "word_ayah": 60,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17170,
+      "word_number_in_surah": 993,
+      "word_surah": 6,
+      "word_translation": "He will inform you",
+      "word_transliteration": "yunabbi-ukum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17171,
+      "word_number_in_surah": 994,
+      "word_surah": 6,
+      "word_translation": "about what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17172,
+      "word_number_in_surah": 995,
+      "word_surah": 6,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17173,
+      "word_number_in_surah": 996,
+      "word_surah": 6,
+      "word_translation": "do",
+      "word_transliteration": "ta'maluna"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱلَّذِي يَتَوَفَّىٰكُم بِٱلَّيۡلِ وَيَعۡلَمُ مَا جَرَحۡتُم بِٱلنَّهَارِ ثُمَّ يَبۡعَثُكُمۡ فِيهِ لِيُقۡضَىٰٓ أَجَلٞ مُّسَمّٗىۖ ثُمَّ إِلَيۡهِ مَرۡجِعُكُمۡ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "fullTranslation": "And it is He who takes your souls by night and knows what you have committed by day. Then He revives you therein that a specified term may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do.",
+  "fullTransliteration": "wahuwa alladhi yatawaffakum bi-al-layli waya'lamu ma jarahtum bil-nahari thumma yab'athukum fihi liyuq'da ajalun musamman thumma ilayhi marji'ukum thumma yunabbi-ukum bima kuntum ta'maluna"
+}

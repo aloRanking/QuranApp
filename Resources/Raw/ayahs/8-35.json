@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "ayah": 35,
+    "surah": 8,
+    "words": 13,
+    "numberInQuran": 1195,
+    "juz": 9,
+    "manzil": 2,
+    "page": 181,
+    "ruku": 149,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23044,
+      "word_number_in_surah": 497,
+      "word_surah": 8,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23045,
+      "word_number_in_surah": 498,
+      "word_surah": 8,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "صَلَاتُهُمۡ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23046,
+      "word_number_in_surah": 499,
+      "word_surah": 8,
+      "word_translation": "their prayer",
+      "word_transliteration": "salatuhum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23047,
+      "word_number_in_surah": 500,
+      "word_surah": 8,
+      "word_translation": "at",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱلۡبَيۡتِ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23048,
+      "word_number_in_surah": 501,
+      "word_surah": 8,
+      "word_translation": "the House",
+      "word_transliteration": "al-bayti"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23049,
+      "word_number_in_surah": 502,
+      "word_surah": 8,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مُكَآءٗ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23050,
+      "word_number_in_surah": 503,
+      "word_surah": 8,
+      "word_translation": "whistling",
+      "word_transliteration": "mukaan"
+    },
+    {
+      "word_arabic": "وَتَصۡدِيَةٗۚ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23051,
+      "word_number_in_surah": 504,
+      "word_surah": 8,
+      "word_translation": "and clapping",
+      "word_transliteration": "watasdiyatan"
+    },
+    {
+      "word_arabic": "فَذُوقُواْ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23052,
+      "word_number_in_surah": 505,
+      "word_surah": 8,
+      "word_translation": "So taste",
+      "word_transliteration": "fadhuqu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23053,
+      "word_number_in_surah": 506,
+      "word_surah": 8,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhaba"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23054,
+      "word_number_in_surah": 507,
+      "word_surah": 8,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 35,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23055,
+      "word_number_in_surah": 508,
+      "word_surah": 8,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونَ",
+      "word_ayah": 35,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23056,
+      "word_number_in_surah": 509,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "takfuruna"
+    }
+  ],
+  "fullArabic": "وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَيۡتِ إِلَّا مُكَآءٗ وَتَصۡدِيَةٗۚ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+  "fullTranslation": "And their prayer at the House was not except whistling and handclapping. So taste the punishment for what you disbelieved.",
+  "fullTransliteration": "wama kana salatuhum inda al-bayti illa mukaan watasdiyatan fadhuqu al-'adhaba bima kuntum takfuruna"
+}

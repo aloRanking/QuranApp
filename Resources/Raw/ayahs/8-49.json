@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "ayah": 49,
+    "surah": 8,
+    "words": 18,
+    "numberInQuran": 1209,
+    "juz": 10,
+    "manzil": 2,
+    "page": 183,
+    "ruku": 152,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23323,
+      "word_number_in_surah": 776,
+      "word_surah": 8,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23324,
+      "word_number_in_surah": 777,
+      "word_surah": 8,
+      "word_translation": "said",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "ٱلۡمُنَٰفِقُونَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23325,
+      "word_number_in_surah": 778,
+      "word_surah": 8,
+      "word_translation": "the hypocrites",
+      "word_transliteration": "al-munafiquna"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23326,
+      "word_number_in_surah": 779,
+      "word_surah": 8,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23327,
+      "word_number_in_surah": 780,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قُلُوبِهِم",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23328,
+      "word_number_in_surah": 781,
+      "word_surah": 8,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "مَّرَضٌ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23329,
+      "word_number_in_surah": 782,
+      "word_surah": 8,
+      "word_translation": "(was) a disease",
+      "word_transliteration": "maradun"
+    },
+    {
+      "word_arabic": "غَرَّ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23330,
+      "word_number_in_surah": 783,
+      "word_surah": 8,
+      "word_translation": "(Had) deluded",
+      "word_transliteration": "gharra"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23331,
+      "word_number_in_surah": 784,
+      "word_surah": 8,
+      "word_translation": "these (people)",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "دِينُهُمۡۗ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23332,
+      "word_number_in_surah": 785,
+      "word_surah": 8,
+      "word_translation": "their religion",
+      "word_transliteration": "dinuhum"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 49,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23333,
+      "word_number_in_surah": 786,
+      "word_surah": 8,
+      "word_translation": "But whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَتَوَكَّلۡ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23334,
+      "word_number_in_surah": 787,
+      "word_surah": 8,
+      "word_translation": "puts (his) trust",
+      "word_transliteration": "yatawakkal"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23335,
+      "word_number_in_surah": 788,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23336,
+      "word_number_in_surah": 789,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23337,
+      "word_number_in_surah": 790,
+      "word_surah": 8,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23338,
+      "word_number_in_surah": 791,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَزِيزٌ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23339,
+      "word_number_in_surah": 792,
+      "word_surah": 8,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "حَكِيمٞ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23340,
+      "word_number_in_surah": 793,
+      "word_surah": 8,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "إِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمۡۗ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "fullTranslation": "[Remember] when the hypocrites and those in whose hearts was disease said, \"Their religion has deluded those [Muslims].\" But whoever relies upon Allah - then indeed, Allah is Exalted in Might and Wise.",
+  "fullTransliteration": "idh yaqulu al-munafiquna wa-alladhina fi qulubihim maradun gharra haulai dinuhum waman yatawakkal ala al-lahi fa-inna al-laha azizun hakimun"
+}

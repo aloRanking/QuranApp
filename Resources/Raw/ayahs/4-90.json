@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "ayah": 90,
+    "surah": 4,
+    "words": 36,
+    "numberInQuran": 583,
+    "juz": 5,
+    "manzil": 1,
+    "page": 92,
+    "ruku": 73,
+    "hizbQuarter": 37,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11589,
+      "word_number_in_surah": 1963,
+      "word_surah": 4,
+      "word_translation": "Except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11590,
+      "word_number_in_surah": 1964,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَصِلُونَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11591,
+      "word_number_in_surah": 1965,
+      "word_surah": 4,
+      "word_translation": "join",
+      "word_transliteration": "yasiluna"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11592,
+      "word_number_in_surah": 1966,
+      "word_surah": 4,
+      "word_translation": "[to]",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "قَوۡمِۢ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11593,
+      "word_number_in_surah": 1967,
+      "word_surah": 4,
+      "word_translation": "a group",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "بَيۡنَكُمۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11594,
+      "word_number_in_surah": 1968,
+      "word_surah": 4,
+      "word_translation": "between you",
+      "word_transliteration": "baynakum"
+    },
+    {
+      "word_arabic": "وَبَيۡنَهُم",
+      "word_ayah": 90,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11595,
+      "word_number_in_surah": 1969,
+      "word_surah": 4,
+      "word_translation": "and between them",
+      "word_transliteration": "wabaynahum"
+    },
+    {
+      "word_arabic": "مِّيثَٰقٌ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11596,
+      "word_number_in_surah": 1970,
+      "word_surah": 4,
+      "word_translation": "(is) a treaty",
+      "word_transliteration": "mithaqun"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11597,
+      "word_number_in_surah": 1971,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "جَآءُوكُمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11598,
+      "word_number_in_surah": 1972,
+      "word_surah": 4,
+      "word_translation": "those who come to you",
+      "word_transliteration": "jaukum"
+    },
+    {
+      "word_arabic": "حَصِرَتۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11599,
+      "word_number_in_surah": 1973,
+      "word_surah": 4,
+      "word_translation": "restraining",
+      "word_transliteration": "hasirat"
+    },
+    {
+      "word_arabic": "صُدُورُهُمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11600,
+      "word_number_in_surah": 1974,
+      "word_surah": 4,
+      "word_translation": "their hearts",
+      "word_transliteration": "suduruhum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 90,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11601,
+      "word_number_in_surah": 1975,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُقَٰتِلُوكُمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11602,
+      "word_number_in_surah": 1976,
+      "word_surah": 4,
+      "word_translation": "they fight you",
+      "word_transliteration": "yuqatilukum"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11603,
+      "word_number_in_surah": 1977,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يُقَٰتِلُواْ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11604,
+      "word_number_in_surah": 1978,
+      "word_surah": 4,
+      "word_translation": "they fight",
+      "word_transliteration": "yuqatilu"
+    },
+    {
+      "word_arabic": "قَوۡمَهُمۡۚ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11605,
+      "word_number_in_surah": 1979,
+      "word_surah": 4,
+      "word_translation": "their people",
+      "word_transliteration": "qawmahum"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11606,
+      "word_number_in_surah": 1980,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11607,
+      "word_number_in_surah": 1981,
+      "word_surah": 4,
+      "word_translation": "(had) willed",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11608,
+      "word_number_in_surah": 1982,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَسَلَّطَهُمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11609,
+      "word_number_in_surah": 1983,
+      "word_surah": 4,
+      "word_translation": "surely He (would have) given them power",
+      "word_transliteration": "lasallatahum"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11610,
+      "word_number_in_surah": 1984,
+      "word_surah": 4,
+      "word_translation": "over you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "فَلَقَٰتَلُوكُمۡۚ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11611,
+      "word_number_in_surah": 1985,
+      "word_surah": 4,
+      "word_translation": "and surely they (would have) fought you",
+      "word_transliteration": "falaqatalukum"
+    },
+    {
+      "word_arabic": "فَإِنِ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11612,
+      "word_number_in_surah": 1986,
+      "word_surah": 4,
+      "word_translation": "So if",
+      "word_transliteration": "fa-ini"
+    },
+    {
+      "word_arabic": "ٱعۡتَزَلُوكُمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11613,
+      "word_number_in_surah": 1987,
+      "word_surah": 4,
+      "word_translation": "they withdraw from you",
+      "word_transliteration": "i'tazalukum"
+    },
+    {
+      "word_arabic": "فَلَمۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11614,
+      "word_number_in_surah": 1988,
+      "word_surah": 4,
+      "word_translation": "and (do) not",
+      "word_transliteration": "falam"
+    },
+    {
+      "word_arabic": "يُقَٰتِلُوكُمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11615,
+      "word_number_in_surah": 1989,
+      "word_surah": 4,
+      "word_translation": "fight against you",
+      "word_transliteration": "yuqatilukum"
+    },
+    {
+      "word_arabic": "وَأَلۡقَوۡاْ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 11616,
+      "word_number_in_surah": 1990,
+      "word_surah": 4,
+      "word_translation": "and offer",
+      "word_transliteration": "wa-alqaw"
+    },
+    {
+      "word_arabic": "إِلَيۡكُمُ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 11617,
+      "word_number_in_surah": 1991,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "ilaykumu"
+    },
+    {
+      "word_arabic": "ٱلسَّلَمَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 11618,
+      "word_number_in_surah": 1992,
+      "word_surah": 4,
+      "word_translation": "[the] peace",
+      "word_transliteration": "al-salama"
+    },
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 11619,
+      "word_number_in_surah": 1993,
+      "word_surah": 4,
+      "word_translation": "then not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "جَعَلَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 11620,
+      "word_number_in_surah": 1994,
+      "word_surah": 4,
+      "word_translation": "(has) made",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 11621,
+      "word_number_in_surah": 1995,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 11622,
+      "word_number_in_surah": 1996,
+      "word_surah": 4,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 11623,
+      "word_number_in_surah": 1997,
+      "word_surah": 4,
+      "word_translation": "against them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "سَبِيلٗا",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 11624,
+      "word_number_in_surah": 1998,
+      "word_surah": 4,
+      "word_translation": "a way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوۡمِۢ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٌ أَوۡ جَآءُوكُمۡ حَصِرَتۡ صُدُورُهُمۡ أَن يُقَٰتِلُوكُمۡ أَوۡ يُقَٰتِلُواْ قَوۡمَهُمۡۚ وَلَوۡ شَآءَ ٱللَّهُ لَسَلَّطَهُمۡ عَلَيۡكُمۡ فَلَقَٰتَلُوكُمۡۚ فَإِنِ ٱعۡتَزَلُوكُمۡ فَلَمۡ يُقَٰتِلُوكُمۡ وَأَلۡقَوۡاْ إِلَيۡكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمۡ عَلَيۡهِمۡ سَبِيلٗا",
+  "fullTranslation": "Except for those who take refuge with a people between yourselves and whom is a treaty or those who come to you, their hearts strained at [the prospect of] fighting you or fighting their own people. And if Allah had willed, He could have given them power over you, and they would have fought you. So if they remove themselves from you and do not fight you and offer you peace, then Allah has not made for you a cause [for fighting] against them.",
+  "fullTransliteration": "illa alladhina yasiluna ila qawmin baynakum wabaynahum mithaqun aw jaukum hasirat suduruhum an yuqatilukum aw yuqatilu qawmahum walaw shaa al-lahu lasallatahum alaykum falaqatalukum fa-ini i'tazalukum falam yuqatilukum wa-alqaw ilaykumu al-salama fama ja'ala al-lahu lakum alayhim sabilan"
+}

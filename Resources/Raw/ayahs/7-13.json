@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "ayah": 13,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 967,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19354,
+      "word_number_in_surah": 127,
+      "word_surah": 7,
+      "word_translation": "(Allah) said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "فَٱهۡبِطۡ",
+      "word_ayah": 13,
+      "word_last_updated": "12/25/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19355,
+      "word_number_in_surah": 128,
+      "word_surah": 7,
+      "word_translation": "Then go down",
+      "word_transliteration": "fah'bit"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19356,
+      "word_number_in_surah": 129,
+      "word_surah": 7,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19357,
+      "word_number_in_surah": 130,
+      "word_surah": 7,
+      "word_translation": "for not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "يَكُونُ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19358,
+      "word_number_in_surah": 131,
+      "word_surah": 7,
+      "word_translation": "it is",
+      "word_transliteration": "yakunu"
+    },
+    {
+      "word_arabic": "لَكَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19359,
+      "word_number_in_surah": 132,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 13,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19360,
+      "word_number_in_surah": 133,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَتَكَبَّرَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19361,
+      "word_number_in_surah": 134,
+      "word_surah": 7,
+      "word_translation": "you be arrogant",
+      "word_transliteration": "tatakabbara"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19362,
+      "word_number_in_surah": 135,
+      "word_surah": 7,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "فَٱخۡرُجۡ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19363,
+      "word_number_in_surah": 136,
+      "word_surah": 7,
+      "word_translation": "So get out",
+      "word_transliteration": "fa-ukh'ruj"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19364,
+      "word_number_in_surah": 137,
+      "word_surah": 7,
+      "word_translation": "indeed you",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 13,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19365,
+      "word_number_in_surah": 138,
+      "word_surah": 7,
+      "word_translation": "(are) of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلصَّٰغِرِينَ",
+      "word_ayah": 13,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19366,
+      "word_number_in_surah": 139,
+      "word_surah": 7,
+      "word_translation": "the disgraced ones",
+      "word_transliteration": "al-saghirina"
+    }
+  ],
+  "fullArabic": "قَالَ فَٱهۡبِطۡ مِنۡهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَٱخۡرُجۡ إِنَّكَ مِنَ ٱلصَّٰغِرِينَ",
+  "fullTranslation": "[Allah] said, \"Descend from Paradise, for it is not for you to be arrogant therein. So get out; indeed, you are of the debased.",
+  "fullTransliteration": "qala fah'bit min'ha fama yakunu laka an tatakabbara fiha fa-ukh'ruj innaka mina al-saghirina"
+}

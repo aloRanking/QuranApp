@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "ayah": 81,
+    "surah": 3,
+    "words": 33,
+    "numberInQuran": 374,
+    "juz": 3,
+    "manzil": 1,
+    "page": 60,
+    "ruku": 50,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7527,
+      "word_number_in_surah": 1382,
+      "word_surah": 3,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "أَخَذَ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7528,
+      "word_number_in_surah": 1383,
+      "word_surah": 3,
+      "word_translation": "took",
+      "word_transliteration": "akhadha"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7529,
+      "word_number_in_surah": 1384,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِيثَٰقَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7530,
+      "word_number_in_surah": 1385,
+      "word_surah": 3,
+      "word_translation": "covenant",
+      "word_transliteration": "mithaqa"
+    },
+    {
+      "word_arabic": "ٱلنَّبِيِّ‍ۧنَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7531,
+      "word_number_in_surah": 1386,
+      "word_surah": 3,
+      "word_translation": "(of) the Prophets",
+      "word_transliteration": "al-nabiyina"
+    },
+    {
+      "word_arabic": "لَمَآ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7532,
+      "word_number_in_surah": 1387,
+      "word_surah": 3,
+      "word_translation": "Certainly, whatever",
+      "word_transliteration": "lama"
+    },
+    {
+      "word_arabic": "ءَاتَيۡتُكُم",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7533,
+      "word_number_in_surah": 1388,
+      "word_surah": 3,
+      "word_translation": "I (have) given you",
+      "word_transliteration": "ataytukum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 81,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7534,
+      "word_number_in_surah": 1389,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "كِتَٰبٖ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7535,
+      "word_number_in_surah": 1390,
+      "word_surah": 3,
+      "word_translation": "(the) Book",
+      "word_transliteration": "kitabin"
+    },
+    {
+      "word_arabic": "وَحِكۡمَةٖ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7536,
+      "word_number_in_surah": 1391,
+      "word_surah": 3,
+      "word_translation": "and wisdom",
+      "word_transliteration": "wahik'matin"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7537,
+      "word_number_in_surah": 1392,
+      "word_surah": 3,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "جَآءَكُمۡ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7538,
+      "word_number_in_surah": 1393,
+      "word_surah": 3,
+      "word_translation": "comes to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "رَسُولٞ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7539,
+      "word_number_in_surah": 1394,
+      "word_surah": 3,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulun"
+    },
+    {
+      "word_arabic": "مُّصَدِّقٞ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7540,
+      "word_number_in_surah": 1395,
+      "word_surah": 3,
+      "word_translation": "confirming",
+      "word_transliteration": "musaddiqun"
+    },
+    {
+      "word_arabic": "لِّمَا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7541,
+      "word_number_in_surah": 1396,
+      "word_surah": 3,
+      "word_translation": "that which",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "مَعَكُمۡ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7542,
+      "word_number_in_surah": 1397,
+      "word_surah": 3,
+      "word_translation": "(is) with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "لَتُؤۡمِنُنَّ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7543,
+      "word_number_in_surah": 1398,
+      "word_surah": 3,
+      "word_translation": "you must believe",
+      "word_transliteration": "latu'minunna"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7544,
+      "word_number_in_surah": 1399,
+      "word_surah": 3,
+      "word_translation": "in him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَلَتَنصُرُنَّهُۥۚ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7545,
+      "word_number_in_surah": 1400,
+      "word_surah": 3,
+      "word_translation": "and you must help him",
+      "word_transliteration": "walatansurunnahu"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7546,
+      "word_number_in_surah": 1401,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ءَأَقۡرَرۡتُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7547,
+      "word_number_in_surah": 1402,
+      "word_surah": 3,
+      "word_translation": "Do you affirm",
+      "word_transliteration": "a-aqrartum"
+    },
+    {
+      "word_arabic": "وَأَخَذۡتُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7548,
+      "word_number_in_surah": 1403,
+      "word_surah": 3,
+      "word_translation": "and take",
+      "word_transliteration": "wa-akhadhtum"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7549,
+      "word_number_in_surah": 1404,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ذَٰلِكُمۡ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7550,
+      "word_number_in_surah": 1405,
+      "word_surah": 3,
+      "word_translation": "that (condition)",
+      "word_transliteration": "dhalikum"
+    },
+    {
+      "word_arabic": "إِصۡرِيۖ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 7551,
+      "word_number_in_surah": 1406,
+      "word_surah": 3,
+      "word_translation": "My Covenant",
+      "word_transliteration": "is'ri"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 7552,
+      "word_number_in_surah": 1407,
+      "word_surah": 3,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَقۡرَرۡنَاۚ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 7553,
+      "word_number_in_surah": 1408,
+      "word_surah": 3,
+      "word_translation": "We affirm",
+      "word_transliteration": "aqrarna"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 7554,
+      "word_number_in_surah": 1409,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "فَٱشۡهَدُواْ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 7555,
+      "word_number_in_surah": 1410,
+      "word_surah": 3,
+      "word_translation": "Then bear witness",
+      "word_transliteration": "fa-ish'hadu"
+    },
+    {
+      "word_arabic": "وَأَنَا۠",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 7556,
+      "word_number_in_surah": 1411,
+      "word_surah": 3,
+      "word_translation": "and I (am)",
+      "word_transliteration": "wa-ana"
+    },
+    {
+      "word_arabic": "مَعَكُم",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 7557,
+      "word_number_in_surah": 1412,
+      "word_surah": 3,
+      "word_translation": "with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 7558,
+      "word_number_in_surah": 1413,
+      "word_surah": 3,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلشَّٰهِدِينَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 7559,
+      "word_number_in_surah": 1414,
+      "word_surah": 3,
+      "word_translation": "the witnesses",
+      "word_transliteration": "al-shahidina"
+    }
+  ],
+  "fullArabic": "وَإِذۡ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّ‍ۧنَ لَمَآ ءَاتَيۡتُكُم مِّن كِتَٰبٖ وَحِكۡمَةٖ ثُمَّ جَآءَكُمۡ رَسُولٞ مُّصَدِّقٞ لِّمَا مَعَكُمۡ لَتُؤۡمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥۚ قَالَ ءَأَقۡرَرۡتُمۡ وَأَخَذۡتُمۡ عَلَىٰ ذَٰلِكُمۡ إِصۡرِيۖ قَالُوٓاْ أَقۡرَرۡنَاۚ قَالَ فَٱشۡهَدُواْ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ",
+  "fullTranslation": "And [recall, O People of the Scripture], when Allah took the covenant of the prophets, [saying], \"Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him.\" [Allah] said, \"Have you acknowledged and taken upon that My commitment?\" They said, \"We have acknowledged it.\" He said, \"Then bear witness, and I am with you among the witnesses.\"",
+  "fullTransliteration": "wa-idh akhadha al-lahu mithaqa al-nabiyina lama ataytukum min kitabin wahik'matin thumma jaakum rasulun musaddiqun lima ma'akum latu'minunna bihi walatansurunnahu qala a-aqrartum wa-akhadhtum ala dhalikum is'ri qalu aqrarna qala fa-ish'hadu wa-ana ma'akum mina al-shahidina"
+}

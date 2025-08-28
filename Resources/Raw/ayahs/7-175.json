@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "ayah": 175,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1129,
+    "juz": 9,
+    "manzil": 2,
+    "page": 173,
+    "ruku": 143,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱتۡلُ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22082,
+      "word_number_in_surah": 2855,
+      "word_surah": 7,
+      "word_translation": "And recite",
+      "word_transliteration": "wa-ut'lu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22083,
+      "word_number_in_surah": 2856,
+      "word_surah": 7,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "نَبَأَ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22084,
+      "word_number_in_surah": 2857,
+      "word_surah": 7,
+      "word_translation": "(the) story",
+      "word_transliteration": "naba-a"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22085,
+      "word_number_in_surah": 2858,
+      "word_surah": 7,
+      "word_translation": "(of the) one whom",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَٰهُ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22086,
+      "word_number_in_surah": 2859,
+      "word_surah": 7,
+      "word_translation": "We gave [him]",
+      "word_transliteration": "ataynahu"
+    },
+    {
+      "word_arabic": "ءَايَٰتِنَا",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22087,
+      "word_number_in_surah": 2860,
+      "word_surah": 7,
+      "word_translation": "Our Verses",
+      "word_transliteration": "ayatina"
+    },
+    {
+      "word_arabic": "فَٱنسَلَخَ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22088,
+      "word_number_in_surah": 2861,
+      "word_surah": 7,
+      "word_translation": "but he detached",
+      "word_transliteration": "fa-insalakha"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22089,
+      "word_number_in_surah": 2862,
+      "word_surah": 7,
+      "word_translation": "[from] them",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "فَأَتۡبَعَهُ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22090,
+      "word_number_in_surah": 2863,
+      "word_surah": 7,
+      "word_translation": "so followed him",
+      "word_transliteration": "fa-atba'ahu"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22091,
+      "word_number_in_surah": 2864,
+      "word_surah": 7,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "فَكَانَ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22092,
+      "word_number_in_surah": 2865,
+      "word_surah": 7,
+      "word_translation": "and he became",
+      "word_transliteration": "fakana"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22093,
+      "word_number_in_surah": 2866,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡغَاوِينَ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22094,
+      "word_number_in_surah": 2867,
+      "word_surah": 7,
+      "word_translation": "those gone astray",
+      "word_transliteration": "al-ghawina"
+    }
+  ],
+  "fullArabic": "وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ ٱلَّذِيٓ ءَاتَيۡنَٰهُ ءَايَٰتِنَا فَٱنسَلَخَ مِنۡهَا فَأَتۡبَعَهُ ٱلشَّيۡطَٰنُ فَكَانَ مِنَ ٱلۡغَاوِينَ",
+  "fullTranslation": "And recite to them, [O Muhammad], the news of him to whom we gave [knowledge of] Our signs, but he detached himself from them; so Satan pursued him, and he became of the deviators.",
+  "fullTransliteration": "wa-ut'lu alayhim naba-a alladhi ataynahu ayatina fa-insalakha min'ha fa-atba'ahu al-shaytanu fakana mina al-ghawina"
+}

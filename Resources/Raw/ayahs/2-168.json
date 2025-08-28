@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "ayah": 168,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 175,
+    "juz": 2,
+    "manzil": 1,
+    "page": 25,
+    "ruku": 22,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3015,
+      "word_number_in_surah": 2986,
+      "word_surah": 2,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3016,
+      "word_number_in_surah": 2987,
+      "word_surah": 2,
+      "word_translation": "mankind",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "كُلُواْ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3017,
+      "word_number_in_surah": 2988,
+      "word_surah": 2,
+      "word_translation": "Eat",
+      "word_transliteration": "kulu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3018,
+      "word_number_in_surah": 2989,
+      "word_surah": 2,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3019,
+      "word_number_in_surah": 2990,
+      "word_surah": 2,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3020,
+      "word_number_in_surah": 2991,
+      "word_surah": 2,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "حَلَٰلٗا",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3021,
+      "word_number_in_surah": 2992,
+      "word_surah": 2,
+      "word_translation": "lawful",
+      "word_transliteration": "halalan"
+    },
+    {
+      "word_arabic": "طَيِّبٗا",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3022,
+      "word_number_in_surah": 2993,
+      "word_surah": 2,
+      "word_translation": "(and) good",
+      "word_transliteration": "tayyiban"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3023,
+      "word_number_in_surah": 2994,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعُواْ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3024,
+      "word_number_in_surah": 2995,
+      "word_surah": 2,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'u"
+    },
+    {
+      "word_arabic": "خُطُوَٰتِ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3025,
+      "word_number_in_surah": 2996,
+      "word_surah": 2,
+      "word_translation": "(the) footsteps (of)",
+      "word_transliteration": "khutuwati"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنِۚ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3026,
+      "word_number_in_surah": 2997,
+      "word_surah": 2,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytani"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3027,
+      "word_number_in_surah": 2998,
+      "word_surah": 2,
+      "word_translation": "Indeed, he",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 168,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3028,
+      "word_number_in_surah": 2999,
+      "word_surah": 2,
+      "word_translation": "(is) to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عَدُوّٞ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3029,
+      "word_number_in_surah": 3000,
+      "word_surah": 2,
+      "word_translation": "an enemy",
+      "word_transliteration": "aduwwun"
+    },
+    {
+      "word_arabic": "مُّبِينٌ",
+      "word_ayah": 168,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3030,
+      "word_number_in_surah": 3001,
+      "word_surah": 2,
+      "word_translation": "clear",
+      "word_transliteration": "mubinun"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلنَّاسُ كُلُواْ مِمَّا فِي ٱلۡأَرۡضِ حَلَٰلٗا طَيِّبٗا وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٌ",
+  "fullTranslation": "O mankind, eat from whatever is on earth [that is] lawful and good and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.",
+  "fullTransliteration": "yaayyuha al-nasu kulu mimma fi al-ardi halalan tayyiban wala tattabi'u khutuwati al-shaytani innahu lakum aduwwun mubinun"
+}

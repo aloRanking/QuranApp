@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "ayah": 28,
+    "surah": 7,
+    "words": 22,
+    "numberInQuran": 982,
+    "juz": 8,
+    "manzil": 2,
+    "page": 153,
+    "ruku": 124,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19564,
+      "word_number_in_surah": 337,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "فَعَلُواْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19565,
+      "word_number_in_surah": 338,
+      "word_surah": 7,
+      "word_translation": "they do",
+      "word_transliteration": "fa'alu"
+    },
+    {
+      "word_arabic": "فَٰحِشَةٗ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19566,
+      "word_number_in_surah": 339,
+      "word_surah": 7,
+      "word_translation": "immorality",
+      "word_transliteration": "fahishatan"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19567,
+      "word_number_in_surah": 340,
+      "word_surah": 7,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "وَجَدۡنَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19568,
+      "word_number_in_surah": 341,
+      "word_surah": 7,
+      "word_translation": "We found",
+      "word_transliteration": "wajadna"
+    },
+    {
+      "word_arabic": "عَلَيۡهَآ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19569,
+      "word_number_in_surah": 342,
+      "word_surah": 7,
+      "word_translation": "on it",
+      "word_transliteration": "alayha"
+    },
+    {
+      "word_arabic": "ءَابَآءَنَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19570,
+      "word_number_in_surah": 343,
+      "word_surah": 7,
+      "word_translation": "our forefathers",
+      "word_transliteration": "abaana"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19571,
+      "word_number_in_surah": 344,
+      "word_surah": 7,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَمَرَنَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19572,
+      "word_number_in_surah": 345,
+      "word_surah": 7,
+      "word_translation": "(has) ordered us",
+      "word_transliteration": "amarana"
+    },
+    {
+      "word_arabic": "بِهَاۗ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19573,
+      "word_number_in_surah": 346,
+      "word_surah": 7,
+      "word_translation": "of it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19574,
+      "word_number_in_surah": 347,
+      "word_surah": 7,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19575,
+      "word_number_in_surah": 348,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19576,
+      "word_number_in_surah": 349,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19577,
+      "word_number_in_surah": 350,
+      "word_surah": 7,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَأۡمُرُ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19578,
+      "word_number_in_surah": 351,
+      "word_surah": 7,
+      "word_translation": "order",
+      "word_transliteration": "yamuru"
+    },
+    {
+      "word_arabic": "بِٱلۡفَحۡشَآءِۖ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19579,
+      "word_number_in_surah": 352,
+      "word_surah": 7,
+      "word_translation": "immorality",
+      "word_transliteration": "bil-fahshai"
+    },
+    {
+      "word_arabic": "أَتَقُولُونَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19580,
+      "word_number_in_surah": 353,
+      "word_surah": 7,
+      "word_translation": "Do you say",
+      "word_transliteration": "ataquluna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19581,
+      "word_number_in_surah": 354,
+      "word_surah": 7,
+      "word_translation": "about",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19582,
+      "word_number_in_surah": 355,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19583,
+      "word_number_in_surah": 356,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19584,
+      "word_number_in_surah": 357,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19585,
+      "word_number_in_surah": 358,
+      "word_surah": 7,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَإِذَا فَعَلُواْ فَٰحِشَةٗ قَالُواْ وَجَدۡنَا عَلَيۡهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَاۗ قُلۡ إِنَّ ٱللَّهَ لَا يَأۡمُرُ بِٱلۡفَحۡشَآءِۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "fullTranslation": "And when they commit an immorality, they say, \"We found our fathers doing it, and Allah has ordered us to do it.\" Say, \"Indeed, Allah does not order immorality. Do you say about Allah that which you do not know?\"",
+  "fullTransliteration": "wa-idha fa'alu fahishatan qalu wajadna alayha abaana wal-lahu amarana biha qul inna al-laha la yamuru bil-fahshai ataquluna ala al-lahi ma la ta'lamuna"
+}

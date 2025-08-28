@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 28,
+    "surah": 8,
+    "words": 10,
+    "numberInQuran": 1188,
+    "juz": 9,
+    "manzil": 2,
+    "page": 180,
+    "ruku": 148,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱعۡلَمُوٓاْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22931,
+      "word_number_in_surah": 384,
+      "word_surah": 8,
+      "word_translation": "And know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّمَآ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22932,
+      "word_number_in_surah": 385,
+      "word_surah": 8,
+      "word_translation": "that",
+      "word_transliteration": "annama"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلُكُمۡ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22933,
+      "word_number_in_surah": 386,
+      "word_surah": 8,
+      "word_translation": "your wealth",
+      "word_transliteration": "amwalukum"
+    },
+    {
+      "word_arabic": "وَأَوۡلَٰدُكُمۡ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22934,
+      "word_number_in_surah": 387,
+      "word_surah": 8,
+      "word_translation": "and your children",
+      "word_transliteration": "wa-awladukum"
+    },
+    {
+      "word_arabic": "فِتۡنَةٞ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22935,
+      "word_number_in_surah": 388,
+      "word_surah": 8,
+      "word_translation": "(are) a trial",
+      "word_transliteration": "fit'natun"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22936,
+      "word_number_in_surah": 389,
+      "word_surah": 8,
+      "word_translation": "And that",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22937,
+      "word_number_in_surah": 390,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عِندَهُۥٓ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22938,
+      "word_number_in_surah": 391,
+      "word_surah": 8,
+      "word_translation": "with Him",
+      "word_transliteration": "indahu"
+    },
+    {
+      "word_arabic": "أَجۡرٌ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22939,
+      "word_number_in_surah": 392,
+      "word_surah": 8,
+      "word_translation": "(is) a reward",
+      "word_transliteration": "ajrun"
+    },
+    {
+      "word_arabic": "عَظِيمٞ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22940,
+      "word_number_in_surah": 393,
+      "word_surah": 8,
+      "word_translation": "great",
+      "word_transliteration": "azimun"
+    }
+  ],
+  "fullArabic": "وَٱعۡلَمُوٓاْ أَنَّمَآ أَمۡوَٰلُكُمۡ وَأَوۡلَٰدُكُمۡ فِتۡنَةٞ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجۡرٌ عَظِيمٞ",
+  "fullTranslation": "And know that your properties and your children are but a trial and that Allah has with Him a great reward.",
+  "fullTransliteration": "wa-i'lamu annama amwalukum wa-awladukum fit'natun wa-anna al-laha indahu ajrun azimun"
+}

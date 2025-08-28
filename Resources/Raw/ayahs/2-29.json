@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "ayah": 29,
+    "surah": 2,
+    "words": 19,
+    "numberInQuran": 36,
+    "juz": 1,
+    "manzil": 1,
+    "page": 5,
+    "ruku": 4,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 433,
+      "word_number_in_surah": 404,
+      "word_surah": 2,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 434,
+      "word_number_in_surah": 405,
+      "word_surah": 2,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "خَلَقَ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 435,
+      "word_number_in_surah": 406,
+      "word_surah": 2,
+      "word_translation": "created",
+      "word_transliteration": "khalaqa"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 29,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 436,
+      "word_number_in_surah": 407,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 437,
+      "word_number_in_surah": 408,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 438,
+      "word_number_in_surah": 409,
+      "word_surah": 2,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 439,
+      "word_number_in_surah": 410,
+      "word_surah": 2,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "جَمِيعٗا",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 440,
+      "word_number_in_surah": 411,
+      "word_surah": 2,
+      "word_translation": "all",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 441,
+      "word_number_in_surah": 412,
+      "word_surah": 2,
+      "word_translation": "Moreover",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱسۡتَوَىٰٓ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 442,
+      "word_number_in_surah": 413,
+      "word_surah": 2,
+      "word_translation": "He turned",
+      "word_transliteration": "is'tawa"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 443,
+      "word_number_in_surah": 414,
+      "word_surah": 2,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 444,
+      "word_number_in_surah": 415,
+      "word_surah": 2,
+      "word_translation": "the heaven",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "فَسَوَّىٰهُنَّ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 445,
+      "word_number_in_surah": 416,
+      "word_surah": 2,
+      "word_translation": "and fashioned them",
+      "word_transliteration": "fasawwahunna"
+    },
+    {
+      "word_arabic": "سَبۡعَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 446,
+      "word_number_in_surah": 417,
+      "word_surah": 2,
+      "word_translation": "seven",
+      "word_transliteration": "sab'a"
+    },
+    {
+      "word_arabic": "سَمَٰوَٰتٖۚ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 447,
+      "word_number_in_surah": 418,
+      "word_surah": 2,
+      "word_translation": "heavens",
+      "word_transliteration": "samawatin"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 448,
+      "word_number_in_surah": 419,
+      "word_surah": 2,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 449,
+      "word_number_in_surah": 420,
+      "word_surah": 2,
+      "word_translation": "of every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 450,
+      "word_number_in_surah": 421,
+      "word_surah": 2,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 451,
+      "word_number_in_surah": 422,
+      "word_surah": 2,
+      "word_translation": "(is) All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "هُوَ ٱلَّذِي خَلَقَ لَكُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ ٱسۡتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبۡعَ سَمَٰوَٰتٖۚ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٞ",
+  "fullTranslation": "It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.",
+  "fullTransliteration": "huwa alladhi khalaqa lakum ma fi al-ardi jami'an thumma is'tawa ila al-samai fasawwahunna sab'a samawatin wahuwa bikulli shayin alimun"
+}

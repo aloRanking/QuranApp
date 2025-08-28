@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 162,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 169,
+    "juz": 2,
+    "manzil": 1,
+    "page": 24,
+    "ruku": 20,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "خَٰلِدِينَ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2888,
+      "word_number_in_surah": 2859,
+      "word_surah": 2,
+      "word_translation": "(Will) abide forever",
+      "word_transliteration": "khalidina"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2889,
+      "word_number_in_surah": 2860,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2890,
+      "word_number_in_surah": 2861,
+      "word_surah": 2,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُخَفَّفُ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2891,
+      "word_number_in_surah": 2862,
+      "word_surah": 2,
+      "word_translation": "will be lightened",
+      "word_transliteration": "yukhaffafu"
+    },
+    {
+      "word_arabic": "عَنۡهُمُ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2892,
+      "word_number_in_surah": 2863,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "anhumu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابُ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2893,
+      "word_number_in_surah": 2864,
+      "word_surah": 2,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhabu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2894,
+      "word_number_in_surah": 2865,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 162,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2895,
+      "word_number_in_surah": 2866,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يُنظَرُونَ",
+      "word_ayah": 162,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2896,
+      "word_number_in_surah": 2867,
+      "word_surah": 2,
+      "word_translation": "will be reprieved",
+      "word_transliteration": "yunzaruna"
+    }
+  ],
+  "fullArabic": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنظَرُونَ",
+  "fullTranslation": "Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved.",
+  "fullTransliteration": "khalidina fiha la yukhaffafu anhumu al-'adhabu wala hum yunzaruna"
+}

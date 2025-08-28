@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "ayah": 10,
+    "surah": 8,
+    "words": 18,
+    "numberInQuran": 1170,
+    "juz": 9,
+    "manzil": 2,
+    "page": 178,
+    "ruku": 146,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22664,
+      "word_number_in_surah": 117,
+      "word_surah": 8,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "جَعَلَهُ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22665,
+      "word_number_in_surah": 118,
+      "word_surah": 8,
+      "word_translation": "(it was) made",
+      "word_transliteration": "ja'alahu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22666,
+      "word_number_in_surah": 119,
+      "word_surah": 8,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22667,
+      "word_number_in_surah": 120,
+      "word_surah": 8,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "بُشۡرَىٰ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22668,
+      "word_number_in_surah": 121,
+      "word_surah": 8,
+      "word_translation": "good tidings",
+      "word_transliteration": "bush'ra"
+    },
+    {
+      "word_arabic": "وَلِتَطۡمَئِنَّ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22669,
+      "word_number_in_surah": 122,
+      "word_surah": 8,
+      "word_translation": "and so that might be at rest",
+      "word_transliteration": "walitatma-inna"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22670,
+      "word_number_in_surah": 123,
+      "word_surah": 8,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "قُلُوبُكُمۡۚ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22671,
+      "word_number_in_surah": 124,
+      "word_surah": 8,
+      "word_translation": "your hearts",
+      "word_transliteration": "qulubukum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22672,
+      "word_number_in_surah": 125,
+      "word_surah": 8,
+      "word_translation": "And (there is) no",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱلنَّصۡرُ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22673,
+      "word_number_in_surah": 126,
+      "word_surah": 8,
+      "word_translation": "[the] victory",
+      "word_transliteration": "al-nasru"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22674,
+      "word_number_in_surah": 127,
+      "word_surah": 8,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22675,
+      "word_number_in_surah": 128,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22676,
+      "word_number_in_surah": 129,
+      "word_surah": 8,
+      "word_translation": "[of]",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22677,
+      "word_number_in_surah": 130,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22678,
+      "word_number_in_surah": 131,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22679,
+      "word_number_in_surah": 132,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَزِيزٌ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22680,
+      "word_number_in_surah": 133,
+      "word_surah": 8,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "حَكِيمٌ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22681,
+      "word_number_in_surah": 134,
+      "word_surah": 8,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ وَلِتَطۡمَئِنَّ بِهِۦ قُلُوبُكُمۡۚ وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+  "fullTranslation": "And Allah made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allah. Indeed, Allah is Exalted in Might and Wise.",
+  "fullTransliteration": "wama ja'alahu al-lahu illa bush'ra walitatma-inna bihi qulubukum wama al-nasru illa min indi al-lahi inna al-laha azizun hakimun"
+}

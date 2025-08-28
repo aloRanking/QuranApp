@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 34,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 41,
+    "juz": 1,
+    "manzil": 1,
+    "page": 6,
+    "ruku": 5,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 529,
+      "word_number_in_surah": 500,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قُلۡنَا",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 530,
+      "word_number_in_surah": 501,
+      "word_surah": 2,
+      "word_translation": "We said",
+      "word_transliteration": "qul'na"
+    },
+    {
+      "word_arabic": "لِلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 531,
+      "word_number_in_surah": 502,
+      "word_surah": 2,
+      "word_translation": "to the angels",
+      "word_transliteration": "lil'malaikati"
+    },
+    {
+      "word_arabic": "ٱسۡجُدُواْ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 532,
+      "word_number_in_surah": 503,
+      "word_surah": 2,
+      "word_translation": "Prostrate",
+      "word_transliteration": "us'judu"
+    },
+    {
+      "word_arabic": "لِأٓدَمَ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 533,
+      "word_number_in_surah": 504,
+      "word_surah": 2,
+      "word_translation": "to Adam",
+      "word_transliteration": "liadama"
+    },
+    {
+      "word_arabic": "فَسَجَدُوٓاْ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 534,
+      "word_number_in_surah": 505,
+      "word_surah": 2,
+      "word_translation": "[so] they prostrated",
+      "word_transliteration": "fasajadu"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 535,
+      "word_number_in_surah": 506,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "إِبۡلِيسَ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 536,
+      "word_number_in_surah": 507,
+      "word_surah": 2,
+      "word_translation": "Iblees",
+      "word_transliteration": "ib'lisa"
+    },
+    {
+      "word_arabic": "أَبَىٰ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 537,
+      "word_number_in_surah": 508,
+      "word_surah": 2,
+      "word_translation": "He refused",
+      "word_transliteration": "aba"
+    },
+    {
+      "word_arabic": "وَٱسۡتَكۡبَرَ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 538,
+      "word_number_in_surah": 509,
+      "word_surah": 2,
+      "word_translation": "and was arrogant",
+      "word_transliteration": "wa-is'takbara"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 539,
+      "word_number_in_surah": 510,
+      "word_surah": 2,
+      "word_translation": "and became",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 34,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 540,
+      "word_number_in_surah": 511,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 34,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 541,
+      "word_number_in_surah": 512,
+      "word_surah": 2,
+      "word_translation": "the disbelievers",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ أَبَىٰ وَٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "And [mention] when We said to the angels, \"Prostrate before Adam\"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.",
+  "fullTransliteration": "wa-idh qul'na lil'malaikati us'judu liadama fasajadu illa ib'lisa aba wa-is'takbara wakana mina al-kafirina"
+}

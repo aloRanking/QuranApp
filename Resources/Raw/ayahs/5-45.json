@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "ayah": 45,
+    "surah": 5,
+    "words": 31,
+    "numberInQuran": 714,
+    "juz": 6,
+    "manzil": 2,
+    "page": 115,
+    "ruku": 92,
+    "hizbQuarter": 46,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَتَبۡنَا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14508,
+      "word_number_in_surah": 1135,
+      "word_surah": 5,
+      "word_translation": "And We ordained",
+      "word_transliteration": "wakatabna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14509,
+      "word_number_in_surah": 1136,
+      "word_surah": 5,
+      "word_translation": "for them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "فِيهَآ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14510,
+      "word_number_in_surah": 1137,
+      "word_surah": 5,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14511,
+      "word_number_in_surah": 1138,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱلنَّفۡسَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14512,
+      "word_number_in_surah": 1139,
+      "word_surah": 5,
+      "word_translation": "the life",
+      "word_transliteration": "al-nafsa"
+    },
+    {
+      "word_arabic": "بِٱلنَّفۡسِ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14513,
+      "word_number_in_surah": 1140,
+      "word_surah": 5,
+      "word_translation": "for the life",
+      "word_transliteration": "bil-nafsi"
+    },
+    {
+      "word_arabic": "وَٱلۡعَيۡنَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14514,
+      "word_number_in_surah": 1141,
+      "word_surah": 5,
+      "word_translation": "and the eye",
+      "word_transliteration": "wal-'ayna"
+    },
+    {
+      "word_arabic": "بِٱلۡعَيۡنِ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14515,
+      "word_number_in_surah": 1142,
+      "word_surah": 5,
+      "word_translation": "for the eye",
+      "word_transliteration": "bil-'ayni"
+    },
+    {
+      "word_arabic": "وَٱلۡأَنفَ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14516,
+      "word_number_in_surah": 1143,
+      "word_surah": 5,
+      "word_translation": "and the nose",
+      "word_transliteration": "wal-anfa"
+    },
+    {
+      "word_arabic": "بِٱلۡأَنفِ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14517,
+      "word_number_in_surah": 1144,
+      "word_surah": 5,
+      "word_translation": "for the nose",
+      "word_transliteration": "bil-anfi"
+    },
+    {
+      "word_arabic": "وَٱلۡأُذُنَ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14518,
+      "word_number_in_surah": 1145,
+      "word_surah": 5,
+      "word_translation": "and the ear",
+      "word_transliteration": "wal-udhuna"
+    },
+    {
+      "word_arabic": "بِٱلۡأُذُنِ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14519,
+      "word_number_in_surah": 1146,
+      "word_surah": 5,
+      "word_translation": "for the ear",
+      "word_transliteration": "bil-udhuni"
+    },
+    {
+      "word_arabic": "وَٱلسِّنَّ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14520,
+      "word_number_in_surah": 1147,
+      "word_surah": 5,
+      "word_translation": "and the tooth",
+      "word_transliteration": "wal-sina"
+    },
+    {
+      "word_arabic": "بِٱلسِّنِّ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14521,
+      "word_number_in_surah": 1148,
+      "word_surah": 5,
+      "word_translation": "for the tooth",
+      "word_transliteration": "bil-sini"
+    },
+    {
+      "word_arabic": "وَٱلۡجُرُوحَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14522,
+      "word_number_in_surah": 1149,
+      "word_surah": 5,
+      "word_translation": "and (for) wounds",
+      "word_transliteration": "wal-juruha"
+    },
+    {
+      "word_arabic": "قِصَاصٞۚ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14523,
+      "word_number_in_surah": 1150,
+      "word_surah": 5,
+      "word_translation": "(is) retribution",
+      "word_transliteration": "qisasun"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 45,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 14524,
+      "word_number_in_surah": 1151,
+      "word_surah": 5,
+      "word_translation": "But whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "تَصَدَّقَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 14525,
+      "word_number_in_surah": 1152,
+      "word_surah": 5,
+      "word_translation": "gives charity",
+      "word_transliteration": "tasaddaqa"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 14526,
+      "word_number_in_surah": 1153,
+      "word_surah": 5,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فَهُوَ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 14527,
+      "word_number_in_surah": 1154,
+      "word_surah": 5,
+      "word_translation": "then it is",
+      "word_transliteration": "fahuwa"
+    },
+    {
+      "word_arabic": "كَفَّارَةٞ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 14528,
+      "word_number_in_surah": 1155,
+      "word_surah": 5,
+      "word_translation": "an expiation",
+      "word_transliteration": "kaffaratun"
+    },
+    {
+      "word_arabic": "لَّهُۥۚ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 14529,
+      "word_number_in_surah": 1156,
+      "word_surah": 5,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 45,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 14530,
+      "word_number_in_surah": 1157,
+      "word_surah": 5,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 14531,
+      "word_number_in_surah": 1158,
+      "word_surah": 5,
+      "word_translation": "(does) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَحۡكُم",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 14532,
+      "word_number_in_surah": 1159,
+      "word_surah": 5,
+      "word_translation": "judge",
+      "word_transliteration": "yahkum"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 14533,
+      "word_number_in_surah": 1160,
+      "word_surah": 5,
+      "word_translation": "by what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 14534,
+      "word_number_in_surah": 1161,
+      "word_surah": 5,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 14535,
+      "word_number_in_surah": 1162,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فَأُوْلَٰٓئِكَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 14536,
+      "word_number_in_surah": 1163,
+      "word_surah": 5,
+      "word_translation": "then those",
+      "word_transliteration": "fa-ulaika"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 45,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 14537,
+      "word_number_in_surah": 1164,
+      "word_surah": 5,
+      "word_translation": "[they]",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمُونَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 14538,
+      "word_number_in_surah": 1165,
+      "word_surah": 5,
+      "word_translation": "(are) the wrongdoers",
+      "word_transliteration": "al-zalimuna"
+    }
+  ],
+  "fullArabic": "وَكَتَبۡنَا عَلَيۡهِمۡ فِيهَآ أَنَّ ٱلنَّفۡسَ بِٱلنَّفۡسِ وَٱلۡعَيۡنَ بِٱلۡعَيۡنِ وَٱلۡأَنفَ بِٱلۡأَنفِ وَٱلۡأُذُنَ بِٱلۡأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلۡجُرُوحَ قِصَاصٞۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٞ لَّهُۥۚ وَمَن لَّمۡ يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+  "fullTranslation": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allah has revealed - then it is those who are the wrongdoers.",
+  "fullTransliteration": "wakatabna alayhim fiha anna al-nafsa bil-nafsi wal-'ayna bil-'ayni wal-anfa bil-anfi wal-udhuna bil-udhuni wal-sina bil-sini wal-juruha qisasun faman tasaddaqa bihi fahuwa kaffaratun lahu waman lam yahkum bima anzala al-lahu fa-ulaika humu al-zalimuna"
+}

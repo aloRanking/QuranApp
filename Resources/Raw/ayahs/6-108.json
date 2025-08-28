@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "ayah": 108,
+    "surah": 6,
+    "words": 25,
+    "numberInQuran": 897,
+    "juz": 7,
+    "manzil": 2,
+    "page": 141,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18026,
+      "word_number_in_surah": 1849,
+      "word_surah": 6,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَسُبُّواْ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18027,
+      "word_number_in_surah": 1850,
+      "word_surah": 6,
+      "word_translation": "insult",
+      "word_transliteration": "tasubbu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18028,
+      "word_number_in_surah": 1851,
+      "word_surah": 6,
+      "word_translation": "those whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَدۡعُونَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18029,
+      "word_number_in_surah": 1852,
+      "word_surah": 6,
+      "word_translation": "they invoke",
+      "word_transliteration": "yad'una"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 108,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18030,
+      "word_number_in_surah": 1853,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18031,
+      "word_number_in_surah": 1854,
+      "word_surah": 6,
+      "word_translation": "other than",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18032,
+      "word_number_in_surah": 1855,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَيَسُبُّواْ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18033,
+      "word_number_in_surah": 1856,
+      "word_surah": 6,
+      "word_translation": "lest they insult",
+      "word_transliteration": "fayasubbu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18034,
+      "word_number_in_surah": 1857,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَدۡوَۢا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18035,
+      "word_number_in_surah": 1858,
+      "word_surah": 6,
+      "word_translation": "(in) enmity",
+      "word_transliteration": "adwan"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18036,
+      "word_number_in_surah": 1859,
+      "word_surah": 6,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "عِلۡمٖۗ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18037,
+      "word_number_in_surah": 1860,
+      "word_surah": 6,
+      "word_translation": "knowledge",
+      "word_transliteration": "il'min"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18038,
+      "word_number_in_surah": 1861,
+      "word_surah": 6,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "زَيَّنَّا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18039,
+      "word_number_in_surah": 1862,
+      "word_surah": 6,
+      "word_translation": "We have made fair-seeming",
+      "word_transliteration": "zayyanna"
+    },
+    {
+      "word_arabic": "لِكُلِّ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18040,
+      "word_number_in_surah": 1863,
+      "word_surah": 6,
+      "word_translation": "to every",
+      "word_transliteration": "likulli"
+    },
+    {
+      "word_arabic": "أُمَّةٍ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18041,
+      "word_number_in_surah": 1864,
+      "word_surah": 6,
+      "word_translation": "community",
+      "word_transliteration": "ummatin"
+    },
+    {
+      "word_arabic": "عَمَلَهُمۡ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18042,
+      "word_number_in_surah": 1865,
+      "word_surah": 6,
+      "word_translation": "their deed",
+      "word_transliteration": "amalahum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18043,
+      "word_number_in_surah": 1866,
+      "word_surah": 6,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18044,
+      "word_number_in_surah": 1867,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "رَبِّهِم",
+      "word_ayah": 108,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18045,
+      "word_number_in_surah": 1868,
+      "word_surah": 6,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "مَّرۡجِعُهُمۡ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18046,
+      "word_number_in_surah": 1869,
+      "word_surah": 6,
+      "word_translation": "(is) their return",
+      "word_transliteration": "marji'uhum"
+    },
+    {
+      "word_arabic": "فَيُنَبِّئُهُم",
+      "word_ayah": 108,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18047,
+      "word_number_in_surah": 1870,
+      "word_surah": 6,
+      "word_translation": "then He will inform them",
+      "word_transliteration": "fayunabbi-uhum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18048,
+      "word_number_in_surah": 1871,
+      "word_surah": 6,
+      "word_translation": "about what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18049,
+      "word_number_in_surah": 1872,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18050,
+      "word_number_in_surah": 1873,
+      "word_surah": 6,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "وَلَا تَسُبُّواْ ٱلَّذِينَ يَدۡعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّواْ ٱللَّهَ عَدۡوَۢا بِغَيۡرِ عِلۡمٖۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمۡ ثُمَّ إِلَىٰ رَبِّهِم مَّرۡجِعُهُمۡ فَيُنَبِّئُهُم بِمَا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "And do not insult those they invoke other than Allah, lest they insult Allah in enmity without knowledge. Thus We have made pleasing to every community their deeds. Then to their Lord is their return, and He will inform them about what they used to do.",
+  "fullTransliteration": "wala tasubbu alladhina yad'una min duni al-lahi fayasubbu al-laha adwan bighayri il'min kadhalika zayyanna likulli ummatin amalahum thumma ila rabbihim marji'uhum fayunabbi-uhum bima kanu ya'maluna"
+}

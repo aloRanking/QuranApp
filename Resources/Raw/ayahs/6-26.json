@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 26,
+    "surah": 6,
+    "words": 11,
+    "numberInQuran": 815,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16563,
+      "word_number_in_surah": 386,
+      "word_surah": 6,
+      "word_translation": "And they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَنۡهَوۡنَ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16564,
+      "word_number_in_surah": 387,
+      "word_surah": 6,
+      "word_translation": "forbid (others)",
+      "word_transliteration": "yanhawna"
+    },
+    {
+      "word_arabic": "عَنۡهُ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16565,
+      "word_number_in_surah": 388,
+      "word_surah": 6,
+      "word_translation": "from it",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "وَيَنۡ‍َٔوۡنَ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16566,
+      "word_number_in_surah": 389,
+      "word_surah": 6,
+      "word_translation": "and they keep away",
+      "word_transliteration": "wayanawna"
+    },
+    {
+      "word_arabic": "عَنۡهُۖ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16567,
+      "word_number_in_surah": 390,
+      "word_surah": 6,
+      "word_translation": "from it",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 26,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16568,
+      "word_number_in_surah": 391,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يُهۡلِكُونَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16569,
+      "word_number_in_surah": 392,
+      "word_surah": 6,
+      "word_translation": "they destroy",
+      "word_transliteration": "yuh'likuna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16570,
+      "word_number_in_surah": 393,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 26,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16571,
+      "word_number_in_surah": 394,
+      "word_surah": 6,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16572,
+      "word_number_in_surah": 395,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَشۡعُرُونَ",
+      "word_ayah": 26,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16573,
+      "word_number_in_surah": 396,
+      "word_surah": 6,
+      "word_translation": "they perceive",
+      "word_transliteration": "yash'uruna"
+    }
+  ],
+  "fullArabic": "وَهُمۡ يَنۡهَوۡنَ عَنۡهُ وَيَنۡ‍َٔوۡنَ عَنۡهُۖ وَإِن يُهۡلِكُونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ",
+  "fullTranslation": "And they prevent [others] from him and are [themselves] remote from him. And they do not destroy except themselves, but they perceive [it] not.",
+  "fullTransliteration": "wahum yanhawna anhu wayanawna anhu wa-in yuh'likuna illa anfusahum wama yash'uruna"
+}

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "ayah": 141,
+    "surah": 3,
+    "words": 6,
+    "numberInQuran": 434,
+    "juz": 4,
+    "manzil": 1,
+    "page": 68,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِيُمَحِّصَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8466,
+      "word_number_in_surah": 2321,
+      "word_surah": 3,
+      "word_translation": "And so that may purify",
+      "word_transliteration": "waliyumahhisa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8467,
+      "word_number_in_surah": 2322,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8468,
+      "word_number_in_surah": 2323,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8469,
+      "word_number_in_surah": 2324,
+      "word_surah": 3,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَيَمۡحَقَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8470,
+      "word_number_in_surah": 2325,
+      "word_surah": 3,
+      "word_translation": "and destroy",
+      "word_transliteration": "wayamhaqa"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 141,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8471,
+      "word_number_in_surah": 2326,
+      "word_surah": 3,
+      "word_translation": "the disbelievers",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَيَمۡحَقَ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "And that Allah may purify the believers [through trials] and destroy the disbelievers.",
+  "fullTransliteration": "waliyumahhisa al-lahu alladhina amanu wayamhaqa al-kafirina"
+}

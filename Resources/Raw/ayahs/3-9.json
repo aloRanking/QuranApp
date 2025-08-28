@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 9,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 302,
+    "juz": 3,
+    "manzil": 1,
+    "page": 50,
+    "ruku": 42,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6268,
+      "word_number_in_surah": 123,
+      "word_surah": 3,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6269,
+      "word_number_in_surah": 124,
+      "word_surah": 3,
+      "word_translation": "Indeed You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "جَامِعُ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6270,
+      "word_number_in_surah": 125,
+      "word_surah": 3,
+      "word_translation": "will gather",
+      "word_transliteration": "jami'u"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6271,
+      "word_number_in_surah": 126,
+      "word_surah": 3,
+      "word_translation": "[the] mankind",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "لِيَوۡمٖ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6272,
+      "word_number_in_surah": 127,
+      "word_surah": 3,
+      "word_translation": "on a Day",
+      "word_transliteration": "liyawmin"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6273,
+      "word_number_in_surah": 128,
+      "word_surah": 3,
+      "word_translation": "(there is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "رَيۡبَ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6274,
+      "word_number_in_surah": 129,
+      "word_surah": 3,
+      "word_translation": "doubt",
+      "word_transliteration": "rayba"
+    },
+    {
+      "word_arabic": "فِيهِۚ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6275,
+      "word_number_in_surah": 130,
+      "word_surah": 3,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6276,
+      "word_number_in_surah": 131,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6277,
+      "word_number_in_surah": 132,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6278,
+      "word_number_in_surah": 133,
+      "word_surah": 3,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُخۡلِفُ",
+      "word_ayah": 9,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6279,
+      "word_number_in_surah": 134,
+      "word_surah": 3,
+      "word_translation": "break",
+      "word_transliteration": "yukh'lifu"
+    },
+    {
+      "word_arabic": "ٱلۡمِيعَادَ",
+      "word_ayah": 9,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6280,
+      "word_number_in_surah": 135,
+      "word_surah": 3,
+      "word_translation": "the Promise",
+      "word_transliteration": "al-mi'ada"
+    }
+  ],
+  "fullArabic": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوۡمٖ لَّا رَيۡبَ فِيهِۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ",
+  "fullTranslation": "Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.\"",
+  "fullTransliteration": "rabbana innaka jami'u al-nasi liyawmin la rayba fihi inna al-laha la yukh'lifu al-mi'ada"
+}

@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "ayah": 143,
+    "surah": 6,
+    "words": 23,
+    "numberInQuran": 932,
+    "juz": 8,
+    "manzil": 2,
+    "page": 147,
+    "ruku": 118,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثَمَٰنِيَةَ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18690,
+      "word_number_in_surah": 2513,
+      "word_surah": 6,
+      "word_translation": "Eight",
+      "word_transliteration": "thamaniyata"
+    },
+    {
+      "word_arabic": "أَزۡوَٰجٖۖ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18691,
+      "word_number_in_surah": 2514,
+      "word_surah": 6,
+      "word_translation": "pairs",
+      "word_transliteration": "azwajin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18692,
+      "word_number_in_surah": 2515,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلضَّأۡنِ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18693,
+      "word_number_in_surah": 2516,
+      "word_surah": 6,
+      "word_translation": "the sheep",
+      "word_transliteration": "al-dani"
+    },
+    {
+      "word_arabic": "ٱثۡنَيۡنِ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18694,
+      "word_number_in_surah": 2517,
+      "word_surah": 6,
+      "word_translation": "two",
+      "word_transliteration": "ith'nayni"
+    },
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18695,
+      "word_number_in_surah": 2518,
+      "word_surah": 6,
+      "word_translation": "and of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلۡمَعۡزِ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18696,
+      "word_number_in_surah": 2519,
+      "word_surah": 6,
+      "word_translation": "the goats",
+      "word_transliteration": "al-ma'zi"
+    },
+    {
+      "word_arabic": "ٱثۡنَيۡنِۗ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18697,
+      "word_number_in_surah": 2520,
+      "word_surah": 6,
+      "word_translation": "two",
+      "word_transliteration": "ith'nayni"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18698,
+      "word_number_in_surah": 2521,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "ءَآلذَّكَرَيۡنِ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18699,
+      "word_number_in_surah": 2522,
+      "word_surah": 6,
+      "word_translation": "(Are) the two males",
+      "word_transliteration": "aldhakarayni"
+    },
+    {
+      "word_arabic": "حَرَّمَ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18700,
+      "word_number_in_surah": 2523,
+      "word_surah": 6,
+      "word_translation": "He has forbidden",
+      "word_transliteration": "harrama"
+    },
+    {
+      "word_arabic": "أَمِ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18701,
+      "word_number_in_surah": 2524,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "ami"
+    },
+    {
+      "word_arabic": "ٱلۡأُنثَيَيۡنِ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18702,
+      "word_number_in_surah": 2525,
+      "word_surah": 6,
+      "word_translation": "the two females",
+      "word_transliteration": "al-unthayayni"
+    },
+    {
+      "word_arabic": "أَمَّا",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18703,
+      "word_number_in_surah": 2526,
+      "word_surah": 6,
+      "word_translation": "or what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "ٱشۡتَمَلَتۡ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18704,
+      "word_number_in_surah": 2527,
+      "word_surah": 6,
+      "word_translation": "contains",
+      "word_transliteration": "ish'tamalat"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18705,
+      "word_number_in_surah": 2528,
+      "word_surah": 6,
+      "word_translation": "[in it]",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "أَرۡحَامُ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18706,
+      "word_number_in_surah": 2529,
+      "word_surah": 6,
+      "word_translation": "(the) wombs",
+      "word_transliteration": "arhamu"
+    },
+    {
+      "word_arabic": "ٱلۡأُنثَيَيۡنِۖ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18707,
+      "word_number_in_surah": 2530,
+      "word_surah": 6,
+      "word_translation": "(of) the two females",
+      "word_transliteration": "al-unthayayni"
+    },
+    {
+      "word_arabic": "نَبِّ‍ُٔونِي",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18708,
+      "word_number_in_surah": 2531,
+      "word_surah": 6,
+      "word_translation": "Inform me",
+      "word_transliteration": "nabbiuni"
+    },
+    {
+      "word_arabic": "بِعِلۡمٍ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18709,
+      "word_number_in_surah": 2532,
+      "word_surah": 6,
+      "word_translation": "with knowledge",
+      "word_transliteration": "bi'il'min"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 143,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18710,
+      "word_number_in_surah": 2533,
+      "word_surah": 6,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18711,
+      "word_number_in_surah": 2534,
+      "word_surah": 6,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "صَٰدِقِينَ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18712,
+      "word_number_in_surah": 2535,
+      "word_surah": 6,
+      "word_translation": "truthful",
+      "word_transliteration": "sadiqina"
+    }
+  ],
+  "fullArabic": "ثَمَٰنِيَةَ أَزۡوَٰجٖۖ مِّنَ ٱلضَّأۡنِ ٱثۡنَيۡنِ وَمِنَ ٱلۡمَعۡزِ ٱثۡنَيۡنِۗ قُلۡ ءَآلذَّكَرَيۡنِ حَرَّمَ أَمِ ٱلۡأُنثَيَيۡنِ أَمَّا ٱشۡتَمَلَتۡ عَلَيۡهِ أَرۡحَامُ ٱلۡأُنثَيَيۡنِۖ نَبِّ‍ُٔونِي بِعِلۡمٍ إِن كُنتُمۡ صَٰدِقِينَ",
+  "fullTranslation": "[They are] eight mates - of the sheep, two and of the goats, two. Say, \"Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Inform me with knowledge, if you should be truthful.\"",
+  "fullTransliteration": "thamaniyata azwajin mina al-dani ith'nayni wamina al-ma'zi ith'nayni qul aldhakarayni harrama ami al-unthayayni amma ish'tamalat alayhi arhamu al-unthayayni nabbiuni bi'il'min in kuntum sadiqina"
+}

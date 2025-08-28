@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "ayah": 67,
+    "surah": 8,
+    "words": 20,
+    "numberInQuran": 1227,
+    "juz": 10,
+    "manzil": 2,
+    "page": 185,
+    "ruku": 154,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23606,
+      "word_number_in_surah": 1059,
+      "word_surah": 8,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23607,
+      "word_number_in_surah": 1060,
+      "word_surah": 8,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لِنَبِيٍّ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23608,
+      "word_number_in_surah": 1061,
+      "word_surah": 8,
+      "word_translation": "for a Prophet",
+      "word_transliteration": "linabiyyin"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 67,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23609,
+      "word_number_in_surah": 1062,
+      "word_surah": 8,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَكُونَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23610,
+      "word_number_in_surah": 1063,
+      "word_surah": 8,
+      "word_translation": "(there) should be",
+      "word_transliteration": "yakuna"
+    },
+    {
+      "word_arabic": "لَهُۥٓ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23611,
+      "word_number_in_surah": 1064,
+      "word_surah": 8,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "أَسۡرَىٰ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23612,
+      "word_number_in_surah": 1065,
+      "word_surah": 8,
+      "word_translation": "prisoners of war",
+      "word_transliteration": "asra"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23613,
+      "word_number_in_surah": 1066,
+      "word_surah": 8,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يُثۡخِنَ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23614,
+      "word_number_in_surah": 1067,
+      "word_surah": 8,
+      "word_translation": "he has battled strenuously",
+      "word_transliteration": "yuth'khina"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23615,
+      "word_number_in_surah": 1068,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِۚ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23616,
+      "word_number_in_surah": 1069,
+      "word_surah": 8,
+      "word_translation": "the land",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "تُرِيدُونَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23617,
+      "word_number_in_surah": 1070,
+      "word_surah": 8,
+      "word_translation": "You desire",
+      "word_transliteration": "turiduna"
+    },
+    {
+      "word_arabic": "عَرَضَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23618,
+      "word_number_in_surah": 1071,
+      "word_surah": 8,
+      "word_translation": "(the) commodities",
+      "word_transliteration": "arada"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23619,
+      "word_number_in_surah": 1072,
+      "word_surah": 8,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23620,
+      "word_number_in_surah": 1073,
+      "word_surah": 8,
+      "word_translation": "but Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23621,
+      "word_number_in_surah": 1074,
+      "word_surah": 8,
+      "word_translation": "desires",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةَۗ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23622,
+      "word_number_in_surah": 1075,
+      "word_surah": 8,
+      "word_translation": "(for you) the Hereafter",
+      "word_transliteration": "al-akhirata"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23623,
+      "word_number_in_surah": 1076,
+      "word_surah": 8,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَزِيزٌ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23624,
+      "word_number_in_surah": 1077,
+      "word_surah": 8,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "حَكِيمٞ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23625,
+      "word_number_in_surah": 1078,
+      "word_surah": 8,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُۥٓ أَسۡرَىٰ حَتَّىٰ يُثۡخِنَ فِي ٱلۡأَرۡضِۚ تُرِيدُونَ عَرَضَ ٱلدُّنۡيَا وَٱللَّهُ يُرِيدُ ٱلۡأٓخِرَةَۗ وَٱللَّهُ عَزِيزٌ حَكِيمٞ",
+  "fullTranslation": "It is not for a prophet to have captives [of war] until he inflicts a massacre [upon Allah 's enemies] in the land. Some Muslims desire the commodities of this world, but Allah desires [for you] the Hereafter. And Allah is Exalted in Might and Wise.",
+  "fullTransliteration": "ma kana linabiyyin an yakuna lahu asra hatta yuth'khina fi al-ardi turiduna arada al-dun'ya wal-lahu yuridu al-akhirata wal-lahu azizun hakimun"
+}

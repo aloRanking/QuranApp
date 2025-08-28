@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 77,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 84,
+    "juz": 1,
+    "manzil": 1,
+    "page": 12,
+    "ruku": 10,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوَلَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1239,
+      "word_number_in_surah": 1210,
+      "word_surah": 2,
+      "word_translation": "Do not",
+      "word_transliteration": "awala"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1240,
+      "word_number_in_surah": 1211,
+      "word_surah": 2,
+      "word_translation": "they know",
+      "word_transliteration": "ya'lamuna"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 77,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1241,
+      "word_number_in_surah": 1212,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1242,
+      "word_number_in_surah": 1213,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَعۡلَمُ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1243,
+      "word_number_in_surah": 1214,
+      "word_surah": 2,
+      "word_translation": "knows",
+      "word_transliteration": "ya'lamu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1244,
+      "word_number_in_surah": 1215,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُسِرُّونَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1245,
+      "word_number_in_surah": 1216,
+      "word_surah": 2,
+      "word_translation": "they conceal",
+      "word_transliteration": "yusirruna"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1246,
+      "word_number_in_surah": 1217,
+      "word_surah": 2,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يُعۡلِنُونَ",
+      "word_ayah": 77,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1247,
+      "word_number_in_surah": 1218,
+      "word_surah": 2,
+      "word_translation": "they declare",
+      "word_transliteration": "yu'linuna"
+    }
+  ],
+  "fullArabic": "أَوَلَا يَعۡلَمُونَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ",
+  "fullTranslation": "But do they not know that Allah knows what they conceal and what they declare?",
+  "fullTransliteration": "awala ya'lamuna anna al-laha ya'lamu ma yusirruna wama yu'linuna"
+}

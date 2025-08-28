@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 65,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 1019,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 130,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَإِلَىٰ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20266,
+      "word_number_in_surah": 1039,
+      "word_surah": 7,
+      "word_translation": "And to",
+      "word_transliteration": "wa-ila"
+    },
+    {
+      "word_arabic": "عَادٍ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20267,
+      "word_number_in_surah": 1040,
+      "word_surah": 7,
+      "word_translation": "Aad",
+      "word_transliteration": "adin"
+    },
+    {
+      "word_arabic": "أَخَاهُمۡ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20268,
+      "word_number_in_surah": 1041,
+      "word_surah": 7,
+      "word_translation": "(We sent) their brother",
+      "word_transliteration": "akhahum"
+    },
+    {
+      "word_arabic": "هُودٗاۚ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20269,
+      "word_number_in_surah": 1042,
+      "word_surah": 7,
+      "word_translation": "Hud",
+      "word_transliteration": "hudan"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20270,
+      "word_number_in_surah": 1043,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "يَٰقَوۡمِ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20271,
+      "word_number_in_surah": 1044,
+      "word_surah": 7,
+      "word_translation": "O my people!",
+      "word_transliteration": "yaqawmi"
+    },
+    {
+      "word_arabic": "ٱعۡبُدُواْ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20272,
+      "word_number_in_surah": 1045,
+      "word_surah": 7,
+      "word_translation": "Worship",
+      "word_transliteration": "u'budu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20273,
+      "word_number_in_surah": 1046,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20274,
+      "word_number_in_surah": 1047,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 65,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20275,
+      "word_number_in_surah": 1048,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20276,
+      "word_number_in_surah": 1049,
+      "word_surah": 7,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "إِلَٰهٍ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20277,
+      "word_number_in_surah": 1050,
+      "word_surah": 7,
+      "word_translation": "god",
+      "word_transliteration": "ilahin"
+    },
+    {
+      "word_arabic": "غَيۡرُهُۥٓۚ",
+      "word_ayah": 65,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20278,
+      "word_number_in_surah": 1051,
+      "word_surah": 7,
+      "word_translation": "other than Him",
+      "word_transliteration": "ghayruhu"
+    },
+    {
+      "word_arabic": "أَفَلَا",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20279,
+      "word_number_in_surah": 1052,
+      "word_surah": 7,
+      "word_translation": "Then will not",
+      "word_transliteration": "afala"
+    },
+    {
+      "word_arabic": "تَتَّقُونَ",
+      "word_ayah": 65,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20280,
+      "word_number_in_surah": 1053,
+      "word_surah": 7,
+      "word_translation": "you fear (Allah)",
+      "word_transliteration": "tattaquna"
+    }
+  ],
+  "fullArabic": "۞وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ",
+  "fullTranslation": "And to the 'Aad [We sent] their brother Hud. He said, \"O my people, worship Allah; you have no deity other than Him. Then will you not fear Him?\"",
+  "fullTransliteration": "wa-ila adin akhahum hudan qala yaqawmi u'budu al-laha ma lakum min ilahin ghayruhu afala tattaquna"
+}

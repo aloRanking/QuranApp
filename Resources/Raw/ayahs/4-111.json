@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 111,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 604,
+    "juz": 5,
+    "manzil": 1,
+    "page": 96,
+    "ruku": 77,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 111,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12108,
+      "word_number_in_surah": 2482,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَكۡسِبۡ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12109,
+      "word_number_in_surah": 2483,
+      "word_surah": 4,
+      "word_translation": "earns",
+      "word_transliteration": "yaksib"
+    },
+    {
+      "word_arabic": "إِثۡمٗا",
+      "word_ayah": 111,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12110,
+      "word_number_in_surah": 2484,
+      "word_surah": 4,
+      "word_translation": "sin",
+      "word_transliteration": "ith'man"
+    },
+    {
+      "word_arabic": "فَإِنَّمَا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12111,
+      "word_number_in_surah": 2485,
+      "word_surah": 4,
+      "word_translation": "then only",
+      "word_transliteration": "fa-innama"
+    },
+    {
+      "word_arabic": "يَكۡسِبُهُۥ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12112,
+      "word_number_in_surah": 2486,
+      "word_surah": 4,
+      "word_translation": "he earns it",
+      "word_transliteration": "yaksibuhu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12113,
+      "word_number_in_surah": 2487,
+      "word_surah": 4,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "نَفۡسِهِۦۚ",
+      "word_ayah": 111,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12114,
+      "word_number_in_surah": 2488,
+      "word_surah": 4,
+      "word_translation": "his soul",
+      "word_transliteration": "nafsihi"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12115,
+      "word_number_in_surah": 2489,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12116,
+      "word_number_in_surah": 2490,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلِيمًا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12117,
+      "word_number_in_surah": 2491,
+      "word_surah": 4,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "aliman"
+    },
+    {
+      "word_arabic": "حَكِيمٗا",
+      "word_ayah": 111,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12118,
+      "word_number_in_surah": 2492,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "وَمَن يَكۡسِبۡ إِثۡمٗا فَإِنَّمَا يَكۡسِبُهُۥ عَلَىٰ نَفۡسِهِۦۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمٗا",
+  "fullTranslation": "And whoever commits a sin only earns it against himself. And Allah is ever Knowing and Wise.",
+  "fullTransliteration": "waman yaksib ith'man fa-innama yaksibuhu ala nafsihi wakana al-lahu aliman hakiman"
+}

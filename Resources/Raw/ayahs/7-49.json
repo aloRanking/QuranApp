@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 49,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 1003,
+    "juz": 8,
+    "manzil": 2,
+    "page": 156,
+    "ruku": 127,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَهَٰٓؤُلَآءِ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19986,
+      "word_number_in_surah": 759,
+      "word_surah": 7,
+      "word_translation": "Are these",
+      "word_transliteration": "ahaulai"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19987,
+      "word_number_in_surah": 760,
+      "word_surah": 7,
+      "word_translation": "the ones whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أَقۡسَمۡتُمۡ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19988,
+      "word_number_in_surah": 761,
+      "word_surah": 7,
+      "word_translation": "you had sworn",
+      "word_transliteration": "aqsamtum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19989,
+      "word_number_in_surah": 762,
+      "word_surah": 7,
+      "word_translation": "(that) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَنَالُهُمُ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19990,
+      "word_number_in_surah": 763,
+      "word_surah": 7,
+      "word_translation": "(will) grant them",
+      "word_transliteration": "yanaluhumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19991,
+      "word_number_in_surah": 764,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِرَحۡمَةٍۚ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19992,
+      "word_number_in_surah": 765,
+      "word_surah": 7,
+      "word_translation": "Mercy",
+      "word_transliteration": "birahmatin"
+    },
+    {
+      "word_arabic": "ٱدۡخُلُواْ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19993,
+      "word_number_in_surah": 766,
+      "word_surah": 7,
+      "word_translation": "Enter",
+      "word_transliteration": "ud'khulu"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19994,
+      "word_number_in_surah": 767,
+      "word_surah": 7,
+      "word_translation": "Paradise",
+      "word_transliteration": "al-janata"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19995,
+      "word_number_in_surah": 768,
+      "word_surah": 7,
+      "word_translation": "(There will be) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "خَوۡفٌ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19996,
+      "word_number_in_surah": 769,
+      "word_surah": 7,
+      "word_translation": "fear",
+      "word_transliteration": "khawfun"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19997,
+      "word_number_in_surah": 770,
+      "word_surah": 7,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَلَآ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19998,
+      "word_number_in_surah": 771,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "أَنتُمۡ",
+      "word_ayah": 49,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19999,
+      "word_number_in_surah": 772,
+      "word_surah": 7,
+      "word_translation": "you",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "تَحۡزَنُونَ",
+      "word_ayah": 49,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20000,
+      "word_number_in_surah": 773,
+      "word_surah": 7,
+      "word_translation": "will grieve",
+      "word_transliteration": "tahzanuna"
+    }
+  ],
+  "fullArabic": "أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقۡسَمۡتُمۡ لَا يَنَالُهُمُ ٱللَّهُ بِرَحۡمَةٍۚ ٱدۡخُلُواْ ٱلۡجَنَّةَ لَا خَوۡفٌ عَلَيۡكُمۡ وَلَآ أَنتُمۡ تَحۡزَنُونَ",
+  "fullTranslation": "[Allah will say], \"Are these the ones whom you [inhabitants of Hell] swore that Allah would never offer them mercy? Enter Paradise, [O People of the Elevations]. No fear will there be concerning you, nor will you grieve.\"",
+  "fullTransliteration": "ahaulai alladhina aqsamtum la yanaluhumu al-lahu birahmatin ud'khulu al-janata la khawfun alaykum wala antum tahzanuna"
+}

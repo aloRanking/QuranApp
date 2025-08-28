@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 55,
+    "surah": 5,
+    "words": 13,
+    "numberInQuran": 724,
+    "juz": 6,
+    "manzil": 2,
+    "page": 117,
+    "ruku": 93,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14777,
+      "word_number_in_surah": 1404,
+      "word_surah": 5,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "وَلِيُّكُمُ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14778,
+      "word_number_in_surah": 1405,
+      "word_surah": 5,
+      "word_translation": "your ally",
+      "word_transliteration": "waliyyukumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14779,
+      "word_number_in_surah": 1406,
+      "word_surah": 5,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَرَسُولُهُۥ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14780,
+      "word_number_in_surah": 1407,
+      "word_surah": 5,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasuluhu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14781,
+      "word_number_in_surah": 1408,
+      "word_surah": 5,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14782,
+      "word_number_in_surah": 1409,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14783,
+      "word_number_in_surah": 1410,
+      "word_surah": 5,
+      "word_translation": "and those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُقِيمُونَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14784,
+      "word_number_in_surah": 1411,
+      "word_surah": 5,
+      "word_translation": "establish",
+      "word_transliteration": "yuqimuna"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14785,
+      "word_number_in_surah": 1412,
+      "word_surah": 5,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salata"
+    },
+    {
+      "word_arabic": "وَيُؤۡتُونَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14786,
+      "word_number_in_surah": 1413,
+      "word_surah": 5,
+      "word_translation": "and give",
+      "word_transliteration": "wayu'tuna"
+    },
+    {
+      "word_arabic": "ٱلزَّكَوٰةَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14787,
+      "word_number_in_surah": 1414,
+      "word_surah": 5,
+      "word_translation": "zakah",
+      "word_transliteration": "al-zakata"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14788,
+      "word_number_in_surah": 1415,
+      "word_surah": 5,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "رَٰكِعُونَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14789,
+      "word_number_in_surah": 1416,
+      "word_surah": 5,
+      "word_translation": "(are) those who bow down",
+      "word_transliteration": "raki'una"
+    }
+  ],
+  "fullArabic": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُواْ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُمۡ رَٰكِعُونَ",
+  "fullTranslation": "Your ally is none but Allah and [therefore] His Messenger and those who have believed - those who establish prayer and give zakah, and they bow [in worship].",
+  "fullTransliteration": "innama waliyyukumu al-lahu warasuluhu wa-alladhina amanu alladhina yuqimuna al-salata wayu'tuna al-zakata wahum raki'una"
+}

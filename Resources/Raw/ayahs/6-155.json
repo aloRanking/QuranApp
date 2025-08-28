@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "ayah": 155,
+    "surah": 6,
+    "words": 8,
+    "numberInQuran": 944,
+    "juz": 8,
+    "manzil": 2,
+    "page": 149,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهَٰذَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19016,
+      "word_number_in_surah": 2839,
+      "word_surah": 6,
+      "word_translation": "And this",
+      "word_transliteration": "wahadha"
+    },
+    {
+      "word_arabic": "كِتَٰبٌ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19017,
+      "word_number_in_surah": 2840,
+      "word_surah": 6,
+      "word_translation": "(is) a Book",
+      "word_transliteration": "kitabun"
+    },
+    {
+      "word_arabic": "أَنزَلۡنَٰهُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19018,
+      "word_number_in_surah": 2841,
+      "word_surah": 6,
+      "word_translation": "We have revealed it",
+      "word_transliteration": "anzalnahu"
+    },
+    {
+      "word_arabic": "مُبَارَكٞ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19019,
+      "word_number_in_surah": 2842,
+      "word_surah": 6,
+      "word_translation": "blessed",
+      "word_transliteration": "mubarakun"
+    },
+    {
+      "word_arabic": "فَٱتَّبِعُوهُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19020,
+      "word_number_in_surah": 2843,
+      "word_surah": 6,
+      "word_translation": "so follow it",
+      "word_transliteration": "fa-ittabi'uhu"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19021,
+      "word_number_in_surah": 2844,
+      "word_surah": 6,
+      "word_translation": "and fear (Allah)",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19022,
+      "word_number_in_surah": 2845,
+      "word_surah": 6,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تُرۡحَمُونَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19023,
+      "word_number_in_surah": 2846,
+      "word_surah": 6,
+      "word_translation": "receive mercy",
+      "word_transliteration": "tur'hamuna"
+    }
+  ],
+  "fullArabic": "وَهَٰذَا كِتَٰبٌ أَنزَلۡنَٰهُ مُبَارَكٞ فَٱتَّبِعُوهُ وَٱتَّقُواْ لَعَلَّكُمۡ تُرۡحَمُونَ",
+  "fullTranslation": "And this [Qur'an] is a Book We have revealed [which is] blessed, so follow it and fear Allah that you may receive mercy.",
+  "fullTransliteration": "wahadha kitabun anzalnahu mubarakun fa-ittabi'uhu wa-ittaqu la'allakum tur'hamuna"
+}

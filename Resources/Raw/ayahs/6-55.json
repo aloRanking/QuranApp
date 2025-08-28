@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "ayah": 55,
+    "surah": 6,
+    "words": 6,
+    "numberInQuran": 844,
+    "juz": 7,
+    "manzil": 2,
+    "page": 134,
+    "ruku": 107,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17058,
+      "word_number_in_surah": 881,
+      "word_surah": 6,
+      "word_translation": "And thus",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "نُفَصِّلُ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17059,
+      "word_number_in_surah": 882,
+      "word_surah": 6,
+      "word_translation": "We explain",
+      "word_transliteration": "nufassilu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17060,
+      "word_number_in_surah": 883,
+      "word_surah": 6,
+      "word_translation": "the Verses",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "وَلِتَسۡتَبِينَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17061,
+      "word_number_in_surah": 884,
+      "word_surah": 6,
+      "word_translation": "so that becomes manifest",
+      "word_transliteration": "walitastabina"
+    },
+    {
+      "word_arabic": "سَبِيلُ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17062,
+      "word_number_in_surah": 885,
+      "word_surah": 6,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabilu"
+    },
+    {
+      "word_arabic": "ٱلۡمُجۡرِمِينَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17063,
+      "word_number_in_surah": 886,
+      "word_surah": 6,
+      "word_translation": "(of) the criminals",
+      "word_transliteration": "al-muj'rimina"
+    }
+  ],
+  "fullArabic": "وَكَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ وَلِتَسۡتَبِينَ سَبِيلُ ٱلۡمُجۡرِمِينَ",
+  "fullTranslation": "And thus do We detail the verses, and [thus] the way of the criminals will become evident.",
+  "fullTransliteration": "wakadhalika nufassilu al-ayati walitastabina sabilu al-muj'rimina"
+}

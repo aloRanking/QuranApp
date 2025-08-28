@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "ayah": 195,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 202,
+    "juz": 2,
+    "manzil": 1,
+    "page": 30,
+    "ruku": 25,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَأَنفِقُواْ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3613,
+      "word_number_in_surah": 3584,
+      "word_surah": 2,
+      "word_translation": "And spend",
+      "word_transliteration": "wa-anfiqu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3614,
+      "word_number_in_surah": 3585,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3615,
+      "word_number_in_surah": 3586,
+      "word_surah": 2,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3616,
+      "word_number_in_surah": 3587,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3617,
+      "word_number_in_surah": 3588,
+      "word_surah": 2,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُلۡقُواْ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3618,
+      "word_number_in_surah": 3589,
+      "word_surah": 2,
+      "word_translation": "throw (yourselves)",
+      "word_transliteration": "tul'qu"
+    },
+    {
+      "word_arabic": "بِأَيۡدِيكُمۡ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3619,
+      "word_number_in_surah": 3590,
+      "word_surah": 2,
+      "word_translation": "[with your hands]",
+      "word_transliteration": "bi-aydikum"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3620,
+      "word_number_in_surah": 3591,
+      "word_surah": 2,
+      "word_translation": "into",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلتَّهۡلُكَةِ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3621,
+      "word_number_in_surah": 3592,
+      "word_surah": 2,
+      "word_translation": "[the] destruction",
+      "word_transliteration": "al-tahlukati"
+    },
+    {
+      "word_arabic": "وَأَحۡسِنُوٓاْۚ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3622,
+      "word_number_in_surah": 3593,
+      "word_surah": 2,
+      "word_translation": "And do good",
+      "word_transliteration": "wa-ahsinu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 195,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3623,
+      "word_number_in_surah": 3594,
+      "word_surah": 2,
+      "word_translation": "indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3624,
+      "word_number_in_surah": 3595,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3625,
+      "word_number_in_surah": 3596,
+      "word_surah": 2,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُحۡسِنِينَ",
+      "word_ayah": 195,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3626,
+      "word_number_in_surah": 3597,
+      "word_surah": 2,
+      "word_translation": "the good-doers",
+      "word_transliteration": "al-muh'sinina"
+    }
+  ],
+  "fullArabic": "وَأَنفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلَا تُلۡقُواْ بِأَيۡدِيكُمۡ إِلَى ٱلتَّهۡلُكَةِ وَأَحۡسِنُوٓاْۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُحۡسِنِينَ",
+  "fullTranslation": "And spend in the way of Allah and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allah loves the doers of good.",
+  "fullTransliteration": "wa-anfiqu fi sabili al-lahi wala tul'qu bi-aydikum ila al-tahlukati wa-ahsinu inna al-laha yuhibbu al-muh'sinina"
+}

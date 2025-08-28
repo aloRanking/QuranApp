@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 163,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 170,
+    "juz": 2,
+    "manzil": 1,
+    "page": 24,
+    "ruku": 20,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِلَٰهُكُمۡ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2897,
+      "word_number_in_surah": 2868,
+      "word_surah": 2,
+      "word_translation": "And your God",
+      "word_transliteration": "wa-ilahukum"
+    },
+    {
+      "word_arabic": "إِلَٰهٞ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2898,
+      "word_number_in_surah": 2869,
+      "word_surah": 2,
+      "word_translation": "(is) God",
+      "word_transliteration": "ilahun"
+    },
+    {
+      "word_arabic": "وَٰحِدٞۖ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2899,
+      "word_number_in_surah": 2870,
+      "word_surah": 2,
+      "word_translation": "one (only)",
+      "word_transliteration": "wahidun"
+    },
+    {
+      "word_arabic": "لَّآ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2900,
+      "word_number_in_surah": 2871,
+      "word_surah": 2,
+      "word_translation": "(there is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2901,
+      "word_number_in_surah": 2872,
+      "word_surah": 2,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2902,
+      "word_number_in_surah": 2873,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2903,
+      "word_number_in_surah": 2874,
+      "word_surah": 2,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلرَّحۡمَٰنُ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2904,
+      "word_number_in_surah": 2875,
+      "word_surah": 2,
+      "word_translation": "the Most Gracious",
+      "word_transliteration": "al-rahmanu"
+    },
+    {
+      "word_arabic": "ٱلرَّحِيمُ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2905,
+      "word_number_in_surah": 2876,
+      "word_surah": 2,
+      "word_translation": "the Most Merciful",
+      "word_transliteration": "al-rahimu"
+    }
+  ],
+  "fullArabic": "وَإِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحۡمَٰنُ ٱلرَّحِيمُ",
+  "fullTranslation": "And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful.",
+  "fullTransliteration": "wa-ilahukum ilahun wahidun la ilaha illa huwa al-rahmanu al-rahimu"
+}

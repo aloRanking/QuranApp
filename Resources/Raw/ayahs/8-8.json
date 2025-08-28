@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 8,
+    "surah": 8,
+    "words": 7,
+    "numberInQuran": 1168,
+    "juz": 9,
+    "manzil": 2,
+    "page": 177,
+    "ruku": 146,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لِيُحِقَّ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22646,
+      "word_number_in_surah": 99,
+      "word_surah": 8,
+      "word_translation": "That He might justify",
+      "word_transliteration": "liyuhiqqa"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22647,
+      "word_number_in_surah": 100,
+      "word_surah": 8,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "وَيُبۡطِلَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22648,
+      "word_number_in_surah": 101,
+      "word_surah": 8,
+      "word_translation": "and prove false",
+      "word_transliteration": "wayub'tila"
+    },
+    {
+      "word_arabic": "ٱلۡبَٰطِلَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22649,
+      "word_number_in_surah": 102,
+      "word_surah": 8,
+      "word_translation": "the falsehood",
+      "word_transliteration": "al-batila"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22650,
+      "word_number_in_surah": 103,
+      "word_surah": 8,
+      "word_translation": "even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "كَرِهَ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22651,
+      "word_number_in_surah": 104,
+      "word_surah": 8,
+      "word_translation": "disliked (it)",
+      "word_transliteration": "kariha"
+    },
+    {
+      "word_arabic": "ٱلۡمُجۡرِمُونَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22652,
+      "word_number_in_surah": 105,
+      "word_surah": 8,
+      "word_translation": "the criminals",
+      "word_transliteration": "al-muj'rimuna"
+    }
+  ],
+  "fullArabic": "لِيُحِقَّ ٱلۡحَقَّ وَيُبۡطِلَ ٱلۡبَٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ",
+  "fullTranslation": "That He should establish the truth and abolish falsehood, even if the criminals disliked it.",
+  "fullTransliteration": "liyuhiqqa al-haqa wayub'tila al-batila walaw kariha al-muj'rimuna"
+}

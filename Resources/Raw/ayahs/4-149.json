@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 149,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 642,
+    "juz": 6,
+    "manzil": 1,
+    "page": 102,
+    "ruku": 82,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 149,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12822,
+      "word_number_in_surah": 3196,
+      "word_surah": 4,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تُبۡدُواْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12823,
+      "word_number_in_surah": 3197,
+      "word_surah": 4,
+      "word_translation": "you disclose",
+      "word_transliteration": "tub'du"
+    },
+    {
+      "word_arabic": "خَيۡرًا",
+      "word_ayah": 149,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12824,
+      "word_number_in_surah": 3198,
+      "word_surah": 4,
+      "word_translation": "a good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12825,
+      "word_number_in_surah": 3199,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تُخۡفُوهُ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12826,
+      "word_number_in_surah": 3200,
+      "word_surah": 4,
+      "word_translation": "you conceal it",
+      "word_transliteration": "tukh'fuhu"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12827,
+      "word_number_in_surah": 3201,
+      "word_surah": 4,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تَعۡفُواْ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12828,
+      "word_number_in_surah": 3202,
+      "word_surah": 4,
+      "word_translation": "pardon",
+      "word_transliteration": "ta'fu"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12829,
+      "word_number_in_surah": 3203,
+      "word_surah": 4,
+      "word_translation": "[of]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سُوٓءٖ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12830,
+      "word_number_in_surah": 3204,
+      "word_surah": 4,
+      "word_translation": "an evil",
+      "word_transliteration": "suin"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12831,
+      "word_number_in_surah": 3205,
+      "word_surah": 4,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12832,
+      "word_number_in_surah": 3206,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12833,
+      "word_number_in_surah": 3207,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَفُوّٗا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12834,
+      "word_number_in_surah": 3208,
+      "word_surah": 4,
+      "word_translation": "Oft-Pardoning",
+      "word_transliteration": "afuwwan"
+    },
+    {
+      "word_arabic": "قَدِيرًا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12835,
+      "word_number_in_surah": 3209,
+      "word_surah": 4,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadiran"
+    }
+  ],
+  "fullArabic": "إِن تُبۡدُواْ خَيۡرًا أَوۡ تُخۡفُوهُ أَوۡ تَعۡفُواْ عَن سُوٓءٖ فَإِنَّ ٱللَّهَ كَانَ عَفُوّٗا قَدِيرًا",
+  "fullTranslation": "If [instead] you show [some] good or conceal it or pardon an offense - indeed, Allah is ever Pardoning and Competent.",
+  "fullTransliteration": "in tub'du khayran aw tukh'fuhu aw ta'fu an suin fa-inna al-laha kana afuwwan qadiran"
+}

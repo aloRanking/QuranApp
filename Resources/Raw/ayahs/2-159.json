@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "ayah": 159,
+    "surah": 2,
+    "words": 20,
+    "numberInQuran": 166,
+    "juz": 2,
+    "manzil": 1,
+    "page": 24,
+    "ruku": 20,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2844,
+      "word_number_in_surah": 2815,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2845,
+      "word_number_in_surah": 2816,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَكۡتُمُونَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2846,
+      "word_number_in_surah": 2817,
+      "word_surah": 2,
+      "word_translation": "conceal",
+      "word_transliteration": "yaktumuna"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2847,
+      "word_number_in_surah": 2818,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَنزَلۡنَا",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2848,
+      "word_number_in_surah": 2819,
+      "word_surah": 2,
+      "word_translation": "We revealed",
+      "word_transliteration": "anzalna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2849,
+      "word_number_in_surah": 2820,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡبَيِّنَٰتِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2850,
+      "word_number_in_surah": 2821,
+      "word_surah": 2,
+      "word_translation": "the clear proofs",
+      "word_transliteration": "al-bayinati"
+    },
+    {
+      "word_arabic": "وَٱلۡهُدَىٰ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2851,
+      "word_number_in_surah": 2822,
+      "word_surah": 2,
+      "word_translation": "and the Guidance",
+      "word_transliteration": "wal-huda"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2852,
+      "word_number_in_surah": 2823,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2853,
+      "word_number_in_surah": 2824,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2854,
+      "word_number_in_surah": 2825,
+      "word_surah": 2,
+      "word_translation": "[what]",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "بَيَّنَّٰهُ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2855,
+      "word_number_in_surah": 2826,
+      "word_surah": 2,
+      "word_translation": "We made clear",
+      "word_transliteration": "bayyannahu"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2856,
+      "word_number_in_surah": 2827,
+      "word_surah": 2,
+      "word_translation": "to the people",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2857,
+      "word_number_in_surah": 2828,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2858,
+      "word_number_in_surah": 2829,
+      "word_surah": 2,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2859,
+      "word_number_in_surah": 2830,
+      "word_surah": 2,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "يَلۡعَنُهُمُ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2860,
+      "word_number_in_surah": 2831,
+      "word_surah": 2,
+      "word_translation": "curses them",
+      "word_transliteration": "yal'anuhumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 2861,
+      "word_number_in_surah": 2832,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَيَلۡعَنُهُمُ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 2862,
+      "word_number_in_surah": 2833,
+      "word_surah": 2,
+      "word_translation": "and curse them",
+      "word_transliteration": "wayal'anuhumu"
+    },
+    {
+      "word_arabic": "ٱللَّٰعِنُونَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 2863,
+      "word_number_in_surah": 2834,
+      "word_surah": 2,
+      "word_translation": "the ones who curse",
+      "word_transliteration": "al-la'inuna"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ يَكۡتُمُونَ مَآ أَنزَلۡنَا مِنَ ٱلۡبَيِّنَٰتِ وَٱلۡهُدَىٰ مِنۢ بَعۡدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِي ٱلۡكِتَٰبِ أُوْلَٰٓئِكَ يَلۡعَنُهُمُ ٱللَّهُ وَيَلۡعَنُهُمُ ٱللَّٰعِنُونَ",
+  "fullTranslation": "Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allah and cursed by those who curse,",
+  "fullTransliteration": "inna alladhina yaktumuna ma anzalna mina al-bayinati wal-huda min ba'di ma bayyannahu lilnnasi fi al-kitabi ulaika yal'anuhumu al-lahu wayal'anuhumu al-la'inuna"
+}

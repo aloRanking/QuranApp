@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "ayah": 1,
+    "surah": 5,
+    "words": 23,
+    "numberInQuran": 670,
+    "juz": 6,
+    "manzil": 2,
+    "page": 106,
+    "ruku": 86,
+    "hizbQuarter": 43,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13374,
+      "word_number_in_surah": 1,
+      "word_surah": 5,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13375,
+      "word_number_in_surah": 2,
+      "word_surah": 5,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13376,
+      "word_number_in_surah": 3,
+      "word_surah": 5,
+      "word_translation": "believe!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "أَوۡفُواْ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13377,
+      "word_number_in_surah": 4,
+      "word_surah": 5,
+      "word_translation": "Fulfil",
+      "word_transliteration": "awfu"
+    },
+    {
+      "word_arabic": "بِٱلۡعُقُودِۚ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13378,
+      "word_number_in_surah": 5,
+      "word_surah": 5,
+      "word_translation": "the contracts",
+      "word_transliteration": "bil-'uqudi"
+    },
+    {
+      "word_arabic": "أُحِلَّتۡ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13379,
+      "word_number_in_surah": 6,
+      "word_surah": 5,
+      "word_translation": "Are made lawful",
+      "word_transliteration": "uhillat"
+    },
+    {
+      "word_arabic": "لَكُم",
+      "word_ayah": 1,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13380,
+      "word_number_in_surah": 7,
+      "word_surah": 5,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "بَهِيمَةُ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13381,
+      "word_number_in_surah": 8,
+      "word_surah": 5,
+      "word_translation": "the quadruped",
+      "word_transliteration": "bahimatu"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡعَٰمِ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13382,
+      "word_number_in_surah": 9,
+      "word_surah": 5,
+      "word_translation": "(of) the grazing livestock",
+      "word_transliteration": "al-an'ami"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13383,
+      "word_number_in_surah": 10,
+      "word_surah": 5,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13384,
+      "word_number_in_surah": 11,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُتۡلَىٰ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13385,
+      "word_number_in_surah": 12,
+      "word_surah": 5,
+      "word_translation": "is recited",
+      "word_transliteration": "yut'la"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13386,
+      "word_number_in_surah": 13,
+      "word_surah": 5,
+      "word_translation": "on you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13387,
+      "word_number_in_surah": 14,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "مُحِلِّي",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13388,
+      "word_number_in_surah": 15,
+      "word_surah": 5,
+      "word_translation": "being permitted",
+      "word_transliteration": "muhilli"
+    },
+    {
+      "word_arabic": "ٱلصَّيۡدِ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13389,
+      "word_number_in_surah": 16,
+      "word_surah": 5,
+      "word_translation": "(to) hunt",
+      "word_transliteration": "al-saydi"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13390,
+      "word_number_in_surah": 17,
+      "word_surah": 5,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "حُرُمٌۗ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13391,
+      "word_number_in_surah": 18,
+      "word_surah": 5,
+      "word_translation": "(are in) Ihram",
+      "word_transliteration": "hurumun"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 1,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13392,
+      "word_number_in_surah": 19,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13393,
+      "word_number_in_surah": 20,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَحۡكُمُ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13394,
+      "word_number_in_surah": 21,
+      "word_surah": 5,
+      "word_translation": "decrees",
+      "word_transliteration": "yahkumu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13395,
+      "word_number_in_surah": 22,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 1,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13396,
+      "word_number_in_surah": 23,
+      "word_surah": 5,
+      "word_translation": "He wills",
+      "word_transliteration": "yuridu"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَوۡفُواْ بِٱلۡعُقُودِۚ أُحِلَّتۡ لَكُم بَهِيمَةُ ٱلۡأَنۡعَٰمِ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡ غَيۡرَ مُحِلِّي ٱلصَّيۡدِ وَأَنتُمۡ حُرُمٌۗ إِنَّ ٱللَّهَ يَحۡكُمُ مَا يُرِيدُ",
+  "fullTranslation": "O you who have believed, fulfill [all] contracts. Lawful for you are the animals of grazing livestock except for that which is recited to you [in this Qur'an] - hunting not being permitted while you are in the state of ihram. Indeed, Allah ordains what He intends.",
+  "fullTransliteration": "yaayyuha alladhina amanu awfu bil-'uqudi uhillat lakum bahimatu al-an'ami illa ma yut'la alaykum ghayra muhilli al-saydi wa-antum hurumun inna al-laha yahkumu ma yuridu"
+}

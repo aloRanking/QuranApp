@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "ayah": 5,
+    "surah": 4,
+    "words": 16,
+    "numberInQuran": 498,
+    "juz": 4,
+    "manzil": 1,
+    "page": 77,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9713,
+      "word_number_in_surah": 87,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُؤۡتُواْ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9714,
+      "word_number_in_surah": 88,
+      "word_surah": 4,
+      "word_translation": "give",
+      "word_transliteration": "tu'tu"
+    },
+    {
+      "word_arabic": "ٱلسُّفَهَآءَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9715,
+      "word_number_in_surah": 89,
+      "word_surah": 4,
+      "word_translation": "the foolish",
+      "word_transliteration": "al-sufahaa"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَكُمُ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9716,
+      "word_number_in_surah": 90,
+      "word_surah": 4,
+      "word_translation": "your wealth",
+      "word_transliteration": "amwalakumu"
+    },
+    {
+      "word_arabic": "ٱلَّتِي",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9717,
+      "word_number_in_surah": 91,
+      "word_surah": 4,
+      "word_translation": "which",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "جَعَلَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9718,
+      "word_number_in_surah": 92,
+      "word_surah": 4,
+      "word_translation": "(was) made",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9719,
+      "word_number_in_surah": 93,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9720,
+      "word_number_in_surah": 94,
+      "word_surah": 4,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "قِيَٰمٗا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9721,
+      "word_number_in_surah": 95,
+      "word_surah": 4,
+      "word_translation": "a means of support",
+      "word_transliteration": "qiyaman"
+    },
+    {
+      "word_arabic": "وَٱرۡزُقُوهُمۡ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9722,
+      "word_number_in_surah": 96,
+      "word_surah": 4,
+      "word_translation": "(but) provide (for) them",
+      "word_transliteration": "wa-ur'zuquhum"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9723,
+      "word_number_in_surah": 97,
+      "word_surah": 4,
+      "word_translation": "with it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَٱكۡسُوهُمۡ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9724,
+      "word_number_in_surah": 98,
+      "word_surah": 4,
+      "word_translation": "and clothe them",
+      "word_transliteration": "wa-ik'suhum"
+    },
+    {
+      "word_arabic": "وَقُولُواْ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9725,
+      "word_number_in_surah": 99,
+      "word_surah": 4,
+      "word_translation": "and speak",
+      "word_transliteration": "waqulu"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9726,
+      "word_number_in_surah": 100,
+      "word_surah": 4,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "قَوۡلٗا",
+      "word_ayah": 5,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9727,
+      "word_number_in_surah": 101,
+      "word_surah": 4,
+      "word_translation": "words",
+      "word_transliteration": "qawlan"
+    },
+    {
+      "word_arabic": "مَّعۡرُوفٗا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9728,
+      "word_number_in_surah": 102,
+      "word_surah": 4,
+      "word_translation": "(of) kindness",
+      "word_transliteration": "ma'rufan"
+    }
+  ],
+  "fullArabic": "وَلَا تُؤۡتُواْ ٱلسُّفَهَآءَ أَمۡوَٰلَكُمُ ٱلَّتِي جَعَلَ ٱللَّهُ لَكُمۡ قِيَٰمٗا وَٱرۡزُقُوهُمۡ فِيهَا وَٱكۡسُوهُمۡ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
+  "fullTranslation": "And do not give the weak-minded your property, which Allah has made a means of sustenance for you, but provide for them with it and clothe them and speak to them words of appropriate kindness.",
+  "fullTransliteration": "wala tu'tu al-sufahaa amwalakumu allati ja'ala al-lahu lakum qiyaman wa-ur'zuquhum fiha wa-ik'suhum waqulu lahum qawlan ma'rufan"
+}

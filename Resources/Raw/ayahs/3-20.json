@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "ayah": 20,
+    "surah": 3,
+    "words": 26,
+    "numberInQuran": 313,
+    "juz": 3,
+    "manzil": 1,
+    "page": 52,
+    "ruku": 43,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِنۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6458,
+      "word_number_in_surah": 313,
+      "word_surah": 3,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "حَآجُّوكَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6459,
+      "word_number_in_surah": 314,
+      "word_surah": 3,
+      "word_translation": "they argue with you",
+      "word_transliteration": "hajjuka"
+    },
+    {
+      "word_arabic": "فَقُلۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6460,
+      "word_number_in_surah": 315,
+      "word_surah": 3,
+      "word_translation": "then say",
+      "word_transliteration": "faqul"
+    },
+    {
+      "word_arabic": "أَسۡلَمۡتُ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6461,
+      "word_number_in_surah": 316,
+      "word_surah": 3,
+      "word_translation": "I have submitted",
+      "word_transliteration": "aslamtu"
+    },
+    {
+      "word_arabic": "وَجۡهِيَ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6462,
+      "word_number_in_surah": 317,
+      "word_surah": 3,
+      "word_translation": "myself",
+      "word_transliteration": "wajhiya"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6463,
+      "word_number_in_surah": 318,
+      "word_surah": 3,
+      "word_translation": "to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَمَنِ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6464,
+      "word_number_in_surah": 319,
+      "word_surah": 3,
+      "word_translation": "and (those) who",
+      "word_transliteration": "wamani"
+    },
+    {
+      "word_arabic": "ٱتَّبَعَنِۗ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6465,
+      "word_number_in_surah": 320,
+      "word_surah": 3,
+      "word_translation": "follow me",
+      "word_transliteration": "ittaba'ani"
+    },
+    {
+      "word_arabic": "وَقُل",
+      "word_ayah": 20,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6466,
+      "word_number_in_surah": 321,
+      "word_surah": 3,
+      "word_translation": "And say",
+      "word_transliteration": "waqul"
+    },
+    {
+      "word_arabic": "لِّلَّذِينَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6467,
+      "word_number_in_surah": 322,
+      "word_surah": 3,
+      "word_translation": "to those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6468,
+      "word_number_in_surah": 323,
+      "word_surah": 3,
+      "word_translation": "were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6469,
+      "word_number_in_surah": 324,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡأُمِّيِّ‍ۧنَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6470,
+      "word_number_in_surah": 325,
+      "word_surah": 3,
+      "word_translation": "and the unlettered people",
+      "word_transliteration": "wal-umiyina"
+    },
+    {
+      "word_arabic": "ءَأَسۡلَمۡتُمۡۚ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6471,
+      "word_number_in_surah": 326,
+      "word_surah": 3,
+      "word_translation": "Have you submitted yourselves",
+      "word_transliteration": "a-aslamtum"
+    },
+    {
+      "word_arabic": "فَإِنۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6472,
+      "word_number_in_surah": 327,
+      "word_surah": 3,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "أَسۡلَمُواْ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6473,
+      "word_number_in_surah": 328,
+      "word_surah": 3,
+      "word_translation": "they submit",
+      "word_transliteration": "aslamu"
+    },
+    {
+      "word_arabic": "فَقَدِ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6474,
+      "word_number_in_surah": 329,
+      "word_surah": 3,
+      "word_translation": "then surely",
+      "word_transliteration": "faqadi"
+    },
+    {
+      "word_arabic": "ٱهۡتَدَواْۖ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6475,
+      "word_number_in_surah": 330,
+      "word_surah": 3,
+      "word_translation": "they are guided",
+      "word_transliteration": "ih'tadaw"
+    },
+    {
+      "word_arabic": "وَّإِن",
+      "word_ayah": 20,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6476,
+      "word_number_in_surah": 331,
+      "word_surah": 3,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6477,
+      "word_number_in_surah": 332,
+      "word_surah": 3,
+      "word_translation": "they turn back",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "فَإِنَّمَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6478,
+      "word_number_in_surah": 333,
+      "word_surah": 3,
+      "word_translation": "then only",
+      "word_transliteration": "fa-innama"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6479,
+      "word_number_in_surah": 334,
+      "word_surah": 3,
+      "word_translation": "on you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "ٱلۡبَلَٰغُۗ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6480,
+      "word_number_in_surah": 335,
+      "word_surah": 3,
+      "word_translation": "(is) to [the] convey",
+      "word_transliteration": "al-balaghu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6481,
+      "word_number_in_surah": 336,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بَصِيرُۢ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6482,
+      "word_number_in_surah": 337,
+      "word_surah": 3,
+      "word_translation": "(is) All-Seer",
+      "word_transliteration": "basirun"
+    },
+    {
+      "word_arabic": "بِٱلۡعِبَادِ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6483,
+      "word_number_in_surah": 338,
+      "word_surah": 3,
+      "word_translation": "of [His] slaves",
+      "word_transliteration": "bil-'ibadi"
+    }
+  ],
+  "fullArabic": "فَإِنۡ حَآجُّوكَ فَقُلۡ أَسۡلَمۡتُ وَجۡهِيَ لِلَّهِ وَمَنِ ٱتَّبَعَنِۗ وَقُل لِّلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡأُمِّيِّ‍ۧنَ ءَأَسۡلَمۡتُمۡۚ فَإِنۡ أَسۡلَمُواْ فَقَدِ ٱهۡتَدَواْۖ وَّإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُۗ وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ",
+  "fullTranslation": "So if they argue with you, say, \"I have submitted myself to Allah [in Islam], and [so have] those who follow me.\" And say to those who were given the Scripture and [to] the unlearned, \"Have you submitted yourselves?\" And if they submit [in Islam], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allah is Seeing of [His] servants.",
+  "fullTransliteration": "fa-in hajjuka faqul aslamtu wajhiya lillahi wamani ittaba'ani waqul lilladhina utu al-kitaba wal-umiyina a-aslamtum fa-in aslamu faqadi ih'tadaw wa-in tawallaw fa-innama alayka al-balaghu wal-lahu basirun bil-'ibadi"
+}

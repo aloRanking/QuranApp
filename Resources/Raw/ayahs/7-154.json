@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 154,
+    "surah": 7,
+    "words": 15,
+    "numberInQuran": 1108,
+    "juz": 9,
+    "manzil": 2,
+    "page": 169,
+    "ruku": 140,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَمَّا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21611,
+      "word_number_in_surah": 2384,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "walamma"
+    },
+    {
+      "word_arabic": "سَكَتَ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21612,
+      "word_number_in_surah": 2385,
+      "word_surah": 7,
+      "word_translation": "was calmed",
+      "word_transliteration": "sakata"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21613,
+      "word_number_in_surah": 2386,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "مُّوسَى",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21614,
+      "word_number_in_surah": 2387,
+      "word_surah": 7,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "ٱلۡغَضَبُ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21615,
+      "word_number_in_surah": 2388,
+      "word_surah": 7,
+      "word_translation": "the anger",
+      "word_transliteration": "al-ghadabu"
+    },
+    {
+      "word_arabic": "أَخَذَ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21616,
+      "word_number_in_surah": 2389,
+      "word_surah": 7,
+      "word_translation": "he took (up)",
+      "word_transliteration": "akhadha"
+    },
+    {
+      "word_arabic": "ٱلۡأَلۡوَاحَۖ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21617,
+      "word_number_in_surah": 2390,
+      "word_surah": 7,
+      "word_translation": "the tablets",
+      "word_transliteration": "al-alwaha"
+    },
+    {
+      "word_arabic": "وَفِي",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21618,
+      "word_number_in_surah": 2391,
+      "word_surah": 7,
+      "word_translation": "and in",
+      "word_transliteration": "wafi"
+    },
+    {
+      "word_arabic": "نُسۡخَتِهَا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21619,
+      "word_number_in_surah": 2392,
+      "word_surah": 7,
+      "word_translation": "their inscription",
+      "word_transliteration": "nus'khatiha"
+    },
+    {
+      "word_arabic": "هُدٗى",
+      "word_ayah": 154,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21620,
+      "word_number_in_surah": 2393,
+      "word_surah": 7,
+      "word_translation": "(was) guidance",
+      "word_transliteration": "hudan"
+    },
+    {
+      "word_arabic": "وَرَحۡمَةٞ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21621,
+      "word_number_in_surah": 2394,
+      "word_surah": 7,
+      "word_translation": "and mercy",
+      "word_transliteration": "warahmatun"
+    },
+    {
+      "word_arabic": "لِّلَّذِينَ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21622,
+      "word_number_in_surah": 2395,
+      "word_surah": 7,
+      "word_translation": "for those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21623,
+      "word_number_in_surah": 2396,
+      "word_surah": 7,
+      "word_translation": "[they]",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "لِرَبِّهِمۡ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21624,
+      "word_number_in_surah": 2397,
+      "word_surah": 7,
+      "word_translation": "of their Lord",
+      "word_transliteration": "lirabbihim"
+    },
+    {
+      "word_arabic": "يَرۡهَبُونَ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21625,
+      "word_number_in_surah": 2398,
+      "word_surah": 7,
+      "word_translation": "(are) fearful",
+      "word_transliteration": "yarhabuna"
+    }
+  ],
+  "fullArabic": "وَلَمَّا سَكَتَ عَن مُّوسَى ٱلۡغَضَبُ أَخَذَ ٱلۡأَلۡوَاحَۖ وَفِي نُسۡخَتِهَا هُدٗى وَرَحۡمَةٞ لِّلَّذِينَ هُمۡ لِرَبِّهِمۡ يَرۡهَبُونَ",
+  "fullTranslation": "And when the anger subsided in Moses, he took up the tablets; and in their inscription was guidance and mercy for those who are fearful of their Lord.",
+  "fullTransliteration": "walamma sakata an musa al-ghadabu akhadha al-alwaha wafi nus'khatiha hudan warahmatun lilladhina hum lirabbihim yarhabuna"
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "ayah": 32,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 39,
+    "juz": 1,
+    "manzil": 1,
+    "page": 6,
+    "ruku": 5,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 495,
+      "word_number_in_surah": 466,
+      "word_surah": 2,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "سُبۡحَٰنَكَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 496,
+      "word_number_in_surah": 467,
+      "word_surah": 2,
+      "word_translation": "Glory be to You",
+      "word_transliteration": "sub'hanaka"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 497,
+      "word_number_in_surah": 468,
+      "word_surah": 2,
+      "word_translation": "No",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "عِلۡمَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 498,
+      "word_number_in_surah": 469,
+      "word_surah": 2,
+      "word_translation": "knowledge",
+      "word_transliteration": "il'ma"
+    },
+    {
+      "word_arabic": "لَنَآ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 499,
+      "word_number_in_surah": 470,
+      "word_surah": 2,
+      "word_translation": "(is) for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 500,
+      "word_number_in_surah": 471,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 501,
+      "word_number_in_surah": 472,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "عَلَّمۡتَنَآۖ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 502,
+      "word_number_in_surah": 473,
+      "word_surah": 2,
+      "word_translation": "You have taught us",
+      "word_transliteration": "allamtana"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 503,
+      "word_number_in_surah": 474,
+      "word_surah": 2,
+      "word_translation": "Indeed You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 504,
+      "word_number_in_surah": 475,
+      "word_surah": 2,
+      "word_translation": "You",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "ٱلۡعَلِيمُ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 505,
+      "word_number_in_surah": 476,
+      "word_surah": 2,
+      "word_translation": "(are) the All-Knowing",
+      "word_transliteration": "al-'alimu"
+    },
+    {
+      "word_arabic": "ٱلۡحَكِيمُ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 506,
+      "word_number_in_surah": 477,
+      "word_surah": 2,
+      "word_translation": "the All-Wise",
+      "word_transliteration": "al-hakimu"
+    }
+  ],
+  "fullArabic": "قَالُواْ سُبۡحَٰنَكَ لَا عِلۡمَ لَنَآ إِلَّا مَا عَلَّمۡتَنَآۖ إِنَّكَ أَنتَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+  "fullTranslation": "They said, \"Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise.\"",
+  "fullTransliteration": "qalu sub'hanaka la il'ma lana illa ma allamtana innaka anta al-'alimu al-hakimu"
+}

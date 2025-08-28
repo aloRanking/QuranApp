@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 196,
+    "surah": 3,
+    "words": 7,
+    "numberInQuran": 489,
+    "juz": 4,
+    "manzil": 1,
+    "page": 76,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9552,
+      "word_number_in_surah": 3407,
+      "word_surah": 3,
+      "word_translation": "(Let) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَغُرَّنَّكَ",
+      "word_ayah": 196,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9553,
+      "word_number_in_surah": 3408,
+      "word_surah": 3,
+      "word_translation": "deceive you",
+      "word_transliteration": "yaghurrannaka"
+    },
+    {
+      "word_arabic": "تَقَلُّبُ",
+      "word_ayah": 196,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9554,
+      "word_number_in_surah": 3409,
+      "word_surah": 3,
+      "word_translation": "(the) movement",
+      "word_transliteration": "taqallubu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9555,
+      "word_number_in_surah": 3410,
+      "word_surah": 3,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9556,
+      "word_number_in_surah": 3411,
+      "word_surah": 3,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9557,
+      "word_number_in_surah": 3412,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡبِلَٰدِ",
+      "word_ayah": 196,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9558,
+      "word_number_in_surah": 3413,
+      "word_surah": 3,
+      "word_translation": "the land",
+      "word_transliteration": "al-biladi"
+    }
+  ],
+  "fullArabic": "لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُواْ فِي ٱلۡبِلَٰدِ",
+  "fullTranslation": "Be not deceived by the [uninhibited] movement of the disbelievers throughout the land.",
+  "fullTransliteration": "la yaghurrannaka taqallubu alladhina kafaru fi al-biladi"
+}

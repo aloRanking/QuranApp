@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "ayah": 121,
+    "surah": 4,
+    "words": 7,
+    "numberInQuran": 614,
+    "juz": 5,
+    "manzil": 1,
+    "page": 97,
+    "ruku": 79,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12279,
+      "word_number_in_surah": 2653,
+      "word_surah": 4,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "مَأۡوَىٰهُمۡ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12280,
+      "word_number_in_surah": 2654,
+      "word_surah": 4,
+      "word_translation": "their abode",
+      "word_transliteration": "mawahum"
+    },
+    {
+      "word_arabic": "جَهَنَّمُ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12281,
+      "word_number_in_surah": 2655,
+      "word_surah": 4,
+      "word_translation": "(is) Hell",
+      "word_transliteration": "jahannamu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12282,
+      "word_number_in_surah": 2656,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَجِدُونَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12283,
+      "word_number_in_surah": 2657,
+      "word_surah": 4,
+      "word_translation": "they will find",
+      "word_transliteration": "yajiduna"
+    },
+    {
+      "word_arabic": "عَنۡهَا",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12284,
+      "word_number_in_surah": 2658,
+      "word_surah": 4,
+      "word_translation": "from it",
+      "word_transliteration": "anha"
+    },
+    {
+      "word_arabic": "مَحِيصٗا",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12285,
+      "word_number_in_surah": 2659,
+      "word_surah": 4,
+      "word_translation": "any escape",
+      "word_transliteration": "mahisan"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ مَأۡوَىٰهُمۡ جَهَنَّمُ وَلَا يَجِدُونَ عَنۡهَا مَحِيصٗا",
+  "fullTranslation": "The refuge of those will be Hell, and they will not find from it an escape.",
+  "fullTransliteration": "ulaika mawahum jahannamu wala yajiduna anha mahisan"
+}

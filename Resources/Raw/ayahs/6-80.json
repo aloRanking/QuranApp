@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "ayah": 80,
+    "surah": 6,
+    "words": 25,
+    "numberInQuran": 869,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَحَآجَّهُۥ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17507,
+      "word_number_in_surah": 1330,
+      "word_surah": 6,
+      "word_translation": "And argued with him",
+      "word_transliteration": "wahajjahu"
+    },
+    {
+      "word_arabic": "قَوۡمُهُۥۚ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17508,
+      "word_number_in_surah": 1331,
+      "word_surah": 6,
+      "word_translation": "his people",
+      "word_transliteration": "qawmuhu"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17509,
+      "word_number_in_surah": 1332,
+      "word_surah": 6,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَتُحَٰٓجُّوٓنِّي",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17510,
+      "word_number_in_surah": 1333,
+      "word_surah": 6,
+      "word_translation": "Do you argue with me",
+      "word_transliteration": "atuhajjunni"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17511,
+      "word_number_in_surah": 1334,
+      "word_surah": 6,
+      "word_translation": "concerning",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17512,
+      "word_number_in_surah": 1335,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17513,
+      "word_number_in_surah": 1336,
+      "word_surah": 6,
+      "word_translation": "while certainly",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "هَدَىٰنِۚ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17514,
+      "word_number_in_surah": 1337,
+      "word_surah": 6,
+      "word_translation": "He has guided me",
+      "word_transliteration": "hadani"
+    },
+    {
+      "word_arabic": "وَلَآ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17515,
+      "word_number_in_surah": 1338,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "أَخَافُ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17516,
+      "word_number_in_surah": 1339,
+      "word_surah": 6,
+      "word_translation": "(do) I fear",
+      "word_transliteration": "akhafu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17517,
+      "word_number_in_surah": 1340,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تُشۡرِكُونَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17518,
+      "word_number_in_surah": 1341,
+      "word_surah": 6,
+      "word_translation": "you associate",
+      "word_transliteration": "tush'rikuna"
+    },
+    {
+      "word_arabic": "بِهِۦٓ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17519,
+      "word_number_in_surah": 1342,
+      "word_surah": 6,
+      "word_translation": "with Him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17520,
+      "word_number_in_surah": 1343,
+      "word_surah": 6,
+      "word_translation": "unless",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 80,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17521,
+      "word_number_in_surah": 1344,
+      "word_surah": 6,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَشَآءَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17522,
+      "word_number_in_surah": 1345,
+      "word_surah": 6,
+      "word_translation": "wills",
+      "word_transliteration": "yashaa"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17523,
+      "word_number_in_surah": 1346,
+      "word_surah": 6,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗاۚ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17524,
+      "word_number_in_surah": 1347,
+      "word_surah": 6,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَسِعَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17525,
+      "word_number_in_surah": 1348,
+      "word_surah": 6,
+      "word_translation": "Encompasses",
+      "word_transliteration": "wasi'a"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17526,
+      "word_number_in_surah": 1349,
+      "word_surah": 6,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17527,
+      "word_number_in_surah": 1350,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17528,
+      "word_number_in_surah": 1351,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "عِلۡمًاۚ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 17529,
+      "word_number_in_surah": 1352,
+      "word_surah": 6,
+      "word_translation": "(in) knowledge",
+      "word_transliteration": "il'man"
+    },
+    {
+      "word_arabic": "أَفَلَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 17530,
+      "word_number_in_surah": 1353,
+      "word_surah": 6,
+      "word_translation": "Then will not",
+      "word_transliteration": "afala"
+    },
+    {
+      "word_arabic": "تَتَذَكَّرُونَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 17531,
+      "word_number_in_surah": 1354,
+      "word_surah": 6,
+      "word_translation": "you take heed",
+      "word_transliteration": "tatadhakkaruna"
+    }
+  ],
+  "fullArabic": "وَحَآجَّهُۥ قَوۡمُهُۥۚ قَالَ أَتُحَٰٓجُّوٓنِّي فِي ٱللَّهِ وَقَدۡ هَدَىٰنِۚ وَلَآ أَخَافُ مَا تُشۡرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّي شَيۡ‍ٔٗاۚ وَسِعَ رَبِّي كُلَّ شَيۡءٍ عِلۡمًاۚ أَفَلَا تَتَذَكَّرُونَ",
+  "fullTranslation": "And his people argued with him. He said, \"Do you argue with me concerning Allah while He has guided me? And I fear not what you associate with Him [and will not be harmed] unless my Lord should will something. My Lord encompasses all things in knowledge; then will you not remember?",
+  "fullTransliteration": "wahajjahu qawmuhu qala atuhajjunni fi al-lahi waqad hadani wala akhafu ma tush'rikuna bihi illa an yashaa rabbi shayan wasi'a rabbi kulla shayin il'man afala tatadhakkaruna"
+}

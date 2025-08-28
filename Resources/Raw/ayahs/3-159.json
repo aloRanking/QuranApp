@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "ayah": 159,
+    "surah": 3,
+    "words": 30,
+    "numberInQuran": 452,
+    "juz": 4,
+    "manzil": 1,
+    "page": 71,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَبِمَا",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8853,
+      "word_number_in_surah": 2708,
+      "word_surah": 3,
+      "word_translation": "So because",
+      "word_transliteration": "fabima"
+    },
+    {
+      "word_arabic": "رَحۡمَةٖ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8854,
+      "word_number_in_surah": 2709,
+      "word_surah": 3,
+      "word_translation": "(of) Mercy",
+      "word_transliteration": "rahmatin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8855,
+      "word_number_in_surah": 2710,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8856,
+      "word_number_in_surah": 2711,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "لِنتَ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8857,
+      "word_number_in_surah": 2712,
+      "word_surah": 3,
+      "word_translation": "you dealt gently",
+      "word_transliteration": "linta"
+    },
+    {
+      "word_arabic": "لَهُمۡۖ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8858,
+      "word_number_in_surah": 2713,
+      "word_surah": 3,
+      "word_translation": "with them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8859,
+      "word_number_in_surah": 2714,
+      "word_surah": 3,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "كُنتَ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8860,
+      "word_number_in_surah": 2715,
+      "word_surah": 3,
+      "word_translation": "you had been",
+      "word_transliteration": "kunta"
+    },
+    {
+      "word_arabic": "فَظًّا",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8861,
+      "word_number_in_surah": 2716,
+      "word_surah": 3,
+      "word_translation": "rude",
+      "word_transliteration": "fazzan"
+    },
+    {
+      "word_arabic": "غَلِيظَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8862,
+      "word_number_in_surah": 2717,
+      "word_surah": 3,
+      "word_translation": "(and) harsh",
+      "word_transliteration": "ghaliza"
+    },
+    {
+      "word_arabic": "ٱلۡقَلۡبِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8863,
+      "word_number_in_surah": 2718,
+      "word_surah": 3,
+      "word_translation": "(at) [the] heart",
+      "word_transliteration": "al-qalbi"
+    },
+    {
+      "word_arabic": "لَٱنفَضُّواْ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8864,
+      "word_number_in_surah": 2719,
+      "word_surah": 3,
+      "word_translation": "surely they (would have) dispersed",
+      "word_transliteration": "la-infaddu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8865,
+      "word_number_in_surah": 2720,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حَوۡلِكَۖ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8866,
+      "word_number_in_surah": 2721,
+      "word_surah": 3,
+      "word_translation": "around you",
+      "word_transliteration": "hawlika"
+    },
+    {
+      "word_arabic": "فَٱعۡفُ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8867,
+      "word_number_in_surah": 2722,
+      "word_surah": 3,
+      "word_translation": "Then pardon",
+      "word_transliteration": "fa-u'fu"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8868,
+      "word_number_in_surah": 2723,
+      "word_surah": 3,
+      "word_translation": "[from] them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "وَٱسۡتَغۡفِرۡ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8869,
+      "word_number_in_surah": 2724,
+      "word_surah": 3,
+      "word_translation": "and ask forgiveness",
+      "word_transliteration": "wa-is'taghfir"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8870,
+      "word_number_in_surah": 2725,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "وَشَاوِرۡهُمۡ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8871,
+      "word_number_in_surah": 2726,
+      "word_surah": 3,
+      "word_translation": "and consult them",
+      "word_transliteration": "washawir'hum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8872,
+      "word_number_in_surah": 2727,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡرِۖ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8873,
+      "word_number_in_surah": 2728,
+      "word_surah": 3,
+      "word_translation": "the matter",
+      "word_transliteration": "al-amri"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8874,
+      "word_number_in_surah": 2729,
+      "word_surah": 3,
+      "word_translation": "Then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "عَزَمۡتَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8875,
+      "word_number_in_surah": 2730,
+      "word_surah": 3,
+      "word_translation": "you have decided",
+      "word_transliteration": "azamta"
+    },
+    {
+      "word_arabic": "فَتَوَكَّلۡ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 8876,
+      "word_number_in_surah": 2731,
+      "word_surah": 3,
+      "word_translation": "then put trust",
+      "word_transliteration": "fatawakkal"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 8877,
+      "word_number_in_surah": 2732,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 8878,
+      "word_number_in_surah": 2733,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 8879,
+      "word_number_in_surah": 2734,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 8880,
+      "word_number_in_surah": 2735,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 8881,
+      "word_number_in_surah": 2736,
+      "word_surah": 3,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُتَوَكِّلِينَ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 8882,
+      "word_number_in_surah": 2737,
+      "word_surah": 3,
+      "word_translation": "the ones who put trust (in Him)",
+      "word_transliteration": "al-mutawakilina"
+    }
+  ],
+  "fullArabic": "فَبِمَا رَحۡمَةٖ مِّنَ ٱللَّهِ لِنتَ لَهُمۡۖ وَلَوۡ كُنتَ فَظًّا غَلِيظَ ٱلۡقَلۡبِ لَٱنفَضُّواْ مِنۡ حَوۡلِكَۖ فَٱعۡفُ عَنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمۡ وَشَاوِرۡهُمۡ فِي ٱلۡأَمۡرِۖ فَإِذَا عَزَمۡتَ فَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَوَكِّلِينَ",
+  "fullTranslation": "So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him].",
+  "fullTransliteration": "fabima rahmatin mina al-lahi linta lahum walaw kunta fazzan ghaliza al-qalbi la-infaddu min hawlika fa-u'fu anhum wa-is'taghfir lahum washawir'hum fi al-amri fa-idha azamta fatawakkal ala al-lahi inna al-laha yuhibbu al-mutawakilina"
+}

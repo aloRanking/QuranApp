@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "ayah": 163,
+    "surah": 7,
+    "words": 27,
+    "numberInQuran": 1117,
+    "juz": 9,
+    "manzil": 2,
+    "page": 171,
+    "ruku": 142,
+    "hizbQuarter": 68,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَسۡ‍َٔلۡهُمۡ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21859,
+      "word_number_in_surah": 2632,
+      "word_surah": 7,
+      "word_translation": "And ask them",
+      "word_transliteration": "wasalhum"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21860,
+      "word_number_in_surah": 2633,
+      "word_surah": 7,
+      "word_translation": "about",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡقَرۡيَةِ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21861,
+      "word_number_in_surah": 2634,
+      "word_surah": 7,
+      "word_translation": "the town",
+      "word_transliteration": "al-qaryati"
+    },
+    {
+      "word_arabic": "ٱلَّتِي",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21862,
+      "word_number_in_surah": 2635,
+      "word_surah": 7,
+      "word_translation": "which",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "كَانَتۡ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21863,
+      "word_number_in_surah": 2636,
+      "word_surah": 7,
+      "word_translation": "was",
+      "word_transliteration": "kanat"
+    },
+    {
+      "word_arabic": "حَاضِرَةَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21864,
+      "word_number_in_surah": 2637,
+      "word_surah": 7,
+      "word_translation": "situated",
+      "word_transliteration": "hadirata"
+    },
+    {
+      "word_arabic": "ٱلۡبَحۡرِ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21865,
+      "word_number_in_surah": 2638,
+      "word_surah": 7,
+      "word_translation": "(by) the sea",
+      "word_transliteration": "al-bahri"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21866,
+      "word_number_in_surah": 2639,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "يَعۡدُونَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21867,
+      "word_number_in_surah": 2640,
+      "word_surah": 7,
+      "word_translation": "they transgressed",
+      "word_transliteration": "ya'duna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21868,
+      "word_number_in_surah": 2641,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّبۡتِ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21869,
+      "word_number_in_surah": 2642,
+      "word_surah": 7,
+      "word_translation": "the (matter of) Sabbath",
+      "word_transliteration": "al-sabti"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21870,
+      "word_number_in_surah": 2643,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "تَأۡتِيهِمۡ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21871,
+      "word_number_in_surah": 2644,
+      "word_surah": 7,
+      "word_translation": "came to them",
+      "word_transliteration": "tatihim"
+    },
+    {
+      "word_arabic": "حِيتَانُهُمۡ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21872,
+      "word_number_in_surah": 2645,
+      "word_surah": 7,
+      "word_translation": "their fish",
+      "word_transliteration": "hitanuhum"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 21873,
+      "word_number_in_surah": 2646,
+      "word_surah": 7,
+      "word_translation": "(on the) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "سَبۡتِهِمۡ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 21874,
+      "word_number_in_surah": 2647,
+      "word_surah": 7,
+      "word_translation": "(of) their Sabbath",
+      "word_transliteration": "sabtihim"
+    },
+    {
+      "word_arabic": "شُرَّعٗا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 21875,
+      "word_number_in_surah": 2648,
+      "word_surah": 7,
+      "word_translation": "visibly",
+      "word_transliteration": "shurra'an"
+    },
+    {
+      "word_arabic": "وَيَوۡمَ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 21876,
+      "word_number_in_surah": 2649,
+      "word_surah": 7,
+      "word_translation": "and (on the) day",
+      "word_transliteration": "wayawma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 21877,
+      "word_number_in_surah": 2650,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡبِتُونَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 21878,
+      "word_number_in_surah": 2651,
+      "word_surah": 7,
+      "word_translation": "they had Sabbath",
+      "word_transliteration": "yasbituna"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 21879,
+      "word_number_in_surah": 2652,
+      "word_surah": 7,
+      "word_translation": "(they did) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَأۡتِيهِمۡۚ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 21880,
+      "word_number_in_surah": 2653,
+      "word_surah": 7,
+      "word_translation": "come to them",
+      "word_transliteration": "tatihim"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 21881,
+      "word_number_in_surah": 2654,
+      "word_surah": 7,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "نَبۡلُوهُم",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 21882,
+      "word_number_in_surah": 2655,
+      "word_surah": 7,
+      "word_translation": "We test them",
+      "word_transliteration": "nabluhum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 21883,
+      "word_number_in_surah": 2656,
+      "word_surah": 7,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 21884,
+      "word_number_in_surah": 2657,
+      "word_surah": 7,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَفۡسُقُونَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 21885,
+      "word_number_in_surah": 2658,
+      "word_surah": 7,
+      "word_translation": "defiantly disobeying",
+      "word_transliteration": "yafsuquna"
+    }
+  ],
+  "fullArabic": "وَسۡ‍َٔلۡهُمۡ عَنِ ٱلۡقَرۡيَةِ ٱلَّتِي كَانَتۡ حَاضِرَةَ ٱلۡبَحۡرِ إِذۡ يَعۡدُونَ فِي ٱلسَّبۡتِ إِذۡ تَأۡتِيهِمۡ حِيتَانُهُمۡ يَوۡمَ سَبۡتِهِمۡ شُرَّعٗا وَيَوۡمَ لَا يَسۡبِتُونَ لَا تَأۡتِيهِمۡۚ كَذَٰلِكَ نَبۡلُوهُم بِمَا كَانُواْ يَفۡسُقُونَ",
+  "fullTranslation": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient.",
+  "fullTransliteration": "wasalhum ani al-qaryati allati kanat hadirata al-bahri idh ya'duna fi al-sabti idh tatihim hitanuhum yawma sabtihim shurra'an wayawma la yasbituna la tatihim kadhalika nabluhum bima kanu yafsuquna"
+}

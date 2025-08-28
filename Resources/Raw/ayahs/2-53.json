@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "ayah": 53,
+    "surah": 2,
+    "words": 7,
+    "numberInQuran": 60,
+    "juz": 1,
+    "manzil": 1,
+    "page": 8,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 53,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 767,
+      "word_number_in_surah": 738,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَا",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 768,
+      "word_number_in_surah": 739,
+      "word_surah": 2,
+      "word_translation": "We gave",
+      "word_transliteration": "atayna"
+    },
+    {
+      "word_arabic": "مُوسَى",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 769,
+      "word_number_in_surah": 740,
+      "word_surah": 2,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 770,
+      "word_number_in_surah": 741,
+      "word_surah": 2,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡفُرۡقَانَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 771,
+      "word_number_in_surah": 742,
+      "word_surah": 2,
+      "word_translation": "and the Criterion",
+      "word_transliteration": "wal-fur'qana"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 772,
+      "word_number_in_surah": 743,
+      "word_surah": 2,
+      "word_translation": "perhaps you",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَهۡتَدُونَ",
+      "word_ayah": 53,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 773,
+      "word_number_in_surah": 744,
+      "word_surah": 2,
+      "word_translation": "(would be) guided",
+      "word_transliteration": "tahtaduna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ",
+  "fullTranslation": "And [recall] when We gave Moses the Scripture and criterion that perhaps you would be guided.",
+  "fullTransliteration": "wa-idh atayna musa al-kitaba wal-fur'qana la'allakum tahtaduna"
+}

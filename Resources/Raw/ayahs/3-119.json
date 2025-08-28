@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "ayah": 119,
+    "surah": 3,
+    "words": 27,
+    "numberInQuran": 412,
+    "juz": 4,
+    "manzil": 1,
+    "page": 65,
+    "ruku": 53,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هَٰٓأَنتُمۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8167,
+      "word_number_in_surah": 2022,
+      "word_surah": 3,
+      "word_translation": "Lo! You are",
+      "word_transliteration": "haantum"
+    },
+    {
+      "word_arabic": "أُوْلَآءِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8168,
+      "word_number_in_surah": 2023,
+      "word_surah": 3,
+      "word_translation": "those",
+      "word_transliteration": "ulai"
+    },
+    {
+      "word_arabic": "تُحِبُّونَهُمۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8169,
+      "word_number_in_surah": 2024,
+      "word_surah": 3,
+      "word_translation": "you love them",
+      "word_transliteration": "tuhibbunahum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8170,
+      "word_number_in_surah": 2025,
+      "word_surah": 3,
+      "word_translation": "but not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُحِبُّونَكُمۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8171,
+      "word_number_in_surah": 2026,
+      "word_surah": 3,
+      "word_translation": "they love you",
+      "word_transliteration": "yuhibbunakum"
+    },
+    {
+      "word_arabic": "وَتُؤۡمِنُونَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8172,
+      "word_number_in_surah": 2027,
+      "word_surah": 3,
+      "word_translation": "and you believe",
+      "word_transliteration": "watu'minuna"
+    },
+    {
+      "word_arabic": "بِٱلۡكِتَٰبِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8173,
+      "word_number_in_surah": 2028,
+      "word_surah": 3,
+      "word_translation": "in the Book",
+      "word_transliteration": "bil-kitabi"
+    },
+    {
+      "word_arabic": "كُلِّهِۦ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8174,
+      "word_number_in_surah": 2029,
+      "word_surah": 3,
+      "word_translation": "all of it",
+      "word_transliteration": "kullihi"
+    },
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8175,
+      "word_number_in_surah": 2030,
+      "word_surah": 3,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "لَقُوكُمۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8176,
+      "word_number_in_surah": 2031,
+      "word_surah": 3,
+      "word_translation": "they meet you",
+      "word_transliteration": "laqukum"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8177,
+      "word_number_in_surah": 2032,
+      "word_surah": 3,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8178,
+      "word_number_in_surah": 2033,
+      "word_surah": 3,
+      "word_translation": "We believe",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8179,
+      "word_number_in_surah": 2034,
+      "word_surah": 3,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "خَلَوۡاْ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8180,
+      "word_number_in_surah": 2035,
+      "word_surah": 3,
+      "word_translation": "they are alone",
+      "word_transliteration": "khalaw"
+    },
+    {
+      "word_arabic": "عَضُّواْ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8181,
+      "word_number_in_surah": 2036,
+      "word_surah": 3,
+      "word_translation": "they bite",
+      "word_transliteration": "addu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمُ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8182,
+      "word_number_in_surah": 2037,
+      "word_surah": 3,
+      "word_translation": "at you",
+      "word_transliteration": "alaykumu"
+    },
+    {
+      "word_arabic": "ٱلۡأَنَامِلَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8183,
+      "word_number_in_surah": 2038,
+      "word_surah": 3,
+      "word_translation": "the finger tips",
+      "word_transliteration": "al-anamila"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8184,
+      "word_number_in_surah": 2039,
+      "word_surah": 3,
+      "word_translation": "(out) of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡغَيۡظِۚ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8185,
+      "word_number_in_surah": 2040,
+      "word_surah": 3,
+      "word_translation": "[the] rage",
+      "word_transliteration": "al-ghayzi"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8186,
+      "word_number_in_surah": 2041,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "مُوتُواْ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8187,
+      "word_number_in_surah": 2042,
+      "word_surah": 3,
+      "word_translation": "Die",
+      "word_transliteration": "mutu"
+    },
+    {
+      "word_arabic": "بِغَيۡظِكُمۡۗ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8188,
+      "word_number_in_surah": 2043,
+      "word_surah": 3,
+      "word_translation": "in your rage",
+      "word_transliteration": "bighayzikum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8189,
+      "word_number_in_surah": 2044,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 8190,
+      "word_number_in_surah": 2045,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 8191,
+      "word_number_in_surah": 2046,
+      "word_surah": 3,
+      "word_translation": "(is) All-Knowing",
+      "word_transliteration": "alimun"
+    },
+    {
+      "word_arabic": "بِذَاتِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 8192,
+      "word_number_in_surah": 2047,
+      "word_surah": 3,
+      "word_translation": "of what",
+      "word_transliteration": "bidhati"
+    },
+    {
+      "word_arabic": "ٱلصُّدُورِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 8193,
+      "word_number_in_surah": 2048,
+      "word_surah": 3,
+      "word_translation": "(is in) the breasts",
+      "word_transliteration": "al-suduri"
+    }
+  ],
+  "fullArabic": "هَٰٓأَنتُمۡ أُوْلَآءِ تُحِبُّونَهُمۡ وَلَا يُحِبُّونَكُمۡ وَتُؤۡمِنُونَ بِٱلۡكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمۡ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَوۡاْ عَضُّواْ عَلَيۡكُمُ ٱلۡأَنَامِلَ مِنَ ٱلۡغَيۡظِۚ قُلۡ مُوتُواْ بِغَيۡظِكُمۡۗ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "fullTranslation": "Here you are loving them but they are not loving you, while you believe in the Scripture - all of it. And when they meet you, they say, \"We believe.\" But when they are alone, they bite their fingertips at you in rage. Say, \"Die in your rage. Indeed, Allah is Knowing of that within the breasts.\"",
+  "fullTransliteration": "haantum ulai tuhibbunahum wala yuhibbunakum watu'minuna bil-kitabi kullihi wa-idha laqukum qalu amanna wa-idha khalaw addu alaykumu al-anamila mina al-ghayzi qul mutu bighayzikum inna al-laha alimun bidhati al-suduri"
+}

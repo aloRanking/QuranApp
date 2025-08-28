@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 201,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 208,
+    "juz": 2,
+    "manzil": 1,
+    "page": 31,
+    "ruku": 26,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنۡهُم",
+      "word_ayah": 201,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3791,
+      "word_number_in_surah": 3762,
+      "word_surah": 2,
+      "word_translation": "And from those",
+      "word_transliteration": "wamin'hum"
+    },
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 201,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3792,
+      "word_number_in_surah": 3763,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3793,
+      "word_number_in_surah": 3764,
+      "word_surah": 2,
+      "word_translation": "say",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3794,
+      "word_number_in_surah": 3765,
+      "word_surah": 2,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "ءَاتِنَا",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3795,
+      "word_number_in_surah": 3766,
+      "word_surah": 2,
+      "word_translation": "Grant us",
+      "word_transliteration": "atina"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3796,
+      "word_number_in_surah": 3767,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3797,
+      "word_number_in_surah": 3768,
+      "word_surah": 2,
+      "word_translation": "the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "حَسَنَةٗ",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3798,
+      "word_number_in_surah": 3769,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "hasanatan"
+    },
+    {
+      "word_arabic": "وَفِي",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3799,
+      "word_number_in_surah": 3770,
+      "word_surah": 2,
+      "word_translation": "and in",
+      "word_transliteration": "wafi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةِ",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3800,
+      "word_number_in_surah": 3771,
+      "word_surah": 2,
+      "word_translation": "the Hereafter",
+      "word_transliteration": "al-akhirati"
+    },
+    {
+      "word_arabic": "حَسَنَةٗ",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3801,
+      "word_number_in_surah": 3772,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "hasanatan"
+    },
+    {
+      "word_arabic": "وَقِنَا",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3802,
+      "word_number_in_surah": 3773,
+      "word_surah": 2,
+      "word_translation": "and save us",
+      "word_transliteration": "waqina"
+    },
+    {
+      "word_arabic": "عَذَابَ",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3803,
+      "word_number_in_surah": 3774,
+      "word_surah": 2,
+      "word_translation": "(from the) punishment",
+      "word_transliteration": "adhaba"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 201,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3804,
+      "word_number_in_surah": 3775,
+      "word_surah": 2,
+      "word_translation": "(of) the Fire",
+      "word_transliteration": "al-nari"
+    }
+  ],
+  "fullArabic": "وَمِنۡهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
+  "fullTranslation": "But among them is he who says, \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\"",
+  "fullTransliteration": "wamin'hum man yaqulu rabbana atina fi al-dun'ya hasanatan wafi al-akhirati hasanatan waqina adhaba al-nari"
+}

@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "ayah": 51,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 544,
+    "juz": 5,
+    "manzil": 1,
+    "page": 86,
+    "ruku": 69,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10822,
+      "word_number_in_surah": 1196,
+      "word_surah": 4,
+      "word_translation": "Do not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "تَرَ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10823,
+      "word_number_in_surah": 1197,
+      "word_surah": 4,
+      "word_translation": "you see",
+      "word_transliteration": "tara"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10824,
+      "word_number_in_surah": 1198,
+      "word_surah": 4,
+      "word_translation": "[towards]",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10825,
+      "word_number_in_surah": 1199,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10826,
+      "word_number_in_surah": 1200,
+      "word_surah": 4,
+      "word_translation": "were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "نَصِيبٗا",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10827,
+      "word_number_in_surah": 1201,
+      "word_surah": 4,
+      "word_translation": "a portion",
+      "word_transliteration": "nasiban"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10828,
+      "word_number_in_surah": 1202,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10829,
+      "word_number_in_surah": 1203,
+      "word_surah": 4,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10830,
+      "word_number_in_surah": 1204,
+      "word_surah": 4,
+      "word_translation": "They believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱلۡجِبۡتِ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10831,
+      "word_number_in_surah": 1205,
+      "word_surah": 4,
+      "word_translation": "in the superstition",
+      "word_transliteration": "bil-jib'ti"
+    },
+    {
+      "word_arabic": "وَٱلطَّٰغُوتِ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10832,
+      "word_number_in_surah": 1206,
+      "word_surah": 4,
+      "word_translation": "and the false deities",
+      "word_transliteration": "wal-taghuti"
+    },
+    {
+      "word_arabic": "وَيَقُولُونَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10833,
+      "word_number_in_surah": 1207,
+      "word_surah": 4,
+      "word_translation": "and they say",
+      "word_transliteration": "wayaquluna"
+    },
+    {
+      "word_arabic": "لِلَّذِينَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10834,
+      "word_number_in_surah": 1208,
+      "word_surah": 4,
+      "word_translation": "for those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10835,
+      "word_number_in_surah": 1209,
+      "word_surah": 4,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10836,
+      "word_number_in_surah": 1210,
+      "word_surah": 4,
+      "word_translation": "These",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "أَهۡدَىٰ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10837,
+      "word_number_in_surah": 1211,
+      "word_surah": 4,
+      "word_translation": "(are) better guided",
+      "word_transliteration": "ahda"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10838,
+      "word_number_in_surah": 1212,
+      "word_surah": 4,
+      "word_translation": "than",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10839,
+      "word_number_in_surah": 1213,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10840,
+      "word_number_in_surah": 1214,
+      "word_surah": 4,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "سَبِيلًا",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10841,
+      "word_number_in_surah": 1215,
+      "word_surah": 4,
+      "word_translation": "(as to the) way",
+      "word_transliteration": "sabilan"
+    }
+  ],
+  "fullArabic": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُؤۡمِنُونَ بِٱلۡجِبۡتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُواْ هَٰٓؤُلَآءِ أَهۡدَىٰ مِنَ ٱلَّذِينَ ءَامَنُواْ سَبِيلًا",
+  "fullTranslation": "Have you not seen those who were given a portion of the Scripture, who believe in superstition and false objects of worship and say about the disbelievers, \"These are better guided than the believers as to the way\"?",
+  "fullTransliteration": "alam tara ila alladhina utu nasiban mina al-kitabi yu'minuna bil-jib'ti wal-taghuti wayaquluna lilladhina kafaru haulai ahda mina alladhina amanu sabilan"
+}

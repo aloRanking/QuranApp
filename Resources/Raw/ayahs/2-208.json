@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "ayah": 208,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 215,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3892,
+      "word_number_in_surah": 3863,
+      "word_surah": 2,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3893,
+      "word_number_in_surah": 3864,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3894,
+      "word_number_in_surah": 3865,
+      "word_surah": 2,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱدۡخُلُواْ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3895,
+      "word_number_in_surah": 3866,
+      "word_surah": 2,
+      "word_translation": "Enter",
+      "word_transliteration": "ud'khulu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3896,
+      "word_number_in_surah": 3867,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسِّلۡمِ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3897,
+      "word_number_in_surah": 3868,
+      "word_surah": 2,
+      "word_translation": "Islam",
+      "word_transliteration": "al-sil'mi"
+    },
+    {
+      "word_arabic": "كَآفَّةٗ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3898,
+      "word_number_in_surah": 3869,
+      "word_surah": 2,
+      "word_translation": "completely",
+      "word_transliteration": "kaffatan"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3899,
+      "word_number_in_surah": 3870,
+      "word_surah": 2,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعُواْ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3900,
+      "word_number_in_surah": 3871,
+      "word_surah": 2,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'u"
+    },
+    {
+      "word_arabic": "خُطُوَٰتِ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3901,
+      "word_number_in_surah": 3872,
+      "word_surah": 2,
+      "word_translation": "footsteps",
+      "word_transliteration": "khutuwati"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنِۚ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3902,
+      "word_number_in_surah": 3873,
+      "word_surah": 2,
+      "word_translation": "(of) the Shaitaan",
+      "word_transliteration": "al-shaytani"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 208,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3903,
+      "word_number_in_surah": 3874,
+      "word_surah": 2,
+      "word_translation": "Indeed he",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 208,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3904,
+      "word_number_in_surah": 3875,
+      "word_surah": 2,
+      "word_translation": "(is) for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عَدُوّٞ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3905,
+      "word_number_in_surah": 3876,
+      "word_surah": 2,
+      "word_translation": "an enemy",
+      "word_transliteration": "aduwwun"
+    },
+    {
+      "word_arabic": "مُّبِينٞ",
+      "word_ayah": 208,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3906,
+      "word_number_in_surah": 3877,
+      "word_surah": 2,
+      "word_translation": "open",
+      "word_transliteration": "mubinun"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱدۡخُلُواْ فِي ٱلسِّلۡمِ كَآفَّةٗ وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+  "fullTranslation": "O you who have believed, enter into Islam completely [and perfectly] and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.",
+  "fullTransliteration": "yaayyuha alladhina amanu ud'khulu fi al-sil'mi kaffatan wala tattabi'u khutuwati al-shaytani innahu lakum aduwwun mubinun"
+}

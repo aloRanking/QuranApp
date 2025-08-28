@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "ayah": 40,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 47,
+    "juz": 1,
+    "manzil": 1,
+    "page": 7,
+    "ruku": 6,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰبَنِيٓ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 617,
+      "word_number_in_surah": 588,
+      "word_surah": 2,
+      "word_translation": "O Children",
+      "word_transliteration": "yabani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 618,
+      "word_number_in_surah": 589,
+      "word_surah": 2,
+      "word_translation": "(of) Israel!",
+      "word_transliteration": "is'raila"
+    },
+    {
+      "word_arabic": "ٱذۡكُرُواْ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 619,
+      "word_number_in_surah": 590,
+      "word_surah": 2,
+      "word_translation": "Remember",
+      "word_transliteration": "udh'kuru"
+    },
+    {
+      "word_arabic": "نِعۡمَتِيَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 620,
+      "word_number_in_surah": 591,
+      "word_surah": 2,
+      "word_translation": "My Favor",
+      "word_transliteration": "ni'matiya"
+    },
+    {
+      "word_arabic": "ٱلَّتِيٓ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 621,
+      "word_number_in_surah": 592,
+      "word_surah": 2,
+      "word_translation": "which",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "أَنۡعَمۡتُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 622,
+      "word_number_in_surah": 593,
+      "word_surah": 2,
+      "word_translation": "I bestowed",
+      "word_transliteration": "an'amtu"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 623,
+      "word_number_in_surah": 594,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَأَوۡفُواْ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 624,
+      "word_number_in_surah": 595,
+      "word_surah": 2,
+      "word_translation": "and fulfill",
+      "word_transliteration": "wa-awfu"
+    },
+    {
+      "word_arabic": "بِعَهۡدِيٓ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 625,
+      "word_number_in_surah": 596,
+      "word_surah": 2,
+      "word_translation": "My Covenant",
+      "word_transliteration": "bi'ahdi"
+    },
+    {
+      "word_arabic": "أُوفِ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 626,
+      "word_number_in_surah": 597,
+      "word_surah": 2,
+      "word_translation": "I will fulfill",
+      "word_transliteration": "ufi"
+    },
+    {
+      "word_arabic": "بِعَهۡدِكُمۡ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 627,
+      "word_number_in_surah": 598,
+      "word_surah": 2,
+      "word_translation": "your covenant",
+      "word_transliteration": "bi'ahdikum"
+    },
+    {
+      "word_arabic": "وَإِيَّٰيَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 628,
+      "word_number_in_surah": 599,
+      "word_surah": 2,
+      "word_translation": "and Me Alone",
+      "word_transliteration": "wa-iyyaya"
+    },
+    {
+      "word_arabic": "فَٱرۡهَبُونِ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 629,
+      "word_number_in_surah": 600,
+      "word_surah": 2,
+      "word_translation": "fear [Me]",
+      "word_transliteration": "fa-ir'habuni"
+    }
+  ],
+  "fullArabic": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ",
+  "fullTranslation": "O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me.",
+  "fullTransliteration": "yabani is'raila udh'kuru ni'matiya allati an'amtu alaykum wa-awfu bi'ahdi ufi bi'ahdikum wa-iyyaya fa-ir'habuni"
+}

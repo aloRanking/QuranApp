@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "ayah": 142,
+    "surah": 4,
+    "words": 19,
+    "numberInQuran": 635,
+    "juz": 5,
+    "manzil": 1,
+    "page": 101,
+    "ruku": 82,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12716,
+      "word_number_in_surah": 3090,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلۡمُنَٰفِقِينَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12717,
+      "word_number_in_surah": 3091,
+      "word_surah": 4,
+      "word_translation": "the hypocrites",
+      "word_transliteration": "al-munafiqina"
+    },
+    {
+      "word_arabic": "يُخَٰدِعُونَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12718,
+      "word_number_in_surah": 3092,
+      "word_surah": 4,
+      "word_translation": "(seek to) deceive",
+      "word_transliteration": "yukhadi'una"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12719,
+      "word_number_in_surah": 3093,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12720,
+      "word_number_in_surah": 3094,
+      "word_surah": 4,
+      "word_translation": "and (it is) He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "خَٰدِعُهُمۡ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12721,
+      "word_number_in_surah": 3095,
+      "word_surah": 4,
+      "word_translation": "who deceives them",
+      "word_transliteration": "khadi'uhum"
+    },
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12722,
+      "word_number_in_surah": 3096,
+      "word_surah": 4,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "قَامُوٓاْ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12723,
+      "word_number_in_surah": 3097,
+      "word_surah": 4,
+      "word_translation": "they stand",
+      "word_transliteration": "qamu"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12724,
+      "word_number_in_surah": 3098,
+      "word_surah": 4,
+      "word_translation": "for",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةِ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12725,
+      "word_number_in_surah": 3099,
+      "word_surah": 4,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salati"
+    },
+    {
+      "word_arabic": "قَامُواْ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12726,
+      "word_number_in_surah": 3100,
+      "word_surah": 4,
+      "word_translation": "they stand",
+      "word_transliteration": "qamu"
+    },
+    {
+      "word_arabic": "كُسَالَىٰ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12727,
+      "word_number_in_surah": 3101,
+      "word_surah": 4,
+      "word_translation": "lazily",
+      "word_transliteration": "kusala"
+    },
+    {
+      "word_arabic": "يُرَآءُونَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12728,
+      "word_number_in_surah": 3102,
+      "word_surah": 4,
+      "word_translation": "showing off",
+      "word_transliteration": "yurauna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12729,
+      "word_number_in_surah": 3103,
+      "word_surah": 4,
+      "word_translation": "(to) the people",
+      "word_transliteration": "al-nasa"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12730,
+      "word_number_in_surah": 3104,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَذۡكُرُونَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12731,
+      "word_number_in_surah": 3105,
+      "word_surah": 4,
+      "word_translation": "they remember",
+      "word_transliteration": "yadhkuruna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12732,
+      "word_number_in_surah": 3106,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12733,
+      "word_number_in_surah": 3107,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12734,
+      "word_number_in_surah": 3108,
+      "word_surah": 4,
+      "word_translation": "a little",
+      "word_transliteration": "qalilan"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلۡمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمۡ وَإِذَا قَامُوٓاْ إِلَى ٱلصَّلَوٰةِ قَامُواْ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذۡكُرُونَ ٱللَّهَ إِلَّا قَلِيلٗا",
+  "fullTranslation": "Indeed, the hypocrites [think to] deceive Allah, but He is deceiving them. And when they stand for prayer, they stand lazily, showing [themselves to] the people and not remembering Allah except a little,",
+  "fullTransliteration": "inna al-munafiqina yukhadi'una al-laha wahuwa khadi'uhum wa-idha qamu ila al-salati qamu kusala yurauna al-nasa wala yadhkuruna al-laha illa qalilan"
+}

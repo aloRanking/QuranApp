@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "ayah": 27,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 320,
+    "juz": 3,
+    "manzil": 1,
+    "page": 53,
+    "ruku": 44,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "تُولِجُ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6588,
+      "word_number_in_surah": 443,
+      "word_surah": 3,
+      "word_translation": "You cause to enter",
+      "word_transliteration": "tuliju"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلَ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6589,
+      "word_number_in_surah": 444,
+      "word_surah": 3,
+      "word_translation": "the night",
+      "word_transliteration": "al-layla"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6590,
+      "word_number_in_surah": 445,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلنَّهَارِ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6591,
+      "word_number_in_surah": 446,
+      "word_surah": 3,
+      "word_translation": "the day",
+      "word_transliteration": "al-nahari"
+    },
+    {
+      "word_arabic": "وَتُولِجُ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6592,
+      "word_number_in_surah": 447,
+      "word_surah": 3,
+      "word_translation": "and You cause to enter",
+      "word_transliteration": "watuliju"
+    },
+    {
+      "word_arabic": "ٱلنَّهَارَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6593,
+      "word_number_in_surah": 448,
+      "word_surah": 3,
+      "word_translation": "the day",
+      "word_transliteration": "al-nahara"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6594,
+      "word_number_in_surah": 449,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلِۖ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6595,
+      "word_number_in_surah": 450,
+      "word_surah": 3,
+      "word_translation": "the night",
+      "word_transliteration": "al-layli"
+    },
+    {
+      "word_arabic": "وَتُخۡرِجُ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6596,
+      "word_number_in_surah": 451,
+      "word_surah": 3,
+      "word_translation": "and You bring forth",
+      "word_transliteration": "watukh'riju"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَّ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6597,
+      "word_number_in_surah": 452,
+      "word_surah": 3,
+      "word_translation": "the living",
+      "word_transliteration": "al-haya"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6598,
+      "word_number_in_surah": 453,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمَيِّتِ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6599,
+      "word_number_in_surah": 454,
+      "word_surah": 3,
+      "word_translation": "the dead",
+      "word_transliteration": "al-mayiti"
+    },
+    {
+      "word_arabic": "وَتُخۡرِجُ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6600,
+      "word_number_in_surah": 455,
+      "word_surah": 3,
+      "word_translation": "and You bring forth",
+      "word_transliteration": "watukh'riju"
+    },
+    {
+      "word_arabic": "ٱلۡمَيِّتَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6601,
+      "word_number_in_surah": 456,
+      "word_surah": 3,
+      "word_translation": "the dead",
+      "word_transliteration": "al-mayita"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6602,
+      "word_number_in_surah": 457,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡحَيِّۖ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6603,
+      "word_number_in_surah": 458,
+      "word_surah": 3,
+      "word_translation": "the living",
+      "word_transliteration": "al-hayi"
+    },
+    {
+      "word_arabic": "وَتَرۡزُقُ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6604,
+      "word_number_in_surah": 459,
+      "word_surah": 3,
+      "word_translation": "and You give provision",
+      "word_transliteration": "watarzuqu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 27,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6605,
+      "word_number_in_surah": 460,
+      "word_surah": 3,
+      "word_translation": "(to) whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تَشَآءُ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6606,
+      "word_number_in_surah": 461,
+      "word_surah": 3,
+      "word_translation": "You will",
+      "word_transliteration": "tashau"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6607,
+      "word_number_in_surah": 462,
+      "word_surah": 3,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "حِسَابٖ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6608,
+      "word_number_in_surah": 463,
+      "word_surah": 3,
+      "word_translation": "measure",
+      "word_transliteration": "hisabin"
+    }
+  ],
+  "fullArabic": "تُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِۖ وَتُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَتُخۡرِجُ ٱلۡمَيِّتَ مِنَ ٱلۡحَيِّۖ وَتَرۡزُقُ مَن تَشَآءُ بِغَيۡرِ حِسَابٖ",
+  "fullTranslation": "You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account.\"",
+  "fullTransliteration": "tuliju al-layla fi al-nahari watuliju al-nahara fi al-layli watukh'riju al-haya mina al-mayiti watukh'riju al-mayita mina al-hayi watarzuqu man tashau bighayri hisabin"
+}

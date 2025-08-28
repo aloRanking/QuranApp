@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "ayah": 128,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 135,
+    "juz": 1,
+    "manzil": 1,
+    "page": 20,
+    "ruku": 16,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رَبَّنَا",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2271,
+      "word_number_in_surah": 2242,
+      "word_surah": 2,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "وَٱجۡعَلۡنَا",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2272,
+      "word_number_in_surah": 2243,
+      "word_surah": 2,
+      "word_translation": "[and] Make us",
+      "word_transliteration": "wa-ij'alna"
+    },
+    {
+      "word_arabic": "مُسۡلِمَيۡنِ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2273,
+      "word_number_in_surah": 2244,
+      "word_surah": 2,
+      "word_translation": "both submissive",
+      "word_transliteration": "mus'limayni"
+    },
+    {
+      "word_arabic": "لَكَ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2274,
+      "word_number_in_surah": 2245,
+      "word_surah": 2,
+      "word_translation": "to You",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "وَمِن",
+      "word_ayah": 128,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2275,
+      "word_number_in_surah": 2246,
+      "word_surah": 2,
+      "word_translation": "And from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "ذُرِّيَّتِنَآ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2276,
+      "word_number_in_surah": 2247,
+      "word_surah": 2,
+      "word_translation": "our offspring",
+      "word_transliteration": "dhurriyyatina"
+    },
+    {
+      "word_arabic": "أُمَّةٗ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2277,
+      "word_number_in_surah": 2248,
+      "word_surah": 2,
+      "word_translation": "a community",
+      "word_transliteration": "ummatan"
+    },
+    {
+      "word_arabic": "مُّسۡلِمَةٗ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2278,
+      "word_number_in_surah": 2249,
+      "word_surah": 2,
+      "word_translation": "submissive",
+      "word_transliteration": "mus'limatan"
+    },
+    {
+      "word_arabic": "لَّكَ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2279,
+      "word_number_in_surah": 2250,
+      "word_surah": 2,
+      "word_translation": "to You",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "وَأَرِنَا",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2280,
+      "word_number_in_surah": 2251,
+      "word_surah": 2,
+      "word_translation": "And show us",
+      "word_transliteration": "wa-arina"
+    },
+    {
+      "word_arabic": "مَنَاسِكَنَا",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2281,
+      "word_number_in_surah": 2252,
+      "word_surah": 2,
+      "word_translation": "our ways of worship",
+      "word_transliteration": "manasikana"
+    },
+    {
+      "word_arabic": "وَتُبۡ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2282,
+      "word_number_in_surah": 2253,
+      "word_surah": 2,
+      "word_translation": "and turn",
+      "word_transliteration": "watub"
+    },
+    {
+      "word_arabic": "عَلَيۡنَآۖ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2283,
+      "word_number_in_surah": 2254,
+      "word_surah": 2,
+      "word_translation": "to us",
+      "word_transliteration": "alayna"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2284,
+      "word_number_in_surah": 2255,
+      "word_surah": 2,
+      "word_translation": "Indeed You!",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2285,
+      "word_number_in_surah": 2256,
+      "word_surah": 2,
+      "word_translation": "[You] (are)",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "ٱلتَّوَّابُ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2286,
+      "word_number_in_surah": 2257,
+      "word_surah": 2,
+      "word_translation": "the Oft-returning",
+      "word_transliteration": "al-tawabu"
+    },
+    {
+      "word_arabic": "ٱلرَّحِيمُ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2287,
+      "word_number_in_surah": 2258,
+      "word_surah": 2,
+      "word_translation": "the Most Merciful",
+      "word_transliteration": "al-rahimu"
+    }
+  ],
+  "fullArabic": "رَبَّنَا وَٱجۡعَلۡنَا مُسۡلِمَيۡنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةٗ مُّسۡلِمَةٗ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَآۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "fullTranslation": "Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites and accept our repentance. Indeed, You are the Accepting of repentance, the Merciful.",
+  "fullTransliteration": "rabbana wa-ij'alna mus'limayni laka wamin dhurriyyatina ummatan mus'limatan laka wa-arina manasikana watub alayna innaka anta al-tawabu al-rahimu"
+}

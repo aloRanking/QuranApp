@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "ayah": 21,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 810,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَنۡ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16483,
+      "word_number_in_surah": 306,
+      "word_surah": 6,
+      "word_translation": "And who",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "أَظۡلَمُ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16484,
+      "word_number_in_surah": 307,
+      "word_surah": 6,
+      "word_translation": "(is) more unjust",
+      "word_transliteration": "azlamu"
+    },
+    {
+      "word_arabic": "مِمَّنِ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16485,
+      "word_number_in_surah": 308,
+      "word_surah": 6,
+      "word_translation": "than (he) who",
+      "word_transliteration": "mimmani"
+    },
+    {
+      "word_arabic": "ٱفۡتَرَىٰ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16486,
+      "word_number_in_surah": 309,
+      "word_surah": 6,
+      "word_translation": "invents",
+      "word_transliteration": "if'tara"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16487,
+      "word_number_in_surah": 310,
+      "word_surah": 6,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16488,
+      "word_number_in_surah": 311,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "كَذِبًا",
+      "word_ayah": 21,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16489,
+      "word_number_in_surah": 312,
+      "word_surah": 6,
+      "word_translation": "a lie",
+      "word_transliteration": "kadhiban"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16490,
+      "word_number_in_surah": 313,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "كَذَّبَ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16491,
+      "word_number_in_surah": 314,
+      "word_surah": 6,
+      "word_translation": "rejects",
+      "word_transliteration": "kadhaba"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِهِۦٓۚ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16492,
+      "word_number_in_surah": 315,
+      "word_surah": 6,
+      "word_translation": "His Signs",
+      "word_transliteration": "biayatihi"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16493,
+      "word_number_in_surah": 316,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16494,
+      "word_number_in_surah": 317,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُفۡلِحُ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16495,
+      "word_number_in_surah": 318,
+      "word_surah": 6,
+      "word_translation": "will be successful",
+      "word_transliteration": "yuf'lihu"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمُونَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16496,
+      "word_number_in_surah": 319,
+      "word_surah": 6,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimuna"
+    }
+  ],
+  "fullArabic": "وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِ‍َٔايَٰتِهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+  "fullTranslation": "And who is more unjust than one who invents about Allah a lie or denies His verses? Indeed, the wrongdoers will not succeed.",
+  "fullTransliteration": "waman azlamu mimmani if'tara ala al-lahi kadhiban aw kadhaba biayatihi innahu la yuf'lihu al-zalimuna"
+}

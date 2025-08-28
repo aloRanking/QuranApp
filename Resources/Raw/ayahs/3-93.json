@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "ayah": 93,
+    "surah": 3,
+    "words": 24,
+    "numberInQuran": 386,
+    "juz": 4,
+    "manzil": 1,
+    "page": 62,
+    "ruku": 51,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞كُلُّ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7723,
+      "word_number_in_surah": 1578,
+      "word_surah": 3,
+      "word_translation": "All",
+      "word_transliteration": "kullu"
+    },
+    {
+      "word_arabic": "ٱلطَّعَامِ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7724,
+      "word_number_in_surah": 1579,
+      "word_surah": 3,
+      "word_translation": "[the] food",
+      "word_transliteration": "al-ta'ami"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7725,
+      "word_number_in_surah": 1580,
+      "word_surah": 3,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "حِلّٗا",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7726,
+      "word_number_in_surah": 1581,
+      "word_surah": 3,
+      "word_translation": "lawful",
+      "word_transliteration": "hillan"
+    },
+    {
+      "word_arabic": "لِّبَنِيٓ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7727,
+      "word_number_in_surah": 1582,
+      "word_surah": 3,
+      "word_translation": "for (the) Children",
+      "word_transliteration": "libani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7728,
+      "word_number_in_surah": 1583,
+      "word_surah": 3,
+      "word_translation": "(of) Israel",
+      "word_transliteration": "is'raila"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7729,
+      "word_number_in_surah": 1584,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7730,
+      "word_number_in_surah": 1585,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "حَرَّمَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7731,
+      "word_number_in_surah": 1586,
+      "word_surah": 3,
+      "word_translation": "made unlawful",
+      "word_transliteration": "harrama"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلُ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7732,
+      "word_number_in_surah": 1587,
+      "word_surah": 3,
+      "word_translation": "Israel",
+      "word_transliteration": "is'railu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7733,
+      "word_number_in_surah": 1588,
+      "word_surah": 3,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "نَفۡسِهِۦ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7734,
+      "word_number_in_surah": 1589,
+      "word_surah": 3,
+      "word_translation": "himself",
+      "word_transliteration": "nafsihi"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 93,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7735,
+      "word_number_in_surah": 1590,
+      "word_surah": 3,
+      "word_translation": "[from]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7736,
+      "word_number_in_surah": 1591,
+      "word_surah": 3,
+      "word_translation": "before",
+      "word_transliteration": "qabli"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 93,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7737,
+      "word_number_in_surah": 1592,
+      "word_surah": 3,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تُنَزَّلَ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7738,
+      "word_number_in_surah": 1593,
+      "word_surah": 3,
+      "word_translation": "(was) revealed",
+      "word_transliteration": "tunazzala"
+    },
+    {
+      "word_arabic": "ٱلتَّوۡرَىٰةُۚ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7739,
+      "word_number_in_surah": 1594,
+      "word_surah": 3,
+      "word_translation": "the Taurat",
+      "word_transliteration": "al-tawratu"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7740,
+      "word_number_in_surah": 1595,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "فَأۡتُواْ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7741,
+      "word_number_in_surah": 1596,
+      "word_surah": 3,
+      "word_translation": "So bring",
+      "word_transliteration": "fatu"
+    },
+    {
+      "word_arabic": "بِٱلتَّوۡرَىٰةِ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7742,
+      "word_number_in_surah": 1597,
+      "word_surah": 3,
+      "word_translation": "the Taurat",
+      "word_transliteration": "bil-tawrati"
+    },
+    {
+      "word_arabic": "فَٱتۡلُوهَآ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7743,
+      "word_number_in_surah": 1598,
+      "word_surah": 3,
+      "word_translation": "and recite it",
+      "word_transliteration": "fa-it'luha"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 93,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7744,
+      "word_number_in_surah": 1599,
+      "word_surah": 3,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 93,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7745,
+      "word_number_in_surah": 1600,
+      "word_surah": 3,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "صَٰدِقِينَ",
+      "word_ayah": 93,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7746,
+      "word_number_in_surah": 1601,
+      "word_surah": 3,
+      "word_translation": "truthful",
+      "word_transliteration": "sadiqina"
+    }
+  ],
+  "fullArabic": "۞كُلُّ ٱلطَّعَامِ كَانَ حِلّٗا لِّبَنِيٓ إِسۡرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسۡرَٰٓءِيلُ عَلَىٰ نَفۡسِهِۦ مِن قَبۡلِ أَن تُنَزَّلَ ٱلتَّوۡرَىٰةُۚ قُلۡ فَأۡتُواْ بِٱلتَّوۡرَىٰةِ فَٱتۡلُوهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+  "fullTranslation": "All food was lawful to the Children of Israel except what Israel had made unlawful to himself before the Torah was revealed. Say, [O Muhammad], \"So bring the Torah and recite it, if you should be truthful.\"",
+  "fullTransliteration": "kullu al-ta'ami kana hillan libani is'raila illa ma harrama is'railu ala nafsihi min qabli an tunazzala al-tawratu qul fatu bil-tawrati fa-it'luha in kuntum sadiqina"
+}

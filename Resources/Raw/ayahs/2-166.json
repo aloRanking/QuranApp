@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 166,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 173,
+    "juz": 2,
+    "manzil": 1,
+    "page": 25,
+    "ruku": 21,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2980,
+      "word_number_in_surah": 2951,
+      "word_surah": 2,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "تَبَرَّأَ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2981,
+      "word_number_in_surah": 2952,
+      "word_surah": 2,
+      "word_translation": "will disown",
+      "word_transliteration": "tabarra-a"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2982,
+      "word_number_in_surah": 2953,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱتُّبِعُواْ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2983,
+      "word_number_in_surah": 2954,
+      "word_surah": 2,
+      "word_translation": "were followed",
+      "word_transliteration": "ittubi'u"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2984,
+      "word_number_in_surah": 2955,
+      "word_surah": 2,
+      "word_translation": "[from]",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2985,
+      "word_number_in_surah": 2956,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱتَّبَعُواْ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2986,
+      "word_number_in_surah": 2957,
+      "word_surah": 2,
+      "word_translation": "followed",
+      "word_transliteration": "ittaba'u"
+    },
+    {
+      "word_arabic": "وَرَأَوُاْ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2987,
+      "word_number_in_surah": 2958,
+      "word_surah": 2,
+      "word_translation": "and they will see",
+      "word_transliteration": "wara-awu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابَ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2988,
+      "word_number_in_surah": 2959,
+      "word_surah": 2,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhaba"
+    },
+    {
+      "word_arabic": "وَتَقَطَّعَتۡ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2989,
+      "word_number_in_surah": 2960,
+      "word_surah": 2,
+      "word_translation": "[and] will be cut off",
+      "word_transliteration": "wataqatta'at"
+    },
+    {
+      "word_arabic": "بِهِمُ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2990,
+      "word_number_in_surah": 2961,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "bihimu"
+    },
+    {
+      "word_arabic": "ٱلۡأَسۡبَابُ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2991,
+      "word_number_in_surah": 2962,
+      "word_surah": 2,
+      "word_translation": "the relations",
+      "word_transliteration": "al-asbabu"
+    }
+  ],
+  "fullArabic": "إِذۡ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُواْ مِنَ ٱلَّذِينَ ٱتَّبَعُواْ وَرَأَوُاْ ٱلۡعَذَابَ وَتَقَطَّعَتۡ بِهِمُ ٱلۡأَسۡبَابُ",
+  "fullTranslation": "[And they should consider that] when those who have been followed disassociate themselves from those who followed [them], and they [all] see the punishment, and cut off from them are the ties [of relationship],",
+  "fullTransliteration": "idh tabarra-a alladhina ittubi'u mina alladhina ittaba'u wara-awu al-'adhaba wataqatta'at bihimu al-asbabu"
+}

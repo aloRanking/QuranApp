@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 21,
+    "surah": 8,
+    "words": 8,
+    "numberInQuran": 1181,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 148,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22839,
+      "word_number_in_surah": 292,
+      "word_surah": 8,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22840,
+      "word_number_in_surah": 293,
+      "word_surah": 8,
+      "word_translation": "be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "كَٱلَّذِينَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22841,
+      "word_number_in_surah": 294,
+      "word_surah": 8,
+      "word_translation": "like those who",
+      "word_transliteration": "ka-alladhina"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22842,
+      "word_number_in_surah": 295,
+      "word_surah": 8,
+      "word_translation": "say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "سَمِعۡنَا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22843,
+      "word_number_in_surah": 296,
+      "word_surah": 8,
+      "word_translation": "We heard",
+      "word_transliteration": "sami'na"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22844,
+      "word_number_in_surah": 297,
+      "word_surah": 8,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22845,
+      "word_number_in_surah": 298,
+      "word_surah": 8,
+      "word_translation": "do not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡمَعُونَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22846,
+      "word_number_in_surah": 299,
+      "word_surah": 8,
+      "word_translation": "hear",
+      "word_transliteration": "yasma'una"
+    }
+  ],
+  "fullArabic": "وَلَا تَكُونُواْ كَٱلَّذِينَ قَالُواْ سَمِعۡنَا وَهُمۡ لَا يَسۡمَعُونَ",
+  "fullTranslation": "And do not be like those who say, \"We have heard,\" while they do not hear.",
+  "fullTransliteration": "wala takunu ka-alladhina qalu sami'na wahum la yasma'una"
+}

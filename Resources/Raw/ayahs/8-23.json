@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 23,
+    "surah": 8,
+    "words": 11,
+    "numberInQuran": 1183,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 148,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22857,
+      "word_number_in_surah": 310,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "عَلِمَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22858,
+      "word_number_in_surah": 311,
+      "word_surah": 8,
+      "word_translation": "(had) known",
+      "word_transliteration": "alima"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22859,
+      "word_number_in_surah": 312,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فِيهِمۡ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22860,
+      "word_number_in_surah": 313,
+      "word_surah": 8,
+      "word_translation": "in them",
+      "word_transliteration": "fihim"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 23,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22861,
+      "word_number_in_surah": 314,
+      "word_surah": 8,
+      "word_translation": "any good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "لَّأَسۡمَعَهُمۡۖ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22862,
+      "word_number_in_surah": 315,
+      "word_surah": 8,
+      "word_translation": "surely, He (would) have made them hear",
+      "word_transliteration": "la-asma'ahum"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22863,
+      "word_number_in_surah": 316,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَسۡمَعَهُمۡ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22864,
+      "word_number_in_surah": 317,
+      "word_surah": 8,
+      "word_translation": "He had made them hear",
+      "word_transliteration": "asma'ahum"
+    },
+    {
+      "word_arabic": "لَتَوَلَّواْ",
+      "word_ayah": 23,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22865,
+      "word_number_in_surah": 318,
+      "word_surah": 8,
+      "word_translation": "surely they would have turned away",
+      "word_transliteration": "latawallaw"
+    },
+    {
+      "word_arabic": "وَّهُم",
+      "word_ayah": 23,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22866,
+      "word_number_in_surah": 319,
+      "word_surah": 8,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "مُّعۡرِضُونَ",
+      "word_ayah": 23,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22867,
+      "word_number_in_surah": 320,
+      "word_surah": 8,
+      "word_translation": "(were) averse",
+      "word_transliteration": "mu'riduna"
+    }
+  ],
+  "fullArabic": "وَلَوۡ عَلِمَ ٱللَّهُ فِيهِمۡ خَيۡرٗا لَّأَسۡمَعَهُمۡۖ وَلَوۡ أَسۡمَعَهُمۡ لَتَوَلَّواْ وَّهُم مُّعۡرِضُونَ",
+  "fullTranslation": "Had Allah known any good in them, He would have made them hear. And if He had made them hear, they would [still] have turned away, while they were refusing.",
+  "fullTransliteration": "walaw alima al-lahu fihim khayran la-asma'ahum walaw asma'ahum latawallaw wahum mu'riduna"
+}

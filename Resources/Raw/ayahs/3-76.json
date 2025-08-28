@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 76,
+    "surah": 3,
+    "words": 9,
+    "numberInQuran": 369,
+    "juz": 3,
+    "manzil": 1,
+    "page": 59,
+    "ruku": 49,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَلَىٰۚ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7421,
+      "word_number_in_surah": 1276,
+      "word_surah": 3,
+      "word_translation": "Nay",
+      "word_transliteration": "bala"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7422,
+      "word_number_in_surah": 1277,
+      "word_surah": 3,
+      "word_translation": "whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "أَوۡفَىٰ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7423,
+      "word_number_in_surah": 1278,
+      "word_surah": 3,
+      "word_translation": "fulfills",
+      "word_transliteration": "awfa"
+    },
+    {
+      "word_arabic": "بِعَهۡدِهِۦ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7424,
+      "word_number_in_surah": 1279,
+      "word_surah": 3,
+      "word_translation": "his covenant",
+      "word_transliteration": "bi'ahdihi"
+    },
+    {
+      "word_arabic": "وَٱتَّقَىٰ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7425,
+      "word_number_in_surah": 1280,
+      "word_surah": 3,
+      "word_translation": "and fears (Allah)",
+      "word_transliteration": "wa-ittaqa"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7426,
+      "word_number_in_surah": 1281,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7427,
+      "word_number_in_surah": 1282,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7428,
+      "word_number_in_surah": 1283,
+      "word_surah": 3,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُتَّقِينَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7429,
+      "word_number_in_surah": 1284,
+      "word_surah": 3,
+      "word_translation": "those who fear (Him)",
+      "word_transliteration": "al-mutaqina"
+    }
+  ],
+  "fullArabic": "بَلَىٰۚ مَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَّقِينَ",
+  "fullTranslation": "But yes, whoever fulfills his commitment and fears Allah - then indeed, Allah loves those who fear Him.",
+  "fullTransliteration": "bala man awfa bi'ahdihi wa-ittaqa fa-inna al-laha yuhibbu al-mutaqina"
+}

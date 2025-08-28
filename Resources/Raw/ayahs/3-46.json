@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ayah": 46,
+    "surah": 3,
+    "words": 7,
+    "numberInQuran": 339,
+    "juz": 3,
+    "manzil": 1,
+    "page": 56,
+    "ruku": 46,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَيُكَلِّمُ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6934,
+      "word_number_in_surah": 789,
+      "word_surah": 3,
+      "word_translation": "And he will speak",
+      "word_transliteration": "wayukallimu"
+    },
+    {
+      "word_arabic": "ٱلنَّاسَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6935,
+      "word_number_in_surah": 790,
+      "word_surah": 3,
+      "word_translation": "(to) the people",
+      "word_transliteration": "al-nasa"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6936,
+      "word_number_in_surah": 791,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡمَهۡدِ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6937,
+      "word_number_in_surah": 792,
+      "word_surah": 3,
+      "word_translation": "the cradle",
+      "word_transliteration": "al-mahdi"
+    },
+    {
+      "word_arabic": "وَكَهۡلٗا",
+      "word_ayah": 46,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6938,
+      "word_number_in_surah": 793,
+      "word_surah": 3,
+      "word_translation": "and (in) maturity",
+      "word_transliteration": "wakahlan"
+    },
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6939,
+      "word_number_in_surah": 794,
+      "word_surah": 3,
+      "word_translation": "and (he will be) of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحِينَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6940,
+      "word_number_in_surah": 795,
+      "word_surah": 3,
+      "word_translation": "the righteous",
+      "word_transliteration": "al-salihina"
+    }
+  ],
+  "fullArabic": "وَيُكَلِّمُ ٱلنَّاسَ فِي ٱلۡمَهۡدِ وَكَهۡلٗا وَمِنَ ٱلصَّٰلِحِينَ",
+  "fullTranslation": "He will speak to the people in the cradle and in maturity and will be of the righteous.\"",
+  "fullTransliteration": "wayukallimu al-nasa fi al-mahdi wakahlan wamina al-salihina"
+}

@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "ayah": 25,
+    "surah": 6,
+    "words": 32,
+    "numberInQuran": 814,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنۡهُم",
+      "word_ayah": 25,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16531,
+      "word_number_in_surah": 354,
+      "word_surah": 6,
+      "word_translation": "And among them",
+      "word_transliteration": "wamin'hum"
+    },
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 25,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16532,
+      "word_number_in_surah": 355,
+      "word_surah": 6,
+      "word_translation": "(are those) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَسۡتَمِعُ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16533,
+      "word_number_in_surah": 356,
+      "word_surah": 6,
+      "word_translation": "listen",
+      "word_transliteration": "yastami'u"
+    },
+    {
+      "word_arabic": "إِلَيۡكَۖ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16534,
+      "word_number_in_surah": 357,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "وَجَعَلۡنَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16535,
+      "word_number_in_surah": 358,
+      "word_surah": 6,
+      "word_translation": "but We have placed",
+      "word_transliteration": "waja'alna"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16536,
+      "word_number_in_surah": 359,
+      "word_surah": 6,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "قُلُوبِهِمۡ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16537,
+      "word_number_in_surah": 360,
+      "word_surah": 6,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "أَكِنَّةً",
+      "word_ayah": 25,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16538,
+      "word_number_in_surah": 361,
+      "word_surah": 6,
+      "word_translation": "coverings",
+      "word_transliteration": "akinnatan"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 25,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16539,
+      "word_number_in_surah": 362,
+      "word_surah": 6,
+      "word_translation": "lest",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَفۡقَهُوهُ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16540,
+      "word_number_in_surah": 363,
+      "word_surah": 6,
+      "word_translation": "they understand it",
+      "word_transliteration": "yafqahuhu"
+    },
+    {
+      "word_arabic": "وَفِيٓ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16541,
+      "word_number_in_surah": 364,
+      "word_surah": 6,
+      "word_translation": "and in",
+      "word_transliteration": "wafi"
+    },
+    {
+      "word_arabic": "ءَاذَانِهِمۡ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16542,
+      "word_number_in_surah": 365,
+      "word_surah": 6,
+      "word_translation": "their ears",
+      "word_transliteration": "adhanihim"
+    },
+    {
+      "word_arabic": "وَقۡرٗاۚ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16543,
+      "word_number_in_surah": 366,
+      "word_surah": 6,
+      "word_translation": "deafness",
+      "word_transliteration": "waqran"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 25,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16544,
+      "word_number_in_surah": 367,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَرَوۡاْ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16545,
+      "word_number_in_surah": 368,
+      "word_surah": 6,
+      "word_translation": "they see",
+      "word_transliteration": "yaraw"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16546,
+      "word_number_in_surah": 369,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "ءَايَةٖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16547,
+      "word_number_in_surah": 370,
+      "word_surah": 6,
+      "word_translation": "sign",
+      "word_transliteration": "ayatin"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16548,
+      "word_number_in_surah": 371,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16549,
+      "word_number_in_surah": 372,
+      "word_surah": 6,
+      "word_translation": "will they believe",
+      "word_transliteration": "yu'minu"
+    },
+    {
+      "word_arabic": "بِهَاۖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16550,
+      "word_number_in_surah": 373,
+      "word_surah": 6,
+      "word_translation": "in it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "حَتَّىٰٓ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16551,
+      "word_number_in_surah": 374,
+      "word_surah": 6,
+      "word_translation": "Until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16552,
+      "word_number_in_surah": 375,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "جَآءُوكَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16553,
+      "word_number_in_surah": 376,
+      "word_surah": 6,
+      "word_translation": "they come to you",
+      "word_transliteration": "jauka"
+    },
+    {
+      "word_arabic": "يُجَٰدِلُونَكَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 16554,
+      "word_number_in_surah": 377,
+      "word_surah": 6,
+      "word_translation": "and argue with you",
+      "word_transliteration": "yujadilunaka"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 16555,
+      "word_number_in_surah": 378,
+      "word_surah": 6,
+      "word_translation": "say",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 16556,
+      "word_number_in_surah": 379,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُوٓاْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 16557,
+      "word_number_in_surah": 380,
+      "word_surah": 6,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 16558,
+      "word_number_in_surah": 381,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "هَٰذَآ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 16559,
+      "word_number_in_surah": 382,
+      "word_surah": 6,
+      "word_translation": "(is) this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 16560,
+      "word_number_in_surah": 383,
+      "word_surah": 6,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَسَٰطِيرُ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 16561,
+      "word_number_in_surah": 384,
+      "word_surah": 6,
+      "word_translation": "(the) tales",
+      "word_transliteration": "asatiru"
+    },
+    {
+      "word_arabic": "ٱلۡأَوَّلِينَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 16562,
+      "word_number_in_surah": 385,
+      "word_surah": 6,
+      "word_translation": "(of) the former (people)",
+      "word_transliteration": "al-awalina"
+    }
+  ],
+  "fullArabic": "وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَۖ وَجَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ وَقۡرٗاۚ وَإِن يَرَوۡاْ كُلَّ ءَايَةٖ لَّا يُؤۡمِنُواْ بِهَاۖ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+  "fullTranslation": "And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, \"This is not but legends of the former peoples.\"",
+  "fullTransliteration": "wamin'hum man yastami'u ilayka waja'alna ala qulubihim akinnatan an yafqahuhu wafi adhanihim waqran wa-in yaraw kulla ayatin la yu'minu biha hatta idha jauka yujadilunaka yaqulu alladhina kafaru in hadha illa asatiru al-awalina"
+}

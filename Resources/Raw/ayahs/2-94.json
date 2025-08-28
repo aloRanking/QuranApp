@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "ayah": 94,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 101,
+    "juz": 1,
+    "manzil": 1,
+    "page": 15,
+    "ruku": 12,
+    "hizbQuarter": 6,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1594,
+      "word_number_in_surah": 1565,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 94,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1595,
+      "word_number_in_surah": 1566,
+      "word_surah": 2,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كَانَتۡ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1596,
+      "word_number_in_surah": 1567,
+      "word_surah": 2,
+      "word_translation": "is",
+      "word_transliteration": "kanat"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1597,
+      "word_number_in_surah": 1568,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلدَّارُ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1598,
+      "word_number_in_surah": 1569,
+      "word_surah": 2,
+      "word_translation": "the home",
+      "word_transliteration": "al-daru"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةُ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1599,
+      "word_number_in_surah": 1570,
+      "word_surah": 2,
+      "word_translation": "(of) the Hereafter",
+      "word_transliteration": "al-akhiratu"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1600,
+      "word_number_in_surah": 1571,
+      "word_surah": 2,
+      "word_translation": "with",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1601,
+      "word_number_in_surah": 1572,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "خَالِصَةٗ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1602,
+      "word_number_in_surah": 1573,
+      "word_surah": 2,
+      "word_translation": "exclusively",
+      "word_transliteration": "khalisatan"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 94,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1603,
+      "word_number_in_surah": 1574,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1604,
+      "word_number_in_surah": 1575,
+      "word_surah": 2,
+      "word_translation": "excluding",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1605,
+      "word_number_in_surah": 1576,
+      "word_surah": 2,
+      "word_translation": "the mankind",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "فَتَمَنَّوُاْ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1606,
+      "word_number_in_surah": 1577,
+      "word_surah": 2,
+      "word_translation": "then wish",
+      "word_transliteration": "fatamannawu"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1607,
+      "word_number_in_surah": 1578,
+      "word_surah": 2,
+      "word_translation": "(for) [the] death",
+      "word_transliteration": "al-mawta"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 94,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1608,
+      "word_number_in_surah": 1579,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1609,
+      "word_number_in_surah": 1580,
+      "word_surah": 2,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "صَٰدِقِينَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1610,
+      "word_number_in_surah": 1581,
+      "word_surah": 2,
+      "word_translation": "truthful",
+      "word_transliteration": "sadiqina"
+    }
+  ],
+  "fullArabic": "قُلۡ إِن كَانَتۡ لَكُمُ ٱلدَّارُ ٱلۡأٓخِرَةُ عِندَ ٱللَّهِ خَالِصَةٗ مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُاْ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ",
+  "fullTranslation": "Say, [O Muhammad], \"If the home of the Hereafter with Allah is for you alone and not the [other] people, then wish for death, if you should be truthful.",
+  "fullTransliteration": "qul in kanat lakumu al-daru al-akhiratu inda al-lahi khalisatan min duni al-nasi fatamannawu al-mawta in kuntum sadiqina"
+}

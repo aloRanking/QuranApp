@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "ayah": 215,
+    "surah": 2,
+    "words": 22,
+    "numberInQuran": 222,
+    "juz": 2,
+    "manzil": 1,
+    "page": 33,
+    "ruku": 27,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَسۡ‍َٔلُونَكَ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4055,
+      "word_number_in_surah": 4026,
+      "word_surah": 2,
+      "word_translation": "They ask you",
+      "word_transliteration": "yasalunaka"
+    },
+    {
+      "word_arabic": "مَاذَا",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4056,
+      "word_number_in_surah": 4027,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "madha"
+    },
+    {
+      "word_arabic": "يُنفِقُونَۖ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4057,
+      "word_number_in_surah": 4028,
+      "word_surah": 2,
+      "word_translation": "they (should) spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4058,
+      "word_number_in_surah": 4029,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4059,
+      "word_number_in_surah": 4030,
+      "word_surah": 2,
+      "word_translation": "Whatever",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَنفَقۡتُم",
+      "word_ayah": 215,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4060,
+      "word_number_in_surah": 4031,
+      "word_surah": 2,
+      "word_translation": "you spend",
+      "word_transliteration": "anfaqtum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4061,
+      "word_number_in_surah": 4032,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4062,
+      "word_number_in_surah": 4033,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "فَلِلۡوَٰلِدَيۡنِ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4063,
+      "word_number_in_surah": 4034,
+      "word_surah": 2,
+      "word_translation": "(is) for parents",
+      "word_transliteration": "falil'walidayni"
+    },
+    {
+      "word_arabic": "وَٱلۡأَقۡرَبِينَ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4064,
+      "word_number_in_surah": 4035,
+      "word_surah": 2,
+      "word_translation": "and the relatives",
+      "word_transliteration": "wal-aqrabina"
+    },
+    {
+      "word_arabic": "وَٱلۡيَتَٰمَىٰ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4065,
+      "word_number_in_surah": 4036,
+      "word_surah": 2,
+      "word_translation": "and the orphans",
+      "word_transliteration": "wal-yatama"
+    },
+    {
+      "word_arabic": "وَٱلۡمَسَٰكِينِ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4066,
+      "word_number_in_surah": 4037,
+      "word_surah": 2,
+      "word_translation": "and the needy",
+      "word_transliteration": "wal-masakini"
+    },
+    {
+      "word_arabic": "وَٱبۡنِ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4067,
+      "word_number_in_surah": 4038,
+      "word_surah": 2,
+      "word_translation": "and (of)",
+      "word_transliteration": "wa-ib'ni"
+    },
+    {
+      "word_arabic": "ٱلسَّبِيلِۗ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4068,
+      "word_number_in_surah": 4039,
+      "word_surah": 2,
+      "word_translation": "the wayfarer",
+      "word_transliteration": "al-sabili"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4069,
+      "word_number_in_surah": 4040,
+      "word_surah": 2,
+      "word_translation": "And whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تَفۡعَلُواْ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4070,
+      "word_number_in_surah": 4041,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "taf 'alu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4071,
+      "word_number_in_surah": 4042,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4072,
+      "word_number_in_surah": 4043,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4073,
+      "word_number_in_surah": 4044,
+      "word_surah": 2,
+      "word_translation": "So indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4074,
+      "word_number_in_surah": 4045,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 215,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4075,
+      "word_number_in_surah": 4046,
+      "word_surah": 2,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 215,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4076,
+      "word_number_in_surah": 4047,
+      "word_surah": 2,
+      "word_translation": "(is) All-Aware",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "يَسۡ‍َٔلُونَكَ مَاذَا يُنفِقُونَۖ قُلۡ مَآ أَنفَقۡتُم مِّنۡ خَيۡرٖ فَلِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ",
+  "fullTranslation": "They ask you, [O Muhammad], what they should spend. Say, \"Whatever you spend of good is [to be] for parents and relatives and orphans and the needy and the traveler. And whatever you do of good - indeed, Allah is Knowing of it.\"",
+  "fullTransliteration": "yasalunaka madha yunfiquna qul ma anfaqtum min khayrin falil'walidayni wal-aqrabina wal-yatama wal-masakini wa-ib'ni al-sabili wama taf 'alu min khayrin fa-inna al-laha bihi alimun"
+}

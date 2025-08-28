@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "ayah": 109,
+    "surah": 2,
+    "words": 33,
+    "numberInQuran": 116,
+    "juz": 1,
+    "manzil": 1,
+    "page": 17,
+    "ruku": 14,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَدَّ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1894,
+      "word_number_in_surah": 1865,
+      "word_surah": 2,
+      "word_translation": "Wish[ed]",
+      "word_transliteration": "wadda"
+    },
+    {
+      "word_arabic": "كَثِيرٞ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1895,
+      "word_number_in_surah": 1866,
+      "word_surah": 2,
+      "word_translation": "many",
+      "word_transliteration": "kathirun"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1896,
+      "word_number_in_surah": 1867,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1897,
+      "word_number_in_surah": 1868,
+      "word_surah": 2,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahli"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1898,
+      "word_number_in_surah": 1869,
+      "word_surah": 2,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1899,
+      "word_number_in_surah": 1870,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "يَرُدُّونَكُم",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1900,
+      "word_number_in_surah": 1871,
+      "word_surah": 2,
+      "word_translation": "they could turn you back",
+      "word_transliteration": "yaruddunakum"
+    },
+    {
+      "word_arabic": "مِّنۢ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1901,
+      "word_number_in_surah": 1872,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1902,
+      "word_number_in_surah": 1873,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "إِيمَٰنِكُمۡ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1903,
+      "word_number_in_surah": 1874,
+      "word_surah": 2,
+      "word_translation": "your (having) faith",
+      "word_transliteration": "imanikum"
+    },
+    {
+      "word_arabic": "كُفَّارًا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1904,
+      "word_number_in_surah": 1875,
+      "word_surah": 2,
+      "word_translation": "(to) disbelievers",
+      "word_transliteration": "kuffaran"
+    },
+    {
+      "word_arabic": "حَسَدٗا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1905,
+      "word_number_in_surah": 1876,
+      "word_surah": 2,
+      "word_translation": "(out of) jealousy",
+      "word_transliteration": "hasadan"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1906,
+      "word_number_in_surah": 1877,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1907,
+      "word_number_in_surah": 1878,
+      "word_surah": 2,
+      "word_translation": "(of)",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "أَنفُسِهِم",
+      "word_ayah": 109,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1908,
+      "word_number_in_surah": 1879,
+      "word_surah": 2,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "مِّنۢ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1909,
+      "word_number_in_surah": 1880,
+      "word_surah": 2,
+      "word_translation": "(even) from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1910,
+      "word_number_in_surah": 1881,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1911,
+      "word_number_in_surah": 1882,
+      "word_surah": 2,
+      "word_translation": "[what]",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَبَيَّنَ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1912,
+      "word_number_in_surah": 1883,
+      "word_surah": 2,
+      "word_translation": "became clear",
+      "word_transliteration": "tabayyana"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1913,
+      "word_number_in_surah": 1884,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱلۡحَقُّۖ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1914,
+      "word_number_in_surah": 1885,
+      "word_surah": 2,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "فَٱعۡفُواْ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1915,
+      "word_number_in_surah": 1886,
+      "word_surah": 2,
+      "word_translation": "So forgive",
+      "word_transliteration": "fa-i'fu"
+    },
+    {
+      "word_arabic": "وَٱصۡفَحُواْ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1916,
+      "word_number_in_surah": 1887,
+      "word_surah": 2,
+      "word_translation": "and overlook",
+      "word_transliteration": "wa-is'fahu"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1917,
+      "word_number_in_surah": 1888,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَأۡتِيَ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1918,
+      "word_number_in_surah": 1889,
+      "word_surah": 2,
+      "word_translation": "brings",
+      "word_transliteration": "yatiya"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 1919,
+      "word_number_in_surah": 1890,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِأَمۡرِهِۦٓۗ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 1920,
+      "word_number_in_surah": 1891,
+      "word_surah": 2,
+      "word_translation": "His Command",
+      "word_transliteration": "bi-amrihi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 1921,
+      "word_number_in_surah": 1892,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 1922,
+      "word_number_in_surah": 1893,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 1923,
+      "word_number_in_surah": 1894,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 1924,
+      "word_number_in_surah": 1895,
+      "word_surah": 2,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 109,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 1925,
+      "word_number_in_surah": 1896,
+      "word_surah": 2,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٞ",
+      "word_ayah": 109,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 1926,
+      "word_number_in_surah": 1897,
+      "word_surah": 2,
+      "word_translation": "(is) All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "وَدَّ كَثِيرٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يَرُدُّونَكُم مِّنۢ بَعۡدِ إِيمَٰنِكُمۡ كُفَّارًا حَسَدٗا مِّنۡ عِندِ أَنفُسِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡحَقُّۖ فَٱعۡفُواْ وَٱصۡفَحُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦٓۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "fullTranslation": "Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allah delivers His command. Indeed, Allah is over all things competent.",
+  "fullTransliteration": "wadda kathirun min ahli al-kitabi law yaruddunakum min ba'di imanikum kuffaran hasadan min indi anfusihim min ba'di ma tabayyana lahumu al-haqu fa-i'fu wa-is'fahu hatta yatiya al-lahu bi-amrihi inna al-laha ala kulli shayin qadirun"
+}

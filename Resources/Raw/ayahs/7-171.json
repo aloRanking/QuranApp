@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "ayah": 171,
+    "surah": 7,
+    "words": 19,
+    "numberInQuran": 1125,
+    "juz": 9,
+    "manzil": 2,
+    "page": 173,
+    "ruku": 142,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَإِذۡ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22017,
+      "word_number_in_surah": 2790,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "نَتَقۡنَا",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22018,
+      "word_number_in_surah": 2791,
+      "word_surah": 7,
+      "word_translation": "We raised",
+      "word_transliteration": "nataqna"
+    },
+    {
+      "word_arabic": "ٱلۡجَبَلَ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22019,
+      "word_number_in_surah": 2792,
+      "word_surah": 7,
+      "word_translation": "the mountain",
+      "word_transliteration": "al-jabala"
+    },
+    {
+      "word_arabic": "فَوۡقَهُمۡ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22020,
+      "word_number_in_surah": 2793,
+      "word_surah": 7,
+      "word_translation": "above them",
+      "word_transliteration": "fawqahum"
+    },
+    {
+      "word_arabic": "كَأَنَّهُۥ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22021,
+      "word_number_in_surah": 2794,
+      "word_surah": 7,
+      "word_translation": "as if it was",
+      "word_transliteration": "ka-annahu"
+    },
+    {
+      "word_arabic": "ظُلَّةٞ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22022,
+      "word_number_in_surah": 2795,
+      "word_surah": 7,
+      "word_translation": "a canopy",
+      "word_transliteration": "zullatun"
+    },
+    {
+      "word_arabic": "وَظَنُّوٓاْ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22023,
+      "word_number_in_surah": 2796,
+      "word_surah": 7,
+      "word_translation": "and they thought",
+      "word_transliteration": "wazannu"
+    },
+    {
+      "word_arabic": "أَنَّهُۥ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22024,
+      "word_number_in_surah": 2797,
+      "word_surah": 7,
+      "word_translation": "that it",
+      "word_transliteration": "annahu"
+    },
+    {
+      "word_arabic": "وَاقِعُۢ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22025,
+      "word_number_in_surah": 2798,
+      "word_surah": 7,
+      "word_translation": "(would) fall",
+      "word_transliteration": "waqi'un"
+    },
+    {
+      "word_arabic": "بِهِمۡ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22026,
+      "word_number_in_surah": 2799,
+      "word_surah": 7,
+      "word_translation": "upon them",
+      "word_transliteration": "bihim"
+    },
+    {
+      "word_arabic": "خُذُواْ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22027,
+      "word_number_in_surah": 2800,
+      "word_surah": 7,
+      "word_translation": "(We said) Take",
+      "word_transliteration": "khudhu"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22028,
+      "word_number_in_surah": 2801,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَٰكُم",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22029,
+      "word_number_in_surah": 2802,
+      "word_surah": 7,
+      "word_translation": "We have given you",
+      "word_transliteration": "ataynakum"
+    },
+    {
+      "word_arabic": "بِقُوَّةٖ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22030,
+      "word_number_in_surah": 2803,
+      "word_surah": 7,
+      "word_translation": "with strength",
+      "word_transliteration": "biquwwatin"
+    },
+    {
+      "word_arabic": "وَٱذۡكُرُواْ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22031,
+      "word_number_in_surah": 2804,
+      "word_surah": 7,
+      "word_translation": "and remember",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22032,
+      "word_number_in_surah": 2805,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22033,
+      "word_number_in_surah": 2806,
+      "word_surah": 7,
+      "word_translation": "(is) in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22034,
+      "word_number_in_surah": 2807,
+      "word_surah": 7,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَتَّقُونَ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22035,
+      "word_number_in_surah": 2808,
+      "word_surah": 7,
+      "word_translation": "fear Allah",
+      "word_transliteration": "tattaquna"
+    }
+  ],
+  "fullArabic": "۞وَإِذۡ نَتَقۡنَا ٱلۡجَبَلَ فَوۡقَهُمۡ كَأَنَّهُۥ ظُلَّةٞ وَظَنُّوٓاْ أَنَّهُۥ وَاقِعُۢ بِهِمۡ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
+  "fullTranslation": "And [mention] when We raised the mountain above them as if it was a dark cloud and they were certain that it would fall upon them, [and Allah said], \"Take what We have given you with determination and remember what is in it that you might fear Allah.\"",
+  "fullTransliteration": "wa-idh nataqna al-jabala fawqahum ka-annahu zullatun wazannu annahu waqi'un bihim khudhu ma ataynakum biquwwatin wa-udh'kuru ma fihi la'allakum tattaquna"
+}

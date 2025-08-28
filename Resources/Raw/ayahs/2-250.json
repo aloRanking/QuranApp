@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "ayah": 250,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 257,
+    "juz": 2,
+    "manzil": 1,
+    "page": 41,
+    "ruku": 34,
+    "hizbQuarter": 16,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَمَّا",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5050,
+      "word_number_in_surah": 5021,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "walamma"
+    },
+    {
+      "word_arabic": "بَرَزُواْ",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5051,
+      "word_number_in_surah": 5022,
+      "word_surah": 2,
+      "word_translation": "they went forth",
+      "word_transliteration": "barazu"
+    },
+    {
+      "word_arabic": "لِجَالُوتَ",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5052,
+      "word_number_in_surah": 5023,
+      "word_surah": 2,
+      "word_translation": "to (face) Jalut",
+      "word_transliteration": "lijaluta"
+    },
+    {
+      "word_arabic": "وَجُنُودِهِۦ",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5053,
+      "word_number_in_surah": 5024,
+      "word_surah": 2,
+      "word_translation": "and his troops",
+      "word_transliteration": "wajunudihi"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5054,
+      "word_number_in_surah": 5025,
+      "word_surah": 2,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5055,
+      "word_number_in_surah": 5026,
+      "word_surah": 2,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "أَفۡرِغۡ",
+      "word_ayah": 250,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5056,
+      "word_number_in_surah": 5027,
+      "word_surah": 2,
+      "word_translation": "Pour",
+      "word_transliteration": "afrigh"
+    },
+    {
+      "word_arabic": "عَلَيۡنَا",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5057,
+      "word_number_in_surah": 5028,
+      "word_surah": 2,
+      "word_translation": "on us",
+      "word_transliteration": "alayna"
+    },
+    {
+      "word_arabic": "صَبۡرٗا",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5058,
+      "word_number_in_surah": 5029,
+      "word_surah": 2,
+      "word_translation": "patience",
+      "word_transliteration": "sabran"
+    },
+    {
+      "word_arabic": "وَثَبِّتۡ",
+      "word_ayah": 250,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5059,
+      "word_number_in_surah": 5030,
+      "word_surah": 2,
+      "word_translation": "and make firm",
+      "word_transliteration": "wathabbit"
+    },
+    {
+      "word_arabic": "أَقۡدَامَنَا",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5060,
+      "word_number_in_surah": 5031,
+      "word_surah": 2,
+      "word_translation": "our feet",
+      "word_transliteration": "aqdamana"
+    },
+    {
+      "word_arabic": "وَٱنصُرۡنَا",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5061,
+      "word_number_in_surah": 5032,
+      "word_surah": 2,
+      "word_translation": "and help us",
+      "word_transliteration": "wa-unsur'na"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5062,
+      "word_number_in_surah": 5033,
+      "word_surah": 2,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5063,
+      "word_number_in_surah": 5034,
+      "word_surah": 2,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 250,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5064,
+      "word_number_in_surah": 5035,
+      "word_surah": 2,
+      "word_translation": "(who are) disbelieving",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "وَلَمَّا بَرَزُواْ لِجَالُوتَ وَجُنُودِهِۦ قَالُواْ رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرٗا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "And when they went forth to [face] Goliath and his soldiers, they said, \"Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.\"",
+  "fullTransliteration": "walamma barazu lijaluta wajunudihi qalu rabbana afrigh alayna sabran wathabbit aqdamana wa-unsur'na ala al-qawmi al-kafirina"
+}

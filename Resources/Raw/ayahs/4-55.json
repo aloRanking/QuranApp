@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "ayah": 55,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 548,
+    "juz": 5,
+    "manzil": 1,
+    "page": 87,
+    "ruku": 69,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَمِنۡهُم",
+      "word_ayah": 55,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10881,
+      "word_number_in_surah": 1255,
+      "word_surah": 4,
+      "word_translation": "Then of them",
+      "word_transliteration": "famin'hum"
+    },
+    {
+      "word_arabic": "مَّنۡ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10882,
+      "word_number_in_surah": 1256,
+      "word_surah": 4,
+      "word_translation": "(are some) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "ءَامَنَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10883,
+      "word_number_in_surah": 1257,
+      "word_surah": 4,
+      "word_translation": "believed",
+      "word_transliteration": "amana"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10884,
+      "word_number_in_surah": 1258,
+      "word_surah": 4,
+      "word_translation": "in him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَمِنۡهُم",
+      "word_ayah": 55,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10885,
+      "word_number_in_surah": 1259,
+      "word_surah": 4,
+      "word_translation": "and of them",
+      "word_transliteration": "wamin'hum"
+    },
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 55,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10886,
+      "word_number_in_surah": 1260,
+      "word_surah": 4,
+      "word_translation": "(are some) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "صَدَّ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10887,
+      "word_number_in_surah": 1261,
+      "word_surah": 4,
+      "word_translation": "turned away",
+      "word_transliteration": "sadda"
+    },
+    {
+      "word_arabic": "عَنۡهُۚ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10888,
+      "word_number_in_surah": 1262,
+      "word_surah": 4,
+      "word_translation": "from him",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10889,
+      "word_number_in_surah": 1263,
+      "word_surah": 4,
+      "word_translation": "and sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِجَهَنَّمَ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10890,
+      "word_number_in_surah": 1264,
+      "word_surah": 4,
+      "word_translation": "(is) Hell",
+      "word_transliteration": "bijahannama"
+    },
+    {
+      "word_arabic": "سَعِيرًا",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10891,
+      "word_number_in_surah": 1265,
+      "word_surah": 4,
+      "word_translation": "(as a) Blazing Fire",
+      "word_transliteration": "sa'iran"
+    }
+  ],
+  "fullArabic": "فَمِنۡهُم مَّنۡ ءَامَنَ بِهِۦ وَمِنۡهُم مَّن صَدَّ عَنۡهُۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+  "fullTranslation": "And some among them believed in it, and some among them were averse to it. And sufficient is Hell as a blaze.",
+  "fullTransliteration": "famin'hum man amana bihi wamin'hum man sadda anhu wakafa bijahannama sa'iran"
+}

@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "ayah": 22,
+    "surah": 8,
+    "words": 10,
+    "numberInQuran": 1182,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 148,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞إِنَّ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22847,
+      "word_number_in_surah": 300,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "شَرَّ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22848,
+      "word_number_in_surah": 301,
+      "word_surah": 8,
+      "word_translation": "worst",
+      "word_transliteration": "sharra"
+    },
+    {
+      "word_arabic": "ٱلدَّوَآبِّ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22849,
+      "word_number_in_surah": 302,
+      "word_surah": 8,
+      "word_translation": "(of) the living creatures",
+      "word_transliteration": "al-dawabi"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22850,
+      "word_number_in_surah": 303,
+      "word_surah": 8,
+      "word_translation": "near",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22851,
+      "word_number_in_surah": 304,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلصُّمُّ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22852,
+      "word_number_in_surah": 305,
+      "word_surah": 8,
+      "word_translation": "(are) the deaf",
+      "word_transliteration": "al-sumu"
+    },
+    {
+      "word_arabic": "ٱلۡبُكۡمُ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22853,
+      "word_number_in_surah": 306,
+      "word_surah": 8,
+      "word_translation": "the dumb",
+      "word_transliteration": "al-buk'mu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22854,
+      "word_number_in_surah": 307,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22855,
+      "word_number_in_surah": 308,
+      "word_surah": 8,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡقِلُونَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22856,
+      "word_number_in_surah": 309,
+      "word_surah": 8,
+      "word_translation": "use their intellect",
+      "word_transliteration": "ya'qiluna"
+    }
+  ],
+  "fullArabic": "۞إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِينَ لَا يَعۡقِلُونَ",
+  "fullTranslation": "Indeed, the worst of living creatures in the sight of Allah are the deaf and dumb who do not use reason.",
+  "fullTransliteration": "inna sharra al-dawabi inda al-lahi al-sumu al-buk'mu alladhina la ya'qiluna"
+}

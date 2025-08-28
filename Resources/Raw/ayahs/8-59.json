@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 59,
+    "surah": 8,
+    "words": 8,
+    "numberInQuran": 1219,
+    "juz": 10,
+    "manzil": 2,
+    "page": 184,
+    "ruku": 153,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23461,
+      "word_number_in_surah": 914,
+      "word_surah": 8,
+      "word_translation": "And (let) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَحۡسَبَنَّ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23462,
+      "word_number_in_surah": 915,
+      "word_surah": 8,
+      "word_translation": "think",
+      "word_transliteration": "yahsabanna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23463,
+      "word_number_in_surah": 916,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23464,
+      "word_number_in_surah": 917,
+      "word_surah": 8,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "سَبَقُوٓاْۚ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23465,
+      "word_number_in_surah": 918,
+      "word_surah": 8,
+      "word_translation": "they can outstrip",
+      "word_transliteration": "sabaqu"
+    },
+    {
+      "word_arabic": "إِنَّهُمۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23466,
+      "word_number_in_surah": 919,
+      "word_surah": 8,
+      "word_translation": "Indeed they",
+      "word_transliteration": "innahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23467,
+      "word_number_in_surah": 920,
+      "word_surah": 8,
+      "word_translation": "(can) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُعۡجِزُونَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23468,
+      "word_number_in_surah": 921,
+      "word_surah": 8,
+      "word_translation": "escape",
+      "word_transliteration": "yu'jizuna"
+    }
+  ],
+  "fullArabic": "وَلَا يَحۡسَبَنَّ ٱلَّذِينَ كَفَرُواْ سَبَقُوٓاْۚ إِنَّهُمۡ لَا يُعۡجِزُونَ",
+  "fullTranslation": "And let not those who disbelieve think they will escape. Indeed, they will not cause failure [to Allah].",
+  "fullTransliteration": "wala yahsabanna alladhina kafaru sabaqu innahum la yu'jizuna"
+}

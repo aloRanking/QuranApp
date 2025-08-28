@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "ayah": 66,
+    "surah": 5,
+    "words": 24,
+    "numberInQuran": 735,
+    "juz": 6,
+    "manzil": 2,
+    "page": 119,
+    "ruku": 94,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14984,
+      "word_number_in_surah": 1611,
+      "word_surah": 5,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَنَّهُمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14985,
+      "word_number_in_surah": 1612,
+      "word_surah": 5,
+      "word_translation": "that they",
+      "word_transliteration": "annahum"
+    },
+    {
+      "word_arabic": "أَقَامُواْ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14986,
+      "word_number_in_surah": 1613,
+      "word_surah": 5,
+      "word_translation": "had stood fast",
+      "word_transliteration": "aqamu"
+    },
+    {
+      "word_arabic": "ٱلتَّوۡرَىٰةَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14987,
+      "word_number_in_surah": 1614,
+      "word_surah": 5,
+      "word_translation": "(by) the Taurat",
+      "word_transliteration": "al-tawrata"
+    },
+    {
+      "word_arabic": "وَٱلۡإِنجِيلَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14988,
+      "word_number_in_surah": 1615,
+      "word_surah": 5,
+      "word_translation": "and the Injeel",
+      "word_transliteration": "wal-injila"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14989,
+      "word_number_in_surah": 1616,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14990,
+      "word_number_in_surah": 1617,
+      "word_surah": 5,
+      "word_translation": "was revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡهِم",
+      "word_ayah": 66,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14991,
+      "word_number_in_surah": 1618,
+      "word_surah": 5,
+      "word_translation": "to them",
+      "word_transliteration": "ilayhim"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 66,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14992,
+      "word_number_in_surah": 1619,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّهِمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14993,
+      "word_number_in_surah": 1620,
+      "word_surah": 5,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "لَأَكَلُواْ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14994,
+      "word_number_in_surah": 1621,
+      "word_surah": 5,
+      "word_translation": "surely they (would have) eaten",
+      "word_transliteration": "la-akalu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 66,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14995,
+      "word_number_in_surah": 1622,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَوۡقِهِمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14996,
+      "word_number_in_surah": 1623,
+      "word_surah": 5,
+      "word_translation": "above them",
+      "word_transliteration": "fawqihim"
+    },
+    {
+      "word_arabic": "وَمِن",
+      "word_ayah": 66,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14997,
+      "word_number_in_surah": 1624,
+      "word_surah": 5,
+      "word_translation": "and from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "تَحۡتِ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14998,
+      "word_number_in_surah": 1625,
+      "word_surah": 5,
+      "word_translation": "beneath",
+      "word_transliteration": "tahti"
+    },
+    {
+      "word_arabic": "أَرۡجُلِهِمۚ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14999,
+      "word_number_in_surah": 1626,
+      "word_surah": 5,
+      "word_translation": "their feet",
+      "word_transliteration": "arjulihim"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15000,
+      "word_number_in_surah": 1627,
+      "word_surah": 5,
+      "word_translation": "Among them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "أُمَّةٞ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15001,
+      "word_number_in_surah": 1628,
+      "word_surah": 5,
+      "word_translation": "(is) a community",
+      "word_transliteration": "ummatun"
+    },
+    {
+      "word_arabic": "مُّقۡتَصِدَةٞۖ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15002,
+      "word_number_in_surah": 1629,
+      "word_surah": 5,
+      "word_translation": "moderate",
+      "word_transliteration": "muq'tasidatun"
+    },
+    {
+      "word_arabic": "وَكَثِيرٞ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15003,
+      "word_number_in_surah": 1630,
+      "word_surah": 5,
+      "word_translation": "but many",
+      "word_transliteration": "wakathirun"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 66,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15004,
+      "word_number_in_surah": 1631,
+      "word_surah": 5,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "سَآءَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15005,
+      "word_number_in_surah": 1632,
+      "word_surah": 5,
+      "word_translation": "evil",
+      "word_transliteration": "saa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15006,
+      "word_number_in_surah": 1633,
+      "word_surah": 5,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 66,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15007,
+      "word_number_in_surah": 1634,
+      "word_surah": 5,
+      "word_translation": "they do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "وَلَوۡ أَنَّهُمۡ أَقَامُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡهِم مِّن رَّبِّهِمۡ لَأَكَلُواْ مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۚ مِّنۡهُمۡ أُمَّةٞ مُّقۡتَصِدَةٞۖ وَكَثِيرٞ مِّنۡهُمۡ سَآءَ مَا يَعۡمَلُونَ",
+  "fullTranslation": "And if only they upheld [the law of] the Torah, the Gospel, and what has been revealed to them from their Lord, they would have consumed [provision] from above them and from beneath their feet. Among them are a moderate community, but many of them - evil is that which they do.",
+  "fullTransliteration": "walaw annahum aqamu al-tawrata wal-injila wama unzila ilayhim min rabbihim la-akalu min fawqihim wamin tahti arjulihim min'hum ummatun muq'tasidatun wakathirun min'hum saa ma ya'maluna"
+}

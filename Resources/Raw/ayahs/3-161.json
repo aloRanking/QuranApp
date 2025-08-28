@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "ayah": 161,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 454,
+    "juz": 4,
+    "manzil": 1,
+    "page": 71,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8901,
+      "word_number_in_surah": 2756,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8902,
+      "word_number_in_surah": 2757,
+      "word_surah": 3,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لِنَبِيٍّ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8903,
+      "word_number_in_surah": 2758,
+      "word_surah": 3,
+      "word_translation": "for a Prophet",
+      "word_transliteration": "linabiyyin"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 161,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8904,
+      "word_number_in_surah": 2759,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَغُلَّۚ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8905,
+      "word_number_in_surah": 2760,
+      "word_surah": 3,
+      "word_translation": "he defrauds",
+      "word_transliteration": "yaghulla"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 161,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8906,
+      "word_number_in_surah": 2761,
+      "word_surah": 3,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَغۡلُلۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8907,
+      "word_number_in_surah": 2762,
+      "word_surah": 3,
+      "word_translation": "defrauds",
+      "word_transliteration": "yaghlul"
+    },
+    {
+      "word_arabic": "يَأۡتِ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8908,
+      "word_number_in_surah": 2763,
+      "word_surah": 3,
+      "word_translation": "will bring",
+      "word_transliteration": "yati"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8909,
+      "word_number_in_surah": 2764,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "غَلَّ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8910,
+      "word_number_in_surah": 2765,
+      "word_surah": 3,
+      "word_translation": "he had defrauded",
+      "word_transliteration": "ghalla"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8911,
+      "word_number_in_surah": 2766,
+      "word_surah": 3,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۚ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8912,
+      "word_number_in_surah": 2767,
+      "word_surah": 3,
+      "word_translation": "(of) Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8913,
+      "word_number_in_surah": 2768,
+      "word_surah": 3,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تُوَفَّىٰ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8914,
+      "word_number_in_surah": 2769,
+      "word_surah": 3,
+      "word_translation": "is repaid in full",
+      "word_transliteration": "tuwaffa"
+    },
+    {
+      "word_arabic": "كُلُّ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8915,
+      "word_number_in_surah": 2770,
+      "word_surah": 3,
+      "word_translation": "every",
+      "word_transliteration": "kullu"
+    },
+    {
+      "word_arabic": "نَفۡسٖ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8916,
+      "word_number_in_surah": 2771,
+      "word_surah": 3,
+      "word_translation": "soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8917,
+      "word_number_in_surah": 2772,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَسَبَتۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8918,
+      "word_number_in_surah": 2773,
+      "word_surah": 3,
+      "word_translation": "it earned",
+      "word_transliteration": "kasabat"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 161,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8919,
+      "word_number_in_surah": 2774,
+      "word_surah": 3,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8920,
+      "word_number_in_surah": 2775,
+      "word_surah": 3,
+      "word_translation": "(will) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُظۡلَمُونَ",
+      "word_ayah": 161,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8921,
+      "word_number_in_surah": 2776,
+      "word_surah": 3,
+      "word_translation": "be wronged",
+      "word_transliteration": "yuz'lamuna"
+    }
+  ],
+  "fullArabic": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "fullTranslation": "It is not [attributable] to any prophet that he would act unfaithfully [in regard to war booty]. And whoever betrays, [taking unlawfully], will come with what he took on the Day of Resurrection. Then will every soul be [fully] compensated for what it earned, and they will not be wronged.",
+  "fullTransliteration": "wama kana linabiyyin an yaghulla waman yaghlul yati bima ghalla yawma al-qiyamati thumma tuwaffa kullu nafsin ma kasabat wahum la yuz'lamuna"
+}

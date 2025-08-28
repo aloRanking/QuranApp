@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 24,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 31,
+    "juz": 1,
+    "manzil": 1,
+    "page": 4,
+    "ruku": 4,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 24,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 314,
+      "word_number_in_surah": 285,
+      "word_surah": 2,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 24,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 315,
+      "word_number_in_surah": 286,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَفۡعَلُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 316,
+      "word_number_in_surah": 287,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "taf 'alu"
+    },
+    {
+      "word_arabic": "وَلَن",
+      "word_ayah": 24,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 317,
+      "word_number_in_surah": 288,
+      "word_surah": 2,
+      "word_translation": "and never",
+      "word_transliteration": "walan"
+    },
+    {
+      "word_arabic": "تَفۡعَلُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 318,
+      "word_number_in_surah": 289,
+      "word_surah": 2,
+      "word_translation": "will you do",
+      "word_transliteration": "taf 'alu"
+    },
+    {
+      "word_arabic": "فَٱتَّقُواْ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 319,
+      "word_number_in_surah": 290,
+      "word_surah": 2,
+      "word_translation": "then fear",
+      "word_transliteration": "fa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱلنَّارَ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 320,
+      "word_number_in_surah": 291,
+      "word_surah": 2,
+      "word_translation": "the Fire",
+      "word_transliteration": "al-nara"
+    },
+    {
+      "word_arabic": "ٱلَّتِي",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 321,
+      "word_number_in_surah": 292,
+      "word_surah": 2,
+      "word_translation": "whose",
+      "word_transliteration": "allati"
+    },
+    {
+      "word_arabic": "وَقُودُهَا",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 322,
+      "word_number_in_surah": 293,
+      "word_surah": 2,
+      "word_translation": "[its] fuel",
+      "word_transliteration": "waquduha"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 323,
+      "word_number_in_surah": 294,
+      "word_surah": 2,
+      "word_translation": "(is) [the] men",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "وَٱلۡحِجَارَةُۖ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 324,
+      "word_number_in_surah": 295,
+      "word_surah": 2,
+      "word_translation": "and [the] stones",
+      "word_transliteration": "wal-hijaratu"
+    },
+    {
+      "word_arabic": "أُعِدَّتۡ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 325,
+      "word_number_in_surah": 296,
+      "word_surah": 2,
+      "word_translation": "prepared",
+      "word_transliteration": "u'iddat"
+    },
+    {
+      "word_arabic": "لِلۡكَٰفِرِينَ",
+      "word_ayah": 24,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 326,
+      "word_number_in_surah": 297,
+      "word_surah": 2,
+      "word_translation": "for the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    }
+  ],
+  "fullArabic": "فَإِن لَّمۡ تَفۡعَلُواْ وَلَن تَفۡعَلُواْ فَٱتَّقُواْ ٱلنَّارَ ٱلَّتِي وَقُودُهَا ٱلنَّاسُ وَٱلۡحِجَارَةُۖ أُعِدَّتۡ لِلۡكَٰفِرِينَ",
+  "fullTranslation": "But if you do not - and you will never be able to - then fear the Fire, whose fuel is men and stones, prepared for the disbelievers.",
+  "fullTransliteration": "fa-in lam taf 'alu walan taf 'alu fa-ittaqu al-nara allati waquduha al-nasu wal-hijaratu u'iddat lil'kafirina"
+}

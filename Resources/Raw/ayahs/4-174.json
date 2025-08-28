@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 174,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 667,
+    "juz": 6,
+    "manzil": 1,
+    "page": 105,
+    "ruku": 85,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13298,
+      "word_number_in_surah": 3672,
+      "word_surah": 4,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلنَّاسُ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13299,
+      "word_number_in_surah": 3673,
+      "word_surah": 4,
+      "word_translation": "mankind",
+      "word_transliteration": "al-nasu"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 174,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13300,
+      "word_number_in_surah": 3674,
+      "word_surah": 4,
+      "word_translation": "Surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "جَآءَكُم",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13301,
+      "word_number_in_surah": 3675,
+      "word_surah": 4,
+      "word_translation": "has come to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "بُرۡهَٰنٞ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13302,
+      "word_number_in_surah": 3676,
+      "word_surah": 4,
+      "word_translation": "a convincing proof",
+      "word_transliteration": "bur'hanun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 174,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13303,
+      "word_number_in_surah": 3677,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 174,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13304,
+      "word_number_in_surah": 3678,
+      "word_surah": 4,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "وَأَنزَلۡنَآ",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13305,
+      "word_number_in_surah": 3679,
+      "word_surah": 4,
+      "word_translation": "and We (have) sent down",
+      "word_transliteration": "wa-anzalna"
+    },
+    {
+      "word_arabic": "إِلَيۡكُمۡ",
+      "word_ayah": 174,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13306,
+      "word_number_in_surah": 3680,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "ilaykum"
+    },
+    {
+      "word_arabic": "نُورٗا",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13307,
+      "word_number_in_surah": 3681,
+      "word_surah": 4,
+      "word_translation": "a light",
+      "word_transliteration": "nuran"
+    },
+    {
+      "word_arabic": "مُّبِينٗا",
+      "word_ayah": 174,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13308,
+      "word_number_in_surah": 3682,
+      "word_surah": 4,
+      "word_translation": "clear",
+      "word_transliteration": "mubinan"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلنَّاسُ قَدۡ جَآءَكُم بُرۡهَٰنٞ مِّن رَّبِّكُمۡ وَأَنزَلۡنَآ إِلَيۡكُمۡ نُورٗا مُّبِينٗا",
+  "fullTranslation": "O mankind, there has come to you a conclusive proof from your Lord, and We have sent down to you a clear light.",
+  "fullTransliteration": "yaayyuha al-nasu qad jaakum bur'hanun min rabbikum wa-anzalna ilaykum nuran mubinan"
+}

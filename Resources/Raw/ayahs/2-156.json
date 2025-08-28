@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "ayah": 156,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 163,
+    "juz": 2,
+    "manzil": 1,
+    "page": 24,
+    "ruku": 20,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2801,
+      "word_number_in_surah": 2772,
+      "word_surah": 2,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "إِذَآ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2802,
+      "word_number_in_surah": 2773,
+      "word_surah": 2,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "أَصَٰبَتۡهُم",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2803,
+      "word_number_in_surah": 2774,
+      "word_surah": 2,
+      "word_translation": "strikes them",
+      "word_transliteration": "asabathum"
+    },
+    {
+      "word_arabic": "مُّصِيبَةٞ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2804,
+      "word_number_in_surah": 2775,
+      "word_surah": 2,
+      "word_translation": "a misfortune",
+      "word_transliteration": "musibatun"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2805,
+      "word_number_in_surah": 2776,
+      "word_surah": 2,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2806,
+      "word_number_in_surah": 2777,
+      "word_surah": 2,
+      "word_translation": "Indeed, we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 156,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2807,
+      "word_number_in_surah": 2778,
+      "word_surah": 2,
+      "word_translation": "belong to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَإِنَّآ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2808,
+      "word_number_in_surah": 2779,
+      "word_surah": 2,
+      "word_translation": "and indeed we",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 156,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2809,
+      "word_number_in_surah": 2780,
+      "word_surah": 2,
+      "word_translation": "towards Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "رَٰجِعُونَ",
+      "word_ayah": 156,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2810,
+      "word_number_in_surah": 2781,
+      "word_surah": 2,
+      "word_translation": "will return",
+      "word_transliteration": "raji'una"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةٞ قَالُوٓاْ إِنَّا لِلَّهِ وَإِنَّآ إِلَيۡهِ رَٰجِعُونَ",
+  "fullTranslation": "Who, when disaster strikes them, say, \"Indeed we belong to Allah, and indeed to Him we will return.\"",
+  "fullTransliteration": "alladhina idha asabathum musibatun qalu inna lillahi wa-inna ilayhi raji'una"
+}

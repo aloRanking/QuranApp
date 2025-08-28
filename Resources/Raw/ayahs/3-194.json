@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "ayah": 194,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 487,
+    "juz": 4,
+    "manzil": 1,
+    "page": 75,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رَبَّنَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9495,
+      "word_number_in_surah": 3350,
+      "word_surah": 3,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "وَءَاتِنَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9496,
+      "word_number_in_surah": 3351,
+      "word_surah": 3,
+      "word_translation": "grant us",
+      "word_transliteration": "waatina"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9497,
+      "word_number_in_surah": 3352,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "وَعَدتَّنَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9498,
+      "word_number_in_surah": 3353,
+      "word_surah": 3,
+      "word_translation": "You promised us",
+      "word_transliteration": "wa'adttana"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9499,
+      "word_number_in_surah": 3354,
+      "word_surah": 3,
+      "word_translation": "through",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "رُسُلِكَ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9500,
+      "word_number_in_surah": 3355,
+      "word_surah": 3,
+      "word_translation": "Your Messengers",
+      "word_transliteration": "rusulika"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9501,
+      "word_number_in_surah": 3356,
+      "word_surah": 3,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُخۡزِنَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9502,
+      "word_number_in_surah": 3357,
+      "word_surah": 3,
+      "word_translation": "disgrace us",
+      "word_transliteration": "tukh'zina"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9503,
+      "word_number_in_surah": 3358,
+      "word_surah": 3,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۖ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9504,
+      "word_number_in_surah": 3359,
+      "word_surah": 3,
+      "word_translation": "(of) [the] Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9505,
+      "word_number_in_surah": 3360,
+      "word_surah": 3,
+      "word_translation": "Indeed You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9506,
+      "word_number_in_surah": 3361,
+      "word_surah": 3,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُخۡلِفُ",
+      "word_ayah": 194,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9507,
+      "word_number_in_surah": 3362,
+      "word_surah": 3,
+      "word_translation": "break",
+      "word_transliteration": "tukh'lifu"
+    },
+    {
+      "word_arabic": "ٱلۡمِيعَادَ",
+      "word_ayah": 194,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9508,
+      "word_number_in_surah": 3363,
+      "word_surah": 3,
+      "word_translation": "the promise",
+      "word_transliteration": "al-mi'ada"
+    }
+  ],
+  "fullArabic": "رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخۡزِنَا يَوۡمَ ٱلۡقِيَٰمَةِۖ إِنَّكَ لَا تُخۡلِفُ ٱلۡمِيعَادَ",
+  "fullTranslation": "Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\"",
+  "fullTransliteration": "rabbana waatina ma wa'adttana ala rusulika wala tukh'zina yawma al-qiyamati innaka la tukh'lifu al-mi'ada"
+}

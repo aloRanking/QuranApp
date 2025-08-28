@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "ayah": 191,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 484,
+    "juz": 4,
+    "manzil": 1,
+    "page": 75,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9443,
+      "word_number_in_surah": 3298,
+      "word_surah": 3,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَذۡكُرُونَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9444,
+      "word_number_in_surah": 3299,
+      "word_surah": 3,
+      "word_translation": "remember",
+      "word_transliteration": "yadhkuruna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9445,
+      "word_number_in_surah": 3300,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "قِيَٰمٗا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9446,
+      "word_number_in_surah": 3301,
+      "word_surah": 3,
+      "word_translation": "standing",
+      "word_transliteration": "qiyaman"
+    },
+    {
+      "word_arabic": "وَقُعُودٗا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9447,
+      "word_number_in_surah": 3302,
+      "word_surah": 3,
+      "word_translation": "and sitting",
+      "word_transliteration": "waqu'udan"
+    },
+    {
+      "word_arabic": "وَعَلَىٰ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9448,
+      "word_number_in_surah": 3303,
+      "word_surah": 3,
+      "word_translation": "and on",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "جُنُوبِهِمۡ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9449,
+      "word_number_in_surah": 3304,
+      "word_surah": 3,
+      "word_translation": "their sides",
+      "word_transliteration": "junubihim"
+    },
+    {
+      "word_arabic": "وَيَتَفَكَّرُونَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9450,
+      "word_number_in_surah": 3305,
+      "word_surah": 3,
+      "word_translation": "and they reflect",
+      "word_transliteration": "wayatafakkaruna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9451,
+      "word_number_in_surah": 3306,
+      "word_surah": 3,
+      "word_translation": "on",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "خَلۡقِ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9452,
+      "word_number_in_surah": 3307,
+      "word_surah": 3,
+      "word_translation": "(the) creation",
+      "word_transliteration": "khalqi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9453,
+      "word_number_in_surah": 3308,
+      "word_surah": 3,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9454,
+      "word_number_in_surah": 3309,
+      "word_surah": 3,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "رَبَّنَا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9455,
+      "word_number_in_surah": 3310,
+      "word_surah": 3,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9456,
+      "word_number_in_surah": 3311,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "خَلَقۡتَ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9457,
+      "word_number_in_surah": 3312,
+      "word_surah": 3,
+      "word_translation": "You have created",
+      "word_transliteration": "khalaqta"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9458,
+      "word_number_in_surah": 3313,
+      "word_surah": 3,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "بَٰطِلٗا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9459,
+      "word_number_in_surah": 3314,
+      "word_surah": 3,
+      "word_translation": "(in) vain",
+      "word_transliteration": "batilan"
+    },
+    {
+      "word_arabic": "سُبۡحَٰنَكَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9460,
+      "word_number_in_surah": 3315,
+      "word_surah": 3,
+      "word_translation": "Glory be to You",
+      "word_transliteration": "sub'hanaka"
+    },
+    {
+      "word_arabic": "فَقِنَا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9461,
+      "word_number_in_surah": 3316,
+      "word_surah": 3,
+      "word_translation": "so save us",
+      "word_transliteration": "faqina"
+    },
+    {
+      "word_arabic": "عَذَابَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9462,
+      "word_number_in_surah": 3317,
+      "word_surah": 3,
+      "word_translation": "(from the) punishment",
+      "word_transliteration": "adhaba"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9463,
+      "word_number_in_surah": 3318,
+      "word_surah": 3,
+      "word_translation": "(of) the Fire",
+      "word_transliteration": "al-nari"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يَذۡكُرُونَ ٱللَّهَ قِيَٰمٗا وَقُعُودٗا وَعَلَىٰ جُنُوبِهِمۡ وَيَتَفَكَّرُونَ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبَّنَا مَا خَلَقۡتَ هَٰذَا بَٰطِلٗا سُبۡحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+  "fullTranslation": "Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], \"Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.",
+  "fullTransliteration": "alladhina yadhkuruna al-laha qiyaman waqu'udan wa'ala junubihim wayatafakkaruna fi khalqi al-samawati wal-ardi rabbana ma khalaqta hadha batilan sub'hanaka faqina adhaba al-nari"
+}

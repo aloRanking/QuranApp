@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "ayah": 189,
+    "surah": 3,
+    "words": 9,
+    "numberInQuran": 482,
+    "juz": 4,
+    "manzil": 1,
+    "page": 75,
+    "ruku": 60,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9423,
+      "word_number_in_surah": 3278,
+      "word_surah": 3,
+      "word_translation": "And for Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "مُلۡكُ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9424,
+      "word_number_in_surah": 3279,
+      "word_surah": 3,
+      "word_translation": "(is the) dominion",
+      "word_transliteration": "mul'ku"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9425,
+      "word_number_in_surah": 3280,
+      "word_surah": 3,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِۗ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9426,
+      "word_number_in_surah": 3281,
+      "word_surah": 3,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9427,
+      "word_number_in_surah": 3282,
+      "word_surah": 3,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9428,
+      "word_number_in_surah": 3283,
+      "word_surah": 3,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9429,
+      "word_number_in_surah": 3284,
+      "word_surah": 3,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9430,
+      "word_number_in_surah": 3285,
+      "word_surah": 3,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٌ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9431,
+      "word_number_in_surah": 3286,
+      "word_surah": 3,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "fullTranslation": "And to Allah belongs the dominion of the heavens and the earth, and Allah is over all things competent.",
+  "fullTransliteration": "walillahi mul'ku al-samawati wal-ardi wal-lahu ala kulli shayin qadirun"
+}

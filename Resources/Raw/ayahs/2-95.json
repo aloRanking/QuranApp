@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "ayah": 95,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 102,
+    "juz": 1,
+    "manzil": 1,
+    "page": 15,
+    "ruku": 12,
+    "hizbQuarter": 6,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَن",
+      "word_ayah": 95,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1611,
+      "word_number_in_surah": 1582,
+      "word_surah": 2,
+      "word_translation": "And never (will)",
+      "word_transliteration": "walan"
+    },
+    {
+      "word_arabic": "يَتَمَنَّوۡهُ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1612,
+      "word_number_in_surah": 1583,
+      "word_surah": 2,
+      "word_translation": "they wish for it",
+      "word_transliteration": "yatamannawhu"
+    },
+    {
+      "word_arabic": "أَبَدَۢا",
+      "word_ayah": 95,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1613,
+      "word_number_in_surah": 1584,
+      "word_surah": 2,
+      "word_translation": "ever",
+      "word_transliteration": "abadan"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1614,
+      "word_number_in_surah": 1585,
+      "word_surah": 2,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "قَدَّمَتۡ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1615,
+      "word_number_in_surah": 1586,
+      "word_surah": 2,
+      "word_translation": "(of what) sent ahead",
+      "word_transliteration": "qaddamat"
+    },
+    {
+      "word_arabic": "أَيۡدِيهِمۡۚ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1616,
+      "word_number_in_surah": 1587,
+      "word_surah": 2,
+      "word_translation": "their hands",
+      "word_transliteration": "aydihim"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1617,
+      "word_number_in_surah": 1588,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1618,
+      "word_number_in_surah": 1589,
+      "word_surah": 2,
+      "word_translation": "(is) All-Knower",
+      "word_transliteration": "alimun"
+    },
+    {
+      "word_arabic": "بِٱلظَّٰلِمِينَ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1619,
+      "word_number_in_surah": 1590,
+      "word_surah": 2,
+      "word_translation": "of the wrongdoers",
+      "word_transliteration": "bil-zalimina"
+    }
+  ],
+  "fullArabic": "وَلَن يَتَمَنَّوۡهُ أَبَدَۢا بِمَا قَدَّمَتۡ أَيۡدِيهِمۡۚ وَٱللَّهُ عَلِيمُۢ بِٱلظَّٰلِمِينَ",
+  "fullTranslation": "But they will never wish for it, ever, because of what their hands have put forth. And Allah is Knowing of the wrongdoers.",
+  "fullTransliteration": "walan yatamannawhu abadan bima qaddamat aydihim wal-lahu alimun bil-zalimina"
+}

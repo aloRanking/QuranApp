@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 54,
+    "surah": 8,
+    "words": 17,
+    "numberInQuran": 1214,
+    "juz": 10,
+    "manzil": 2,
+    "page": 184,
+    "ruku": 152,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كَدَأۡبِ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23398,
+      "word_number_in_surah": 851,
+      "word_surah": 8,
+      "word_translation": "Like (the) way",
+      "word_transliteration": "kadabi"
+    },
+    {
+      "word_arabic": "ءَالِ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23399,
+      "word_number_in_surah": 852,
+      "word_surah": 8,
+      "word_translation": "(of) people",
+      "word_transliteration": "ali"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23400,
+      "word_number_in_surah": 853,
+      "word_surah": 8,
+      "word_translation": "(of) Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23401,
+      "word_number_in_surah": 854,
+      "word_surah": 8,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 54,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23402,
+      "word_number_in_surah": 855,
+      "word_surah": 8,
+      "word_translation": "(were) from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِهِمۡۚ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23403,
+      "word_number_in_surah": 856,
+      "word_surah": 8,
+      "word_translation": "before them",
+      "word_transliteration": "qablihim"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23404,
+      "word_number_in_surah": 857,
+      "word_surah": 8,
+      "word_translation": "They denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23405,
+      "word_number_in_surah": 858,
+      "word_surah": 8,
+      "word_translation": "(the) Signs",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23406,
+      "word_number_in_surah": 859,
+      "word_surah": 8,
+      "word_translation": "(of) their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "فَأَهۡلَكۡنَٰهُم",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23407,
+      "word_number_in_surah": 860,
+      "word_surah": 8,
+      "word_translation": "so We destroyed them",
+      "word_transliteration": "fa-ahlaknahum"
+    },
+    {
+      "word_arabic": "بِذُنُوبِهِمۡ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23408,
+      "word_number_in_surah": 861,
+      "word_surah": 8,
+      "word_translation": "for their sins",
+      "word_transliteration": "bidhunubihim"
+    },
+    {
+      "word_arabic": "وَأَغۡرَقۡنَآ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23409,
+      "word_number_in_surah": 862,
+      "word_surah": 8,
+      "word_translation": "and We drowned",
+      "word_transliteration": "wa-aghraqna"
+    },
+    {
+      "word_arabic": "ءَالَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23410,
+      "word_number_in_surah": 863,
+      "word_surah": 8,
+      "word_translation": "(the) people",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَۚ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23411,
+      "word_number_in_surah": 864,
+      "word_surah": 8,
+      "word_translation": "(of) Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "وَكُلّٞ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23412,
+      "word_number_in_surah": 865,
+      "word_surah": 8,
+      "word_translation": "and (they) all",
+      "word_transliteration": "wakullun"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23413,
+      "word_number_in_surah": 866,
+      "word_surah": 8,
+      "word_translation": "were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "ظَٰلِمِينَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23414,
+      "word_number_in_surah": 867,
+      "word_surah": 8,
+      "word_translation": "wrongdoers",
+      "word_transliteration": "zalimina"
+    }
+  ],
+  "fullArabic": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَّبُواْ بِ‍َٔايَٰتِ رَبِّهِمۡ فَأَهۡلَكۡنَٰهُم بِذُنُوبِهِمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَۚ وَكُلّٞ كَانُواْ ظَٰلِمِينَ",
+  "fullTranslation": "[Theirs is] like the custom of the people of Pharaoh and of those before them. They denied the signs of their Lord, so We destroyed them for their sins, and We drowned the people of Pharaoh. And all [of them] were wrongdoers.",
+  "fullTransliteration": "kadabi ali fir'awna wa-alladhina min qablihim kadhabu biayati rabbihim fa-ahlaknahum bidhunubihim wa-aghraqna ala fir'awna wakullun kanu zalimina"
+}

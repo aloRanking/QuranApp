@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 39,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 532,
+    "juz": 5,
+    "manzil": 1,
+    "page": 85,
+    "ruku": 67,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَاذَا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10585,
+      "word_number_in_surah": 959,
+      "word_surah": 4,
+      "word_translation": "And what",
+      "word_transliteration": "wamadha"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10586,
+      "word_number_in_surah": 960,
+      "word_surah": 4,
+      "word_translation": "(is) against them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10587,
+      "word_number_in_surah": 961,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10588,
+      "word_number_in_surah": 962,
+      "word_surah": 4,
+      "word_translation": "they believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10589,
+      "word_number_in_surah": 963,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡيَوۡمِ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10590,
+      "word_number_in_surah": 964,
+      "word_surah": 4,
+      "word_translation": "and the Day",
+      "word_transliteration": "wal-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10591,
+      "word_number_in_surah": 965,
+      "word_surah": 4,
+      "word_translation": "the Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "وَأَنفَقُواْ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10592,
+      "word_number_in_surah": 966,
+      "word_surah": 4,
+      "word_translation": "and spent",
+      "word_transliteration": "wa-anfaqu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10593,
+      "word_number_in_surah": 967,
+      "word_surah": 4,
+      "word_translation": "from what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "رَزَقَهُمُ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10594,
+      "word_number_in_surah": 968,
+      "word_surah": 4,
+      "word_translation": "(has) provided them",
+      "word_transliteration": "razaqahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُۚ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10595,
+      "word_number_in_surah": 969,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10596,
+      "word_number_in_surah": 970,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10597,
+      "word_number_in_surah": 971,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِهِمۡ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10598,
+      "word_number_in_surah": 972,
+      "word_surah": 4,
+      "word_translation": "about them",
+      "word_transliteration": "bihim"
+    },
+    {
+      "word_arabic": "عَلِيمًا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10599,
+      "word_number_in_surah": 973,
+      "word_surah": 4,
+      "word_translation": "All-Knower",
+      "word_transliteration": "aliman"
+    }
+  ],
+  "fullArabic": "وَمَاذَا عَلَيۡهِمۡ لَوۡ ءَامَنُواْ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَأَنفَقُواْ مِمَّا رَزَقَهُمُ ٱللَّهُۚ وَكَانَ ٱللَّهُ بِهِمۡ عَلِيمًا",
+  "fullTranslation": "And what [harm would come] upon them if they believed in Allah and the Last Day and spent out of what Allah provided for them? And Allah is ever, about them, Knowing.",
+  "fullTransliteration": "wamadha alayhim law amanu bil-lahi wal-yawmi al-akhiri wa-anfaqu mimma razaqahumu al-lahu wakana al-lahu bihim aliman"
+}

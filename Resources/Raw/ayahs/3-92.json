@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 92,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 385,
+    "juz": 3,
+    "manzil": 1,
+    "page": 62,
+    "ruku": 51,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7708,
+      "word_number_in_surah": 1563,
+      "word_surah": 3,
+      "word_translation": "Never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "تَنَالُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7709,
+      "word_number_in_surah": 1564,
+      "word_surah": 3,
+      "word_translation": "will you attain",
+      "word_transliteration": "tanalu"
+    },
+    {
+      "word_arabic": "ٱلۡبِرَّ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7710,
+      "word_number_in_surah": 1565,
+      "word_surah": 3,
+      "word_translation": "[the] righteousness",
+      "word_transliteration": "al-bira"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7711,
+      "word_number_in_surah": 1566,
+      "word_surah": 3,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "تُنفِقُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7712,
+      "word_number_in_surah": 1567,
+      "word_surah": 3,
+      "word_translation": "you spend",
+      "word_transliteration": "tunfiqu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7713,
+      "word_number_in_surah": 1568,
+      "word_surah": 3,
+      "word_translation": "from what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "تُحِبُّونَۚ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7714,
+      "word_number_in_surah": 1569,
+      "word_surah": 3,
+      "word_translation": "you love",
+      "word_transliteration": "tuhibbuna"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7715,
+      "word_number_in_surah": 1570,
+      "word_surah": 3,
+      "word_translation": "And whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تُنفِقُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7716,
+      "word_number_in_surah": 1571,
+      "word_surah": 3,
+      "word_translation": "you spend",
+      "word_transliteration": "tunfiqu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7717,
+      "word_number_in_surah": 1572,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7718,
+      "word_number_in_surah": 1573,
+      "word_surah": 3,
+      "word_translation": "a thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7719,
+      "word_number_in_surah": 1574,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7720,
+      "word_number_in_surah": 1575,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7721,
+      "word_number_in_surah": 1576,
+      "word_surah": 3,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7722,
+      "word_number_in_surah": 1577,
+      "word_surah": 3,
+      "word_translation": "(is) All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "لَن تَنَالُواْ ٱلۡبِرَّ حَتَّىٰ تُنفِقُواْ مِمَّا تُحِبُّونَۚ وَمَا تُنفِقُواْ مِن شَيۡءٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ",
+  "fullTranslation": "Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love. And whatever you spend - indeed, Allah is Knowing of it.",
+  "fullTransliteration": "lan tanalu al-bira hatta tunfiqu mimma tuhibbuna wama tunfiqu min shayin fa-inna al-laha bihi alimun"
+}

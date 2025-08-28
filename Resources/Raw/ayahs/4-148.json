@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 148,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 641,
+    "juz": 6,
+    "manzil": 1,
+    "page": 102,
+    "ruku": 82,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞لَّا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12808,
+      "word_number_in_surah": 3182,
+      "word_surah": 4,
+      "word_translation": "(Does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12809,
+      "word_number_in_surah": 3183,
+      "word_surah": 4,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12810,
+      "word_number_in_surah": 3184,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلۡجَهۡرَ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12811,
+      "word_number_in_surah": 3185,
+      "word_surah": 4,
+      "word_translation": "the public mention",
+      "word_transliteration": "al-jahra"
+    },
+    {
+      "word_arabic": "بِٱلسُّوٓءِ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12812,
+      "word_number_in_surah": 3186,
+      "word_surah": 4,
+      "word_translation": "of [the] evil",
+      "word_transliteration": "bil-sui"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12813,
+      "word_number_in_surah": 3187,
+      "word_surah": 4,
+      "word_translation": "[of]",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡلِ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12814,
+      "word_number_in_surah": 3188,
+      "word_surah": 4,
+      "word_translation": "[the] words",
+      "word_transliteration": "al-qawli"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12815,
+      "word_number_in_surah": 3189,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 148,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12816,
+      "word_number_in_surah": 3190,
+      "word_surah": 4,
+      "word_translation": "(by the one) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "ظُلِمَۚ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12817,
+      "word_number_in_surah": 3191,
+      "word_surah": 4,
+      "word_translation": "has been wronged",
+      "word_transliteration": "zulima"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12818,
+      "word_number_in_surah": 3192,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12819,
+      "word_number_in_surah": 3193,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "سَمِيعًا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12820,
+      "word_number_in_surah": 3194,
+      "word_surah": 4,
+      "word_translation": "All-Hearing",
+      "word_transliteration": "sami'an"
+    },
+    {
+      "word_arabic": "عَلِيمًا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12821,
+      "word_number_in_surah": 3195,
+      "word_surah": 4,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "aliman"
+    }
+  ],
+  "fullArabic": "۞لَّا يُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوٓءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن ظُلِمَۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+  "fullTranslation": "Allah does not like the public mention of evil except by one who has been wronged. And ever is Allah Hearing and Knowing.",
+  "fullTransliteration": "la yuhibbu al-lahu al-jahra bil-sui mina al-qawli illa man zulima wakana al-lahu sami'an aliman"
+}

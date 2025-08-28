@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "ayah": 200,
+    "surah": 3,
+    "words": 10,
+    "numberInQuran": 493,
+    "juz": 4,
+    "manzil": 1,
+    "page": 76,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9617,
+      "word_number_in_surah": 3472,
+      "word_surah": 3,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9618,
+      "word_number_in_surah": 3473,
+      "word_surah": 3,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9619,
+      "word_number_in_surah": 3474,
+      "word_surah": 3,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ٱصۡبِرُواْ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9620,
+      "word_number_in_surah": 3475,
+      "word_surah": 3,
+      "word_translation": "Be steadfast",
+      "word_transliteration": "is'biru"
+    },
+    {
+      "word_arabic": "وَصَابِرُواْ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9621,
+      "word_number_in_surah": 3476,
+      "word_surah": 3,
+      "word_translation": "and [be] patient",
+      "word_transliteration": "wasabiru"
+    },
+    {
+      "word_arabic": "وَرَابِطُواْ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9622,
+      "word_number_in_surah": 3477,
+      "word_surah": 3,
+      "word_translation": "and [be] constant",
+      "word_transliteration": "warabitu"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9623,
+      "word_number_in_surah": 3478,
+      "word_surah": 3,
+      "word_translation": "and fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9624,
+      "word_number_in_surah": 3479,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9625,
+      "word_number_in_surah": 3480,
+      "word_surah": 3,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تُفۡلِحُونَ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9626,
+      "word_number_in_surah": 3481,
+      "word_surah": 3,
+      "word_translation": "(be) successful",
+      "word_transliteration": "tuf'lihuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱصۡبِرُواْ وَصَابِرُواْ وَرَابِطُواْ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "fullTranslation": "O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.",
+  "fullTransliteration": "yaayyuha alladhina amanu is'biru wasabiru warabitu wa-ittaqu al-laha la'allakum tuf'lihuna"
+}

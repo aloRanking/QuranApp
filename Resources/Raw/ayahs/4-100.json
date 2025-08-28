@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "ayah": 100,
+    "surah": 4,
+    "words": 31,
+    "numberInQuran": 593,
+    "juz": 5,
+    "manzil": 1,
+    "page": 94,
+    "ruku": 75,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَمَن",
+      "word_ayah": 100,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11862,
+      "word_number_in_surah": 2236,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُهَاجِرۡ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11863,
+      "word_number_in_surah": 2237,
+      "word_surah": 4,
+      "word_translation": "emigrates",
+      "word_transliteration": "yuhajir"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11864,
+      "word_number_in_surah": 2238,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11865,
+      "word_number_in_surah": 2239,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11866,
+      "word_number_in_surah": 2240,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يَجِدۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11867,
+      "word_number_in_surah": 2241,
+      "word_surah": 4,
+      "word_translation": "will find",
+      "word_transliteration": "yajid"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11868,
+      "word_number_in_surah": 2242,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11869,
+      "word_number_in_surah": 2243,
+      "word_surah": 4,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "مُرَٰغَمٗا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11870,
+      "word_number_in_surah": 2244,
+      "word_surah": 4,
+      "word_translation": "place(s) of refuge",
+      "word_transliteration": "muraghaman"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11871,
+      "word_number_in_surah": 2245,
+      "word_surah": 4,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "وَسَعَةٗۚ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11872,
+      "word_number_in_surah": 2246,
+      "word_surah": 4,
+      "word_translation": "and abundance",
+      "word_transliteration": "wasa'atan"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 100,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11873,
+      "word_number_in_surah": 2247,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَخۡرُجۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11874,
+      "word_number_in_surah": 2248,
+      "word_surah": 4,
+      "word_translation": "leaves",
+      "word_transliteration": "yakhruj"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11875,
+      "word_number_in_surah": 2249,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَيۡتِهِۦ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11876,
+      "word_number_in_surah": 2250,
+      "word_surah": 4,
+      "word_translation": "his home",
+      "word_transliteration": "baytihi"
+    },
+    {
+      "word_arabic": "مُهَاجِرًا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11877,
+      "word_number_in_surah": 2251,
+      "word_surah": 4,
+      "word_translation": "(as) an emigrant",
+      "word_transliteration": "muhajiran"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11878,
+      "word_number_in_surah": 2252,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11879,
+      "word_number_in_surah": 2253,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَرَسُولِهِۦ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11880,
+      "word_number_in_surah": 2254,
+      "word_surah": 4,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulihi"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11881,
+      "word_number_in_surah": 2255,
+      "word_surah": 4,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "يُدۡرِكۡهُ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11882,
+      "word_number_in_surah": 2256,
+      "word_surah": 4,
+      "word_translation": "overtakes him",
+      "word_transliteration": "yud'rik'hu"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتُ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11883,
+      "word_number_in_surah": 2257,
+      "word_surah": 4,
+      "word_translation": "[the] death",
+      "word_transliteration": "al-mawtu"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11884,
+      "word_number_in_surah": 2258,
+      "word_surah": 4,
+      "word_translation": "then certainly",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "وَقَعَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11885,
+      "word_number_in_surah": 2259,
+      "word_surah": 4,
+      "word_translation": "(became) incumbent",
+      "word_transliteration": "waqa'a"
+    },
+    {
+      "word_arabic": "أَجۡرُهُۥ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11886,
+      "word_number_in_surah": 2260,
+      "word_surah": 4,
+      "word_translation": "his reward",
+      "word_transliteration": "ajruhu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11887,
+      "word_number_in_surah": 2261,
+      "word_surah": 4,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11888,
+      "word_number_in_surah": 2262,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 11889,
+      "word_number_in_surah": 2263,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 11890,
+      "word_number_in_surah": 2264,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "غَفُورٗا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 11891,
+      "word_number_in_surah": 2265,
+      "word_surah": 4,
+      "word_translation": "Oft-Forgiving",
+      "word_transliteration": "ghafuran"
+    },
+    {
+      "word_arabic": "رَّحِيمٗا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 11892,
+      "word_number_in_surah": 2266,
+      "word_surah": 4,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahiman"
+    }
+  ],
+  "fullArabic": "۞وَمَن يُهَاجِرۡ فِي سَبِيلِ ٱللَّهِ يَجِدۡ فِي ٱلۡأَرۡضِ مُرَٰغَمٗا كَثِيرٗا وَسَعَةٗۚ وَمَن يَخۡرُجۡ مِنۢ بَيۡتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدۡرِكۡهُ ٱلۡمَوۡتُ فَقَدۡ وَقَعَ أَجۡرُهُۥ عَلَى ٱللَّهِۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+  "fullTranslation": "And whoever emigrates for the cause of Allah will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allah and His Messenger and then death overtakes him - his reward has already become incumbent upon Allah. And Allah is ever Forgiving and Merciful.",
+  "fullTransliteration": "waman yuhajir fi sabili al-lahi yajid fi al-ardi muraghaman kathiran wasa'atan waman yakhruj min baytihi muhajiran ila al-lahi warasulihi thumma yud'rik'hu al-mawtu faqad waqa'a ajruhu ala al-lahi wakana al-lahu ghafuran rahiman"
+}

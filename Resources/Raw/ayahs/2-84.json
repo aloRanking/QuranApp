@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "ayah": 84,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 91,
+    "juz": 1,
+    "manzil": 1,
+    "page": 13,
+    "ruku": 11,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1358,
+      "word_number_in_surah": 1329,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "أَخَذۡنَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1359,
+      "word_number_in_surah": 1330,
+      "word_surah": 2,
+      "word_translation": "We took",
+      "word_transliteration": "akhadhna"
+    },
+    {
+      "word_arabic": "مِيثَٰقَكُمۡ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1360,
+      "word_number_in_surah": 1331,
+      "word_surah": 2,
+      "word_translation": "your covenant",
+      "word_transliteration": "mithaqakum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1361,
+      "word_number_in_surah": 1332,
+      "word_surah": 2,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَسۡفِكُونَ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1362,
+      "word_number_in_surah": 1333,
+      "word_surah": 2,
+      "word_translation": "will you shed",
+      "word_transliteration": "tasfikuna"
+    },
+    {
+      "word_arabic": "دِمَآءَكُمۡ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1363,
+      "word_number_in_surah": 1334,
+      "word_surah": 2,
+      "word_translation": "your blood",
+      "word_transliteration": "dimaakum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1364,
+      "word_number_in_surah": 1335,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُخۡرِجُونَ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1365,
+      "word_number_in_surah": 1336,
+      "word_surah": 2,
+      "word_translation": "(will) evict",
+      "word_transliteration": "tukh'rijuna"
+    },
+    {
+      "word_arabic": "أَنفُسَكُم",
+      "word_ayah": 84,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1366,
+      "word_number_in_surah": 1337,
+      "word_surah": 2,
+      "word_translation": "yourselves",
+      "word_transliteration": "anfusakum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 84,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1367,
+      "word_number_in_surah": 1338,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دِيَٰرِكُمۡ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1368,
+      "word_number_in_surah": 1339,
+      "word_surah": 2,
+      "word_translation": "your homes",
+      "word_transliteration": "diyarikum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1369,
+      "word_number_in_surah": 1340,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "أَقۡرَرۡتُمۡ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1370,
+      "word_number_in_surah": 1341,
+      "word_surah": 2,
+      "word_translation": "you ratified",
+      "word_transliteration": "aqrartum"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1371,
+      "word_number_in_surah": 1342,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَشۡهَدُونَ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1372,
+      "word_number_in_surah": 1343,
+      "word_surah": 2,
+      "word_translation": "(were) witnessing",
+      "word_transliteration": "tashhaduna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ لَا تَسۡفِكُونَ دِمَآءَكُمۡ وَلَا تُخۡرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ",
+  "fullTranslation": "And [recall] when We took your covenant, [saying], \"Do not shed each other's blood or evict one another from your homes.\" Then you acknowledged [this] while you were witnessing.",
+  "fullTransliteration": "wa-idh akhadhna mithaqakum la tasfikuna dimaakum wala tukh'rijuna anfusakum min diyarikum thumma aqrartum wa-antum tashhaduna"
+}

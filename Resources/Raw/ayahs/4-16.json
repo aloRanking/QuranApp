@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 16,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 509,
+    "juz": 4,
+    "manzil": 1,
+    "page": 80,
+    "ruku": 64,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذَانِ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10038,
+      "word_number_in_surah": 412,
+      "word_surah": 4,
+      "word_translation": "And the two who",
+      "word_transliteration": "wa-alladhani"
+    },
+    {
+      "word_arabic": "يَأۡتِيَٰنِهَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10039,
+      "word_number_in_surah": 413,
+      "word_surah": 4,
+      "word_translation": "commit it",
+      "word_transliteration": "yatiyaniha"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10040,
+      "word_number_in_surah": 414,
+      "word_surah": 4,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "فَ‍َٔاذُوهُمَاۖ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10041,
+      "word_number_in_surah": 415,
+      "word_surah": 4,
+      "word_translation": "then punish both of them",
+      "word_transliteration": "faadhuhuma"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 16,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10042,
+      "word_number_in_surah": 416,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَابَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10043,
+      "word_number_in_surah": 417,
+      "word_surah": 4,
+      "word_translation": "they repent",
+      "word_transliteration": "taba"
+    },
+    {
+      "word_arabic": "وَأَصۡلَحَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10044,
+      "word_number_in_surah": 418,
+      "word_surah": 4,
+      "word_translation": "and correct themselves",
+      "word_transliteration": "wa-aslaha"
+    },
+    {
+      "word_arabic": "فَأَعۡرِضُواْ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10045,
+      "word_number_in_surah": 419,
+      "word_surah": 4,
+      "word_translation": "then turn away",
+      "word_transliteration": "fa-a'ridu"
+    },
+    {
+      "word_arabic": "عَنۡهُمَآۗ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10046,
+      "word_number_in_surah": 420,
+      "word_surah": 4,
+      "word_translation": "from both of them",
+      "word_transliteration": "anhuma"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10047,
+      "word_number_in_surah": 421,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10048,
+      "word_number_in_surah": 422,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10049,
+      "word_number_in_surah": 423,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "تَوَّابٗا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10050,
+      "word_number_in_surah": 424,
+      "word_surah": 4,
+      "word_translation": "Oft-forgiving",
+      "word_transliteration": "tawwaban"
+    },
+    {
+      "word_arabic": "رَّحِيمًا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10051,
+      "word_number_in_surah": 425,
+      "word_surah": 4,
+      "word_translation": "Most-Merciful",
+      "word_transliteration": "rahiman"
+    }
+  ],
+  "fullArabic": "وَٱلَّذَانِ يَأۡتِيَٰنِهَا مِنكُمۡ فَ‍َٔاذُوهُمَاۖ فَإِن تَابَا وَأَصۡلَحَا فَأَعۡرِضُواْ عَنۡهُمَآۗ إِنَّ ٱللَّهَ كَانَ تَوَّابٗا رَّحِيمًا",
+  "fullTranslation": "And the two who commit it among you, dishonor them both. But if they repent and correct themselves, leave them alone. Indeed, Allah is ever Accepting of repentance and Merciful.",
+  "fullTransliteration": "wa-alladhani yatiyaniha minkum faadhuhuma fa-in taba wa-aslaha fa-a'ridu anhuma inna al-laha kana tawwaban rahiman"
+}

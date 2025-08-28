@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "ayah": 134,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 427,
+    "juz": 4,
+    "manzil": 1,
+    "page": 67,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8363,
+      "word_number_in_surah": 2218,
+      "word_surah": 3,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8364,
+      "word_number_in_surah": 2219,
+      "word_surah": 3,
+      "word_translation": "spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8365,
+      "word_number_in_surah": 2220,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّرَّآءِ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8366,
+      "word_number_in_surah": 2221,
+      "word_surah": 3,
+      "word_translation": "[the] ease",
+      "word_transliteration": "al-sarai"
+    },
+    {
+      "word_arabic": "وَٱلضَّرَّآءِ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8367,
+      "word_number_in_surah": 2222,
+      "word_surah": 3,
+      "word_translation": "and (in) the hardship",
+      "word_transliteration": "wal-darai"
+    },
+    {
+      "word_arabic": "وَٱلۡكَٰظِمِينَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8368,
+      "word_number_in_surah": 2223,
+      "word_surah": 3,
+      "word_translation": "and those who restrain",
+      "word_transliteration": "wal-kazimina"
+    },
+    {
+      "word_arabic": "ٱلۡغَيۡظَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8369,
+      "word_number_in_surah": 2224,
+      "word_surah": 3,
+      "word_translation": "the anger",
+      "word_transliteration": "al-ghayza"
+    },
+    {
+      "word_arabic": "وَٱلۡعَافِينَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8370,
+      "word_number_in_surah": 2225,
+      "word_surah": 3,
+      "word_translation": "and those who pardon",
+      "word_transliteration": "wal-'afina"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8371,
+      "word_number_in_surah": 2226,
+      "word_surah": 3,
+      "word_translation": "[from]",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِۗ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8372,
+      "word_number_in_surah": 2227,
+      "word_surah": 3,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 134,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8373,
+      "word_number_in_surah": 2228,
+      "word_surah": 3,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8374,
+      "word_number_in_surah": 2229,
+      "word_surah": 3,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُحۡسِنِينَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8375,
+      "word_number_in_surah": 2230,
+      "word_surah": 3,
+      "word_translation": "the good-doers",
+      "word_transliteration": "al-muh'sinina"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يُنفِقُونَ فِي ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلۡكَٰظِمِينَ ٱلۡغَيۡظَ وَٱلۡعَافِينَ عَنِ ٱلنَّاسِۗ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ",
+  "fullTranslation": "Who spend [in the cause of Allah] during ease and hardship and who restrain anger and who pardon the people - and Allah loves the doers of good;",
+  "fullTransliteration": "alladhina yunfiquna fi al-sarai wal-darai wal-kazimina al-ghayza wal-'afina ani al-nasi wal-lahu yuhibbu al-muh'sinina"
+}

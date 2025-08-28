@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "ayah": 204,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 211,
+    "juz": 2,
+    "manzil": 1,
+    "page": 32,
+    "ruku": 26,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3838,
+      "word_number_in_surah": 3809,
+      "word_surah": 2,
+      "word_translation": "And of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3839,
+      "word_number_in_surah": 3810,
+      "word_surah": 2,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 204,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3840,
+      "word_number_in_surah": 3811,
+      "word_surah": 2,
+      "word_translation": "(is the one) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يُعۡجِبُكَ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3841,
+      "word_number_in_surah": 3812,
+      "word_surah": 2,
+      "word_translation": "pleases you",
+      "word_transliteration": "yu'jibuka"
+    },
+    {
+      "word_arabic": "قَوۡلُهُۥ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3842,
+      "word_number_in_surah": 3813,
+      "word_surah": 2,
+      "word_translation": "(with) his speech",
+      "word_transliteration": "qawluhu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3843,
+      "word_number_in_surah": 3814,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةِ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3844,
+      "word_number_in_surah": 3815,
+      "word_surah": 2,
+      "word_translation": "the life",
+      "word_transliteration": "al-hayati"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3845,
+      "word_number_in_surah": 3816,
+      "word_surah": 2,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَيُشۡهِدُ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3846,
+      "word_number_in_surah": 3817,
+      "word_surah": 2,
+      "word_translation": "and he calls to witness",
+      "word_transliteration": "wayush'hidu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3847,
+      "word_number_in_surah": 3818,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3848,
+      "word_number_in_surah": 3819,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3849,
+      "word_number_in_surah": 3820,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3850,
+      "word_number_in_surah": 3821,
+      "word_surah": 2,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قَلۡبِهِۦ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3851,
+      "word_number_in_surah": 3822,
+      "word_surah": 2,
+      "word_translation": "his heart",
+      "word_transliteration": "qalbihi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3852,
+      "word_number_in_surah": 3823,
+      "word_surah": 2,
+      "word_translation": "and he",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "أَلَدُّ",
+      "word_ayah": 204,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3853,
+      "word_number_in_surah": 3824,
+      "word_surah": 2,
+      "word_translation": "(is) the most quarrelsome",
+      "word_transliteration": "aladdu"
+    },
+    {
+      "word_arabic": "ٱلۡخِصَامِ",
+      "word_ayah": 204,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3854,
+      "word_number_in_surah": 3825,
+      "word_surah": 2,
+      "word_translation": "(of) opponents",
+      "word_transliteration": "al-khisami"
+    }
+  ],
+  "fullArabic": "وَمِنَ ٱلنَّاسِ مَن يُعۡجِبُكَ قَوۡلُهُۥ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيُشۡهِدُ ٱللَّهَ عَلَىٰ مَا فِي قَلۡبِهِۦ وَهُوَ أَلَدُّ ٱلۡخِصَامِ",
+  "fullTranslation": "And of the people is he whose speech pleases you in worldly life, and he calls Allah to witness as to what is in his heart, yet he is the fiercest of opponents.",
+  "fullTransliteration": "wamina al-nasi man yu'jibuka qawluhu fi al-hayati al-dun'ya wayush'hidu al-laha ala ma fi qalbihi wahuwa aladdu al-khisami"
+}

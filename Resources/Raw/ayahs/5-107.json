@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "ayah": 107,
+    "surah": 5,
+    "words": 26,
+    "numberInQuran": 776,
+    "juz": 7,
+    "manzil": 2,
+    "page": 125,
+    "ruku": 99,
+    "hizbQuarter": 50,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِنۡ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15845,
+      "word_number_in_surah": 2472,
+      "word_surah": 5,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "عُثِرَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15846,
+      "word_number_in_surah": 2473,
+      "word_surah": 5,
+      "word_translation": "it is discovered",
+      "word_transliteration": "uthira"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15847,
+      "word_number_in_surah": 2474,
+      "word_surah": 5,
+      "word_translation": "(on)",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَنَّهُمَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15848,
+      "word_number_in_surah": 2475,
+      "word_surah": 5,
+      "word_translation": "that the two",
+      "word_transliteration": "annahuma"
+    },
+    {
+      "word_arabic": "ٱسۡتَحَقَّآ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15849,
+      "word_number_in_surah": 2476,
+      "word_surah": 5,
+      "word_translation": "(were) guilty",
+      "word_transliteration": "is'tahaqqa"
+    },
+    {
+      "word_arabic": "إِثۡمٗا",
+      "word_ayah": 107,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15850,
+      "word_number_in_surah": 2477,
+      "word_surah": 5,
+      "word_translation": "(of) sin",
+      "word_transliteration": "ith'man"
+    },
+    {
+      "word_arabic": "فَ‍َٔاخَرَانِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15851,
+      "word_number_in_surah": 2478,
+      "word_surah": 5,
+      "word_translation": "then (let) two others",
+      "word_transliteration": "faakharani"
+    },
+    {
+      "word_arabic": "يَقُومَانِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15852,
+      "word_number_in_surah": 2479,
+      "word_surah": 5,
+      "word_translation": "stand",
+      "word_transliteration": "yaqumani"
+    },
+    {
+      "word_arabic": "مَقَامَهُمَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15853,
+      "word_number_in_surah": 2480,
+      "word_surah": 5,
+      "word_translation": "(in) their place",
+      "word_transliteration": "maqamahuma"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15854,
+      "word_number_in_surah": 2481,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15855,
+      "word_number_in_surah": 2482,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱسۡتَحَقَّ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15856,
+      "word_number_in_surah": 2483,
+      "word_surah": 5,
+      "word_translation": "have a lawful right",
+      "word_transliteration": "is'tahaqqa"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمُ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15857,
+      "word_number_in_surah": 2484,
+      "word_surah": 5,
+      "word_translation": "over them",
+      "word_transliteration": "alayhimu"
+    },
+    {
+      "word_arabic": "ٱلۡأَوۡلَيَٰنِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15858,
+      "word_number_in_surah": 2485,
+      "word_surah": 5,
+      "word_translation": "the former two",
+      "word_transliteration": "al-awlayani"
+    },
+    {
+      "word_arabic": "فَيُقۡسِمَانِ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15859,
+      "word_number_in_surah": 2486,
+      "word_surah": 5,
+      "word_translation": "and let them both swear",
+      "word_transliteration": "fayuq'simani"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15860,
+      "word_number_in_surah": 2487,
+      "word_surah": 5,
+      "word_translation": "by Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "لَشَهَٰدَتُنَآ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15861,
+      "word_number_in_surah": 2488,
+      "word_surah": 5,
+      "word_translation": "Surely our testimony",
+      "word_transliteration": "lashahadatuna"
+    },
+    {
+      "word_arabic": "أَحَقُّ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15862,
+      "word_number_in_surah": 2489,
+      "word_surah": 5,
+      "word_translation": "(is) truer",
+      "word_transliteration": "ahaqqu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 107,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15863,
+      "word_number_in_surah": 2490,
+      "word_surah": 5,
+      "word_translation": "than",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "شَهَٰدَتِهِمَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15864,
+      "word_number_in_surah": 2491,
+      "word_surah": 5,
+      "word_translation": "testimony of the other two",
+      "word_transliteration": "shahadatihima"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15865,
+      "word_number_in_surah": 2492,
+      "word_surah": 5,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱعۡتَدَيۡنَآ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15866,
+      "word_number_in_surah": 2493,
+      "word_surah": 5,
+      "word_translation": "we have transgressed",
+      "word_transliteration": "i'tadayna"
+    },
+    {
+      "word_arabic": "إِنَّآ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15867,
+      "word_number_in_surah": 2494,
+      "word_surah": 5,
+      "word_translation": "Indeed, we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "إِذٗا",
+      "word_ayah": 107,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15868,
+      "word_number_in_surah": 2495,
+      "word_surah": 5,
+      "word_translation": "then",
+      "word_transliteration": "idhan"
+    },
+    {
+      "word_arabic": "لَّمِنَ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 15869,
+      "word_number_in_surah": 2496,
+      "word_surah": 5,
+      "word_translation": "(will be) of",
+      "word_transliteration": "lamina"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 15870,
+      "word_number_in_surah": 2497,
+      "word_surah": 5,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "فَإِنۡ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسۡتَحَقَّآ إِثۡمٗا فَ‍َٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسۡتَحَقَّ عَلَيۡهِمُ ٱلۡأَوۡلَيَٰنِ فَيُقۡسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعۡتَدَيۡنَآ إِنَّآ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
+  "fullTranslation": "But if it is found that those two were guilty of perjury, let two others stand in their place [who are] foremost [in claim] from those who have a lawful right. And let them swear by Allah, \"Our testimony is truer than their testimony, and we have not transgressed. Indeed, we would then be of the wrongdoers.\"",
+  "fullTransliteration": "fa-in uthira ala annahuma is'tahaqqa ith'man faakharani yaqumani maqamahuma mina alladhina is'tahaqqa alayhimu al-awlayani fayuq'simani bil-lahi lashahadatuna ahaqqu min shahadatihima wama i'tadayna inna idhan lamina al-zalimina"
+}

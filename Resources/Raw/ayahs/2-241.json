@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "ayah": 241,
+    "surah": 2,
+    "words": 6,
+    "numberInQuran": 248,
+    "juz": 2,
+    "manzil": 1,
+    "page": 39,
+    "ruku": 32,
+    "hizbQuarter": 15,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلۡمُطَلَّقَٰتِ",
+      "word_ayah": 241,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4797,
+      "word_number_in_surah": 4768,
+      "word_surah": 2,
+      "word_translation": "And for the divorced women",
+      "word_transliteration": "walil'mutallaqati"
+    },
+    {
+      "word_arabic": "مَتَٰعُۢ",
+      "word_ayah": 241,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4798,
+      "word_number_in_surah": 4769,
+      "word_surah": 2,
+      "word_translation": "(is) a provision",
+      "word_transliteration": "mata'un"
+    },
+    {
+      "word_arabic": "بِٱلۡمَعۡرُوفِۖ",
+      "word_ayah": 241,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4799,
+      "word_number_in_surah": 4770,
+      "word_surah": 2,
+      "word_translation": "in a fair manner",
+      "word_transliteration": "bil-ma'rufi"
+    },
+    {
+      "word_arabic": "حَقًّا",
+      "word_ayah": 241,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4800,
+      "word_number_in_surah": 4771,
+      "word_surah": 2,
+      "word_translation": "a duty",
+      "word_transliteration": "haqqan"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 241,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4801,
+      "word_number_in_surah": 4772,
+      "word_surah": 2,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡمُتَّقِينَ",
+      "word_ayah": 241,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4802,
+      "word_number_in_surah": 4773,
+      "word_surah": 2,
+      "word_translation": "the righteous",
+      "word_transliteration": "al-mutaqina"
+    }
+  ],
+  "fullArabic": "وَلِلۡمُطَلَّقَٰتِ مَتَٰعُۢ بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُتَّقِينَ",
+  "fullTranslation": "And for divorced women is a provision according to what is acceptable - a duty upon the righteous.",
+  "fullTransliteration": "walil'mutallaqati mata'un bil-ma'rufi haqqan ala al-mutaqina"
+}

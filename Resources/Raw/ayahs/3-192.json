@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "ayah": 192,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 485,
+    "juz": 4,
+    "manzil": 1,
+    "page": 75,
+    "ruku": 61,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 192,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9464,
+      "word_number_in_surah": 3319,
+      "word_surah": 3,
+      "word_translation": "Our Lord",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 192,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9465,
+      "word_number_in_surah": 3320,
+      "word_surah": 3,
+      "word_translation": "indeed [You]",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 192,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9466,
+      "word_number_in_surah": 3321,
+      "word_surah": 3,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "تُدۡخِلِ",
+      "word_ayah": 192,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9467,
+      "word_number_in_surah": 3322,
+      "word_surah": 3,
+      "word_translation": "You admit",
+      "word_transliteration": "tud'khili"
+    },
+    {
+      "word_arabic": "ٱلنَّارَ",
+      "word_ayah": 192,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9468,
+      "word_number_in_surah": 3323,
+      "word_surah": 3,
+      "word_translation": "(to) the Fire",
+      "word_transliteration": "al-nara"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 192,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9469,
+      "word_number_in_surah": 3324,
+      "word_surah": 3,
+      "word_translation": "then surely",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "أَخۡزَيۡتَهُۥۖ",
+      "word_ayah": 192,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9470,
+      "word_number_in_surah": 3325,
+      "word_surah": 3,
+      "word_translation": "You (have) disgraced him",
+      "word_transliteration": "akhzaytahu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 192,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9471,
+      "word_number_in_surah": 3326,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لِلظَّٰلِمِينَ",
+      "word_ayah": 192,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9472,
+      "word_number_in_surah": 3327,
+      "word_surah": 3,
+      "word_translation": "for the wrongdoers",
+      "word_transliteration": "lilzzalimina"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 192,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9473,
+      "word_number_in_surah": 3328,
+      "word_surah": 3,
+      "word_translation": "(are) any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَنصَارٖ",
+      "word_ayah": 192,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9474,
+      "word_number_in_surah": 3329,
+      "word_surah": 3,
+      "word_translation": "helpers",
+      "word_transliteration": "ansarin"
+    }
+  ],
+  "fullArabic": "رَبَّنَآ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَيۡتَهُۥۖ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٖ",
+  "fullTranslation": "Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.",
+  "fullTransliteration": "rabbana innaka man tud'khili al-nara faqad akhzaytahu wama lilzzalimina min ansarin"
+}

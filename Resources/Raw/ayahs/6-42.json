@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 42,
+    "surah": 6,
+    "words": 11,
+    "numberInQuran": 831,
+    "juz": 7,
+    "manzil": 2,
+    "page": 132,
+    "ruku": 106,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16832,
+      "word_number_in_surah": 655,
+      "word_surah": 6,
+      "word_translation": "And certainly",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "أَرۡسَلۡنَآ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16833,
+      "word_number_in_surah": 656,
+      "word_surah": 6,
+      "word_translation": "We sent (Messengers)",
+      "word_transliteration": "arsalna"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16834,
+      "word_number_in_surah": 657,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "أُمَمٖ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16835,
+      "word_number_in_surah": 658,
+      "word_surah": 6,
+      "word_translation": "nations",
+      "word_transliteration": "umamin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 42,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16836,
+      "word_number_in_surah": 659,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِكَ",
+      "word_ayah": 42,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16837,
+      "word_number_in_surah": 660,
+      "word_surah": 6,
+      "word_translation": "before you",
+      "word_transliteration": "qablika"
+    },
+    {
+      "word_arabic": "فَأَخَذۡنَٰهُم",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16838,
+      "word_number_in_surah": 661,
+      "word_surah": 6,
+      "word_translation": "then We seized them",
+      "word_transliteration": "fa-akhadhnahum"
+    },
+    {
+      "word_arabic": "بِٱلۡبَأۡسَآءِ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16839,
+      "word_number_in_surah": 662,
+      "word_surah": 6,
+      "word_translation": "with adversity",
+      "word_transliteration": "bil-basai"
+    },
+    {
+      "word_arabic": "وَٱلضَّرَّآءِ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16840,
+      "word_number_in_surah": 663,
+      "word_surah": 6,
+      "word_translation": "and hardship",
+      "word_transliteration": "wal-darai"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16841,
+      "word_number_in_surah": 664,
+      "word_surah": 6,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَتَضَرَّعُونَ",
+      "word_ayah": 42,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16842,
+      "word_number_in_surah": 665,
+      "word_surah": 6,
+      "word_translation": "humble themselves",
+      "word_transliteration": "yatadarra'una"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَأَخَذۡنَٰهُم بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَتَضَرَّعُونَ",
+  "fullTranslation": "And We have already sent [messengers] to nations before you, [O Muhammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us].",
+  "fullTransliteration": "walaqad arsalna ila umamin min qablika fa-akhadhnahum bil-basai wal-darai la'allahum yatadarra'una"
+}

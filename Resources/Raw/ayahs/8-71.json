@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "ayah": 71,
+    "surah": 8,
+    "words": 13,
+    "numberInQuran": 1231,
+    "juz": 10,
+    "manzil": 2,
+    "page": 186,
+    "ruku": 155,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 71,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23671,
+      "word_number_in_surah": 1124,
+      "word_surah": 8,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يُرِيدُواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23672,
+      "word_number_in_surah": 1125,
+      "word_surah": 8,
+      "word_translation": "they intend",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "خِيَانَتَكَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23673,
+      "word_number_in_surah": 1126,
+      "word_surah": 8,
+      "word_translation": "(to) betray you",
+      "word_transliteration": "khiyanataka"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23674,
+      "word_number_in_surah": 1127,
+      "word_surah": 8,
+      "word_translation": "certainly",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "خَانُواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23675,
+      "word_number_in_surah": 1128,
+      "word_surah": 8,
+      "word_translation": "they have betrayed",
+      "word_transliteration": "khanu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23676,
+      "word_number_in_surah": 1129,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 71,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23677,
+      "word_number_in_surah": 1130,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23678,
+      "word_number_in_surah": 1131,
+      "word_surah": 8,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "فَأَمۡكَنَ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23679,
+      "word_number_in_surah": 1132,
+      "word_surah": 8,
+      "word_translation": "So He gave (you) power",
+      "word_transliteration": "fa-amkana"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡۗ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23680,
+      "word_number_in_surah": 1133,
+      "word_surah": 8,
+      "word_translation": "over them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23681,
+      "word_number_in_surah": 1134,
+      "word_surah": 8,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23682,
+      "word_number_in_surah": 1135,
+      "word_surah": 8,
+      "word_translation": "(is) All-Knower",
+      "word_transliteration": "alimun"
+    },
+    {
+      "word_arabic": "حَكِيمٌ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23683,
+      "word_number_in_surah": 1136,
+      "word_surah": 8,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "وَإِن يُرِيدُواْ خِيَانَتَكَ فَقَدۡ خَانُواْ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+  "fullTranslation": "But if they intend to betray you - then they have already betrayed Allah before, and He empowered [you] over them. And Allah is Knowing and Wise.",
+  "fullTransliteration": "wa-in yuridu khiyanataka faqad khanu al-laha min qablu fa-amkana min'hum wal-lahu alimun hakimun"
+}

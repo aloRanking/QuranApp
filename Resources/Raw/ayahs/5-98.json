@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 98,
+    "surah": 5,
+    "words": 9,
+    "numberInQuran": 767,
+    "juz": 7,
+    "manzil": 2,
+    "page": 124,
+    "ruku": 98,
+    "hizbQuarter": 50,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱعۡلَمُوٓاْ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15661,
+      "word_number_in_surah": 2288,
+      "word_surah": 5,
+      "word_translation": "Know",
+      "word_transliteration": "i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15662,
+      "word_number_in_surah": 2289,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15663,
+      "word_number_in_surah": 2290,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "شَدِيدُ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15664,
+      "word_number_in_surah": 2291,
+      "word_surah": 5,
+      "word_translation": "(is) severe",
+      "word_transliteration": "shadidu"
+    },
+    {
+      "word_arabic": "ٱلۡعِقَابِ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15665,
+      "word_number_in_surah": 2292,
+      "word_surah": 5,
+      "word_translation": "(in) punishment",
+      "word_transliteration": "al-'iqabi"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15666,
+      "word_number_in_surah": 2293,
+      "word_surah": 5,
+      "word_translation": "and that",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15667,
+      "word_number_in_surah": 2294,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15668,
+      "word_number_in_surah": 2295,
+      "word_surah": 5,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15669,
+      "word_number_in_surah": 2296,
+      "word_surah": 5,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "ٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ وَأَنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "Know that Allah is severe in penalty and that Allah is Forgiving and Merciful.",
+  "fullTransliteration": "i'lamu anna al-laha shadidu al-'iqabi wa-anna al-laha ghafurun rahimun"
+}

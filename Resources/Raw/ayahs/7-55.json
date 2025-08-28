@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "ayah": 55,
+    "surah": 7,
+    "words": 8,
+    "numberInQuran": 1009,
+    "juz": 8,
+    "manzil": 2,
+    "page": 157,
+    "ruku": 128,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱدۡعُواْ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20120,
+      "word_number_in_surah": 893,
+      "word_surah": 7,
+      "word_translation": "Call upon",
+      "word_transliteration": "id'u"
+    },
+    {
+      "word_arabic": "رَبَّكُمۡ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20121,
+      "word_number_in_surah": 894,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbakum"
+    },
+    {
+      "word_arabic": "تَضَرُّعٗا",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20122,
+      "word_number_in_surah": 895,
+      "word_surah": 7,
+      "word_translation": "humbly",
+      "word_transliteration": "tadarru'an"
+    },
+    {
+      "word_arabic": "وَخُفۡيَةًۚ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20123,
+      "word_number_in_surah": 896,
+      "word_surah": 7,
+      "word_translation": "and privately",
+      "word_transliteration": "wakhuf'yatan"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 55,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20124,
+      "word_number_in_surah": 897,
+      "word_surah": 7,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20125,
+      "word_number_in_surah": 898,
+      "word_surah": 7,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20126,
+      "word_number_in_surah": 899,
+      "word_surah": 7,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُعۡتَدِينَ",
+      "word_ayah": 55,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20127,
+      "word_number_in_surah": 900,
+      "word_surah": 7,
+      "word_translation": "the transgressors",
+      "word_transliteration": "al-mu'tadina"
+    }
+  ],
+  "fullArabic": "ٱدۡعُواْ رَبَّكُمۡ تَضَرُّعٗا وَخُفۡيَةًۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "fullTranslation": "Call upon your Lord in humility and privately; indeed, He does not like transgressors.",
+  "fullTransliteration": "id'u rabbakum tadarru'an wakhuf'yatan innahu la yuhibbu al-mu'tadina"
+}

@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "ayah": 4,
+    "surah": 3,
+    "words": 18,
+    "numberInQuran": 297,
+    "juz": 3,
+    "manzil": 1,
+    "page": 50,
+    "ruku": 42,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 4,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6165,
+      "word_number_in_surah": 20,
+      "word_surah": 3,
+      "word_translation": "From",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6166,
+      "word_number_in_surah": 21,
+      "word_surah": 3,
+      "word_translation": "before (this)",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "هُدٗى",
+      "word_ayah": 4,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6167,
+      "word_number_in_surah": 22,
+      "word_surah": 3,
+      "word_translation": "(as) guidance",
+      "word_transliteration": "hudan"
+    },
+    {
+      "word_arabic": "لِّلنَّاسِ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6168,
+      "word_number_in_surah": 23,
+      "word_surah": 3,
+      "word_translation": "for the mankind",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "وَأَنزَلَ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6169,
+      "word_number_in_surah": 24,
+      "word_surah": 3,
+      "word_translation": "And (He) revealed",
+      "word_transliteration": "wa-anzala"
+    },
+    {
+      "word_arabic": "ٱلۡفُرۡقَانَۗ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6170,
+      "word_number_in_surah": 25,
+      "word_surah": 3,
+      "word_translation": "the Criterion",
+      "word_transliteration": "al-fur'qana"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6171,
+      "word_number_in_surah": 26,
+      "word_surah": 3,
+      "word_translation": "Verily",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6172,
+      "word_number_in_surah": 27,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6173,
+      "word_number_in_surah": 28,
+      "word_surah": 3,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6174,
+      "word_number_in_surah": 29,
+      "word_surah": 3,
+      "word_translation": "in (the) Verses",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6175,
+      "word_number_in_surah": 30,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6176,
+      "word_number_in_surah": 31,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "عَذَابٞ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6177,
+      "word_number_in_surah": 32,
+      "word_surah": 3,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "شَدِيدٞۗ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6178,
+      "word_number_in_surah": 33,
+      "word_surah": 3,
+      "word_translation": "severe",
+      "word_transliteration": "shadidun"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 4,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6179,
+      "word_number_in_surah": 34,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَزِيزٞ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6180,
+      "word_number_in_surah": 35,
+      "word_surah": 3,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "ذُو",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6181,
+      "word_number_in_surah": 36,
+      "word_surah": 3,
+      "word_translation": "All-Able",
+      "word_transliteration": "dhu"
+    },
+    {
+      "word_arabic": "ٱنتِقَامٍ",
+      "word_ayah": 4,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6182,
+      "word_number_in_surah": 37,
+      "word_surah": 3,
+      "word_translation": "(of) retribution",
+      "word_transliteration": "intiqamin"
+    }
+  ],
+  "fullArabic": "مِن قَبۡلُ هُدٗى لِّلنَّاسِ وَأَنزَلَ ٱلۡفُرۡقَانَۗ إِنَّ ٱلَّذِينَ كَفَرُواْ بِ‍َٔايَٰتِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدٞۗ وَٱللَّهُ عَزِيزٞ ذُو ٱنتِقَامٍ",
+  "fullTranslation": "Before, as guidance for the people. And He revealed the Qur'an. Indeed, those who disbelieve in the verses of Allah will have a severe punishment, and Allah is exalted in Might, the Owner of Retribution.",
+  "fullTransliteration": "min qablu hudan lilnnasi wa-anzala al-fur'qana inna alladhina kafaru biayati al-lahi lahum adhabun shadidun wal-lahu azizun dhu intiqamin"
+}

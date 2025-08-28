@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "ayah": 205,
+    "surah": 7,
+    "words": 16,
+    "numberInQuran": 1159,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱذۡكُر",
+      "word_ayah": 205,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22521,
+      "word_number_in_surah": 3294,
+      "word_surah": 7,
+      "word_translation": "And remember",
+      "word_transliteration": "wa-udh'kur"
+    },
+    {
+      "word_arabic": "رَّبَّكَ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22522,
+      "word_number_in_surah": 3295,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22523,
+      "word_number_in_surah": 3296,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "نَفۡسِكَ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22524,
+      "word_number_in_surah": 3297,
+      "word_surah": 7,
+      "word_translation": "yourself",
+      "word_transliteration": "nafsika"
+    },
+    {
+      "word_arabic": "تَضَرُّعٗا",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22525,
+      "word_number_in_surah": 3298,
+      "word_surah": 7,
+      "word_translation": "humbly",
+      "word_transliteration": "tadarru'an"
+    },
+    {
+      "word_arabic": "وَخِيفَةٗ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22526,
+      "word_number_in_surah": 3299,
+      "word_surah": 7,
+      "word_translation": "and (in) fear",
+      "word_transliteration": "wakhifatan"
+    },
+    {
+      "word_arabic": "وَدُونَ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22527,
+      "word_number_in_surah": 3300,
+      "word_surah": 7,
+      "word_translation": "and without",
+      "word_transliteration": "waduna"
+    },
+    {
+      "word_arabic": "ٱلۡجَهۡرِ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22528,
+      "word_number_in_surah": 3301,
+      "word_surah": 7,
+      "word_translation": "the loudness",
+      "word_transliteration": "al-jahri"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22529,
+      "word_number_in_surah": 3302,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡلِ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22530,
+      "word_number_in_surah": 3303,
+      "word_surah": 7,
+      "word_translation": "[the] words",
+      "word_transliteration": "al-qawli"
+    },
+    {
+      "word_arabic": "بِٱلۡغُدُوِّ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22531,
+      "word_number_in_surah": 3304,
+      "word_surah": 7,
+      "word_translation": "in the mornings",
+      "word_transliteration": "bil-ghuduwi"
+    },
+    {
+      "word_arabic": "وَٱلۡأٓصَالِ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22532,
+      "word_number_in_surah": 3305,
+      "word_surah": 7,
+      "word_translation": "and (in) the evenings",
+      "word_transliteration": "wal-asali"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22533,
+      "word_number_in_surah": 3306,
+      "word_surah": 7,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكُن",
+      "word_ayah": 205,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22534,
+      "word_number_in_surah": 3307,
+      "word_surah": 7,
+      "word_translation": "be",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 205,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22535,
+      "word_number_in_surah": 3308,
+      "word_surah": 7,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡغَٰفِلِينَ",
+      "word_ayah": 205,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22536,
+      "word_number_in_surah": 3309,
+      "word_surah": 7,
+      "word_translation": "the heedless",
+      "word_transliteration": "al-ghafilina"
+    }
+  ],
+  "fullArabic": "وَٱذۡكُر رَّبَّكَ فِي نَفۡسِكَ تَضَرُّعٗا وَخِيفَةٗ وَدُونَ ٱلۡجَهۡرِ مِنَ ٱلۡقَوۡلِ بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ وَلَا تَكُن مِّنَ ٱلۡغَٰفِلِينَ",
+  "fullTranslation": "And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless.",
+  "fullTransliteration": "wa-udh'kur rabbaka fi nafsika tadarru'an wakhifatan waduna al-jahri mina al-qawli bil-ghuduwi wal-asali wala takun mina al-ghafilina"
+}

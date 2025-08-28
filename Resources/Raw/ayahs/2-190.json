@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "ayah": 190,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 197,
+    "juz": 2,
+    "manzil": 1,
+    "page": 29,
+    "ruku": 25,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَٰتِلُواْ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3532,
+      "word_number_in_surah": 3503,
+      "word_surah": 2,
+      "word_translation": "And fight",
+      "word_transliteration": "waqatilu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3533,
+      "word_number_in_surah": 3504,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3534,
+      "word_number_in_surah": 3505,
+      "word_surah": 2,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3535,
+      "word_number_in_surah": 3506,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3536,
+      "word_number_in_surah": 3507,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُقَٰتِلُونَكُمۡ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3537,
+      "word_number_in_surah": 3508,
+      "word_surah": 2,
+      "word_translation": "fight you",
+      "word_transliteration": "yuqatilunakum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3538,
+      "word_number_in_surah": 3509,
+      "word_surah": 2,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَعۡتَدُوٓاْۚ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3539,
+      "word_number_in_surah": 3510,
+      "word_surah": 2,
+      "word_translation": "transgress",
+      "word_transliteration": "ta'tadu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 190,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3540,
+      "word_number_in_surah": 3511,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3541,
+      "word_number_in_surah": 3512,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3542,
+      "word_number_in_surah": 3513,
+      "word_surah": 2,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3543,
+      "word_number_in_surah": 3514,
+      "word_surah": 2,
+      "word_translation": "like",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُعۡتَدِينَ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3544,
+      "word_number_in_surah": 3515,
+      "word_surah": 2,
+      "word_translation": "the transgressors",
+      "word_transliteration": "al-mu'tadina"
+    }
+  ],
+  "fullArabic": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "fullTranslation": "Fight in the way of Allah those who fight you but do not transgress. Indeed. Allah does not like transgressors.",
+  "fullTransliteration": "waqatilu fi sabili al-lahi alladhina yuqatilunakum wala ta'tadu inna al-laha la yuhibbu al-mu'tadina"
+}

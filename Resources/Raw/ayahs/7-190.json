@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "ayah": 190,
+    "surah": 7,
+    "words": 12,
+    "numberInQuran": 1144,
+    "juz": 9,
+    "manzil": 2,
+    "page": 175,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22345,
+      "word_number_in_surah": 3118,
+      "word_surah": 7,
+      "word_translation": "But when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "ءَاتَىٰهُمَا",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22346,
+      "word_number_in_surah": 3119,
+      "word_surah": 7,
+      "word_translation": "He gives them",
+      "word_transliteration": "atahuma"
+    },
+    {
+      "word_arabic": "صَٰلِحٗا",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22347,
+      "word_number_in_surah": 3120,
+      "word_surah": 7,
+      "word_translation": "a good (child)",
+      "word_transliteration": "salihan"
+    },
+    {
+      "word_arabic": "جَعَلَا",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22348,
+      "word_number_in_surah": 3121,
+      "word_surah": 7,
+      "word_translation": "they make",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 190,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22349,
+      "word_number_in_surah": 3122,
+      "word_surah": 7,
+      "word_translation": "for Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "شُرَكَآءَ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22350,
+      "word_number_in_surah": 3123,
+      "word_surah": 7,
+      "word_translation": "partners",
+      "word_transliteration": "shurakaa"
+    },
+    {
+      "word_arabic": "فِيمَآ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22351,
+      "word_number_in_surah": 3124,
+      "word_surah": 7,
+      "word_translation": "in what",
+      "word_transliteration": "fima"
+    },
+    {
+      "word_arabic": "ءَاتَىٰهُمَاۚ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22352,
+      "word_number_in_surah": 3125,
+      "word_surah": 7,
+      "word_translation": "He has given them",
+      "word_transliteration": "atahuma"
+    },
+    {
+      "word_arabic": "فَتَعَٰلَى",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22353,
+      "word_number_in_surah": 3126,
+      "word_surah": 7,
+      "word_translation": "But exalted",
+      "word_transliteration": "fata'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22354,
+      "word_number_in_surah": 3127,
+      "word_surah": 7,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22355,
+      "word_number_in_surah": 3128,
+      "word_surah": 7,
+      "word_translation": "above what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "يُشۡرِكُونَ",
+      "word_ayah": 190,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22356,
+      "word_number_in_surah": 3129,
+      "word_surah": 7,
+      "word_translation": "they associate (with Him)",
+      "word_transliteration": "yush'rikuna"
+    }
+  ],
+  "fullArabic": "فَلَمَّآ ءَاتَىٰهُمَا صَٰلِحٗا جَعَلَا لَهُۥ شُرَكَآءَ فِيمَآ ءَاتَىٰهُمَاۚ فَتَعَٰلَى ٱللَّهُ عَمَّا يُشۡرِكُونَ",
+  "fullTranslation": "But when He gives them a good [child], they ascribe partners to Him concerning that which He has given them. Exalted is Allah above what they associate with Him.",
+  "fullTransliteration": "falamma atahuma salihan ja'ala lahu shurakaa fima atahuma fata'ala al-lahu amma yush'rikuna"
+}

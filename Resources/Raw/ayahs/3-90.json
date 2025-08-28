@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "ayah": 90,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 383,
+    "juz": 3,
+    "manzil": 1,
+    "page": 61,
+    "ruku": 50,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7670,
+      "word_number_in_surah": 1525,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7671,
+      "word_number_in_surah": 1526,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7672,
+      "word_number_in_surah": 1527,
+      "word_surah": 3,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7673,
+      "word_number_in_surah": 1528,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "إِيمَٰنِهِمۡ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7674,
+      "word_number_in_surah": 1529,
+      "word_surah": 3,
+      "word_translation": "their belief",
+      "word_transliteration": "imanihim"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7675,
+      "word_number_in_surah": 1530,
+      "word_surah": 3,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱزۡدَادُواْ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7676,
+      "word_number_in_surah": 1531,
+      "word_surah": 3,
+      "word_translation": "they increased",
+      "word_transliteration": "iz'dadu"
+    },
+    {
+      "word_arabic": "كُفۡرٗا",
+      "word_ayah": 90,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7677,
+      "word_number_in_surah": 1532,
+      "word_surah": 3,
+      "word_translation": "(in) disbelief",
+      "word_transliteration": "kuf'ran"
+    },
+    {
+      "word_arabic": "لَّن",
+      "word_ayah": 90,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7678,
+      "word_number_in_surah": 1533,
+      "word_surah": 3,
+      "word_translation": "never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "تُقۡبَلَ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7679,
+      "word_number_in_surah": 1534,
+      "word_surah": 3,
+      "word_translation": "will be accepted",
+      "word_transliteration": "tuq'bala"
+    },
+    {
+      "word_arabic": "تَوۡبَتُهُمۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7680,
+      "word_number_in_surah": 1535,
+      "word_surah": 3,
+      "word_translation": "their repentance",
+      "word_transliteration": "tawbatuhum"
+    },
+    {
+      "word_arabic": "وَأُوْلَٰٓئِكَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7681,
+      "word_number_in_surah": 1536,
+      "word_surah": 3,
+      "word_translation": "and those",
+      "word_transliteration": "wa-ulaika"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7682,
+      "word_number_in_surah": 1537,
+      "word_surah": 3,
+      "word_translation": "they",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلضَّآلُّونَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7683,
+      "word_number_in_surah": 1538,
+      "word_surah": 3,
+      "word_translation": "(are) those who have gone astray",
+      "word_transliteration": "al-daluna"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ بَعۡدَ إِيمَٰنِهِمۡ ثُمَّ ٱزۡدَادُواْ كُفۡرٗا لَّن تُقۡبَلَ تَوۡبَتُهُمۡ وَأُوْلَٰٓئِكَ هُمُ ٱلضَّآلُّونَ",
+  "fullTranslation": "Indeed, those who reject the message after their belief and then increase in disbelief - never will their [claimed] repentance be accepted, and they are the ones astray.",
+  "fullTransliteration": "inna alladhina kafaru ba'da imanihim thumma iz'dadu kuf'ran lan tuq'bala tawbatuhum wa-ulaika humu al-daluna"
+}

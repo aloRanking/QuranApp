@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "ayah": 14,
+    "surah": 5,
+    "words": 25,
+    "numberInQuran": 683,
+    "juz": 6,
+    "manzil": 2,
+    "page": 110,
+    "ruku": 88,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13807,
+      "word_number_in_surah": 434,
+      "word_surah": 5,
+      "word_translation": "And from",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13808,
+      "word_number_in_surah": 435,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13809,
+      "word_number_in_surah": 436,
+      "word_surah": 5,
+      "word_translation": "said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13810,
+      "word_number_in_surah": 437,
+      "word_surah": 5,
+      "word_translation": "Indeed we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "نَصَٰرَىٰٓ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13811,
+      "word_number_in_surah": 438,
+      "word_surah": 5,
+      "word_translation": "(are) Christians",
+      "word_transliteration": "nasara"
+    },
+    {
+      "word_arabic": "أَخَذۡنَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13812,
+      "word_number_in_surah": 439,
+      "word_surah": 5,
+      "word_translation": "We took",
+      "word_transliteration": "akhadhna"
+    },
+    {
+      "word_arabic": "مِيثَٰقَهُمۡ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13813,
+      "word_number_in_surah": 440,
+      "word_surah": 5,
+      "word_translation": "their covenant",
+      "word_transliteration": "mithaqahum"
+    },
+    {
+      "word_arabic": "فَنَسُواْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13814,
+      "word_number_in_surah": 441,
+      "word_surah": 5,
+      "word_translation": "but they forgot",
+      "word_transliteration": "fanasu"
+    },
+    {
+      "word_arabic": "حَظّٗا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13815,
+      "word_number_in_surah": 442,
+      "word_surah": 5,
+      "word_translation": "a part",
+      "word_transliteration": "hazzan"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13816,
+      "word_number_in_surah": 443,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "ذُكِّرُواْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13817,
+      "word_number_in_surah": 444,
+      "word_surah": 5,
+      "word_translation": "they were reminded",
+      "word_transliteration": "dhukkiru"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13818,
+      "word_number_in_surah": 445,
+      "word_surah": 5,
+      "word_translation": "of [it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فَأَغۡرَيۡنَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13819,
+      "word_number_in_surah": 446,
+      "word_surah": 5,
+      "word_translation": "So We aroused",
+      "word_transliteration": "fa-aghrayna"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمُ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13820,
+      "word_number_in_surah": 447,
+      "word_surah": 5,
+      "word_translation": "between them",
+      "word_transliteration": "baynahumu"
+    },
+    {
+      "word_arabic": "ٱلۡعَدَاوَةَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13821,
+      "word_number_in_surah": 448,
+      "word_surah": 5,
+      "word_translation": "[the] enmity",
+      "word_transliteration": "al-'adawata"
+    },
+    {
+      "word_arabic": "وَٱلۡبَغۡضَآءَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13822,
+      "word_number_in_surah": 449,
+      "word_surah": 5,
+      "word_translation": "and [the] hatred",
+      "word_transliteration": "wal-baghdaa"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13823,
+      "word_number_in_surah": 450,
+      "word_surah": 5,
+      "word_translation": "till",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "يَوۡمِ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13824,
+      "word_number_in_surah": 451,
+      "word_surah": 5,
+      "word_translation": "(the) Day",
+      "word_transliteration": "yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۚ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13825,
+      "word_number_in_surah": 452,
+      "word_surah": 5,
+      "word_translation": "(of) the Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "وَسَوۡفَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13826,
+      "word_number_in_surah": 453,
+      "word_surah": 5,
+      "word_translation": "And soon",
+      "word_transliteration": "wasawfa"
+    },
+    {
+      "word_arabic": "يُنَبِّئُهُمُ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13827,
+      "word_number_in_surah": 454,
+      "word_surah": 5,
+      "word_translation": "will inform them",
+      "word_transliteration": "yunabbi-uhumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13828,
+      "word_number_in_surah": 455,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13829,
+      "word_number_in_surah": 456,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 13830,
+      "word_number_in_surah": 457,
+      "word_surah": 5,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَصۡنَعُونَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 13831,
+      "word_number_in_surah": 458,
+      "word_surah": 5,
+      "word_translation": "do",
+      "word_transliteration": "yasna'una"
+    }
+  ],
+  "fullArabic": "وَمِنَ ٱلَّذِينَ قَالُوٓاْ إِنَّا نَصَٰرَىٰٓ أَخَذۡنَا مِيثَٰقَهُمۡ فَنَسُواْ حَظّٗا مِّمَّا ذُكِّرُواْ بِهِۦ فَأَغۡرَيۡنَا بَيۡنَهُمُ ٱلۡعَدَاوَةَ وَٱلۡبَغۡضَآءَ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۚ وَسَوۡفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُواْ يَصۡنَعُونَ",
+  "fullTranslation": "And from those who say, \"We are Christians\" We took their covenant; but they forgot a portion of that of which they were reminded. So We caused among them animosity and hatred until the Day of Resurrection. And Allah is going to inform them about what they used to do.",
+  "fullTransliteration": "wamina alladhina qalu inna nasara akhadhna mithaqahum fanasu hazzan mimma dhukkiru bihi fa-aghrayna baynahumu al-'adawata wal-baghdaa ila yawmi al-qiyamati wasawfa yunabbi-uhumu al-lahu bima kanu yasna'una"
+}

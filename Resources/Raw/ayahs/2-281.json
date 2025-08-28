@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "ayah": 281,
+    "surah": 2,
+    "words": 15,
+    "numberInQuran": 288,
+    "juz": 3,
+    "manzil": 1,
+    "page": 47,
+    "ruku": 39,
+    "hizbQuarter": 19,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5867,
+      "word_number_in_surah": 5838,
+      "word_surah": 2,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "يَوۡمٗا",
+      "word_ayah": 281,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5868,
+      "word_number_in_surah": 5839,
+      "word_surah": 2,
+      "word_translation": "a Day",
+      "word_transliteration": "yawman"
+    },
+    {
+      "word_arabic": "تُرۡجَعُونَ",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5869,
+      "word_number_in_surah": 5840,
+      "word_surah": 2,
+      "word_translation": "you will be brought back",
+      "word_transliteration": "tur'ja'una"
+    },
+    {
+      "word_arabic": "فِيهِ",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5870,
+      "word_number_in_surah": 5841,
+      "word_surah": 2,
+      "word_translation": "[in it]",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5871,
+      "word_number_in_surah": 5842,
+      "word_surah": 2,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5872,
+      "word_number_in_surah": 5843,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 281,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5873,
+      "word_number_in_surah": 5844,
+      "word_surah": 2,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تُوَفَّىٰ",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5874,
+      "word_number_in_surah": 5845,
+      "word_surah": 2,
+      "word_translation": "(will be) repaid in full",
+      "word_transliteration": "tuwaffa"
+    },
+    {
+      "word_arabic": "كُلُّ",
+      "word_ayah": 281,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5875,
+      "word_number_in_surah": 5846,
+      "word_surah": 2,
+      "word_translation": "every",
+      "word_transliteration": "kullu"
+    },
+    {
+      "word_arabic": "نَفۡسٖ",
+      "word_ayah": 281,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5876,
+      "word_number_in_surah": 5847,
+      "word_surah": 2,
+      "word_translation": "soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5877,
+      "word_number_in_surah": 5848,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَسَبَتۡ",
+      "word_ayah": 281,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5878,
+      "word_number_in_surah": 5849,
+      "word_surah": 2,
+      "word_translation": "it earned",
+      "word_transliteration": "kasabat"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 281,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5879,
+      "word_number_in_surah": 5850,
+      "word_surah": 2,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5880,
+      "word_number_in_surah": 5851,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُظۡلَمُونَ",
+      "word_ayah": 281,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5881,
+      "word_number_in_surah": 5852,
+      "word_surah": 2,
+      "word_translation": "will be wronged",
+      "word_transliteration": "yuz'lamuna"
+    }
+  ],
+  "fullArabic": "وَٱتَّقُواْ يَوۡمٗا تُرۡجَعُونَ فِيهِ إِلَى ٱللَّهِۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "fullTranslation": "And fear a Day when you will be returned to Allah. Then every soul will be compensated for what it earned, and they will not be treated unjustly.",
+  "fullTransliteration": "wa-ittaqu yawman tur'ja'una fihi ila al-lahi thumma tuwaffa kullu nafsin ma kasabat wahum la yuz'lamuna"
+}

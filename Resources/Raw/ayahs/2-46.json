@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "ayah": 46,
+    "surah": 2,
+    "words": 8,
+    "numberInQuran": 53,
+    "juz": 1,
+    "manzil": 1,
+    "page": 7,
+    "ruku": 6,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 681,
+      "word_number_in_surah": 652,
+      "word_surah": 2,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَظُنُّونَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 682,
+      "word_number_in_surah": 653,
+      "word_surah": 2,
+      "word_translation": "believe",
+      "word_transliteration": "yazunnuna"
+    },
+    {
+      "word_arabic": "أَنَّهُم",
+      "word_ayah": 46,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 683,
+      "word_number_in_surah": 654,
+      "word_surah": 2,
+      "word_translation": "that they",
+      "word_transliteration": "annahum"
+    },
+    {
+      "word_arabic": "مُّلَٰقُواْ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 684,
+      "word_number_in_surah": 655,
+      "word_surah": 2,
+      "word_translation": "will meet",
+      "word_transliteration": "mulaqu"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 685,
+      "word_number_in_surah": 656,
+      "word_surah": 2,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "وَأَنَّهُمۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 686,
+      "word_number_in_surah": 657,
+      "word_surah": 2,
+      "word_translation": "and that they",
+      "word_transliteration": "wa-annahum"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 687,
+      "word_number_in_surah": 658,
+      "word_surah": 2,
+      "word_translation": "to Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "رَٰجِعُونَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 688,
+      "word_number_in_surah": 659,
+      "word_surah": 2,
+      "word_translation": "will return",
+      "word_transliteration": "raji'una"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ رَٰجِعُونَ",
+  "fullTranslation": "Who are certain that they will meet their Lord and that they will return to Him.",
+  "fullTransliteration": "alladhina yazunnuna annahum mulaqu rabbihim wa-annahum ilayhi raji'una"
+}

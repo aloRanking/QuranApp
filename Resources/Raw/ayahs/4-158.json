@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 158,
+    "surah": 4,
+    "words": 8,
+    "numberInQuran": 651,
+    "juz": 6,
+    "manzil": 1,
+    "page": 103,
+    "ruku": 83,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَل",
+      "word_ayah": 158,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13001,
+      "word_number_in_surah": 3375,
+      "word_surah": 4,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "رَّفَعَهُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13002,
+      "word_number_in_surah": 3376,
+      "word_surah": 4,
+      "word_translation": "he was raised",
+      "word_transliteration": "rafa'ahu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13003,
+      "word_number_in_surah": 3377,
+      "word_surah": 4,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "إِلَيۡهِۚ",
+      "word_ayah": 158,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13004,
+      "word_number_in_surah": 3378,
+      "word_surah": 4,
+      "word_translation": "towards Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13005,
+      "word_number_in_surah": 3379,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13006,
+      "word_number_in_surah": 3380,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَزِيزًا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13007,
+      "word_number_in_surah": 3381,
+      "word_surah": 4,
+      "word_translation": "All-Mighty",
+      "word_transliteration": "azizan"
+    },
+    {
+      "word_arabic": "حَكِيمٗا",
+      "word_ayah": 158,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13008,
+      "word_number_in_surah": 3382,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "بَل رَّفَعَهُ ٱللَّهُ إِلَيۡهِۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا",
+  "fullTranslation": "Rather, Allah raised him to Himself. And ever is Allah Exalted in Might and Wise.",
+  "fullTransliteration": "bal rafa'ahu al-lahu ilayhi wakana al-lahu azizan hakiman"
+}

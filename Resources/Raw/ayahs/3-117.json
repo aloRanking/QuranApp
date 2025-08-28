@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "ayah": 117,
+    "surah": 3,
+    "words": 23,
+    "numberInQuran": 410,
+    "juz": 4,
+    "manzil": 1,
+    "page": 65,
+    "ruku": 53,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَثَلُ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8114,
+      "word_number_in_surah": 1969,
+      "word_surah": 3,
+      "word_translation": "Example",
+      "word_transliteration": "mathalu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8115,
+      "word_number_in_surah": 1970,
+      "word_surah": 3,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8116,
+      "word_number_in_surah": 1971,
+      "word_surah": 3,
+      "word_translation": "they spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8117,
+      "word_number_in_surah": 1972,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "هَٰذِهِ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8118,
+      "word_number_in_surah": 1973,
+      "word_surah": 3,
+      "word_translation": "this",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةِ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8119,
+      "word_number_in_surah": 1974,
+      "word_surah": 3,
+      "word_translation": "[the] life",
+      "word_transliteration": "al-hayati"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8120,
+      "word_number_in_surah": 1975,
+      "word_surah": 3,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "كَمَثَلِ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8121,
+      "word_number_in_surah": 1976,
+      "word_surah": 3,
+      "word_translation": "(is) like (the) example",
+      "word_transliteration": "kamathali"
+    },
+    {
+      "word_arabic": "رِيحٖ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8122,
+      "word_number_in_surah": 1977,
+      "word_surah": 3,
+      "word_translation": "(of) a wind",
+      "word_transliteration": "rihin"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8123,
+      "word_number_in_surah": 1978,
+      "word_surah": 3,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "صِرٌّ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8124,
+      "word_number_in_surah": 1979,
+      "word_surah": 3,
+      "word_translation": "(is) frost",
+      "word_transliteration": "sirrun"
+    },
+    {
+      "word_arabic": "أَصَابَتۡ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8125,
+      "word_number_in_surah": 1980,
+      "word_surah": 3,
+      "word_translation": "it struck",
+      "word_transliteration": "asabat"
+    },
+    {
+      "word_arabic": "حَرۡثَ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8126,
+      "word_number_in_surah": 1981,
+      "word_surah": 3,
+      "word_translation": "(the) harvest",
+      "word_transliteration": "hartha"
+    },
+    {
+      "word_arabic": "قَوۡمٖ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8127,
+      "word_number_in_surah": 1982,
+      "word_surah": 3,
+      "word_translation": "(of) a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "ظَلَمُوٓاْ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8128,
+      "word_number_in_surah": 1983,
+      "word_surah": 3,
+      "word_translation": "who wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8129,
+      "word_number_in_surah": 1984,
+      "word_surah": 3,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "فَأَهۡلَكَتۡهُۚ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8130,
+      "word_number_in_surah": 1985,
+      "word_surah": 3,
+      "word_translation": "then destroyed it",
+      "word_transliteration": "fa-ahlakathu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8131,
+      "word_number_in_surah": 1986,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ظَلَمَهُمُ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8132,
+      "word_number_in_surah": 1987,
+      "word_surah": 3,
+      "word_translation": "(has) wronged them",
+      "word_transliteration": "zalamahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8133,
+      "word_number_in_surah": 1988,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَٰكِنۡ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8134,
+      "word_number_in_surah": 1989,
+      "word_surah": 3,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 8135,
+      "word_number_in_surah": 1990,
+      "word_surah": 3,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "يَظۡلِمُونَ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 8136,
+      "word_number_in_surah": 1991,
+      "word_surah": 3,
+      "word_translation": "they wronged",
+      "word_transliteration": "yazlimuna"
+    }
+  ],
+  "fullArabic": "مَثَلُ مَا يُنفِقُونَ فِي هَٰذِهِ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا كَمَثَلِ رِيحٖ فِيهَا صِرٌّ أَصَابَتۡ حَرۡثَ قَوۡمٖ ظَلَمُوٓاْ أَنفُسَهُمۡ فَأَهۡلَكَتۡهُۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِنۡ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "fullTranslation": "The example of what they spend in this worldly life is like that of a wind containing frost which strikes the harvest of a people who have wronged themselves and destroys it. And Allah has not wronged them, but they wrong themselves.",
+  "fullTransliteration": "mathalu ma yunfiquna fi hadhihi al-hayati al-dun'ya kamathali rihin fiha sirrun asabat hartha qawmin zalamu anfusahum fa-ahlakathu wama zalamahumu al-lahu walakin anfusahum yazlimuna"
+}

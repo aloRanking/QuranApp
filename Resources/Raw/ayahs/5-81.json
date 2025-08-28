@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "ayah": 81,
+    "surah": 5,
+    "words": 15,
+    "numberInQuran": 750,
+    "juz": 6,
+    "manzil": 2,
+    "page": 121,
+    "ruku": 96,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15296,
+      "word_number_in_surah": 1923,
+      "word_surah": 5,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15297,
+      "word_number_in_surah": 1924,
+      "word_surah": 5,
+      "word_translation": "they had",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15298,
+      "word_number_in_surah": 1925,
+      "word_surah": 5,
+      "word_translation": "believed",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15299,
+      "word_number_in_surah": 1926,
+      "word_surah": 5,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱلنَّبِيِّ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15300,
+      "word_number_in_surah": 1927,
+      "word_surah": 5,
+      "word_translation": "and the Prophet",
+      "word_transliteration": "wal-nabiyi"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15301,
+      "word_number_in_surah": 1928,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15302,
+      "word_number_in_surah": 1929,
+      "word_surah": 5,
+      "word_translation": "has been revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15303,
+      "word_number_in_surah": 1930,
+      "word_surah": 5,
+      "word_translation": "to him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15304,
+      "word_number_in_surah": 1931,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ٱتَّخَذُوهُمۡ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15305,
+      "word_number_in_surah": 1932,
+      "word_surah": 5,
+      "word_translation": "they (would have) taken them",
+      "word_transliteration": "ittakhadhuhum"
+    },
+    {
+      "word_arabic": "أَوۡلِيَآءَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15306,
+      "word_number_in_surah": 1933,
+      "word_surah": 5,
+      "word_translation": "(as) allies",
+      "word_transliteration": "awliyaa"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15307,
+      "word_number_in_surah": 1934,
+      "word_surah": 5,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15308,
+      "word_number_in_surah": 1935,
+      "word_surah": 5,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 81,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15309,
+      "word_number_in_surah": 1936,
+      "word_surah": 5,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "فَٰسِقُونَ",
+      "word_ayah": 81,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15310,
+      "word_number_in_surah": 1937,
+      "word_surah": 5,
+      "word_translation": "(are) defiantly disobedient",
+      "word_transliteration": "fasiquna"
+    }
+  ],
+  "fullArabic": "وَلَوۡ كَانُواْ يُؤۡمِنُونَ بِٱللَّهِ وَٱلنَّبِيِّ وَمَآ أُنزِلَ إِلَيۡهِ مَا ٱتَّخَذُوهُمۡ أَوۡلِيَآءَ وَلَٰكِنَّ كَثِيرٗا مِّنۡهُمۡ فَٰسِقُونَ",
+  "fullTranslation": "And if they had believed in Allah and the Prophet and in what was revealed to him, they would not have taken them as allies; but many of them are defiantly disobedient.",
+  "fullTransliteration": "walaw kanu yu'minuna bil-lahi wal-nabiyi wama unzila ilayhi ma ittakhadhuhum awliyaa walakinna kathiran min'hum fasiquna"
+}

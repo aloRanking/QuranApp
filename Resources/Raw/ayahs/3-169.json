@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 169,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 462,
+    "juz": 4,
+    "manzil": 1,
+    "page": 72,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9046,
+      "word_number_in_surah": 2901,
+      "word_surah": 3,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَحۡسَبَنَّ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9047,
+      "word_number_in_surah": 2902,
+      "word_surah": 3,
+      "word_translation": "think",
+      "word_transliteration": "tahsabanna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9048,
+      "word_number_in_surah": 2903,
+      "word_surah": 3,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قُتِلُواْ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9049,
+      "word_number_in_surah": 2904,
+      "word_surah": 3,
+      "word_translation": "are killed",
+      "word_transliteration": "qutilu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9050,
+      "word_number_in_surah": 2905,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9051,
+      "word_number_in_surah": 2906,
+      "word_surah": 3,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9052,
+      "word_number_in_surah": 2907,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَمۡوَٰتَۢاۚ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9053,
+      "word_number_in_surah": 2908,
+      "word_surah": 3,
+      "word_translation": "(as) dead",
+      "word_transliteration": "amwatan"
+    },
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 169,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9054,
+      "word_number_in_surah": 2909,
+      "word_surah": 3,
+      "word_translation": "Nay!",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "أَحۡيَآءٌ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9055,
+      "word_number_in_surah": 2910,
+      "word_surah": 3,
+      "word_translation": "They are alive",
+      "word_transliteration": "ahyaon"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9056,
+      "word_number_in_surah": 2911,
+      "word_surah": 3,
+      "word_translation": "near",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 169,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9057,
+      "word_number_in_surah": 2912,
+      "word_surah": 3,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "يُرۡزَقُونَ",
+      "word_ayah": 169,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9058,
+      "word_number_in_surah": 2913,
+      "word_surah": 3,
+      "word_translation": "they are given provision",
+      "word_transliteration": "yur'zaquna"
+    }
+  ],
+  "fullArabic": "وَلَا تَحۡسَبَنَّ ٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتَۢاۚ بَلۡ أَحۡيَآءٌ عِندَ رَبِّهِمۡ يُرۡزَقُونَ",
+  "fullTranslation": "And never think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord, receiving provision,",
+  "fullTransliteration": "wala tahsabanna alladhina qutilu fi sabili al-lahi amwatan bal ahyaon inda rabbihim yur'zaquna"
+}

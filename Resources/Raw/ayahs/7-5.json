@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "ayah": 5,
+    "surah": 7,
+    "words": 12,
+    "numberInQuran": 959,
+    "juz": 8,
+    "manzil": 2,
+    "page": 151,
+    "ruku": 122,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19266,
+      "word_number_in_surah": 39,
+      "word_surah": 7,
+      "word_translation": "Then not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19267,
+      "word_number_in_surah": 40,
+      "word_surah": 7,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "دَعۡوَىٰهُمۡ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19268,
+      "word_number_in_surah": 41,
+      "word_surah": 7,
+      "word_translation": "their plea",
+      "word_transliteration": "da'wahum"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19269,
+      "word_number_in_surah": 42,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "جَآءَهُم",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19270,
+      "word_number_in_surah": 43,
+      "word_surah": 7,
+      "word_translation": "came to them",
+      "word_transliteration": "jaahum"
+    },
+    {
+      "word_arabic": "بَأۡسُنَآ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19271,
+      "word_number_in_surah": 44,
+      "word_surah": 7,
+      "word_translation": "Our punishment",
+      "word_transliteration": "basuna"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19272,
+      "word_number_in_surah": 45,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 5,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19273,
+      "word_number_in_surah": 46,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19274,
+      "word_number_in_surah": 47,
+      "word_surah": 7,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19275,
+      "word_number_in_surah": 48,
+      "word_surah": 7,
+      "word_translation": "Indeed we",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "كُنَّا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19276,
+      "word_number_in_surah": 49,
+      "word_surah": 7,
+      "word_translation": "were",
+      "word_transliteration": "kunna"
+    },
+    {
+      "word_arabic": "ظَٰلِمِينَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19277,
+      "word_number_in_surah": 50,
+      "word_surah": 7,
+      "word_translation": "wrongdoers",
+      "word_transliteration": "zalimina"
+    }
+  ],
+  "fullArabic": "فَمَا كَانَ دَعۡوَىٰهُمۡ إِذۡ جَآءَهُم بَأۡسُنَآ إِلَّآ أَن قَالُوٓاْ إِنَّا كُنَّا ظَٰلِمِينَ",
+  "fullTranslation": "And their declaration when Our punishment came to them was only that they said, \"Indeed, we were wrongdoers!\"",
+  "fullTransliteration": "fama kana da'wahum idh jaahum basuna illa an qalu inna kunna zalimina"
+}

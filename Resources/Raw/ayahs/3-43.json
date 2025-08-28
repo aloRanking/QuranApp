@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "ayah": 43,
+    "surah": 3,
+    "words": 7,
+    "numberInQuran": 336,
+    "juz": 3,
+    "manzil": 1,
+    "page": 55,
+    "ruku": 46,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰمَرۡيَمُ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6887,
+      "word_number_in_surah": 742,
+      "word_surah": 3,
+      "word_translation": "O Maryam!",
+      "word_transliteration": "yamaryamu"
+    },
+    {
+      "word_arabic": "ٱقۡنُتِي",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6888,
+      "word_number_in_surah": 743,
+      "word_surah": 3,
+      "word_translation": "Be obedient",
+      "word_transliteration": "uq'nuti"
+    },
+    {
+      "word_arabic": "لِرَبِّكِ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6889,
+      "word_number_in_surah": 744,
+      "word_surah": 3,
+      "word_translation": "to your Lord",
+      "word_transliteration": "lirabbiki"
+    },
+    {
+      "word_arabic": "وَٱسۡجُدِي",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6890,
+      "word_number_in_surah": 745,
+      "word_surah": 3,
+      "word_translation": "and prostrate",
+      "word_transliteration": "wa-us'judi"
+    },
+    {
+      "word_arabic": "وَٱرۡكَعِي",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6891,
+      "word_number_in_surah": 746,
+      "word_surah": 3,
+      "word_translation": "and bow down",
+      "word_transliteration": "wa-ir'ka'i"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6892,
+      "word_number_in_surah": 747,
+      "word_surah": 3,
+      "word_translation": "with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلرَّٰكِعِينَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6893,
+      "word_number_in_surah": 748,
+      "word_surah": 3,
+      "word_translation": "those who bow down",
+      "word_transliteration": "al-raki'ina"
+    }
+  ],
+  "fullArabic": "يَٰمَرۡيَمُ ٱقۡنُتِي لِرَبِّكِ وَٱسۡجُدِي وَٱرۡكَعِي مَعَ ٱلرَّٰكِعِينَ",
+  "fullTranslation": "O Mary, be devoutly obedient to your Lord and prostrate and bow with those who bow [in prayer].\"",
+  "fullTransliteration": "yamaryamu uq'nuti lirabbiki wa-us'judi wa-ir'ka'i ma'a al-raki'ina"
+}

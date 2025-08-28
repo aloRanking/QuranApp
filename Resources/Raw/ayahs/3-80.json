@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "ayah": 80,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 373,
+    "juz": 3,
+    "manzil": 1,
+    "page": 60,
+    "ruku": 49,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7514,
+      "word_number_in_surah": 1369,
+      "word_surah": 3,
+      "word_translation": "And not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَأۡمُرَكُمۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7515,
+      "word_number_in_surah": 1370,
+      "word_surah": 3,
+      "word_translation": "he will order you",
+      "word_transliteration": "yamurakum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 80,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7516,
+      "word_number_in_surah": 1371,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَتَّخِذُواْ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7517,
+      "word_number_in_surah": 1372,
+      "word_surah": 3,
+      "word_translation": "you take",
+      "word_transliteration": "tattakhidhu"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7518,
+      "word_number_in_surah": 1373,
+      "word_surah": 3,
+      "word_translation": "the Angels",
+      "word_transliteration": "al-malaikata"
+    },
+    {
+      "word_arabic": "وَٱلنَّبِيِّ‍ۧنَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7519,
+      "word_number_in_surah": 1374,
+      "word_surah": 3,
+      "word_translation": "and the Prophets",
+      "word_transliteration": "wal-nabiyina"
+    },
+    {
+      "word_arabic": "أَرۡبَابًاۗ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7520,
+      "word_number_in_surah": 1375,
+      "word_surah": 3,
+      "word_translation": "(as) lords",
+      "word_transliteration": "arbaban"
+    },
+    {
+      "word_arabic": "أَيَأۡمُرُكُم",
+      "word_ayah": 80,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7521,
+      "word_number_in_surah": 1376,
+      "word_surah": 3,
+      "word_translation": "Would he order you",
+      "word_transliteration": "ayamurukum"
+    },
+    {
+      "word_arabic": "بِٱلۡكُفۡرِ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7522,
+      "word_number_in_surah": 1377,
+      "word_surah": 3,
+      "word_translation": "to [the] disbelief",
+      "word_transliteration": "bil-kuf'ri"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7523,
+      "word_number_in_surah": 1378,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 80,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7524,
+      "word_number_in_surah": 1379,
+      "word_surah": 3,
+      "word_translation": "[when]",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "أَنتُم",
+      "word_ayah": 80,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7525,
+      "word_number_in_surah": 1380,
+      "word_surah": 3,
+      "word_translation": "you (have become)",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "مُّسۡلِمُونَ",
+      "word_ayah": 80,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7526,
+      "word_number_in_surah": 1381,
+      "word_surah": 3,
+      "word_translation": "Muslims",
+      "word_transliteration": "mus'limuna"
+    }
+  ],
+  "fullArabic": "وَلَا يَأۡمُرَكُمۡ أَن تَتَّخِذُواْ ٱلۡمَلَٰٓئِكَةَ وَٱلنَّبِيِّ‍ۧنَ أَرۡبَابًاۗ أَيَأۡمُرُكُم بِٱلۡكُفۡرِ بَعۡدَ إِذۡ أَنتُم مُّسۡلِمُونَ",
+  "fullTranslation": "Nor could he order you to take the angels and prophets as lords. Would he order you to disbelief after you had been Muslims?",
+  "fullTransliteration": "wala yamurakum an tattakhidhu al-malaikata wal-nabiyina arbaban ayamurukum bil-kuf'ri ba'da idh antum mus'limuna"
+}

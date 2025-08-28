@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "ayah": 56,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 549,
+    "juz": 5,
+    "manzil": 1,
+    "page": 87,
+    "ruku": 69,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10892,
+      "word_number_in_surah": 1266,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10893,
+      "word_number_in_surah": 1267,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10894,
+      "word_number_in_surah": 1268,
+      "word_surah": 4,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10895,
+      "word_number_in_surah": 1269,
+      "word_surah": 4,
+      "word_translation": "in Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "سَوۡفَ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10896,
+      "word_number_in_surah": 1270,
+      "word_surah": 4,
+      "word_translation": "soon",
+      "word_transliteration": "sawfa"
+    },
+    {
+      "word_arabic": "نُصۡلِيهِمۡ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10897,
+      "word_number_in_surah": 1271,
+      "word_surah": 4,
+      "word_translation": "We will burn them",
+      "word_transliteration": "nus'lihim"
+    },
+    {
+      "word_arabic": "نَارٗا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10898,
+      "word_number_in_surah": 1272,
+      "word_surah": 4,
+      "word_translation": "(in) a Fire",
+      "word_transliteration": "naran"
+    },
+    {
+      "word_arabic": "كُلَّمَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10899,
+      "word_number_in_surah": 1273,
+      "word_surah": 4,
+      "word_translation": "Every time",
+      "word_transliteration": "kullama"
+    },
+    {
+      "word_arabic": "نَضِجَتۡ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10900,
+      "word_number_in_surah": 1274,
+      "word_surah": 4,
+      "word_translation": "are roasted",
+      "word_transliteration": "nadijat"
+    },
+    {
+      "word_arabic": "جُلُودُهُم",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10901,
+      "word_number_in_surah": 1275,
+      "word_surah": 4,
+      "word_translation": "their skins",
+      "word_transliteration": "juluduhum"
+    },
+    {
+      "word_arabic": "بَدَّلۡنَٰهُمۡ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10902,
+      "word_number_in_surah": 1276,
+      "word_surah": 4,
+      "word_translation": "We will change their",
+      "word_transliteration": "baddalnahum"
+    },
+    {
+      "word_arabic": "جُلُودًا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10903,
+      "word_number_in_surah": 1277,
+      "word_surah": 4,
+      "word_translation": "skins",
+      "word_transliteration": "juludan"
+    },
+    {
+      "word_arabic": "غَيۡرَهَا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10904,
+      "word_number_in_surah": 1278,
+      "word_surah": 4,
+      "word_translation": "for other (than) that",
+      "word_transliteration": "ghayraha"
+    },
+    {
+      "word_arabic": "لِيَذُوقُواْ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10905,
+      "word_number_in_surah": 1279,
+      "word_surah": 4,
+      "word_translation": "so that they may taste",
+      "word_transliteration": "liyadhuqu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابَۗ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10906,
+      "word_number_in_surah": 1280,
+      "word_surah": 4,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhaba"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 56,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10907,
+      "word_number_in_surah": 1281,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10908,
+      "word_number_in_surah": 1282,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 10909,
+      "word_number_in_surah": 1283,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَزِيزًا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 10910,
+      "word_number_in_surah": 1284,
+      "word_surah": 4,
+      "word_translation": "All-Mighty",
+      "word_transliteration": "azizan"
+    },
+    {
+      "word_arabic": "حَكِيمٗا",
+      "word_ayah": 56,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 10911,
+      "word_number_in_surah": 1285,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ بِ‍َٔايَٰتِنَا سَوۡفَ نُصۡلِيهِمۡ نَارٗا كُلَّمَا نَضِجَتۡ جُلُودُهُم بَدَّلۡنَٰهُمۡ جُلُودًا غَيۡرَهَا لِيَذُوقُواْ ٱلۡعَذَابَۗ إِنَّ ٱللَّهَ كَانَ عَزِيزًا حَكِيمٗا",
+  "fullTranslation": "Indeed, those who disbelieve in Our verses - We will drive them into a Fire. Every time their skins are roasted through We will replace them with other skins so they may taste the punishment. Indeed, Allah is ever Exalted in Might and Wise.",
+  "fullTransliteration": "inna alladhina kafaru biayatina sawfa nus'lihim naran kullama nadijat juluduhum baddalnahum juludan ghayraha liyadhuqu al-'adhaba inna al-laha kana azizan hakiman"
+}

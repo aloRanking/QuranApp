@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 82,
+    "surah": 6,
+    "words": 11,
+    "numberInQuran": 871,
+    "juz": 7,
+    "manzil": 2,
+    "page": 138,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17554,
+      "word_number_in_surah": 1377,
+      "word_surah": 6,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17555,
+      "word_number_in_surah": 1378,
+      "word_surah": 6,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَلَمۡ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17556,
+      "word_number_in_surah": 1379,
+      "word_surah": 6,
+      "word_translation": "and (did) not",
+      "word_transliteration": "walam"
+    },
+    {
+      "word_arabic": "يَلۡبِسُوٓاْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17557,
+      "word_number_in_surah": 1380,
+      "word_surah": 6,
+      "word_translation": "mix",
+      "word_transliteration": "yalbisu"
+    },
+    {
+      "word_arabic": "إِيمَٰنَهُم",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17558,
+      "word_number_in_surah": 1381,
+      "word_surah": 6,
+      "word_translation": "their belief",
+      "word_transliteration": "imanahum"
+    },
+    {
+      "word_arabic": "بِظُلۡمٍ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17559,
+      "word_number_in_surah": 1382,
+      "word_surah": 6,
+      "word_translation": "with wrong",
+      "word_transliteration": "bizul'min"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17560,
+      "word_number_in_surah": 1383,
+      "word_surah": 6,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17561,
+      "word_number_in_surah": 1384,
+      "word_surah": 6,
+      "word_translation": "for them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡنُ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17562,
+      "word_number_in_surah": 1385,
+      "word_surah": 6,
+      "word_translation": "(is) the security",
+      "word_transliteration": "al-amnu"
+    },
+    {
+      "word_arabic": "وَهُم",
+      "word_ayah": 82,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17563,
+      "word_number_in_surah": 1386,
+      "word_surah": 6,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "مُّهۡتَدُونَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17564,
+      "word_number_in_surah": 1387,
+      "word_surah": 6,
+      "word_translation": "(are) rightly guided",
+      "word_transliteration": "muh'taduna"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ ءَامَنُواْ وَلَمۡ يَلۡبِسُوٓاْ إِيمَٰنَهُم بِظُلۡمٍ أُوْلَٰٓئِكَ لَهُمُ ٱلۡأَمۡنُ وَهُم مُّهۡتَدُونَ",
+  "fullTranslation": "They who believe and do not mix their belief with injustice - those will have security, and they are [rightly] guided.",
+  "fullTransliteration": "alladhina amanu walam yalbisu imanahum bizul'min ulaika lahumu al-amnu wahum muh'taduna"
+}

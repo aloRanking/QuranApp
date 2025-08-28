@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "ayah": 87,
+    "surah": 5,
+    "words": 17,
+    "numberInQuran": 756,
+    "juz": 7,
+    "manzil": 2,
+    "page": 122,
+    "ruku": 97,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15395,
+      "word_number_in_surah": 2022,
+      "word_surah": 5,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15396,
+      "word_number_in_surah": 2023,
+      "word_surah": 5,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15397,
+      "word_number_in_surah": 2024,
+      "word_surah": 5,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15398,
+      "word_number_in_surah": 2025,
+      "word_surah": 5,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُحَرِّمُواْ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15399,
+      "word_number_in_surah": 2026,
+      "word_surah": 5,
+      "word_translation": "make unlawful",
+      "word_transliteration": "tuharrimu"
+    },
+    {
+      "word_arabic": "طَيِّبَٰتِ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15400,
+      "word_number_in_surah": 2027,
+      "word_surah": 5,
+      "word_translation": "(the) good things",
+      "word_transliteration": "tayyibati"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15401,
+      "word_number_in_surah": 2028,
+      "word_surah": 5,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَحَلَّ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15402,
+      "word_number_in_surah": 2029,
+      "word_surah": 5,
+      "word_translation": "has (been) made lawful",
+      "word_transliteration": "ahalla"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15403,
+      "word_number_in_surah": 2030,
+      "word_surah": 5,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15404,
+      "word_number_in_surah": 2031,
+      "word_surah": 5,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15405,
+      "word_number_in_surah": 2032,
+      "word_surah": 5,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَعۡتَدُوٓاْۚ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15406,
+      "word_number_in_surah": 2033,
+      "word_surah": 5,
+      "word_translation": "transgress",
+      "word_transliteration": "ta'tadu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 87,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15407,
+      "word_number_in_surah": 2034,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15408,
+      "word_number_in_surah": 2035,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15409,
+      "word_number_in_surah": 2036,
+      "word_surah": 5,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15410,
+      "word_number_in_surah": 2037,
+      "word_surah": 5,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡمُعۡتَدِينَ",
+      "word_ayah": 87,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15411,
+      "word_number_in_surah": 2038,
+      "word_surah": 5,
+      "word_translation": "the transgressors",
+      "word_transliteration": "al-mu'tadina"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحَرِّمُواْ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "fullTranslation": "O you who have believed, do not prohibit the good things which Allah has made lawful to you and do not transgress. Indeed, Allah does not like transgressors.",
+  "fullTransliteration": "yaayyuha alladhina amanu la tuharrimu tayyibati ma ahalla al-lahu lakum wala ta'tadu inna al-laha la yuhibbu al-mu'tadina"
+}

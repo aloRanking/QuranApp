@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ayah": 143,
+    "surah": 3,
+    "words": 12,
+    "numberInQuran": 436,
+    "juz": 4,
+    "manzil": 1,
+    "page": 68,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8485,
+      "word_number_in_surah": 2340,
+      "word_surah": 3,
+      "word_translation": "And certainly",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8486,
+      "word_number_in_surah": 2341,
+      "word_surah": 3,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَمَنَّوۡنَ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8487,
+      "word_number_in_surah": 2342,
+      "word_surah": 3,
+      "word_translation": "wish",
+      "word_transliteration": "tamannawna"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتَ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8488,
+      "word_number_in_surah": 2343,
+      "word_surah": 3,
+      "word_translation": "(for) death",
+      "word_transliteration": "al-mawta"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 143,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8489,
+      "word_number_in_surah": 2344,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8490,
+      "word_number_in_surah": 2345,
+      "word_surah": 3,
+      "word_translation": "before",
+      "word_transliteration": "qabli"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 143,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8491,
+      "word_number_in_surah": 2346,
+      "word_surah": 3,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَلۡقَوۡهُ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8492,
+      "word_number_in_surah": 2347,
+      "word_surah": 3,
+      "word_translation": "you met it",
+      "word_transliteration": "talqawhu"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8493,
+      "word_number_in_surah": 2348,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "رَأَيۡتُمُوهُ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8494,
+      "word_number_in_surah": 2349,
+      "word_surah": 3,
+      "word_translation": "you have seen it",
+      "word_transliteration": "ra-aytumuhu"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 143,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8495,
+      "word_number_in_surah": 2350,
+      "word_surah": 3,
+      "word_translation": "while you (were)",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَنظُرُونَ",
+      "word_ayah": 143,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8496,
+      "word_number_in_surah": 2351,
+      "word_surah": 3,
+      "word_translation": "looking on",
+      "word_transliteration": "tanzuruna"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ كُنتُمۡ تَمَنَّوۡنَ ٱلۡمَوۡتَ مِن قَبۡلِ أَن تَلۡقَوۡهُ فَقَدۡ رَأَيۡتُمُوهُ وَأَنتُمۡ تَنظُرُونَ",
+  "fullTranslation": "And you had certainly wished for martyrdom before you encountered it, and you have [now] seen it [before you] while you were looking on.",
+  "fullTransliteration": "walaqad kuntum tamannawna al-mawta min qabli an talqawhu faqad ra-aytumuhu wa-antum tanzuruna"
+}

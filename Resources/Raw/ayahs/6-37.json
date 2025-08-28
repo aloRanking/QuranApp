@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "ayah": 37,
+    "surah": 6,
+    "words": 19,
+    "numberInQuran": 826,
+    "juz": 7,
+    "manzil": 2,
+    "page": 132,
+    "ruku": 105,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16747,
+      "word_number_in_surah": 570,
+      "word_surah": 6,
+      "word_translation": "And they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "لَوۡلَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16748,
+      "word_number_in_surah": 571,
+      "word_surah": 6,
+      "word_translation": "Why (is) not",
+      "word_transliteration": "lawla"
+    },
+    {
+      "word_arabic": "نُزِّلَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16749,
+      "word_number_in_surah": 572,
+      "word_surah": 6,
+      "word_translation": "sent down",
+      "word_transliteration": "nuzzila"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16750,
+      "word_number_in_surah": 573,
+      "word_surah": 6,
+      "word_translation": "to him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "ءَايَةٞ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16751,
+      "word_number_in_surah": 574,
+      "word_surah": 6,
+      "word_translation": "a Sign",
+      "word_transliteration": "ayatun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 37,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16752,
+      "word_number_in_surah": 575,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّهِۦۚ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16753,
+      "word_number_in_surah": 576,
+      "word_surah": 6,
+      "word_translation": "his Lord",
+      "word_transliteration": "rabbihi"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16754,
+      "word_number_in_surah": 577,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16755,
+      "word_number_in_surah": 578,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16756,
+      "word_number_in_surah": 579,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "قَادِرٌ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16757,
+      "word_number_in_surah": 580,
+      "word_surah": 6,
+      "word_translation": "(is) Able",
+      "word_transliteration": "qadirun"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16758,
+      "word_number_in_surah": 581,
+      "word_surah": 6,
+      "word_translation": "[on]",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 37,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16759,
+      "word_number_in_surah": 582,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُنَزِّلَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16760,
+      "word_number_in_surah": 583,
+      "word_surah": 6,
+      "word_translation": "send down",
+      "word_transliteration": "yunazzila"
+    },
+    {
+      "word_arabic": "ءَايَةٗ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16761,
+      "word_number_in_surah": 584,
+      "word_surah": 6,
+      "word_translation": "a Sign",
+      "word_transliteration": "ayatan"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16762,
+      "word_number_in_surah": 585,
+      "word_surah": 6,
+      "word_translation": "but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "أَكۡثَرَهُمۡ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16763,
+      "word_number_in_surah": 586,
+      "word_surah": 6,
+      "word_translation": "most of them",
+      "word_transliteration": "aktharahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16764,
+      "word_number_in_surah": 587,
+      "word_surah": 6,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16765,
+      "word_number_in_surah": 588,
+      "word_surah": 6,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "وَقَالُواْ لَوۡلَا نُزِّلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةٗ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "fullTranslation": "And they say, \"Why has a sign not been sent down to him from his Lord?\" Say, \"Indeed, Allah is Able to send down a sign, but most of them do not know.\"",
+  "fullTransliteration": "waqalu lawla nuzzila alayhi ayatun min rabbihi qul inna al-laha qadirun ala an yunazzila ayatan walakinna aktharahum la ya'lamuna"
+}

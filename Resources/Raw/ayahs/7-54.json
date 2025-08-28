@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "ayah": 54,
+    "surah": 7,
+    "words": 32,
+    "numberInQuran": 1008,
+    "juz": 8,
+    "manzil": 2,
+    "page": 157,
+    "ruku": 128,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20088,
+      "word_number_in_surah": 861,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَبَّكُمُ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20089,
+      "word_number_in_surah": 862,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbakumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20090,
+      "word_number_in_surah": 863,
+      "word_surah": 7,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20091,
+      "word_number_in_surah": 864,
+      "word_surah": 7,
+      "word_translation": "the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "خَلَقَ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20092,
+      "word_number_in_surah": 865,
+      "word_surah": 7,
+      "word_translation": "created",
+      "word_transliteration": "khalaqa"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20093,
+      "word_number_in_surah": 866,
+      "word_surah": 7,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20094,
+      "word_number_in_surah": 867,
+      "word_surah": 7,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-arda"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20095,
+      "word_number_in_surah": 868,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سِتَّةِ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20096,
+      "word_number_in_surah": 869,
+      "word_surah": 7,
+      "word_translation": "six",
+      "word_transliteration": "sittati"
+    },
+    {
+      "word_arabic": "أَيَّامٖ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20097,
+      "word_number_in_surah": 870,
+      "word_surah": 7,
+      "word_translation": "epochs",
+      "word_transliteration": "ayyamin"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20098,
+      "word_number_in_surah": 871,
+      "word_surah": 7,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ٱسۡتَوَىٰ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20099,
+      "word_number_in_surah": 872,
+      "word_surah": 7,
+      "word_translation": "He ascended",
+      "word_transliteration": "is'tawa"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20100,
+      "word_number_in_surah": 873,
+      "word_surah": 7,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡعَرۡشِۖ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20101,
+      "word_number_in_surah": 874,
+      "word_surah": 7,
+      "word_translation": "the Throne",
+      "word_transliteration": "al-'arshi"
+    },
+    {
+      "word_arabic": "يُغۡشِي",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20102,
+      "word_number_in_surah": 875,
+      "word_surah": 7,
+      "word_translation": "He covers",
+      "word_transliteration": "yugh'shi"
+    },
+    {
+      "word_arabic": "ٱلَّيۡلَ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20103,
+      "word_number_in_surah": 876,
+      "word_surah": 7,
+      "word_translation": "the night",
+      "word_transliteration": "al-layla"
+    },
+    {
+      "word_arabic": "ٱلنَّهَارَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20104,
+      "word_number_in_surah": 877,
+      "word_surah": 7,
+      "word_translation": "(with) the day",
+      "word_transliteration": "al-nahara"
+    },
+    {
+      "word_arabic": "يَطۡلُبُهُۥ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20105,
+      "word_number_in_surah": 878,
+      "word_surah": 7,
+      "word_translation": "seeking it",
+      "word_transliteration": "yatlubuhu"
+    },
+    {
+      "word_arabic": "حَثِيثٗا",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 20106,
+      "word_number_in_surah": 879,
+      "word_surah": 7,
+      "word_translation": "rapidly",
+      "word_transliteration": "hathithan"
+    },
+    {
+      "word_arabic": "وَٱلشَّمۡسَ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 20107,
+      "word_number_in_surah": 880,
+      "word_surah": 7,
+      "word_translation": "and the sun",
+      "word_transliteration": "wal-shamsa"
+    },
+    {
+      "word_arabic": "وَٱلۡقَمَرَ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 20108,
+      "word_number_in_surah": 881,
+      "word_surah": 7,
+      "word_translation": "and the moon",
+      "word_transliteration": "wal-qamara"
+    },
+    {
+      "word_arabic": "وَٱلنُّجُومَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 20109,
+      "word_number_in_surah": 882,
+      "word_surah": 7,
+      "word_translation": "and the stars",
+      "word_transliteration": "wal-nujuma"
+    },
+    {
+      "word_arabic": "مُسَخَّرَٰتِۢ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 20110,
+      "word_number_in_surah": 883,
+      "word_surah": 7,
+      "word_translation": "subjected",
+      "word_transliteration": "musakharatin"
+    },
+    {
+      "word_arabic": "بِأَمۡرِهِۦٓۗ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 20111,
+      "word_number_in_surah": 884,
+      "word_surah": 7,
+      "word_translation": "by His command",
+      "word_transliteration": "bi-amrihi"
+    },
+    {
+      "word_arabic": "أَلَا",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 20112,
+      "word_number_in_surah": 885,
+      "word_surah": 7,
+      "word_translation": "Unquestionably",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "لَهُ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 20113,
+      "word_number_in_surah": 886,
+      "word_surah": 7,
+      "word_translation": "for Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "ٱلۡخَلۡقُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 20114,
+      "word_number_in_surah": 887,
+      "word_surah": 7,
+      "word_translation": "(is) the creation",
+      "word_transliteration": "al-khalqu"
+    },
+    {
+      "word_arabic": "وَٱلۡأَمۡرُۗ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 20115,
+      "word_number_in_surah": 888,
+      "word_surah": 7,
+      "word_translation": "and the command",
+      "word_transliteration": "wal-amru"
+    },
+    {
+      "word_arabic": "تَبَارَكَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 20116,
+      "word_number_in_surah": 889,
+      "word_surah": 7,
+      "word_translation": "blessed",
+      "word_transliteration": "tabaraka"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 20117,
+      "word_number_in_surah": 890,
+      "word_surah": 7,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "رَبُّ",
+      "word_ayah": 54,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 20118,
+      "word_number_in_surah": 891,
+      "word_surah": 7,
+      "word_translation": "Lord",
+      "word_transliteration": "rabbu"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 54,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 20119,
+      "word_number_in_surah": 892,
+      "word_surah": 7,
+      "word_translation": "(of) the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَ يَطۡلُبُهُۥ حَثِيثٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتِۢ بِأَمۡرِهِۦٓۗ أَلَا لَهُ ٱلۡخَلۡقُ وَٱلۡأَمۡرُۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds.",
+  "fullTransliteration": "inna rabbakumu al-lahu alladhi khalaqa al-samawati wal-arda fi sittati ayyamin thumma is'tawa ala al-'arshi yugh'shi al-layla al-nahara yatlubuhu hathithan wal-shamsa wal-qamara wal-nujuma musakharatin bi-amrihi ala lahu al-khalqu wal-amru tabaraka al-lahu rabbu al-'alamina"
+}

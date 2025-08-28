@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "ayah": 30,
+    "surah": 8,
+    "words": 16,
+    "numberInQuran": 1190,
+    "juz": 9,
+    "manzil": 2,
+    "page": 180,
+    "ruku": 149,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22959,
+      "word_number_in_surah": 412,
+      "word_surah": 8,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "يَمۡكُرُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22960,
+      "word_number_in_surah": 413,
+      "word_surah": 8,
+      "word_translation": "plotted",
+      "word_transliteration": "yamkuru"
+    },
+    {
+      "word_arabic": "بِكَ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22961,
+      "word_number_in_surah": 414,
+      "word_surah": 8,
+      "word_translation": "against you",
+      "word_transliteration": "bika"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22962,
+      "word_number_in_surah": 415,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22963,
+      "word_number_in_surah": 416,
+      "word_surah": 8,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "لِيُثۡبِتُوكَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22964,
+      "word_number_in_surah": 417,
+      "word_surah": 8,
+      "word_translation": "that they restrain you",
+      "word_transliteration": "liyuth'bituka"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22965,
+      "word_number_in_surah": 418,
+      "word_surah": 8,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَقۡتُلُوكَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22966,
+      "word_number_in_surah": 419,
+      "word_surah": 8,
+      "word_translation": "kill you",
+      "word_transliteration": "yaqtuluka"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22967,
+      "word_number_in_surah": 420,
+      "word_surah": 8,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يُخۡرِجُوكَۚ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22968,
+      "word_number_in_surah": 421,
+      "word_surah": 8,
+      "word_translation": "drive you out",
+      "word_transliteration": "yukh'rijuka"
+    },
+    {
+      "word_arabic": "وَيَمۡكُرُونَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22969,
+      "word_number_in_surah": 422,
+      "word_surah": 8,
+      "word_translation": "And they were planning",
+      "word_transliteration": "wayamkuruna"
+    },
+    {
+      "word_arabic": "وَيَمۡكُرُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22970,
+      "word_number_in_surah": 423,
+      "word_surah": 8,
+      "word_translation": "and (also) was planning",
+      "word_transliteration": "wayamkuru"
+    },
+    {
+      "word_arabic": "ٱللَّهُۖ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22971,
+      "word_number_in_surah": 424,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22972,
+      "word_number_in_surah": 425,
+      "word_surah": 8,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "خَيۡرُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22973,
+      "word_number_in_surah": 426,
+      "word_surah": 8,
+      "word_translation": "is (the) Best",
+      "word_transliteration": "khayru"
+    },
+    {
+      "word_arabic": "ٱلۡمَٰكِرِينَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22974,
+      "word_number_in_surah": 427,
+      "word_surah": 8,
+      "word_translation": "(of) the Planners",
+      "word_transliteration": "al-makirina"
+    }
+  ],
+  "fullArabic": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "fullTranslation": "And [remember, O Muhammad], when those who disbelieved plotted against you to restrain you or kill you or evict you [from Makkah]. But they plan, and Allah plans. And Allah is the best of planners.",
+  "fullTransliteration": "wa-idh yamkuru bika alladhina kafaru liyuth'bituka aw yaqtuluka aw yukh'rijuka wayamkuruna wayamkuru al-lahu wal-lahu khayru al-makirina"
+}

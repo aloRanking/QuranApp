@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 106,
+    "surah": 3,
+    "words": 17,
+    "numberInQuran": 399,
+    "juz": 4,
+    "manzil": 1,
+    "page": 63,
+    "ruku": 52,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7940,
+      "word_number_in_surah": 1795,
+      "word_surah": 3,
+      "word_translation": "(On the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "تَبۡيَضُّ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7941,
+      "word_number_in_surah": 1796,
+      "word_surah": 3,
+      "word_translation": "would become white",
+      "word_transliteration": "tabyaddu"
+    },
+    {
+      "word_arabic": "وُجُوهٞ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7942,
+      "word_number_in_surah": 1797,
+      "word_surah": 3,
+      "word_translation": "(some) faces",
+      "word_transliteration": "wujuhun"
+    },
+    {
+      "word_arabic": "وَتَسۡوَدُّ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7943,
+      "word_number_in_surah": 1798,
+      "word_surah": 3,
+      "word_translation": "and would become black",
+      "word_transliteration": "wataswaddu"
+    },
+    {
+      "word_arabic": "وُجُوهٞۚ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7944,
+      "word_number_in_surah": 1799,
+      "word_surah": 3,
+      "word_translation": "(some) faces",
+      "word_transliteration": "wujuhun"
+    },
+    {
+      "word_arabic": "فَأَمَّا",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7945,
+      "word_number_in_surah": 1800,
+      "word_surah": 3,
+      "word_translation": "As for",
+      "word_transliteration": "fa-amma"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7946,
+      "word_number_in_surah": 1801,
+      "word_surah": 3,
+      "word_translation": "those whose",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ٱسۡوَدَّتۡ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7947,
+      "word_number_in_surah": 1802,
+      "word_surah": 3,
+      "word_translation": "turn black",
+      "word_transliteration": "is'waddat"
+    },
+    {
+      "word_arabic": "وُجُوهُهُمۡ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7948,
+      "word_number_in_surah": 1803,
+      "word_surah": 3,
+      "word_translation": "[their] faces",
+      "word_transliteration": "wujuhuhum"
+    },
+    {
+      "word_arabic": "أَكَفَرۡتُم",
+      "word_ayah": 106,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7949,
+      "word_number_in_surah": 1804,
+      "word_surah": 3,
+      "word_translation": "Did you disbelieve",
+      "word_transliteration": "akafartum"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7950,
+      "word_number_in_surah": 1805,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "إِيمَٰنِكُمۡ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7951,
+      "word_number_in_surah": 1806,
+      "word_surah": 3,
+      "word_translation": "your belief",
+      "word_transliteration": "imanikum"
+    },
+    {
+      "word_arabic": "فَذُوقُواْ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7952,
+      "word_number_in_surah": 1807,
+      "word_surah": 3,
+      "word_translation": "Then taste",
+      "word_transliteration": "fadhuqu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7953,
+      "word_number_in_surah": 1808,
+      "word_surah": 3,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhaba"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7954,
+      "word_number_in_surah": 1809,
+      "word_surah": 3,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 106,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7955,
+      "word_number_in_surah": 1810,
+      "word_surah": 3,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونَ",
+      "word_ayah": 106,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7956,
+      "word_number_in_surah": 1811,
+      "word_surah": 3,
+      "word_translation": "disbelieve",
+      "word_transliteration": "takfuruna"
+    }
+  ],
+  "fullArabic": "يَوۡمَ تَبۡيَضُّ وُجُوهٞ وَتَسۡوَدُّ وُجُوهٞۚ فَأَمَّا ٱلَّذِينَ ٱسۡوَدَّتۡ وُجُوهُهُمۡ أَكَفَرۡتُم بَعۡدَ إِيمَٰنِكُمۡ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+  "fullTranslation": "On the Day [some] faces will turn white and [some] faces will turn black. As for those whose faces turn black, [to them it will be said], \"Did you disbelieve after your belief? Then taste the punishment for what you used to reject.\"",
+  "fullTransliteration": "yawma tabyaddu wujuhun wataswaddu wujuhun fa-amma alladhina is'waddat wujuhuhum akafartum ba'da imanikum fadhuqu al-'adhaba bima kuntum takfuruna"
+}

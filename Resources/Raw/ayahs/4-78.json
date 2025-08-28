@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "ayah": 78,
+    "surah": 4,
+    "words": 36,
+    "numberInQuran": 571,
+    "juz": 5,
+    "manzil": 1,
+    "page": 90,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَيۡنَمَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11330,
+      "word_number_in_surah": 1704,
+      "word_surah": 4,
+      "word_translation": "Wherever",
+      "word_transliteration": "aynama"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11331,
+      "word_number_in_surah": 1705,
+      "word_surah": 4,
+      "word_translation": "you be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "يُدۡرِككُّمُ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11332,
+      "word_number_in_surah": 1706,
+      "word_surah": 4,
+      "word_translation": "will overtake you",
+      "word_transliteration": "yud'rikkumu"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتُ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11333,
+      "word_number_in_surah": 1707,
+      "word_surah": 4,
+      "word_translation": "[the] death",
+      "word_transliteration": "al-mawtu"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11334,
+      "word_number_in_surah": 1708,
+      "word_surah": 4,
+      "word_translation": "even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11335,
+      "word_number_in_surah": 1709,
+      "word_surah": 4,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11336,
+      "word_number_in_surah": 1710,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "بُرُوجٖ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11337,
+      "word_number_in_surah": 1711,
+      "word_surah": 4,
+      "word_translation": "towers",
+      "word_transliteration": "burujin"
+    },
+    {
+      "word_arabic": "مُّشَيَّدَةٖۗ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11338,
+      "word_number_in_surah": 1712,
+      "word_surah": 4,
+      "word_translation": "lofty",
+      "word_transliteration": "mushayyadatin"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 78,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11339,
+      "word_number_in_surah": 1713,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تُصِبۡهُمۡ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11340,
+      "word_number_in_surah": 1714,
+      "word_surah": 4,
+      "word_translation": "befalls them",
+      "word_transliteration": "tusib'hum"
+    },
+    {
+      "word_arabic": "حَسَنَةٞ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11341,
+      "word_number_in_surah": 1715,
+      "word_surah": 4,
+      "word_translation": "any good",
+      "word_transliteration": "hasanatun"
+    },
+    {
+      "word_arabic": "يَقُولُواْ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11342,
+      "word_number_in_surah": 1716,
+      "word_surah": 4,
+      "word_translation": "they say",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "هَٰذِهِۦ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11343,
+      "word_number_in_surah": 1717,
+      "word_surah": 4,
+      "word_translation": "This",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11344,
+      "word_number_in_surah": 1718,
+      "word_surah": 4,
+      "word_translation": "(is)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11345,
+      "word_number_in_surah": 1719,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11346,
+      "word_number_in_surah": 1720,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 78,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11347,
+      "word_number_in_surah": 1721,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تُصِبۡهُمۡ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11348,
+      "word_number_in_surah": 1722,
+      "word_surah": 4,
+      "word_translation": "befalls them",
+      "word_transliteration": "tusib'hum"
+    },
+    {
+      "word_arabic": "سَيِّئَةٞ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11349,
+      "word_number_in_surah": 1723,
+      "word_surah": 4,
+      "word_translation": "any evil",
+      "word_transliteration": "sayyi-atun"
+    },
+    {
+      "word_arabic": "يَقُولُواْ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11350,
+      "word_number_in_surah": 1724,
+      "word_surah": 4,
+      "word_translation": "they say",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "هَٰذِهِۦ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11351,
+      "word_number_in_surah": 1725,
+      "word_surah": 4,
+      "word_translation": "This",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11352,
+      "word_number_in_surah": 1726,
+      "word_surah": 4,
+      "word_translation": "(is) from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِكَۚ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11353,
+      "word_number_in_surah": 1727,
+      "word_surah": 4,
+      "word_translation": "you",
+      "word_transliteration": "indika"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11354,
+      "word_number_in_surah": 1728,
+      "word_surah": 4,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "كُلّٞ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11355,
+      "word_number_in_surah": 1729,
+      "word_surah": 4,
+      "word_translation": "All",
+      "word_transliteration": "kullun"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11356,
+      "word_number_in_surah": 1730,
+      "word_surah": 4,
+      "word_translation": "(is)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 11357,
+      "word_number_in_surah": 1731,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 11358,
+      "word_number_in_surah": 1732,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَمَالِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 11359,
+      "word_number_in_surah": 1733,
+      "word_surah": 4,
+      "word_translation": "So what (is wrong)",
+      "word_transliteration": "famali"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 11360,
+      "word_number_in_surah": 1734,
+      "word_surah": 4,
+      "word_translation": "(with) these",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 11361,
+      "word_number_in_surah": 1735,
+      "word_surah": 4,
+      "word_translation": "[the] people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 11362,
+      "word_number_in_surah": 1736,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَكَادُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 11363,
+      "word_number_in_surah": 1737,
+      "word_surah": 4,
+      "word_translation": "do they seem",
+      "word_transliteration": "yakaduna"
+    },
+    {
+      "word_arabic": "يَفۡقَهُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 11364,
+      "word_number_in_surah": 1738,
+      "word_surah": 4,
+      "word_translation": "(to) understand",
+      "word_transliteration": "yafqahuna"
+    },
+    {
+      "word_arabic": "حَدِيثٗا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 11365,
+      "word_number_in_surah": 1739,
+      "word_surah": 4,
+      "word_translation": "any statement",
+      "word_transliteration": "hadithan"
+    }
+  ],
+  "fullArabic": "أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجٖ مُّشَيَّدَةٖۗ وَإِن تُصِبۡهُمۡ حَسَنَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ وَإِن تُصِبۡهُمۡ سَيِّئَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلّٞ مِّنۡ عِندِ ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثٗا",
+  "fullTranslation": "Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, \"This is from Allah \"; and if evil befalls them, they say, \"This is from you.\" Say, \"All [things] are from Allah.\" So what is [the matter] with those people that they can hardly understand any statement?",
+  "fullTransliteration": "aynama takunu yud'rikkumu al-mawtu walaw kuntum fi burujin mushayyadatin wa-in tusib'hum hasanatun yaqulu hadhihi min indi al-lahi wa-in tusib'hum sayyi-atun yaqulu hadhihi min indika qul kullun min indi al-lahi famali haulai al-qawmi la yakaduna yafqahuna hadithan"
+}

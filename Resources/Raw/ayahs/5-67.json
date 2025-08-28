@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "ayah": 67,
+    "surah": 5,
+    "words": 24,
+    "numberInQuran": 736,
+    "juz": 6,
+    "manzil": 2,
+    "page": 119,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞يَٰٓأَيُّهَا",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15008,
+      "word_number_in_surah": 1635,
+      "word_surah": 5,
+      "word_translation": "O",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولُ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15009,
+      "word_number_in_surah": 1636,
+      "word_surah": 5,
+      "word_translation": "Messenger",
+      "word_transliteration": "al-rasulu"
+    },
+    {
+      "word_arabic": "بَلِّغۡ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15010,
+      "word_number_in_surah": 1637,
+      "word_surah": 5,
+      "word_translation": "Convey",
+      "word_transliteration": "balligh"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15011,
+      "word_number_in_surah": 1638,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15012,
+      "word_number_in_surah": 1639,
+      "word_surah": 5,
+      "word_translation": "has been revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15013,
+      "word_number_in_surah": 1640,
+      "word_surah": 5,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 67,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15014,
+      "word_number_in_surah": 1641,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكَۖ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15015,
+      "word_number_in_surah": 1642,
+      "word_surah": 5,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 67,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15016,
+      "word_number_in_surah": 1643,
+      "word_surah": 5,
+      "word_translation": "and if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15017,
+      "word_number_in_surah": 1644,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "تَفۡعَلۡ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15018,
+      "word_number_in_surah": 1645,
+      "word_surah": 5,
+      "word_translation": "you do",
+      "word_transliteration": "taf 'al"
+    },
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15019,
+      "word_number_in_surah": 1646,
+      "word_surah": 5,
+      "word_translation": "then not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "بَلَّغۡتَ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15020,
+      "word_number_in_surah": 1647,
+      "word_surah": 5,
+      "word_translation": "you (have) conveyed",
+      "word_transliteration": "ballaghta"
+    },
+    {
+      "word_arabic": "رِسَالَتَهُۥۚ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15021,
+      "word_number_in_surah": 1648,
+      "word_surah": 5,
+      "word_translation": "His Message",
+      "word_transliteration": "risalatahu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15022,
+      "word_number_in_surah": 1649,
+      "word_surah": 5,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَعۡصِمُكَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15023,
+      "word_number_in_surah": 1650,
+      "word_surah": 5,
+      "word_translation": "will protect you",
+      "word_transliteration": "ya'simuka"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15024,
+      "word_number_in_surah": 1651,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِۗ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15025,
+      "word_number_in_surah": 1652,
+      "word_surah": 5,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15026,
+      "word_number_in_surah": 1653,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15027,
+      "word_number_in_surah": 1654,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15028,
+      "word_number_in_surah": 1655,
+      "word_surah": 5,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَهۡدِي",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15029,
+      "word_number_in_surah": 1656,
+      "word_surah": 5,
+      "word_translation": "guide",
+      "word_transliteration": "yahdi"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15030,
+      "word_number_in_surah": 1657,
+      "word_surah": 5,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawma"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15031,
+      "word_number_in_surah": 1658,
+      "word_surah": 5,
+      "word_translation": "the disbelieving",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "۞يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغۡ مَآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَۖ وَإِن لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ رِسَالَتَهُۥۚ وَٱللَّهُ يَعۡصِمُكَ مِنَ ٱلنَّاسِۗ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allah will protect you from the people. Indeed, Allah does not guide the disbelieving people.",
+  "fullTransliteration": "yaayyuha al-rasulu balligh ma unzila ilayka min rabbika wa-in lam taf 'al fama ballaghta risalatahu wal-lahu ya'simuka mina al-nasi inna al-laha la yahdi al-qawma al-kafirina"
+}

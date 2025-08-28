@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 100,
+    "surah": 6,
+    "words": 15,
+    "numberInQuran": 889,
+    "juz": 7,
+    "manzil": 2,
+    "page": 140,
+    "ruku": 113,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَجَعَلُواْ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17919,
+      "word_number_in_surah": 1742,
+      "word_surah": 6,
+      "word_translation": "And they make",
+      "word_transliteration": "waja'alu"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17920,
+      "word_number_in_surah": 1743,
+      "word_surah": 6,
+      "word_translation": "with Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "شُرَكَآءَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17921,
+      "word_number_in_surah": 1744,
+      "word_surah": 6,
+      "word_translation": "partners",
+      "word_transliteration": "shurakaa"
+    },
+    {
+      "word_arabic": "ٱلۡجِنَّ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17922,
+      "word_number_in_surah": 1745,
+      "word_surah": 6,
+      "word_translation": "jinn",
+      "word_transliteration": "al-jina"
+    },
+    {
+      "word_arabic": "وَخَلَقَهُمۡۖ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17923,
+      "word_number_in_surah": 1746,
+      "word_surah": 6,
+      "word_translation": "though He has created them",
+      "word_transliteration": "wakhalaqahum"
+    },
+    {
+      "word_arabic": "وَخَرَقُواْ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17924,
+      "word_number_in_surah": 1747,
+      "word_surah": 6,
+      "word_translation": "and they falsely attribute",
+      "word_transliteration": "wakharaqu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17925,
+      "word_number_in_surah": 1748,
+      "word_surah": 6,
+      "word_translation": "to Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "بَنِينَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17926,
+      "word_number_in_surah": 1749,
+      "word_surah": 6,
+      "word_translation": "sons",
+      "word_transliteration": "banina"
+    },
+    {
+      "word_arabic": "وَبَنَٰتِۢ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17927,
+      "word_number_in_surah": 1750,
+      "word_surah": 6,
+      "word_translation": "and daughters",
+      "word_transliteration": "wabanatin"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17928,
+      "word_number_in_surah": 1751,
+      "word_surah": 6,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "عِلۡمٖۚ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17929,
+      "word_number_in_surah": 1752,
+      "word_surah": 6,
+      "word_translation": "knowledge",
+      "word_transliteration": "il'min"
+    },
+    {
+      "word_arabic": "سُبۡحَٰنَهُۥ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17930,
+      "word_number_in_surah": 1753,
+      "word_surah": 6,
+      "word_translation": "Glorified is He",
+      "word_transliteration": "sub'hanahu"
+    },
+    {
+      "word_arabic": "وَتَعَٰلَىٰ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17931,
+      "word_number_in_surah": 1754,
+      "word_surah": 6,
+      "word_translation": "and Exalted",
+      "word_transliteration": "wata'ala"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17932,
+      "word_number_in_surah": 1755,
+      "word_surah": 6,
+      "word_translation": "above what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "يَصِفُونَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17933,
+      "word_number_in_surah": 1756,
+      "word_surah": 6,
+      "word_translation": "they attribute",
+      "word_transliteration": "yasifuna"
+    }
+  ],
+  "fullArabic": "وَجَعَلُواْ لِلَّهِ شُرَكَآءَ ٱلۡجِنَّ وَخَلَقَهُمۡۖ وَخَرَقُواْ لَهُۥ بَنِينَ وَبَنَٰتِۢ بِغَيۡرِ عِلۡمٖۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَصِفُونَ",
+  "fullTranslation": "But they have attributed to Allah partners - the jinn, while He has created them - and have fabricated for Him sons and daughters. Exalted is He and high above what they describe",
+  "fullTransliteration": "waja'alu lillahi shurakaa al-jina wakhalaqahum wakharaqu lahu banina wabanatin bighayri il'min sub'hanahu wata'ala amma yasifuna"
+}

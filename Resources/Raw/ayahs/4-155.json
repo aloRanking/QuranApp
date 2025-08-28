@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "ayah": 155,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 648,
+    "juz": 6,
+    "manzil": 1,
+    "page": 103,
+    "ruku": 83,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَبِمَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12939,
+      "word_number_in_surah": 3313,
+      "word_surah": 4,
+      "word_translation": "Then because of",
+      "word_transliteration": "fabima"
+    },
+    {
+      "word_arabic": "نَقۡضِهِم",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12940,
+      "word_number_in_surah": 3314,
+      "word_surah": 4,
+      "word_translation": "their breaking",
+      "word_transliteration": "naqdihim"
+    },
+    {
+      "word_arabic": "مِّيثَٰقَهُمۡ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12941,
+      "word_number_in_surah": 3315,
+      "word_surah": 4,
+      "word_translation": "(of) their covenant",
+      "word_transliteration": "mithaqahum"
+    },
+    {
+      "word_arabic": "وَكُفۡرِهِم",
+      "word_ayah": 155,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12942,
+      "word_number_in_surah": 3316,
+      "word_surah": 4,
+      "word_translation": "and their disbelief",
+      "word_transliteration": "wakuf'rihim"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12943,
+      "word_number_in_surah": 3317,
+      "word_surah": 4,
+      "word_translation": "in (the) Signs",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12944,
+      "word_number_in_surah": 3318,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَقَتۡلِهِمُ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12945,
+      "word_number_in_surah": 3319,
+      "word_surah": 4,
+      "word_translation": "and their killing",
+      "word_transliteration": "waqatlihimu"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۢبِيَآءَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12946,
+      "word_number_in_surah": 3320,
+      "word_surah": 4,
+      "word_translation": "(of) the Prophets",
+      "word_transliteration": "al-anbiyaa"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12947,
+      "word_number_in_surah": 3321,
+      "word_surah": 4,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "حَقّٖ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12948,
+      "word_number_in_surah": 3322,
+      "word_surah": 4,
+      "word_translation": "any right",
+      "word_transliteration": "haqqin"
+    },
+    {
+      "word_arabic": "وَقَوۡلِهِمۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12949,
+      "word_number_in_surah": 3323,
+      "word_surah": 4,
+      "word_translation": "and their saying",
+      "word_transliteration": "waqawlihim"
+    },
+    {
+      "word_arabic": "قُلُوبُنَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12950,
+      "word_number_in_surah": 3324,
+      "word_surah": 4,
+      "word_translation": "Our hearts",
+      "word_transliteration": "qulubuna"
+    },
+    {
+      "word_arabic": "غُلۡفُۢۚ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12951,
+      "word_number_in_surah": 3325,
+      "word_surah": 4,
+      "word_translation": "(are) wrapped",
+      "word_transliteration": "ghul'fun"
+    },
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12952,
+      "word_number_in_surah": 3326,
+      "word_surah": 4,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "طَبَعَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12953,
+      "word_number_in_surah": 3327,
+      "word_surah": 4,
+      "word_translation": "(has) set a seal",
+      "word_transliteration": "taba'a"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12954,
+      "word_number_in_surah": 3328,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَيۡهَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12955,
+      "word_number_in_surah": 3329,
+      "word_surah": 4,
+      "word_translation": "on their (hearts)",
+      "word_transliteration": "alayha"
+    },
+    {
+      "word_arabic": "بِكُفۡرِهِمۡ",
+      "word_ayah": 155,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12956,
+      "word_number_in_surah": 3330,
+      "word_surah": 4,
+      "word_translation": "for their disbelief",
+      "word_transliteration": "bikuf'rihim"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12957,
+      "word_number_in_surah": 3331,
+      "word_surah": 4,
+      "word_translation": "so not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12958,
+      "word_number_in_surah": 3332,
+      "word_surah": 4,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12959,
+      "word_number_in_surah": 3333,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 155,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12960,
+      "word_number_in_surah": 3334,
+      "word_surah": 4,
+      "word_translation": "a few",
+      "word_transliteration": "qalilan"
+    }
+  ],
+  "fullArabic": "فَبِمَا نَقۡضِهِم مِّيثَٰقَهُمۡ وَكُفۡرِهِم بِ‍َٔايَٰتِ ٱللَّهِ وَقَتۡلِهِمُ ٱلۡأَنۢبِيَآءَ بِغَيۡرِ حَقّٖ وَقَوۡلِهِمۡ قُلُوبُنَا غُلۡفُۢۚ بَلۡ طَبَعَ ٱللَّهُ عَلَيۡهَا بِكُفۡرِهِمۡ فَلَا يُؤۡمِنُونَ إِلَّا قَلِيلٗا",
+  "fullTranslation": "And [We cursed them] for their breaking of the covenant and their disbelief in the signs of Allah and their killing of the prophets without right and their saying, \"Our hearts are wrapped\". Rather, Allah has sealed them because of their disbelief, so they believe not, except for a few.",
+  "fullTransliteration": "fabima naqdihim mithaqahum wakuf'rihim biayati al-lahi waqatlihimu al-anbiyaa bighayri haqqin waqawlihim qulubuna ghul'fun bal taba'a al-lahu alayha bikuf'rihim fala yu'minuna illa qalilan"
+}

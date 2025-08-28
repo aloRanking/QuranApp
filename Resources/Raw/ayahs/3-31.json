@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "ayah": 31,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 324,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 45,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6684,
+      "word_number_in_surah": 539,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 31,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6685,
+      "word_number_in_surah": 540,
+      "word_surah": 3,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6686,
+      "word_number_in_surah": 541,
+      "word_surah": 3,
+      "word_translation": "you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تُحِبُّونَ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6687,
+      "word_number_in_surah": 542,
+      "word_surah": 3,
+      "word_translation": "love",
+      "word_transliteration": "tuhibbuna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6688,
+      "word_number_in_surah": 543,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "فَٱتَّبِعُونِي",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6689,
+      "word_number_in_surah": 544,
+      "word_surah": 3,
+      "word_translation": "then follow me",
+      "word_transliteration": "fa-ittabi'uni"
+    },
+    {
+      "word_arabic": "يُحۡبِبۡكُمُ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6690,
+      "word_number_in_surah": 545,
+      "word_surah": 3,
+      "word_translation": "will love you",
+      "word_transliteration": "yuh'bib'kumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6691,
+      "word_number_in_surah": 546,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَيَغۡفِرۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6692,
+      "word_number_in_surah": 547,
+      "word_surah": 3,
+      "word_translation": "and He will forgive",
+      "word_transliteration": "wayaghfir"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6693,
+      "word_number_in_surah": 548,
+      "word_surah": 3,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "ذُنُوبَكُمۡۚ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6694,
+      "word_number_in_surah": 549,
+      "word_surah": 3,
+      "word_translation": "your sins",
+      "word_transliteration": "dhunubakum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6695,
+      "word_number_in_surah": 550,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6696,
+      "word_number_in_surah": 551,
+      "word_surah": 3,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6697,
+      "word_number_in_surah": 552,
+      "word_surah": 3,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "قُلۡ إِن كُنتُمۡ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِي يُحۡبِبۡكُمُ ٱللَّهُ وَيَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "Say, [O Muhammad], \"If you should love Allah, then follow me, [so] Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.\"",
+  "fullTransliteration": "qul in kuntum tuhibbuna al-laha fa-ittabi'uni yuh'bib'kumu al-lahu wayaghfir lakum dhunubakum wal-lahu ghafurun rahimun"
+}

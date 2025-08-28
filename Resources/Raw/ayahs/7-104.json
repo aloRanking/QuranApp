@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 104,
+    "surah": 7,
+    "words": 8,
+    "numberInQuran": 1058,
+    "juz": 9,
+    "manzil": 2,
+    "page": 163,
+    "ruku": 134,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20904,
+      "word_number_in_surah": 1677,
+      "word_surah": 7,
+      "word_translation": "And said",
+      "word_transliteration": "waqala"
+    },
+    {
+      "word_arabic": "مُوسَىٰ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20905,
+      "word_number_in_surah": 1678,
+      "word_surah": 7,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "يَٰفِرۡعَوۡنُ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20906,
+      "word_number_in_surah": 1679,
+      "word_surah": 7,
+      "word_translation": "O Firaun",
+      "word_transliteration": "yafir'awnu"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20907,
+      "word_number_in_surah": 1680,
+      "word_surah": 7,
+      "word_translation": "Indeed, I am",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "رَسُولٞ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20908,
+      "word_number_in_surah": 1681,
+      "word_surah": 7,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 104,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20909,
+      "word_number_in_surah": 1682,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20910,
+      "word_number_in_surah": 1683,
+      "word_surah": 7,
+      "word_translation": "(the) Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20911,
+      "word_number_in_surah": 1684,
+      "word_surah": 7,
+      "word_translation": "(of) the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "وَقَالَ مُوسَىٰ يَٰفِرۡعَوۡنُ إِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "And Moses said, \"O Pharaoh, I am a messenger from the Lord of the worlds",
+  "fullTransliteration": "waqala musa yafir'awnu inni rasulun min rabbi al-'alamina"
+}

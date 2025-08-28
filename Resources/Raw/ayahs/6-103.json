@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ayah": 103,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 892,
+    "juz": 7,
+    "manzil": 2,
+    "page": 141,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17968,
+      "word_number_in_surah": 1791,
+      "word_surah": 6,
+      "word_translation": "(Can) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُدۡرِكُهُ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17969,
+      "word_number_in_surah": 1792,
+      "word_surah": 6,
+      "word_translation": "grasp Him",
+      "word_transliteration": "tud'rikuhu"
+    },
+    {
+      "word_arabic": "ٱلۡأَبۡصَٰرُ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17970,
+      "word_number_in_surah": 1793,
+      "word_surah": 6,
+      "word_translation": "the visions",
+      "word_transliteration": "al-absaru"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17971,
+      "word_number_in_surah": 1794,
+      "word_surah": 6,
+      "word_translation": "but He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "يُدۡرِكُ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17972,
+      "word_number_in_surah": 1795,
+      "word_surah": 6,
+      "word_translation": "(can) grasp",
+      "word_transliteration": "yud'riku"
+    },
+    {
+      "word_arabic": "ٱلۡأَبۡصَٰرَۖ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17973,
+      "word_number_in_surah": 1796,
+      "word_surah": 6,
+      "word_translation": "(all) the vision",
+      "word_transliteration": "al-absara"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17974,
+      "word_number_in_surah": 1797,
+      "word_surah": 6,
+      "word_translation": "and He (is)",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱللَّطِيفُ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17975,
+      "word_number_in_surah": 1798,
+      "word_surah": 6,
+      "word_translation": "the All-Subtle",
+      "word_transliteration": "al-latifu"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيرُ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17976,
+      "word_number_in_surah": 1799,
+      "word_surah": 6,
+      "word_translation": "the All-Aware",
+      "word_transliteration": "al-khabiru"
+    }
+  ],
+  "fullArabic": "لَّا تُدۡرِكُهُ ٱلۡأَبۡصَٰرُ وَهُوَ يُدۡرِكُ ٱلۡأَبۡصَٰرَۖ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+  "fullTranslation": "Vision perceives Him not, but He perceives [all] vision; and He is the Subtle, the Acquainted.",
+  "fullTransliteration": "la tud'rikuhu al-absaru wahuwa yud'riku al-absara wahuwa al-latifu al-khabiru"
+}

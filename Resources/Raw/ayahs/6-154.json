@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 154,
+    "surah": 6,
+    "words": 17,
+    "numberInQuran": 943,
+    "juz": 8,
+    "manzil": 2,
+    "page": 149,
+    "ruku": 120,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18999,
+      "word_number_in_surah": 2822,
+      "word_surah": 6,
+      "word_translation": "Moreover",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19000,
+      "word_number_in_surah": 2823,
+      "word_surah": 6,
+      "word_translation": "We gave",
+      "word_transliteration": "atayna"
+    },
+    {
+      "word_arabic": "مُوسَى",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19001,
+      "word_number_in_surah": 2824,
+      "word_surah": 6,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19002,
+      "word_number_in_surah": 2825,
+      "word_surah": 6,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "تَمَامًا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19003,
+      "word_number_in_surah": 2826,
+      "word_surah": 6,
+      "word_translation": "completing (Our Favor)",
+      "word_transliteration": "tamaman"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19004,
+      "word_number_in_surah": 2827,
+      "word_surah": 6,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19005,
+      "word_number_in_surah": 2828,
+      "word_surah": 6,
+      "word_translation": "the one who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "أَحۡسَنَ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19006,
+      "word_number_in_surah": 2829,
+      "word_surah": 6,
+      "word_translation": "did good",
+      "word_transliteration": "ahsana"
+    },
+    {
+      "word_arabic": "وَتَفۡصِيلٗا",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19007,
+      "word_number_in_surah": 2830,
+      "word_surah": 6,
+      "word_translation": "and an explanation",
+      "word_transliteration": "watafsilan"
+    },
+    {
+      "word_arabic": "لِّكُلِّ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19008,
+      "word_number_in_surah": 2831,
+      "word_surah": 6,
+      "word_translation": "of every",
+      "word_transliteration": "likulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19009,
+      "word_number_in_surah": 2832,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "وَهُدٗى",
+      "word_ayah": 154,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19010,
+      "word_number_in_surah": 2833,
+      "word_surah": 6,
+      "word_translation": "and a guidance",
+      "word_transliteration": "wahudan"
+    },
+    {
+      "word_arabic": "وَرَحۡمَةٗ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19011,
+      "word_number_in_surah": 2834,
+      "word_surah": 6,
+      "word_translation": "and mercy",
+      "word_transliteration": "warahmatan"
+    },
+    {
+      "word_arabic": "لَّعَلَّهُم",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19012,
+      "word_number_in_surah": 2835,
+      "word_surah": 6,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "بِلِقَآءِ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19013,
+      "word_number_in_surah": 2836,
+      "word_surah": 6,
+      "word_translation": "in (the) meeting",
+      "word_transliteration": "biliqai"
+    },
+    {
+      "word_arabic": "رَبِّهِمۡ",
+      "word_ayah": 154,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19014,
+      "word_number_in_surah": 2837,
+      "word_surah": 6,
+      "word_translation": "(with) their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 154,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19015,
+      "word_number_in_surah": 2838,
+      "word_surah": 6,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "ثُمَّ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ تَمَامًا عَلَى ٱلَّذِيٓ أَحۡسَنَ وَتَفۡصِيلٗا لِّكُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لَّعَلَّهُم بِلِقَآءِ رَبِّهِمۡ يُؤۡمِنُونَ",
+  "fullTranslation": "Then We gave Moses the Scripture, making complete [Our favor] upon the one who did good and as a detailed explanation of all things and as guidance and mercy that perhaps in [the matter of] the meeting with their Lord they would believe.",
+  "fullTransliteration": "thumma atayna musa al-kitaba tamaman ala alladhi ahsana watafsilan likulli shayin wahudan warahmatan la'allahum biliqai rabbihim yu'minuna"
+}

@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ayah": 115,
+    "surah": 6,
+    "words": 11,
+    "numberInQuran": 904,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَتَمَّتۡ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18165,
+      "word_number_in_surah": 1988,
+      "word_surah": 6,
+      "word_translation": "And (has been) fulfilled",
+      "word_transliteration": "watammat"
+    },
+    {
+      "word_arabic": "كَلِمَتُ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18166,
+      "word_number_in_surah": 1989,
+      "word_surah": 6,
+      "word_translation": "(the) word",
+      "word_transliteration": "kalimatu"
+    },
+    {
+      "word_arabic": "رَبِّكَ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18167,
+      "word_number_in_surah": 1990,
+      "word_surah": 6,
+      "word_translation": "(of) your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "صِدۡقٗا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18168,
+      "word_number_in_surah": 1991,
+      "word_surah": 6,
+      "word_translation": "(in) truth",
+      "word_transliteration": "sid'qan"
+    },
+    {
+      "word_arabic": "وَعَدۡلٗاۚ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18169,
+      "word_number_in_surah": 1992,
+      "word_surah": 6,
+      "word_translation": "and justice",
+      "word_transliteration": "wa'adlan"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18170,
+      "word_number_in_surah": 1993,
+      "word_surah": 6,
+      "word_translation": "No",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "مُبَدِّلَ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18171,
+      "word_number_in_surah": 1994,
+      "word_surah": 6,
+      "word_translation": "one can change",
+      "word_transliteration": "mubaddila"
+    },
+    {
+      "word_arabic": "لِكَلِمَٰتِهِۦۚ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18172,
+      "word_number_in_surah": 1995,
+      "word_surah": 6,
+      "word_translation": "His words",
+      "word_transliteration": "likalimatihi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18173,
+      "word_number_in_surah": 1996,
+      "word_surah": 6,
+      "word_translation": "and He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلسَّمِيعُ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18174,
+      "word_number_in_surah": 1997,
+      "word_surah": 6,
+      "word_translation": "(is) the All-Hearer",
+      "word_transliteration": "al-sami'u"
+    },
+    {
+      "word_arabic": "ٱلۡعَلِيمُ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18175,
+      "word_number_in_surah": 1998,
+      "word_surah": 6,
+      "word_translation": "the All-Knower",
+      "word_transliteration": "al-'alimu"
+    }
+  ],
+  "fullArabic": "وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقٗا وَعَدۡلٗاۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "fullTranslation": "And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing.",
+  "fullTransliteration": "watammat kalimatu rabbika sid'qan wa'adlan la mubaddila likalimatihi wahuwa al-sami'u al-'alimu"
+}

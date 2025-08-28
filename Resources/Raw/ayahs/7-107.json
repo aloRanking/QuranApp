@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "ayah": 107,
+    "surah": 7,
+    "words": 6,
+    "numberInQuran": 1061,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 134,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأَلۡقَىٰ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20941,
+      "word_number_in_surah": 1714,
+      "word_surah": 7,
+      "word_translation": "So he threw",
+      "word_transliteration": "fa-alqa"
+    },
+    {
+      "word_arabic": "عَصَاهُ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20942,
+      "word_number_in_surah": 1715,
+      "word_surah": 7,
+      "word_translation": "his staff",
+      "word_transliteration": "asahu"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20943,
+      "word_number_in_surah": 1716,
+      "word_surah": 7,
+      "word_translation": "and suddenly",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "هِيَ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20944,
+      "word_number_in_surah": 1717,
+      "word_surah": 7,
+      "word_translation": "it",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "ثُعۡبَانٞ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20945,
+      "word_number_in_surah": 1718,
+      "word_surah": 7,
+      "word_translation": "(was) a serpent",
+      "word_transliteration": "thu'banun"
+    },
+    {
+      "word_arabic": "مُّبِينٞ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20946,
+      "word_number_in_surah": 1719,
+      "word_surah": 7,
+      "word_translation": "manifest",
+      "word_transliteration": "mubinun"
+    }
+  ],
+  "fullArabic": "فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعۡبَانٞ مُّبِينٞ",
+  "fullTranslation": "So Moses threw his staff, and suddenly it was a serpent, manifest.",
+  "fullTransliteration": "fa-alqa asahu fa-idha hiya thu'banun mubinun"
+}

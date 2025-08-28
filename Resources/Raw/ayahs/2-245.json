@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "ayah": 245,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 252,
+    "juz": 2,
+    "manzil": 1,
+    "page": 39,
+    "ruku": 33,
+    "hizbQuarter": 16,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 245,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4847,
+      "word_number_in_surah": 4818,
+      "word_surah": 2,
+      "word_translation": "Who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "ذَا",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4848,
+      "word_number_in_surah": 4819,
+      "word_surah": 2,
+      "word_translation": "(is) the one",
+      "word_transliteration": "dha"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4849,
+      "word_number_in_surah": 4820,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "يُقۡرِضُ",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4850,
+      "word_number_in_surah": 4821,
+      "word_surah": 2,
+      "word_translation": "will lend",
+      "word_transliteration": "yuq'ridu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4851,
+      "word_number_in_surah": 4822,
+      "word_surah": 2,
+      "word_translation": "(to) Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "قَرۡضًا",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4852,
+      "word_number_in_surah": 4823,
+      "word_surah": 2,
+      "word_translation": "a loan",
+      "word_transliteration": "qardan"
+    },
+    {
+      "word_arabic": "حَسَنٗا",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4853,
+      "word_number_in_surah": 4824,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "hasanan"
+    },
+    {
+      "word_arabic": "فَيُضَٰعِفَهُۥ",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4854,
+      "word_number_in_surah": 4825,
+      "word_surah": 2,
+      "word_translation": "so (that) He multiplies it",
+      "word_transliteration": "fayuda'ifahu"
+    },
+    {
+      "word_arabic": "لَهُۥٓ",
+      "word_ayah": 245,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4855,
+      "word_number_in_surah": 4826,
+      "word_surah": 2,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "أَضۡعَافٗا",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4856,
+      "word_number_in_surah": 4827,
+      "word_surah": 2,
+      "word_translation": "manifolds",
+      "word_transliteration": "ad'afan"
+    },
+    {
+      "word_arabic": "كَثِيرَةٗۚ",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4857,
+      "word_number_in_surah": 4828,
+      "word_surah": 2,
+      "word_translation": "many",
+      "word_transliteration": "kathiratan"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 245,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4858,
+      "word_number_in_surah": 4829,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَقۡبِضُ",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4859,
+      "word_number_in_surah": 4830,
+      "word_surah": 2,
+      "word_translation": "withholds",
+      "word_transliteration": "yaqbidu"
+    },
+    {
+      "word_arabic": "وَيَبۡصُۜطُ",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4860,
+      "word_number_in_surah": 4831,
+      "word_surah": 2,
+      "word_translation": "and grants abundance",
+      "word_transliteration": "wayabsutu"
+    },
+    {
+      "word_arabic": "وَإِلَيۡهِ",
+      "word_ayah": 245,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4861,
+      "word_number_in_surah": 4832,
+      "word_surah": 2,
+      "word_translation": "and to Him",
+      "word_transliteration": "wa-ilayhi"
+    },
+    {
+      "word_arabic": "تُرۡجَعُونَ",
+      "word_ayah": 245,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4862,
+      "word_number_in_surah": 4833,
+      "word_surah": 2,
+      "word_translation": "you will be returned",
+      "word_transliteration": "tur'ja'una"
+    }
+  ],
+  "fullArabic": "مَّن ذَا ٱلَّذِي يُقۡرِضُ ٱللَّهَ قَرۡضًا حَسَنٗا فَيُضَٰعِفَهُۥ لَهُۥٓ أَضۡعَافٗا كَثِيرَةٗۚ وَٱللَّهُ يَقۡبِضُ وَيَبۡصُۜطُ وَإِلَيۡهِ تُرۡجَعُونَ",
+  "fullTranslation": "Who is it that would loan Allah a goodly loan so He may multiply it for him many times over? And it is Allah who withholds and grants abundance, and to Him you will be returned.",
+  "fullTransliteration": "man dha alladhi yuq'ridu al-laha qardan hasanan fayuda'ifahu lahu ad'afan kathiratan wal-lahu yaqbidu wayabsutu wa-ilayhi tur'ja'una"
+}

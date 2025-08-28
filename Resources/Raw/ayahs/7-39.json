@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 39,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 993,
+    "juz": 8,
+    "manzil": 2,
+    "page": 155,
+    "ruku": 125,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالَتۡ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19805,
+      "word_number_in_surah": 578,
+      "word_surah": 7,
+      "word_translation": "And (will) say",
+      "word_transliteration": "waqalat"
+    },
+    {
+      "word_arabic": "أُولَىٰهُمۡ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19806,
+      "word_number_in_surah": 579,
+      "word_surah": 7,
+      "word_translation": "(the) first of them",
+      "word_transliteration": "ulahum"
+    },
+    {
+      "word_arabic": "لِأُخۡرَىٰهُمۡ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19807,
+      "word_number_in_surah": 580,
+      "word_surah": 7,
+      "word_translation": "to (the) last of them",
+      "word_transliteration": "li-ukh'rahum"
+    },
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19808,
+      "word_number_in_surah": 581,
+      "word_surah": 7,
+      "word_translation": "Then not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19809,
+      "word_number_in_surah": 582,
+      "word_surah": 7,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19810,
+      "word_number_in_surah": 583,
+      "word_surah": 7,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عَلَيۡنَا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19811,
+      "word_number_in_surah": 584,
+      "word_surah": 7,
+      "word_translation": "upon us",
+      "word_transliteration": "alayna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 39,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19812,
+      "word_number_in_surah": 585,
+      "word_surah": 7,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَضۡلٖ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19813,
+      "word_number_in_surah": 586,
+      "word_surah": 7,
+      "word_translation": "superiority",
+      "word_transliteration": "fadlin"
+    },
+    {
+      "word_arabic": "فَذُوقُواْ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19814,
+      "word_number_in_surah": 587,
+      "word_surah": 7,
+      "word_translation": "so taste",
+      "word_transliteration": "fadhuqu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19815,
+      "word_number_in_surah": 588,
+      "word_surah": 7,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhaba"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19816,
+      "word_number_in_surah": 589,
+      "word_surah": 7,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19817,
+      "word_number_in_surah": 590,
+      "word_surah": 7,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَكۡسِبُونَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19818,
+      "word_number_in_surah": 591,
+      "word_surah": 7,
+      "word_translation": "earn",
+      "word_transliteration": "taksibuna"
+    }
+  ],
+  "fullArabic": "وَقَالَتۡ أُولَىٰهُمۡ لِأُخۡرَىٰهُمۡ فَمَا كَانَ لَكُمۡ عَلَيۡنَا مِن فَضۡلٖ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡسِبُونَ",
+  "fullTranslation": "And the first of them will say to the last of them, \"Then you had not any favor over us, so taste the punishment for what you used to earn.\"",
+  "fullTransliteration": "waqalat ulahum li-ukh'rahum fama kana lakum alayna min fadlin fadhuqu al-'adhaba bima kuntum taksibuna"
+}

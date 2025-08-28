@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "ayah": 188,
+    "surah": 7,
+    "words": 28,
+    "numberInQuran": 1142,
+    "juz": 9,
+    "manzil": 2,
+    "page": 175,
+    "ruku": 144,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 188,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22288,
+      "word_number_in_surah": 3061,
+      "word_surah": 7,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لَّآ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22289,
+      "word_number_in_surah": 3062,
+      "word_surah": 7,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أَمۡلِكُ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22290,
+      "word_number_in_surah": 3063,
+      "word_surah": 7,
+      "word_translation": "I have power",
+      "word_transliteration": "amliku"
+    },
+    {
+      "word_arabic": "لِنَفۡسِي",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22291,
+      "word_number_in_surah": 3064,
+      "word_surah": 7,
+      "word_translation": "for myself",
+      "word_transliteration": "linafsi"
+    },
+    {
+      "word_arabic": "نَفۡعٗا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22292,
+      "word_number_in_surah": 3065,
+      "word_surah": 7,
+      "word_translation": "(to) benefit",
+      "word_transliteration": "naf 'an"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22293,
+      "word_number_in_surah": 3066,
+      "word_surah": 7,
+      "word_translation": "and no",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "ضَرًّا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22294,
+      "word_number_in_surah": 3067,
+      "word_surah": 7,
+      "word_translation": "(power to) harm",
+      "word_transliteration": "darran"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22295,
+      "word_number_in_surah": 3068,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22296,
+      "word_number_in_surah": 3069,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22297,
+      "word_number_in_surah": 3070,
+      "word_surah": 7,
+      "word_translation": "wills",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "ٱللَّهُۚ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22298,
+      "word_number_in_surah": 3071,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22299,
+      "word_number_in_surah": 3072,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "كُنتُ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22300,
+      "word_number_in_surah": 3073,
+      "word_surah": 7,
+      "word_translation": "I would",
+      "word_transliteration": "kuntu"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22301,
+      "word_number_in_surah": 3074,
+      "word_surah": 7,
+      "word_translation": "know",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "ٱلۡغَيۡبَ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22302,
+      "word_number_in_surah": 3075,
+      "word_surah": 7,
+      "word_translation": "(of) the unseen",
+      "word_transliteration": "al-ghayba"
+    },
+    {
+      "word_arabic": "لَٱسۡتَكۡثَرۡتُ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22303,
+      "word_number_in_surah": 3076,
+      "word_surah": 7,
+      "word_translation": "surely I could have multiplied",
+      "word_transliteration": "la-is'takthartu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22304,
+      "word_number_in_surah": 3077,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡخَيۡرِ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22305,
+      "word_number_in_surah": 3078,
+      "word_surah": 7,
+      "word_translation": "the good",
+      "word_transliteration": "al-khayri"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22306,
+      "word_number_in_surah": 3079,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "مَسَّنِيَ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22307,
+      "word_number_in_surah": 3080,
+      "word_surah": 7,
+      "word_translation": "(could) have touched me",
+      "word_transliteration": "massaniya"
+    },
+    {
+      "word_arabic": "ٱلسُّوٓءُۚ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22308,
+      "word_number_in_surah": 3081,
+      "word_surah": 7,
+      "word_translation": "the evil",
+      "word_transliteration": "al-suu"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22309,
+      "word_number_in_surah": 3082,
+      "word_surah": 7,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "أَنَا۠",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 22310,
+      "word_number_in_surah": 3083,
+      "word_surah": 7,
+      "word_translation": "(am) I",
+      "word_transliteration": "ana"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 22311,
+      "word_number_in_surah": 3084,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "نَذِيرٞ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 22312,
+      "word_number_in_surah": 3085,
+      "word_surah": 7,
+      "word_translation": "a warner",
+      "word_transliteration": "nadhirun"
+    },
+    {
+      "word_arabic": "وَبَشِيرٞ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 22313,
+      "word_number_in_surah": 3086,
+      "word_surah": 7,
+      "word_translation": "and a bearer of good tidings",
+      "word_transliteration": "wabashirun"
+    },
+    {
+      "word_arabic": "لِّقَوۡمٖ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 22314,
+      "word_number_in_surah": 3087,
+      "word_surah": 7,
+      "word_translation": "to a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 22315,
+      "word_number_in_surah": 3088,
+      "word_surah": 7,
+      "word_translation": "who believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "قُل لَّآ أَمۡلِكُ لِنَفۡسِي نَفۡعٗا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُۚ وَلَوۡ كُنتُ أَعۡلَمُ ٱلۡغَيۡبَ لَٱسۡتَكۡثَرۡتُ مِنَ ٱلۡخَيۡرِ وَمَا مَسَّنِيَ ٱلسُّوٓءُۚ إِنۡ أَنَا۠ إِلَّا نَذِيرٞ وَبَشِيرٞ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "fullTranslation": "Say, \"I hold not for myself [the power of] benefit or harm, except what Allah has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe.\"",
+  "fullTransliteration": "qul la amliku linafsi naf 'an wala darran illa ma shaa al-lahu walaw kuntu a'lamu al-ghayba la-is'takthartu mina al-khayri wama massaniya al-suu in ana illa nadhirun wabashirun liqawmin yu'minuna"
+}

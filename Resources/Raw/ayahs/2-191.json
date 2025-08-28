@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "ayah": 191,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 198,
+    "juz": 2,
+    "manzil": 1,
+    "page": 30,
+    "ruku": 25,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱقۡتُلُوهُمۡ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3545,
+      "word_number_in_surah": 3516,
+      "word_surah": 2,
+      "word_translation": "And kill them",
+      "word_transliteration": "wa-uq'tuluhum"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3546,
+      "word_number_in_surah": 3517,
+      "word_surah": 2,
+      "word_translation": "wherever",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "ثَقِفۡتُمُوهُمۡ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3547,
+      "word_number_in_surah": 3518,
+      "word_surah": 2,
+      "word_translation": "you find them",
+      "word_transliteration": "thaqif'tumuhum"
+    },
+    {
+      "word_arabic": "وَأَخۡرِجُوهُم",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3548,
+      "word_number_in_surah": 3519,
+      "word_surah": 2,
+      "word_translation": "and drive them out",
+      "word_transliteration": "wa-akhrijuhum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3549,
+      "word_number_in_surah": 3520,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3550,
+      "word_number_in_surah": 3521,
+      "word_surah": 2,
+      "word_translation": "wherever",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "أَخۡرَجُوكُمۡۚ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3551,
+      "word_number_in_surah": 3522,
+      "word_surah": 2,
+      "word_translation": "they drove you out",
+      "word_transliteration": "akhrajukum"
+    },
+    {
+      "word_arabic": "وَٱلۡفِتۡنَةُ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3552,
+      "word_number_in_surah": 3523,
+      "word_surah": 2,
+      "word_translation": "and [the] oppression",
+      "word_transliteration": "wal-fit'natu"
+    },
+    {
+      "word_arabic": "أَشَدُّ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3553,
+      "word_number_in_surah": 3524,
+      "word_surah": 2,
+      "word_translation": "(is) worse",
+      "word_transliteration": "ashaddu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 191,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3554,
+      "word_number_in_surah": 3525,
+      "word_surah": 2,
+      "word_translation": "than",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡقَتۡلِۚ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3555,
+      "word_number_in_surah": 3526,
+      "word_surah": 2,
+      "word_translation": "[the] killing",
+      "word_transliteration": "al-qatli"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3556,
+      "word_number_in_surah": 3527,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُقَٰتِلُوهُمۡ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3557,
+      "word_number_in_surah": 3528,
+      "word_surah": 2,
+      "word_translation": "fight them",
+      "word_transliteration": "tuqatiluhum"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3558,
+      "word_number_in_surah": 3529,
+      "word_surah": 2,
+      "word_translation": "near",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱلۡمَسۡجِدِ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3559,
+      "word_number_in_surah": 3530,
+      "word_surah": 2,
+      "word_translation": "Al-Masjid",
+      "word_transliteration": "al-masjidi"
+    },
+    {
+      "word_arabic": "ٱلۡحَرَامِ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3560,
+      "word_number_in_surah": 3531,
+      "word_surah": 2,
+      "word_translation": "Al-Haraam",
+      "word_transliteration": "al-harami"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3561,
+      "word_number_in_surah": 3532,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يُقَٰتِلُوكُمۡ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3562,
+      "word_number_in_surah": 3533,
+      "word_surah": 2,
+      "word_translation": "they fight you",
+      "word_transliteration": "yuqatilukum"
+    },
+    {
+      "word_arabic": "فِيهِۖ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3563,
+      "word_number_in_surah": 3534,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 191,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3564,
+      "word_number_in_surah": 3535,
+      "word_surah": 2,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "قَٰتَلُوكُمۡ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3565,
+      "word_number_in_surah": 3536,
+      "word_surah": 2,
+      "word_translation": "they fight you",
+      "word_transliteration": "qatalukum"
+    },
+    {
+      "word_arabic": "فَٱقۡتُلُوهُمۡۗ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3566,
+      "word_number_in_surah": 3537,
+      "word_surah": 2,
+      "word_translation": "then kill them",
+      "word_transliteration": "fa-uq'tuluhum"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 3567,
+      "word_number_in_surah": 3538,
+      "word_surah": 2,
+      "word_translation": "Such",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "جَزَآءُ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 3568,
+      "word_number_in_surah": 3539,
+      "word_surah": 2,
+      "word_translation": "(is the) reward",
+      "word_transliteration": "jazau"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 191,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 3569,
+      "word_number_in_surah": 3540,
+      "word_surah": 2,
+      "word_translation": "(of) the disbelievers",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "وَٱقۡتُلُوهُمۡ حَيۡثُ ثَقِفۡتُمُوهُمۡ وَأَخۡرِجُوهُم مِّنۡ حَيۡثُ أَخۡرَجُوكُمۡۚ وَٱلۡفِتۡنَةُ أَشَدُّ مِنَ ٱلۡقَتۡلِۚ وَلَا تُقَٰتِلُوهُمۡ عِندَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمۡ فِيهِۖ فَإِن قَٰتَلُوكُمۡ فَٱقۡتُلُوهُمۡۗ كَذَٰلِكَ جَزَآءُ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "And kill them wherever you overtake them and expel them from wherever they have expelled you, and fitnah is worse than killing. And do not fight them at al-Masjid al- Haram until they fight you there. But if they fight you, then kill them. Such is the recompense of the disbelievers.",
+  "fullTransliteration": "wa-uq'tuluhum haythu thaqif'tumuhum wa-akhrijuhum min haythu akhrajukum wal-fit'natu ashaddu mina al-qatli wala tuqatiluhum inda al-masjidi al-harami hatta yuqatilukum fihi fa-in qatalukum fa-uq'tuluhum kadhalika jazau al-kafirina"
+}

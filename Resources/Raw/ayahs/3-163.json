@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 163,
+    "surah": 3,
+    "words": 8,
+    "numberInQuran": 456,
+    "juz": 4,
+    "manzil": 1,
+    "page": 71,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8935,
+      "word_number_in_surah": 2790,
+      "word_surah": 3,
+      "word_translation": "They",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "دَرَجَٰتٌ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8936,
+      "word_number_in_surah": 2791,
+      "word_surah": 3,
+      "word_translation": "(are in varying) degrees",
+      "word_transliteration": "darajatun"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8937,
+      "word_number_in_surah": 2792,
+      "word_surah": 3,
+      "word_translation": "near",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8938,
+      "word_number_in_surah": 2793,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8939,
+      "word_number_in_surah": 2794,
+      "word_surah": 3,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بَصِيرُۢ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8940,
+      "word_number_in_surah": 2795,
+      "word_surah": 3,
+      "word_translation": "(is) All-Seer",
+      "word_transliteration": "basirun"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8941,
+      "word_number_in_surah": 2796,
+      "word_surah": 3,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8942,
+      "word_number_in_surah": 2797,
+      "word_surah": 3,
+      "word_translation": "they do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "هُمۡ دَرَجَٰتٌ عِندَ ٱللَّهِۗ وَٱللَّهُ بَصِيرُۢ بِمَا يَعۡمَلُونَ",
+  "fullTranslation": "They are [varying] degrees in the sight of Allah, and Allah is Seeing of whatever they do.",
+  "fullTransliteration": "hum darajatun inda al-lahi wal-lahu basirun bima ya'maluna"
+}

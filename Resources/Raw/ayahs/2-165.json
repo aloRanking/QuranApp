@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "ayah": 165,
+    "surah": 2,
+    "words": 31,
+    "numberInQuran": 172,
+    "juz": 2,
+    "manzil": 1,
+    "page": 25,
+    "ruku": 21,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2949,
+      "word_number_in_surah": 2920,
+      "word_surah": 2,
+      "word_translation": "And among",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2950,
+      "word_number_in_surah": 2921,
+      "word_surah": 2,
+      "word_translation": "the mankind",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 165,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2951,
+      "word_number_in_surah": 2922,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَتَّخِذُ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2952,
+      "word_number_in_surah": 2923,
+      "word_surah": 2,
+      "word_translation": "takes",
+      "word_transliteration": "yattakhidhu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 165,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2953,
+      "word_number_in_surah": 2924,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2954,
+      "word_number_in_surah": 2925,
+      "word_surah": 2,
+      "word_translation": "besides",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2955,
+      "word_number_in_surah": 2926,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَندَادٗا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2956,
+      "word_number_in_surah": 2927,
+      "word_surah": 2,
+      "word_translation": "equals",
+      "word_transliteration": "andadan"
+    },
+    {
+      "word_arabic": "يُحِبُّونَهُمۡ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2957,
+      "word_number_in_surah": 2928,
+      "word_surah": 2,
+      "word_translation": "They love them",
+      "word_transliteration": "yuhibbunahum"
+    },
+    {
+      "word_arabic": "كَحُبِّ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2958,
+      "word_number_in_surah": 2929,
+      "word_surah": 2,
+      "word_translation": "as (they should) love",
+      "word_transliteration": "kahubbi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2959,
+      "word_number_in_surah": 2930,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2960,
+      "word_number_in_surah": 2931,
+      "word_surah": 2,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2961,
+      "word_number_in_surah": 2932,
+      "word_surah": 2,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "أَشَدُّ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2962,
+      "word_number_in_surah": 2933,
+      "word_surah": 2,
+      "word_translation": "(are) stronger",
+      "word_transliteration": "ashaddu"
+    },
+    {
+      "word_arabic": "حُبّٗا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2963,
+      "word_number_in_surah": 2934,
+      "word_surah": 2,
+      "word_translation": "(in) love",
+      "word_transliteration": "hubban"
+    },
+    {
+      "word_arabic": "لِّلَّهِۗ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2964,
+      "word_number_in_surah": 2935,
+      "word_surah": 2,
+      "word_translation": "for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2965,
+      "word_number_in_surah": 2936,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "يَرَى",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 2966,
+      "word_number_in_surah": 2937,
+      "word_surah": 2,
+      "word_translation": "would see",
+      "word_transliteration": "yara"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 2967,
+      "word_number_in_surah": 2938,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ظَلَمُوٓاْ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 2968,
+      "word_number_in_surah": 2939,
+      "word_surah": 2,
+      "word_translation": "wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 2969,
+      "word_number_in_surah": 2940,
+      "word_surah": 2,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "يَرَوۡنَ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 2970,
+      "word_number_in_surah": 2941,
+      "word_surah": 2,
+      "word_translation": "they will see",
+      "word_transliteration": "yarawna"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 2971,
+      "word_number_in_surah": 2942,
+      "word_surah": 2,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-'adhaba"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 2972,
+      "word_number_in_surah": 2943,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱلۡقُوَّةَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 2973,
+      "word_number_in_surah": 2944,
+      "word_surah": 2,
+      "word_translation": "the power",
+      "word_transliteration": "al-quwata"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 2974,
+      "word_number_in_surah": 2945,
+      "word_surah": 2,
+      "word_translation": "(belongs) to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "جَمِيعٗا",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 2975,
+      "word_number_in_surah": 2946,
+      "word_surah": 2,
+      "word_translation": "all",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 165,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 2976,
+      "word_number_in_surah": 2947,
+      "word_surah": 2,
+      "word_translation": "and [that]",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 2977,
+      "word_number_in_surah": 2948,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "شَدِيدُ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 2978,
+      "word_number_in_surah": 2949,
+      "word_surah": 2,
+      "word_translation": "(is) severe",
+      "word_transliteration": "shadidu"
+    },
+    {
+      "word_arabic": "ٱلۡعَذَابِ",
+      "word_ayah": 165,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 2979,
+      "word_number_in_surah": 2950,
+      "word_surah": 2,
+      "word_translation": "(in) [the] punishment",
+      "word_transliteration": "al-'adhabi"
+    }
+  ],
+  "fullArabic": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ",
+  "fullTranslation": "And [yet], among the people are those who take other than Allah as equals [to Him]. They love them as they [should] love Allah. But those who believe are stronger in love for Allah. And if only they who have wronged would consider [that] when they see the punishment, [they will be certain] that all power belongs to Allah and that Allah is severe in punishment.",
+  "fullTransliteration": "wamina al-nasi man yattakhidhu min duni al-lahi andadan yuhibbunahum kahubbi al-lahi wa-alladhina amanu ashaddu hubban lillahi walaw yara alladhina zalamu idh yarawna al-'adhaba anna al-quwata lillahi jami'an wa-anna al-laha shadidu al-'adhabi"
+}

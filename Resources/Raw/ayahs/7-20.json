@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "ayah": 20,
+    "surah": 7,
+    "words": 25,
+    "numberInQuran": 974,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَوَسۡوَسَ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19426,
+      "word_number_in_surah": 199,
+      "word_surah": 7,
+      "word_translation": "Then whispered",
+      "word_transliteration": "fawaswasa"
+    },
+    {
+      "word_arabic": "لَهُمَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19427,
+      "word_number_in_surah": 200,
+      "word_surah": 7,
+      "word_translation": "to both of them",
+      "word_transliteration": "lahuma"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19428,
+      "word_number_in_surah": 201,
+      "word_surah": 7,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "لِيُبۡدِيَ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19429,
+      "word_number_in_surah": 202,
+      "word_surah": 7,
+      "word_translation": "to make apparent",
+      "word_transliteration": "liyub'diya"
+    },
+    {
+      "word_arabic": "لَهُمَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19430,
+      "word_number_in_surah": 203,
+      "word_surah": 7,
+      "word_translation": "to both of them",
+      "word_transliteration": "lahuma"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19431,
+      "word_number_in_surah": 204,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "وُۥرِيَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19432,
+      "word_number_in_surah": 205,
+      "word_surah": 7,
+      "word_translation": "was concealed",
+      "word_transliteration": "wuriya"
+    },
+    {
+      "word_arabic": "عَنۡهُمَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19433,
+      "word_number_in_surah": 206,
+      "word_surah": 7,
+      "word_translation": "from both of them",
+      "word_transliteration": "anhuma"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 20,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19434,
+      "word_number_in_surah": 207,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "سَوۡءَٰتِهِمَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19435,
+      "word_number_in_surah": 208,
+      "word_surah": 7,
+      "word_translation": "their shame",
+      "word_transliteration": "sawatihima"
+    },
+    {
+      "word_arabic": "وَقَالَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19436,
+      "word_number_in_surah": 209,
+      "word_surah": 7,
+      "word_translation": "And he said",
+      "word_transliteration": "waqala"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19437,
+      "word_number_in_surah": 210,
+      "word_surah": 7,
+      "word_translation": "(Did) not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "نَهَىٰكُمَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19438,
+      "word_number_in_surah": 211,
+      "word_surah": 7,
+      "word_translation": "forbid you both",
+      "word_transliteration": "nahakuma"
+    },
+    {
+      "word_arabic": "رَبُّكُمَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19439,
+      "word_number_in_surah": 212,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbukuma"
+    },
+    {
+      "word_arabic": "عَنۡ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19440,
+      "word_number_in_surah": 213,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "هَٰذِهِ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19441,
+      "word_number_in_surah": 214,
+      "word_surah": 7,
+      "word_translation": "this",
+      "word_transliteration": "hadhihi"
+    },
+    {
+      "word_arabic": "ٱلشَّجَرَةِ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19442,
+      "word_number_in_surah": 215,
+      "word_surah": 7,
+      "word_translation": "[the] tree",
+      "word_transliteration": "al-shajarati"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19443,
+      "word_number_in_surah": 216,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 20,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19444,
+      "word_number_in_surah": 217,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَكُونَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19445,
+      "word_number_in_surah": 218,
+      "word_surah": 7,
+      "word_translation": "you two become",
+      "word_transliteration": "takuna"
+    },
+    {
+      "word_arabic": "مَلَكَيۡنِ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19446,
+      "word_number_in_surah": 219,
+      "word_surah": 7,
+      "word_translation": "Angels",
+      "word_transliteration": "malakayni"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19447,
+      "word_number_in_surah": 220,
+      "word_surah": 7,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تَكُونَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19448,
+      "word_number_in_surah": 221,
+      "word_surah": 7,
+      "word_translation": "you two become",
+      "word_transliteration": "takuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 19449,
+      "word_number_in_surah": 222,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰلِدِينَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 19450,
+      "word_number_in_surah": 223,
+      "word_surah": 7,
+      "word_translation": "the immortals",
+      "word_transliteration": "al-khalidina"
+    }
+  ],
+  "fullArabic": "فَوَسۡوَسَ لَهُمَا ٱلشَّيۡطَٰنُ لِيُبۡدِيَ لَهُمَا مَا وُۥرِيَ عَنۡهُمَا مِن سَوۡءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنۡ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيۡنِ أَوۡ تَكُونَا مِنَ ٱلۡخَٰلِدِينَ",
+  "fullTranslation": "But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, \"Your Lord did not forbid you this tree except that you become angels or become of the immortal.\"",
+  "fullTransliteration": "fawaswasa lahuma al-shaytanu liyub'diya lahuma ma wuriya anhuma min sawatihima waqala ma nahakuma rabbukuma an hadhihi al-shajarati illa an takuna malakayni aw takuna mina al-khalidina"
+}

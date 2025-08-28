@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "ayah": 85,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 378,
+    "juz": 3,
+    "manzil": 1,
+    "page": 61,
+    "ruku": 50,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 85,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7610,
+      "word_number_in_surah": 1465,
+      "word_surah": 3,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَبۡتَغِ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7611,
+      "word_number_in_surah": 1466,
+      "word_surah": 3,
+      "word_translation": "seeks",
+      "word_transliteration": "yabtaghi"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7612,
+      "word_number_in_surah": 1467,
+      "word_surah": 3,
+      "word_translation": "other than",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "ٱلۡإِسۡلَٰمِ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7613,
+      "word_number_in_surah": 1468,
+      "word_surah": 3,
+      "word_translation": "[the] Islam",
+      "word_transliteration": "al-is'lami"
+    },
+    {
+      "word_arabic": "دِينٗا",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7614,
+      "word_number_in_surah": 1469,
+      "word_surah": 3,
+      "word_translation": "(as) religion",
+      "word_transliteration": "dinan"
+    },
+    {
+      "word_arabic": "فَلَن",
+      "word_ayah": 85,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7615,
+      "word_number_in_surah": 1470,
+      "word_surah": 3,
+      "word_translation": "then never",
+      "word_transliteration": "falan"
+    },
+    {
+      "word_arabic": "يُقۡبَلَ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7616,
+      "word_number_in_surah": 1471,
+      "word_surah": 3,
+      "word_translation": "will be accepted",
+      "word_transliteration": "yuq'bala"
+    },
+    {
+      "word_arabic": "مِنۡهُ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7617,
+      "word_number_in_surah": 1472,
+      "word_surah": 3,
+      "word_translation": "from him",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7618,
+      "word_number_in_surah": 1473,
+      "word_surah": 3,
+      "word_translation": "and he",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7619,
+      "word_number_in_surah": 1474,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةِ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7620,
+      "word_number_in_surah": 1475,
+      "word_surah": 3,
+      "word_translation": "the Hereafter",
+      "word_transliteration": "al-akhirati"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 85,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7621,
+      "word_number_in_surah": 1476,
+      "word_surah": 3,
+      "word_translation": "(will be) from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰسِرِينَ",
+      "word_ayah": 85,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7622,
+      "word_number_in_surah": 1477,
+      "word_surah": 3,
+      "word_translation": "the losers",
+      "word_transliteration": "al-khasirina"
+    }
+  ],
+  "fullArabic": "وَمَن يَبۡتَغِ غَيۡرَ ٱلۡإِسۡلَٰمِ دِينٗا فَلَن يُقۡبَلَ مِنۡهُ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
+  "fullTranslation": "And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers.",
+  "fullTransliteration": "waman yabtaghi ghayra al-is'lami dinan falan yuq'bala min'hu wahuwa fi al-akhirati mina al-khasirina"
+}

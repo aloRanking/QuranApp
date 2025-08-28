@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 139,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 146,
+    "juz": 1,
+    "manzil": 1,
+    "page": 21,
+    "ruku": 17,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2464,
+      "word_number_in_surah": 2435,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَتُحَآجُّونَنَا",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2465,
+      "word_number_in_surah": 2436,
+      "word_surah": 2,
+      "word_translation": "Do you argue with us",
+      "word_transliteration": "atuhajjunana"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2466,
+      "word_number_in_surah": 2437,
+      "word_surah": 2,
+      "word_translation": "about",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2467,
+      "word_number_in_surah": 2438,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2468,
+      "word_number_in_surah": 2439,
+      "word_surah": 2,
+      "word_translation": "while He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "رَبُّنَا",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2469,
+      "word_number_in_surah": 2440,
+      "word_surah": 2,
+      "word_translation": "(is) our Lord",
+      "word_transliteration": "rabbuna"
+    },
+    {
+      "word_arabic": "وَرَبُّكُمۡ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2470,
+      "word_number_in_surah": 2441,
+      "word_surah": 2,
+      "word_translation": "and your Lord",
+      "word_transliteration": "warabbukum"
+    },
+    {
+      "word_arabic": "وَلَنَآ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2471,
+      "word_number_in_surah": 2442,
+      "word_surah": 2,
+      "word_translation": "And for us",
+      "word_transliteration": "walana"
+    },
+    {
+      "word_arabic": "أَعۡمَٰلُنَا",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2472,
+      "word_number_in_surah": 2443,
+      "word_surah": 2,
+      "word_translation": "(are) our deeds",
+      "word_transliteration": "a'maluna"
+    },
+    {
+      "word_arabic": "وَلَكُمۡ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2473,
+      "word_number_in_surah": 2444,
+      "word_surah": 2,
+      "word_translation": "and for you",
+      "word_transliteration": "walakum"
+    },
+    {
+      "word_arabic": "أَعۡمَٰلُكُمۡ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2474,
+      "word_number_in_surah": 2445,
+      "word_surah": 2,
+      "word_translation": "(are) your deeds",
+      "word_transliteration": "a'malukum"
+    },
+    {
+      "word_arabic": "وَنَحۡنُ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2475,
+      "word_number_in_surah": 2446,
+      "word_surah": 2,
+      "word_translation": "and we",
+      "word_transliteration": "wanahnu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2476,
+      "word_number_in_surah": 2447,
+      "word_surah": 2,
+      "word_translation": "to Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "مُخۡلِصُونَ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2477,
+      "word_number_in_surah": 2448,
+      "word_surah": 2,
+      "word_translation": "(are) sincere",
+      "word_transliteration": "mukh'lisuna"
+    }
+  ],
+  "fullArabic": "قُلۡ أَتُحَآجُّونَنَا فِي ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمۡ وَلَنَآ أَعۡمَٰلُنَا وَلَكُمۡ أَعۡمَٰلُكُمۡ وَنَحۡنُ لَهُۥ مُخۡلِصُونَ",
+  "fullTranslation": "Say, [O Muhammad], \"Do you argue with us about Allah while He is our Lord and your Lord? For us are our deeds, and for you are your deeds. And we are sincere [in deed and intention] to Him.\"",
+  "fullTransliteration": "qul atuhajjunana fi al-lahi wahuwa rabbuna warabbukum walana a'maluna walakum a'malukum wanahnu lahu mukh'lisuna"
+}

@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "ayah": 44,
+    "surah": 7,
+    "words": 28,
+    "numberInQuran": 998,
+    "juz": 8,
+    "manzil": 2,
+    "page": 156,
+    "ruku": 126,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَنَادَىٰٓ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19903,
+      "word_number_in_surah": 676,
+      "word_surah": 7,
+      "word_translation": "And will call out",
+      "word_transliteration": "wanada"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبُ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19904,
+      "word_number_in_surah": 677,
+      "word_surah": 7,
+      "word_translation": "(the) companions",
+      "word_transliteration": "ashabu"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةِ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19905,
+      "word_number_in_surah": 678,
+      "word_surah": 7,
+      "word_translation": "(of) Paradise",
+      "word_transliteration": "al-janati"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبَ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19906,
+      "word_number_in_surah": 679,
+      "word_surah": 7,
+      "word_translation": "(to the) companions",
+      "word_transliteration": "ashaba"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19907,
+      "word_number_in_surah": 680,
+      "word_surah": 7,
+      "word_translation": "(of) the Fire",
+      "word_transliteration": "al-nari"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 44,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19908,
+      "word_number_in_surah": 681,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19909,
+      "word_number_in_surah": 682,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "وَجَدۡنَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19910,
+      "word_number_in_surah": 683,
+      "word_surah": 7,
+      "word_translation": "we found",
+      "word_transliteration": "wajadna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19911,
+      "word_number_in_surah": 684,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "وَعَدَنَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19912,
+      "word_number_in_surah": 685,
+      "word_surah": 7,
+      "word_translation": "(had) promised us",
+      "word_transliteration": "wa'adana"
+    },
+    {
+      "word_arabic": "رَبُّنَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19913,
+      "word_number_in_surah": 686,
+      "word_surah": 7,
+      "word_translation": "our Lord",
+      "word_transliteration": "rabbuna"
+    },
+    {
+      "word_arabic": "حَقّٗا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19914,
+      "word_number_in_surah": 687,
+      "word_surah": 7,
+      "word_translation": "true",
+      "word_transliteration": "haqqan"
+    },
+    {
+      "word_arabic": "فَهَلۡ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19915,
+      "word_number_in_surah": 688,
+      "word_surah": 7,
+      "word_translation": "So have",
+      "word_transliteration": "fahal"
+    },
+    {
+      "word_arabic": "وَجَدتُّم",
+      "word_ayah": 44,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19916,
+      "word_number_in_surah": 689,
+      "word_surah": 7,
+      "word_translation": "you found",
+      "word_transliteration": "wajadttum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19917,
+      "word_number_in_surah": 690,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "وَعَدَ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19918,
+      "word_number_in_surah": 691,
+      "word_surah": 7,
+      "word_translation": "(was) promised",
+      "word_transliteration": "wa'ada"
+    },
+    {
+      "word_arabic": "رَبُّكُمۡ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19919,
+      "word_number_in_surah": 692,
+      "word_surah": 7,
+      "word_translation": "(by) your Lord",
+      "word_transliteration": "rabbukum"
+    },
+    {
+      "word_arabic": "حَقّٗاۖ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19920,
+      "word_number_in_surah": 693,
+      "word_surah": 7,
+      "word_translation": "(to be) true",
+      "word_transliteration": "haqqan"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19921,
+      "word_number_in_surah": 694,
+      "word_surah": 7,
+      "word_translation": "They will say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "نَعَمۡۚ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19922,
+      "word_number_in_surah": 695,
+      "word_surah": 7,
+      "word_translation": "Yes",
+      "word_transliteration": "na'am"
+    },
+    {
+      "word_arabic": "فَأَذَّنَ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19923,
+      "word_number_in_surah": 696,
+      "word_surah": 7,
+      "word_translation": "Then will announce",
+      "word_transliteration": "fa-adhana"
+    },
+    {
+      "word_arabic": "مُؤَذِّنُۢ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19924,
+      "word_number_in_surah": 697,
+      "word_surah": 7,
+      "word_translation": "an announcer",
+      "word_transliteration": "mu-adhinun"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمۡ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19925,
+      "word_number_in_surah": 698,
+      "word_surah": 7,
+      "word_translation": "among them",
+      "word_transliteration": "baynahum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 44,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 19926,
+      "word_number_in_surah": 699,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "لَّعۡنَةُ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 19927,
+      "word_number_in_surah": 700,
+      "word_surah": 7,
+      "word_translation": "(The) curse",
+      "word_transliteration": "la'natu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 19928,
+      "word_number_in_surah": 701,
+      "word_surah": 7,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 19929,
+      "word_number_in_surah": 702,
+      "word_surah": 7,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 19930,
+      "word_number_in_surah": 703,
+      "word_surah": 7,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "وَنَادَىٰٓ أَصۡحَٰبُ ٱلۡجَنَّةِ أَصۡحَٰبَ ٱلنَّارِ أَن قَدۡ وَجَدۡنَا مَا وَعَدَنَا رَبُّنَا حَقّٗا فَهَلۡ وَجَدتُّم مَّا وَعَدَ رَبُّكُمۡ حَقّٗاۖ قَالُواْ نَعَمۡۚ فَأَذَّنَ مُؤَذِّنُۢ بَيۡنَهُمۡ أَن لَّعۡنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+  "fullTranslation": "And the companions of Paradise will call out to the companions of the Fire, \"We have already found what our Lord promised us to be true. Have you found what your Lord promised to be true?\" They will say, \"Yes.\" Then an announcer will announce among them, \"The curse of Allah shall be upon the wrongdoers.\"",
+  "fullTransliteration": "wanada ashabu al-janati ashaba al-nari an qad wajadna ma wa'adana rabbuna haqqan fahal wajadttum ma wa'ada rabbukum haqqan qalu na'am fa-adhana mu-adhinun baynahum an la'natu al-lahi ala al-zalimina"
+}

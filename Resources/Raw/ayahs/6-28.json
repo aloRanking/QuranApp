@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "ayah": 28,
+    "surah": 6,
+    "words": 16,
+    "numberInQuran": 817,
+    "juz": 7,
+    "manzil": 2,
+    "page": 131,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16590,
+      "word_number_in_surah": 413,
+      "word_surah": 6,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "بَدَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16591,
+      "word_number_in_surah": 414,
+      "word_surah": 6,
+      "word_translation": "became manifest",
+      "word_transliteration": "bada"
+    },
+    {
+      "word_arabic": "لَهُم",
+      "word_ayah": 28,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16592,
+      "word_number_in_surah": 415,
+      "word_surah": 6,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16593,
+      "word_number_in_surah": 416,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16594,
+      "word_number_in_surah": 417,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يُخۡفُونَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16595,
+      "word_number_in_surah": 418,
+      "word_surah": 6,
+      "word_translation": "conceal",
+      "word_transliteration": "yukh'funa"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 28,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16596,
+      "word_number_in_surah": 419,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُۖ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16597,
+      "word_number_in_surah": 420,
+      "word_surah": 6,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16598,
+      "word_number_in_surah": 421,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "رُدُّواْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16599,
+      "word_number_in_surah": 422,
+      "word_surah": 6,
+      "word_translation": "they were sent back",
+      "word_transliteration": "ruddu"
+    },
+    {
+      "word_arabic": "لَعَادُواْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16600,
+      "word_number_in_surah": 423,
+      "word_surah": 6,
+      "word_translation": "certainly they (would) return",
+      "word_transliteration": "la'adu"
+    },
+    {
+      "word_arabic": "لِمَا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16601,
+      "word_number_in_surah": 424,
+      "word_surah": 6,
+      "word_translation": "to what",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "نُهُواْ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16602,
+      "word_number_in_surah": 425,
+      "word_surah": 6,
+      "word_translation": "they were forbidden",
+      "word_transliteration": "nuhu"
+    },
+    {
+      "word_arabic": "عَنۡهُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16603,
+      "word_number_in_surah": 426,
+      "word_surah": 6,
+      "word_translation": "from it",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "وَإِنَّهُمۡ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16604,
+      "word_number_in_surah": 427,
+      "word_surah": 6,
+      "word_translation": "and indeed they",
+      "word_transliteration": "wa-innahum"
+    },
+    {
+      "word_arabic": "لَكَٰذِبُونَ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16605,
+      "word_number_in_surah": 428,
+      "word_surah": 6,
+      "word_translation": "certainly are liars",
+      "word_transliteration": "lakadhibuna"
+    }
+  ],
+  "fullArabic": "بَلۡ بَدَا لَهُم مَّا كَانُواْ يُخۡفُونَ مِن قَبۡلُۖ وَلَوۡ رُدُّواْ لَعَادُواْ لِمَا نُهُواْ عَنۡهُ وَإِنَّهُمۡ لَكَٰذِبُونَ",
+  "fullTranslation": "But what they concealed before has [now] appeared to them. And even if they were returned, they would return to that which they were forbidden; and indeed, they are liars.",
+  "fullTransliteration": "bal bada lahum ma kanu yukh'funa min qablu walaw ruddu la'adu lima nuhu anhu wa-innahum lakadhibuna"
+}

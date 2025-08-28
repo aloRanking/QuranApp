@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "ayah": 150,
+    "surah": 3,
+    "words": 6,
+    "numberInQuran": 443,
+    "juz": 4,
+    "manzil": 1,
+    "page": 69,
+    "ruku": 57,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَلِ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8610,
+      "word_number_in_surah": 2465,
+      "word_surah": 3,
+      "word_translation": "Nay",
+      "word_transliteration": "bali"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8611,
+      "word_number_in_surah": 2466,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مَوۡلَىٰكُمۡۖ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8612,
+      "word_number_in_surah": 2467,
+      "word_surah": 3,
+      "word_translation": "(is) your Protector",
+      "word_transliteration": "mawlakum"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8613,
+      "word_number_in_surah": 2468,
+      "word_surah": 3,
+      "word_translation": "and He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "خَيۡرُ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8614,
+      "word_number_in_surah": 2469,
+      "word_surah": 3,
+      "word_translation": "(is the) best",
+      "word_transliteration": "khayru"
+    },
+    {
+      "word_arabic": "ٱلنَّٰصِرِينَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8615,
+      "word_number_in_surah": 2470,
+      "word_surah": 3,
+      "word_translation": "(of) the Helpers",
+      "word_transliteration": "al-nasirina"
+    }
+  ],
+  "fullArabic": "بَلِ ٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ خَيۡرُ ٱلنَّٰصِرِينَ",
+  "fullTranslation": "But Allah is your protector, and He is the best of helpers.",
+  "fullTransliteration": "bali al-lahu mawlakum wahuwa khayru al-nasirina"
+}

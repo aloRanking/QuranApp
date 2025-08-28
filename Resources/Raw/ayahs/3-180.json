@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "ayah": 180,
+    "surah": 3,
+    "words": 30,
+    "numberInQuran": 473,
+    "juz": 4,
+    "manzil": 1,
+    "page": 73,
+    "ruku": 59,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9234,
+      "word_number_in_surah": 3089,
+      "word_surah": 3,
+      "word_translation": "And (let) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَحۡسَبَنَّ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9235,
+      "word_number_in_surah": 3090,
+      "word_surah": 3,
+      "word_translation": "think",
+      "word_transliteration": "yahsabanna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9236,
+      "word_number_in_surah": 3091,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَبۡخَلُونَ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9237,
+      "word_number_in_surah": 3092,
+      "word_surah": 3,
+      "word_translation": "withhold",
+      "word_transliteration": "yabkhaluna"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9238,
+      "word_number_in_surah": 3093,
+      "word_surah": 3,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "ءَاتَىٰهُمُ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9239,
+      "word_number_in_surah": 3094,
+      "word_surah": 3,
+      "word_translation": "(has) given them",
+      "word_transliteration": "atahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9240,
+      "word_number_in_surah": 3095,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 180,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9241,
+      "word_number_in_surah": 3096,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَضۡلِهِۦ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9242,
+      "word_number_in_surah": 3097,
+      "word_surah": 3,
+      "word_translation": "His Bounty",
+      "word_transliteration": "fadlihi"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9243,
+      "word_number_in_surah": 3098,
+      "word_surah": 3,
+      "word_translation": "(that) it",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "خَيۡرٗا",
+      "word_ayah": 180,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9244,
+      "word_number_in_surah": 3099,
+      "word_surah": 3,
+      "word_translation": "(is) good",
+      "word_transliteration": "khayran"
+    },
+    {
+      "word_arabic": "لَّهُمۖ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9245,
+      "word_number_in_surah": 3100,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9246,
+      "word_number_in_surah": 3101,
+      "word_surah": 3,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9247,
+      "word_number_in_surah": 3102,
+      "word_surah": 3,
+      "word_translation": "it",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "شَرّٞ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9248,
+      "word_number_in_surah": 3103,
+      "word_surah": 3,
+      "word_translation": "(is) bad",
+      "word_transliteration": "sharrun"
+    },
+    {
+      "word_arabic": "لَّهُمۡۖ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9249,
+      "word_number_in_surah": 3104,
+      "word_surah": 3,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "سَيُطَوَّقُونَ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9250,
+      "word_number_in_surah": 3105,
+      "word_surah": 3,
+      "word_translation": "Their necks will be encircled",
+      "word_transliteration": "sayutawwaquna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9251,
+      "word_number_in_surah": 3106,
+      "word_surah": 3,
+      "word_translation": "(with) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "بَخِلُواْ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9252,
+      "word_number_in_surah": 3107,
+      "word_surah": 3,
+      "word_translation": "they withheld",
+      "word_transliteration": "bakhilu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9253,
+      "word_number_in_surah": 3108,
+      "word_surah": 3,
+      "word_translation": "[with it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9254,
+      "word_number_in_surah": 3109,
+      "word_surah": 3,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِۗ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9255,
+      "word_number_in_surah": 3110,
+      "word_surah": 3,
+      "word_translation": "(of) [the] Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 9256,
+      "word_number_in_surah": 3111,
+      "word_surah": 3,
+      "word_translation": "And for Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "مِيرَٰثُ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 9257,
+      "word_number_in_surah": 3112,
+      "word_surah": 3,
+      "word_translation": "(is the) heritage",
+      "word_transliteration": "mirathu"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 9258,
+      "word_number_in_surah": 3113,
+      "word_surah": 3,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِۗ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 9259,
+      "word_number_in_surah": 3114,
+      "word_surah": 3,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 180,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 9260,
+      "word_number_in_surah": 3115,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 9261,
+      "word_number_in_surah": 3116,
+      "word_surah": 3,
+      "word_translation": "with what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 9262,
+      "word_number_in_surah": 3117,
+      "word_surah": 3,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    },
+    {
+      "word_arabic": "خَبِيرٞ",
+      "word_ayah": 180,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 9263,
+      "word_number_in_surah": 3118,
+      "word_surah": 3,
+      "word_translation": "(is) All-Aware",
+      "word_transliteration": "khabirun"
+    }
+  ],
+  "fullArabic": "وَلَا يَحۡسَبَنَّ ٱلَّذِينَ يَبۡخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦ هُوَ خَيۡرٗا لَّهُمۖ بَلۡ هُوَ شَرّٞ لَّهُمۡۖ سَيُطَوَّقُونَ مَا بَخِلُواْ بِهِۦ يَوۡمَ ٱلۡقِيَٰمَةِۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "fullTranslation": "And let not those who [greedily] withhold what Allah has given them of His bounty ever think that it is better for them. Rather, it is worse for them. Their necks will be encircled by what they withheld on the Day of Resurrection. And to Allah belongs the heritage of the heavens and the earth. And Allah, with what you do, is [fully] Acquainted.",
+  "fullTransliteration": "wala yahsabanna alladhina yabkhaluna bima atahumu al-lahu min fadlihi huwa khayran lahum bal huwa sharrun lahum sayutawwaquna ma bakhilu bihi yawma al-qiyamati walillahi mirathu al-samawati wal-ardi wal-lahu bima ta'maluna khabirun"
+}

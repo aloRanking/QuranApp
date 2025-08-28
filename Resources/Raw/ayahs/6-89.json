@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "ayah": 89,
+    "surah": 6,
+    "words": 17,
+    "numberInQuran": 878,
+    "juz": 7,
+    "manzil": 2,
+    "page": 138,
+    "ruku": 111,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17640,
+      "word_number_in_surah": 1463,
+      "word_surah": 6,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17641,
+      "word_number_in_surah": 1464,
+      "word_surah": 6,
+      "word_translation": "(are) ones whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَٰهُمُ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17642,
+      "word_number_in_surah": 1465,
+      "word_surah": 6,
+      "word_translation": "We gave them",
+      "word_transliteration": "ataynahumu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17643,
+      "word_number_in_surah": 1466,
+      "word_surah": 6,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡحُكۡمَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17644,
+      "word_number_in_surah": 1467,
+      "word_surah": 6,
+      "word_translation": "and the judgment",
+      "word_transliteration": "wal-huk'ma"
+    },
+    {
+      "word_arabic": "وَٱلنُّبُوَّةَۚ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17645,
+      "word_number_in_surah": 1468,
+      "word_surah": 6,
+      "word_translation": "and the Prophethood",
+      "word_transliteration": "wal-nubuwata"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 89,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17646,
+      "word_number_in_surah": 1469,
+      "word_surah": 6,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "يَكۡفُرۡ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17647,
+      "word_number_in_surah": 1470,
+      "word_surah": 6,
+      "word_translation": "disbelieve",
+      "word_transliteration": "yakfur"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17648,
+      "word_number_in_surah": 1471,
+      "word_surah": 6,
+      "word_translation": "in it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "هَٰٓؤُلَآءِ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17649,
+      "word_number_in_surah": 1472,
+      "word_surah": 6,
+      "word_translation": "these",
+      "word_transliteration": "haulai"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17650,
+      "word_number_in_surah": 1473,
+      "word_surah": 6,
+      "word_translation": "then indeed",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "وَكَّلۡنَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17651,
+      "word_number_in_surah": 1474,
+      "word_surah": 6,
+      "word_translation": "We have entrusted",
+      "word_transliteration": "wakkalna"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17652,
+      "word_number_in_surah": 1475,
+      "word_surah": 6,
+      "word_translation": "it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "قَوۡمٗا",
+      "word_ayah": 89,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17653,
+      "word_number_in_surah": 1476,
+      "word_surah": 6,
+      "word_translation": "(to) a people",
+      "word_transliteration": "qawman"
+    },
+    {
+      "word_arabic": "لَّيۡسُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17654,
+      "word_number_in_surah": 1477,
+      "word_surah": 6,
+      "word_translation": "who are not",
+      "word_transliteration": "laysu"
+    },
+    {
+      "word_arabic": "بِهَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17655,
+      "word_number_in_surah": 1478,
+      "word_surah": 6,
+      "word_translation": "therein",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "بِكَٰفِرِينَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17656,
+      "word_number_in_surah": 1479,
+      "word_surah": 6,
+      "word_translation": "disbelievers",
+      "word_transliteration": "bikafirina"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَۚ فَإِن يَكۡفُرۡ بِهَا هَٰٓؤُلَآءِ فَقَدۡ وَكَّلۡنَا بِهَا قَوۡمٗا لَّيۡسُواْ بِهَا بِكَٰفِرِينَ",
+  "fullTranslation": "Those are the ones to whom We gave the Scripture and authority and prophethood. But if the disbelievers deny it, then We have entrusted it to a people who are not therein disbelievers.",
+  "fullTransliteration": "ulaika alladhina ataynahumu al-kitaba wal-huk'ma wal-nubuwata fa-in yakfur biha haulai faqad wakkalna biha qawman laysu biha bikafirina"
+}

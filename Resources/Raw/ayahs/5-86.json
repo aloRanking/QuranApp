@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "ayah": 86,
+    "surah": 5,
+    "words": 7,
+    "numberInQuran": 755,
+    "juz": 7,
+    "manzil": 2,
+    "page": 122,
+    "ruku": 96,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15388,
+      "word_number_in_surah": 2015,
+      "word_surah": 5,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15389,
+      "word_number_in_surah": 2016,
+      "word_surah": 5,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "وَكَذَّبُواْ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15390,
+      "word_number_in_surah": 2017,
+      "word_surah": 5,
+      "word_translation": "and denied",
+      "word_transliteration": "wakadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَآ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15391,
+      "word_number_in_surah": 2018,
+      "word_surah": 5,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15392,
+      "word_number_in_surah": 2019,
+      "word_surah": 5,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبُ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15393,
+      "word_number_in_surah": 2020,
+      "word_surah": 5,
+      "word_translation": "(are the) companions",
+      "word_transliteration": "ashabu"
+    },
+    {
+      "word_arabic": "ٱلۡجَحِيمِ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15394,
+      "word_number_in_surah": 2021,
+      "word_surah": 5,
+      "word_translation": "(of) the Hellfire",
+      "word_transliteration": "al-jahimi"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِ‍َٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ",
+  "fullTranslation": "But those who disbelieved and denied Our signs - they are the companions of Hellfire.",
+  "fullTransliteration": "wa-alladhina kafaru wakadhabu biayatina ulaika ashabu al-jahimi"
+}

@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "ayah": 69,
+    "surah": 5,
+    "words": 20,
+    "numberInQuran": 738,
+    "juz": 6,
+    "manzil": 2,
+    "page": 119,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15062,
+      "word_number_in_surah": 1689,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15063,
+      "word_number_in_surah": 1690,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15064,
+      "word_number_in_surah": 1691,
+      "word_surah": 5,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15065,
+      "word_number_in_surah": 1692,
+      "word_surah": 5,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "هَادُواْ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15066,
+      "word_number_in_surah": 1693,
+      "word_surah": 5,
+      "word_translation": "became Jews",
+      "word_transliteration": "hadu"
+    },
+    {
+      "word_arabic": "وَٱلصَّٰبِ‍ُٔونَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15067,
+      "word_number_in_surah": 1694,
+      "word_surah": 5,
+      "word_translation": "and the Sabians",
+      "word_transliteration": "wal-sabiuna"
+    },
+    {
+      "word_arabic": "وَٱلنَّصَٰرَىٰ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15068,
+      "word_number_in_surah": 1695,
+      "word_surah": 5,
+      "word_translation": "and the Christians",
+      "word_transliteration": "wal-nasara"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15069,
+      "word_number_in_surah": 1696,
+      "word_surah": 5,
+      "word_translation": "whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "ءَامَنَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15070,
+      "word_number_in_surah": 1697,
+      "word_surah": 5,
+      "word_translation": "believed",
+      "word_transliteration": "amana"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15071,
+      "word_number_in_surah": 1698,
+      "word_surah": 5,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡيَوۡمِ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15072,
+      "word_number_in_surah": 1699,
+      "word_surah": 5,
+      "word_translation": "and the Day",
+      "word_transliteration": "wal-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15073,
+      "word_number_in_surah": 1700,
+      "word_surah": 5,
+      "word_translation": "the Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "وَعَمِلَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15074,
+      "word_number_in_surah": 1701,
+      "word_surah": 5,
+      "word_translation": "and did",
+      "word_transliteration": "wa'amila"
+    },
+    {
+      "word_arabic": "صَٰلِحٗا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15075,
+      "word_number_in_surah": 1702,
+      "word_surah": 5,
+      "word_translation": "good deeds",
+      "word_transliteration": "salihan"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15076,
+      "word_number_in_surah": 1703,
+      "word_surah": 5,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "خَوۡفٌ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15077,
+      "word_number_in_surah": 1704,
+      "word_surah": 5,
+      "word_translation": "fear",
+      "word_transliteration": "khawfun"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15078,
+      "word_number_in_surah": 1705,
+      "word_surah": 5,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15079,
+      "word_number_in_surah": 1706,
+      "word_surah": 5,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 69,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15080,
+      "word_number_in_surah": 1707,
+      "word_surah": 5,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يَحۡزَنُونَ",
+      "word_ayah": 69,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15081,
+      "word_number_in_surah": 1708,
+      "word_surah": 5,
+      "word_translation": "will grieve",
+      "word_transliteration": "yahzanuna"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّٰبِ‍ُٔونَ وَٱلنَّصَٰرَىٰ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "fullTranslation": "Indeed, those who have believed [in Prophet Muhammad] and those [before Him] who were Jews or Sabeans or Christians - those [among them] who believed in Allah and the Last Day and did righteousness - no fear will there be concerning them, nor will they grieve.",
+  "fullTransliteration": "inna alladhina amanu wa-alladhina hadu wal-sabiuna wal-nasara man amana bil-lahi wal-yawmi al-akhiri wa'amila salihan fala khawfun alayhim wala hum yahzanuna"
+}

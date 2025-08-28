@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "ayah": 37,
+    "surah": 3,
+    "words": 34,
+    "numberInQuran": 330,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَتَقَبَّلَهَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6769,
+      "word_number_in_surah": 624,
+      "word_surah": 3,
+      "word_translation": "So accepted her",
+      "word_transliteration": "fataqabbalaha"
+    },
+    {
+      "word_arabic": "رَبُّهَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6770,
+      "word_number_in_surah": 625,
+      "word_surah": 3,
+      "word_translation": "her Lord",
+      "word_transliteration": "rabbuha"
+    },
+    {
+      "word_arabic": "بِقَبُولٍ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6771,
+      "word_number_in_surah": 626,
+      "word_surah": 3,
+      "word_translation": "with acceptance",
+      "word_transliteration": "biqabulin"
+    },
+    {
+      "word_arabic": "حَسَنٖ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6772,
+      "word_number_in_surah": 627,
+      "word_surah": 3,
+      "word_translation": "good",
+      "word_transliteration": "hasanin"
+    },
+    {
+      "word_arabic": "وَأَنۢبَتَهَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6773,
+      "word_number_in_surah": 628,
+      "word_surah": 3,
+      "word_translation": "and made her grow",
+      "word_transliteration": "wa-anbataha"
+    },
+    {
+      "word_arabic": "نَبَاتًا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6774,
+      "word_number_in_surah": 629,
+      "word_surah": 3,
+      "word_translation": "a growing",
+      "word_transliteration": "nabatan"
+    },
+    {
+      "word_arabic": "حَسَنٗا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6775,
+      "word_number_in_surah": 630,
+      "word_surah": 3,
+      "word_translation": "good",
+      "word_transliteration": "hasanan"
+    },
+    {
+      "word_arabic": "وَكَفَّلَهَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6776,
+      "word_number_in_surah": 631,
+      "word_surah": 3,
+      "word_translation": "and put her in (the) care",
+      "word_transliteration": "wakaffalaha"
+    },
+    {
+      "word_arabic": "زَكَرِيَّاۖ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6777,
+      "word_number_in_surah": 632,
+      "word_surah": 3,
+      "word_translation": "(of) Zakariya",
+      "word_transliteration": "zakariyya"
+    },
+    {
+      "word_arabic": "كُلَّمَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6778,
+      "word_number_in_surah": 633,
+      "word_surah": 3,
+      "word_translation": "Whenever",
+      "word_transliteration": "kullama"
+    },
+    {
+      "word_arabic": "دَخَلَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6779,
+      "word_number_in_surah": 634,
+      "word_surah": 3,
+      "word_translation": "entered",
+      "word_transliteration": "dakhala"
+    },
+    {
+      "word_arabic": "عَلَيۡهَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6780,
+      "word_number_in_surah": 635,
+      "word_surah": 3,
+      "word_translation": "upon her",
+      "word_transliteration": "alayha"
+    },
+    {
+      "word_arabic": "زَكَرِيَّا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6781,
+      "word_number_in_surah": 636,
+      "word_surah": 3,
+      "word_translation": "Zakariya",
+      "word_transliteration": "zakariyya"
+    },
+    {
+      "word_arabic": "ٱلۡمِحۡرَابَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6782,
+      "word_number_in_surah": 637,
+      "word_surah": 3,
+      "word_translation": "[the] prayer chamber",
+      "word_transliteration": "al-mih'raba"
+    },
+    {
+      "word_arabic": "وَجَدَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6783,
+      "word_number_in_surah": 638,
+      "word_surah": 3,
+      "word_translation": "he found",
+      "word_transliteration": "wajada"
+    },
+    {
+      "word_arabic": "عِندَهَا",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6784,
+      "word_number_in_surah": 639,
+      "word_surah": 3,
+      "word_translation": "with her",
+      "word_transliteration": "indaha"
+    },
+    {
+      "word_arabic": "رِزۡقٗاۖ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6785,
+      "word_number_in_surah": 640,
+      "word_surah": 3,
+      "word_translation": "provision",
+      "word_transliteration": "riz'qan"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6786,
+      "word_number_in_surah": 641,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "يَٰمَرۡيَمُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6787,
+      "word_number_in_surah": 642,
+      "word_surah": 3,
+      "word_translation": "O Maryam",
+      "word_transliteration": "yamaryamu"
+    },
+    {
+      "word_arabic": "أَنَّىٰ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6788,
+      "word_number_in_surah": 643,
+      "word_surah": 3,
+      "word_translation": "From where",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "لَكِ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6789,
+      "word_number_in_surah": 644,
+      "word_surah": 3,
+      "word_translation": "for you",
+      "word_transliteration": "laki"
+    },
+    {
+      "word_arabic": "هَٰذَاۖ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6790,
+      "word_number_in_surah": 645,
+      "word_surah": 3,
+      "word_translation": "(is) this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "قَالَتۡ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6791,
+      "word_number_in_surah": 646,
+      "word_surah": 3,
+      "word_translation": "She said",
+      "word_transliteration": "qalat"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6792,
+      "word_number_in_surah": 647,
+      "word_surah": 3,
+      "word_translation": "This",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6793,
+      "word_number_in_surah": 648,
+      "word_surah": 3,
+      "word_translation": "(is)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6794,
+      "word_number_in_surah": 649,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 6795,
+      "word_number_in_surah": 650,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 6796,
+      "word_number_in_surah": 651,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 6797,
+      "word_number_in_surah": 652,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَرۡزُقُ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 6798,
+      "word_number_in_surah": 653,
+      "word_surah": 3,
+      "word_translation": "gives provision",
+      "word_transliteration": "yarzuqu"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 37,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 6799,
+      "word_number_in_surah": 654,
+      "word_surah": 3,
+      "word_translation": "(to) whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 6800,
+      "word_number_in_surah": 655,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 37,
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 6801,
+      "word_number_in_surah": 656,
+      "word_surah": 3,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "حِسَابٍ",
+      "word_ayah": 37,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 6802,
+      "word_number_in_surah": 657,
+      "word_surah": 3,
+      "word_translation": "measure",
+      "word_transliteration": "hisabin"
+    }
+  ],
+  "fullArabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٖ وَأَنۢبَتَهَا نَبَاتًا حَسَنٗا وَكَفَّلَهَا زَكَرِيَّاۖ كُلَّمَا دَخَلَ عَلَيۡهَا زَكَرِيَّا ٱلۡمِحۡرَابَ وَجَدَ عِندَهَا رِزۡقٗاۖ قَالَ يَٰمَرۡيَمُ أَنَّىٰ لَكِ هَٰذَاۖ قَالَتۡ هُوَ مِنۡ عِندِ ٱللَّهِۖ إِنَّ ٱللَّهَ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٍ",
+  "fullTranslation": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allah. Indeed, Allah provides for whom He wills without account.\"",
+  "fullTransliteration": "fataqabbalaha rabbuha biqabulin hasanin wa-anbataha nabatan hasanan wakaffalaha zakariyya kullama dakhala alayha zakariyya al-mih'raba wajada indaha riz'qan qala yamaryamu anna laki hadha qalat huwa min indi al-lahi inna al-laha yarzuqu man yashau bighayri hisabin"
+}

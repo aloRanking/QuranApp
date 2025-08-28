@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 61,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 554,
+    "juz": 5,
+    "manzil": 1,
+    "page": 88,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11015,
+      "word_number_in_surah": 1389,
+      "word_surah": 4,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "قِيلَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11016,
+      "word_number_in_surah": 1390,
+      "word_surah": 4,
+      "word_translation": "it is said",
+      "word_transliteration": "qila"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11017,
+      "word_number_in_surah": 1391,
+      "word_surah": 4,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "تَعَالَوۡاْ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11018,
+      "word_number_in_surah": 1392,
+      "word_surah": 4,
+      "word_translation": "Come",
+      "word_transliteration": "ta'alaw"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11019,
+      "word_number_in_surah": 1393,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11020,
+      "word_number_in_surah": 1394,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11021,
+      "word_number_in_surah": 1395,
+      "word_surah": 4,
+      "word_translation": "(has) revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11022,
+      "word_number_in_surah": 1396,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَإِلَى",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11023,
+      "word_number_in_surah": 1397,
+      "word_surah": 4,
+      "word_translation": "and to",
+      "word_transliteration": "wa-ila"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولِ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11024,
+      "word_number_in_surah": 1398,
+      "word_surah": 4,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasuli"
+    },
+    {
+      "word_arabic": "رَأَيۡتَ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11025,
+      "word_number_in_surah": 1399,
+      "word_surah": 4,
+      "word_translation": "you see",
+      "word_transliteration": "ra-ayta"
+    },
+    {
+      "word_arabic": "ٱلۡمُنَٰفِقِينَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11026,
+      "word_number_in_surah": 1400,
+      "word_surah": 4,
+      "word_translation": "the hypocrites",
+      "word_transliteration": "al-munafiqina"
+    },
+    {
+      "word_arabic": "يَصُدُّونَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11027,
+      "word_number_in_surah": 1401,
+      "word_surah": 4,
+      "word_translation": "turning away",
+      "word_transliteration": "yasudduna"
+    },
+    {
+      "word_arabic": "عَنكَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11028,
+      "word_number_in_surah": 1402,
+      "word_surah": 4,
+      "word_translation": "from you",
+      "word_transliteration": "anka"
+    },
+    {
+      "word_arabic": "صُدُودٗا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11029,
+      "word_number_in_surah": 1403,
+      "word_surah": 4,
+      "word_translation": "(in) aversion",
+      "word_transliteration": "sududan"
+    }
+  ],
+  "fullArabic": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيۡتَ ٱلۡمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودٗا",
+  "fullTranslation": "And when it is said to them, \"Come to what Allah has revealed and to the Messenger,\" you see the hypocrites turning away from you in aversion.",
+  "fullTransliteration": "wa-idha qila lahum ta'alaw ila ma anzala al-lahu wa-ila al-rasuli ra-ayta al-munafiqina yasudduna anka sududan"
+}

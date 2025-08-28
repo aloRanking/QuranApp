@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 115,
+    "surah": 5,
+    "words": 17,
+    "numberInQuran": 784,
+    "juz": 7,
+    "manzil": 2,
+    "page": 127,
+    "ruku": 100,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16042,
+      "word_number_in_surah": 2669,
+      "word_surah": 5,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16043,
+      "word_number_in_surah": 2670,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16044,
+      "word_number_in_surah": 2671,
+      "word_surah": 5,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "مُنَزِّلُهَا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16045,
+      "word_number_in_surah": 2672,
+      "word_surah": 5,
+      "word_translation": "(will) send it down",
+      "word_transliteration": "munazziluha"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡۖ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16046,
+      "word_number_in_surah": 2673,
+      "word_surah": 5,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 115,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16047,
+      "word_number_in_surah": 2674,
+      "word_surah": 5,
+      "word_translation": "then whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "يَكۡفُرۡ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16048,
+      "word_number_in_surah": 2675,
+      "word_surah": 5,
+      "word_translation": "disbelieves",
+      "word_transliteration": "yakfur"
+    },
+    {
+      "word_arabic": "بَعۡدُ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16049,
+      "word_number_in_surah": 2676,
+      "word_surah": 5,
+      "word_translation": "after (that)",
+      "word_transliteration": "ba'du"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16050,
+      "word_number_in_surah": 2677,
+      "word_surah": 5,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "فَإِنِّيٓ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16051,
+      "word_number_in_surah": 2678,
+      "word_surah": 5,
+      "word_translation": "then indeed I",
+      "word_transliteration": "fa-inni"
+    },
+    {
+      "word_arabic": "أُعَذِّبُهُۥ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16052,
+      "word_number_in_surah": 2679,
+      "word_surah": 5,
+      "word_translation": "[I] will punish him",
+      "word_transliteration": "u'adhibuhu"
+    },
+    {
+      "word_arabic": "عَذَابٗا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16053,
+      "word_number_in_surah": 2680,
+      "word_surah": 5,
+      "word_translation": "(with) a punishment",
+      "word_transliteration": "adhaban"
+    },
+    {
+      "word_arabic": "لَّآ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16054,
+      "word_number_in_surah": 2681,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "أُعَذِّبُهُۥٓ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16055,
+      "word_number_in_surah": 2682,
+      "word_surah": 5,
+      "word_translation": "I have punished",
+      "word_transliteration": "u'adhibuhu"
+    },
+    {
+      "word_arabic": "أَحَدٗا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16056,
+      "word_number_in_surah": 2683,
+      "word_surah": 5,
+      "word_translation": "anyone",
+      "word_transliteration": "ahadan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16057,
+      "word_number_in_surah": 2684,
+      "word_surah": 5,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16058,
+      "word_number_in_surah": 2685,
+      "word_surah": 5,
+      "word_translation": "the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "قَالَ ٱللَّهُ إِنِّي مُنَزِّلُهَا عَلَيۡكُمۡۖ فَمَن يَكۡفُرۡ بَعۡدُ مِنكُمۡ فَإِنِّيٓ أُعَذِّبُهُۥ عَذَابٗا لَّآ أُعَذِّبُهُۥٓ أَحَدٗا مِّنَ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "Allah said, \"Indeed, I will sent it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds.\"",
+  "fullTransliteration": "qala al-lahu inni munazziluha alaykum faman yakfur ba'du minkum fa-inni u'adhibuhu adhaban la u'adhibuhu ahadan mina al-'alamina"
+}

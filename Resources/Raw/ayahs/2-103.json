@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "ayah": 103,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 110,
+    "juz": 1,
+    "manzil": 1,
+    "page": 16,
+    "ruku": 13,
+    "hizbQuarter": 6,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1791,
+      "word_number_in_surah": 1762,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَنَّهُمۡ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1792,
+      "word_number_in_surah": 1763,
+      "word_surah": 2,
+      "word_translation": "[that] they",
+      "word_transliteration": "annahum"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1793,
+      "word_number_in_surah": 1764,
+      "word_surah": 2,
+      "word_translation": "(had) believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَٱتَّقَوۡاْ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1794,
+      "word_number_in_surah": 1765,
+      "word_surah": 2,
+      "word_translation": "and feared (Allah)",
+      "word_transliteration": "wa-ittaqaw"
+    },
+    {
+      "word_arabic": "لَمَثُوبَةٞ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1795,
+      "word_number_in_surah": 1766,
+      "word_surah": 2,
+      "word_translation": "surely (the) reward",
+      "word_transliteration": "lamathubatun"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1796,
+      "word_number_in_surah": 1767,
+      "word_surah": 2,
+      "word_translation": "(of)",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1797,
+      "word_number_in_surah": 1768,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "indi"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1798,
+      "word_number_in_surah": 1769,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "خَيۡرٞۚ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1799,
+      "word_number_in_surah": 1770,
+      "word_surah": 2,
+      "word_translation": "(would have been) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "لَّوۡ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1800,
+      "word_number_in_surah": 1771,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1801,
+      "word_number_in_surah": 1772,
+      "word_surah": 2,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1802,
+      "word_number_in_surah": 1773,
+      "word_surah": 2,
+      "word_translation": "(to) know",
+      "word_transliteration": "ya'lamuna"
+    }
+  ],
+  "fullArabic": "وَلَوۡ أَنَّهُمۡ ءَامَنُواْ وَٱتَّقَوۡاْ لَمَثُوبَةٞ مِّنۡ عِندِ ٱللَّهِ خَيۡرٞۚ لَّوۡ كَانُواْ يَعۡلَمُونَ",
+  "fullTranslation": "And if they had believed and feared Allah, then the reward from Allah would have been [far] better, if they only knew.",
+  "fullTransliteration": "walaw annahum amanu wa-ittaqaw lamathubatun min indi al-lahi khayrun law kanu ya'lamuna"
+}

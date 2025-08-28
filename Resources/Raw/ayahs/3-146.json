@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "ayah": 146,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 439,
+    "juz": 4,
+    "manzil": 1,
+    "page": 68,
+    "ruku": 56,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَأَيِّن",
+      "word_ayah": 146,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8548,
+      "word_number_in_surah": 2403,
+      "word_surah": 3,
+      "word_translation": "And how many",
+      "word_transliteration": "waka-ayyin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 146,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8549,
+      "word_number_in_surah": 2404,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّبِيّٖ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8550,
+      "word_number_in_surah": 2405,
+      "word_surah": 3,
+      "word_translation": "a Prophet",
+      "word_transliteration": "nabiyyin"
+    },
+    {
+      "word_arabic": "قَٰتَلَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8551,
+      "word_number_in_surah": 2406,
+      "word_surah": 3,
+      "word_translation": "fought",
+      "word_transliteration": "qatala"
+    },
+    {
+      "word_arabic": "مَعَهُۥ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8552,
+      "word_number_in_surah": 2407,
+      "word_surah": 3,
+      "word_translation": "with him",
+      "word_transliteration": "ma'ahu"
+    },
+    {
+      "word_arabic": "رِبِّيُّونَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8553,
+      "word_number_in_surah": 2408,
+      "word_surah": 3,
+      "word_translation": "(were) religious scholars",
+      "word_transliteration": "ribbiyyuna"
+    },
+    {
+      "word_arabic": "كَثِيرٞ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8554,
+      "word_number_in_surah": 2409,
+      "word_surah": 3,
+      "word_translation": "many",
+      "word_transliteration": "kathirun"
+    },
+    {
+      "word_arabic": "فَمَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8555,
+      "word_number_in_surah": 2410,
+      "word_surah": 3,
+      "word_translation": "But not",
+      "word_transliteration": "fama"
+    },
+    {
+      "word_arabic": "وَهَنُواْ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8556,
+      "word_number_in_surah": 2411,
+      "word_surah": 3,
+      "word_translation": "they lost heart",
+      "word_transliteration": "wahanu"
+    },
+    {
+      "word_arabic": "لِمَآ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8557,
+      "word_number_in_surah": 2412,
+      "word_surah": 3,
+      "word_translation": "for what",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "أَصَابَهُمۡ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8558,
+      "word_number_in_surah": 2413,
+      "word_surah": 3,
+      "word_translation": "befell them",
+      "word_transliteration": "asabahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8559,
+      "word_number_in_surah": 2414,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8560,
+      "word_number_in_surah": 2415,
+      "word_surah": 3,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8561,
+      "word_number_in_surah": 2416,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8562,
+      "word_number_in_surah": 2417,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ضَعُفُواْ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8563,
+      "word_number_in_surah": 2418,
+      "word_surah": 3,
+      "word_translation": "they weakened",
+      "word_transliteration": "da'ufu"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8564,
+      "word_number_in_surah": 2419,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱسۡتَكَانُواْۗ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8565,
+      "word_number_in_surah": 2420,
+      "word_surah": 3,
+      "word_translation": "they gave in",
+      "word_transliteration": "is'takanu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8566,
+      "word_number_in_surah": 2421,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8567,
+      "word_number_in_surah": 2422,
+      "word_surah": 3,
+      "word_translation": "loves",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلصَّٰبِرِينَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8568,
+      "word_number_in_surah": 2423,
+      "word_surah": 3,
+      "word_translation": "the patient ones",
+      "word_transliteration": "al-sabirina"
+    }
+  ],
+  "fullArabic": "وَكَأَيِّن مِّن نَّبِيّٖ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٞ فَمَا وَهَنُواْ لِمَآ أَصَابَهُمۡ فِي سَبِيلِ ٱللَّهِ وَمَا ضَعُفُواْ وَمَا ٱسۡتَكَانُواْۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
+  "fullTranslation": "And how many a prophet [fought and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allah, nor did they weaken or submit. And Allah loves the steadfast.",
+  "fullTransliteration": "waka-ayyin min nabiyyin qatala ma'ahu ribbiyyuna kathirun fama wahanu lima asabahum fi sabili al-lahi wama da'ufu wama is'takanu wal-lahu yuhibbu al-sabirina"
+}

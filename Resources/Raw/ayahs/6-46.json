@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "ayah": 46,
+    "surah": 6,
+    "words": 23,
+    "numberInQuran": 835,
+    "juz": 7,
+    "manzil": 2,
+    "page": 133,
+    "ruku": 106,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16886,
+      "word_number_in_surah": 709,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَرَءَيۡتُمۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16887,
+      "word_number_in_surah": 710,
+      "word_surah": 6,
+      "word_translation": "Have you seen",
+      "word_transliteration": "ara-aytum"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16888,
+      "word_number_in_surah": 711,
+      "word_surah": 6,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "أَخَذَ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16889,
+      "word_number_in_surah": 712,
+      "word_surah": 6,
+      "word_translation": "took away",
+      "word_transliteration": "akhadha"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16890,
+      "word_number_in_surah": 713,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "سَمۡعَكُمۡ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16891,
+      "word_number_in_surah": 714,
+      "word_surah": 6,
+      "word_translation": "your hearing",
+      "word_transliteration": "sam'akum"
+    },
+    {
+      "word_arabic": "وَأَبۡصَٰرَكُمۡ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16892,
+      "word_number_in_surah": 715,
+      "word_surah": 6,
+      "word_translation": "and your sight",
+      "word_transliteration": "wa-absarakum"
+    },
+    {
+      "word_arabic": "وَخَتَمَ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16893,
+      "word_number_in_surah": 716,
+      "word_surah": 6,
+      "word_translation": "and sealed",
+      "word_transliteration": "wakhatama"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16894,
+      "word_number_in_surah": 717,
+      "word_surah": 6,
+      "word_translation": "[on]",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "قُلُوبِكُم",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16895,
+      "word_number_in_surah": 718,
+      "word_surah": 6,
+      "word_translation": "your hearts",
+      "word_transliteration": "qulubikum"
+    },
+    {
+      "word_arabic": "مَّنۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16896,
+      "word_number_in_surah": 719,
+      "word_surah": 6,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "إِلَٰهٌ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16897,
+      "word_number_in_surah": 720,
+      "word_surah": 6,
+      "word_translation": "(is the) god",
+      "word_transliteration": "ilahun"
+    },
+    {
+      "word_arabic": "غَيۡرُ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16898,
+      "word_number_in_surah": 721,
+      "word_surah": 6,
+      "word_translation": "other than",
+      "word_transliteration": "ghayru"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16899,
+      "word_number_in_surah": 722,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يَأۡتِيكُم",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16900,
+      "word_number_in_surah": 723,
+      "word_surah": 6,
+      "word_translation": "to bring [back] to you",
+      "word_transliteration": "yatikum"
+    },
+    {
+      "word_arabic": "بِهِۗ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16901,
+      "word_number_in_surah": 724,
+      "word_surah": 6,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "ٱنظُرۡ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16902,
+      "word_number_in_surah": 725,
+      "word_surah": 6,
+      "word_translation": "See",
+      "word_transliteration": "unzur"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16903,
+      "word_number_in_surah": 726,
+      "word_surah": 6,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "نُصَرِّفُ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16904,
+      "word_number_in_surah": 727,
+      "word_surah": 6,
+      "word_translation": "We explain",
+      "word_transliteration": "nusarrifu"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16905,
+      "word_number_in_surah": 728,
+      "word_surah": 6,
+      "word_translation": "the Signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16906,
+      "word_number_in_surah": 729,
+      "word_surah": 6,
+      "word_translation": "yet",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 46,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16907,
+      "word_number_in_surah": 730,
+      "word_surah": 6,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يَصۡدِفُونَ",
+      "word_ayah": 46,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16908,
+      "word_number_in_surah": 731,
+      "word_surah": 6,
+      "word_translation": "turn away",
+      "word_transliteration": "yasdifuna"
+    }
+  ],
+  "fullArabic": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَخَذَ ٱللَّهُ سَمۡعَكُمۡ وَأَبۡصَٰرَكُمۡ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِهِۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ ثُمَّ هُمۡ يَصۡدِفُونَ",
+  "fullTranslation": "Say, \"Have you considered: if Allah should take away your hearing and your sight and set a seal upon your hearts, which deity other than Allah could bring them [back] to you?\" Look how we diversify the verses; then they [still] turn away.",
+  "fullTransliteration": "qul ara-aytum in akhadha al-lahu sam'akum wa-absarakum wakhatama ala qulubikum man ilahun ghayru al-lahi yatikum bihi unzur kayfa nusarrifu al-ayati thumma hum yasdifuna"
+}

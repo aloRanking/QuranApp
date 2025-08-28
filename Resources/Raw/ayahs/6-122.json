@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "ayah": 122,
+    "surah": 6,
+    "words": 24,
+    "numberInQuran": 911,
+    "juz": 8,
+    "manzil": 2,
+    "page": 143,
+    "ruku": 116,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوَمَن",
+      "word_ayah": 122,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18277,
+      "word_number_in_surah": 2100,
+      "word_surah": 6,
+      "word_translation": "Is (one) who",
+      "word_transliteration": "awaman"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18278,
+      "word_number_in_surah": 2101,
+      "word_surah": 6,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "مَيۡتٗا",
+      "word_ayah": 122,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18279,
+      "word_number_in_surah": 2102,
+      "word_surah": 6,
+      "word_translation": "dead",
+      "word_transliteration": "maytan"
+    },
+    {
+      "word_arabic": "فَأَحۡيَيۡنَٰهُ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18280,
+      "word_number_in_surah": 2103,
+      "word_surah": 6,
+      "word_translation": "and We gave him life",
+      "word_transliteration": "fa-ahyaynahu"
+    },
+    {
+      "word_arabic": "وَجَعَلۡنَا",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18281,
+      "word_number_in_surah": 2104,
+      "word_surah": 6,
+      "word_translation": "and We made",
+      "word_transliteration": "waja'alna"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 122,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18282,
+      "word_number_in_surah": 2105,
+      "word_surah": 6,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "نُورٗا",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18283,
+      "word_number_in_surah": 2106,
+      "word_surah": 6,
+      "word_translation": "light",
+      "word_transliteration": "nuran"
+    },
+    {
+      "word_arabic": "يَمۡشِي",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18284,
+      "word_number_in_surah": 2107,
+      "word_surah": 6,
+      "word_translation": "he walks",
+      "word_transliteration": "yamshi"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 122,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18285,
+      "word_number_in_surah": 2108,
+      "word_surah": 6,
+      "word_translation": "whereby",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18286,
+      "word_number_in_surah": 2109,
+      "word_surah": 6,
+      "word_translation": "among",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18287,
+      "word_number_in_surah": 2110,
+      "word_surah": 6,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "كَمَن",
+      "word_ayah": 122,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18288,
+      "word_number_in_surah": 2111,
+      "word_surah": 6,
+      "word_translation": "like (one) who",
+      "word_transliteration": "kaman"
+    },
+    {
+      "word_arabic": "مَّثَلُهُۥ",
+      "word_ayah": 122,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18289,
+      "word_number_in_surah": 2112,
+      "word_surah": 6,
+      "word_translation": "[similar to him]",
+      "word_transliteration": "mathaluhu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18290,
+      "word_number_in_surah": 2113,
+      "word_surah": 6,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلظُّلُمَٰتِ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18291,
+      "word_number_in_surah": 2114,
+      "word_surah": 6,
+      "word_translation": "the darknesses",
+      "word_transliteration": "al-zulumati"
+    },
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 122,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18292,
+      "word_number_in_surah": 2115,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "بِخَارِجٖ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18293,
+      "word_number_in_surah": 2116,
+      "word_surah": 6,
+      "word_translation": "he comes out",
+      "word_transliteration": "bikharijin"
+    },
+    {
+      "word_arabic": "مِّنۡهَاۚ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18294,
+      "word_number_in_surah": 2117,
+      "word_surah": 6,
+      "word_translation": "of it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18295,
+      "word_number_in_surah": 2118,
+      "word_surah": 6,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "زُيِّنَ",
+      "word_ayah": 122,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18296,
+      "word_number_in_surah": 2119,
+      "word_surah": 6,
+      "word_translation": "is made fair-seeming",
+      "word_transliteration": "zuyyina"
+    },
+    {
+      "word_arabic": "لِلۡكَٰفِرِينَ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18297,
+      "word_number_in_surah": 2120,
+      "word_surah": 6,
+      "word_translation": "to the disbelievers",
+      "word_transliteration": "lil'kafirina"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18298,
+      "word_number_in_surah": 2121,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18299,
+      "word_number_in_surah": 2122,
+      "word_surah": 6,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 122,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18300,
+      "word_number_in_surah": 2123,
+      "word_surah": 6,
+      "word_translation": "doing",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "أَوَمَن كَانَ مَيۡتٗا فَأَحۡيَيۡنَٰهُ وَجَعَلۡنَا لَهُۥ نُورٗا يَمۡشِي بِهِۦ فِي ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِي ٱلظُّلُمَٰتِ لَيۡسَ بِخَارِجٖ مِّنۡهَاۚ كَذَٰلِكَ زُيِّنَ لِلۡكَٰفِرِينَ مَا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "And is one who was dead and We gave him life and made for him light by which to walk among the people like one who is in darkness, never to emerge therefrom? Thus it has been made pleasing to the disbelievers that which they were doing.",
+  "fullTransliteration": "awaman kana maytan fa-ahyaynahu waja'alna lahu nuran yamshi bihi fi al-nasi kaman mathaluhu fi al-zulumati laysa bikharijin min'ha kadhalika zuyyina lil'kafirina ma kanu ya'maluna"
+}

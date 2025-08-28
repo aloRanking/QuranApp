@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "ayah": 138,
+    "surah": 4,
+    "words": 6,
+    "numberInQuran": 631,
+    "juz": 5,
+    "manzil": 1,
+    "page": 100,
+    "ruku": 81,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَشِّرِ",
+      "word_ayah": 138,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12627,
+      "word_number_in_surah": 3001,
+      "word_surah": 4,
+      "word_translation": "Give tidings",
+      "word_transliteration": "bashiri"
+    },
+    {
+      "word_arabic": "ٱلۡمُنَٰفِقِينَ",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12628,
+      "word_number_in_surah": 3002,
+      "word_surah": 4,
+      "word_translation": "(to) the hypocrites",
+      "word_transliteration": "al-munafiqina"
+    },
+    {
+      "word_arabic": "بِأَنَّ",
+      "word_ayah": 138,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12629,
+      "word_number_in_surah": 3003,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "bi-anna"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 138,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12630,
+      "word_number_in_surah": 3004,
+      "word_surah": 4,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "عَذَابًا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12631,
+      "word_number_in_surah": 3005,
+      "word_surah": 4,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhaban"
+    },
+    {
+      "word_arabic": "أَلِيمًا",
+      "word_ayah": 138,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12632,
+      "word_number_in_surah": 3006,
+      "word_surah": 4,
+      "word_translation": "painful",
+      "word_transliteration": "aliman"
+    }
+  ],
+  "fullArabic": "بَشِّرِ ٱلۡمُنَٰفِقِينَ بِأَنَّ لَهُمۡ عَذَابًا أَلِيمًا",
+  "fullTranslation": "Give tidings to the hypocrites that there is for them a painful punishment -",
+  "fullTransliteration": "bashiri al-munafiqina bi-anna lahum adhaban aliman"
+}

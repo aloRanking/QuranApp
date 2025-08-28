@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "ayah": 44,
+    "surah": 6,
+    "words": 20,
+    "numberInQuran": 833,
+    "juz": 7,
+    "manzil": 2,
+    "page": 132,
+    "ruku": 106,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16857,
+      "word_number_in_surah": 680,
+      "word_surah": 6,
+      "word_translation": "So when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "نَسُواْ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16858,
+      "word_number_in_surah": 681,
+      "word_surah": 6,
+      "word_translation": "they forgot",
+      "word_transliteration": "nasu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16859,
+      "word_number_in_surah": 682,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ذُكِّرُواْ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16860,
+      "word_number_in_surah": 683,
+      "word_surah": 6,
+      "word_translation": "they were reminded",
+      "word_transliteration": "dhukkiru"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16861,
+      "word_number_in_surah": 684,
+      "word_surah": 6,
+      "word_translation": "of [it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فَتَحۡنَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16862,
+      "word_number_in_surah": 685,
+      "word_surah": 6,
+      "word_translation": "We opened",
+      "word_transliteration": "fatahna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16863,
+      "word_number_in_surah": 686,
+      "word_surah": 6,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "أَبۡوَٰبَ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16864,
+      "word_number_in_surah": 687,
+      "word_surah": 6,
+      "word_translation": "gates",
+      "word_transliteration": "abwaba"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16865,
+      "word_number_in_surah": 688,
+      "word_surah": 6,
+      "word_translation": "(of) every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16866,
+      "word_number_in_surah": 689,
+      "word_surah": 6,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "حَتَّىٰٓ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16867,
+      "word_number_in_surah": 690,
+      "word_surah": 6,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16868,
+      "word_number_in_surah": 691,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "فَرِحُواْ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16869,
+      "word_number_in_surah": 692,
+      "word_surah": 6,
+      "word_translation": "they rejoiced",
+      "word_transliteration": "farihu"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16870,
+      "word_number_in_surah": 693,
+      "word_surah": 6,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أُوتُوٓاْ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16871,
+      "word_number_in_surah": 694,
+      "word_surah": 6,
+      "word_translation": "they were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "أَخَذۡنَٰهُم",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16872,
+      "word_number_in_surah": 695,
+      "word_surah": 6,
+      "word_translation": "We seized them",
+      "word_transliteration": "akhadhnahum"
+    },
+    {
+      "word_arabic": "بَغۡتَةٗ",
+      "word_ayah": 44,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16873,
+      "word_number_in_surah": 696,
+      "word_surah": 6,
+      "word_translation": "suddenly",
+      "word_transliteration": "baghtatan"
+    },
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16874,
+      "word_number_in_surah": 697,
+      "word_surah": 6,
+      "word_translation": "and then",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "هُم",
+      "word_ayah": 44,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16875,
+      "word_number_in_surah": 698,
+      "word_surah": 6,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "مُّبۡلِسُونَ",
+      "word_ayah": 44,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16876,
+      "word_number_in_surah": 699,
+      "word_surah": 6,
+      "word_translation": "(were) dumbfounded",
+      "word_transliteration": "mub'lisuna"
+    }
+  ],
+  "fullArabic": "فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِۦ فَتَحۡنَا عَلَيۡهِمۡ أَبۡوَٰبَ كُلِّ شَيۡءٍ حَتَّىٰٓ إِذَا فَرِحُواْ بِمَآ أُوتُوٓاْ أَخَذۡنَٰهُم بَغۡتَةٗ فَإِذَا هُم مُّبۡلِسُونَ",
+  "fullTranslation": "So when they forgot that by which they had been reminded, We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair.",
+  "fullTransliteration": "falamma nasu ma dhukkiru bihi fatahna alayhim abwaba kulli shayin hatta idha farihu bima utu akhadhnahum baghtatan fa-idha hum mub'lisuna"
+}

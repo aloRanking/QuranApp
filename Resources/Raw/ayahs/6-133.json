@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "ayah": 133,
+    "surah": 6,
+    "words": 18,
+    "numberInQuran": 922,
+    "juz": 8,
+    "manzil": 2,
+    "page": 145,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَرَبُّكَ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18481,
+      "word_number_in_surah": 2304,
+      "word_surah": 6,
+      "word_translation": "And your Lord",
+      "word_transliteration": "warabbuka"
+    },
+    {
+      "word_arabic": "ٱلۡغَنِيُّ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18482,
+      "word_number_in_surah": 2305,
+      "word_surah": 6,
+      "word_translation": "(is) the Self-Sufficient",
+      "word_transliteration": "al-ghaniyu"
+    },
+    {
+      "word_arabic": "ذُو",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18483,
+      "word_number_in_surah": 2306,
+      "word_surah": 6,
+      "word_translation": "(the) Possessor",
+      "word_transliteration": "dhu"
+    },
+    {
+      "word_arabic": "ٱلرَّحۡمَةِۚ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18484,
+      "word_number_in_surah": 2307,
+      "word_surah": 6,
+      "word_translation": "(of) mercy",
+      "word_transliteration": "al-rahmati"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 133,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18485,
+      "word_number_in_surah": 2308,
+      "word_surah": 6,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَشَأۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18486,
+      "word_number_in_surah": 2309,
+      "word_surah": 6,
+      "word_translation": "He wills",
+      "word_transliteration": "yasha"
+    },
+    {
+      "word_arabic": "يُذۡهِبۡكُمۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18487,
+      "word_number_in_surah": 2310,
+      "word_surah": 6,
+      "word_translation": "He can take you away",
+      "word_transliteration": "yudh'hib'kum"
+    },
+    {
+      "word_arabic": "وَيَسۡتَخۡلِفۡ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18488,
+      "word_number_in_surah": 2311,
+      "word_surah": 6,
+      "word_translation": "and grant succession",
+      "word_transliteration": "wayastakhlif"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18489,
+      "word_number_in_surah": 2312,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِكُم",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18490,
+      "word_number_in_surah": 2313,
+      "word_surah": 6,
+      "word_translation": "after you",
+      "word_transliteration": "ba'dikum"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18491,
+      "word_number_in_surah": 2314,
+      "word_surah": 6,
+      "word_translation": "(to) whom",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَشَآءُ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18492,
+      "word_number_in_surah": 2315,
+      "word_surah": 6,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "كَمَآ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18493,
+      "word_number_in_surah": 2316,
+      "word_surah": 6,
+      "word_translation": "as",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "أَنشَأَكُم",
+      "word_ayah": 133,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18494,
+      "word_number_in_surah": 2317,
+      "word_surah": 6,
+      "word_translation": "He raised you",
+      "word_transliteration": "ansha-akum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 133,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18495,
+      "word_number_in_surah": 2318,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ذُرِّيَّةِ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18496,
+      "word_number_in_surah": 2319,
+      "word_surah": 6,
+      "word_translation": "the descendants",
+      "word_transliteration": "dhurriyyati"
+    },
+    {
+      "word_arabic": "قَوۡمٍ",
+      "word_ayah": 133,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18497,
+      "word_number_in_surah": 2320,
+      "word_surah": 6,
+      "word_translation": "(of) people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "ءَاخَرِينَ",
+      "word_ayah": 133,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18498,
+      "word_number_in_surah": 2321,
+      "word_surah": 6,
+      "word_translation": "other",
+      "word_transliteration": "akharina"
+    }
+  ],
+  "fullArabic": "وَرَبُّكَ ٱلۡغَنِيُّ ذُو ٱلرَّحۡمَةِۚ إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَسۡتَخۡلِفۡ مِنۢ بَعۡدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوۡمٍ ءَاخَرِينَ",
+  "fullTranslation": "And your Lord is the Free of need, the possessor of mercy. If He wills, he can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people.",
+  "fullTransliteration": "warabbuka al-ghaniyu dhu al-rahmati in yasha yudh'hib'kum wayastakhlif min ba'dikum ma yashau kama ansha-akum min dhurriyyati qawmin akharina"
+}

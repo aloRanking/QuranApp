@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 58,
+    "surah": 8,
+    "words": 14,
+    "numberInQuran": 1218,
+    "juz": 10,
+    "manzil": 2,
+    "page": 184,
+    "ruku": 152,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِمَّا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23447,
+      "word_number_in_surah": 900,
+      "word_surah": 8,
+      "word_translation": "And if",
+      "word_transliteration": "wa-imma"
+    },
+    {
+      "word_arabic": "تَخَافَنَّ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23448,
+      "word_number_in_surah": 901,
+      "word_surah": 8,
+      "word_translation": "you fear",
+      "word_transliteration": "takhafanna"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 58,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23449,
+      "word_number_in_surah": 902,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَوۡمٍ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23450,
+      "word_number_in_surah": 903,
+      "word_surah": 8,
+      "word_translation": "a people",
+      "word_transliteration": "qawmin"
+    },
+    {
+      "word_arabic": "خِيَانَةٗ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23451,
+      "word_number_in_surah": 904,
+      "word_surah": 8,
+      "word_translation": "betrayal",
+      "word_transliteration": "khiyanatan"
+    },
+    {
+      "word_arabic": "فَٱنۢبِذۡ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23452,
+      "word_number_in_surah": 905,
+      "word_surah": 8,
+      "word_translation": "throw back",
+      "word_transliteration": "fa-inbidh"
+    },
+    {
+      "word_arabic": "إِلَيۡهِمۡ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23453,
+      "word_number_in_surah": 906,
+      "word_surah": 8,
+      "word_translation": "to them",
+      "word_transliteration": "ilayhim"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23454,
+      "word_number_in_surah": 907,
+      "word_surah": 8,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "سَوَآءٍۚ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23455,
+      "word_number_in_surah": 908,
+      "word_surah": 8,
+      "word_translation": "equal (terms)",
+      "word_transliteration": "sawain"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 58,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23456,
+      "word_number_in_surah": 909,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23457,
+      "word_number_in_surah": 910,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23458,
+      "word_number_in_surah": 911,
+      "word_surah": 8,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23459,
+      "word_number_in_surah": 912,
+      "word_surah": 8,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡخَآئِنِينَ",
+      "word_ayah": 58,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23460,
+      "word_number_in_surah": 913,
+      "word_surah": 8,
+      "word_translation": "the traitors",
+      "word_transliteration": "al-khainina"
+    }
+  ],
+  "fullArabic": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِيَانَةٗ فَٱنۢبِذۡ إِلَيۡهِمۡ عَلَىٰ سَوَآءٍۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡخَآئِنِينَ",
+  "fullTranslation": "If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms. Indeed, Allah does not like traitors.",
+  "fullTransliteration": "wa-imma takhafanna min qawmin khiyanatan fa-inbidh ilayhim ala sawain inna al-laha la yuhibbu al-khainina"
+}

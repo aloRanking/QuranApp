@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "ayah": 92,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1046,
+    "juz": 9,
+    "manzil": 2,
+    "page": 162,
+    "ruku": 132,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20732,
+      "word_number_in_surah": 1505,
+      "word_surah": 7,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20733,
+      "word_number_in_surah": 1506,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "شُعَيۡبٗا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20734,
+      "word_number_in_surah": 1507,
+      "word_surah": 7,
+      "word_translation": "Shuaib",
+      "word_transliteration": "shu'ayban"
+    },
+    {
+      "word_arabic": "كَأَن",
+      "word_ayah": 92,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20735,
+      "word_number_in_surah": 1508,
+      "word_surah": 7,
+      "word_translation": "(became) as if",
+      "word_transliteration": "ka-an"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20736,
+      "word_number_in_surah": 1509,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَغۡنَوۡاْ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20737,
+      "word_number_in_surah": 1510,
+      "word_surah": 7,
+      "word_translation": "they (had) lived",
+      "word_transliteration": "yaghnaw"
+    },
+    {
+      "word_arabic": "فِيهَاۚ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20738,
+      "word_number_in_surah": 1511,
+      "word_surah": 7,
+      "word_translation": "therein",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20739,
+      "word_number_in_surah": 1512,
+      "word_surah": 7,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20740,
+      "word_number_in_surah": 1513,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "شُعَيۡبٗا",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20741,
+      "word_number_in_surah": 1514,
+      "word_surah": 7,
+      "word_translation": "Shuaib",
+      "word_transliteration": "shu'ayban"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20742,
+      "word_number_in_surah": 1515,
+      "word_surah": 7,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 92,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20743,
+      "word_number_in_surah": 1516,
+      "word_surah": 7,
+      "word_translation": "them",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰسِرِينَ",
+      "word_ayah": 92,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20744,
+      "word_number_in_surah": 1517,
+      "word_surah": 7,
+      "word_translation": "the losers",
+      "word_transliteration": "al-khasirina"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَاۚ ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَانُواْ هُمُ ٱلۡخَٰسِرِينَ",
+  "fullTranslation": "Those who denied Shu'ayb - it was as though they had never resided there. Those who denied Shu'ayb - it was they who were the losers.",
+  "fullTransliteration": "alladhina kadhabu shu'ayban ka-an lam yaghnaw fiha alladhina kadhabu shu'ayban kanu humu al-khasirina"
+}

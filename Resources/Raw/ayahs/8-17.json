@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "ayah": 17,
+    "surah": 8,
+    "words": 21,
+    "numberInQuran": 1177,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 147,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22777,
+      "word_number_in_surah": 230,
+      "word_surah": 8,
+      "word_translation": "And not",
+      "word_transliteration": "falam"
+    },
+    {
+      "word_arabic": "تَقۡتُلُوهُمۡ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22778,
+      "word_number_in_surah": 231,
+      "word_surah": 8,
+      "word_translation": "you kill them",
+      "word_transliteration": "taqtuluhum"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22779,
+      "word_number_in_surah": 232,
+      "word_surah": 8,
+      "word_translation": "but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22780,
+      "word_number_in_surah": 233,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "قَتَلَهُمۡۚ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22781,
+      "word_number_in_surah": 234,
+      "word_surah": 8,
+      "word_translation": "killed them",
+      "word_transliteration": "qatalahum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22782,
+      "word_number_in_surah": 235,
+      "word_surah": 8,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "رَمَيۡتَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22783,
+      "word_number_in_surah": 236,
+      "word_surah": 8,
+      "word_translation": "you threw",
+      "word_transliteration": "ramayta"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22784,
+      "word_number_in_surah": 237,
+      "word_surah": 8,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "رَمَيۡتَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22785,
+      "word_number_in_surah": 238,
+      "word_surah": 8,
+      "word_translation": "you threw",
+      "word_transliteration": "ramayta"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22786,
+      "word_number_in_surah": 239,
+      "word_surah": 8,
+      "word_translation": "but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22787,
+      "word_number_in_surah": 240,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "رَمَىٰ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22788,
+      "word_number_in_surah": 241,
+      "word_surah": 8,
+      "word_translation": "threw",
+      "word_transliteration": "rama"
+    },
+    {
+      "word_arabic": "وَلِيُبۡلِيَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22789,
+      "word_number_in_surah": 242,
+      "word_surah": 8,
+      "word_translation": "and that He may test",
+      "word_transliteration": "waliyub'liya"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22790,
+      "word_number_in_surah": 243,
+      "word_surah": 8,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    },
+    {
+      "word_arabic": "مِنۡهُ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22791,
+      "word_number_in_surah": 244,
+      "word_surah": 8,
+      "word_translation": "from Him",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "بَلَآءً",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22792,
+      "word_number_in_surah": 245,
+      "word_surah": 8,
+      "word_translation": "(with) a trial",
+      "word_transliteration": "balaan"
+    },
+    {
+      "word_arabic": "حَسَنًاۚ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22793,
+      "word_number_in_surah": 246,
+      "word_surah": 8,
+      "word_translation": "good",
+      "word_transliteration": "hasanan"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22794,
+      "word_number_in_surah": 247,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22795,
+      "word_number_in_surah": 248,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22796,
+      "word_number_in_surah": 249,
+      "word_surah": 8,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22797,
+      "word_number_in_surah": 250,
+      "word_surah": 8,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "فَلَمۡ تَقۡتُلُوهُمۡ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمۡۚ وَمَا رَمَيۡتَ إِذۡ رَمَيۡتَ وَلَٰكِنَّ ٱللَّهَ رَمَىٰ وَلِيُبۡلِيَ ٱلۡمُؤۡمِنِينَ مِنۡهُ بَلَآءً حَسَنًاۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "fullTranslation": "And you did not kill them, but it was Allah who killed them. And you threw not, [O Muhammad], when you threw, but it was Allah who threw that He might test the believers with a good test. Indeed, Allah is Hearing and Knowing.",
+  "fullTransliteration": "falam taqtuluhum walakinna al-laha qatalahum wama ramayta idh ramayta walakinna al-laha rama waliyub'liya al-mu'minina min'hu balaan hasanan inna al-laha sami'un alimun"
+}

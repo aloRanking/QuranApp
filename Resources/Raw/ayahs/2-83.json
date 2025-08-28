@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "ayah": 83,
+    "surah": 2,
+    "words": 29,
+    "numberInQuran": 90,
+    "juz": 1,
+    "manzil": 1,
+    "page": 12,
+    "ruku": 11,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1329,
+      "word_number_in_surah": 1300,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "أَخَذۡنَا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1330,
+      "word_number_in_surah": 1301,
+      "word_surah": 2,
+      "word_translation": "We took",
+      "word_transliteration": "akhadhna"
+    },
+    {
+      "word_arabic": "مِيثَٰقَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1331,
+      "word_number_in_surah": 1302,
+      "word_surah": 2,
+      "word_translation": "(the) covenant",
+      "word_transliteration": "mithaqa"
+    },
+    {
+      "word_arabic": "بَنِيٓ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1332,
+      "word_number_in_surah": 1303,
+      "word_surah": 2,
+      "word_translation": "(from the) Children",
+      "word_transliteration": "bani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1333,
+      "word_number_in_surah": 1304,
+      "word_surah": 2,
+      "word_translation": "(of) Israel",
+      "word_transliteration": "is'raila"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1334,
+      "word_number_in_surah": 1305,
+      "word_surah": 2,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡبُدُونَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1335,
+      "word_number_in_surah": 1306,
+      "word_surah": 2,
+      "word_translation": "you will worship",
+      "word_transliteration": "ta'buduna"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1336,
+      "word_number_in_surah": 1307,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1337,
+      "word_number_in_surah": 1308,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَبِٱلۡوَٰلِدَيۡنِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1338,
+      "word_number_in_surah": 1309,
+      "word_surah": 2,
+      "word_translation": "and with [the] parents",
+      "word_transliteration": "wabil-walidayni"
+    },
+    {
+      "word_arabic": "إِحۡسَانٗا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1339,
+      "word_number_in_surah": 1310,
+      "word_surah": 2,
+      "word_translation": "(be) good",
+      "word_transliteration": "ih'sanan"
+    },
+    {
+      "word_arabic": "وَذِي",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1340,
+      "word_number_in_surah": 1311,
+      "word_surah": 2,
+      "word_translation": "and (with)",
+      "word_transliteration": "wadhi"
+    },
+    {
+      "word_arabic": "ٱلۡقُرۡبَىٰ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1341,
+      "word_number_in_surah": 1312,
+      "word_surah": 2,
+      "word_translation": "relatives",
+      "word_transliteration": "al-qur'ba"
+    },
+    {
+      "word_arabic": "وَٱلۡيَتَٰمَىٰ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1342,
+      "word_number_in_surah": 1313,
+      "word_surah": 2,
+      "word_translation": "and [the] orphans",
+      "word_transliteration": "wal-yatama"
+    },
+    {
+      "word_arabic": "وَٱلۡمَسَٰكِينِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1343,
+      "word_number_in_surah": 1314,
+      "word_surah": 2,
+      "word_translation": "and the needy",
+      "word_transliteration": "wal-masakini"
+    },
+    {
+      "word_arabic": "وَقُولُواْ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1344,
+      "word_number_in_surah": 1315,
+      "word_surah": 2,
+      "word_translation": "and speak",
+      "word_transliteration": "waqulu"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1345,
+      "word_number_in_surah": 1316,
+      "word_surah": 2,
+      "word_translation": "to [the] people",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "حُسۡنٗا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1346,
+      "word_number_in_surah": 1317,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "hus'nan"
+    },
+    {
+      "word_arabic": "وَأَقِيمُواْ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1347,
+      "word_number_in_surah": 1318,
+      "word_surah": 2,
+      "word_translation": "and establish",
+      "word_transliteration": "wa-aqimu"
+    },
+    {
+      "word_arabic": "ٱلصَّلَوٰةَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1348,
+      "word_number_in_surah": 1319,
+      "word_surah": 2,
+      "word_translation": "the prayer",
+      "word_transliteration": "al-salata"
+    },
+    {
+      "word_arabic": "وَءَاتُواْ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1349,
+      "word_number_in_surah": 1320,
+      "word_surah": 2,
+      "word_translation": "and give",
+      "word_transliteration": "waatu"
+    },
+    {
+      "word_arabic": "ٱلزَّكَوٰةَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1350,
+      "word_number_in_surah": 1321,
+      "word_surah": 2,
+      "word_translation": "the zakah",
+      "word_transliteration": "al-zakata"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1351,
+      "word_number_in_surah": 1322,
+      "word_surah": 2,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تَوَلَّيۡتُمۡ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1352,
+      "word_number_in_surah": 1323,
+      "word_surah": 2,
+      "word_translation": "you turned away",
+      "word_transliteration": "tawallaytum"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1353,
+      "word_number_in_surah": 1324,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 1354,
+      "word_number_in_surah": 1325,
+      "word_surah": 2,
+      "word_translation": "a few",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "مِّنكُمۡ",
+      "word_ayah": 83,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 1355,
+      "word_number_in_surah": 1326,
+      "word_surah": 2,
+      "word_translation": "of you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "وَأَنتُم",
+      "word_ayah": 83,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 1356,
+      "word_number_in_surah": 1327,
+      "word_surah": 2,
+      "word_translation": "and you (were)",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "مُّعۡرِضُونَ",
+      "word_ayah": 83,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 1357,
+      "word_number_in_surah": 1328,
+      "word_surah": 2,
+      "word_translation": "refusing",
+      "word_transliteration": "mu'riduna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ لَا تَعۡبُدُونَ إِلَّا ٱللَّهَ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَانٗا وَذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَقُولُواْ لِلنَّاسِ حُسۡنٗا وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيۡتُمۡ إِلَّا قَلِيلٗا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ",
+  "fullTranslation": "And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], \"Do not worship except Allah; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakah.\" Then you turned away, except a few of you, and you were refusing.",
+  "fullTransliteration": "wa-idh akhadhna mithaqa bani is'raila la ta'buduna illa al-laha wabil-walidayni ih'sanan wadhi al-qur'ba wal-yatama wal-masakini waqulu lilnnasi hus'nan wa-aqimu al-salata waatu al-zakata thumma tawallaytum illa qalilan minkum wa-antum mu'riduna"
+}

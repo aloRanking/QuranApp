@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "ayah": 60,
+    "surah": 3,
+    "words": 7,
+    "numberInQuran": 353,
+    "juz": 3,
+    "manzil": 1,
+    "page": 57,
+    "ruku": 47,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلۡحَقُّ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7152,
+      "word_number_in_surah": 1007,
+      "word_surah": 3,
+      "word_translation": "The truth",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 60,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7153,
+      "word_number_in_surah": 1008,
+      "word_surah": 3,
+      "word_translation": "(is) from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكَ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7154,
+      "word_number_in_surah": 1009,
+      "word_surah": 3,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7155,
+      "word_number_in_surah": 1010,
+      "word_surah": 3,
+      "word_translation": "so (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَكُن",
+      "word_ayah": 60,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7156,
+      "word_number_in_surah": 1011,
+      "word_surah": 3,
+      "word_translation": "be",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 60,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7157,
+      "word_number_in_surah": 1012,
+      "word_surah": 3,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُمۡتَرِينَ",
+      "word_ayah": 60,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7158,
+      "word_number_in_surah": 1013,
+      "word_surah": 3,
+      "word_translation": "the doubters",
+      "word_transliteration": "al-mum'tarina"
+    }
+  ],
+  "fullArabic": "ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلۡمُمۡتَرِينَ",
+  "fullTranslation": "The truth is from your Lord, so do not be among the doubters.",
+  "fullTransliteration": "al-haqu min rabbika fala takun mina al-mum'tarina"
+}

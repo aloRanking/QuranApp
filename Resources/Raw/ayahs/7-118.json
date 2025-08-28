@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "ayah": 118,
+    "surah": 7,
+    "words": 6,
+    "numberInQuran": 1072,
+    "juz": 9,
+    "manzil": 2,
+    "page": 164,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَوَقَعَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21028,
+      "word_number_in_surah": 1801,
+      "word_surah": 7,
+      "word_translation": "So was established",
+      "word_transliteration": "fawaqa'a"
+    },
+    {
+      "word_arabic": "ٱلۡحَقُّ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21029,
+      "word_number_in_surah": 1802,
+      "word_surah": 7,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "وَبَطَلَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21030,
+      "word_number_in_surah": 1803,
+      "word_surah": 7,
+      "word_translation": "and became futile",
+      "word_transliteration": "wabatala"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21031,
+      "word_number_in_surah": 1804,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21032,
+      "word_number_in_surah": 1805,
+      "word_surah": 7,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21033,
+      "word_number_in_surah": 1806,
+      "word_surah": 7,
+      "word_translation": "do",
+      "word_transliteration": "ya'maluna"
+    }
+  ],
+  "fullArabic": "فَوَقَعَ ٱلۡحَقُّ وَبَطَلَ مَا كَانُواْ يَعۡمَلُونَ",
+  "fullTranslation": "So the truth was established, and abolished was what they were doing.",
+  "fullTransliteration": "fawaqa'a al-haqu wabatala ma kanu ya'maluna"
+}

@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "ayah": 265,
+    "surah": 2,
+    "words": 27,
+    "numberInQuran": 272,
+    "juz": 3,
+    "manzil": 1,
+    "page": 45,
+    "ruku": 37,
+    "hizbQuarter": 18,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَثَلُ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5518,
+      "word_number_in_surah": 5489,
+      "word_surah": 2,
+      "word_translation": "And (the) example",
+      "word_transliteration": "wamathalu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5519,
+      "word_number_in_surah": 5490,
+      "word_surah": 2,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5520,
+      "word_number_in_surah": 5491,
+      "word_surah": 2,
+      "word_translation": "spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَهُمُ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5521,
+      "word_number_in_surah": 5492,
+      "word_surah": 2,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwalahumu"
+    },
+    {
+      "word_arabic": "ٱبۡتِغَآءَ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5522,
+      "word_number_in_surah": 5493,
+      "word_surah": 2,
+      "word_translation": "seeking",
+      "word_transliteration": "ib'tighaa"
+    },
+    {
+      "word_arabic": "مَرۡضَاتِ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5523,
+      "word_number_in_surah": 5494,
+      "word_surah": 2,
+      "word_translation": "(the) pleasure",
+      "word_transliteration": "mardati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5524,
+      "word_number_in_surah": 5495,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَتَثۡبِيتٗا",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5525,
+      "word_number_in_surah": 5496,
+      "word_surah": 2,
+      "word_translation": "and certainty",
+      "word_transliteration": "watathbitan"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5526,
+      "word_number_in_surah": 5497,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5527,
+      "word_number_in_surah": 5498,
+      "word_surah": 2,
+      "word_translation": "their (inner) souls",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "كَمَثَلِ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5528,
+      "word_number_in_surah": 5499,
+      "word_surah": 2,
+      "word_translation": "(is) like",
+      "word_transliteration": "kamathali"
+    },
+    {
+      "word_arabic": "جَنَّةِۢ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5529,
+      "word_number_in_surah": 5500,
+      "word_surah": 2,
+      "word_translation": "a garden",
+      "word_transliteration": "jannatin"
+    },
+    {
+      "word_arabic": "بِرَبۡوَةٍ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5530,
+      "word_number_in_surah": 5501,
+      "word_surah": 2,
+      "word_translation": "on a height",
+      "word_transliteration": "birabwatin"
+    },
+    {
+      "word_arabic": "أَصَابَهَا",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5531,
+      "word_number_in_surah": 5502,
+      "word_surah": 2,
+      "word_translation": "fell on it",
+      "word_transliteration": "asabaha"
+    },
+    {
+      "word_arabic": "وَابِلٞ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5532,
+      "word_number_in_surah": 5503,
+      "word_surah": 2,
+      "word_translation": "heavy rain",
+      "word_transliteration": "wabilun"
+    },
+    {
+      "word_arabic": "فَ‍َٔاتَتۡ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5533,
+      "word_number_in_surah": 5504,
+      "word_surah": 2,
+      "word_translation": "so it yielded",
+      "word_transliteration": "faatat"
+    },
+    {
+      "word_arabic": "أُكُلَهَا",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5534,
+      "word_number_in_surah": 5505,
+      "word_surah": 2,
+      "word_translation": "its harvest",
+      "word_transliteration": "ukulaha"
+    },
+    {
+      "word_arabic": "ضِعۡفَيۡنِ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5535,
+      "word_number_in_surah": 5506,
+      "word_surah": 2,
+      "word_translation": "double",
+      "word_transliteration": "di'fayni"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 265,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5536,
+      "word_number_in_surah": 5507,
+      "word_surah": 2,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "لَّمۡ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5537,
+      "word_number_in_surah": 5508,
+      "word_surah": 2,
+      "word_translation": "(does) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يُصِبۡهَا",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 5538,
+      "word_number_in_surah": 5509,
+      "word_surah": 2,
+      "word_translation": "fall (on) it",
+      "word_transliteration": "yusib'ha"
+    },
+    {
+      "word_arabic": "وَابِلٞ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 5539,
+      "word_number_in_surah": 5510,
+      "word_surah": 2,
+      "word_translation": "heavy rain",
+      "word_transliteration": "wabilun"
+    },
+    {
+      "word_arabic": "فَطَلّٞۗ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 5540,
+      "word_number_in_surah": 5511,
+      "word_surah": 2,
+      "word_translation": "then a drizzle",
+      "word_transliteration": "fatallun"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 265,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 5541,
+      "word_number_in_surah": 5512,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 5542,
+      "word_number_in_surah": 5513,
+      "word_surah": 2,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 5543,
+      "word_number_in_surah": 5514,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    },
+    {
+      "word_arabic": "بَصِيرٌ",
+      "word_ayah": 265,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 5544,
+      "word_number_in_surah": 5515,
+      "word_surah": 2,
+      "word_translation": "(is) All-Seer",
+      "word_transliteration": "basirun"
+    }
+  ],
+  "fullArabic": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمُ ٱبۡتِغَآءَ مَرۡضَاتِ ٱللَّهِ وَتَثۡبِيتٗا مِّنۡ أَنفُسِهِمۡ كَمَثَلِ جَنَّةِۢ بِرَبۡوَةٍ أَصَابَهَا وَابِلٞ فَ‍َٔاتَتۡ أُكُلَهَا ضِعۡفَيۡنِ فَإِن لَّمۡ يُصِبۡهَا وَابِلٞ فَطَلّٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+  "fullTranslation": "And the example of those who spend their wealth seeking means to the approval of Allah and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allah, of what you do, is Seeing.",
+  "fullTransliteration": "wamathalu alladhina yunfiquna amwalahumu ib'tighaa mardati al-lahi watathbitan min anfusihim kamathali jannatin birabwatin asabaha wabilun faatat ukulaha di'fayni fa-in lam yusib'ha wabilun fatallun wal-lahu bima ta'maluna basirun"
+}

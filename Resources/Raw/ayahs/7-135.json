@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 135,
+    "surah": 7,
+    "words": 11,
+    "numberInQuran": 1089,
+    "juz": 9,
+    "manzil": 2,
+    "page": 166,
+    "ruku": 137,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21234,
+      "word_number_in_surah": 2007,
+      "word_surah": 7,
+      "word_translation": "But when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "كَشَفۡنَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21235,
+      "word_number_in_surah": 2008,
+      "word_surah": 7,
+      "word_translation": "We removed",
+      "word_transliteration": "kashafna"
+    },
+    {
+      "word_arabic": "عَنۡهُمُ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21236,
+      "word_number_in_surah": 2009,
+      "word_surah": 7,
+      "word_translation": "from them",
+      "word_transliteration": "anhumu"
+    },
+    {
+      "word_arabic": "ٱلرِّجۡزَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21237,
+      "word_number_in_surah": 2010,
+      "word_surah": 7,
+      "word_translation": "the punishment",
+      "word_transliteration": "al-rij'za"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21238,
+      "word_number_in_surah": 2011,
+      "word_surah": 7,
+      "word_translation": "till",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "أَجَلٍ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21239,
+      "word_number_in_surah": 2012,
+      "word_surah": 7,
+      "word_translation": "a (fixed) term",
+      "word_transliteration": "ajalin"
+    },
+    {
+      "word_arabic": "هُم",
+      "word_ayah": 135,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21240,
+      "word_number_in_surah": 2013,
+      "word_surah": 7,
+      "word_translation": "(which) they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "بَٰلِغُوهُ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21241,
+      "word_number_in_surah": 2014,
+      "word_surah": 7,
+      "word_translation": "were to reach [it]",
+      "word_transliteration": "balighuhu"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21242,
+      "word_number_in_surah": 2015,
+      "word_surah": 7,
+      "word_translation": "then",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 135,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21243,
+      "word_number_in_surah": 2016,
+      "word_surah": 7,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يَنكُثُونَ",
+      "word_ayah": 135,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21244,
+      "word_number_in_surah": 2017,
+      "word_surah": 7,
+      "word_translation": "broke (the word)",
+      "word_transliteration": "yankuthuna"
+    }
+  ],
+  "fullArabic": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلرِّجۡزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمۡ يَنكُثُونَ",
+  "fullTranslation": "But when We removed the punishment from them until a term which they were to reach, then at once they broke their word.",
+  "fullTransliteration": "falamma kashafna anhumu al-rij'za ila ajalin hum balighuhu idha hum yankuthuna"
+}

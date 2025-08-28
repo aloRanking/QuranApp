@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 175,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 468,
+    "juz": 4,
+    "manzil": 1,
+    "page": 73,
+    "ruku": 59,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9136,
+      "word_number_in_surah": 2991,
+      "word_surah": 3,
+      "word_translation": "(It is) only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "ذَٰلِكُمُ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9137,
+      "word_number_in_surah": 2992,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "dhalikumu"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9138,
+      "word_number_in_surah": 2993,
+      "word_surah": 3,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "يُخَوِّفُ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9139,
+      "word_number_in_surah": 2994,
+      "word_surah": 3,
+      "word_translation": "frightens (you)",
+      "word_transliteration": "yukhawwifu"
+    },
+    {
+      "word_arabic": "أَوۡلِيَآءَهُۥ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9140,
+      "word_number_in_surah": 2995,
+      "word_surah": 3,
+      "word_translation": "(of) his allies",
+      "word_transliteration": "awliyaahu"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9141,
+      "word_number_in_surah": 2996,
+      "word_surah": 3,
+      "word_translation": "So (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَخَافُوهُمۡ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9142,
+      "word_number_in_surah": 2997,
+      "word_surah": 3,
+      "word_translation": "fear them",
+      "word_transliteration": "takhafuhum"
+    },
+    {
+      "word_arabic": "وَخَافُونِ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9143,
+      "word_number_in_surah": 2998,
+      "word_surah": 3,
+      "word_translation": "but fear Me",
+      "word_transliteration": "wakhafuni"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 175,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9144,
+      "word_number_in_surah": 2999,
+      "word_surah": 3,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُم",
+      "word_ayah": 175,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9145,
+      "word_number_in_surah": 3000,
+      "word_surah": 3,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنِينَ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9146,
+      "word_number_in_surah": 3001,
+      "word_surah": 3,
+      "word_translation": "believers",
+      "word_transliteration": "mu'minina"
+    }
+  ],
+  "fullArabic": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيۡطَٰنُ يُخَوِّفُ أَوۡلِيَآءَهُۥ فَلَا تَخَافُوهُمۡ وَخَافُونِ إِن كُنتُم مُّؤۡمِنِينَ",
+  "fullTranslation": "That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers.",
+  "fullTransliteration": "innama dhalikumu al-shaytanu yukhawwifu awliyaahu fala takhafuhum wakhafuni in kuntum mu'minina"
+}

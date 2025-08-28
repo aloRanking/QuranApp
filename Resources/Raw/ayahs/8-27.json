@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "ayah": 27,
+    "surah": 8,
+    "words": 11,
+    "numberInQuran": 1187,
+    "juz": 9,
+    "manzil": 2,
+    "page": 180,
+    "ruku": 148,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22920,
+      "word_number_in_surah": 373,
+      "word_surah": 8,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22921,
+      "word_number_in_surah": 374,
+      "word_surah": 8,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22922,
+      "word_number_in_surah": 375,
+      "word_surah": 8,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22923,
+      "word_number_in_surah": 376,
+      "word_surah": 8,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَخُونُواْ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22924,
+      "word_number_in_surah": 377,
+      "word_surah": 8,
+      "word_translation": "betray",
+      "word_transliteration": "takhunu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22925,
+      "word_number_in_surah": 378,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٱلرَّسُولَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22926,
+      "word_number_in_surah": 379,
+      "word_surah": 8,
+      "word_translation": "and the Messenger",
+      "word_transliteration": "wal-rasula"
+    },
+    {
+      "word_arabic": "وَتَخُونُوٓاْ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22927,
+      "word_number_in_surah": 380,
+      "word_surah": 8,
+      "word_translation": "or betray",
+      "word_transliteration": "watakhunu"
+    },
+    {
+      "word_arabic": "أَمَٰنَٰتِكُمۡ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22928,
+      "word_number_in_surah": 381,
+      "word_surah": 8,
+      "word_translation": "your trusts",
+      "word_transliteration": "amanatikum"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22929,
+      "word_number_in_surah": 382,
+      "word_surah": 8,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22930,
+      "word_number_in_surah": 383,
+      "word_surah": 8,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَخُونُواْ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوٓاْ أَمَٰنَٰتِكُمۡ وَأَنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "O you who have believed, do not betray Allah and the Messenger or betray your trusts while you know [the consequence].",
+  "fullTransliteration": "yaayyuha alladhina amanu la takhunu al-laha wal-rasula watakhunu amanatikum wa-antum ta'lamuna"
+}

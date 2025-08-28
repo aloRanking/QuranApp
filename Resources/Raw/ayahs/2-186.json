@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "ayah": 186,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 193,
+    "juz": 2,
+    "manzil": 1,
+    "page": 28,
+    "ruku": 24,
+    "hizbQuarter": 11,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3406,
+      "word_number_in_surah": 3377,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "سَأَلَكَ",
+      "word_ayah": 186,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3407,
+      "word_number_in_surah": 3378,
+      "word_surah": 2,
+      "word_translation": "ask you",
+      "word_transliteration": "sa-alaka"
+    },
+    {
+      "word_arabic": "عِبَادِي",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3408,
+      "word_number_in_surah": 3379,
+      "word_surah": 2,
+      "word_translation": "My servants",
+      "word_transliteration": "ibadi"
+    },
+    {
+      "word_arabic": "عَنِّي",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3409,
+      "word_number_in_surah": 3380,
+      "word_surah": 2,
+      "word_translation": "about Me",
+      "word_transliteration": "anni"
+    },
+    {
+      "word_arabic": "فَإِنِّي",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3410,
+      "word_number_in_surah": 3381,
+      "word_surah": 2,
+      "word_translation": "then indeed I am",
+      "word_transliteration": "fa-inni"
+    },
+    {
+      "word_arabic": "قَرِيبٌۖ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3411,
+      "word_number_in_surah": 3382,
+      "word_surah": 2,
+      "word_translation": "near",
+      "word_transliteration": "qaribun"
+    },
+    {
+      "word_arabic": "أُجِيبُ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3412,
+      "word_number_in_surah": 3383,
+      "word_surah": 2,
+      "word_translation": "I respond",
+      "word_transliteration": "ujibu"
+    },
+    {
+      "word_arabic": "دَعۡوَةَ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3413,
+      "word_number_in_surah": 3384,
+      "word_surah": 2,
+      "word_translation": "(to the) invocation",
+      "word_transliteration": "da'wata"
+    },
+    {
+      "word_arabic": "ٱلدَّاعِ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3414,
+      "word_number_in_surah": 3385,
+      "word_surah": 2,
+      "word_translation": "(of) the supplicant",
+      "word_transliteration": "al-da'i"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3415,
+      "word_number_in_surah": 3386,
+      "word_surah": 2,
+      "word_translation": "when",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "دَعَانِۖ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3416,
+      "word_number_in_surah": 3387,
+      "word_surah": 2,
+      "word_translation": "he calls Me",
+      "word_transliteration": "da'ani"
+    },
+    {
+      "word_arabic": "فَلۡيَسۡتَجِيبُواْ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3417,
+      "word_number_in_surah": 3388,
+      "word_surah": 2,
+      "word_translation": "So let them respond",
+      "word_transliteration": "falyastajibu"
+    },
+    {
+      "word_arabic": "لِي",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3418,
+      "word_number_in_surah": 3389,
+      "word_surah": 2,
+      "word_translation": "to Me",
+      "word_transliteration": "li"
+    },
+    {
+      "word_arabic": "وَلۡيُؤۡمِنُواْ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3419,
+      "word_number_in_surah": 3390,
+      "word_surah": 2,
+      "word_translation": "and let them believe",
+      "word_transliteration": "walyu'minu"
+    },
+    {
+      "word_arabic": "بِي",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3420,
+      "word_number_in_surah": 3391,
+      "word_surah": 2,
+      "word_translation": "in Me",
+      "word_transliteration": "bi"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3421,
+      "word_number_in_surah": 3392,
+      "word_surah": 2,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَرۡشُدُونَ",
+      "word_ayah": 186,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3422,
+      "word_number_in_surah": 3393,
+      "word_surah": 2,
+      "word_translation": "(be) led aright",
+      "word_transliteration": "yarshuduna"
+    }
+  ],
+  "fullArabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ",
+  "fullTranslation": "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.",
+  "fullTransliteration": "wa-idha sa-alaka ibadi anni fa-inni qaribun ujibu da'wata al-da'i idha da'ani falyastajibu li walyu'minu bi la'allahum yarshuduna"
+}

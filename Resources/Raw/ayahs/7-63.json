@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "ayah": 63,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1017,
+    "juz": 8,
+    "manzil": 2,
+    "page": 158,
+    "ruku": 129,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوَعَجِبۡتُمۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20239,
+      "word_number_in_surah": 1012,
+      "word_surah": 7,
+      "word_translation": "Do you wonder",
+      "word_transliteration": "awa'ajib'tum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 63,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20240,
+      "word_number_in_surah": 1013,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "جَآءَكُمۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20241,
+      "word_number_in_surah": 1014,
+      "word_surah": 7,
+      "word_translation": "has come to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "ذِكۡرٞ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20242,
+      "word_number_in_surah": 1015,
+      "word_surah": 7,
+      "word_translation": "a reminder",
+      "word_transliteration": "dhik'run"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 63,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20243,
+      "word_number_in_surah": 1016,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20244,
+      "word_number_in_surah": 1017,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20245,
+      "word_number_in_surah": 1018,
+      "word_surah": 7,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "رَجُلٖ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20246,
+      "word_number_in_surah": 1019,
+      "word_surah": 7,
+      "word_translation": "a man",
+      "word_transliteration": "rajulin"
+    },
+    {
+      "word_arabic": "مِّنكُمۡ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20247,
+      "word_number_in_surah": 1020,
+      "word_surah": 7,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "لِيُنذِرَكُمۡ",
+      "word_ayah": 63,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20248,
+      "word_number_in_surah": 1021,
+      "word_surah": 7,
+      "word_translation": "that he may warn you",
+      "word_transliteration": "liyundhirakum"
+    },
+    {
+      "word_arabic": "وَلِتَتَّقُواْ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20249,
+      "word_number_in_surah": 1022,
+      "word_surah": 7,
+      "word_translation": "and that you may fear",
+      "word_transliteration": "walitattaqu"
+    },
+    {
+      "word_arabic": "وَلَعَلَّكُمۡ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20250,
+      "word_number_in_surah": 1023,
+      "word_surah": 7,
+      "word_translation": "and so that you may",
+      "word_transliteration": "wala'allakum"
+    },
+    {
+      "word_arabic": "تُرۡحَمُونَ",
+      "word_ayah": 63,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20251,
+      "word_number_in_surah": 1024,
+      "word_surah": 7,
+      "word_translation": "receive mercy",
+      "word_transliteration": "tur'hamuna"
+    }
+  ],
+  "fullArabic": "أَوَعَجِبۡتُمۡ أَن جَآءَكُمۡ ذِكۡرٞ مِّن رَّبِّكُمۡ عَلَىٰ رَجُلٖ مِّنكُمۡ لِيُنذِرَكُمۡ وَلِتَتَّقُواْ وَلَعَلَّكُمۡ تُرۡحَمُونَ",
+  "fullTranslation": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you and that you may fear Allah so you might receive mercy.\"",
+  "fullTransliteration": "awa'ajib'tum an jaakum dhik'run min rabbikum ala rajulin minkum liyundhirakum walitattaqu wala'allakum tur'hamuna"
+}

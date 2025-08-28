@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "ayah": 40,
+    "surah": 7,
+    "words": 23,
+    "numberInQuran": 994,
+    "juz": 8,
+    "manzil": 2,
+    "page": 155,
+    "ruku": 126,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19819,
+      "word_number_in_surah": 592,
+      "word_surah": 7,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19820,
+      "word_number_in_surah": 593,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19821,
+      "word_number_in_surah": 594,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19822,
+      "word_number_in_surah": 595,
+      "word_surah": 7,
+      "word_translation": "Our Verses",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "وَٱسۡتَكۡبَرُواْ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19823,
+      "word_number_in_surah": 596,
+      "word_surah": 7,
+      "word_translation": "and (were) arrogant",
+      "word_transliteration": "wa-is'takbaru"
+    },
+    {
+      "word_arabic": "عَنۡهَا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19824,
+      "word_number_in_surah": 597,
+      "word_surah": 7,
+      "word_translation": "towards them",
+      "word_transliteration": "anha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19825,
+      "word_number_in_surah": 598,
+      "word_surah": 7,
+      "word_translation": "(will) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُفَتَّحُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19826,
+      "word_number_in_surah": 599,
+      "word_surah": 7,
+      "word_translation": "be opened",
+      "word_transliteration": "tufattahu"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19827,
+      "word_number_in_surah": 600,
+      "word_surah": 7,
+      "word_translation": "for them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "أَبۡوَٰبُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19828,
+      "word_number_in_surah": 601,
+      "word_surah": 7,
+      "word_translation": "(the) doors",
+      "word_transliteration": "abwabu"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19829,
+      "word_number_in_surah": 602,
+      "word_surah": 7,
+      "word_translation": "(of) the heaven",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19830,
+      "word_number_in_surah": 603,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَدۡخُلُونَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19831,
+      "word_number_in_surah": 604,
+      "word_surah": 7,
+      "word_translation": "they will enter",
+      "word_transliteration": "yadkhuluna"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19832,
+      "word_number_in_surah": 605,
+      "word_surah": 7,
+      "word_translation": "Paradise",
+      "word_transliteration": "al-janata"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19833,
+      "word_number_in_surah": 606,
+      "word_surah": 7,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَلِجَ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19834,
+      "word_number_in_surah": 607,
+      "word_surah": 7,
+      "word_translation": "passes",
+      "word_transliteration": "yalija"
+    },
+    {
+      "word_arabic": "ٱلۡجَمَلُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19835,
+      "word_number_in_surah": 608,
+      "word_surah": 7,
+      "word_translation": "the camel",
+      "word_transliteration": "al-jamalu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19836,
+      "word_number_in_surah": 609,
+      "word_surah": 7,
+      "word_translation": "through",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَمِّ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19837,
+      "word_number_in_surah": 610,
+      "word_surah": 7,
+      "word_translation": "(the) eye",
+      "word_transliteration": "sammi"
+    },
+    {
+      "word_arabic": "ٱلۡخِيَاطِۚ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19838,
+      "word_number_in_surah": 611,
+      "word_surah": 7,
+      "word_translation": "(of) the needle",
+      "word_transliteration": "al-khiyati"
+    },
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19839,
+      "word_number_in_surah": 612,
+      "word_surah": 7,
+      "word_translation": "And thus",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "نَجۡزِي",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19840,
+      "word_number_in_surah": 613,
+      "word_surah": 7,
+      "word_translation": "We recompense",
+      "word_transliteration": "najzi"
+    },
+    {
+      "word_arabic": "ٱلۡمُجۡرِمِينَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19841,
+      "word_number_in_surah": 614,
+      "word_surah": 7,
+      "word_translation": "the criminals",
+      "word_transliteration": "al-muj'rimina"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَا وَٱسۡتَكۡبَرُواْ عَنۡهَا لَا تُفَتَّحُ لَهُمۡ أَبۡوَٰبُ ٱلسَّمَآءِ وَلَا يَدۡخُلُونَ ٱلۡجَنَّةَ حَتَّىٰ يَلِجَ ٱلۡجَمَلُ فِي سَمِّ ٱلۡخِيَاطِۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُجۡرِمِينَ",
+  "fullTranslation": "Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle. And thus do We recompense the criminals.",
+  "fullTransliteration": "inna alladhina kadhabu biayatina wa-is'takbaru anha la tufattahu lahum abwabu al-samai wala yadkhuluna al-janata hatta yalija al-jamalu fi sammi al-khiyati wakadhalika najzi al-muj'rimina"
+}

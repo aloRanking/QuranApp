@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "ayah": 52,
+    "surah": 3,
+    "words": 20,
+    "numberInQuran": 345,
+    "juz": 3,
+    "manzil": 1,
+    "page": 56,
+    "ruku": 46,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞فَلَمَّآ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7041,
+      "word_number_in_surah": 896,
+      "word_surah": 3,
+      "word_translation": "Then when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَحَسَّ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7042,
+      "word_number_in_surah": 897,
+      "word_surah": 3,
+      "word_translation": "perceived",
+      "word_transliteration": "ahassa"
+    },
+    {
+      "word_arabic": "عِيسَىٰ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7043,
+      "word_number_in_surah": 898,
+      "word_surah": 3,
+      "word_translation": "Isa",
+      "word_transliteration": "isa"
+    },
+    {
+      "word_arabic": "مِنۡهُمُ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7044,
+      "word_number_in_surah": 899,
+      "word_surah": 3,
+      "word_translation": "from them",
+      "word_transliteration": "min'humu"
+    },
+    {
+      "word_arabic": "ٱلۡكُفۡرَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7045,
+      "word_number_in_surah": 900,
+      "word_surah": 3,
+      "word_translation": "[the] disbelief",
+      "word_transliteration": "al-kuf'ra"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7046,
+      "word_number_in_surah": 901,
+      "word_surah": 3,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7047,
+      "word_number_in_surah": 902,
+      "word_surah": 3,
+      "word_translation": "Who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "أَنصَارِيٓ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7048,
+      "word_number_in_surah": 903,
+      "word_surah": 3,
+      "word_translation": "(will be) my helpers",
+      "word_transliteration": "ansari"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7049,
+      "word_number_in_surah": 904,
+      "word_surah": 3,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7050,
+      "word_number_in_surah": 905,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7051,
+      "word_number_in_surah": 906,
+      "word_surah": 3,
+      "word_translation": "Said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱلۡحَوَارِيُّونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7052,
+      "word_number_in_surah": 907,
+      "word_surah": 3,
+      "word_translation": "the disciples",
+      "word_transliteration": "al-hawariyuna"
+    },
+    {
+      "word_arabic": "نَحۡنُ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7053,
+      "word_number_in_surah": 908,
+      "word_surah": 3,
+      "word_translation": "We",
+      "word_transliteration": "nahnu"
+    },
+    {
+      "word_arabic": "أَنصَارُ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7054,
+      "word_number_in_surah": 909,
+      "word_surah": 3,
+      "word_translation": "(will be the) helpers",
+      "word_transliteration": "ansaru"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7055,
+      "word_number_in_surah": 910,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7056,
+      "word_number_in_surah": 911,
+      "word_surah": 3,
+      "word_translation": "we believe[d]",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7057,
+      "word_number_in_surah": 912,
+      "word_surah": 3,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱشۡهَدۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7058,
+      "word_number_in_surah": 913,
+      "word_surah": 3,
+      "word_translation": "and bear witness",
+      "word_transliteration": "wa-ish'had"
+    },
+    {
+      "word_arabic": "بِأَنَّا",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7059,
+      "word_number_in_surah": 914,
+      "word_surah": 3,
+      "word_translation": "that we",
+      "word_transliteration": "bi-anna"
+    },
+    {
+      "word_arabic": "مُسۡلِمُونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7060,
+      "word_number_in_surah": 915,
+      "word_surah": 3,
+      "word_translation": "(are) Muslims",
+      "word_transliteration": "mus'limuna"
+    }
+  ],
+  "fullArabic": "۞فَلَمَّآ أَحَسَّ عِيسَىٰ مِنۡهُمُ ٱلۡكُفۡرَ قَالَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشۡهَدۡ بِأَنَّا مُسۡلِمُونَ",
+  "fullTranslation": "But when Jesus felt [persistence in] disbelief from them, he said, \"Who are my supporters for [the cause of] Allah?\" The disciples said, \"We are supporters for Allah. We have believed in Allah and testify that we are Muslims [submitting to Him].",
+  "fullTransliteration": "falamma ahassa isa min'humu al-kuf'ra qala man ansari ila al-lahi qala al-hawariyuna nahnu ansaru al-lahi amanna bil-lahi wa-ish'had bi-anna mus'limuna"
+}

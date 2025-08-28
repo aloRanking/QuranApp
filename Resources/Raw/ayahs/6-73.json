@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "ayah": 73,
+    "surah": 6,
+    "words": 24,
+    "numberInQuran": 862,
+    "juz": 7,
+    "manzil": 2,
+    "page": 136,
+    "ruku": 110,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17398,
+      "word_number_in_surah": 1221,
+      "word_surah": 6,
+      "word_translation": "And (it is) He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17399,
+      "word_number_in_surah": 1222,
+      "word_surah": 6,
+      "word_translation": "Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "خَلَقَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17400,
+      "word_number_in_surah": 1223,
+      "word_surah": 6,
+      "word_translation": "created",
+      "word_transliteration": "khalaqa"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17401,
+      "word_number_in_surah": 1224,
+      "word_surah": 6,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17402,
+      "word_number_in_surah": 1225,
+      "word_surah": 6,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-arda"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّۖ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17403,
+      "word_number_in_surah": 1226,
+      "word_surah": 6,
+      "word_translation": "in truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "وَيَوۡمَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17404,
+      "word_number_in_surah": 1227,
+      "word_surah": 6,
+      "word_translation": "And (the) Day",
+      "word_transliteration": "wayawma"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17405,
+      "word_number_in_surah": 1228,
+      "word_surah": 6,
+      "word_translation": "He says",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "كُن",
+      "word_ayah": 73,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17406,
+      "word_number_in_surah": 1229,
+      "word_surah": 6,
+      "word_translation": "Be",
+      "word_transliteration": "kun"
+    },
+    {
+      "word_arabic": "فَيَكُونُۚ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17407,
+      "word_number_in_surah": 1230,
+      "word_surah": 6,
+      "word_translation": "and it is",
+      "word_transliteration": "fayakunu"
+    },
+    {
+      "word_arabic": "قَوۡلُهُ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17408,
+      "word_number_in_surah": 1231,
+      "word_surah": 6,
+      "word_translation": "His word",
+      "word_transliteration": "qawluhu"
+    },
+    {
+      "word_arabic": "ٱلۡحَقُّۚ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17409,
+      "word_number_in_surah": 1232,
+      "word_surah": 6,
+      "word_translation": "(is) the truth",
+      "word_transliteration": "al-haqu"
+    },
+    {
+      "word_arabic": "وَلَهُ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17410,
+      "word_number_in_surah": 1233,
+      "word_surah": 6,
+      "word_translation": "And for Him",
+      "word_transliteration": "walahu"
+    },
+    {
+      "word_arabic": "ٱلۡمُلۡكُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17411,
+      "word_number_in_surah": 1234,
+      "word_surah": 6,
+      "word_translation": "(is) the Dominion",
+      "word_transliteration": "al-mul'ku"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17412,
+      "word_number_in_surah": 1235,
+      "word_surah": 6,
+      "word_translation": "(on the) Day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "يُنفَخُ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17413,
+      "word_number_in_surah": 1236,
+      "word_surah": 6,
+      "word_translation": "will be blown",
+      "word_transliteration": "yunfakhu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17414,
+      "word_number_in_surah": 1237,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلصُّورِۚ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17415,
+      "word_number_in_surah": 1238,
+      "word_surah": 6,
+      "word_translation": "the trumpet",
+      "word_transliteration": "al-suri"
+    },
+    {
+      "word_arabic": "عَٰلِمُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17416,
+      "word_number_in_surah": 1239,
+      "word_surah": 6,
+      "word_translation": "(He is) All-Knower",
+      "word_transliteration": "alimu"
+    },
+    {
+      "word_arabic": "ٱلۡغَيۡبِ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17417,
+      "word_number_in_surah": 1240,
+      "word_surah": 6,
+      "word_translation": "(of) the unseen",
+      "word_transliteration": "al-ghaybi"
+    },
+    {
+      "word_arabic": "وَٱلشَّهَٰدَةِۚ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17418,
+      "word_number_in_surah": 1241,
+      "word_surah": 6,
+      "word_translation": "and the seen",
+      "word_transliteration": "wal-shahadati"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 73,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17419,
+      "word_number_in_surah": 1242,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡحَكِيمُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 17420,
+      "word_number_in_surah": 1243,
+      "word_surah": 6,
+      "word_translation": "(is) the All-Wise",
+      "word_transliteration": "al-hakimu"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيرُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 17421,
+      "word_number_in_surah": 1244,
+      "word_surah": 6,
+      "word_translation": "the All-Aware",
+      "word_transliteration": "al-khabiru"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۖ وَيَوۡمَ يَقُولُ كُن فَيَكُونُۚ قَوۡلُهُ ٱلۡحَقُّۚ وَلَهُ ٱلۡمُلۡكُ يَوۡمَ يُنفَخُ فِي ٱلصُّورِۚ عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
+  "fullTranslation": "And it is He who created the heavens and earth in truth. And the day He says, \"Be,\" and it is, His word is the truth. And His is the dominion [on] the Day the Horn is blown. [He is] Knower of the unseen and the witnessed; and He is the Wise, the Acquainted.",
+  "fullTransliteration": "wahuwa alladhi khalaqa al-samawati wal-arda bil-haqi wayawma yaqulu kun fayakunu qawluhu al-haqu walahu al-mul'ku yawma yunfakhu fi al-suri alimu al-ghaybi wal-shahadati wahuwa al-hakimu al-khabiru"
+}

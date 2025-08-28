@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "ayah": 283,
+    "surah": 2,
+    "words": 32,
+    "numberInQuran": 290,
+    "juz": 3,
+    "manzil": 1,
+    "page": 49,
+    "ruku": 40,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَإِن",
+      "word_ayah": 283,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6010,
+      "word_number_in_surah": 5981,
+      "word_surah": 2,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6011,
+      "word_number_in_surah": 5982,
+      "word_surah": 2,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6012,
+      "word_number_in_surah": 5983,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "سَفَرٖ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6013,
+      "word_number_in_surah": 5984,
+      "word_surah": 2,
+      "word_translation": "a journey",
+      "word_transliteration": "safarin"
+    },
+    {
+      "word_arabic": "وَلَمۡ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6014,
+      "word_number_in_surah": 5985,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "walam"
+    },
+    {
+      "word_arabic": "تَجِدُواْ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6015,
+      "word_number_in_surah": 5986,
+      "word_surah": 2,
+      "word_translation": "you find",
+      "word_transliteration": "tajidu"
+    },
+    {
+      "word_arabic": "كَاتِبٗا",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6016,
+      "word_number_in_surah": 5987,
+      "word_surah": 2,
+      "word_translation": "a scribe",
+      "word_transliteration": "katiban"
+    },
+    {
+      "word_arabic": "فَرِهَٰنٞ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6017,
+      "word_number_in_surah": 5988,
+      "word_surah": 2,
+      "word_translation": "then pledge",
+      "word_transliteration": "farihanun"
+    },
+    {
+      "word_arabic": "مَّقۡبُوضَةٞۖ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6018,
+      "word_number_in_surah": 5989,
+      "word_surah": 2,
+      "word_translation": "in hand",
+      "word_transliteration": "maqbudatun"
+    },
+    {
+      "word_arabic": "فَإِنۡ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6019,
+      "word_number_in_surah": 5990,
+      "word_surah": 2,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "أَمِنَ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6020,
+      "word_number_in_surah": 5991,
+      "word_surah": 2,
+      "word_translation": "entrusts",
+      "word_transliteration": "amina"
+    },
+    {
+      "word_arabic": "بَعۡضُكُم",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6021,
+      "word_number_in_surah": 5992,
+      "word_surah": 2,
+      "word_translation": "one of you",
+      "word_transliteration": "ba'dukum"
+    },
+    {
+      "word_arabic": "بَعۡضٗا",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6022,
+      "word_number_in_surah": 5993,
+      "word_surah": 2,
+      "word_translation": "(to) another",
+      "word_transliteration": "ba'dan"
+    },
+    {
+      "word_arabic": "فَلۡيُؤَدِّ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6023,
+      "word_number_in_surah": 5994,
+      "word_surah": 2,
+      "word_translation": "then let discharge",
+      "word_transliteration": "falyu-addi"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6024,
+      "word_number_in_surah": 5995,
+      "word_surah": 2,
+      "word_translation": "the one who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "ٱؤۡتُمِنَ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6025,
+      "word_number_in_surah": 5996,
+      "word_surah": 2,
+      "word_translation": "is entrusted",
+      "word_transliteration": "u'tumina"
+    },
+    {
+      "word_arabic": "أَمَٰنَتَهُۥ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6026,
+      "word_number_in_surah": 5997,
+      "word_surah": 2,
+      "word_translation": "his trust",
+      "word_transliteration": "amanatahu"
+    },
+    {
+      "word_arabic": "وَلۡيَتَّقِ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6027,
+      "word_number_in_surah": 5998,
+      "word_surah": 2,
+      "word_translation": "And let him fear",
+      "word_transliteration": "walyattaqi"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6028,
+      "word_number_in_surah": 5999,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "رَبَّهُۥۗ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6029,
+      "word_number_in_surah": 6000,
+      "word_surah": 2,
+      "word_translation": "his Lord",
+      "word_transliteration": "rabbahu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6030,
+      "word_number_in_surah": 6001,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكۡتُمُواْ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6031,
+      "word_number_in_surah": 6002,
+      "word_surah": 2,
+      "word_translation": "conceal",
+      "word_transliteration": "taktumu"
+    },
+    {
+      "word_arabic": "ٱلشَّهَٰدَةَۚ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6032,
+      "word_number_in_surah": 6003,
+      "word_surah": 2,
+      "word_translation": "the evidence",
+      "word_transliteration": "al-shahadata"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 283,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6033,
+      "word_number_in_surah": 6004,
+      "word_surah": 2,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَكۡتُمۡهَا",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6034,
+      "word_number_in_surah": 6005,
+      "word_surah": 2,
+      "word_translation": "conceals it",
+      "word_transliteration": "yaktum'ha"
+    },
+    {
+      "word_arabic": "فَإِنَّهُۥٓ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6035,
+      "word_number_in_surah": 6006,
+      "word_surah": 2,
+      "word_translation": "then indeed he",
+      "word_transliteration": "fa-innahu"
+    },
+    {
+      "word_arabic": "ءَاثِمٞ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 6036,
+      "word_number_in_surah": 6007,
+      "word_surah": 2,
+      "word_translation": "(is) sinful",
+      "word_transliteration": "athimun"
+    },
+    {
+      "word_arabic": "قَلۡبُهُۥۗ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 6037,
+      "word_number_in_surah": 6008,
+      "word_surah": 2,
+      "word_translation": "his heart",
+      "word_transliteration": "qalbuhu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 283,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 6038,
+      "word_number_in_surah": 6009,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 6039,
+      "word_number_in_surah": 6010,
+      "word_surah": 2,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 6040,
+      "word_number_in_surah": 6011,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 283,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 6041,
+      "word_number_in_surah": 6012,
+      "word_surah": 2,
+      "word_translation": "(is) All-Knower",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "۞وَإِن كُنتُمۡ عَلَىٰ سَفَرٖ وَلَمۡ تَجِدُواْ كَاتِبٗا فَرِهَٰنٞ مَّقۡبُوضَةٞۖ فَإِنۡ أَمِنَ بَعۡضُكُم بَعۡضٗا فَلۡيُؤَدِّ ٱلَّذِي ٱؤۡتُمِنَ أَمَٰنَتَهُۥ وَلۡيَتَّقِ ٱللَّهَ رَبَّهُۥۗ وَلَا تَكۡتُمُواْ ٱلشَّهَٰدَةَۚ وَمَن يَكۡتُمۡهَا فَإِنَّهُۥٓ ءَاثِمٞ قَلۡبُهُۥۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ عَلِيمٞ",
+  "fullTranslation": "And if you are on a journey and cannot find a scribe, then a security deposit [should be] taken. And if one of you entrusts another, then let him who is entrusted discharge his trust [faithfully] and let him fear Allah, his Lord. And do not conceal testimony, for whoever conceals it - his heart is indeed sinful, and Allah is Knowing of what you do.",
+  "fullTransliteration": "wa-in kuntum ala safarin walam tajidu katiban farihanun maqbudatun fa-in amina ba'dukum ba'dan falyu-addi alladhi u'tumina amanatahu walyattaqi al-laha rabbahu wala taktumu al-shahadata waman yaktum'ha fa-innahu athimun qalbuhu wal-lahu bima ta'maluna alimun"
+}

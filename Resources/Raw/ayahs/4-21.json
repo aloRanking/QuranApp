@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 21,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 514,
+    "juz": 4,
+    "manzil": 1,
+    "page": 81,
+    "ruku": 64,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَيۡفَ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10147,
+      "word_number_in_surah": 521,
+      "word_surah": 4,
+      "word_translation": "And how",
+      "word_transliteration": "wakayfa"
+    },
+    {
+      "word_arabic": "تَأۡخُذُونَهُۥ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10148,
+      "word_number_in_surah": 522,
+      "word_surah": 4,
+      "word_translation": "could you take it",
+      "word_transliteration": "takhudhunahu"
+    },
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10149,
+      "word_number_in_surah": 523,
+      "word_surah": 4,
+      "word_translation": "when surely",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "أَفۡضَىٰ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10150,
+      "word_number_in_surah": 524,
+      "word_surah": 4,
+      "word_translation": "has gone",
+      "word_transliteration": "afda"
+    },
+    {
+      "word_arabic": "بَعۡضُكُمۡ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10151,
+      "word_number_in_surah": 525,
+      "word_surah": 4,
+      "word_translation": "one of you",
+      "word_transliteration": "ba'dukum"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10152,
+      "word_number_in_surah": 526,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "بَعۡضٖ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10153,
+      "word_number_in_surah": 527,
+      "word_surah": 4,
+      "word_translation": "another",
+      "word_transliteration": "ba'din"
+    },
+    {
+      "word_arabic": "وَأَخَذۡنَ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10154,
+      "word_number_in_surah": 528,
+      "word_surah": 4,
+      "word_translation": "and they have taken",
+      "word_transliteration": "wa-akhadhna"
+    },
+    {
+      "word_arabic": "مِنكُم",
+      "word_ayah": 21,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10155,
+      "word_number_in_surah": 529,
+      "word_surah": 4,
+      "word_translation": "from you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "مِّيثَٰقًا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10156,
+      "word_number_in_surah": 530,
+      "word_surah": 4,
+      "word_translation": "covenant",
+      "word_transliteration": "mithaqan"
+    },
+    {
+      "word_arabic": "غَلِيظٗا",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10157,
+      "word_number_in_surah": 531,
+      "word_surah": 4,
+      "word_translation": "strong",
+      "word_transliteration": "ghalizan"
+    }
+  ],
+  "fullArabic": "وَكَيۡفَ تَأۡخُذُونَهُۥ وَقَدۡ أَفۡضَىٰ بَعۡضُكُمۡ إِلَىٰ بَعۡضٖ وَأَخَذۡنَ مِنكُم مِّيثَٰقًا غَلِيظٗا",
+  "fullTranslation": "And how could you take it while you have gone in unto each other and they have taken from you a solemn covenant?",
+  "fullTransliteration": "wakayfa takhudhunahu waqad afda ba'dukum ila ba'din wa-akhadhna minkum mithaqan ghalizan"
+}

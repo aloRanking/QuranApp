@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 225,
+    "surah": 2,
+    "words": 14,
+    "numberInQuran": 232,
+    "juz": 2,
+    "manzil": 1,
+    "page": 36,
+    "ruku": 29,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4323,
+      "word_number_in_surah": 4294,
+      "word_surah": 2,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤَاخِذُكُمُ",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4324,
+      "word_number_in_surah": 4295,
+      "word_surah": 2,
+      "word_translation": "will take you to task",
+      "word_transliteration": "yuakhidhukumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4325,
+      "word_number_in_surah": 4296,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِٱللَّغۡوِ",
+      "word_ayah": 225,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4326,
+      "word_number_in_surah": 4297,
+      "word_surah": 2,
+      "word_translation": "for (what is) unintentional",
+      "word_transliteration": "bil-laghwi"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4327,
+      "word_number_in_surah": 4298,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَيۡمَٰنِكُمۡ",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4328,
+      "word_number_in_surah": 4299,
+      "word_surah": 2,
+      "word_translation": "your oaths",
+      "word_transliteration": "aymanikum"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4329,
+      "word_number_in_surah": 4300,
+      "word_surah": 2,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "يُؤَاخِذُكُم",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4330,
+      "word_number_in_surah": 4301,
+      "word_surah": 2,
+      "word_translation": "He takes you to task",
+      "word_transliteration": "yuakhidhukum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4331,
+      "word_number_in_surah": 4302,
+      "word_surah": 2,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَسَبَتۡ",
+      "word_ayah": 225,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4332,
+      "word_number_in_surah": 4303,
+      "word_surah": 2,
+      "word_translation": "(have) earned",
+      "word_transliteration": "kasabat"
+    },
+    {
+      "word_arabic": "قُلُوبُكُمۡۗ",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4333,
+      "word_number_in_surah": 4304,
+      "word_surah": 2,
+      "word_translation": "your hearts",
+      "word_transliteration": "qulubukum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 225,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4334,
+      "word_number_in_surah": 4305,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "غَفُورٌ",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4335,
+      "word_number_in_surah": 4306,
+      "word_surah": 2,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "حَلِيمٞ",
+      "word_ayah": 225,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4336,
+      "word_number_in_surah": 4307,
+      "word_surah": 2,
+      "word_translation": "Most Forbearing",
+      "word_transliteration": "halimun"
+    }
+  ],
+  "fullArabic": "لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغۡوِ فِيٓ أَيۡمَٰنِكُمۡ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتۡ قُلُوبُكُمۡۗ وَٱللَّهُ غَفُورٌ حَلِيمٞ",
+  "fullTranslation": "Allah does not impose blame upon you for what is unintentional in your oaths, but He imposes blame upon you for what your hearts have earned. And Allah is Forgiving and Forbearing.",
+  "fullTransliteration": "la yuakhidhukumu al-lahu bil-laghwi fi aymanikum walakin yuakhidhukum bima kasabat qulubukum wal-lahu ghafurun halimun"
+}

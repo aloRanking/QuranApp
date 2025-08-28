@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "ayah": 98,
+    "surah": 6,
+    "words": 13,
+    "numberInQuran": 887,
+    "juz": 7,
+    "manzil": 2,
+    "page": 140,
+    "ruku": 113,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17862,
+      "word_number_in_surah": 1685,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17863,
+      "word_number_in_surah": 1686,
+      "word_surah": 6,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "أَنشَأَكُم",
+      "word_ayah": 98,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17864,
+      "word_number_in_surah": 1687,
+      "word_surah": 6,
+      "word_translation": "(has) produced you",
+      "word_transliteration": "ansha-akum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 98,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17865,
+      "word_number_in_surah": 1688,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّفۡسٖ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17866,
+      "word_number_in_surah": 1689,
+      "word_surah": 6,
+      "word_translation": "a soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "وَٰحِدَةٖ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17867,
+      "word_number_in_surah": 1690,
+      "word_surah": 6,
+      "word_translation": "single",
+      "word_transliteration": "wahidatin"
+    },
+    {
+      "word_arabic": "فَمُسۡتَقَرّٞ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17868,
+      "word_number_in_surah": 1691,
+      "word_surah": 6,
+      "word_translation": "so (there is) a place of dwelling",
+      "word_transliteration": "famus'taqarrun"
+    },
+    {
+      "word_arabic": "وَمُسۡتَوۡدَعٞۗ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17869,
+      "word_number_in_surah": 1692,
+      "word_surah": 6,
+      "word_translation": "and a resting place",
+      "word_transliteration": "wamus'tawda'un"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17870,
+      "word_number_in_surah": 1693,
+      "word_surah": 6,
+      "word_translation": "Certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "فَصَّلۡنَا",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17871,
+      "word_number_in_surah": 1694,
+      "word_surah": 6,
+      "word_translation": "We have made clear",
+      "word_transliteration": "fassalna"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17872,
+      "word_number_in_surah": 1695,
+      "word_surah": 6,
+      "word_translation": "the Signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "لِقَوۡمٖ",
+      "word_ayah": 98,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17873,
+      "word_number_in_surah": 1696,
+      "word_surah": 6,
+      "word_translation": "for a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يَفۡقَهُونَ",
+      "word_ayah": 98,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17874,
+      "word_number_in_surah": 1697,
+      "word_surah": 6,
+      "word_translation": "(who) understand",
+      "word_transliteration": "yafqahuna"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱلَّذِيٓ أَنشَأَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ فَمُسۡتَقَرّٞ وَمُسۡتَوۡدَعٞۗ قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمٖ يَفۡقَهُونَ",
+  "fullTranslation": "And it is He who produced you from one soul and [gave you] a place of dwelling and of storage. We have detailed the signs for a people who understand.",
+  "fullTransliteration": "wahuwa alladhi ansha-akum min nafsin wahidatin famus'taqarrun wamus'tawda'un qad fassalna al-ayati liqawmin yafqahuna"
+}

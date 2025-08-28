@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "ayah": 25,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 979,
+    "juz": 8,
+    "manzil": 2,
+    "page": 153,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19508,
+      "word_number_in_surah": 281,
+      "word_surah": 7,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19509,
+      "word_number_in_surah": 282,
+      "word_surah": 7,
+      "word_translation": "In it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "تَحۡيَوۡنَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19510,
+      "word_number_in_surah": 283,
+      "word_surah": 7,
+      "word_translation": "you will live",
+      "word_transliteration": "tahyawna"
+    },
+    {
+      "word_arabic": "وَفِيهَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19511,
+      "word_number_in_surah": 284,
+      "word_surah": 7,
+      "word_translation": "and in it",
+      "word_transliteration": "wafiha"
+    },
+    {
+      "word_arabic": "تَمُوتُونَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19512,
+      "word_number_in_surah": 285,
+      "word_surah": 7,
+      "word_translation": "you will die",
+      "word_transliteration": "tamutuna"
+    },
+    {
+      "word_arabic": "وَمِنۡهَا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19513,
+      "word_number_in_surah": 286,
+      "word_surah": 7,
+      "word_translation": "and from it",
+      "word_transliteration": "wamin'ha"
+    },
+    {
+      "word_arabic": "تُخۡرَجُونَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19514,
+      "word_number_in_surah": 287,
+      "word_surah": 7,
+      "word_translation": "you will be brought forth",
+      "word_transliteration": "tukh'rajuna"
+    }
+  ],
+  "fullArabic": "قَالَ فِيهَا تَحۡيَوۡنَ وَفِيهَا تَمُوتُونَ وَمِنۡهَا تُخۡرَجُونَ",
+  "fullTranslation": "He said, \"Therein you will live, and therein you will die, and from it you will be brought forth.\"",
+  "fullTransliteration": "qala fiha tahyawna wafiha tamutuna wamin'ha tukh'rajuna"
+}

@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "ayah": 90,
+    "surah": 2,
+    "words": 27,
+    "numberInQuran": 97,
+    "juz": 1,
+    "manzil": 1,
+    "page": 14,
+    "ruku": 12,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بِئۡسَمَا",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1499,
+      "word_number_in_surah": 1470,
+      "word_surah": 2,
+      "word_translation": "Evil (is) that",
+      "word_transliteration": "bi'sama"
+    },
+    {
+      "word_arabic": "ٱشۡتَرَوۡاْ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1500,
+      "word_number_in_surah": 1471,
+      "word_surah": 2,
+      "word_translation": "(for) which they have sold",
+      "word_transliteration": "ish'taraw"
+    },
+    {
+      "word_arabic": "بِهِۦٓ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1501,
+      "word_number_in_surah": 1472,
+      "word_surah": 2,
+      "word_translation": "with",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1502,
+      "word_number_in_surah": 1473,
+      "word_surah": 2,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 90,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1503,
+      "word_number_in_surah": 1474,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَكۡفُرُواْ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1504,
+      "word_number_in_surah": 1475,
+      "word_surah": 2,
+      "word_translation": "they disbelieve",
+      "word_transliteration": "yakfuru"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1505,
+      "word_number_in_surah": 1476,
+      "word_surah": 2,
+      "word_translation": "in what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1506,
+      "word_number_in_surah": 1477,
+      "word_surah": 2,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1507,
+      "word_number_in_surah": 1478,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بَغۡيًا",
+      "word_ayah": 90,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1508,
+      "word_number_in_surah": 1479,
+      "word_surah": 2,
+      "word_translation": "grudging",
+      "word_transliteration": "baghyan"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 90,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1509,
+      "word_number_in_surah": 1480,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُنَزِّلَ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1510,
+      "word_number_in_surah": 1481,
+      "word_surah": 2,
+      "word_translation": "sends down",
+      "word_transliteration": "yunazzila"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1511,
+      "word_number_in_surah": 1482,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 90,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1512,
+      "word_number_in_surah": 1483,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "فَضۡلِهِۦ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1513,
+      "word_number_in_surah": 1484,
+      "word_surah": 2,
+      "word_translation": "His Grace",
+      "word_transliteration": "fadlihi"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1514,
+      "word_number_in_surah": 1485,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 90,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1515,
+      "word_number_in_surah": 1486,
+      "word_surah": 2,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1516,
+      "word_number_in_surah": 1487,
+      "word_surah": 2,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 90,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1517,
+      "word_number_in_surah": 1488,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِبَادِهِۦۖ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1518,
+      "word_number_in_surah": 1489,
+      "word_surah": 2,
+      "word_translation": "His servants",
+      "word_transliteration": "ibadihi"
+    },
+    {
+      "word_arabic": "فَبَآءُو",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1519,
+      "word_number_in_surah": 1490,
+      "word_surah": 2,
+      "word_translation": "So they have drawn (on themselves)",
+      "word_transliteration": "fabau"
+    },
+    {
+      "word_arabic": "بِغَضَبٍ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1520,
+      "word_number_in_surah": 1491,
+      "word_surah": 2,
+      "word_translation": "wrath",
+      "word_transliteration": "bighadabin"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1521,
+      "word_number_in_surah": 1492,
+      "word_surah": 2,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "غَضَبٖۚ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1522,
+      "word_number_in_surah": 1493,
+      "word_surah": 2,
+      "word_translation": "wrath",
+      "word_transliteration": "ghadabin"
+    },
+    {
+      "word_arabic": "وَلِلۡكَٰفِرِينَ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1523,
+      "word_number_in_surah": 1494,
+      "word_surah": 2,
+      "word_translation": "And for the disbelievers",
+      "word_transliteration": "walil'kafirina"
+    },
+    {
+      "word_arabic": "عَذَابٞ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 1524,
+      "word_number_in_surah": 1495,
+      "word_surah": 2,
+      "word_translation": "(is) a punishment",
+      "word_transliteration": "adhabun"
+    },
+    {
+      "word_arabic": "مُّهِينٞ",
+      "word_ayah": 90,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 1525,
+      "word_number_in_surah": 1496,
+      "word_surah": 2,
+      "word_translation": "humiliating",
+      "word_transliteration": "muhinun"
+    }
+  ],
+  "fullArabic": "بِئۡسَمَا ٱشۡتَرَوۡاْ بِهِۦٓ أَنفُسَهُمۡ أَن يَكۡفُرُواْ بِمَآ أَنزَلَ ٱللَّهُ بَغۡيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضۡلِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٖۚ وَلِلۡكَٰفِرِينَ عَذَابٞ مُّهِينٞ",
+  "fullTranslation": "How wretched is that for which they sold themselves - that they would disbelieve in what Allah has revealed through [their] outrage that Allah would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment.",
+  "fullTransliteration": "bi'sama ish'taraw bihi anfusahum an yakfuru bima anzala al-lahu baghyan an yunazzila al-lahu min fadlihi ala man yashau min ibadihi fabau bighadabin ala ghadabin walil'kafirina adhabun muhinun"
+}

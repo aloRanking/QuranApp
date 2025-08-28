@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "ayah": 142,
+    "surah": 6,
+    "words": 16,
+    "numberInQuran": 931,
+    "juz": 8,
+    "manzil": 2,
+    "page": 146,
+    "ruku": 118,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18674,
+      "word_number_in_surah": 2497,
+      "word_surah": 6,
+      "word_translation": "And of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلۡأَنۡعَٰمِ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18675,
+      "word_number_in_surah": 2498,
+      "word_surah": 6,
+      "word_translation": "the cattle",
+      "word_transliteration": "al-an'ami"
+    },
+    {
+      "word_arabic": "حَمُولَةٗ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18676,
+      "word_number_in_surah": 2499,
+      "word_surah": 6,
+      "word_translation": "(are some for) burden",
+      "word_transliteration": "hamulatan"
+    },
+    {
+      "word_arabic": "وَفَرۡشٗاۚ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18677,
+      "word_number_in_surah": 2500,
+      "word_surah": 6,
+      "word_translation": "and (some for) meat",
+      "word_transliteration": "wafarshan"
+    },
+    {
+      "word_arabic": "كُلُواْ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18678,
+      "word_number_in_surah": 2501,
+      "word_surah": 6,
+      "word_translation": "Eat",
+      "word_transliteration": "kulu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18679,
+      "word_number_in_surah": 2502,
+      "word_surah": 6,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "رَزَقَكُمُ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18680,
+      "word_number_in_surah": 2503,
+      "word_surah": 6,
+      "word_translation": "(has been) provided (to) you",
+      "word_transliteration": "razaqakumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18681,
+      "word_number_in_surah": 2504,
+      "word_surah": 6,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18682,
+      "word_number_in_surah": 2505,
+      "word_surah": 6,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعُواْ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18683,
+      "word_number_in_surah": 2506,
+      "word_surah": 6,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'u"
+    },
+    {
+      "word_arabic": "خُطُوَٰتِ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18684,
+      "word_number_in_surah": 2507,
+      "word_surah": 6,
+      "word_translation": "(the) footsteps",
+      "word_transliteration": "khutuwati"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنِۚ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18685,
+      "word_number_in_surah": 2508,
+      "word_surah": 6,
+      "word_translation": "(of) Shaitaan",
+      "word_transliteration": "al-shaytani"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18686,
+      "word_number_in_surah": 2509,
+      "word_surah": 6,
+      "word_translation": "Indeed, he",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 142,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18687,
+      "word_number_in_surah": 2510,
+      "word_surah": 6,
+      "word_translation": "(is) to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "عَدُوّٞ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18688,
+      "word_number_in_surah": 2511,
+      "word_surah": 6,
+      "word_translation": "an enemy",
+      "word_transliteration": "aduwwun"
+    },
+    {
+      "word_arabic": "مُّبِينٞ",
+      "word_ayah": 142,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18689,
+      "word_number_in_surah": 2512,
+      "word_surah": 6,
+      "word_translation": "open",
+      "word_transliteration": "mubinun"
+    }
+  ],
+  "fullArabic": "وَمِنَ ٱلۡأَنۡعَٰمِ حَمُولَةٗ وَفَرۡشٗاۚ كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+  "fullTranslation": "And of the grazing livestock are carriers [of burdens] and those [too] small. Eat of what Allah has provided for you and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.",
+  "fullTransliteration": "wamina al-an'ami hamulatan wafarshan kulu mimma razaqakumu al-lahu wala tattabi'u khutuwati al-shaytani innahu lakum aduwwun mubinun"
+}

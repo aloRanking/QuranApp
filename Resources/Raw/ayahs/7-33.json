@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "ayah": 33,
+    "surah": 7,
+    "words": 29,
+    "numberInQuran": 987,
+    "juz": 8,
+    "manzil": 2,
+    "page": 154,
+    "ruku": 125,
+    "hizbQuarter": 62,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19659,
+      "word_number_in_surah": 432,
+      "word_surah": 7,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19660,
+      "word_number_in_surah": 433,
+      "word_surah": 7,
+      "word_translation": "Only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "حَرَّمَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19661,
+      "word_number_in_surah": 434,
+      "word_surah": 7,
+      "word_translation": "(had) forbidden",
+      "word_transliteration": "harrama"
+    },
+    {
+      "word_arabic": "رَبِّيَ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19662,
+      "word_number_in_surah": 435,
+      "word_surah": 7,
+      "word_translation": "my Lord",
+      "word_transliteration": "rabbiya"
+    },
+    {
+      "word_arabic": "ٱلۡفَوَٰحِشَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19663,
+      "word_number_in_surah": 436,
+      "word_surah": 7,
+      "word_translation": "the shameful deeds",
+      "word_transliteration": "al-fawahisha"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19664,
+      "word_number_in_surah": 437,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ظَهَرَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19665,
+      "word_number_in_surah": 438,
+      "word_surah": 7,
+      "word_translation": "(is) apparent",
+      "word_transliteration": "zahara"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19666,
+      "word_number_in_surah": 439,
+      "word_surah": 7,
+      "word_translation": "of it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19667,
+      "word_number_in_surah": 440,
+      "word_surah": 7,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "بَطَنَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19668,
+      "word_number_in_surah": 441,
+      "word_surah": 7,
+      "word_translation": "is concealed",
+      "word_transliteration": "batana"
+    },
+    {
+      "word_arabic": "وَٱلۡإِثۡمَ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19669,
+      "word_number_in_surah": 442,
+      "word_surah": 7,
+      "word_translation": "and the sin",
+      "word_transliteration": "wal-ith'ma"
+    },
+    {
+      "word_arabic": "وَٱلۡبَغۡيَ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19670,
+      "word_number_in_surah": 443,
+      "word_surah": 7,
+      "word_translation": "and the oppression",
+      "word_transliteration": "wal-baghya"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19671,
+      "word_number_in_surah": 444,
+      "word_surah": 7,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "ٱلۡحَقِّ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19672,
+      "word_number_in_surah": 445,
+      "word_surah": 7,
+      "word_translation": "[the] right",
+      "word_transliteration": "al-haqi"
+    },
+    {
+      "word_arabic": "وَأَن",
+      "word_ayah": 33,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19673,
+      "word_number_in_surah": 446,
+      "word_surah": 7,
+      "word_translation": "and that",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "تُشۡرِكُواْ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19674,
+      "word_number_in_surah": 447,
+      "word_surah": 7,
+      "word_translation": "you associate (others)",
+      "word_transliteration": "tush'riku"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19675,
+      "word_number_in_surah": 448,
+      "word_surah": 7,
+      "word_translation": "with Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 19676,
+      "word_number_in_surah": 449,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 19677,
+      "word_number_in_surah": 450,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يُنَزِّلۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 19678,
+      "word_number_in_surah": 451,
+      "word_surah": 7,
+      "word_translation": "He (has) sent down",
+      "word_transliteration": "yunazzil"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 19679,
+      "word_number_in_surah": 452,
+      "word_surah": 7,
+      "word_translation": "of it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "سُلۡطَٰنٗا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 19680,
+      "word_number_in_surah": 453,
+      "word_surah": 7,
+      "word_translation": "any authority",
+      "word_transliteration": "sul'tanan"
+    },
+    {
+      "word_arabic": "وَأَن",
+      "word_ayah": 33,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 19681,
+      "word_number_in_surah": 454,
+      "word_surah": 7,
+      "word_translation": "and that",
+      "word_transliteration": "wa-an"
+    },
+    {
+      "word_arabic": "تَقُولُواْ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 19682,
+      "word_number_in_surah": 455,
+      "word_surah": 7,
+      "word_translation": "you say",
+      "word_transliteration": "taqulu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 19683,
+      "word_number_in_surah": 456,
+      "word_surah": 7,
+      "word_translation": "about",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 19684,
+      "word_number_in_surah": 457,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 19685,
+      "word_number_in_surah": 458,
+      "word_surah": 7,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 19686,
+      "word_number_in_surah": 459,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 19687,
+      "word_number_in_surah": 460,
+      "word_surah": 7,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "قُلۡ إِنَّمَا حَرَّمَ رَبِّيَ ٱلۡفَوَٰحِشَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ وَٱلۡإِثۡمَ وَٱلۡبَغۡيَ بِغَيۡرِ ٱلۡحَقِّ وَأَن تُشۡرِكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "fullTranslation": "Say, \"My Lord has only forbidden immoralities - what is apparent of them and what is concealed - and sin, and oppression without right, and that you associate with Allah that for which He has not sent down authority, and that you say about Allah that which you do not know.\"",
+  "fullTransliteration": "qul innama harrama rabbiya al-fawahisha ma zahara min'ha wama batana wal-ith'ma wal-baghya bighayri al-haqi wa-an tush'riku bil-lahi ma lam yunazzil bihi sul'tanan wa-an taqulu ala al-lahi ma la ta'lamuna"
+}

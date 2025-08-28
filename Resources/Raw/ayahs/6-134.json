@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 134,
+    "surah": 6,
+    "words": 7,
+    "numberInQuran": 923,
+    "juz": 8,
+    "manzil": 2,
+    "page": 145,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 134,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18499,
+      "word_number_in_surah": 2322,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18500,
+      "word_number_in_surah": 2323,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تُوعَدُونَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18501,
+      "word_number_in_surah": 2324,
+      "word_surah": 6,
+      "word_translation": "you are promised",
+      "word_transliteration": "tu'aduna"
+    },
+    {
+      "word_arabic": "لَأٓتٖۖ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18502,
+      "word_number_in_surah": 2325,
+      "word_surah": 6,
+      "word_translation": "(is) sure to come",
+      "word_transliteration": "laatin"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18503,
+      "word_number_in_surah": 2326,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَنتُم",
+      "word_ayah": 134,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18504,
+      "word_number_in_surah": 2327,
+      "word_surah": 6,
+      "word_translation": "(can) you",
+      "word_transliteration": "antum"
+    },
+    {
+      "word_arabic": "بِمُعۡجِزِينَ",
+      "word_ayah": 134,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18505,
+      "word_number_in_surah": 2328,
+      "word_surah": 6,
+      "word_translation": "escape (it)",
+      "word_transliteration": "bimu'jizina"
+    }
+  ],
+  "fullArabic": "إِنَّ مَا تُوعَدُونَ لَأٓتٖۖ وَمَآ أَنتُم بِمُعۡجِزِينَ",
+  "fullTranslation": "Indeed, what you are promised is coming, and you will not cause failure [to Allah].",
+  "fullTransliteration": "inna ma tu'aduna laatin wama antum bimu'jizina"
+}

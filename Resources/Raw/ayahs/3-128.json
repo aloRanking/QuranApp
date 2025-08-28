@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "ayah": 128,
+    "surah": 3,
+    "words": 12,
+    "numberInQuran": 421,
+    "juz": 4,
+    "manzil": 1,
+    "page": 66,
+    "ruku": 54,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8302,
+      "word_number_in_surah": 2157,
+      "word_surah": 3,
+      "word_translation": "Not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "لَكَ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8303,
+      "word_number_in_surah": 2158,
+      "word_surah": 3,
+      "word_translation": "for you",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8304,
+      "word_number_in_surah": 2159,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡرِ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8305,
+      "word_number_in_surah": 2160,
+      "word_surah": 3,
+      "word_translation": "the decision",
+      "word_transliteration": "al-amri"
+    },
+    {
+      "word_arabic": "شَيۡءٌ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8306,
+      "word_number_in_surah": 2161,
+      "word_surah": 3,
+      "word_translation": "(of) anything",
+      "word_transliteration": "shayon"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8307,
+      "word_number_in_surah": 2162,
+      "word_surah": 3,
+      "word_translation": "whether",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يَتُوبَ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8308,
+      "word_number_in_surah": 2163,
+      "word_surah": 3,
+      "word_translation": "He turns",
+      "word_transliteration": "yatuba"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8309,
+      "word_number_in_surah": 2164,
+      "word_surah": 3,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8310,
+      "word_number_in_surah": 2165,
+      "word_surah": 3,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "يُعَذِّبَهُمۡ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8311,
+      "word_number_in_surah": 2166,
+      "word_surah": 3,
+      "word_translation": "punishes them",
+      "word_transliteration": "yu'adhibahum"
+    },
+    {
+      "word_arabic": "فَإِنَّهُمۡ",
+      "word_ayah": 128,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8312,
+      "word_number_in_surah": 2167,
+      "word_surah": 3,
+      "word_translation": "for indeed they",
+      "word_transliteration": "fa-innahum"
+    },
+    {
+      "word_arabic": "ظَٰلِمُونَ",
+      "word_ayah": 128,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8313,
+      "word_number_in_surah": 2168,
+      "word_surah": 3,
+      "word_translation": "(are) wrongdoers",
+      "word_transliteration": "zalimuna"
+    }
+  ],
+  "fullArabic": "لَيۡسَ لَكَ مِنَ ٱلۡأَمۡرِ شَيۡءٌ أَوۡ يَتُوبَ عَلَيۡهِمۡ أَوۡ يُعَذِّبَهُمۡ فَإِنَّهُمۡ ظَٰلِمُونَ",
+  "fullTranslation": "Not for you, [O Muhammad, but for Allah], is the decision whether He should [cut them down] or forgive them or punish them, for indeed, they are wrongdoers.",
+  "fullTransliteration": "laysa laka mina al-amri shayon aw yatuba alayhim aw yu'adhibahum fa-innahum zalimuna"
+}

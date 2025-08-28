@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "ayah": 182,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 189,
+    "juz": 2,
+    "manzil": 1,
+    "page": 28,
+    "ruku": 23,
+    "hizbQuarter": 11,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَمَنۡ",
+      "word_ayah": 182,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3300,
+      "word_number_in_surah": 3271,
+      "word_surah": 2,
+      "word_translation": "But whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "خَافَ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3301,
+      "word_number_in_surah": 3272,
+      "word_surah": 2,
+      "word_translation": "fears",
+      "word_transliteration": "khafa"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 182,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3302,
+      "word_number_in_surah": 3273,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "مُّوصٖ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3303,
+      "word_number_in_surah": 3274,
+      "word_surah": 2,
+      "word_translation": "(the) testator",
+      "word_transliteration": "musin"
+    },
+    {
+      "word_arabic": "جَنَفًا",
+      "word_ayah": 182,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3304,
+      "word_number_in_surah": 3275,
+      "word_surah": 2,
+      "word_translation": "(any) error",
+      "word_transliteration": "janafan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 182,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3305,
+      "word_number_in_surah": 3276,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "إِثۡمٗا",
+      "word_ayah": 182,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3306,
+      "word_number_in_surah": 3277,
+      "word_surah": 2,
+      "word_translation": "sin",
+      "word_transliteration": "ith'man"
+    },
+    {
+      "word_arabic": "فَأَصۡلَحَ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3307,
+      "word_number_in_surah": 3278,
+      "word_surah": 2,
+      "word_translation": "then reconciles",
+      "word_transliteration": "fa-aslaha"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمۡ",
+      "word_ayah": 182,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3308,
+      "word_number_in_surah": 3279,
+      "word_surah": 2,
+      "word_translation": "between them",
+      "word_transliteration": "baynahum"
+    },
+    {
+      "word_arabic": "فَلَآ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3309,
+      "word_number_in_surah": 3280,
+      "word_surah": 2,
+      "word_translation": "then (there is) no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "إِثۡمَ",
+      "word_ayah": 182,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3310,
+      "word_number_in_surah": 3281,
+      "word_surah": 2,
+      "word_translation": "sin",
+      "word_transliteration": "ith'ma"
+    },
+    {
+      "word_arabic": "عَلَيۡهِۚ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3311,
+      "word_number_in_surah": 3282,
+      "word_surah": 2,
+      "word_translation": "on him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 182,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3312,
+      "word_number_in_surah": 3283,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3313,
+      "word_number_in_surah": 3284,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3314,
+      "word_number_in_surah": 3285,
+      "word_surah": 2,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 182,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3315,
+      "word_number_in_surah": 3286,
+      "word_surah": 2,
+      "word_translation": "All-Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "فَمَنۡ خَافَ مِن مُّوصٖ جَنَفًا أَوۡ إِثۡمٗا فَأَصۡلَحَ بَيۡنَهُمۡ فَلَآ إِثۡمَ عَلَيۡهِۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "But if one fears from the bequeather [some] error or sin and corrects that which is between them, there is no sin upon him. Indeed, Allah is Forgiving and Merciful.",
+  "fullTransliteration": "faman khafa min musin janafan aw ith'man fa-aslaha baynahum fala ith'ma alayhi inna al-laha ghafurun rahimun"
+}

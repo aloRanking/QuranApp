@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "ayah": 10,
+    "surah": 4,
+    "words": 13,
+    "numberInQuran": 503,
+    "juz": 4,
+    "manzil": 1,
+    "page": 78,
+    "ruku": 62,
+    "hizbQuarter": 31,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 10,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9813,
+      "word_number_in_surah": 187,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9814,
+      "word_number_in_surah": 188,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَأۡكُلُونَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9815,
+      "word_number_in_surah": 189,
+      "word_surah": 4,
+      "word_translation": "consume",
+      "word_transliteration": "yakuluna"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9816,
+      "word_number_in_surah": 190,
+      "word_surah": 4,
+      "word_translation": "wealth",
+      "word_transliteration": "amwala"
+    },
+    {
+      "word_arabic": "ٱلۡيَتَٰمَىٰ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9817,
+      "word_number_in_surah": 191,
+      "word_surah": 4,
+      "word_translation": "(of) the orphans",
+      "word_transliteration": "al-yatama"
+    },
+    {
+      "word_arabic": "ظُلۡمًا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9818,
+      "word_number_in_surah": 192,
+      "word_surah": 4,
+      "word_translation": "wrongfully",
+      "word_transliteration": "zul'man"
+    },
+    {
+      "word_arabic": "إِنَّمَا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9819,
+      "word_number_in_surah": 193,
+      "word_surah": 4,
+      "word_translation": "only",
+      "word_transliteration": "innama"
+    },
+    {
+      "word_arabic": "يَأۡكُلُونَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9820,
+      "word_number_in_surah": 194,
+      "word_surah": 4,
+      "word_translation": "they consume",
+      "word_transliteration": "yakuluna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9821,
+      "word_number_in_surah": 195,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "بُطُونِهِمۡ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9822,
+      "word_number_in_surah": 196,
+      "word_surah": 4,
+      "word_translation": "their bellies",
+      "word_transliteration": "butunihim"
+    },
+    {
+      "word_arabic": "نَارٗاۖ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9823,
+      "word_number_in_surah": 197,
+      "word_surah": 4,
+      "word_translation": "fire",
+      "word_transliteration": "naran"
+    },
+    {
+      "word_arabic": "وَسَيَصۡلَوۡنَ",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9824,
+      "word_number_in_surah": 198,
+      "word_surah": 4,
+      "word_translation": "and they will be burned",
+      "word_transliteration": "wasayaslawna"
+    },
+    {
+      "word_arabic": "سَعِيرٗا",
+      "word_ayah": 10,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9825,
+      "word_number_in_surah": 199,
+      "word_surah": 4,
+      "word_translation": "(in) a Blazing Fire",
+      "word_transliteration": "sa'iran"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ يَأۡكُلُونَ أَمۡوَٰلَ ٱلۡيَتَٰمَىٰ ظُلۡمًا إِنَّمَا يَأۡكُلُونَ فِي بُطُونِهِمۡ نَارٗاۖ وَسَيَصۡلَوۡنَ سَعِيرٗا",
+  "fullTranslation": "Indeed, those who devour the property of orphans unjustly are only consuming into their bellies fire. And they will be burned in a Blaze.",
+  "fullTransliteration": "inna alladhina yakuluna amwala al-yatama zul'man innama yakuluna fi butunihim naran wasayaslawna sa'iran"
+}

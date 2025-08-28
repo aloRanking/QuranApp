@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "ayah": 47,
+    "surah": 3,
+    "words": 23,
+    "numberInQuran": 340,
+    "juz": 3,
+    "manzil": 1,
+    "page": 56,
+    "ruku": 46,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَتۡ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6941,
+      "word_number_in_surah": 796,
+      "word_surah": 3,
+      "word_translation": "She said",
+      "word_transliteration": "qalat"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6942,
+      "word_number_in_surah": 797,
+      "word_surah": 3,
+      "word_translation": "My Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "أَنَّىٰ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6943,
+      "word_number_in_surah": 798,
+      "word_surah": 3,
+      "word_translation": "how",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "يَكُونُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6944,
+      "word_number_in_surah": 799,
+      "word_surah": 3,
+      "word_translation": "is [it]",
+      "word_transliteration": "yakunu"
+    },
+    {
+      "word_arabic": "لِي",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6945,
+      "word_number_in_surah": 800,
+      "word_surah": 3,
+      "word_translation": "for me",
+      "word_transliteration": "li"
+    },
+    {
+      "word_arabic": "وَلَدٞ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6946,
+      "word_number_in_surah": 801,
+      "word_surah": 3,
+      "word_translation": "a boy",
+      "word_transliteration": "waladun"
+    },
+    {
+      "word_arabic": "وَلَمۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6947,
+      "word_number_in_surah": 802,
+      "word_surah": 3,
+      "word_translation": "and (has) not",
+      "word_transliteration": "walam"
+    },
+    {
+      "word_arabic": "يَمۡسَسۡنِي",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6948,
+      "word_number_in_surah": 803,
+      "word_surah": 3,
+      "word_translation": "touch(ed) me",
+      "word_transliteration": "yamsasni"
+    },
+    {
+      "word_arabic": "بَشَرٞۖ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6949,
+      "word_number_in_surah": 804,
+      "word_surah": 3,
+      "word_translation": "any man",
+      "word_transliteration": "basharun"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6950,
+      "word_number_in_surah": 805,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "كَذَٰلِكِ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6951,
+      "word_number_in_surah": 806,
+      "word_surah": 3,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhaliki"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6952,
+      "word_number_in_surah": 807,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "يَخۡلُقُ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6953,
+      "word_number_in_surah": 808,
+      "word_surah": 3,
+      "word_translation": "creates",
+      "word_transliteration": "yakhluqu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6954,
+      "word_number_in_surah": 809,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6955,
+      "word_number_in_surah": 810,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "إِذَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6956,
+      "word_number_in_surah": 811,
+      "word_surah": 3,
+      "word_translation": "When",
+      "word_transliteration": "idha"
+    },
+    {
+      "word_arabic": "قَضَىٰٓ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6957,
+      "word_number_in_surah": 812,
+      "word_surah": 3,
+      "word_translation": "He decrees",
+      "word_transliteration": "qada"
+    },
+    {
+      "word_arabic": "أَمۡرٗا",
+      "word_ayah": 47,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6958,
+      "word_number_in_surah": 813,
+      "word_surah": 3,
+      "word_translation": "a matter",
+      "word_transliteration": "amran"
+    },
+    {
+      "word_arabic": "فَإِنَّمَا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6959,
+      "word_number_in_surah": 814,
+      "word_surah": 3,
+      "word_translation": "then only",
+      "word_transliteration": "fa-innama"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6960,
+      "word_number_in_surah": 815,
+      "word_surah": 3,
+      "word_translation": "He says",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6961,
+      "word_number_in_surah": 816,
+      "word_surah": 3,
+      "word_translation": "to it",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "كُن",
+      "word_ayah": 47,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6962,
+      "word_number_in_surah": 817,
+      "word_surah": 3,
+      "word_translation": "Be",
+      "word_transliteration": "kun"
+    },
+    {
+      "word_arabic": "فَيَكُونُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6963,
+      "word_number_in_surah": 818,
+      "word_surah": 3,
+      "word_translation": "and it becomes",
+      "word_transliteration": "fayakunu"
+    }
+  ],
+  "fullArabic": "قَالَتۡ رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٞ وَلَمۡ يَمۡسَسۡنِي بَشَرٞۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخۡلُقُ مَا يَشَآءُۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "fullTranslation": "She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allah; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.",
+  "fullTransliteration": "qalat rabbi anna yakunu li waladun walam yamsasni basharun qala kadhaliki al-lahu yakhluqu ma yashau idha qada amran fa-innama yaqulu lahu kun fayakunu"
+}

@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "ayah": 200,
+    "surah": 2,
+    "words": 24,
+    "numberInQuran": 207,
+    "juz": 2,
+    "manzil": 1,
+    "page": 31,
+    "ruku": 26,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِذَا",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3767,
+      "word_number_in_surah": 3738,
+      "word_surah": 2,
+      "word_translation": "Then when",
+      "word_transliteration": "fa-idha"
+    },
+    {
+      "word_arabic": "قَضَيۡتُم",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3768,
+      "word_number_in_surah": 3739,
+      "word_surah": 2,
+      "word_translation": "you complete[d]",
+      "word_transliteration": "qadaytum"
+    },
+    {
+      "word_arabic": "مَّنَٰسِكَكُمۡ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3769,
+      "word_number_in_surah": 3740,
+      "word_surah": 2,
+      "word_translation": "your acts of worship",
+      "word_transliteration": "manasikakum"
+    },
+    {
+      "word_arabic": "فَٱذۡكُرُواْ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3770,
+      "word_number_in_surah": 3741,
+      "word_surah": 2,
+      "word_translation": "then remember",
+      "word_transliteration": "fa-udh'kuru"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3771,
+      "word_number_in_surah": 3742,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "كَذِكۡرِكُمۡ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3772,
+      "word_number_in_surah": 3743,
+      "word_surah": 2,
+      "word_translation": "as you remember",
+      "word_transliteration": "kadhik'rikum"
+    },
+    {
+      "word_arabic": "ءَابَآءَكُمۡ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3773,
+      "word_number_in_surah": 3744,
+      "word_surah": 2,
+      "word_translation": "your forefathers",
+      "word_transliteration": "abaakum"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3774,
+      "word_number_in_surah": 3745,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "أَشَدَّ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3775,
+      "word_number_in_surah": 3746,
+      "word_surah": 2,
+      "word_translation": "(with) greater",
+      "word_transliteration": "ashadda"
+    },
+    {
+      "word_arabic": "ذِكۡرٗاۗ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3776,
+      "word_number_in_surah": 3747,
+      "word_surah": 2,
+      "word_translation": "remembrance",
+      "word_transliteration": "dhik'ran"
+    },
+    {
+      "word_arabic": "فَمِنَ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3777,
+      "word_number_in_surah": 3748,
+      "word_surah": 2,
+      "word_translation": "And from",
+      "word_transliteration": "famina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3778,
+      "word_number_in_surah": 3749,
+      "word_surah": 2,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 200,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3779,
+      "word_number_in_surah": 3750,
+      "word_surah": 2,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3780,
+      "word_number_in_surah": 3751,
+      "word_surah": 2,
+      "word_translation": "say",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3781,
+      "word_number_in_surah": 3752,
+      "word_surah": 2,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "ءَاتِنَا",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3782,
+      "word_number_in_surah": 3753,
+      "word_surah": 2,
+      "word_translation": "Grant us",
+      "word_transliteration": "atina"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3783,
+      "word_number_in_surah": 3754,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3784,
+      "word_number_in_surah": 3755,
+      "word_surah": 2,
+      "word_translation": "the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3785,
+      "word_number_in_surah": 3756,
+      "word_surah": 2,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3786,
+      "word_number_in_surah": 3757,
+      "word_surah": 2,
+      "word_translation": "for him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3787,
+      "word_number_in_surah": 3758,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرَةِ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3788,
+      "word_number_in_surah": 3759,
+      "word_surah": 2,
+      "word_translation": "the Hereafter",
+      "word_transliteration": "al-akhirati"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 200,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 3789,
+      "word_number_in_surah": 3760,
+      "word_surah": 2,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَلَٰقٖ",
+      "word_ayah": 200,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 3790,
+      "word_number_in_surah": 3761,
+      "word_surah": 2,
+      "word_translation": "any share",
+      "word_transliteration": "khalaqin"
+    }
+  ],
+  "fullArabic": "فَإِذَا قَضَيۡتُم مَّنَٰسِكَكُمۡ فَٱذۡكُرُواْ ٱللَّهَ كَذِكۡرِكُمۡ ءَابَآءَكُمۡ أَوۡ أَشَدَّ ذِكۡرٗاۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا وَمَا لَهُۥ فِي ٱلۡأٓخِرَةِ مِنۡ خَلَٰقٖ",
+  "fullTranslation": "And when you have completed your rites, remember Allah like your [previous] remembrance of your fathers or with [much] greater remembrance. And among the people is he who says, \"Our Lord, give us in this world,\" and he will have in the Hereafter no share.",
+  "fullTransliteration": "fa-idha qadaytum manasikakum fa-udh'kuru al-laha kadhik'rikum abaakum aw ashadda dhik'ran famina al-nasi man yaqulu rabbana atina fi al-dun'ya wama lahu fi al-akhirati min khalaqin"
+}

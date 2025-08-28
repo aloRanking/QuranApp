@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "ayah": 119,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 126,
+    "juz": 1,
+    "manzil": 1,
+    "page": 18,
+    "ruku": 15,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّآ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2101,
+      "word_number_in_surah": 2072,
+      "word_surah": 2,
+      "word_translation": "Indeed We!",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "أَرۡسَلۡنَٰكَ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2102,
+      "word_number_in_surah": 2073,
+      "word_surah": 2,
+      "word_translation": "[We] have sent you",
+      "word_transliteration": "arsalnaka"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2103,
+      "word_number_in_surah": 2074,
+      "word_surah": 2,
+      "word_translation": "with the truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "بَشِيرٗا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2104,
+      "word_number_in_surah": 2075,
+      "word_surah": 2,
+      "word_translation": "(as) a bearer of good news",
+      "word_transliteration": "bashiran"
+    },
+    {
+      "word_arabic": "وَنَذِيرٗاۖ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2105,
+      "word_number_in_surah": 2076,
+      "word_surah": 2,
+      "word_translation": "and (as) a warner",
+      "word_transliteration": "wanadhiran"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2106,
+      "word_number_in_surah": 2077,
+      "word_surah": 2,
+      "word_translation": "And not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُسۡ‍َٔلُ",
+      "word_ayah": 119,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2107,
+      "word_number_in_surah": 2078,
+      "word_surah": 2,
+      "word_translation": "you will be asked",
+      "word_transliteration": "tus'alu"
+    },
+    {
+      "word_arabic": "عَنۡ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2108,
+      "word_number_in_surah": 2079,
+      "word_surah": 2,
+      "word_translation": "about",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2109,
+      "word_number_in_surah": 2080,
+      "word_surah": 2,
+      "word_translation": "(the) companions",
+      "word_transliteration": "ashabi"
+    },
+    {
+      "word_arabic": "ٱلۡجَحِيمِ",
+      "word_ayah": 119,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2110,
+      "word_number_in_surah": 2081,
+      "word_surah": 2,
+      "word_translation": "(of) the blazing Fire",
+      "word_transliteration": "al-jahimi"
+    }
+  ],
+  "fullArabic": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۖ وَلَا تُسۡ‍َٔلُ عَنۡ أَصۡحَٰبِ ٱلۡجَحِيمِ",
+  "fullTranslation": "Indeed, We have sent you, [O Muhammad], with the truth as a bringer of good tidings and a warner, and you will not be asked about the companions of Hellfire.",
+  "fullTransliteration": "inna arsalnaka bil-haqi bashiran wanadhiran wala tus'alu an ashabi al-jahimi"
+}

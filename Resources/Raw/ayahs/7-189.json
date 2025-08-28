@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "ayah": 189,
+    "surah": 7,
+    "words": 29,
+    "numberInQuran": 1143,
+    "juz": 9,
+    "manzil": 2,
+    "page": 175,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞هُوَ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22316,
+      "word_number_in_surah": 3089,
+      "word_surah": 7,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22317,
+      "word_number_in_surah": 3090,
+      "word_surah": 7,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "خَلَقَكُم",
+      "word_ayah": 189,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22318,
+      "word_number_in_surah": 3091,
+      "word_surah": 7,
+      "word_translation": "created you",
+      "word_transliteration": "khalaqakum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 189,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22319,
+      "word_number_in_surah": 3092,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّفۡسٖ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22320,
+      "word_number_in_surah": 3093,
+      "word_surah": 7,
+      "word_translation": "a soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "وَٰحِدَةٖ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22321,
+      "word_number_in_surah": 3094,
+      "word_surah": 7,
+      "word_translation": "single",
+      "word_transliteration": "wahidatin"
+    },
+    {
+      "word_arabic": "وَجَعَلَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22322,
+      "word_number_in_surah": 3095,
+      "word_surah": 7,
+      "word_translation": "and made",
+      "word_transliteration": "waja'ala"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22323,
+      "word_number_in_surah": 3096,
+      "word_surah": 7,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "زَوۡجَهَا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22324,
+      "word_number_in_surah": 3097,
+      "word_surah": 7,
+      "word_translation": "its mate",
+      "word_transliteration": "zawjaha"
+    },
+    {
+      "word_arabic": "لِيَسۡكُنَ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22325,
+      "word_number_in_surah": 3098,
+      "word_surah": 7,
+      "word_translation": "that he might live",
+      "word_transliteration": "liyaskuna"
+    },
+    {
+      "word_arabic": "إِلَيۡهَاۖ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22326,
+      "word_number_in_surah": 3099,
+      "word_surah": 7,
+      "word_translation": "with her",
+      "word_transliteration": "ilayha"
+    },
+    {
+      "word_arabic": "فَلَمَّا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22327,
+      "word_number_in_surah": 3100,
+      "word_surah": 7,
+      "word_translation": "And when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "تَغَشَّىٰهَا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22328,
+      "word_number_in_surah": 3101,
+      "word_surah": 7,
+      "word_translation": "he covers her",
+      "word_transliteration": "taghashaha"
+    },
+    {
+      "word_arabic": "حَمَلَتۡ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 22329,
+      "word_number_in_surah": 3102,
+      "word_surah": 7,
+      "word_translation": "she carries",
+      "word_transliteration": "hamalat"
+    },
+    {
+      "word_arabic": "حَمۡلًا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 22330,
+      "word_number_in_surah": 3103,
+      "word_surah": 7,
+      "word_translation": "a burden",
+      "word_transliteration": "hamlan"
+    },
+    {
+      "word_arabic": "خَفِيفٗا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 22331,
+      "word_number_in_surah": 3104,
+      "word_surah": 7,
+      "word_translation": "light",
+      "word_transliteration": "khafifan"
+    },
+    {
+      "word_arabic": "فَمَرَّتۡ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 22332,
+      "word_number_in_surah": 3105,
+      "word_surah": 7,
+      "word_translation": "and continues",
+      "word_transliteration": "famarrat"
+    },
+    {
+      "word_arabic": "بِهِۦۖ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 22333,
+      "word_number_in_surah": 3106,
+      "word_surah": 7,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فَلَمَّآ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 22334,
+      "word_number_in_surah": 3107,
+      "word_surah": 7,
+      "word_translation": "But when",
+      "word_transliteration": "falamma"
+    },
+    {
+      "word_arabic": "أَثۡقَلَت",
+      "word_ayah": 189,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 22335,
+      "word_number_in_surah": 3108,
+      "word_surah": 7,
+      "word_translation": "she grows heavy",
+      "word_transliteration": "athqalat"
+    },
+    {
+      "word_arabic": "دَّعَوَا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 22336,
+      "word_number_in_surah": 3109,
+      "word_surah": 7,
+      "word_translation": "they both invoke",
+      "word_transliteration": "da'awa"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 22337,
+      "word_number_in_surah": 3110,
+      "word_surah": 7,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "رَبَّهُمَا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 22338,
+      "word_number_in_surah": 3111,
+      "word_surah": 7,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbahuma"
+    },
+    {
+      "word_arabic": "لَئِنۡ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 22339,
+      "word_number_in_surah": 3112,
+      "word_surah": 7,
+      "word_translation": "If",
+      "word_transliteration": "la-in"
+    },
+    {
+      "word_arabic": "ءَاتَيۡتَنَا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 22340,
+      "word_number_in_surah": 3113,
+      "word_surah": 7,
+      "word_translation": "You give us",
+      "word_transliteration": "ataytana"
+    },
+    {
+      "word_arabic": "صَٰلِحٗا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 22341,
+      "word_number_in_surah": 3114,
+      "word_surah": 7,
+      "word_translation": "a righteous (child)",
+      "word_transliteration": "salihan"
+    },
+    {
+      "word_arabic": "لَّنَكُونَنَّ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 22342,
+      "word_number_in_surah": 3115,
+      "word_surah": 7,
+      "word_translation": "surely we will be",
+      "word_transliteration": "lanakunanna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 22343,
+      "word_number_in_surah": 3116,
+      "word_surah": 7,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلشَّٰكِرِينَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 22344,
+      "word_number_in_surah": 3117,
+      "word_surah": 7,
+      "word_translation": "the thankful",
+      "word_transliteration": "al-shakirina"
+    }
+  ],
+  "fullArabic": "۞هُوَ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَجَعَلَ مِنۡهَا زَوۡجَهَا لِيَسۡكُنَ إِلَيۡهَاۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتۡ حَمۡلًا خَفِيفٗا فَمَرَّتۡ بِهِۦۖ فَلَمَّآ أَثۡقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنۡ ءَاتَيۡتَنَا صَٰلِحٗا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+  "fullTranslation": "It is He who created you from one soul and created from it its mate that he might dwell in security with her. And when he covers her, she carries a light burden and continues therein. And when it becomes heavy, they both invoke Allah, their Lord, \"If You should give us a good [child], we will surely be among the grateful.\"",
+  "fullTransliteration": "huwa alladhi khalaqakum min nafsin wahidatin waja'ala min'ha zawjaha liyaskuna ilayha falamma taghashaha hamalat hamlan khafifan famarrat bihi falamma athqalat da'awa al-laha rabbahuma la-in ataytana salihan lanakunanna mina al-shakirina"
+}

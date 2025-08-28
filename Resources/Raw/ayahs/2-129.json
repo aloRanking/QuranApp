@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "ayah": 129,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 136,
+    "juz": 1,
+    "manzil": 1,
+    "page": 20,
+    "ruku": 16,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رَبَّنَا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2288,
+      "word_number_in_surah": 2259,
+      "word_surah": 2,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "وَٱبۡعَثۡ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2289,
+      "word_number_in_surah": 2260,
+      "word_surah": 2,
+      "word_translation": "[And] raise up",
+      "word_transliteration": "wa-ib'ath"
+    },
+    {
+      "word_arabic": "فِيهِمۡ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2290,
+      "word_number_in_surah": 2261,
+      "word_surah": 2,
+      "word_translation": "in them",
+      "word_transliteration": "fihim"
+    },
+    {
+      "word_arabic": "رَسُولٗا",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2291,
+      "word_number_in_surah": 2262,
+      "word_surah": 2,
+      "word_translation": "a Messenger",
+      "word_transliteration": "rasulan"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۡ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2292,
+      "word_number_in_surah": 2263,
+      "word_surah": 2,
+      "word_translation": "from them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "يَتۡلُواْ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2293,
+      "word_number_in_surah": 2264,
+      "word_surah": 2,
+      "word_translation": "(who) will recite",
+      "word_transliteration": "yatlu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2294,
+      "word_number_in_surah": 2265,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "ءَايَٰتِكَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2295,
+      "word_number_in_surah": 2266,
+      "word_surah": 2,
+      "word_translation": "Your Verses",
+      "word_transliteration": "ayatika"
+    },
+    {
+      "word_arabic": "وَيُعَلِّمُهُمُ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2296,
+      "word_number_in_surah": 2267,
+      "word_surah": 2,
+      "word_translation": "and will teach them",
+      "word_transliteration": "wayu'allimuhumu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2297,
+      "word_number_in_surah": 2268,
+      "word_surah": 2,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "وَٱلۡحِكۡمَةَ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2298,
+      "word_number_in_surah": 2269,
+      "word_surah": 2,
+      "word_translation": "and the wisdom",
+      "word_transliteration": "wal-hik'mata"
+    },
+    {
+      "word_arabic": "وَيُزَكِّيهِمۡۖ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2299,
+      "word_number_in_surah": 2270,
+      "word_surah": 2,
+      "word_translation": "and purify them",
+      "word_transliteration": "wayuzakkihim"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2300,
+      "word_number_in_surah": 2271,
+      "word_surah": 2,
+      "word_translation": "Indeed You!",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 129,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2301,
+      "word_number_in_surah": 2272,
+      "word_surah": 2,
+      "word_translation": "You (are)",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "ٱلۡعَزِيزُ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2302,
+      "word_number_in_surah": 2273,
+      "word_surah": 2,
+      "word_translation": "the All-Mighty",
+      "word_transliteration": "al-'azizu"
+    },
+    {
+      "word_arabic": "ٱلۡحَكِيمُ",
+      "word_ayah": 129,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2303,
+      "word_number_in_surah": 2274,
+      "word_surah": 2,
+      "word_translation": "the All-Wise",
+      "word_transliteration": "al-hakimu"
+    }
+  ],
+  "fullArabic": "رَبَّنَا وَٱبۡعَثۡ فِيهِمۡ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُزَكِّيهِمۡۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "fullTranslation": "Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might, the Wise.\"",
+  "fullTransliteration": "rabbana wa-ib'ath fihim rasulan min'hum yatlu alayhim ayatika wayu'allimuhumu al-kitaba wal-hik'mata wayuzakkihim innaka anta al-'azizu al-hakimu"
+}

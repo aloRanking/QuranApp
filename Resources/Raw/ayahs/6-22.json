@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "ayah": 22,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 811,
+    "juz": 7,
+    "manzil": 2,
+    "page": 130,
+    "ruku": 104,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَيَوۡمَ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16497,
+      "word_number_in_surah": 320,
+      "word_surah": 6,
+      "word_translation": "And (the) Day",
+      "word_transliteration": "wayawma"
+    },
+    {
+      "word_arabic": "نَحۡشُرُهُمۡ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16498,
+      "word_number_in_surah": 321,
+      "word_surah": 6,
+      "word_translation": "We will gather them",
+      "word_transliteration": "nahshuruhum"
+    },
+    {
+      "word_arabic": "جَمِيعٗا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16499,
+      "word_number_in_surah": 322,
+      "word_surah": 6,
+      "word_translation": "all",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16500,
+      "word_number_in_surah": 323,
+      "word_surah": 6,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "نَقُولُ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16501,
+      "word_number_in_surah": 324,
+      "word_surah": 6,
+      "word_translation": "We will say",
+      "word_transliteration": "naqulu"
+    },
+    {
+      "word_arabic": "لِلَّذِينَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16502,
+      "word_number_in_surah": 325,
+      "word_surah": 6,
+      "word_translation": "to those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "أَشۡرَكُوٓاْ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16503,
+      "word_number_in_surah": 326,
+      "word_surah": 6,
+      "word_translation": "associated others with Allah",
+      "word_transliteration": "ashraku"
+    },
+    {
+      "word_arabic": "أَيۡنَ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16504,
+      "word_number_in_surah": 327,
+      "word_surah": 6,
+      "word_translation": "Where (are)",
+      "word_transliteration": "ayna"
+    },
+    {
+      "word_arabic": "شُرَكَآؤُكُمُ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16505,
+      "word_number_in_surah": 328,
+      "word_surah": 6,
+      "word_translation": "your partners",
+      "word_transliteration": "shurakaukumu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16506,
+      "word_number_in_surah": 329,
+      "word_surah": 6,
+      "word_translation": "those whom",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16507,
+      "word_number_in_surah": 330,
+      "word_surah": 6,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تَزۡعُمُونَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16508,
+      "word_number_in_surah": 331,
+      "word_surah": 6,
+      "word_translation": "claim",
+      "word_transliteration": "taz'umuna"
+    }
+  ],
+  "fullArabic": "وَيَوۡمَ نَحۡشُرُهُمۡ جَمِيعٗا ثُمَّ نَقُولُ لِلَّذِينَ أَشۡرَكُوٓاْ أَيۡنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمۡ تَزۡعُمُونَ",
+  "fullTranslation": "And [mention, O Muhammad], the Day We will gather them all together; then We will say to those who associated others with Allah, \"Where are your 'partners' that you used to claim [with Him]?\"",
+  "fullTransliteration": "wayawma nahshuruhum jami'an thumma naqulu lilladhina ashraku ayna shurakaukumu alladhina kuntum taz'umuna"
+}

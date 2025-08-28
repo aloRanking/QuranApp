@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "ayah": 137,
+    "surah": 6,
+    "words": 20,
+    "numberInQuran": 926,
+    "juz": 8,
+    "manzil": 2,
+    "page": 145,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18555,
+      "word_number_in_surah": 2378,
+      "word_surah": 6,
+      "word_translation": "And likewise",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "زَيَّنَ",
+      "word_ayah": 137,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18556,
+      "word_number_in_surah": 2379,
+      "word_surah": 6,
+      "word_translation": "made pleasing",
+      "word_transliteration": "zayyana"
+    },
+    {
+      "word_arabic": "لِكَثِيرٖ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18557,
+      "word_number_in_surah": 2380,
+      "word_surah": 6,
+      "word_translation": "to many",
+      "word_transliteration": "likathirin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 137,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18558,
+      "word_number_in_surah": 2381,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكِينَ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18559,
+      "word_number_in_surah": 2382,
+      "word_surah": 6,
+      "word_translation": "the polytheists",
+      "word_transliteration": "al-mush'rikina"
+    },
+    {
+      "word_arabic": "قَتۡلَ",
+      "word_ayah": 137,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18560,
+      "word_number_in_surah": 2383,
+      "word_surah": 6,
+      "word_translation": "(the) killing",
+      "word_transliteration": "qatla"
+    },
+    {
+      "word_arabic": "أَوۡلَٰدِهِمۡ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18561,
+      "word_number_in_surah": 2384,
+      "word_surah": 6,
+      "word_translation": "(of) their children",
+      "word_transliteration": "awladihim"
+    },
+    {
+      "word_arabic": "شُرَكَآؤُهُمۡ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18562,
+      "word_number_in_surah": 2385,
+      "word_surah": 6,
+      "word_translation": "their partners",
+      "word_transliteration": "shurakauhum"
+    },
+    {
+      "word_arabic": "لِيُرۡدُوهُمۡ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18563,
+      "word_number_in_surah": 2386,
+      "word_surah": 6,
+      "word_translation": "so that they may ruin them",
+      "word_transliteration": "liyur'duhum"
+    },
+    {
+      "word_arabic": "وَلِيَلۡبِسُواْ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18564,
+      "word_number_in_surah": 2387,
+      "word_surah": 6,
+      "word_translation": "and that they make confusing",
+      "word_transliteration": "waliyalbisu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18565,
+      "word_number_in_surah": 2388,
+      "word_surah": 6,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "دِينَهُمۡۖ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18566,
+      "word_number_in_surah": 2389,
+      "word_surah": 6,
+      "word_translation": "their religion",
+      "word_transliteration": "dinahum"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 137,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18567,
+      "word_number_in_surah": 2390,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18568,
+      "word_number_in_surah": 2391,
+      "word_surah": 6,
+      "word_translation": "(had) willed",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18569,
+      "word_number_in_surah": 2392,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18570,
+      "word_number_in_surah": 2393,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فَعَلُوهُۖ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18571,
+      "word_number_in_surah": 2394,
+      "word_surah": 6,
+      "word_translation": "(would) they have done so",
+      "word_transliteration": "fa'aluhu"
+    },
+    {
+      "word_arabic": "فَذَرۡهُمۡ",
+      "word_ayah": 137,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18572,
+      "word_number_in_surah": 2395,
+      "word_surah": 6,
+      "word_translation": "So leave them",
+      "word_transliteration": "fadharhum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18573,
+      "word_number_in_surah": 2396,
+      "word_surah": 6,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَفۡتَرُونَ",
+      "word_ayah": 137,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18574,
+      "word_number_in_surah": 2397,
+      "word_surah": 6,
+      "word_translation": "they invent",
+      "word_transliteration": "yaftaruna"
+    }
+  ],
+  "fullArabic": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٖ مِّنَ ٱلۡمُشۡرِكِينَ قَتۡلَ أَوۡلَٰدِهِمۡ شُرَكَآؤُهُمۡ لِيُرۡدُوهُمۡ وَلِيَلۡبِسُواْ عَلَيۡهِمۡ دِينَهُمۡۖ وَلَوۡ شَآءَ ٱللَّهُ مَا فَعَلُوهُۖ فَذَرۡهُمۡ وَمَا يَفۡتَرُونَ",
+  "fullTranslation": "And likewise, to many of the polytheists their partners have made [to seem] pleasing the killing of their children in order to bring about their destruction and to cover them with confusion in their religion. And if Allah had willed, they would not have done so. So leave them and that which they invent.",
+  "fullTransliteration": "wakadhalika zayyana likathirin mina al-mush'rikina qatla awladihim shurakauhum liyur'duhum waliyalbisu alayhim dinahum walaw shaa al-lahu ma fa'aluhu fadharhum wama yaftaruna"
+}

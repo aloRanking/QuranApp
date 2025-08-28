@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "ayah": 97,
+    "surah": 5,
+    "words": 27,
+    "numberInQuran": 766,
+    "juz": 7,
+    "manzil": 2,
+    "page": 124,
+    "ruku": 98,
+    "hizbQuarter": 50,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞جَعَلَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15634,
+      "word_number_in_surah": 2261,
+      "word_surah": 5,
+      "word_translation": "Has (been) made",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15635,
+      "word_number_in_surah": 2262,
+      "word_surah": 5,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلۡكَعۡبَةَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15636,
+      "word_number_in_surah": 2263,
+      "word_surah": 5,
+      "word_translation": "the Kabah",
+      "word_transliteration": "al-ka'bata"
+    },
+    {
+      "word_arabic": "ٱلۡبَيۡتَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15637,
+      "word_number_in_surah": 2264,
+      "word_surah": 5,
+      "word_translation": "the House",
+      "word_transliteration": "al-bayta"
+    },
+    {
+      "word_arabic": "ٱلۡحَرَامَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15638,
+      "word_number_in_surah": 2265,
+      "word_surah": 5,
+      "word_translation": "the Sacred",
+      "word_transliteration": "al-harama"
+    },
+    {
+      "word_arabic": "قِيَٰمٗا",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15639,
+      "word_number_in_surah": 2266,
+      "word_surah": 5,
+      "word_translation": "an establishment",
+      "word_transliteration": "qiyaman"
+    },
+    {
+      "word_arabic": "لِّلنَّاسِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15640,
+      "word_number_in_surah": 2267,
+      "word_surah": 5,
+      "word_translation": "for mankind",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "وَٱلشَّهۡرَ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15641,
+      "word_number_in_surah": 2268,
+      "word_surah": 5,
+      "word_translation": "and the month(s)",
+      "word_transliteration": "wal-shahra"
+    },
+    {
+      "word_arabic": "ٱلۡحَرَامَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15642,
+      "word_number_in_surah": 2269,
+      "word_surah": 5,
+      "word_translation": "[the] sacred",
+      "word_transliteration": "al-harama"
+    },
+    {
+      "word_arabic": "وَٱلۡهَدۡيَ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15643,
+      "word_number_in_surah": 2270,
+      "word_surah": 5,
+      "word_translation": "and the (animals) for offering",
+      "word_transliteration": "wal-hadya"
+    },
+    {
+      "word_arabic": "وَٱلۡقَلَٰٓئِدَۚ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15644,
+      "word_number_in_surah": 2271,
+      "word_surah": 5,
+      "word_translation": "and the garlands",
+      "word_transliteration": "wal-qalaida"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15645,
+      "word_number_in_surah": 2272,
+      "word_surah": 5,
+      "word_translation": "That (is)",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "لِتَعۡلَمُوٓاْ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15646,
+      "word_number_in_surah": 2273,
+      "word_surah": 5,
+      "word_translation": "so that you may know",
+      "word_transliteration": "lita'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15647,
+      "word_number_in_surah": 2274,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15648,
+      "word_number_in_surah": 2275,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَعۡلَمُ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15649,
+      "word_number_in_surah": 2276,
+      "word_surah": 5,
+      "word_translation": "knows",
+      "word_transliteration": "ya'lamu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15650,
+      "word_number_in_surah": 2277,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15651,
+      "word_number_in_surah": 2278,
+      "word_surah": 5,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15652,
+      "word_number_in_surah": 2279,
+      "word_surah": 5,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15653,
+      "word_number_in_surah": 2280,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15654,
+      "word_number_in_surah": 2281,
+      "word_surah": 5,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15655,
+      "word_number_in_surah": 2282,
+      "word_surah": 5,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "وَأَنَّ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15656,
+      "word_number_in_surah": 2283,
+      "word_surah": 5,
+      "word_translation": "and that",
+      "word_transliteration": "wa-anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15657,
+      "word_number_in_surah": 2284,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 15658,
+      "word_number_in_surah": 2285,
+      "word_surah": 5,
+      "word_translation": "of every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 97,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 15659,
+      "word_number_in_surah": 2286,
+      "word_surah": 5,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 97,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 15660,
+      "word_number_in_surah": 2287,
+      "word_surah": 5,
+      "word_translation": "(is) All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "۞جَعَلَ ٱللَّهُ ٱلۡكَعۡبَةَ ٱلۡبَيۡتَ ٱلۡحَرَامَ قِيَٰمٗا لِّلنَّاسِ وَٱلشَّهۡرَ ٱلۡحَرَامَ وَٱلۡهَدۡيَ وَٱلۡقَلَٰٓئِدَۚ ذَٰلِكَ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَأَنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+  "fullTranslation": "Allah has made the Ka'bah, the Sacred House, standing for the people and [has sanctified] the sacred months and the sacrificial animals and the garlands [by which they are identified]. That is so you may know that Allah knows what is in the heavens and what is in the earth and that Allah is Knowing of all things.",
+  "fullTransliteration": "ja'ala al-lahu al-ka'bata al-bayta al-harama qiyaman lilnnasi wal-shahra al-harama wal-hadya wal-qalaida dhalika lita'lamu anna al-laha ya'lamu ma fi al-samawati wama fi al-ardi wa-anna al-laha bikulli shayin alimun"
+}

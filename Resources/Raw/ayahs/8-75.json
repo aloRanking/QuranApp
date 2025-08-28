@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "ayah": 75,
+    "surah": 8,
+    "words": 22,
+    "numberInQuran": 1235,
+    "juz": 10,
+    "manzil": 2,
+    "page": 186,
+    "ruku": 155,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23760,
+      "word_number_in_surah": 1213,
+      "word_surah": 8,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23761,
+      "word_number_in_surah": 1214,
+      "word_surah": 8,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23762,
+      "word_number_in_surah": 1215,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدُ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23763,
+      "word_number_in_surah": 1216,
+      "word_surah": 8,
+      "word_translation": "afterwards",
+      "word_transliteration": "ba'du"
+    },
+    {
+      "word_arabic": "وَهَاجَرُواْ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23764,
+      "word_number_in_surah": 1217,
+      "word_surah": 8,
+      "word_translation": "and emigrated",
+      "word_transliteration": "wahajaru"
+    },
+    {
+      "word_arabic": "وَجَٰهَدُواْ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23765,
+      "word_number_in_surah": 1218,
+      "word_surah": 8,
+      "word_translation": "and strove hard",
+      "word_transliteration": "wajahadu"
+    },
+    {
+      "word_arabic": "مَعَكُمۡ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23766,
+      "word_number_in_surah": 1219,
+      "word_surah": 8,
+      "word_translation": "with you",
+      "word_transliteration": "ma'akum"
+    },
+    {
+      "word_arabic": "فَأُوْلَٰٓئِكَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23767,
+      "word_number_in_surah": 1220,
+      "word_surah": 8,
+      "word_translation": "then those",
+      "word_transliteration": "fa-ulaika"
+    },
+    {
+      "word_arabic": "مِنكُمۡۚ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23768,
+      "word_number_in_surah": 1221,
+      "word_surah": 8,
+      "word_translation": "(are) of you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "وَأُوْلُواْ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23769,
+      "word_number_in_surah": 1222,
+      "word_surah": 8,
+      "word_translation": "But those",
+      "word_transliteration": "wa-ulu"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡحَامِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23770,
+      "word_number_in_surah": 1223,
+      "word_surah": 8,
+      "word_translation": "(of) blood relationship",
+      "word_transliteration": "al-arhami"
+    },
+    {
+      "word_arabic": "بَعۡضُهُمۡ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23771,
+      "word_number_in_surah": 1224,
+      "word_surah": 8,
+      "word_translation": "some of them",
+      "word_transliteration": "ba'duhum"
+    },
+    {
+      "word_arabic": "أَوۡلَىٰ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23772,
+      "word_number_in_surah": 1225,
+      "word_surah": 8,
+      "word_translation": "(are) nearer",
+      "word_transliteration": "awla"
+    },
+    {
+      "word_arabic": "بِبَعۡضٖ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23773,
+      "word_number_in_surah": 1226,
+      "word_surah": 8,
+      "word_translation": "to another",
+      "word_transliteration": "biba'din"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23774,
+      "word_number_in_surah": 1227,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "كِتَٰبِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23775,
+      "word_number_in_surah": 1228,
+      "word_surah": 8,
+      "word_translation": "(the) Book",
+      "word_transliteration": "kitabi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23776,
+      "word_number_in_surah": 1229,
+      "word_surah": 8,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23777,
+      "word_number_in_surah": 1230,
+      "word_surah": 8,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23778,
+      "word_number_in_surah": 1231,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23779,
+      "word_number_in_surah": 1232,
+      "word_surah": 8,
+      "word_translation": "of every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 23780,
+      "word_number_in_surah": 1233,
+      "word_surah": 8,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 23781,
+      "word_number_in_surah": 1234,
+      "word_surah": 8,
+      "word_translation": "(is) All-Knower",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ ءَامَنُواْ مِنۢ بَعۡدُ وَهَاجَرُواْ وَجَٰهَدُواْ مَعَكُمۡ فَأُوْلَٰٓئِكَ مِنكُمۡۚ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمُۢ",
+  "fullTranslation": "And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allah. Indeed, Allah is Knowing of all things.",
+  "fullTransliteration": "wa-alladhina amanu min ba'du wahajaru wajahadu ma'akum fa-ulaika minkum wa-ulu al-arhami ba'duhum awla biba'din fi kitabi al-lahi inna al-laha bikulli shayin alimun"
+}

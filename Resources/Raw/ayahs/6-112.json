@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "ayah": 112,
+    "surah": 6,
+    "words": 23,
+    "numberInQuran": 901,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18107,
+      "word_number_in_surah": 1930,
+      "word_surah": 6,
+      "word_translation": "And thus",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "جَعَلۡنَا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18108,
+      "word_number_in_surah": 1931,
+      "word_surah": 6,
+      "word_translation": "We made",
+      "word_transliteration": "ja'alna"
+    },
+    {
+      "word_arabic": "لِكُلِّ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18109,
+      "word_number_in_surah": 1932,
+      "word_surah": 6,
+      "word_translation": "for every",
+      "word_transliteration": "likulli"
+    },
+    {
+      "word_arabic": "نَبِيٍّ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18110,
+      "word_number_in_surah": 1933,
+      "word_surah": 6,
+      "word_translation": "Prophet",
+      "word_transliteration": "nabiyyin"
+    },
+    {
+      "word_arabic": "عَدُوّٗا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18111,
+      "word_number_in_surah": 1934,
+      "word_surah": 6,
+      "word_translation": "an enemy",
+      "word_transliteration": "aduwwan"
+    },
+    {
+      "word_arabic": "شَيَٰطِينَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18112,
+      "word_number_in_surah": 1935,
+      "word_surah": 6,
+      "word_translation": "devils",
+      "word_transliteration": "shayatina"
+    },
+    {
+      "word_arabic": "ٱلۡإِنسِ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18113,
+      "word_number_in_surah": 1936,
+      "word_surah": 6,
+      "word_translation": "(from) the mankind",
+      "word_transliteration": "al-insi"
+    },
+    {
+      "word_arabic": "وَٱلۡجِنِّ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18114,
+      "word_number_in_surah": 1937,
+      "word_surah": 6,
+      "word_translation": "and the jinn",
+      "word_transliteration": "wal-jini"
+    },
+    {
+      "word_arabic": "يُوحِي",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18115,
+      "word_number_in_surah": 1938,
+      "word_surah": 6,
+      "word_translation": "inspiring",
+      "word_transliteration": "yuhi"
+    },
+    {
+      "word_arabic": "بَعۡضُهُمۡ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18116,
+      "word_number_in_surah": 1939,
+      "word_surah": 6,
+      "word_translation": "some of them",
+      "word_transliteration": "ba'duhum"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18117,
+      "word_number_in_surah": 1940,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "بَعۡضٖ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18118,
+      "word_number_in_surah": 1941,
+      "word_surah": 6,
+      "word_translation": "others",
+      "word_transliteration": "ba'din"
+    },
+    {
+      "word_arabic": "زُخۡرُفَ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18119,
+      "word_number_in_surah": 1942,
+      "word_surah": 6,
+      "word_translation": "(with) decorative",
+      "word_transliteration": "zukh'rufa"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡلِ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18120,
+      "word_number_in_surah": 1943,
+      "word_surah": 6,
+      "word_translation": "[the] speech",
+      "word_transliteration": "al-qawli"
+    },
+    {
+      "word_arabic": "غُرُورٗاۚ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18121,
+      "word_number_in_surah": 1944,
+      "word_surah": 6,
+      "word_translation": "(in) deception",
+      "word_transliteration": "ghururan"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18122,
+      "word_number_in_surah": 1945,
+      "word_surah": 6,
+      "word_translation": "But if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18123,
+      "word_number_in_surah": 1946,
+      "word_surah": 6,
+      "word_translation": "(had) willed",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18124,
+      "word_number_in_surah": 1947,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18125,
+      "word_number_in_surah": 1948,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فَعَلُوهُۖ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18126,
+      "word_number_in_surah": 1949,
+      "word_surah": 6,
+      "word_translation": "they (would) have done it",
+      "word_transliteration": "fa'aluhu"
+    },
+    {
+      "word_arabic": "فَذَرۡهُمۡ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18127,
+      "word_number_in_surah": 1950,
+      "word_surah": 6,
+      "word_translation": "so leave them",
+      "word_transliteration": "fadharhum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18128,
+      "word_number_in_surah": 1951,
+      "word_surah": 6,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "يَفۡتَرُونَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18129,
+      "word_number_in_surah": 1952,
+      "word_surah": 6,
+      "word_translation": "they invent",
+      "word_transliteration": "yaftaruna"
+    }
+  ],
+  "fullArabic": "وَكَذَٰلِكَ جَعَلۡنَا لِكُلِّ نَبِيٍّ عَدُوّٗا شَيَٰطِينَ ٱلۡإِنسِ وَٱلۡجِنِّ يُوحِي بَعۡضُهُمۡ إِلَىٰ بَعۡضٖ زُخۡرُفَ ٱلۡقَوۡلِ غُرُورٗاۚ وَلَوۡ شَآءَ رَبُّكَ مَا فَعَلُوهُۖ فَذَرۡهُمۡ وَمَا يَفۡتَرُونَ",
+  "fullTranslation": "And thus We have made for every prophet an enemy - devils from mankind and jinn, inspiring to one another decorative speech in delusion. But if your Lord had willed, they would not have done it, so leave them and that which they invent.",
+  "fullTransliteration": "wakadhalika ja'alna likulli nabiyyin aduwwan shayatina al-insi wal-jini yuhi ba'duhum ila ba'din zukh'rufa al-qawli ghururan walaw shaa rabbuka ma fa'aluhu fadharhum wama yaftaruna"
+}

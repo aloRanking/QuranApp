@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "ayah": 197,
+    "surah": 2,
+    "words": 29,
+    "numberInQuran": 204,
+    "juz": 2,
+    "manzil": 1,
+    "page": 31,
+    "ruku": 26,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلۡحَجُّ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3700,
+      "word_number_in_surah": 3671,
+      "word_surah": 2,
+      "word_translation": "(For) the Hajj",
+      "word_transliteration": "al-haju"
+    },
+    {
+      "word_arabic": "أَشۡهُرٞ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3701,
+      "word_number_in_surah": 3672,
+      "word_surah": 2,
+      "word_translation": "(are) months",
+      "word_transliteration": "ashhurun"
+    },
+    {
+      "word_arabic": "مَّعۡلُومَٰتٞۚ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3702,
+      "word_number_in_surah": 3673,
+      "word_surah": 2,
+      "word_translation": "well known",
+      "word_transliteration": "ma'lumatun"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 197,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3703,
+      "word_number_in_surah": 3674,
+      "word_surah": 2,
+      "word_translation": "then whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "فَرَضَ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3704,
+      "word_number_in_surah": 3675,
+      "word_surah": 2,
+      "word_translation": "undertakes",
+      "word_transliteration": "farada"
+    },
+    {
+      "word_arabic": "فِيهِنَّ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3705,
+      "word_number_in_surah": 3676,
+      "word_surah": 2,
+      "word_translation": "therein",
+      "word_transliteration": "fihinna"
+    },
+    {
+      "word_arabic": "ٱلۡحَجَّ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3706,
+      "word_number_in_surah": 3677,
+      "word_surah": 2,
+      "word_translation": "the Hajj",
+      "word_transliteration": "al-haja"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3707,
+      "word_number_in_surah": 3678,
+      "word_surah": 2,
+      "word_translation": "then no",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "رَفَثَ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3708,
+      "word_number_in_surah": 3679,
+      "word_surah": 2,
+      "word_translation": "sexual relations",
+      "word_transliteration": "rafatha"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3709,
+      "word_number_in_surah": 3680,
+      "word_surah": 2,
+      "word_translation": "and no",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "فُسُوقَ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3710,
+      "word_number_in_surah": 3681,
+      "word_surah": 2,
+      "word_translation": "wickedness",
+      "word_transliteration": "fusuqa"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3711,
+      "word_number_in_surah": 3682,
+      "word_surah": 2,
+      "word_translation": "and no",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "جِدَالَ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3712,
+      "word_number_in_surah": 3683,
+      "word_surah": 2,
+      "word_translation": "quarrelling",
+      "word_transliteration": "jidala"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3713,
+      "word_number_in_surah": 3684,
+      "word_surah": 2,
+      "word_translation": "during",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡحَجِّۗ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3714,
+      "word_number_in_surah": 3685,
+      "word_surah": 2,
+      "word_translation": "the Hajj",
+      "word_transliteration": "al-haji"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3715,
+      "word_number_in_surah": 3686,
+      "word_surah": 2,
+      "word_translation": "And whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تَفۡعَلُواْ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3716,
+      "word_number_in_surah": 3687,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "taf 'alu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3717,
+      "word_number_in_surah": 3688,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3718,
+      "word_number_in_surah": 3689,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "يَعۡلَمۡهُ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3719,
+      "word_number_in_surah": 3690,
+      "word_surah": 2,
+      "word_translation": "knows it",
+      "word_transliteration": "ya'lamhu"
+    },
+    {
+      "word_arabic": "ٱللَّهُۗ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3720,
+      "word_number_in_surah": 3691,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَتَزَوَّدُواْ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3721,
+      "word_number_in_surah": 3692,
+      "word_surah": 2,
+      "word_translation": "And take provision",
+      "word_transliteration": "watazawwadu"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 3722,
+      "word_number_in_surah": 3693,
+      "word_surah": 2,
+      "word_translation": "(but) indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "خَيۡرَ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 3723,
+      "word_number_in_surah": 3694,
+      "word_surah": 2,
+      "word_translation": "(the) best",
+      "word_transliteration": "khayra"
+    },
+    {
+      "word_arabic": "ٱلزَّادِ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 3724,
+      "word_number_in_surah": 3695,
+      "word_surah": 2,
+      "word_translation": "provision",
+      "word_transliteration": "al-zadi"
+    },
+    {
+      "word_arabic": "ٱلتَّقۡوَىٰۖ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 3725,
+      "word_number_in_surah": 3696,
+      "word_surah": 2,
+      "word_translation": "(is) righteousness",
+      "word_transliteration": "al-taqwa"
+    },
+    {
+      "word_arabic": "وَٱتَّقُونِ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 3726,
+      "word_number_in_surah": 3697,
+      "word_surah": 2,
+      "word_translation": "And fear Me",
+      "word_transliteration": "wa-ittaquni"
+    },
+    {
+      "word_arabic": "يَٰٓأُوْلِي",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 3727,
+      "word_number_in_surah": 3698,
+      "word_surah": 2,
+      "word_translation": "O men",
+      "word_transliteration": "yauli"
+    },
+    {
+      "word_arabic": "ٱلۡأَلۡبَٰبِ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 3728,
+      "word_number_in_surah": 3699,
+      "word_surah": 2,
+      "word_translation": "(of) understanding",
+      "word_transliteration": "al-albabi"
+    }
+  ],
+  "fullArabic": "ٱلۡحَجُّ أَشۡهُرٞ مَّعۡلُومَٰتٞۚ فَمَن فَرَضَ فِيهِنَّ ٱلۡحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي ٱلۡحَجِّۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ يَعۡلَمۡهُ ٱللَّهُۗ وَتَزَوَّدُواْ فَإِنَّ خَيۡرَ ٱلزَّادِ ٱلتَّقۡوَىٰۖ وَٱتَّقُونِ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ",
+  "fullTranslation": "Hajj is [during] well-known months, so whoever has made Hajj obligatory upon himself therein [by entering the state of ihram], there is [to be for him] no sexual relations and no disobedience and no disputing during Hajj. And whatever good you do - Allah knows it. And take provisions, but indeed, the best provision is fear of Allah. And fear Me, O you of understanding.",
+  "fullTransliteration": "al-haju ashhurun ma'lumatun faman farada fihinna al-haja fala rafatha wala fusuqa wala jidala fi al-haji wama taf 'alu min khayrin ya'lamhu al-lahu watazawwadu fa-inna khayra al-zadi al-taqwa wa-ittaquni yauli al-albabi"
+}

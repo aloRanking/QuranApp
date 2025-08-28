@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "ayah": 91,
+    "surah": 7,
+    "words": 6,
+    "numberInQuran": 1045,
+    "juz": 9,
+    "manzil": 2,
+    "page": 162,
+    "ruku": 132,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأَخَذَتۡهُمُ",
+      "word_ayah": 91,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20726,
+      "word_number_in_surah": 1499,
+      "word_surah": 7,
+      "word_translation": "Then seized them",
+      "word_transliteration": "fa-akhadhathumu"
+    },
+    {
+      "word_arabic": "ٱلرَّجۡفَةُ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20727,
+      "word_number_in_surah": 1500,
+      "word_surah": 7,
+      "word_translation": "the earthquake",
+      "word_transliteration": "al-rajfatu"
+    },
+    {
+      "word_arabic": "فَأَصۡبَحُواْ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20728,
+      "word_number_in_surah": 1501,
+      "word_surah": 7,
+      "word_translation": "then they became",
+      "word_transliteration": "fa-asbahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20729,
+      "word_number_in_surah": 1502,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "دَارِهِمۡ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20730,
+      "word_number_in_surah": 1503,
+      "word_surah": 7,
+      "word_translation": "their home(s)",
+      "word_transliteration": "darihim"
+    },
+    {
+      "word_arabic": "جَٰثِمِينَ",
+      "word_ayah": 91,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20731,
+      "word_number_in_surah": 1504,
+      "word_surah": 7,
+      "word_translation": "fallen prone",
+      "word_transliteration": "jathimina"
+    }
+  ],
+  "fullArabic": "فَأَخَذَتۡهُمُ ٱلرَّجۡفَةُ فَأَصۡبَحُواْ فِي دَارِهِمۡ جَٰثِمِينَ",
+  "fullTranslation": "So the earthquake seized them, and they became within their home [corpses] fallen prone.",
+  "fullTransliteration": "fa-akhadhathumu al-rajfatu fa-asbahu fi darihim jathimina"
+}

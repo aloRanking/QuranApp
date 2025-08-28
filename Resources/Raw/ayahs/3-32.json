@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ayah": 32,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 325,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 45,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6698,
+      "word_number_in_surah": 553,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَطِيعُواْ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6699,
+      "word_number_in_surah": 554,
+      "word_surah": 3,
+      "word_translation": "Obey",
+      "word_transliteration": "ati'u"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6700,
+      "word_number_in_surah": 555,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٱلرَّسُولَۖ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6701,
+      "word_number_in_surah": 556,
+      "word_surah": 3,
+      "word_translation": "and the Messenger",
+      "word_transliteration": "wal-rasula"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 32,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6702,
+      "word_number_in_surah": 557,
+      "word_surah": 3,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6703,
+      "word_number_in_surah": 558,
+      "word_surah": 3,
+      "word_translation": "they turn away",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6704,
+      "word_number_in_surah": 559,
+      "word_surah": 3,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6705,
+      "word_number_in_surah": 560,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6706,
+      "word_number_in_surah": 561,
+      "word_surah": 3,
+      "word_translation": "(does) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُحِبُّ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6707,
+      "word_number_in_surah": 562,
+      "word_surah": 3,
+      "word_translation": "love",
+      "word_transliteration": "yuhibbu"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6708,
+      "word_number_in_surah": 563,
+      "word_surah": 3,
+      "word_translation": "the disbelievers",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "قُلۡ أَطِيعُواْ ٱللَّهَ وَٱلرَّسُولَۖ فَإِن تَوَلَّوۡاْ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "Say, \"Obey Allah and the Messenger.\" But if they turn away - then indeed, Allah does not like the disbelievers.",
+  "fullTransliteration": "qul ati'u al-laha wal-rasula fa-in tawallaw fa-inna al-laha la yuhibbu al-kafirina"
+}

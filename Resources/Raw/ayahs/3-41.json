@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "ayah": 41,
+    "surah": 3,
+    "words": 20,
+    "numberInQuran": 334,
+    "juz": 3,
+    "manzil": 1,
+    "page": 55,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6855,
+      "word_number_in_surah": 710,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6856,
+      "word_number_in_surah": 711,
+      "word_surah": 3,
+      "word_translation": "My Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "ٱجۡعَل",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6857,
+      "word_number_in_surah": 712,
+      "word_surah": 3,
+      "word_translation": "make",
+      "word_transliteration": "ij'al"
+    },
+    {
+      "word_arabic": "لِّيٓ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6858,
+      "word_number_in_surah": 713,
+      "word_surah": 3,
+      "word_translation": "for me",
+      "word_transliteration": "li"
+    },
+    {
+      "word_arabic": "ءَايَةٗۖ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6859,
+      "word_number_in_surah": 714,
+      "word_surah": 3,
+      "word_translation": "a sign",
+      "word_transliteration": "ayatan"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6860,
+      "word_number_in_surah": 715,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ءَايَتُكَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6861,
+      "word_number_in_surah": 716,
+      "word_surah": 3,
+      "word_translation": "your sign",
+      "word_transliteration": "ayatuka"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6862,
+      "word_number_in_surah": 717,
+      "word_surah": 3,
+      "word_translation": "(is) that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تُكَلِّمَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6863,
+      "word_number_in_surah": 718,
+      "word_surah": 3,
+      "word_translation": "you will speak",
+      "word_transliteration": "tukallima"
+    },
+    {
+      "word_arabic": "ٱلنَّاسَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6864,
+      "word_number_in_surah": 719,
+      "word_surah": 3,
+      "word_translation": "(to) the people",
+      "word_transliteration": "al-nasa"
+    },
+    {
+      "word_arabic": "ثَلَٰثَةَ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6865,
+      "word_number_in_surah": 720,
+      "word_surah": 3,
+      "word_translation": "(for) three",
+      "word_transliteration": "thalathata"
+    },
+    {
+      "word_arabic": "أَيَّامٍ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6866,
+      "word_number_in_surah": 721,
+      "word_surah": 3,
+      "word_translation": "days",
+      "word_transliteration": "ayyamin"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6867,
+      "word_number_in_surah": 722,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "رَمۡزٗاۗ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6868,
+      "word_number_in_surah": 723,
+      "word_surah": 3,
+      "word_translation": "(with) gestures",
+      "word_transliteration": "ramzan"
+    },
+    {
+      "word_arabic": "وَٱذۡكُر",
+      "word_ayah": 41,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6869,
+      "word_number_in_surah": 724,
+      "word_surah": 3,
+      "word_translation": "And remember",
+      "word_transliteration": "wa-udh'kur"
+    },
+    {
+      "word_arabic": "رَّبَّكَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6870,
+      "word_number_in_surah": 725,
+      "word_surah": 3,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6871,
+      "word_number_in_surah": 726,
+      "word_surah": 3,
+      "word_translation": "much",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "وَسَبِّحۡ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6872,
+      "word_number_in_surah": 727,
+      "word_surah": 3,
+      "word_translation": "and glorify (Him)",
+      "word_transliteration": "wasabbih"
+    },
+    {
+      "word_arabic": "بِٱلۡعَشِيِّ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6873,
+      "word_number_in_surah": 728,
+      "word_surah": 3,
+      "word_translation": "in the evening",
+      "word_transliteration": "bil-'ashiyi"
+    },
+    {
+      "word_arabic": "وَٱلۡإِبۡكَٰرِ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6874,
+      "word_number_in_surah": 729,
+      "word_surah": 3,
+      "word_translation": "and (in) the morning",
+      "word_transliteration": "wal-ib'kari"
+    }
+  ],
+  "fullArabic": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمۡزٗاۗ وَٱذۡكُر رَّبَّكَ كَثِيرٗا وَسَبِّحۡ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ",
+  "fullTranslation": "He said, \"My Lord, make for me a sign.\" He Said, \"Your sign is that you will not [be able to] speak to the people for three days except by gesture. And remember your Lord much and exalt [Him with praise] in the evening and the morning.\"",
+  "fullTransliteration": "qala rabbi ij'al li ayatan qala ayatuka alla tukallima al-nasa thalathata ayyamin illa ramzan wa-udh'kur rabbaka kathiran wasabbih bil-'ashiyi wal-ib'kari"
+}

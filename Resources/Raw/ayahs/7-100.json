@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "ayah": 100,
+    "surah": 7,
+    "words": 19,
+    "numberInQuran": 1054,
+    "juz": 9,
+    "manzil": 2,
+    "page": 163,
+    "ruku": 134,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوَلَمۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20837,
+      "word_number_in_surah": 1610,
+      "word_surah": 7,
+      "word_translation": "Would it not",
+      "word_transliteration": "awalam"
+    },
+    {
+      "word_arabic": "يَهۡدِ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20838,
+      "word_number_in_surah": 1611,
+      "word_surah": 7,
+      "word_translation": "guide",
+      "word_transliteration": "yahdi"
+    },
+    {
+      "word_arabic": "لِلَّذِينَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20839,
+      "word_number_in_surah": 1612,
+      "word_surah": 7,
+      "word_translation": "[for] those who",
+      "word_transliteration": "lilladhina"
+    },
+    {
+      "word_arabic": "يَرِثُونَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20840,
+      "word_number_in_surah": 1613,
+      "word_surah": 7,
+      "word_translation": "inherit",
+      "word_transliteration": "yarithuna"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20841,
+      "word_number_in_surah": 1614,
+      "word_surah": 7,
+      "word_translation": "the land",
+      "word_transliteration": "al-arda"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20842,
+      "word_number_in_surah": 1615,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20843,
+      "word_number_in_surah": 1616,
+      "word_surah": 7,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "أَهۡلِهَآ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20844,
+      "word_number_in_surah": 1617,
+      "word_surah": 7,
+      "word_translation": "its people",
+      "word_transliteration": "ahliha"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 100,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20845,
+      "word_number_in_surah": 1618,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "لَّوۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20846,
+      "word_number_in_surah": 1619,
+      "word_surah": 7,
+      "word_translation": "if",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "نَشَآءُ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20847,
+      "word_number_in_surah": 1620,
+      "word_surah": 7,
+      "word_translation": "We willed",
+      "word_transliteration": "nashau"
+    },
+    {
+      "word_arabic": "أَصَبۡنَٰهُم",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20848,
+      "word_number_in_surah": 1621,
+      "word_surah": 7,
+      "word_translation": "We (could) afflict them",
+      "word_transliteration": "asabnahum"
+    },
+    {
+      "word_arabic": "بِذُنُوبِهِمۡۚ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20849,
+      "word_number_in_surah": 1622,
+      "word_surah": 7,
+      "word_translation": "for their sins",
+      "word_transliteration": "bidhunubihim"
+    },
+    {
+      "word_arabic": "وَنَطۡبَعُ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20850,
+      "word_number_in_surah": 1623,
+      "word_surah": 7,
+      "word_translation": "and We put a seal",
+      "word_transliteration": "wanatba'u"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20851,
+      "word_number_in_surah": 1624,
+      "word_surah": 7,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "قُلُوبِهِمۡ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20852,
+      "word_number_in_surah": 1625,
+      "word_surah": 7,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "فَهُمۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20853,
+      "word_number_in_surah": 1626,
+      "word_surah": 7,
+      "word_translation": "so they",
+      "word_transliteration": "fahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20854,
+      "word_number_in_surah": 1627,
+      "word_surah": 7,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡمَعُونَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 20855,
+      "word_number_in_surah": 1628,
+      "word_surah": 7,
+      "word_translation": "hear",
+      "word_transliteration": "yasma'una"
+    }
+  ],
+  "fullArabic": "أَوَلَمۡ يَهۡدِ لِلَّذِينَ يَرِثُونَ ٱلۡأَرۡضَ مِنۢ بَعۡدِ أَهۡلِهَآ أَن لَّوۡ نَشَآءُ أَصَبۡنَٰهُم بِذُنُوبِهِمۡۚ وَنَطۡبَعُ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَسۡمَعُونَ",
+  "fullTranslation": "Has it not become clear to those who inherited the earth after its [previous] people that if We willed, We could afflict them for their sins? But We seal over their hearts so they do not hear.",
+  "fullTransliteration": "awalam yahdi lilladhina yarithuna al-arda min ba'di ahliha an law nashau asabnahum bidhunubihim wanatba'u ala qulubihim fahum la yasma'una"
+}

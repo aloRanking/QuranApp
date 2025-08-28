@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "ayah": 72,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1026,
+    "juz": 8,
+    "manzil": 2,
+    "page": 159,
+    "ruku": 130,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأَنجَيۡنَٰهُ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20381,
+      "word_number_in_surah": 1154,
+      "word_surah": 7,
+      "word_translation": "So We saved him",
+      "word_transliteration": "fa-anjaynahu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20382,
+      "word_number_in_surah": 1155,
+      "word_surah": 7,
+      "word_translation": "and those",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "مَعَهُۥ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20383,
+      "word_number_in_surah": 1156,
+      "word_surah": 7,
+      "word_translation": "with him",
+      "word_transliteration": "ma'ahu"
+    },
+    {
+      "word_arabic": "بِرَحۡمَةٖ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20384,
+      "word_number_in_surah": 1157,
+      "word_surah": 7,
+      "word_translation": "by Mercy",
+      "word_transliteration": "birahmatin"
+    },
+    {
+      "word_arabic": "مِّنَّا",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20385,
+      "word_number_in_surah": 1158,
+      "word_surah": 7,
+      "word_translation": "from Us",
+      "word_transliteration": "minna"
+    },
+    {
+      "word_arabic": "وَقَطَعۡنَا",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20386,
+      "word_number_in_surah": 1159,
+      "word_surah": 7,
+      "word_translation": "And We cut off",
+      "word_transliteration": "waqata'na"
+    },
+    {
+      "word_arabic": "دَابِرَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20387,
+      "word_number_in_surah": 1160,
+      "word_surah": 7,
+      "word_translation": "the roots",
+      "word_transliteration": "dabira"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20388,
+      "word_number_in_surah": 1161,
+      "word_surah": 7,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20389,
+      "word_number_in_surah": 1162,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَاۖ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20390,
+      "word_number_in_surah": 1163,
+      "word_surah": 7,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20391,
+      "word_number_in_surah": 1164,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20392,
+      "word_number_in_surah": 1165,
+      "word_surah": 7,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "مُؤۡمِنِينَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20393,
+      "word_number_in_surah": 1166,
+      "word_surah": 7,
+      "word_translation": "believers",
+      "word_transliteration": "mu'minina"
+    }
+  ],
+  "fullArabic": "فَأَنجَيۡنَٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحۡمَةٖ مِّنَّا وَقَطَعۡنَا دَابِرَ ٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَاۖ وَمَا كَانُواْ مُؤۡمِنِينَ",
+  "fullTranslation": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers.",
+  "fullTransliteration": "fa-anjaynahu wa-alladhina ma'ahu birahmatin minna waqata'na dabira alladhina kadhabu biayatina wama kanu mu'minina"
+}

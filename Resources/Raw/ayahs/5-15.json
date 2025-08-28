@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "ayah": 15,
+    "surah": 5,
+    "words": 23,
+    "numberInQuran": 684,
+    "juz": 6,
+    "manzil": 2,
+    "page": 110,
+    "ruku": 88,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13832,
+      "word_number_in_surah": 459,
+      "word_surah": 5,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13833,
+      "word_number_in_surah": 460,
+      "word_surah": 5,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13834,
+      "word_number_in_surah": 461,
+      "word_surah": 5,
+      "word_translation": "Surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "جَآءَكُمۡ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13835,
+      "word_number_in_surah": 462,
+      "word_surah": 5,
+      "word_translation": "has come to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "رَسُولُنَا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13836,
+      "word_number_in_surah": 463,
+      "word_surah": 5,
+      "word_translation": "Our Messenger",
+      "word_transliteration": "rasuluna"
+    },
+    {
+      "word_arabic": "يُبَيِّنُ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13837,
+      "word_number_in_surah": 464,
+      "word_surah": 5,
+      "word_translation": "making clear",
+      "word_transliteration": "yubayyinu"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13838,
+      "word_number_in_surah": 465,
+      "word_surah": 5,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13839,
+      "word_number_in_surah": 466,
+      "word_surah": 5,
+      "word_translation": "much",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "مِّمَّا",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13840,
+      "word_number_in_surah": 467,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13841,
+      "word_number_in_surah": 468,
+      "word_surah": 5,
+      "word_translation": "you used to",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "تُخۡفُونَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13842,
+      "word_number_in_surah": 469,
+      "word_surah": 5,
+      "word_translation": "conceal",
+      "word_transliteration": "tukh'funa"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13843,
+      "word_number_in_surah": 470,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13844,
+      "word_number_in_surah": 471,
+      "word_surah": 5,
+      "word_translation": "the Scripture",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "وَيَعۡفُواْ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13845,
+      "word_number_in_surah": 472,
+      "word_surah": 5,
+      "word_translation": "and overlooking",
+      "word_transliteration": "waya'fu"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13846,
+      "word_number_in_surah": 473,
+      "word_surah": 5,
+      "word_translation": "of",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "كَثِيرٖۚ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13847,
+      "word_number_in_surah": 474,
+      "word_surah": 5,
+      "word_translation": "much",
+      "word_transliteration": "kathirin"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13848,
+      "word_number_in_surah": 475,
+      "word_surah": 5,
+      "word_translation": "Surely",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "جَآءَكُم",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13849,
+      "word_number_in_surah": 476,
+      "word_surah": 5,
+      "word_translation": "has come to you",
+      "word_transliteration": "jaakum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13850,
+      "word_number_in_surah": 477,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13851,
+      "word_number_in_surah": 478,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "نُورٞ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13852,
+      "word_number_in_surah": 479,
+      "word_surah": 5,
+      "word_translation": "a light",
+      "word_transliteration": "nurun"
+    },
+    {
+      "word_arabic": "وَكِتَٰبٞ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13853,
+      "word_number_in_surah": 480,
+      "word_surah": 5,
+      "word_translation": "and a Book",
+      "word_transliteration": "wakitabun"
+    },
+    {
+      "word_arabic": "مُّبِينٞ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13854,
+      "word_number_in_surah": 481,
+      "word_surah": 5,
+      "word_translation": "clear",
+      "word_transliteration": "mubinun"
+    }
+  ],
+  "fullArabic": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ كَثِيرٗا مِّمَّا كُنتُمۡ تُخۡفُونَ مِنَ ٱلۡكِتَٰبِ وَيَعۡفُواْ عَن كَثِيرٖۚ قَدۡ جَآءَكُم مِّنَ ٱللَّهِ نُورٞ وَكِتَٰبٞ مُّبِينٞ",
+  "fullTranslation": "O People of the Scripture, there has come to you Our Messenger making clear to you much of what you used to conceal of the Scripture and overlooking much. There has come to you from Allah a light and a clear Book.",
+  "fullTransliteration": "yaahla al-kitabi qad jaakum rasuluna yubayyinu lakum kathiran mimma kuntum tukh'funa mina al-kitabi waya'fu an kathirin qad jaakum mina al-lahi nurun wakitabun mubinun"
+}

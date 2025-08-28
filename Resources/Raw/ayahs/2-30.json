@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "ayah": 30,
+    "surah": 2,
+    "words": 28,
+    "numberInQuran": 37,
+    "juz": 1,
+    "manzil": 1,
+    "page": 6,
+    "ruku": 5,
+    "hizbQuarter": 2,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 452,
+      "word_number_in_surah": 423,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 453,
+      "word_number_in_surah": 424,
+      "word_surah": 2,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَبُّكَ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 454,
+      "word_number_in_surah": 425,
+      "word_surah": 2,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbuka"
+    },
+    {
+      "word_arabic": "لِلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 455,
+      "word_number_in_surah": 426,
+      "word_surah": 2,
+      "word_translation": "to the angels",
+      "word_transliteration": "lil'malaikati"
+    },
+    {
+      "word_arabic": "إِنِّي",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 456,
+      "word_number_in_surah": 427,
+      "word_surah": 2,
+      "word_translation": "Indeed, I (am)",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "جَاعِلٞ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 457,
+      "word_number_in_surah": 428,
+      "word_surah": 2,
+      "word_translation": "going to place",
+      "word_transliteration": "ja'ilun"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 458,
+      "word_number_in_surah": 429,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 459,
+      "word_number_in_surah": 430,
+      "word_surah": 2,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "خَلِيفَةٗۖ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 460,
+      "word_number_in_surah": 431,
+      "word_surah": 2,
+      "word_translation": "a vicegerent",
+      "word_transliteration": "khalifatan"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 461,
+      "word_number_in_surah": 432,
+      "word_surah": 2,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَتَجۡعَلُ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 462,
+      "word_number_in_surah": 433,
+      "word_surah": 2,
+      "word_translation": "Will You place",
+      "word_transliteration": "ataj'alu"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 463,
+      "word_number_in_surah": 434,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 30,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 464,
+      "word_number_in_surah": 435,
+      "word_surah": 2,
+      "word_translation": "(one) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يُفۡسِدُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 465,
+      "word_number_in_surah": 436,
+      "word_surah": 2,
+      "word_translation": "will spread corruption",
+      "word_transliteration": "yuf'sidu"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 466,
+      "word_number_in_surah": 437,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "وَيَسۡفِكُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 467,
+      "word_number_in_surah": 438,
+      "word_surah": 2,
+      "word_translation": "and will shed",
+      "word_transliteration": "wayasfiku"
+    },
+    {
+      "word_arabic": "ٱلدِّمَآءَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 468,
+      "word_number_in_surah": 439,
+      "word_surah": 2,
+      "word_translation": "[the] blood[s]",
+      "word_transliteration": "al-dimaa"
+    },
+    {
+      "word_arabic": "وَنَحۡنُ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 469,
+      "word_number_in_surah": 440,
+      "word_surah": 2,
+      "word_translation": "while we",
+      "word_transliteration": "wanahnu"
+    },
+    {
+      "word_arabic": "نُسَبِّحُ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 470,
+      "word_number_in_surah": 441,
+      "word_surah": 2,
+      "word_translation": "[we] glorify (You)",
+      "word_transliteration": "nusabbihu"
+    },
+    {
+      "word_arabic": "بِحَمۡدِكَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 471,
+      "word_number_in_surah": 442,
+      "word_surah": 2,
+      "word_translation": "with Your praises",
+      "word_transliteration": "bihamdika"
+    },
+    {
+      "word_arabic": "وَنُقَدِّسُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 472,
+      "word_number_in_surah": 443,
+      "word_surah": 2,
+      "word_translation": "and we sanctify",
+      "word_transliteration": "wanuqaddisu"
+    },
+    {
+      "word_arabic": "لَكَۖ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 473,
+      "word_number_in_surah": 444,
+      "word_surah": 2,
+      "word_translation": "[to] You",
+      "word_transliteration": "laka"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 474,
+      "word_number_in_surah": 445,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 475,
+      "word_number_in_surah": 446,
+      "word_surah": 2,
+      "word_translation": "Indeed, I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 476,
+      "word_number_in_surah": 447,
+      "word_surah": 2,
+      "word_translation": "[I] know",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 477,
+      "word_number_in_surah": 448,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 478,
+      "word_number_in_surah": 449,
+      "word_surah": 2,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 479,
+      "word_number_in_surah": 450,
+      "word_surah": 2,
+      "word_translation": "you know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
+  "fullTranslation": "And [mention, O Muhammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\" They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?\" Allah said, \"Indeed, I know that which you do not know.\"",
+  "fullTransliteration": "wa-idh qala rabbuka lil'malaikati inni ja'ilun fi al-ardi khalifatan qalu ataj'alu fiha man yuf'sidu fiha wayasfiku al-dimaa wanahnu nusabbihu bihamdika wanuqaddisu laka qala inni a'lamu ma la ta'lamuna"
+}

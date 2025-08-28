@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 78,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 85,
+    "juz": 1,
+    "manzil": 1,
+    "page": 12,
+    "ruku": 10,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنۡهُمۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1248,
+      "word_number_in_surah": 1219,
+      "word_surah": 2,
+      "word_translation": "And among them",
+      "word_transliteration": "wamin'hum"
+    },
+    {
+      "word_arabic": "أُمِّيُّونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1249,
+      "word_number_in_surah": 1220,
+      "word_surah": 2,
+      "word_translation": "(are) unlettered ones",
+      "word_transliteration": "ummiyyuna"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1250,
+      "word_number_in_surah": 1221,
+      "word_surah": 2,
+      "word_translation": "(who) do not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1251,
+      "word_number_in_surah": 1222,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1252,
+      "word_number_in_surah": 1223,
+      "word_surah": 2,
+      "word_translation": "the book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1253,
+      "word_number_in_surah": 1224,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَمَانِيَّ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1254,
+      "word_number_in_surah": 1225,
+      "word_surah": 2,
+      "word_translation": "wishful thinking",
+      "word_transliteration": "amaniyya"
+    },
+    {
+      "word_arabic": "وَإِنۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1255,
+      "word_number_in_surah": 1226,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 78,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1256,
+      "word_number_in_surah": 1227,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1257,
+      "word_number_in_surah": 1228,
+      "word_surah": 2,
+      "word_translation": "(do anything) except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "يَظُنُّونَ",
+      "word_ayah": 78,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1258,
+      "word_number_in_surah": 1229,
+      "word_surah": 2,
+      "word_translation": "guess",
+      "word_transliteration": "yazunnuna"
+    }
+  ],
+  "fullArabic": "وَمِنۡهُمۡ أُمِّيُّونَ لَا يَعۡلَمُونَ ٱلۡكِتَٰبَ إِلَّآ أَمَانِيَّ وَإِنۡ هُمۡ إِلَّا يَظُنُّونَ",
+  "fullTranslation": "And among them are unlettered ones who do not know the Scripture except in wishful thinking, but they are only assuming.",
+  "fullTransliteration": "wamin'hum ummiyyuna la ya'lamuna al-kitaba illa amaniyya wa-in hum illa yazunnuna"
+}

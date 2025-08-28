@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "ayah": 14,
+    "surah": 6,
+    "words": 24,
+    "numberInQuran": 803,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 103,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16367,
+      "word_number_in_surah": 190,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَغَيۡرَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16368,
+      "word_number_in_surah": 191,
+      "word_surah": 6,
+      "word_translation": "Is it other than",
+      "word_transliteration": "aghayra"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16369,
+      "word_number_in_surah": 192,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَتَّخِذُ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16370,
+      "word_number_in_surah": 193,
+      "word_surah": 6,
+      "word_translation": "I (should) take",
+      "word_transliteration": "attakhidhu"
+    },
+    {
+      "word_arabic": "وَلِيّٗا",
+      "word_ayah": 14,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16371,
+      "word_number_in_surah": 194,
+      "word_surah": 6,
+      "word_translation": "(as) a protector",
+      "word_transliteration": "waliyyan"
+    },
+    {
+      "word_arabic": "فَاطِرِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16372,
+      "word_number_in_surah": 195,
+      "word_surah": 6,
+      "word_translation": "Creator",
+      "word_transliteration": "fatiri"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16373,
+      "word_number_in_surah": 196,
+      "word_surah": 6,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16374,
+      "word_number_in_surah": 197,
+      "word_surah": 6,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16375,
+      "word_number_in_surah": 198,
+      "word_surah": 6,
+      "word_translation": "while (it is) He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "يُطۡعِمُ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16376,
+      "word_number_in_surah": 199,
+      "word_surah": 6,
+      "word_translation": "Who feeds",
+      "word_transliteration": "yut'imu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16377,
+      "word_number_in_surah": 200,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يُطۡعَمُۗ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16378,
+      "word_number_in_surah": 201,
+      "word_surah": 6,
+      "word_translation": "He is fed",
+      "word_transliteration": "yut'amu"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16379,
+      "word_number_in_surah": 202,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16380,
+      "word_number_in_surah": 203,
+      "word_surah": 6,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أُمِرۡتُ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16381,
+      "word_number_in_surah": 204,
+      "word_surah": 6,
+      "word_translation": "[I] am commanded",
+      "word_transliteration": "umir'tu"
+    },
+    {
+      "word_arabic": "أَنۡ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16382,
+      "word_number_in_surah": 205,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "أَكُونَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16383,
+      "word_number_in_surah": 206,
+      "word_surah": 6,
+      "word_translation": "I be",
+      "word_transliteration": "akuna"
+    },
+    {
+      "word_arabic": "أَوَّلَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16384,
+      "word_number_in_surah": 207,
+      "word_surah": 6,
+      "word_translation": "(the) first",
+      "word_transliteration": "awwala"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16385,
+      "word_number_in_surah": 208,
+      "word_surah": 6,
+      "word_translation": "who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "أَسۡلَمَۖ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16386,
+      "word_number_in_surah": 209,
+      "word_surah": 6,
+      "word_translation": "submits (to Allah)",
+      "word_transliteration": "aslama"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16387,
+      "word_number_in_surah": 210,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكُونَنَّ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16388,
+      "word_number_in_surah": 211,
+      "word_surah": 6,
+      "word_translation": "be",
+      "word_transliteration": "takunanna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 14,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16389,
+      "word_number_in_surah": 212,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكِينَ",
+      "word_ayah": 14,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 16390,
+      "word_number_in_surah": 213,
+      "word_surah": 6,
+      "word_translation": "the polytheists",
+      "word_transliteration": "al-mush'rikina"
+    }
+  ],
+  "fullArabic": "قُلۡ أَغَيۡرَ ٱللَّهِ أَتَّخِذُ وَلِيّٗا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَهُوَ يُطۡعِمُ وَلَا يُطۡعَمُۗ قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَكُونَ أَوَّلَ مَنۡ أَسۡلَمَۖ وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ",
+  "fullTranslation": "Say, \"Is it other than Allah I should take as a protector, Creator of the heavens and the earth, while it is He who feeds and is not fed?\" Say, [O Muhammad], \"Indeed, I have been commanded to be the first [among you] who submit [to Allah] and [was commanded], 'Do not ever be of the polytheists.' \"",
+  "fullTransliteration": "qul aghayra al-lahi attakhidhu waliyyan fatiri al-samawati wal-ardi wahuwa yut'imu wala yut'amu qul inni umir'tu an akuna awwala man aslama wala takunanna mina al-mush'rikina"
+}

@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 153,
+    "surah": 7,
+    "words": 14,
+    "numberInQuran": 1107,
+    "juz": 9,
+    "manzil": 2,
+    "page": 169,
+    "ruku": 140,
+    "hizbQuarter": 67,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21597,
+      "word_number_in_surah": 2370,
+      "word_surah": 7,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "عَمِلُواْ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21598,
+      "word_number_in_surah": 2371,
+      "word_surah": 7,
+      "word_translation": "do",
+      "word_transliteration": "amilu"
+    },
+    {
+      "word_arabic": "ٱلسَّيِّ‍َٔاتِ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21599,
+      "word_number_in_surah": 2372,
+      "word_surah": 7,
+      "word_translation": "the evil deeds",
+      "word_transliteration": "al-sayiati"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21600,
+      "word_number_in_surah": 2373,
+      "word_surah": 7,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تَابُواْ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 21601,
+      "word_number_in_surah": 2374,
+      "word_surah": 7,
+      "word_translation": "repented",
+      "word_transliteration": "tabu"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 21602,
+      "word_number_in_surah": 2375,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهَا",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 21603,
+      "word_number_in_surah": 2376,
+      "word_surah": 7,
+      "word_translation": "after that",
+      "word_transliteration": "ba'diha"
+    },
+    {
+      "word_arabic": "وَءَامَنُوٓاْ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 21604,
+      "word_number_in_surah": 2377,
+      "word_surah": 7,
+      "word_translation": "and believed",
+      "word_transliteration": "waamanu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 21605,
+      "word_number_in_surah": 2378,
+      "word_surah": 7,
+      "word_translation": "indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "رَبَّكَ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 21606,
+      "word_number_in_surah": 2379,
+      "word_surah": 7,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbaka"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 153,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 21607,
+      "word_number_in_surah": 2380,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهَا",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 21608,
+      "word_number_in_surah": 2381,
+      "word_surah": 7,
+      "word_translation": "after that",
+      "word_transliteration": "ba'diha"
+    },
+    {
+      "word_arabic": "لَغَفُورٞ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 21609,
+      "word_number_in_surah": 2382,
+      "word_surah": 7,
+      "word_translation": "(is) surely Oft-Forgiving",
+      "word_transliteration": "laghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٞ",
+      "word_ayah": 153,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 21610,
+      "word_number_in_surah": 2383,
+      "word_surah": 7,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ عَمِلُواْ ٱلسَّيِّ‍َٔاتِ ثُمَّ تَابُواْ مِنۢ بَعۡدِهَا وَءَامَنُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
+  "fullTranslation": "But those who committed misdeeds and then repented after them and believed - indeed your Lord, thereafter, is Forgiving and Merciful.",
+  "fullTransliteration": "wa-alladhina amilu al-sayiati thumma tabu min ba'diha waamanu inna rabbaka min ba'diha laghafurun rahimun"
+}

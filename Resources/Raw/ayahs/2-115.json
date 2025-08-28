@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "ayah": 115,
+    "surah": 2,
+    "words": 12,
+    "numberInQuran": 122,
+    "juz": 1,
+    "manzil": 1,
+    "page": 18,
+    "ruku": 15,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2040,
+      "word_number_in_surah": 2011,
+      "word_surah": 2,
+      "word_translation": "And for Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "ٱلۡمَشۡرِقُ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2041,
+      "word_number_in_surah": 2012,
+      "word_surah": 2,
+      "word_translation": "(is) the east",
+      "word_transliteration": "al-mashriqu"
+    },
+    {
+      "word_arabic": "وَٱلۡمَغۡرِبُۚ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2042,
+      "word_number_in_surah": 2013,
+      "word_surah": 2,
+      "word_translation": "and the west",
+      "word_transliteration": "wal-maghribu"
+    },
+    {
+      "word_arabic": "فَأَيۡنَمَا",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2043,
+      "word_number_in_surah": 2014,
+      "word_surah": 2,
+      "word_translation": "so wherever",
+      "word_transliteration": "fa-aynama"
+    },
+    {
+      "word_arabic": "تُوَلُّواْ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2044,
+      "word_number_in_surah": 2015,
+      "word_surah": 2,
+      "word_translation": "you turn",
+      "word_transliteration": "tuwallu"
+    },
+    {
+      "word_arabic": "فَثَمَّ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2045,
+      "word_number_in_surah": 2016,
+      "word_surah": 2,
+      "word_translation": "[so] there",
+      "word_transliteration": "fathamma"
+    },
+    {
+      "word_arabic": "وَجۡهُ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2046,
+      "word_number_in_surah": 2017,
+      "word_surah": 2,
+      "word_translation": "(is the) face",
+      "word_transliteration": "wajhu"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2047,
+      "word_number_in_surah": 2018,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 115,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2048,
+      "word_number_in_surah": 2019,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2049,
+      "word_number_in_surah": 2020,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَٰسِعٌ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2050,
+      "word_number_in_surah": 2021,
+      "word_surah": 2,
+      "word_translation": "(is) All-Encompassing",
+      "word_transliteration": "wasi'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 115,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2051,
+      "word_number_in_surah": 2022,
+      "word_surah": 2,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "وَلِلَّهِ ٱلۡمَشۡرِقُ وَٱلۡمَغۡرِبُۚ فَأَيۡنَمَا تُوَلُّواْ فَثَمَّ وَجۡهُ ٱللَّهِۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٞ",
+  "fullTranslation": "And to Allah belongs the east and the west. So wherever you [might] turn, there is the Face of Allah. Indeed, Allah is all-Encompassing and Knowing.",
+  "fullTransliteration": "walillahi al-mashriqu wal-maghribu fa-aynama tuwallu fathamma wajhu al-lahi inna al-laha wasi'un alimun"
+}

@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 175,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 668,
+    "juz": 6,
+    "manzil": 1,
+    "page": 105,
+    "ruku": 85,
+    "hizbQuarter": 42,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَأَمَّا",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13309,
+      "word_number_in_surah": 3683,
+      "word_surah": 4,
+      "word_translation": "So as for",
+      "word_transliteration": "fa-amma"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13310,
+      "word_number_in_surah": 3684,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13311,
+      "word_number_in_surah": 3685,
+      "word_surah": 4,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13312,
+      "word_number_in_surah": 3686,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱعۡتَصَمُواْ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13313,
+      "word_number_in_surah": 3687,
+      "word_surah": 4,
+      "word_translation": "and held fast",
+      "word_transliteration": "wa-i'tasamu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13314,
+      "word_number_in_surah": 3688,
+      "word_surah": 4,
+      "word_translation": "to Him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "فَسَيُدۡخِلُهُمۡ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13315,
+      "word_number_in_surah": 3689,
+      "word_surah": 4,
+      "word_translation": "then He will admit them",
+      "word_transliteration": "fasayud'khiluhum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13316,
+      "word_number_in_surah": 3690,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "رَحۡمَةٖ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13317,
+      "word_number_in_surah": 3691,
+      "word_surah": 4,
+      "word_translation": "Mercy",
+      "word_transliteration": "rahmatin"
+    },
+    {
+      "word_arabic": "مِّنۡهُ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13318,
+      "word_number_in_surah": 3692,
+      "word_surah": 4,
+      "word_translation": "from Himself",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "وَفَضۡلٖ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13319,
+      "word_number_in_surah": 3693,
+      "word_surah": 4,
+      "word_translation": "and Bounty",
+      "word_transliteration": "wafadlin"
+    },
+    {
+      "word_arabic": "وَيَهۡدِيهِمۡ",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13320,
+      "word_number_in_surah": 3694,
+      "word_surah": 4,
+      "word_translation": "and will guide them",
+      "word_transliteration": "wayahdihim"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 175,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13321,
+      "word_number_in_surah": 3695,
+      "word_surah": 4,
+      "word_translation": "to Himself",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "صِرَٰطٗا",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13322,
+      "word_number_in_surah": 3696,
+      "word_surah": 4,
+      "word_translation": "(on) a way",
+      "word_transliteration": "siratan"
+    },
+    {
+      "word_arabic": "مُّسۡتَقِيمٗا",
+      "word_ayah": 175,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13323,
+      "word_number_in_surah": 3697,
+      "word_surah": 4,
+      "word_translation": "straight",
+      "word_transliteration": "mus'taqiman"
+    }
+  ],
+  "fullArabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَٱعۡتَصَمُواْ بِهِۦ فَسَيُدۡخِلُهُمۡ فِي رَحۡمَةٖ مِّنۡهُ وَفَضۡلٖ وَيَهۡدِيهِمۡ إِلَيۡهِ صِرَٰطٗا مُّسۡتَقِيمٗا",
+  "fullTranslation": "So those who believe in Allah and hold fast to Him - He will admit them to mercy from Himself and bounty and guide them to Himself on a straight path.",
+  "fullTransliteration": "fa-amma alladhina amanu bil-lahi wa-i'tasamu bihi fasayud'khiluhum fi rahmatin min'hu wafadlin wayahdihim ilayhi siratan mus'taqiman"
+}

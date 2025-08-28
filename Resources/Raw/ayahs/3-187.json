@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "ayah": 187,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 480,
+    "juz": 4,
+    "manzil": 1,
+    "page": 75,
+    "ruku": 60,
+    "hizbQuarter": 30,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 187,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9382,
+      "word_number_in_surah": 3237,
+      "word_surah": 3,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "أَخَذَ",
+      "word_ayah": 187,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9383,
+      "word_number_in_surah": 3238,
+      "word_surah": 3,
+      "word_translation": "took",
+      "word_transliteration": "akhadha"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9384,
+      "word_number_in_surah": 3239,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مِيثَٰقَ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9385,
+      "word_number_in_surah": 3240,
+      "word_surah": 3,
+      "word_translation": "a Covenant",
+      "word_transliteration": "mithaqa"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9386,
+      "word_number_in_surah": 3241,
+      "word_surah": 3,
+      "word_translation": "(from) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9387,
+      "word_number_in_surah": 3242,
+      "word_surah": 3,
+      "word_translation": "were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9388,
+      "word_number_in_surah": 3243,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "لَتُبَيِّنُنَّهُۥ",
+      "word_ayah": 187,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9389,
+      "word_number_in_surah": 3244,
+      "word_surah": 3,
+      "word_translation": "You certainly make it clear",
+      "word_transliteration": "latubayyinunnahu"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9390,
+      "word_number_in_surah": 3245,
+      "word_surah": 3,
+      "word_translation": "to the mankind",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9391,
+      "word_number_in_surah": 3246,
+      "word_surah": 3,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكۡتُمُونَهُۥ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9392,
+      "word_number_in_surah": 3247,
+      "word_surah": 3,
+      "word_translation": "conceal it",
+      "word_transliteration": "taktumunahu"
+    },
+    {
+      "word_arabic": "فَنَبَذُوهُ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9393,
+      "word_number_in_surah": 3248,
+      "word_surah": 3,
+      "word_translation": "Then they threw it",
+      "word_transliteration": "fanabadhuhu"
+    },
+    {
+      "word_arabic": "وَرَآءَ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9394,
+      "word_number_in_surah": 3249,
+      "word_surah": 3,
+      "word_translation": "behind",
+      "word_transliteration": "waraa"
+    },
+    {
+      "word_arabic": "ظُهُورِهِمۡ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9395,
+      "word_number_in_surah": 3250,
+      "word_surah": 3,
+      "word_translation": "their backs",
+      "word_transliteration": "zuhurihim"
+    },
+    {
+      "word_arabic": "وَٱشۡتَرَوۡاْ",
+      "word_ayah": 187,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9396,
+      "word_number_in_surah": 3251,
+      "word_surah": 3,
+      "word_translation": "and they exchanged",
+      "word_transliteration": "wa-ish'taraw"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 187,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9397,
+      "word_number_in_surah": 3252,
+      "word_surah": 3,
+      "word_translation": "[with] it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "ثَمَنٗا",
+      "word_ayah": 187,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9398,
+      "word_number_in_surah": 3253,
+      "word_surah": 3,
+      "word_translation": "(for) a price",
+      "word_transliteration": "thamanan"
+    },
+    {
+      "word_arabic": "قَلِيلٗاۖ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9399,
+      "word_number_in_surah": 3254,
+      "word_surah": 3,
+      "word_translation": "little",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "فَبِئۡسَ",
+      "word_ayah": 187,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9400,
+      "word_number_in_surah": 3255,
+      "word_surah": 3,
+      "word_translation": "And wretched",
+      "word_transliteration": "fabi'sa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9401,
+      "word_number_in_surah": 3256,
+      "word_surah": 3,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَشۡتَرُونَ",
+      "word_ayah": 187,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9402,
+      "word_number_in_surah": 3257,
+      "word_surah": 3,
+      "word_translation": "they purchase",
+      "word_transliteration": "yashtaruna"
+    }
+  ],
+  "fullArabic": "وَإِذۡ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكۡتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمۡ وَٱشۡتَرَوۡاْ بِهِۦ ثَمَنٗا قَلِيلٗاۖ فَبِئۡسَ مَا يَشۡتَرُونَ",
+  "fullTranslation": "And [mention, O Muhammad], when Allah took a covenant from those who were given the Scripture, [saying], \"You must make it clear to the people and not conceal it.\" But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.",
+  "fullTransliteration": "wa-idh akhadha al-lahu mithaqa alladhina utu al-kitaba latubayyinunnahu lilnnasi wala taktumunahu fanabadhuhu waraa zuhurihim wa-ish'taraw bihi thamanan qalilan fabi'sa ma yashtaruna"
+}

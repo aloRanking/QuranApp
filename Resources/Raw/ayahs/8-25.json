@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 25,
+    "surah": 8,
+    "words": 13,
+    "numberInQuran": 1185,
+    "juz": 9,
+    "manzil": 2,
+    "page": 179,
+    "ruku": 148,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22888,
+      "word_number_in_surah": 341,
+      "word_surah": 8,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "فِتۡنَةٗ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22889,
+      "word_number_in_surah": 342,
+      "word_surah": 8,
+      "word_translation": "a trial",
+      "word_transliteration": "fit'natan"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22890,
+      "word_number_in_surah": 343,
+      "word_surah": 8,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُصِيبَنَّ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22891,
+      "word_number_in_surah": 344,
+      "word_surah": 8,
+      "word_translation": "which will afflict",
+      "word_transliteration": "tusibanna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22892,
+      "word_number_in_surah": 345,
+      "word_surah": 8,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ظَلَمُواْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22893,
+      "word_number_in_surah": 346,
+      "word_surah": 8,
+      "word_translation": "do wrong",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22894,
+      "word_number_in_surah": 347,
+      "word_surah": 8,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "خَآصَّةٗۖ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22895,
+      "word_number_in_surah": 348,
+      "word_surah": 8,
+      "word_translation": "exclusively",
+      "word_transliteration": "khassatan"
+    },
+    {
+      "word_arabic": "وَٱعۡلَمُوٓاْ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22896,
+      "word_number_in_surah": 349,
+      "word_surah": 8,
+      "word_translation": "And know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 25,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22897,
+      "word_number_in_surah": 350,
+      "word_surah": 8,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22898,
+      "word_number_in_surah": 351,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "شَدِيدُ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22899,
+      "word_number_in_surah": 352,
+      "word_surah": 8,
+      "word_translation": "(is) severe",
+      "word_transliteration": "shadidu"
+    },
+    {
+      "word_arabic": "ٱلۡعِقَابِ",
+      "word_ayah": 25,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 22900,
+      "word_number_in_surah": 353,
+      "word_surah": 8,
+      "word_translation": "(in) the penalty",
+      "word_transliteration": "al-'iqabi"
+    }
+  ],
+  "fullArabic": "وَٱتَّقُواْ فِتۡنَةٗ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُواْ مِنكُمۡ خَآصَّةٗۖ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+  "fullTranslation": "And fear a trial which will not strike those who have wronged among you exclusively, and know that Allah is severe in penalty.",
+  "fullTransliteration": "wa-ittaqu fit'natan la tusibanna alladhina zalamu minkum khassatan wa-i'lamu anna al-laha shadidu al-'iqabi"
+}

@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "ayah": 40,
+    "surah": 3,
+    "words": 17,
+    "numberInQuran": 333,
+    "juz": 3,
+    "manzil": 1,
+    "page": 55,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6838,
+      "word_number_in_surah": 693,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6839,
+      "word_number_in_surah": 694,
+      "word_surah": 3,
+      "word_translation": "My Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "أَنَّىٰ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6840,
+      "word_number_in_surah": 695,
+      "word_surah": 3,
+      "word_translation": "how",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "يَكُونُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6841,
+      "word_number_in_surah": 696,
+      "word_surah": 3,
+      "word_translation": "can (there) be",
+      "word_transliteration": "yakunu"
+    },
+    {
+      "word_arabic": "لِي",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6842,
+      "word_number_in_surah": 697,
+      "word_surah": 3,
+      "word_translation": "for me",
+      "word_transliteration": "li"
+    },
+    {
+      "word_arabic": "غُلَٰمٞ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6843,
+      "word_number_in_surah": 698,
+      "word_surah": 3,
+      "word_translation": "a son",
+      "word_transliteration": "ghulamun"
+    },
+    {
+      "word_arabic": "وَقَدۡ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6844,
+      "word_number_in_surah": 699,
+      "word_surah": 3,
+      "word_translation": "and verily",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "بَلَغَنِيَ",
+      "word_ayah": 40,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6845,
+      "word_number_in_surah": 700,
+      "word_surah": 3,
+      "word_translation": "has reached me",
+      "word_transliteration": "balaghaniya"
+    },
+    {
+      "word_arabic": "ٱلۡكِبَرُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6846,
+      "word_number_in_surah": 701,
+      "word_surah": 3,
+      "word_translation": "[the] old age",
+      "word_transliteration": "al-kibaru"
+    },
+    {
+      "word_arabic": "وَٱمۡرَأَتِي",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6847,
+      "word_number_in_surah": 702,
+      "word_surah": 3,
+      "word_translation": "and my wife",
+      "word_transliteration": "wa-im'ra-ati"
+    },
+    {
+      "word_arabic": "عَاقِرٞۖ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6848,
+      "word_number_in_surah": 703,
+      "word_surah": 3,
+      "word_translation": "(is) [a] barren",
+      "word_transliteration": "aqirun"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6849,
+      "word_number_in_surah": 704,
+      "word_surah": 3,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6850,
+      "word_number_in_surah": 705,
+      "word_surah": 3,
+      "word_translation": "Thus",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6851,
+      "word_number_in_surah": 706,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "يَفۡعَلُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6852,
+      "word_number_in_surah": 707,
+      "word_surah": 3,
+      "word_translation": "does",
+      "word_transliteration": "yaf 'alu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6853,
+      "word_number_in_surah": 708,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَشَآءُ",
+      "word_ayah": 40,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6854,
+      "word_number_in_surah": 709,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    }
+  ],
+  "fullArabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَقَدۡ بَلَغَنِيَ ٱلۡكِبَرُ وَٱمۡرَأَتِي عَاقِرٞۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفۡعَلُ مَا يَشَآءُ",
+  "fullTranslation": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" The angel said, \"Such is Allah; He does what He wills.\"",
+  "fullTransliteration": "qala rabbi anna yakunu li ghulamun waqad balaghaniya al-kibaru wa-im'ra-ati aqirun qala kadhalika al-lahu yaf 'alu ma yashau"
+}

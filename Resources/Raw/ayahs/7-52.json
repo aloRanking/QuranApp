@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 52,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 1006,
+    "juz": 8,
+    "manzil": 2,
+    "page": 157,
+    "ruku": 127,
+    "hizbQuarter": 63,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20040,
+      "word_number_in_surah": 813,
+      "word_surah": 7,
+      "word_translation": "And certainly",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "جِئۡنَٰهُم",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20041,
+      "word_number_in_surah": 814,
+      "word_surah": 7,
+      "word_translation": "We had brought (to) them",
+      "word_transliteration": "ji'nahum"
+    },
+    {
+      "word_arabic": "بِكِتَٰبٖ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20042,
+      "word_number_in_surah": 815,
+      "word_surah": 7,
+      "word_translation": "a Book",
+      "word_transliteration": "bikitabin"
+    },
+    {
+      "word_arabic": "فَصَّلۡنَٰهُ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20043,
+      "word_number_in_surah": 816,
+      "word_surah": 7,
+      "word_translation": "which We have explained",
+      "word_transliteration": "fassalnahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20044,
+      "word_number_in_surah": 817,
+      "word_surah": 7,
+      "word_translation": "with",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "عِلۡمٍ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20045,
+      "word_number_in_surah": 818,
+      "word_surah": 7,
+      "word_translation": "knowledge",
+      "word_transliteration": "il'min"
+    },
+    {
+      "word_arabic": "هُدٗى",
+      "word_ayah": 52,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20046,
+      "word_number_in_surah": 819,
+      "word_surah": 7,
+      "word_translation": "a guidance",
+      "word_transliteration": "hudan"
+    },
+    {
+      "word_arabic": "وَرَحۡمَةٗ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20047,
+      "word_number_in_surah": 820,
+      "word_surah": 7,
+      "word_translation": "and mercy",
+      "word_transliteration": "warahmatan"
+    },
+    {
+      "word_arabic": "لِّقَوۡمٖ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20048,
+      "word_number_in_surah": 821,
+      "word_surah": 7,
+      "word_translation": "for a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20049,
+      "word_number_in_surah": 822,
+      "word_surah": 7,
+      "word_translation": "who believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ جِئۡنَٰهُم بِكِتَٰبٖ فَصَّلۡنَٰهُ عَلَىٰ عِلۡمٍ هُدٗى وَرَحۡمَةٗ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "fullTranslation": "And We had certainly brought them a Book which We detailed by knowledge - as guidance and mercy to a people who believe.",
+  "fullTransliteration": "walaqad ji'nahum bikitabin fassalnahu ala il'min hudan warahmatan liqawmin yu'minuna"
+}

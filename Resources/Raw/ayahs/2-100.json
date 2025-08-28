@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ayah": 100,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 107,
+    "juz": 1,
+    "manzil": 1,
+    "page": 15,
+    "ruku": 13,
+    "hizbQuarter": 6,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَوَكُلَّمَا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1685,
+      "word_number_in_surah": 1656,
+      "word_surah": 2,
+      "word_translation": "And is (it not that) whenever",
+      "word_transliteration": "awakullama"
+    },
+    {
+      "word_arabic": "عَٰهَدُواْ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1686,
+      "word_number_in_surah": 1657,
+      "word_surah": 2,
+      "word_translation": "they took",
+      "word_transliteration": "ahadu"
+    },
+    {
+      "word_arabic": "عَهۡدٗا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1687,
+      "word_number_in_surah": 1658,
+      "word_surah": 2,
+      "word_translation": "a covenant",
+      "word_transliteration": "ahdan"
+    },
+    {
+      "word_arabic": "نَّبَذَهُۥ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1688,
+      "word_number_in_surah": 1659,
+      "word_surah": 2,
+      "word_translation": "threw it away",
+      "word_transliteration": "nabadhahu"
+    },
+    {
+      "word_arabic": "فَرِيقٞ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1689,
+      "word_number_in_surah": 1660,
+      "word_surah": 2,
+      "word_translation": "a party",
+      "word_transliteration": "fariqun"
+    },
+    {
+      "word_arabic": "مِّنۡهُمۚ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1690,
+      "word_number_in_surah": 1661,
+      "word_surah": 2,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "بَلۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1691,
+      "word_number_in_surah": 1662,
+      "word_surah": 2,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "أَكۡثَرُهُمۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1692,
+      "word_number_in_surah": 1663,
+      "word_surah": 2,
+      "word_translation": "most of them",
+      "word_transliteration": "aktharuhum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1693,
+      "word_number_in_surah": 1664,
+      "word_surah": 2,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1694,
+      "word_number_in_surah": 1665,
+      "word_surah": 2,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "أَوَكُلَّمَا عَٰهَدُواْ عَهۡدٗا نَّبَذَهُۥ فَرِيقٞ مِّنۡهُمۚ بَلۡ أَكۡثَرُهُمۡ لَا يُؤۡمِنُونَ",
+  "fullTranslation": "Is it not [true] that every time they took a covenant a party of them threw it away? But, [in fact], most of them do not believe.",
+  "fullTransliteration": "awakullama ahadu ahdan nabadhahu fariqun min'hum bal aktharuhum la yu'minuna"
+}

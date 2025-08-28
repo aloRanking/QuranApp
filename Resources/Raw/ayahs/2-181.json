@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "ayah": 181,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 188,
+    "juz": 2,
+    "manzil": 1,
+    "page": 27,
+    "ruku": 23,
+    "hizbQuarter": 11,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَمَنۢ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3287,
+      "word_number_in_surah": 3258,
+      "word_surah": 2,
+      "word_translation": "Then whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "بَدَّلَهُۥ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3288,
+      "word_number_in_surah": 3259,
+      "word_surah": 2,
+      "word_translation": "changes it",
+      "word_transliteration": "baddalahu"
+    },
+    {
+      "word_arabic": "بَعۡدَمَا",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3289,
+      "word_number_in_surah": 3260,
+      "word_surah": 2,
+      "word_translation": "after what",
+      "word_transliteration": "ba'dama"
+    },
+    {
+      "word_arabic": "سَمِعَهُۥ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3290,
+      "word_number_in_surah": 3261,
+      "word_surah": 2,
+      "word_translation": "he (has) heard [it]",
+      "word_transliteration": "sami'ahu"
+    },
+    {
+      "word_arabic": "فَإِنَّمَآ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3291,
+      "word_number_in_surah": 3262,
+      "word_surah": 2,
+      "word_translation": "so only",
+      "word_transliteration": "fa-innama"
+    },
+    {
+      "word_arabic": "إِثۡمُهُۥ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3292,
+      "word_number_in_surah": 3263,
+      "word_surah": 2,
+      "word_translation": "its sin",
+      "word_transliteration": "ith'muhu"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3293,
+      "word_number_in_surah": 3264,
+      "word_surah": 2,
+      "word_translation": "(would be) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3294,
+      "word_number_in_surah": 3265,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُبَدِّلُونَهُۥٓۚ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3295,
+      "word_number_in_surah": 3266,
+      "word_surah": 2,
+      "word_translation": "alter it",
+      "word_transliteration": "yubaddilunahu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 181,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3296,
+      "word_number_in_surah": 3267,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3297,
+      "word_number_in_surah": 3268,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَمِيعٌ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3298,
+      "word_number_in_surah": 3269,
+      "word_surah": 2,
+      "word_translation": "(is) All-Hearing",
+      "word_transliteration": "sami'un"
+    },
+    {
+      "word_arabic": "عَلِيمٞ",
+      "word_ayah": 181,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3299,
+      "word_number_in_surah": 3270,
+      "word_surah": 2,
+      "word_translation": "All-Knowing ",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "فَمَنۢ بَدَّلَهُۥ بَعۡدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثۡمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "fullTranslation": "Then whoever alters the bequest after he has heard it - the sin is only upon those who have altered it. Indeed, Allah is Hearing and Knowing.",
+  "fullTransliteration": "faman baddalahu ba'dama sami'ahu fa-innama ith'muhu ala alladhina yubaddilunahu inna al-laha sami'un alimun"
+}

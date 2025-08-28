@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "ayah": 114,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 407,
+    "juz": 4,
+    "manzil": 1,
+    "page": 64,
+    "ruku": 53,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8072,
+      "word_number_in_surah": 1927,
+      "word_surah": 3,
+      "word_translation": "They believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8073,
+      "word_number_in_surah": 1928,
+      "word_surah": 3,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡيَوۡمِ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8074,
+      "word_number_in_surah": 1929,
+      "word_surah": 3,
+      "word_translation": "and the Day",
+      "word_transliteration": "wal-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8075,
+      "word_number_in_surah": 1930,
+      "word_surah": 3,
+      "word_translation": "the Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "وَيَأۡمُرُونَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8076,
+      "word_number_in_surah": 1931,
+      "word_surah": 3,
+      "word_translation": "and they enjoin",
+      "word_transliteration": "wayamuruna"
+    },
+    {
+      "word_arabic": "بِٱلۡمَعۡرُوفِ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8077,
+      "word_number_in_surah": 1932,
+      "word_surah": 3,
+      "word_translation": "[with] the right",
+      "word_transliteration": "bil-ma'rufi"
+    },
+    {
+      "word_arabic": "وَيَنۡهَوۡنَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8078,
+      "word_number_in_surah": 1933,
+      "word_surah": 3,
+      "word_translation": "and forbid",
+      "word_transliteration": "wayanhawna"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8079,
+      "word_number_in_surah": 1934,
+      "word_surah": 3,
+      "word_translation": "[from]",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡمُنكَرِ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8080,
+      "word_number_in_surah": 1935,
+      "word_surah": 3,
+      "word_translation": "the wrong",
+      "word_transliteration": "al-munkari"
+    },
+    {
+      "word_arabic": "وَيُسَٰرِعُونَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8081,
+      "word_number_in_surah": 1936,
+      "word_surah": 3,
+      "word_translation": "and they hasten",
+      "word_transliteration": "wayusari'una"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8082,
+      "word_number_in_surah": 1937,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡخَيۡرَٰتِۖ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8083,
+      "word_number_in_surah": 1938,
+      "word_surah": 3,
+      "word_translation": "the good deeds",
+      "word_transliteration": "al-khayrati"
+    },
+    {
+      "word_arabic": "وَأُوْلَٰٓئِكَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8084,
+      "word_number_in_surah": 1939,
+      "word_surah": 3,
+      "word_translation": "And those",
+      "word_transliteration": "wa-ulaika"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8085,
+      "word_number_in_surah": 1940,
+      "word_surah": 3,
+      "word_translation": "(are) from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحِينَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8086,
+      "word_number_in_surah": 1941,
+      "word_surah": 3,
+      "word_translation": "the righteous",
+      "word_transliteration": "al-salihina"
+    }
+  ],
+  "fullArabic": "يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ",
+  "fullTranslation": "They believe in Allah and the Last Day, and they enjoin what is right and forbid what is wrong and hasten to good deeds. And those are among the righteous.",
+  "fullTransliteration": "yu'minuna bil-lahi wal-yawmi al-akhiri wayamuruna bil-ma'rufi wayanhawna ani al-munkari wayusari'una fi al-khayrati wa-ulaika mina al-salihina"
+}

@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "ayah": 150,
+    "surah": 6,
+    "words": 27,
+    "numberInQuran": 939,
+    "juz": 8,
+    "manzil": 2,
+    "page": 148,
+    "ruku": 119,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18878,
+      "word_number_in_surah": 2701,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "هَلُمَّ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18879,
+      "word_number_in_surah": 2702,
+      "word_surah": 6,
+      "word_translation": "Bring forward",
+      "word_transliteration": "halumma"
+    },
+    {
+      "word_arabic": "شُهَدَآءَكُمُ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18880,
+      "word_number_in_surah": 2703,
+      "word_surah": 6,
+      "word_translation": "your witnesses",
+      "word_transliteration": "shuhadaakumu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18881,
+      "word_number_in_surah": 2704,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَشۡهَدُونَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18882,
+      "word_number_in_surah": 2705,
+      "word_surah": 6,
+      "word_translation": "testify",
+      "word_transliteration": "yashhaduna"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18883,
+      "word_number_in_surah": 2706,
+      "word_surah": 6,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18884,
+      "word_number_in_surah": 2707,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "حَرَّمَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18885,
+      "word_number_in_surah": 2708,
+      "word_surah": 6,
+      "word_translation": "prohibited",
+      "word_transliteration": "harrama"
+    },
+    {
+      "word_arabic": "هَٰذَاۖ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18886,
+      "word_number_in_surah": 2709,
+      "word_surah": 6,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 150,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18887,
+      "word_number_in_surah": 2710,
+      "word_surah": 6,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "شَهِدُواْ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18888,
+      "word_number_in_surah": 2711,
+      "word_surah": 6,
+      "word_translation": "they testify",
+      "word_transliteration": "shahidu"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18889,
+      "word_number_in_surah": 2712,
+      "word_surah": 6,
+      "word_translation": "then (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَشۡهَدۡ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18890,
+      "word_number_in_surah": 2713,
+      "word_surah": 6,
+      "word_translation": "testify",
+      "word_transliteration": "tashhad"
+    },
+    {
+      "word_arabic": "مَعَهُمۡۚ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18891,
+      "word_number_in_surah": 2714,
+      "word_surah": 6,
+      "word_translation": "with them",
+      "word_transliteration": "ma'ahum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18892,
+      "word_number_in_surah": 2715,
+      "word_surah": 6,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّبِعۡ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18893,
+      "word_number_in_surah": 2716,
+      "word_surah": 6,
+      "word_translation": "follow",
+      "word_transliteration": "tattabi'"
+    },
+    {
+      "word_arabic": "أَهۡوَآءَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18894,
+      "word_number_in_surah": 2717,
+      "word_surah": 6,
+      "word_translation": "(the) desires",
+      "word_transliteration": "ahwaa"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18895,
+      "word_number_in_surah": 2718,
+      "word_surah": 6,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18896,
+      "word_number_in_surah": 2719,
+      "word_surah": 6,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18897,
+      "word_number_in_surah": 2720,
+      "word_surah": 6,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18898,
+      "word_number_in_surah": 2721,
+      "word_surah": 6,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18899,
+      "word_number_in_surah": 2722,
+      "word_surah": 6,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18900,
+      "word_number_in_surah": 2723,
+      "word_surah": 6,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱلۡأٓخِرَةِ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18901,
+      "word_number_in_surah": 2724,
+      "word_surah": 6,
+      "word_translation": "in the Hereafter",
+      "word_transliteration": "bil-akhirati"
+    },
+    {
+      "word_arabic": "وَهُم",
+      "word_ayah": 150,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18902,
+      "word_number_in_surah": 2725,
+      "word_surah": 6,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "بِرَبِّهِمۡ",
+      "word_ayah": 150,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18903,
+      "word_number_in_surah": 2726,
+      "word_surah": 6,
+      "word_translation": "with their Lord",
+      "word_transliteration": "birabbihim"
+    },
+    {
+      "word_arabic": "يَعۡدِلُونَ",
+      "word_ayah": 150,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 18904,
+      "word_number_in_surah": 2727,
+      "word_surah": 6,
+      "word_translation": "set up equals",
+      "word_transliteration": "ya'diluna"
+    }
+  ],
+  "fullArabic": "قُلۡ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشۡهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَاۖ فَإِن شَهِدُواْ فَلَا تَشۡهَدۡ مَعَهُمۡۚ وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ وَهُم بِرَبِّهِمۡ يَعۡدِلُونَ",
+  "fullTranslation": "Say, [O Muhammad], \"Bring forward your witnesses who will testify that Allah has prohibited this.\" And if they testify, do not testify with them. And do not follow the desires of those who deny Our verses and those who do not believe in the Hereafter, while they equate [others] with their Lord.",
+  "fullTransliteration": "qul halumma shuhadaakumu alladhina yashhaduna anna al-laha harrama hadha fa-in shahidu fala tashhad ma'ahum wala tattabi' ahwaa alladhina kadhabu biayatina wa-alladhina la yu'minuna bil-akhirati wahum birabbihim ya'diluna"
+}

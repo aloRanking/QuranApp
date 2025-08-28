@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "ayah": 68,
+    "surah": 6,
+    "words": 23,
+    "numberInQuran": 857,
+    "juz": 7,
+    "manzil": 2,
+    "page": 135,
+    "ruku": 109,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17271,
+      "word_number_in_surah": 1094,
+      "word_surah": 6,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "رَأَيۡتَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17272,
+      "word_number_in_surah": 1095,
+      "word_surah": 6,
+      "word_translation": "you see",
+      "word_transliteration": "ra-ayta"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17273,
+      "word_number_in_surah": 1096,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَخُوضُونَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17274,
+      "word_number_in_surah": 1097,
+      "word_surah": 6,
+      "word_translation": "engage (in vain talks)",
+      "word_transliteration": "yakhuduna"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17275,
+      "word_number_in_surah": 1098,
+      "word_surah": 6,
+      "word_translation": "about",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ءَايَٰتِنَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17276,
+      "word_number_in_surah": 1099,
+      "word_surah": 6,
+      "word_translation": "Our Verses",
+      "word_transliteration": "ayatina"
+    },
+    {
+      "word_arabic": "فَأَعۡرِضۡ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17277,
+      "word_number_in_surah": 1100,
+      "word_surah": 6,
+      "word_translation": "then turn away",
+      "word_transliteration": "fa-a'rid"
+    },
+    {
+      "word_arabic": "عَنۡهُمۡ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17278,
+      "word_number_in_surah": 1101,
+      "word_surah": 6,
+      "word_translation": "from them",
+      "word_transliteration": "anhum"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17279,
+      "word_number_in_surah": 1102,
+      "word_surah": 6,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَخُوضُواْ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17280,
+      "word_number_in_surah": 1103,
+      "word_surah": 6,
+      "word_translation": "they engage",
+      "word_transliteration": "yakhudu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17281,
+      "word_number_in_surah": 1104,
+      "word_surah": 6,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "حَدِيثٍ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17282,
+      "word_number_in_surah": 1105,
+      "word_surah": 6,
+      "word_translation": "a talk",
+      "word_transliteration": "hadithin"
+    },
+    {
+      "word_arabic": "غَيۡرِهِۦۚ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17283,
+      "word_number_in_surah": 1106,
+      "word_surah": 6,
+      "word_translation": "other than it",
+      "word_transliteration": "ghayrihi"
+    },
+    {
+      "word_arabic": "وَإِمَّا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17284,
+      "word_number_in_surah": 1107,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "wa-imma"
+    },
+    {
+      "word_arabic": "يُنسِيَنَّكَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17285,
+      "word_number_in_surah": 1108,
+      "word_surah": 6,
+      "word_translation": "causes you to forget",
+      "word_transliteration": "yunsiyannaka"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنُ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17286,
+      "word_number_in_surah": 1109,
+      "word_surah": 6,
+      "word_translation": "the Shaitaan",
+      "word_transliteration": "al-shaytanu"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17287,
+      "word_number_in_surah": 1110,
+      "word_surah": 6,
+      "word_translation": "then (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَقۡعُدۡ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17288,
+      "word_number_in_surah": 1111,
+      "word_surah": 6,
+      "word_translation": "sit",
+      "word_transliteration": "taq'ud"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17289,
+      "word_number_in_surah": 1112,
+      "word_surah": 6,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "ٱلذِّكۡرَىٰ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17290,
+      "word_number_in_surah": 1113,
+      "word_surah": 6,
+      "word_translation": "the reminder",
+      "word_transliteration": "al-dhik'ra"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17291,
+      "word_number_in_surah": 1114,
+      "word_surah": 6,
+      "word_translation": "with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17292,
+      "word_number_in_surah": 1115,
+      "word_surah": 6,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 17293,
+      "word_number_in_surah": 1116,
+      "word_surah": 6,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "وَإِذَا رَأَيۡتَ ٱلَّذِينَ يَخُوضُونَ فِيٓ ءَايَٰتِنَا فَأَعۡرِضۡ عَنۡهُمۡ حَتَّىٰ يَخُوضُواْ فِي حَدِيثٍ غَيۡرِهِۦۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيۡطَٰنُ فَلَا تَقۡعُدۡ بَعۡدَ ٱلذِّكۡرَىٰ مَعَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "fullTranslation": "And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.",
+  "fullTransliteration": "wa-idha ra-ayta alladhina yakhuduna fi ayatina fa-a'rid anhum hatta yakhudu fi hadithin ghayrihi wa-imma yunsiyannaka al-shaytanu fala taq'ud ba'da al-dhik'ra ma'a al-qawmi al-zalimina"
+}

@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "ayah": 8,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 301,
+    "juz": 3,
+    "manzil": 1,
+    "page": 50,
+    "ruku": 42,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "رَبَّنَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6253,
+      "word_number_in_surah": 108,
+      "word_surah": 3,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6254,
+      "word_number_in_surah": 109,
+      "word_surah": 3,
+      "word_translation": "(Do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُزِغۡ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6255,
+      "word_number_in_surah": 110,
+      "word_surah": 3,
+      "word_translation": "deviate",
+      "word_transliteration": "tuzigh"
+    },
+    {
+      "word_arabic": "قُلُوبَنَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6256,
+      "word_number_in_surah": 111,
+      "word_surah": 3,
+      "word_translation": "our hearts",
+      "word_transliteration": "qulubana"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6257,
+      "word_number_in_surah": 112,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6258,
+      "word_number_in_surah": 113,
+      "word_surah": 3,
+      "word_translation": "[when]",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "هَدَيۡتَنَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6259,
+      "word_number_in_surah": 114,
+      "word_surah": 3,
+      "word_translation": "You (have) guided us",
+      "word_transliteration": "hadaytana"
+    },
+    {
+      "word_arabic": "وَهَبۡ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6260,
+      "word_number_in_surah": 115,
+      "word_surah": 3,
+      "word_translation": "and grant",
+      "word_transliteration": "wahab"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6261,
+      "word_number_in_surah": 116,
+      "word_surah": 3,
+      "word_translation": "(for) us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 8,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6262,
+      "word_number_in_surah": 117,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "لَّدُنكَ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6263,
+      "word_number_in_surah": 118,
+      "word_surah": 3,
+      "word_translation": "Yourself",
+      "word_transliteration": "ladunka"
+    },
+    {
+      "word_arabic": "رَحۡمَةًۚ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6264,
+      "word_number_in_surah": 119,
+      "word_surah": 3,
+      "word_translation": "mercy",
+      "word_transliteration": "rahmatan"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6265,
+      "word_number_in_surah": 120,
+      "word_surah": 3,
+      "word_translation": "Indeed You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 8,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6266,
+      "word_number_in_surah": 121,
+      "word_surah": 3,
+      "word_translation": "You",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "ٱلۡوَهَّابُ",
+      "word_ayah": 8,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6267,
+      "word_number_in_surah": 122,
+      "word_surah": 3,
+      "word_translation": "(are) the Bestower",
+      "word_transliteration": "al-wahabu"
+    }
+  ],
+  "fullArabic": "رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَيۡتَنَا وَهَبۡ لَنَا مِن لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
+  "fullTranslation": "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+  "fullTransliteration": "rabbana la tuzigh qulubana ba'da idh hadaytana wahab lana min ladunka rahmatan innaka anta al-wahabu"
+}

@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "ayah": 76,
+    "surah": 4,
+    "words": 20,
+    "numberInQuran": 569,
+    "juz": 5,
+    "manzil": 1,
+    "page": 90,
+    "ruku": 71,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11262,
+      "word_number_in_surah": 1636,
+      "word_surah": 4,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11263,
+      "word_number_in_surah": 1637,
+      "word_surah": 4,
+      "word_translation": "believe",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "يُقَٰتِلُونَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11264,
+      "word_number_in_surah": 1638,
+      "word_surah": 4,
+      "word_translation": "they fight",
+      "word_transliteration": "yuqatiluna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11265,
+      "word_number_in_surah": 1639,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11266,
+      "word_number_in_surah": 1640,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11267,
+      "word_number_in_surah": 1641,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11268,
+      "word_number_in_surah": 1642,
+      "word_surah": 4,
+      "word_translation": "and those",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11269,
+      "word_number_in_surah": 1643,
+      "word_surah": 4,
+      "word_translation": "who disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "يُقَٰتِلُونَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11270,
+      "word_number_in_surah": 1644,
+      "word_surah": 4,
+      "word_translation": "they fight",
+      "word_transliteration": "yuqatiluna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11271,
+      "word_number_in_surah": 1645,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11272,
+      "word_number_in_surah": 1646,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱلطَّٰغُوتِ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11273,
+      "word_number_in_surah": 1647,
+      "word_surah": 4,
+      "word_translation": "(of) the false deities",
+      "word_transliteration": "al-taghuti"
+    },
+    {
+      "word_arabic": "فَقَٰتِلُوٓاْ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11274,
+      "word_number_in_surah": 1648,
+      "word_surah": 4,
+      "word_translation": "So fight (against)",
+      "word_transliteration": "faqatilu"
+    },
+    {
+      "word_arabic": "أَوۡلِيَآءَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11275,
+      "word_number_in_surah": 1649,
+      "word_surah": 4,
+      "word_translation": "(the) friends",
+      "word_transliteration": "awliyaa"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنِۖ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11276,
+      "word_number_in_surah": 1650,
+      "word_surah": 4,
+      "word_translation": "(of) the Shaitaan",
+      "word_transliteration": "al-shaytani"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11277,
+      "word_number_in_surah": 1651,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "كَيۡدَ",
+      "word_ayah": 76,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11278,
+      "word_number_in_surah": 1652,
+      "word_surah": 4,
+      "word_translation": "(the) strategy",
+      "word_transliteration": "kayda"
+    },
+    {
+      "word_arabic": "ٱلشَّيۡطَٰنِ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11279,
+      "word_number_in_surah": 1653,
+      "word_surah": 4,
+      "word_translation": "(of) the Shaitaan",
+      "word_transliteration": "al-shaytani"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11280,
+      "word_number_in_surah": 1654,
+      "word_surah": 4,
+      "word_translation": "is",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "ضَعِيفًا",
+      "word_ayah": 76,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11281,
+      "word_number_in_surah": 1655,
+      "word_surah": 4,
+      "word_translation": "weak",
+      "word_transliteration": "da'ifan"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ ءَامَنُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ وَٱلَّذِينَ كَفَرُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓاْ أَوۡلِيَآءَ ٱلشَّيۡطَٰنِۖ إِنَّ كَيۡدَ ٱلشَّيۡطَٰنِ كَانَ ضَعِيفًا",
+  "fullTranslation": "Those who believe fight in the cause of Allah, and those who disbelieve fight in the cause of Taghut. So fight against the allies of Satan. Indeed, the plot of Satan has ever been weak.",
+  "fullTransliteration": "alladhina amanu yuqatiluna fi sabili al-lahi wa-alladhina kafaru yuqatiluna fi sabili al-taghuti faqatilu awliyaa al-shaytani inna kayda al-shaytani kana da'ifan"
+}

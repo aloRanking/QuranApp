@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ayah": 89,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 382,
+    "juz": 3,
+    "manzil": 1,
+    "page": 61,
+    "ruku": 50,
+    "hizbQuarter": 24,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7659,
+      "word_number_in_surah": 1514,
+      "word_surah": 3,
+      "word_translation": "Except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7660,
+      "word_number_in_surah": 1515,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "تَابُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7661,
+      "word_number_in_surah": 1516,
+      "word_surah": 3,
+      "word_translation": "repent",
+      "word_transliteration": "tabu"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7662,
+      "word_number_in_surah": 1517,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7663,
+      "word_number_in_surah": 1518,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7664,
+      "word_number_in_surah": 1519,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "وَأَصۡلَحُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7665,
+      "word_number_in_surah": 1520,
+      "word_surah": 3,
+      "word_translation": "and reform[ed] themselves",
+      "word_transliteration": "wa-aslahu"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7666,
+      "word_number_in_surah": 1521,
+      "word_surah": 3,
+      "word_translation": "Then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7667,
+      "word_number_in_surah": 1522,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7668,
+      "word_number_in_surah": 1523,
+      "word_surah": 3,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٌ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7669,
+      "word_number_in_surah": 1524,
+      "word_surah": 3,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "إِلَّا ٱلَّذِينَ تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "fullTranslation": "Except for those who repent after that and correct themselves. For indeed, Allah is Forgiving and Merciful.",
+  "fullTransliteration": "illa alladhina tabu min ba'di dhalika wa-aslahu fa-inna al-laha ghafurun rahimun"
+}

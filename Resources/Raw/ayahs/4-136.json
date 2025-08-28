@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "ayah": 136,
+    "surah": 4,
+    "words": 28,
+    "numberInQuran": 629,
+    "juz": 5,
+    "manzil": 1,
+    "page": 100,
+    "ruku": 81,
+    "hizbQuarter": 40,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12579,
+      "word_number_in_surah": 2953,
+      "word_surah": 4,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12580,
+      "word_number_in_surah": 2954,
+      "word_surah": 4,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12581,
+      "word_number_in_surah": 2955,
+      "word_surah": 4,
+      "word_translation": "believe[d]",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "ءَامِنُواْ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12582,
+      "word_number_in_surah": 2956,
+      "word_surah": 4,
+      "word_translation": "Believe",
+      "word_transliteration": "aminu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12583,
+      "word_number_in_surah": 2957,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَرَسُولِهِۦ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12584,
+      "word_number_in_surah": 2958,
+      "word_surah": 4,
+      "word_translation": "and His Messenger",
+      "word_transliteration": "warasulihi"
+    },
+    {
+      "word_arabic": "وَٱلۡكِتَٰبِ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12585,
+      "word_number_in_surah": 2959,
+      "word_surah": 4,
+      "word_translation": "and the Book",
+      "word_transliteration": "wal-kitabi"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12586,
+      "word_number_in_surah": 2960,
+      "word_surah": 4,
+      "word_translation": "which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "نَزَّلَ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12587,
+      "word_number_in_surah": 2961,
+      "word_surah": 4,
+      "word_translation": "He revealed",
+      "word_transliteration": "nazzala"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12588,
+      "word_number_in_surah": 2962,
+      "word_surah": 4,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "رَسُولِهِۦ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12589,
+      "word_number_in_surah": 2963,
+      "word_surah": 4,
+      "word_translation": "His Messenger",
+      "word_transliteration": "rasulihi"
+    },
+    {
+      "word_arabic": "وَٱلۡكِتَٰبِ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12590,
+      "word_number_in_surah": 2964,
+      "word_surah": 4,
+      "word_translation": "and the Book",
+      "word_transliteration": "wal-kitabi"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12591,
+      "word_number_in_surah": 2965,
+      "word_surah": 4,
+      "word_translation": "which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12592,
+      "word_number_in_surah": 2966,
+      "word_surah": 4,
+      "word_translation": "He revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 136,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12593,
+      "word_number_in_surah": 2967,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلُۚ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12594,
+      "word_number_in_surah": 2968,
+      "word_surah": 4,
+      "word_translation": "before",
+      "word_transliteration": "qablu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 136,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12595,
+      "word_number_in_surah": 2969,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَكۡفُرۡ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12596,
+      "word_number_in_surah": 2970,
+      "word_surah": 4,
+      "word_translation": "disbelieves",
+      "word_transliteration": "yakfur"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12597,
+      "word_number_in_surah": 2971,
+      "word_surah": 4,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَمَلَٰٓئِكَتِهِۦ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12598,
+      "word_number_in_surah": 2972,
+      "word_surah": 4,
+      "word_translation": "and His Angels",
+      "word_transliteration": "wamalaikatihi"
+    },
+    {
+      "word_arabic": "وَكُتُبِهِۦ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12599,
+      "word_number_in_surah": 2973,
+      "word_surah": 4,
+      "word_translation": "and His Books",
+      "word_transliteration": "wakutubihi"
+    },
+    {
+      "word_arabic": "وَرُسُلِهِۦ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12600,
+      "word_number_in_surah": 2974,
+      "word_surah": 4,
+      "word_translation": "and His Messengers",
+      "word_transliteration": "warusulihi"
+    },
+    {
+      "word_arabic": "وَٱلۡيَوۡمِ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 12601,
+      "word_number_in_surah": 2975,
+      "word_surah": 4,
+      "word_translation": "and the Day",
+      "word_transliteration": "wal-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 12602,
+      "word_number_in_surah": 2976,
+      "word_surah": 4,
+      "word_translation": "the Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 136,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 12603,
+      "word_number_in_surah": 2977,
+      "word_surah": 4,
+      "word_translation": "then surely",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "ضَلَّ",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 12604,
+      "word_number_in_surah": 2978,
+      "word_surah": 4,
+      "word_translation": "he (has) lost (the) way",
+      "word_transliteration": "dalla"
+    },
+    {
+      "word_arabic": "ضَلَٰلَۢا",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 12605,
+      "word_number_in_surah": 2979,
+      "word_surah": 4,
+      "word_translation": "straying",
+      "word_transliteration": "dalalan"
+    },
+    {
+      "word_arabic": "بَعِيدًا",
+      "word_ayah": 136,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 12606,
+      "word_number_in_surah": 2980,
+      "word_surah": 4,
+      "word_translation": "far away",
+      "word_transliteration": "ba'idan"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِي نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِيٓ أَنزَلَ مِن قَبۡلُۚ وَمَن يَكۡفُرۡ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ فَقَدۡ ضَلَّ ضَلَٰلَۢا بَعِيدًا",
+  "fullTranslation": "O you who have believed, believe in Allah and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allah, His angels, His books, His messengers, and the Last Day has certainly gone far astray.",
+  "fullTransliteration": "yaayyuha alladhina amanu aminu bil-lahi warasulihi wal-kitabi alladhi nazzala ala rasulihi wal-kitabi alladhi anzala min qablu waman yakfur bil-lahi wamalaikatihi wakutubihi warusulihi wal-yawmi al-akhiri faqad dalla dalalan ba'idan"
+}

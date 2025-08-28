@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "ayah": 261,
+    "surah": 2,
+    "words": 24,
+    "numberInQuran": 268,
+    "juz": 3,
+    "manzil": 1,
+    "page": 44,
+    "ruku": 37,
+    "hizbQuarter": 17,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّثَلُ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5421,
+      "word_number_in_surah": 5392,
+      "word_surah": 2,
+      "word_translation": "Example",
+      "word_transliteration": "mathalu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5422,
+      "word_number_in_surah": 5393,
+      "word_surah": 2,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يُنفِقُونَ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5423,
+      "word_number_in_surah": 5394,
+      "word_surah": 2,
+      "word_translation": "spend",
+      "word_transliteration": "yunfiquna"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَهُمۡ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5424,
+      "word_number_in_surah": 5395,
+      "word_surah": 2,
+      "word_translation": "their wealth",
+      "word_transliteration": "amwalahum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5425,
+      "word_number_in_surah": 5396,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5426,
+      "word_number_in_surah": 5397,
+      "word_surah": 2,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5427,
+      "word_number_in_surah": 5398,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "كَمَثَلِ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5428,
+      "word_number_in_surah": 5399,
+      "word_surah": 2,
+      "word_translation": "(is) like",
+      "word_transliteration": "kamathali"
+    },
+    {
+      "word_arabic": "حَبَّةٍ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5429,
+      "word_number_in_surah": 5400,
+      "word_surah": 2,
+      "word_translation": "a grain",
+      "word_transliteration": "habbatin"
+    },
+    {
+      "word_arabic": "أَنۢبَتَتۡ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5430,
+      "word_number_in_surah": 5401,
+      "word_surah": 2,
+      "word_translation": "which grows",
+      "word_transliteration": "anbatat"
+    },
+    {
+      "word_arabic": "سَبۡعَ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5431,
+      "word_number_in_surah": 5402,
+      "word_surah": 2,
+      "word_translation": "seven",
+      "word_transliteration": "sab'a"
+    },
+    {
+      "word_arabic": "سَنَابِلَ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5432,
+      "word_number_in_surah": 5403,
+      "word_surah": 2,
+      "word_translation": "ears",
+      "word_transliteration": "sanabila"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5433,
+      "word_number_in_surah": 5404,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5434,
+      "word_number_in_surah": 5405,
+      "word_surah": 2,
+      "word_translation": "each",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "سُنۢبُلَةٖ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5435,
+      "word_number_in_surah": 5406,
+      "word_surah": 2,
+      "word_translation": "ear",
+      "word_transliteration": "sunbulatin"
+    },
+    {
+      "word_arabic": "مِّاْئَةُ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5436,
+      "word_number_in_surah": 5407,
+      "word_surah": 2,
+      "word_translation": "hundred",
+      "word_transliteration": "mi-atu"
+    },
+    {
+      "word_arabic": "حَبَّةٖۗ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5437,
+      "word_number_in_surah": 5408,
+      "word_surah": 2,
+      "word_translation": "grain(s)",
+      "word_transliteration": "habbatin"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5438,
+      "word_number_in_surah": 5409,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُضَٰعِفُ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5439,
+      "word_number_in_surah": 5410,
+      "word_surah": 2,
+      "word_translation": "gives manifold",
+      "word_transliteration": "yuda'ifu"
+    },
+    {
+      "word_arabic": "لِمَن",
+      "word_ayah": 261,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5440,
+      "word_number_in_surah": 5411,
+      "word_surah": 2,
+      "word_translation": "to whom",
+      "word_transliteration": "liman"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 5441,
+      "word_number_in_surah": 5412,
+      "word_surah": 2,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 261,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 5442,
+      "word_number_in_surah": 5413,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "وَٰسِعٌ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 5443,
+      "word_number_in_surah": 5414,
+      "word_surah": 2,
+      "word_translation": "(is) All-Encompassing",
+      "word_transliteration": "wasi'un"
+    },
+    {
+      "word_arabic": "عَلِيمٌ",
+      "word_ayah": 261,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 5444,
+      "word_number_in_surah": 5415,
+      "word_surah": 2,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "alimun"
+    }
+  ],
+  "fullArabic": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتۡ سَبۡعَ سَنَابِلَ فِي كُلِّ سُنۢبُلَةٖ مِّاْئَةُ حَبَّةٖۗ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+  "fullTranslation": "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allah multiplies [His reward] for whom He wills. And Allah is all-Encompassing and Knowing.",
+  "fullTransliteration": "mathalu alladhina yunfiquna amwalahum fi sabili al-lahi kamathali habbatin anbatat sab'a sanabila fi kulli sunbulatin mi-atu habbatin wal-lahu yuda'ifu liman yashau wal-lahu wasi'un alimun"
+}

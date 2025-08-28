@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 6,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 299,
+    "juz": 3,
+    "manzil": 1,
+    "page": 50,
+    "ruku": 42,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6194,
+      "word_number_in_surah": 49,
+      "word_surah": 3,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6195,
+      "word_number_in_surah": 50,
+      "word_surah": 3,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "يُصَوِّرُكُمۡ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6196,
+      "word_number_in_surah": 51,
+      "word_surah": 3,
+      "word_translation": "shapes you",
+      "word_transliteration": "yusawwirukum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6197,
+      "word_number_in_surah": 52,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡحَامِ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6198,
+      "word_number_in_surah": 53,
+      "word_surah": 3,
+      "word_translation": "the wombs",
+      "word_transliteration": "al-arhami"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6199,
+      "word_number_in_surah": 54,
+      "word_surah": 3,
+      "word_translation": "how(ever)",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6200,
+      "word_number_in_surah": 55,
+      "word_surah": 3,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "لَآ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6201,
+      "word_number_in_surah": 56,
+      "word_surah": 3,
+      "word_translation": "(There is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "إِلَٰهَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6202,
+      "word_number_in_surah": 57,
+      "word_surah": 3,
+      "word_translation": "god",
+      "word_transliteration": "ilaha"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6203,
+      "word_number_in_surah": 58,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6204,
+      "word_number_in_surah": 59,
+      "word_surah": 3,
+      "word_translation": "Him",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلۡعَزِيزُ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6205,
+      "word_number_in_surah": 60,
+      "word_surah": 3,
+      "word_translation": "the All-Mighty",
+      "word_transliteration": "al-'azizu"
+    },
+    {
+      "word_arabic": "ٱلۡحَكِيمُ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6206,
+      "word_number_in_surah": 61,
+      "word_surah": 3,
+      "word_translation": "the All-Wise",
+      "word_transliteration": "al-hakimu"
+    }
+  ],
+  "fullArabic": "هُوَ ٱلَّذِي يُصَوِّرُكُمۡ فِي ٱلۡأَرۡحَامِ كَيۡفَ يَشَآءُۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "fullTranslation": "It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise.",
+  "fullTransliteration": "huwa alladhi yusawwirukum fi al-arhami kayfa yashau la ilaha illa huwa al-'azizu al-hakimu"
+}

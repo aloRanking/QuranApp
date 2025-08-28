@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "ayah": 38,
+    "surah": 3,
+    "words": 15,
+    "numberInQuran": 331,
+    "juz": 3,
+    "manzil": 1,
+    "page": 55,
+    "ruku": 45,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "هُنَالِكَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6803,
+      "word_number_in_surah": 658,
+      "word_surah": 3,
+      "word_translation": "There only",
+      "word_transliteration": "hunalika"
+    },
+    {
+      "word_arabic": "دَعَا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6804,
+      "word_number_in_surah": 659,
+      "word_surah": 3,
+      "word_translation": "invoked",
+      "word_transliteration": "da'a"
+    },
+    {
+      "word_arabic": "زَكَرِيَّا",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6805,
+      "word_number_in_surah": 660,
+      "word_surah": 3,
+      "word_translation": "Zakariya",
+      "word_transliteration": "zakariyya"
+    },
+    {
+      "word_arabic": "رَبَّهُۥۖ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6806,
+      "word_number_in_surah": 661,
+      "word_surah": 3,
+      "word_translation": "his Lord",
+      "word_transliteration": "rabbahu"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6807,
+      "word_number_in_surah": 662,
+      "word_surah": 3,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "رَبِّ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6808,
+      "word_number_in_surah": 663,
+      "word_surah": 3,
+      "word_translation": "My Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "هَبۡ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6809,
+      "word_number_in_surah": 664,
+      "word_surah": 3,
+      "word_translation": "grant",
+      "word_transliteration": "hab"
+    },
+    {
+      "word_arabic": "لِي",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6810,
+      "word_number_in_surah": 665,
+      "word_surah": 3,
+      "word_translation": "[for] me",
+      "word_transliteration": "li"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 38,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6811,
+      "word_number_in_surah": 666,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "لَّدُنكَ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6812,
+      "word_number_in_surah": 667,
+      "word_surah": 3,
+      "word_translation": "Yourself",
+      "word_transliteration": "ladunka"
+    },
+    {
+      "word_arabic": "ذُرِّيَّةٗ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6813,
+      "word_number_in_surah": 668,
+      "word_surah": 3,
+      "word_translation": "offspring",
+      "word_transliteration": "dhurriyyatan"
+    },
+    {
+      "word_arabic": "طَيِّبَةًۖ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6814,
+      "word_number_in_surah": 669,
+      "word_surah": 3,
+      "word_translation": "pure",
+      "word_transliteration": "tayyibatan"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 38,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6815,
+      "word_number_in_surah": 670,
+      "word_surah": 3,
+      "word_translation": "Indeed, You",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "سَمِيعُ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6816,
+      "word_number_in_surah": 671,
+      "word_surah": 3,
+      "word_translation": "(are) All-Hearer",
+      "word_transliteration": "sami'u"
+    },
+    {
+      "word_arabic": "ٱلدُّعَآءِ",
+      "word_ayah": 38,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6817,
+      "word_number_in_surah": 672,
+      "word_surah": 3,
+      "word_translation": "(of) the prayer",
+      "word_transliteration": "al-du'ai"
+    }
+  ],
+  "fullArabic": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥۖ قَالَ رَبِّ هَبۡ لِي مِن لَّدُنكَ ذُرِّيَّةٗ طَيِّبَةًۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ",
+  "fullTranslation": "At that, Zechariah called upon his Lord, saying, \"My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.\"",
+  "fullTransliteration": "hunalika da'a zakariyya rabbahu qala rabbi hab li min ladunka dhurriyyatan tayyibatan innaka sami'u al-du'ai"
+}

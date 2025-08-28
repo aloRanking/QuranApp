@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "ayah": 11,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 304,
+    "juz": 3,
+    "manzil": 1,
+    "page": 51,
+    "ruku": 43,
+    "hizbQuarter": 20,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "كَدَأۡبِ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6297,
+      "word_number_in_surah": 152,
+      "word_surah": 3,
+      "word_translation": "Like behavior",
+      "word_transliteration": "kadabi"
+    },
+    {
+      "word_arabic": "ءَالِ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6298,
+      "word_number_in_surah": 153,
+      "word_surah": 3,
+      "word_translation": "(of the) people",
+      "word_transliteration": "ali"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6299,
+      "word_number_in_surah": 154,
+      "word_surah": 3,
+      "word_translation": "(of) Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6300,
+      "word_number_in_surah": 155,
+      "word_surah": 3,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 11,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6301,
+      "word_number_in_surah": 156,
+      "word_surah": 3,
+      "word_translation": "(were) from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِهِمۡۚ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6302,
+      "word_number_in_surah": 157,
+      "word_surah": 3,
+      "word_translation": "before them",
+      "word_transliteration": "qablihim"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6303,
+      "word_number_in_surah": 158,
+      "word_surah": 3,
+      "word_translation": "They denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6304,
+      "word_number_in_surah": 159,
+      "word_surah": 3,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "فَأَخَذَهُمُ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6305,
+      "word_number_in_surah": 160,
+      "word_surah": 3,
+      "word_translation": "so seized them",
+      "word_transliteration": "fa-akhadhahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6306,
+      "word_number_in_surah": 161,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِذُنُوبِهِمۡۗ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6307,
+      "word_number_in_surah": 162,
+      "word_surah": 3,
+      "word_translation": "for their sins",
+      "word_transliteration": "bidhunubihim"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6308,
+      "word_number_in_surah": 163,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "شَدِيدُ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6309,
+      "word_number_in_surah": 164,
+      "word_surah": 3,
+      "word_translation": "(is) severe",
+      "word_transliteration": "shadidu"
+    },
+    {
+      "word_arabic": "ٱلۡعِقَابِ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6310,
+      "word_number_in_surah": 165,
+      "word_surah": 3,
+      "word_translation": "(in) [the] punishment",
+      "word_transliteration": "al-'iqabi"
+    }
+  ],
+  "fullArabic": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَّبُواْ بِ‍َٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۗ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+  "fullTranslation": "[Theirs is] like the custom of the people of Pharaoh and those before them. They denied Our signs, so Allah seized them for their sins. And Allah is severe in penalty.",
+  "fullTransliteration": "kadabi ali fir'awna wa-alladhina min qablihim kadhabu biayatina fa-akhadhahumu al-lahu bidhunubihim wal-lahu shadidu al-'iqabi"
+}

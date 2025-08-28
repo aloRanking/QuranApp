@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "ayah": 108,
+    "surah": 4,
+    "words": 21,
+    "numberInQuran": 601,
+    "juz": 5,
+    "manzil": 1,
+    "page": 96,
+    "ruku": 77,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَسۡتَخۡفُونَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12056,
+      "word_number_in_surah": 2430,
+      "word_surah": 4,
+      "word_translation": "They seek to hide",
+      "word_transliteration": "yastakhfuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12057,
+      "word_number_in_surah": 2431,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12058,
+      "word_number_in_surah": 2432,
+      "word_surah": 4,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12059,
+      "word_number_in_surah": 2433,
+      "word_surah": 4,
+      "word_translation": "but not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَسۡتَخۡفُونَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12060,
+      "word_number_in_surah": 2434,
+      "word_surah": 4,
+      "word_translation": "(can) they hide",
+      "word_transliteration": "yastakhfuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12061,
+      "word_number_in_surah": 2435,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12062,
+      "word_number_in_surah": 2436,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12063,
+      "word_number_in_surah": 2437,
+      "word_surah": 4,
+      "word_translation": "and He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "مَعَهُمۡ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12064,
+      "word_number_in_surah": 2438,
+      "word_surah": 4,
+      "word_translation": "(is) with them",
+      "word_transliteration": "ma'ahum"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12065,
+      "word_number_in_surah": 2439,
+      "word_surah": 4,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "يُبَيِّتُونَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12066,
+      "word_number_in_surah": 2440,
+      "word_surah": 4,
+      "word_translation": "they plot by night",
+      "word_transliteration": "yubayyituna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12067,
+      "word_number_in_surah": 2441,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12068,
+      "word_number_in_surah": 2442,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَرۡضَىٰ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12069,
+      "word_number_in_surah": 2443,
+      "word_surah": 4,
+      "word_translation": "(does) he approve",
+      "word_transliteration": "yarda"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 108,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12070,
+      "word_number_in_surah": 2444,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡلِۚ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12071,
+      "word_number_in_surah": 2445,
+      "word_surah": 4,
+      "word_translation": "the word",
+      "word_transliteration": "al-qawli"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12072,
+      "word_number_in_surah": 2446,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12073,
+      "word_number_in_surah": 2447,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12074,
+      "word_number_in_surah": 2448,
+      "word_surah": 4,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12075,
+      "word_number_in_surah": 2449,
+      "word_surah": 4,
+      "word_translation": "they do",
+      "word_transliteration": "ya'maluna"
+    },
+    {
+      "word_arabic": "مُحِيطًا",
+      "word_ayah": 108,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12076,
+      "word_number_in_surah": 2450,
+      "word_surah": 4,
+      "word_translation": "All-Encompassing",
+      "word_transliteration": "muhitan"
+    }
+  ],
+  "fullArabic": "يَسۡتَخۡفُونَ مِنَ ٱلنَّاسِ وَلَا يَسۡتَخۡفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمۡ إِذۡ يُبَيِّتُونَ مَا لَا يَرۡضَىٰ مِنَ ٱلۡقَوۡلِۚ وَكَانَ ٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطًا",
+  "fullTranslation": "They conceal [their evil intentions and deeds] from the people, but they cannot conceal [them] from Allah, and He is with them [in His knowledge] when they spend the night in such as He does not accept of speech. And ever is Allah, of what they do, encompassing.",
+  "fullTransliteration": "yastakhfuna mina al-nasi wala yastakhfuna mina al-lahi wahuwa ma'ahum idh yubayyituna ma la yarda mina al-qawli wakana al-lahu bima ya'maluna muhitan"
+}

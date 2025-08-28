@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "ayah": 82,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 89,
+    "juz": 1,
+    "manzil": 1,
+    "page": 12,
+    "ruku": 10,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1319,
+      "word_number_in_surah": 1290,
+      "word_surah": 2,
+      "word_translation": "And those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1320,
+      "word_number_in_surah": 1291,
+      "word_surah": 2,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَعَمِلُواْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1321,
+      "word_number_in_surah": 1292,
+      "word_surah": 2,
+      "word_translation": "and did",
+      "word_transliteration": "wa'amilu"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحَٰتِ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1322,
+      "word_number_in_surah": 1293,
+      "word_surah": 2,
+      "word_translation": "righteous deeds",
+      "word_transliteration": "al-salihati"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1323,
+      "word_number_in_surah": 1294,
+      "word_surah": 2,
+      "word_translation": "those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبُ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1324,
+      "word_number_in_surah": 1295,
+      "word_surah": 2,
+      "word_translation": "(are the) companions",
+      "word_transliteration": "ashabu"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةِۖ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1325,
+      "word_number_in_surah": 1296,
+      "word_surah": 2,
+      "word_translation": "(of) Paradise",
+      "word_transliteration": "al-janati"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1326,
+      "word_number_in_surah": 1297,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1327,
+      "word_number_in_surah": 1298,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "خَٰلِدُونَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1328,
+      "word_number_in_surah": 1299,
+      "word_surah": 2,
+      "word_translation": "(will) abide forever",
+      "word_transliteration": "khaliduna"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "fullTranslation": "But they who believe and do righteous deeds - those are the companions of Paradise; they will abide therein eternally.",
+  "fullTransliteration": "wa-alladhina amanu wa'amilu al-salihati ulaika ashabu al-janati hum fiha khaliduna"
+}

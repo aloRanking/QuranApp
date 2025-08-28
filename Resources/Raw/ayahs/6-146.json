@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "ayah": 146,
+    "surah": 6,
+    "words": 28,
+    "numberInQuran": 935,
+    "juz": 8,
+    "manzil": 2,
+    "page": 147,
+    "ruku": 119,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَعَلَى",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18792,
+      "word_number_in_surah": 2615,
+      "word_surah": 6,
+      "word_translation": "And to",
+      "word_transliteration": "wa'ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18793,
+      "word_number_in_surah": 2616,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "هَادُواْ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18794,
+      "word_number_in_surah": 2617,
+      "word_surah": 6,
+      "word_translation": "are Jews",
+      "word_transliteration": "hadu"
+    },
+    {
+      "word_arabic": "حَرَّمۡنَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18795,
+      "word_number_in_surah": 2618,
+      "word_surah": 6,
+      "word_translation": "We forbade",
+      "word_transliteration": "harramna"
+    },
+    {
+      "word_arabic": "كُلَّ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18796,
+      "word_number_in_surah": 2619,
+      "word_surah": 6,
+      "word_translation": "every",
+      "word_transliteration": "kulla"
+    },
+    {
+      "word_arabic": "ذِي",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18797,
+      "word_number_in_surah": 2620,
+      "word_surah": 6,
+      "word_translation": "(animal) with",
+      "word_transliteration": "dhi"
+    },
+    {
+      "word_arabic": "ظُفُرٖۖ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18798,
+      "word_number_in_surah": 2621,
+      "word_surah": 6,
+      "word_translation": "claws",
+      "word_transliteration": "zufurin"
+    },
+    {
+      "word_arabic": "وَمِنَ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18799,
+      "word_number_in_surah": 2622,
+      "word_surah": 6,
+      "word_translation": "and of",
+      "word_transliteration": "wamina"
+    },
+    {
+      "word_arabic": "ٱلۡبَقَرِ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18800,
+      "word_number_in_surah": 2623,
+      "word_surah": 6,
+      "word_translation": "the cows",
+      "word_transliteration": "al-baqari"
+    },
+    {
+      "word_arabic": "وَٱلۡغَنَمِ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18801,
+      "word_number_in_surah": 2624,
+      "word_surah": 6,
+      "word_translation": "and the sheep",
+      "word_transliteration": "wal-ghanami"
+    },
+    {
+      "word_arabic": "حَرَّمۡنَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18802,
+      "word_number_in_surah": 2625,
+      "word_surah": 6,
+      "word_translation": "We forbade",
+      "word_transliteration": "harramna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18803,
+      "word_number_in_surah": 2626,
+      "word_surah": 6,
+      "word_translation": "to them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "شُحُومَهُمَآ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18804,
+      "word_number_in_surah": 2627,
+      "word_surah": 6,
+      "word_translation": "their fat",
+      "word_transliteration": "shuhumahuma"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18805,
+      "word_number_in_surah": 2628,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18806,
+      "word_number_in_surah": 2629,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "حَمَلَتۡ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18807,
+      "word_number_in_surah": 2630,
+      "word_surah": 6,
+      "word_translation": "carried",
+      "word_transliteration": "hamalat"
+    },
+    {
+      "word_arabic": "ظُهُورُهُمَآ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18808,
+      "word_number_in_surah": 2631,
+      "word_surah": 6,
+      "word_translation": "their backs",
+      "word_transliteration": "zuhuruhuma"
+    },
+    {
+      "word_arabic": "أَوِ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18809,
+      "word_number_in_surah": 2632,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "awi"
+    },
+    {
+      "word_arabic": "ٱلۡحَوَايَآ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18810,
+      "word_number_in_surah": 2633,
+      "word_surah": 6,
+      "word_translation": "the entrails",
+      "word_transliteration": "al-hawaya"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18811,
+      "word_number_in_surah": 2634,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18812,
+      "word_number_in_surah": 2635,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "ٱخۡتَلَطَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18813,
+      "word_number_in_surah": 2636,
+      "word_surah": 6,
+      "word_translation": "(is) joined",
+      "word_transliteration": "ikh'talata"
+    },
+    {
+      "word_arabic": "بِعَظۡمٖۚ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18814,
+      "word_number_in_surah": 2637,
+      "word_surah": 6,
+      "word_translation": "with the bone",
+      "word_transliteration": "bi'azmin"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18815,
+      "word_number_in_surah": 2638,
+      "word_surah": 6,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "جَزَيۡنَٰهُم",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18816,
+      "word_number_in_surah": 2639,
+      "word_surah": 6,
+      "word_translation": "(is) their recompense",
+      "word_transliteration": "jazaynahum"
+    },
+    {
+      "word_arabic": "بِبَغۡيِهِمۡۖ",
+      "word_ayah": 146,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18817,
+      "word_number_in_surah": 2640,
+      "word_surah": 6,
+      "word_translation": "for their rebellion",
+      "word_transliteration": "bibaghyihim"
+    },
+    {
+      "word_arabic": "وَإِنَّا",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 18818,
+      "word_number_in_surah": 2641,
+      "word_surah": 6,
+      "word_translation": "And indeed, We",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "لَصَٰدِقُونَ",
+      "word_ayah": 146,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 18819,
+      "word_number_in_surah": 2642,
+      "word_surah": 6,
+      "word_translation": "[surely] are truthful",
+      "word_transliteration": "lasadiquna"
+    }
+  ],
+  "fullArabic": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا كُلَّ ذِي ظُفُرٖۖ وَمِنَ ٱلۡبَقَرِ وَٱلۡغَنَمِ حَرَّمۡنَا عَلَيۡهِمۡ شُحُومَهُمَآ إِلَّا مَا حَمَلَتۡ ظُهُورُهُمَآ أَوِ ٱلۡحَوَايَآ أَوۡ مَا ٱخۡتَلَطَ بِعَظۡمٖۚ ذَٰلِكَ جَزَيۡنَٰهُم بِبَغۡيِهِمۡۖ وَإِنَّا لَصَٰدِقُونَ",
+  "fullTranslation": "And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their injustice. And indeed, We are truthful.",
+  "fullTransliteration": "wa'ala alladhina hadu harramna kulla dhi zufurin wamina al-baqari wal-ghanami harramna alayhim shuhumahuma illa ma hamalat zuhuruhuma awi al-hawaya aw ma ikh'talata bi'azmin dhalika jazaynahum bibaghyihim wa-inna lasadiquna"
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 51,
+    "surah": 3,
+    "words": 8,
+    "numberInQuran": 344,
+    "juz": 3,
+    "manzil": 1,
+    "page": 56,
+    "ruku": 46,
+    "hizbQuarter": 22,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7033,
+      "word_number_in_surah": 888,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7034,
+      "word_number_in_surah": 889,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7035,
+      "word_number_in_surah": 890,
+      "word_surah": 3,
+      "word_translation": "(is) my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "وَرَبُّكُمۡ",
+      "word_ayah": 51,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7036,
+      "word_number_in_surah": 891,
+      "word_surah": 3,
+      "word_translation": "and your Lord",
+      "word_transliteration": "warabbukum"
+    },
+    {
+      "word_arabic": "فَٱعۡبُدُوهُۚ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7037,
+      "word_number_in_surah": 892,
+      "word_surah": 3,
+      "word_translation": "so worship Him",
+      "word_transliteration": "fa-u'buduhu"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7038,
+      "word_number_in_surah": 893,
+      "word_surah": 3,
+      "word_translation": "This",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "صِرَٰطٞ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7039,
+      "word_number_in_surah": 894,
+      "word_surah": 3,
+      "word_translation": "(is) the path",
+      "word_transliteration": "siratun"
+    },
+    {
+      "word_arabic": "مُّسۡتَقِيمٞ",
+      "word_ayah": 51,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7040,
+      "word_number_in_surah": 895,
+      "word_surah": 3,
+      "word_translation": "straight",
+      "word_transliteration": "mus'taqimun"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱللَّهَ رَبِّي وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+  "fullTranslation": "Indeed, Allah is my Lord and your Lord, so worship Him. That is the straight path.\"",
+  "fullTransliteration": "inna al-laha rabbi warabbukum fa-u'buduhu hadha siratun mus'taqimun"
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ayah": 75,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 864,
+    "juz": 7,
+    "manzil": 2,
+    "page": 137,
+    "ruku": 110,
+    "hizbQuarter": 55,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَكَذَٰلِكَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17436,
+      "word_number_in_surah": 1259,
+      "word_surah": 6,
+      "word_translation": "And thus",
+      "word_transliteration": "wakadhalika"
+    },
+    {
+      "word_arabic": "نُرِيٓ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17437,
+      "word_number_in_surah": 1260,
+      "word_surah": 6,
+      "word_translation": "We show(ed)",
+      "word_transliteration": "nuri"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِيمَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17438,
+      "word_number_in_surah": 1261,
+      "word_surah": 6,
+      "word_translation": "Ibrahim",
+      "word_transliteration": "ib'rahima"
+    },
+    {
+      "word_arabic": "مَلَكُوتَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17439,
+      "word_number_in_surah": 1262,
+      "word_surah": 6,
+      "word_translation": "the kingdom",
+      "word_transliteration": "malakuta"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17440,
+      "word_number_in_surah": 1263,
+      "word_surah": 6,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 17441,
+      "word_number_in_surah": 1264,
+      "word_surah": 6,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَلِيَكُونَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 17442,
+      "word_number_in_surah": 1265,
+      "word_surah": 6,
+      "word_translation": "so that he would be",
+      "word_transliteration": "waliyakuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 75,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 17443,
+      "word_number_in_surah": 1266,
+      "word_surah": 6,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُوقِنِينَ",
+      "word_ayah": 75,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 17444,
+      "word_number_in_surah": 1267,
+      "word_surah": 6,
+      "word_translation": "the ones who are certain",
+      "word_transliteration": "al-muqinina"
+    }
+  ],
+  "fullArabic": "وَكَذَٰلِكَ نُرِيٓ إِبۡرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلِيَكُونَ مِنَ ٱلۡمُوقِنِينَ",
+  "fullTranslation": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]",
+  "fullTransliteration": "wakadhalika nuri ib'rahima malakuta al-samawati wal-ardi waliyakuna mina al-muqinina"
+}

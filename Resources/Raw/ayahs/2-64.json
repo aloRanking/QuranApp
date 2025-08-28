@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 64,
+    "surah": 2,
+    "words": 13,
+    "numberInQuran": 71,
+    "juz": 1,
+    "manzil": 1,
+    "page": 10,
+    "ruku": 9,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1003,
+      "word_number_in_surah": 974,
+      "word_surah": 2,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "تَوَلَّيۡتُم",
+      "word_ayah": 64,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1004,
+      "word_number_in_surah": 975,
+      "word_surah": 2,
+      "word_translation": "you turned away",
+      "word_transliteration": "tawallaytum"
+    },
+    {
+      "word_arabic": "مِّنۢ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1005,
+      "word_number_in_surah": 976,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1006,
+      "word_number_in_surah": 977,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "ذَٰلِكَۖ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1007,
+      "word_number_in_surah": 978,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "فَلَوۡلَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1008,
+      "word_number_in_surah": 979,
+      "word_surah": 2,
+      "word_translation": "So if not",
+      "word_transliteration": "falawla"
+    },
+    {
+      "word_arabic": "فَضۡلُ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1009,
+      "word_number_in_surah": 980,
+      "word_surah": 2,
+      "word_translation": "(for the) Grace",
+      "word_transliteration": "fadlu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1010,
+      "word_number_in_surah": 981,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1011,
+      "word_number_in_surah": 982,
+      "word_surah": 2,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَرَحۡمَتُهُۥ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1012,
+      "word_number_in_surah": 983,
+      "word_surah": 2,
+      "word_translation": "and His Mercy",
+      "word_transliteration": "warahmatuhu"
+    },
+    {
+      "word_arabic": "لَكُنتُم",
+      "word_ayah": 64,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1013,
+      "word_number_in_surah": 984,
+      "word_surah": 2,
+      "word_translation": "surely you would have been",
+      "word_transliteration": "lakuntum"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1014,
+      "word_number_in_surah": 985,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰسِرِينَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1015,
+      "word_number_in_surah": 986,
+      "word_surah": 2,
+      "word_translation": "the losers",
+      "word_transliteration": "al-khasirina"
+    }
+  ],
+  "fullArabic": "ثُمَّ تَوَلَّيۡتُم مِّنۢ بَعۡدِ ذَٰلِكَۖ فَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ لَكُنتُم مِّنَ ٱلۡخَٰسِرِينَ",
+  "fullTranslation": "Then you turned away after that. And if not for the favor of Allah upon you and His mercy, you would have been among the losers.",
+  "fullTransliteration": "thumma tawallaytum min ba'di dhalika falawla fadlu al-lahi alaykum warahmatuhu lakuntum mina al-khasirina"
+}

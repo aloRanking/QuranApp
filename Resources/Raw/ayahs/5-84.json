@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "ayah": 84,
+    "surah": 5,
+    "words": 16,
+    "numberInQuran": 753,
+    "juz": 7,
+    "manzil": 2,
+    "page": 122,
+    "ruku": 96,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15358,
+      "word_number_in_surah": 1985,
+      "word_surah": 5,
+      "word_translation": "And what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15359,
+      "word_number_in_surah": 1986,
+      "word_surah": 5,
+      "word_translation": "for us (that)",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15360,
+      "word_number_in_surah": 1987,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "نُؤۡمِنُ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15361,
+      "word_number_in_surah": 1988,
+      "word_surah": 5,
+      "word_translation": "we believe",
+      "word_transliteration": "nu'minu"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15362,
+      "word_number_in_surah": 1989,
+      "word_surah": 5,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15363,
+      "word_number_in_surah": 1990,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "جَآءَنَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15364,
+      "word_number_in_surah": 1991,
+      "word_surah": 5,
+      "word_translation": "came (to) us",
+      "word_transliteration": "jaana"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 84,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15365,
+      "word_number_in_surah": 1992,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡحَقِّ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15366,
+      "word_number_in_surah": 1993,
+      "word_surah": 5,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqi"
+    },
+    {
+      "word_arabic": "وَنَطۡمَعُ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15367,
+      "word_number_in_surah": 1994,
+      "word_surah": 5,
+      "word_translation": "And we hope",
+      "word_transliteration": "wanatma'u"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 84,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15368,
+      "word_number_in_surah": 1995,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُدۡخِلَنَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15369,
+      "word_number_in_surah": 1996,
+      "word_surah": 5,
+      "word_translation": "will admit us",
+      "word_transliteration": "yud'khilana"
+    },
+    {
+      "word_arabic": "رَبُّنَا",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15370,
+      "word_number_in_surah": 1997,
+      "word_surah": 5,
+      "word_translation": "our Lord",
+      "word_transliteration": "rabbuna"
+    },
+    {
+      "word_arabic": "مَعَ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15371,
+      "word_number_in_surah": 1998,
+      "word_surah": 5,
+      "word_translation": "with",
+      "word_transliteration": "ma'a"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15372,
+      "word_number_in_surah": 1999,
+      "word_surah": 5,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلصَّٰلِحِينَ",
+      "word_ayah": 84,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15373,
+      "word_number_in_surah": 2000,
+      "word_surah": 5,
+      "word_translation": "the righteous",
+      "word_transliteration": "al-salihina"
+    }
+  ],
+  "fullArabic": "وَمَا لَنَا لَا نُؤۡمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلۡحَقِّ وَنَطۡمَعُ أَن يُدۡخِلَنَا رَبُّنَا مَعَ ٱلۡقَوۡمِ ٱلصَّٰلِحِينَ",
+  "fullTranslation": "And why should we not believe in Allah and what has come to us of the truth? And we aspire that our Lord will admit us [to Paradise] with the righteous people.\"",
+  "fullTransliteration": "wama lana la nu'minu bil-lahi wama jaana mina al-haqi wanatma'u an yud'khilana rabbuna ma'a al-qawmi al-salihina"
+}

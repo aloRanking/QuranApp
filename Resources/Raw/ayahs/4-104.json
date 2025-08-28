@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "ayah": 104,
+    "surah": 4,
+    "words": 22,
+    "numberInQuran": 597,
+    "juz": 5,
+    "manzil": 1,
+    "page": 95,
+    "ruku": 76,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11998,
+      "word_number_in_surah": 2372,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَهِنُواْ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11999,
+      "word_number_in_surah": 2373,
+      "word_surah": 4,
+      "word_translation": "be weak",
+      "word_transliteration": "tahinu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12000,
+      "word_number_in_surah": 2374,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱبۡتِغَآءِ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12001,
+      "word_number_in_surah": 2375,
+      "word_surah": 4,
+      "word_translation": "pursuit",
+      "word_transliteration": "ib'tighai"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِۖ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12002,
+      "word_number_in_surah": 2376,
+      "word_surah": 4,
+      "word_translation": "(of) the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 104,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12003,
+      "word_number_in_surah": 2377,
+      "word_surah": 4,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12004,
+      "word_number_in_surah": 2378,
+      "word_surah": 4,
+      "word_translation": "you are",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "تَأۡلَمُونَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12005,
+      "word_number_in_surah": 2379,
+      "word_surah": 4,
+      "word_translation": "suffering",
+      "word_transliteration": "talamuna"
+    },
+    {
+      "word_arabic": "فَإِنَّهُمۡ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12006,
+      "word_number_in_surah": 2380,
+      "word_surah": 4,
+      "word_translation": "then indeed, they",
+      "word_transliteration": "fa-innahum"
+    },
+    {
+      "word_arabic": "يَأۡلَمُونَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12007,
+      "word_number_in_surah": 2381,
+      "word_surah": 4,
+      "word_translation": "are (also) suffering",
+      "word_transliteration": "yalamuna"
+    },
+    {
+      "word_arabic": "كَمَا",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12008,
+      "word_number_in_surah": 2382,
+      "word_surah": 4,
+      "word_translation": "like what",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "تَأۡلَمُونَۖ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12009,
+      "word_number_in_surah": 2383,
+      "word_surah": 4,
+      "word_translation": "you are suffering",
+      "word_transliteration": "talamuna"
+    },
+    {
+      "word_arabic": "وَتَرۡجُونَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12010,
+      "word_number_in_surah": 2384,
+      "word_surah": 4,
+      "word_translation": "while you (have) hope",
+      "word_transliteration": "watarjuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 104,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12011,
+      "word_number_in_surah": 2385,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12012,
+      "word_number_in_surah": 2386,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 12013,
+      "word_number_in_surah": 2387,
+      "word_surah": 4,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 12014,
+      "word_number_in_surah": 2388,
+      "word_surah": 4,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَرۡجُونَۗ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 12015,
+      "word_number_in_surah": 2389,
+      "word_surah": 4,
+      "word_translation": "they hope",
+      "word_transliteration": "yarjuna"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 12016,
+      "word_number_in_surah": 2390,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 12017,
+      "word_number_in_surah": 2391,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلِيمًا",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 12018,
+      "word_number_in_surah": 2392,
+      "word_surah": 4,
+      "word_translation": "All-Knowing",
+      "word_transliteration": "aliman"
+    },
+    {
+      "word_arabic": "حَكِيمًا",
+      "word_ayah": 104,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 12019,
+      "word_number_in_surah": 2393,
+      "word_surah": 4,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakiman"
+    }
+  ],
+  "fullArabic": "وَلَا تَهِنُواْ فِي ٱبۡتِغَآءِ ٱلۡقَوۡمِۖ إِن تَكُونُواْ تَأۡلَمُونَ فَإِنَّهُمۡ يَأۡلَمُونَ كَمَا تَأۡلَمُونَۖ وَتَرۡجُونَ مِنَ ٱللَّهِ مَا لَا يَرۡجُونَۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+  "fullTranslation": "And do not weaken in pursuit of the enemy. If you should be suffering - so are they suffering as you are suffering, but you expect from Allah that which they expect not. And Allah is ever Knowing and Wise.",
+  "fullTransliteration": "wala tahinu fi ib'tighai al-qawmi in takunu talamuna fa-innahum yalamuna kama talamuna watarjuna mina al-lahi ma la yarjuna wakana al-lahu aliman hakiman"
+}

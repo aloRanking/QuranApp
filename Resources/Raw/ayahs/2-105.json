@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "ayah": 105,
+    "surah": 2,
+    "words": 25,
+    "numberInQuran": 112,
+    "juz": 1,
+    "manzil": 1,
+    "page": 16,
+    "ruku": 14,
+    "hizbQuarter": 6,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1815,
+      "word_number_in_surah": 1786,
+      "word_surah": 2,
+      "word_translation": "(Do) not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَوَدُّ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1816,
+      "word_number_in_surah": 1787,
+      "word_surah": 2,
+      "word_translation": "like",
+      "word_transliteration": "yawaddu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1817,
+      "word_number_in_surah": 1788,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1818,
+      "word_number_in_surah": 1789,
+      "word_surah": 2,
+      "word_translation": "disbelieve",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1819,
+      "word_number_in_surah": 1790,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1820,
+      "word_number_in_surah": 1791,
+      "word_surah": 2,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahli"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1821,
+      "word_number_in_surah": 1792,
+      "word_surah": 2,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1822,
+      "word_number_in_surah": 1793,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكِينَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1823,
+      "word_number_in_surah": 1794,
+      "word_surah": 2,
+      "word_translation": "those who associate partners (with Allah)",
+      "word_transliteration": "al-mush'rikina"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 105,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1824,
+      "word_number_in_surah": 1795,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُنَزَّلَ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1825,
+      "word_number_in_surah": 1796,
+      "word_surah": 2,
+      "word_translation": "(there should) be sent down",
+      "word_transliteration": "yunazzala"
+    },
+    {
+      "word_arabic": "عَلَيۡكُم",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1826,
+      "word_number_in_surah": 1797,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1827,
+      "word_number_in_surah": 1798,
+      "word_surah": 2,
+      "word_translation": "any",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1828,
+      "word_number_in_surah": 1799,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 105,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1829,
+      "word_number_in_surah": 1800,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡۚ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1830,
+      "word_number_in_surah": 1801,
+      "word_surah": 2,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1831,
+      "word_number_in_surah": 1802,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَخۡتَصُّ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1832,
+      "word_number_in_surah": 1803,
+      "word_surah": 2,
+      "word_translation": "chooses",
+      "word_transliteration": "yakhtassu"
+    },
+    {
+      "word_arabic": "بِرَحۡمَتِهِۦ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1833,
+      "word_number_in_surah": 1804,
+      "word_surah": 2,
+      "word_translation": "for His Mercy",
+      "word_transliteration": "birahmatihi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 105,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1834,
+      "word_number_in_surah": 1805,
+      "word_surah": 2,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1835,
+      "word_number_in_surah": 1806,
+      "word_surah": 2,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1836,
+      "word_number_in_surah": 1807,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "ذُو",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1837,
+      "word_number_in_surah": 1808,
+      "word_surah": 2,
+      "word_translation": "(is the) Possessor",
+      "word_transliteration": "dhu"
+    },
+    {
+      "word_arabic": "ٱلۡفَضۡلِ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1838,
+      "word_number_in_surah": 1809,
+      "word_surah": 2,
+      "word_translation": "(of) [the] Bounty",
+      "word_transliteration": "al-fadli"
+    },
+    {
+      "word_arabic": "ٱلۡعَظِيمِ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 1839,
+      "word_number_in_surah": 1810,
+      "word_surah": 2,
+      "word_translation": "[the] Great",
+      "word_transliteration": "al-'azimi"
+    }
+  ],
+  "fullArabic": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَلَا ٱلۡمُشۡرِكِينَ أَن يُنَزَّلَ عَلَيۡكُم مِّنۡ خَيۡرٖ مِّن رَّبِّكُمۡۚ وَٱللَّهُ يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+  "fullTranslation": "Neither those who disbelieve from the People of the Scripture nor the polytheists wish that any good should be sent down to you from your Lord. But Allah selects for His mercy whom He wills, and Allah is the possessor of great bounty.",
+  "fullTransliteration": "ma yawaddu alladhina kafaru min ahli al-kitabi wala al-mush'rikina an yunazzala alaykum min khayrin min rabbikum wal-lahu yakhtassu birahmatihi man yashau wal-lahu dhu al-fadli al-'azimi"
+}

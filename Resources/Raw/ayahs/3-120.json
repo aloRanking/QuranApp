@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "ayah": 120,
+    "surah": 3,
+    "words": 21,
+    "numberInQuran": 413,
+    "juz": 4,
+    "manzil": 1,
+    "page": 65,
+    "ruku": 53,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 120,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8194,
+      "word_number_in_surah": 2049,
+      "word_surah": 3,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تَمۡسَسۡكُمۡ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8195,
+      "word_number_in_surah": 2050,
+      "word_surah": 3,
+      "word_translation": "touches you",
+      "word_transliteration": "tamsaskum"
+    },
+    {
+      "word_arabic": "حَسَنَةٞ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8196,
+      "word_number_in_surah": 2051,
+      "word_surah": 3,
+      "word_translation": "a good",
+      "word_transliteration": "hasanatun"
+    },
+    {
+      "word_arabic": "تَسُؤۡهُمۡ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8197,
+      "word_number_in_surah": 2052,
+      "word_surah": 3,
+      "word_translation": "it grieves them",
+      "word_transliteration": "tasu'hum"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 120,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8198,
+      "word_number_in_surah": 2053,
+      "word_surah": 3,
+      "word_translation": "and if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تُصِبۡكُمۡ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8199,
+      "word_number_in_surah": 2054,
+      "word_surah": 3,
+      "word_translation": "strikes you",
+      "word_transliteration": "tusib'kum"
+    },
+    {
+      "word_arabic": "سَيِّئَةٞ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8200,
+      "word_number_in_surah": 2055,
+      "word_surah": 3,
+      "word_translation": "misfortune",
+      "word_transliteration": "sayyi-atun"
+    },
+    {
+      "word_arabic": "يَفۡرَحُواْ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8201,
+      "word_number_in_surah": 2056,
+      "word_surah": 3,
+      "word_translation": "they rejoice",
+      "word_transliteration": "yafrahu"
+    },
+    {
+      "word_arabic": "بِهَاۖ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8202,
+      "word_number_in_surah": 2057,
+      "word_surah": 3,
+      "word_translation": "at it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 120,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8203,
+      "word_number_in_surah": 2058,
+      "word_surah": 3,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "تَصۡبِرُواْ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8204,
+      "word_number_in_surah": 2059,
+      "word_surah": 3,
+      "word_translation": "you are patient",
+      "word_transliteration": "tasbiru"
+    },
+    {
+      "word_arabic": "وَتَتَّقُواْ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8205,
+      "word_number_in_surah": 2060,
+      "word_surah": 3,
+      "word_translation": "and fear (Allah)",
+      "word_transliteration": "watattaqu"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8206,
+      "word_number_in_surah": 2061,
+      "word_surah": 3,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَضُرُّكُمۡ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 8207,
+      "word_number_in_surah": 2062,
+      "word_surah": 3,
+      "word_translation": "will harm you",
+      "word_transliteration": "yadurrukum"
+    },
+    {
+      "word_arabic": "كَيۡدُهُمۡ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 8208,
+      "word_number_in_surah": 2063,
+      "word_surah": 3,
+      "word_translation": "their plot",
+      "word_transliteration": "kayduhum"
+    },
+    {
+      "word_arabic": "شَيۡ‍ًٔاۗ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 8209,
+      "word_number_in_surah": 2064,
+      "word_surah": 3,
+      "word_translation": "(in) anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 120,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 8210,
+      "word_number_in_surah": 2065,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 8211,
+      "word_number_in_surah": 2066,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 8212,
+      "word_number_in_surah": 2067,
+      "word_surah": 3,
+      "word_translation": "of what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "يَعۡمَلُونَ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 8213,
+      "word_number_in_surah": 2068,
+      "word_surah": 3,
+      "word_translation": "they do",
+      "word_transliteration": "ya'maluna"
+    },
+    {
+      "word_arabic": "مُحِيطٞ",
+      "word_ayah": 120,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 8214,
+      "word_number_in_surah": 2069,
+      "word_surah": 3,
+      "word_translation": "(is) All-Encompassing",
+      "word_transliteration": "muhitun"
+    }
+  ],
+  "fullArabic": "إِن تَمۡسَسۡكُمۡ حَسَنَةٞ تَسُؤۡهُمۡ وَإِن تُصِبۡكُمۡ سَيِّئَةٞ يَفۡرَحُواْ بِهَاۖ وَإِن تَصۡبِرُواْ وَتَتَّقُواْ لَا يَضُرُّكُمۡ كَيۡدُهُمۡ شَيۡ‍ًٔاۗ إِنَّ ٱللَّهَ بِمَا يَعۡمَلُونَ مُحِيطٞ",
+  "fullTranslation": "If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allah, their plot will not harm you at all. Indeed, Allah is encompassing of what they do.",
+  "fullTransliteration": "in tamsaskum hasanatun tasu'hum wa-in tusib'kum sayyi-atun yafrahu biha wa-in tasbiru watattaqu la yadurrukum kayduhum shayan inna al-laha bima ya'maluna muhitun"
+}

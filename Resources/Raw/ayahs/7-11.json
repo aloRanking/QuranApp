@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "ayah": 11,
+    "surah": 7,
+    "words": 16,
+    "numberInQuran": 965,
+    "juz": 8,
+    "manzil": 2,
+    "page": 151,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَقَدۡ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19321,
+      "word_number_in_surah": 94,
+      "word_surah": 7,
+      "word_translation": "And certainly",
+      "word_transliteration": "walaqad"
+    },
+    {
+      "word_arabic": "خَلَقۡنَٰكُمۡ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19322,
+      "word_number_in_surah": 95,
+      "word_surah": 7,
+      "word_translation": "We created you",
+      "word_transliteration": "khalaqnakum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19323,
+      "word_number_in_surah": 96,
+      "word_surah": 7,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "صَوَّرۡنَٰكُمۡ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19324,
+      "word_number_in_surah": 97,
+      "word_surah": 7,
+      "word_translation": "We fashioned you",
+      "word_transliteration": "sawwarnakum"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19325,
+      "word_number_in_surah": 98,
+      "word_surah": 7,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "قُلۡنَا",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19326,
+      "word_number_in_surah": 99,
+      "word_surah": 7,
+      "word_translation": "We said",
+      "word_transliteration": "qul'na"
+    },
+    {
+      "word_arabic": "لِلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19327,
+      "word_number_in_surah": 100,
+      "word_surah": 7,
+      "word_translation": "to the Angels",
+      "word_transliteration": "lil'malaikati"
+    },
+    {
+      "word_arabic": "ٱسۡجُدُواْ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19328,
+      "word_number_in_surah": 101,
+      "word_surah": 7,
+      "word_translation": "Prostrate",
+      "word_transliteration": "us'judu"
+    },
+    {
+      "word_arabic": "لِأٓدَمَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19329,
+      "word_number_in_surah": 102,
+      "word_surah": 7,
+      "word_translation": "to Adam",
+      "word_transliteration": "liadama"
+    },
+    {
+      "word_arabic": "فَسَجَدُوٓاْ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19330,
+      "word_number_in_surah": 103,
+      "word_surah": 7,
+      "word_translation": "So they prostrated",
+      "word_transliteration": "fasajadu"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19331,
+      "word_number_in_surah": 104,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "إِبۡلِيسَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19332,
+      "word_number_in_surah": 105,
+      "word_surah": 7,
+      "word_translation": "Iblees",
+      "word_transliteration": "ib'lisa"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19333,
+      "word_number_in_surah": 106,
+      "word_surah": 7,
+      "word_translation": "Not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يَكُن",
+      "word_ayah": 11,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19334,
+      "word_number_in_surah": 107,
+      "word_surah": 7,
+      "word_translation": "he was",
+      "word_transliteration": "yakun"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 11,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19335,
+      "word_number_in_surah": 108,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّٰجِدِينَ",
+      "word_ayah": 11,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19336,
+      "word_number_in_surah": 109,
+      "word_surah": 7,
+      "word_translation": "those who prostrated",
+      "word_transliteration": "al-sajidina"
+    }
+  ],
+  "fullArabic": "وَلَقَدۡ خَلَقۡنَٰكُمۡ ثُمَّ صَوَّرۡنَٰكُمۡ ثُمَّ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ لَمۡ يَكُن مِّنَ ٱلسَّٰجِدِينَ",
+  "fullTranslation": "And We have certainly created you, [O Mankind], and given you [human] form. Then We said to the angels, \"Prostrate to Adam\"; so they prostrated, except for Iblees. He was not of those who prostrated.",
+  "fullTransliteration": "walaqad khalaqnakum thumma sawwarnakum thumma qul'na lil'malaikati us'judu liadama fasajadu illa ib'lisa lam yakun mina al-sajidina"
+}

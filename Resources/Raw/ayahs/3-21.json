@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 21,
+    "surah": 3,
+    "words": 18,
+    "numberInQuran": 314,
+    "juz": 3,
+    "manzil": 1,
+    "page": 52,
+    "ruku": 44,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6484,
+      "word_number_in_surah": 339,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6485,
+      "word_number_in_surah": 340,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَكۡفُرُونَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6486,
+      "word_number_in_surah": 341,
+      "word_surah": 3,
+      "word_translation": "disbelieve",
+      "word_transliteration": "yakfuruna"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6487,
+      "word_number_in_surah": 342,
+      "word_surah": 3,
+      "word_translation": "in (the) Signs (of)",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6488,
+      "word_number_in_surah": 343,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَيَقۡتُلُونَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6489,
+      "word_number_in_surah": 344,
+      "word_surah": 3,
+      "word_translation": "and they kill",
+      "word_transliteration": "wayaqtuluna"
+    },
+    {
+      "word_arabic": "ٱلنَّبِيِّ‍ۧنَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6490,
+      "word_number_in_surah": 345,
+      "word_surah": 3,
+      "word_translation": "the Prophets",
+      "word_transliteration": "al-nabiyina"
+    },
+    {
+      "word_arabic": "بِغَيۡرِ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6491,
+      "word_number_in_surah": 346,
+      "word_surah": 3,
+      "word_translation": "without",
+      "word_transliteration": "bighayri"
+    },
+    {
+      "word_arabic": "حَقّٖ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6492,
+      "word_number_in_surah": 347,
+      "word_surah": 3,
+      "word_translation": "right",
+      "word_transliteration": "haqqin"
+    },
+    {
+      "word_arabic": "وَيَقۡتُلُونَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6493,
+      "word_number_in_surah": 348,
+      "word_surah": 3,
+      "word_translation": "and they kill",
+      "word_transliteration": "wayaqtuluna"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6494,
+      "word_number_in_surah": 349,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَأۡمُرُونَ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6495,
+      "word_number_in_surah": 350,
+      "word_surah": 3,
+      "word_translation": "order",
+      "word_transliteration": "yamuruna"
+    },
+    {
+      "word_arabic": "بِٱلۡقِسۡطِ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6496,
+      "word_number_in_surah": 351,
+      "word_surah": 3,
+      "word_translation": "[with] justice",
+      "word_transliteration": "bil-qis'ti"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 21,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6497,
+      "word_number_in_surah": 352,
+      "word_surah": 3,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6498,
+      "word_number_in_surah": 353,
+      "word_surah": 3,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "فَبَشِّرۡهُم",
+      "word_ayah": 21,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6499,
+      "word_number_in_surah": 354,
+      "word_surah": 3,
+      "word_translation": "then give them tidings",
+      "word_transliteration": "fabashir'hum"
+    },
+    {
+      "word_arabic": "بِعَذَابٍ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6500,
+      "word_number_in_surah": 355,
+      "word_surah": 3,
+      "word_translation": "of a punishment",
+      "word_transliteration": "bi'adhabin"
+    },
+    {
+      "word_arabic": "أَلِيمٍ",
+      "word_ayah": 21,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6501,
+      "word_number_in_surah": 356,
+      "word_surah": 3,
+      "word_translation": "painful",
+      "word_transliteration": "alimin"
+    }
+  ],
+  "fullArabic": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِ‍َٔايَٰتِ ٱللَّهِ وَيَقۡتُلُونَ ٱلنَّبِيِّ‍ۧنَ بِغَيۡرِ حَقّٖ وَيَقۡتُلُونَ ٱلَّذِينَ يَأۡمُرُونَ بِٱلۡقِسۡطِ مِنَ ٱلنَّاسِ فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ",
+  "fullTranslation": "Those who disbelieve in the signs of Allah and kill the prophets without right and kill those who order justice from among the people - give them tidings of a painful punishment.",
+  "fullTransliteration": "inna alladhina yakfuruna biayati al-lahi wayaqtuluna al-nabiyina bighayri haqqin wayaqtuluna alladhina yamuruna bil-qis'ti mina al-nasi fabashir'hum bi'adhabin alimin"
+}

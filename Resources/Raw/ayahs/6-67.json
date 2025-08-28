@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "ayah": 67,
+    "surah": 6,
+    "words": 5,
+    "numberInQuran": 856,
+    "juz": 7,
+    "manzil": 2,
+    "page": 135,
+    "ruku": 109,
+    "hizbQuarter": 54,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لِّكُلِّ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 17266,
+      "word_number_in_surah": 1089,
+      "word_surah": 6,
+      "word_translation": "For every",
+      "word_transliteration": "likulli"
+    },
+    {
+      "word_arabic": "نَبَإٖ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 17267,
+      "word_number_in_surah": 1090,
+      "word_surah": 6,
+      "word_translation": "news",
+      "word_transliteration": "naba-in"
+    },
+    {
+      "word_arabic": "مُّسۡتَقَرّٞۚ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 17268,
+      "word_number_in_surah": 1091,
+      "word_surah": 6,
+      "word_translation": "(is) a fixed time",
+      "word_transliteration": "mus'taqarrun"
+    },
+    {
+      "word_arabic": "وَسَوۡفَ",
+      "word_ayah": 67,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 17269,
+      "word_number_in_surah": 1092,
+      "word_surah": 6,
+      "word_translation": "and soon",
+      "word_transliteration": "wasawfa"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 67,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 17270,
+      "word_number_in_surah": 1093,
+      "word_surah": 6,
+      "word_translation": "you will know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "لِّكُلِّ نَبَإٖ مُّسۡتَقَرّٞۚ وَسَوۡفَ تَعۡلَمُونَ",
+  "fullTranslation": "For every happening is a finality; and you are going to know.",
+  "fullTransliteration": "likulli naba-in mus'taqarrun wasawfa ta'lamuna"
+}

@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "ayah": 113,
+    "surah": 5,
+    "words": 15,
+    "numberInQuran": 782,
+    "juz": 7,
+    "manzil": 2,
+    "page": 126,
+    "ruku": 100,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16005,
+      "word_number_in_surah": 2632,
+      "word_surah": 5,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "نُرِيدُ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16006,
+      "word_number_in_surah": 2633,
+      "word_surah": 5,
+      "word_translation": "We wish",
+      "word_transliteration": "nuridu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 113,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16007,
+      "word_number_in_surah": 2634,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "نَّأۡكُلَ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16008,
+      "word_number_in_surah": 2635,
+      "word_surah": 5,
+      "word_translation": "we eat",
+      "word_transliteration": "nakula"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16009,
+      "word_number_in_surah": 2636,
+      "word_surah": 5,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "وَتَطۡمَئِنَّ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16010,
+      "word_number_in_surah": 2637,
+      "word_surah": 5,
+      "word_translation": "and satisfy",
+      "word_transliteration": "watatma-inna"
+    },
+    {
+      "word_arabic": "قُلُوبُنَا",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16011,
+      "word_number_in_surah": 2638,
+      "word_surah": 5,
+      "word_translation": "our hearts",
+      "word_transliteration": "qulubuna"
+    },
+    {
+      "word_arabic": "وَنَعۡلَمَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16012,
+      "word_number_in_surah": 2639,
+      "word_surah": 5,
+      "word_translation": "and we know",
+      "word_transliteration": "wana'lama"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 113,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16013,
+      "word_number_in_surah": 2640,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16014,
+      "word_number_in_surah": 2641,
+      "word_surah": 5,
+      "word_translation": "certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "صَدَقۡتَنَا",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16015,
+      "word_number_in_surah": 2642,
+      "word_surah": 5,
+      "word_translation": "you have spoken the truth to us",
+      "word_transliteration": "sadaqtana"
+    },
+    {
+      "word_arabic": "وَنَكُونَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16016,
+      "word_number_in_surah": 2643,
+      "word_surah": 5,
+      "word_translation": "and we be",
+      "word_transliteration": "wanakuna"
+    },
+    {
+      "word_arabic": "عَلَيۡهَا",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16017,
+      "word_number_in_surah": 2644,
+      "word_surah": 5,
+      "word_translation": "over it",
+      "word_transliteration": "alayha"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16018,
+      "word_number_in_surah": 2645,
+      "word_surah": 5,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلشَّٰهِدِينَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16019,
+      "word_number_in_surah": 2646,
+      "word_surah": 5,
+      "word_translation": "the witnesses",
+      "word_transliteration": "al-shahidina"
+    }
+  ],
+  "fullArabic": "قَالُواْ نُرِيدُ أَن نَّأۡكُلَ مِنۡهَا وَتَطۡمَئِنَّ قُلُوبُنَا وَنَعۡلَمَ أَن قَدۡ صَدَقۡتَنَا وَنَكُونَ عَلَيۡهَا مِنَ ٱلشَّٰهِدِينَ",
+  "fullTranslation": "They said, \"We wish to eat from it and let our hearts be reassured and know that you have been truthful to us and be among its witnesses.\"",
+  "fullTransliteration": "qalu nuridu an nakula min'ha watatma-inna qulubuna wana'lama an qad sadaqtana wanakuna alayha mina al-shahidina"
+}

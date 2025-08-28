@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "ayah": 7,
+    "surah": 5,
+    "words": 19,
+    "numberInQuran": 676,
+    "juz": 6,
+    "manzil": 2,
+    "page": 108,
+    "ruku": 87,
+    "hizbQuarter": 43,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱذۡكُرُواْ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13645,
+      "word_number_in_surah": 272,
+      "word_surah": 5,
+      "word_translation": "And remember",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "نِعۡمَةَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13646,
+      "word_number_in_surah": 273,
+      "word_surah": 5,
+      "word_translation": "(the) Favor",
+      "word_transliteration": "ni'mata"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13647,
+      "word_number_in_surah": 274,
+      "word_surah": 5,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13648,
+      "word_number_in_surah": 275,
+      "word_surah": 5,
+      "word_translation": "upon you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَمِيثَٰقَهُ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13649,
+      "word_number_in_surah": 276,
+      "word_surah": 5,
+      "word_translation": "and His covenant",
+      "word_transliteration": "wamithaqahu"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13650,
+      "word_number_in_surah": 277,
+      "word_surah": 5,
+      "word_translation": "which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "وَاثَقَكُم",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13651,
+      "word_number_in_surah": 278,
+      "word_surah": 5,
+      "word_translation": "He bound you",
+      "word_transliteration": "wathaqakum"
+    },
+    {
+      "word_arabic": "بِهِۦٓ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13652,
+      "word_number_in_surah": 279,
+      "word_surah": 5,
+      "word_translation": "with [it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13653,
+      "word_number_in_surah": 280,
+      "word_surah": 5,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "قُلۡتُمۡ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13654,
+      "word_number_in_surah": 281,
+      "word_surah": 5,
+      "word_translation": "you said",
+      "word_transliteration": "qul'tum"
+    },
+    {
+      "word_arabic": "سَمِعۡنَا",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13655,
+      "word_number_in_surah": 282,
+      "word_surah": 5,
+      "word_translation": "We heared",
+      "word_transliteration": "sami'na"
+    },
+    {
+      "word_arabic": "وَأَطَعۡنَاۖ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13656,
+      "word_number_in_surah": 283,
+      "word_surah": 5,
+      "word_translation": "and we obeyed",
+      "word_transliteration": "wa-ata'na"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13657,
+      "word_number_in_surah": 284,
+      "word_surah": 5,
+      "word_translation": "and fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَۚ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13658,
+      "word_number_in_surah": 285,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 7,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13659,
+      "word_number_in_surah": 286,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13660,
+      "word_number_in_surah": 287,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13661,
+      "word_number_in_surah": 288,
+      "word_surah": 5,
+      "word_translation": "(is) All-Knower",
+      "word_transliteration": "alimun"
+    },
+    {
+      "word_arabic": "بِذَاتِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13662,
+      "word_number_in_surah": 289,
+      "word_surah": 5,
+      "word_translation": "of what",
+      "word_transliteration": "bidhati"
+    },
+    {
+      "word_arabic": "ٱلصُّدُورِ",
+      "word_ayah": 7,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13663,
+      "word_number_in_surah": 290,
+      "word_surah": 5,
+      "word_translation": "(is in) the breasts",
+      "word_transliteration": "al-suduri"
+    }
+  ],
+  "fullArabic": "وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "fullTranslation": "And remember the favor of Allah upon you and His covenant with which He bound you when you said, \"We hear and we obey\"; and fear Allah. Indeed, Allah is Knowing of that within the breasts.",
+  "fullTransliteration": "wa-udh'kuru ni'mata al-lahi alaykum wamithaqahu alladhi wathaqakum bihi idh qul'tum sami'na wa-ata'na wa-ittaqu al-laha inna al-laha alimun bidhati al-suduri"
+}

@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ayah": 96,
+    "surah": 3,
+    "words": 10,
+    "numberInQuran": 389,
+    "juz": 4,
+    "manzil": 1,
+    "page": 62,
+    "ruku": 51,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7769,
+      "word_number_in_surah": 1624,
+      "word_surah": 3,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "أَوَّلَ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7770,
+      "word_number_in_surah": 1625,
+      "word_surah": 3,
+      "word_translation": "(the) first",
+      "word_transliteration": "awwala"
+    },
+    {
+      "word_arabic": "بَيۡتٖ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7771,
+      "word_number_in_surah": 1626,
+      "word_surah": 3,
+      "word_translation": "House",
+      "word_transliteration": "baytin"
+    },
+    {
+      "word_arabic": "وُضِعَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7772,
+      "word_number_in_surah": 1627,
+      "word_surah": 3,
+      "word_translation": "set up",
+      "word_transliteration": "wudi'a"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7773,
+      "word_number_in_surah": 1628,
+      "word_surah": 3,
+      "word_translation": "for the mankind",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "لَلَّذِي",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7774,
+      "word_number_in_surah": 1629,
+      "word_surah": 3,
+      "word_translation": "(is) the one which",
+      "word_transliteration": "lalladhi"
+    },
+    {
+      "word_arabic": "بِبَكَّةَ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7775,
+      "word_number_in_surah": 1630,
+      "word_surah": 3,
+      "word_translation": "(is) at Bakkah",
+      "word_transliteration": "bibakkata"
+    },
+    {
+      "word_arabic": "مُبَارَكٗا",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7776,
+      "word_number_in_surah": 1631,
+      "word_surah": 3,
+      "word_translation": "blessed",
+      "word_transliteration": "mubarakan"
+    },
+    {
+      "word_arabic": "وَهُدٗى",
+      "word_ayah": 96,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7777,
+      "word_number_in_surah": 1632,
+      "word_surah": 3,
+      "word_translation": "and a guidance",
+      "word_transliteration": "wahudan"
+    },
+    {
+      "word_arabic": "لِّلۡعَٰلَمِينَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7778,
+      "word_number_in_surah": 1633,
+      "word_surah": 3,
+      "word_translation": "for the worlds",
+      "word_transliteration": "lil'alamina"
+    }
+  ],
+  "fullArabic": "إِنَّ أَوَّلَ بَيۡتٖ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكٗا وَهُدٗى لِّلۡعَٰلَمِينَ",
+  "fullTranslation": "Indeed, the first House [of worship] established for mankind was that at Makkah - blessed and a guidance for the worlds.",
+  "fullTransliteration": "inna awwala baytin wudi'a lilnnasi lalladhi bibakkata mubarakan wahudan lil'alamina"
+}

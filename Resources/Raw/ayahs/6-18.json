@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ayah": 18,
+    "surah": 6,
+    "words": 7,
+    "numberInQuran": 807,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 103,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16426,
+      "word_number_in_surah": 249,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡقَاهِرُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16427,
+      "word_number_in_surah": 250,
+      "word_surah": 6,
+      "word_translation": "(is) the Subjugator",
+      "word_transliteration": "al-qahiru"
+    },
+    {
+      "word_arabic": "فَوۡقَ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16428,
+      "word_number_in_surah": 251,
+      "word_surah": 6,
+      "word_translation": "over",
+      "word_transliteration": "fawqa"
+    },
+    {
+      "word_arabic": "عِبَادِهِۦۚ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16429,
+      "word_number_in_surah": 252,
+      "word_surah": 6,
+      "word_translation": "His slaves",
+      "word_transliteration": "ibadihi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 18,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16430,
+      "word_number_in_surah": 253,
+      "word_surah": 6,
+      "word_translation": "And He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلۡحَكِيمُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16431,
+      "word_number_in_surah": 254,
+      "word_surah": 6,
+      "word_translation": "(is) the All-Wise",
+      "word_transliteration": "al-hakimu"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيرُ",
+      "word_ayah": 18,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16432,
+      "word_number_in_surah": 255,
+      "word_surah": 6,
+      "word_translation": "the All-Aware",
+      "word_transliteration": "al-khabiru"
+    }
+  ],
+  "fullArabic": "وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
+  "fullTranslation": "And He is the subjugator over His servants. And He is the Wise, the Acquainted [with all].",
+  "fullTransliteration": "wahuwa al-qahiru fawqa ibadihi wahuwa al-hakimu al-khabiru"
+}

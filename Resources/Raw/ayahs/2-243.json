@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "ayah": 243,
+    "surah": 2,
+    "words": 28,
+    "numberInQuran": 250,
+    "juz": 2,
+    "manzil": 1,
+    "page": 39,
+    "ruku": 33,
+    "hizbQuarter": 16,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞أَلَمۡ",
+      "word_ayah": 243,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4810,
+      "word_number_in_surah": 4781,
+      "word_surah": 2,
+      "word_translation": "Did not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "تَرَ",
+      "word_ayah": 243,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4811,
+      "word_number_in_surah": 4782,
+      "word_surah": 2,
+      "word_translation": "you see",
+      "word_transliteration": "tara"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4812,
+      "word_number_in_surah": 4783,
+      "word_surah": 2,
+      "word_translation": "[to]",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4813,
+      "word_number_in_surah": 4784,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "خَرَجُواْ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4814,
+      "word_number_in_surah": 4785,
+      "word_surah": 2,
+      "word_translation": "went out",
+      "word_transliteration": "kharaju"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 243,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4815,
+      "word_number_in_surah": 4786,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دِيَٰرِهِمۡ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4816,
+      "word_number_in_surah": 4787,
+      "word_surah": 2,
+      "word_translation": "their homes",
+      "word_transliteration": "diyarihim"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 243,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4817,
+      "word_number_in_surah": 4788,
+      "word_surah": 2,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "أُلُوفٌ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4818,
+      "word_number_in_surah": 4789,
+      "word_surah": 2,
+      "word_translation": "(were in) thousands",
+      "word_transliteration": "ulufun"
+    },
+    {
+      "word_arabic": "حَذَرَ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4819,
+      "word_number_in_surah": 4790,
+      "word_surah": 2,
+      "word_translation": "(in) fear",
+      "word_transliteration": "hadhara"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتِ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4820,
+      "word_number_in_surah": 4791,
+      "word_surah": 2,
+      "word_translation": "(of) [the] death",
+      "word_transliteration": "al-mawti"
+    },
+    {
+      "word_arabic": "فَقَالَ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4821,
+      "word_number_in_surah": 4792,
+      "word_surah": 2,
+      "word_translation": "Then said",
+      "word_transliteration": "faqala"
+    },
+    {
+      "word_arabic": "لَهُمُ",
+      "word_ayah": 243,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4822,
+      "word_number_in_surah": 4793,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "lahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4823,
+      "word_number_in_surah": 4794,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مُوتُواْ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4824,
+      "word_number_in_surah": 4795,
+      "word_surah": 2,
+      "word_translation": "Die",
+      "word_transliteration": "mutu"
+    },
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 243,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4825,
+      "word_number_in_surah": 4796,
+      "word_surah": 2,
+      "word_translation": "then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "أَحۡيَٰهُمۡۚ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4826,
+      "word_number_in_surah": 4797,
+      "word_surah": 2,
+      "word_translation": "He restored them to life",
+      "word_transliteration": "ahyahum"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 243,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4827,
+      "word_number_in_surah": 4798,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4828,
+      "word_number_in_surah": 4799,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَذُو",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4829,
+      "word_number_in_surah": 4800,
+      "word_surah": 2,
+      "word_translation": "(is) surely Possessor",
+      "word_transliteration": "ladhu"
+    },
+    {
+      "word_arabic": "فَضۡلٍ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4830,
+      "word_number_in_surah": 4801,
+      "word_surah": 2,
+      "word_translation": "(of) bounty",
+      "word_transliteration": "fadlin"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4831,
+      "word_number_in_surah": 4802,
+      "word_surah": 2,
+      "word_translation": "for",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4832,
+      "word_number_in_surah": 4803,
+      "word_surah": 2,
+      "word_translation": "[the] mankind",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4833,
+      "word_number_in_surah": 4804,
+      "word_surah": 2,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "أَكۡثَرَ",
+      "word_ayah": 243,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4834,
+      "word_number_in_surah": 4805,
+      "word_surah": 2,
+      "word_translation": "most",
+      "word_transliteration": "akthara"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4835,
+      "word_number_in_surah": 4806,
+      "word_surah": 2,
+      "word_translation": "(of) the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4836,
+      "word_number_in_surah": 4807,
+      "word_surah": 2,
+      "word_translation": "(are) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَشۡكُرُونَ",
+      "word_ayah": 243,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 4837,
+      "word_number_in_surah": 4808,
+      "word_surah": 2,
+      "word_translation": "grateful",
+      "word_transliteration": "yashkuruna"
+    }
+  ],
+  "fullArabic": "۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِمۡ وَهُمۡ أُلُوفٌ حَذَرَ ٱلۡمَوۡتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُواْ ثُمَّ أَحۡيَٰهُمۡۚ إِنَّ ٱللَّهَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَشۡكُرُونَ",
+  "fullTranslation": "Have you not considered those who left their homes in many thousands, fearing death? Allah said to them, \"Die\"; then He restored them to life. And Allah is full of bounty to the people, but most of the people do not show gratitude.",
+  "fullTransliteration": "alam tara ila alladhina kharaju min diyarihim wahum ulufun hadhara al-mawti faqala lahumu al-lahu mutu thumma ahyahum inna al-laha ladhu fadlin ala al-nasi walakinna akthara al-nasi la yashkuruna"
+}

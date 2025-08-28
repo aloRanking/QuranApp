@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 68,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 1022,
+    "juz": 8,
+    "manzil": 2,
+    "page": 159,
+    "ruku": 130,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُبَلِّغُكُمۡ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20305,
+      "word_number_in_surah": 1078,
+      "word_surah": 7,
+      "word_translation": "I convey to you",
+      "word_transliteration": "uballighukum"
+    },
+    {
+      "word_arabic": "رِسَٰلَٰتِ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20306,
+      "word_number_in_surah": 1079,
+      "word_surah": 7,
+      "word_translation": "Messages",
+      "word_transliteration": "risalati"
+    },
+    {
+      "word_arabic": "رَبِّي",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20307,
+      "word_number_in_surah": 1080,
+      "word_surah": 7,
+      "word_translation": "(of) my Lord",
+      "word_transliteration": "rabbi"
+    },
+    {
+      "word_arabic": "وَأَنَا۠",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20308,
+      "word_number_in_surah": 1081,
+      "word_surah": 7,
+      "word_translation": "and I am",
+      "word_transliteration": "wa-ana"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20309,
+      "word_number_in_surah": 1082,
+      "word_surah": 7,
+      "word_translation": "to you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "نَاصِحٌ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20310,
+      "word_number_in_surah": 1083,
+      "word_surah": 7,
+      "word_translation": "an adviser",
+      "word_transliteration": "nasihun"
+    },
+    {
+      "word_arabic": "أَمِينٌ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20311,
+      "word_number_in_surah": 1084,
+      "word_surah": 7,
+      "word_translation": "trustworthy",
+      "word_transliteration": "aminun"
+    }
+  ],
+  "fullArabic": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِينٌ",
+  "fullTranslation": "I convey to you the messages of my Lord, and I am to you a trustworthy adviser.",
+  "fullTransliteration": "uballighukum risalati rabbi wa-ana lakum nasihun aminun"
+}

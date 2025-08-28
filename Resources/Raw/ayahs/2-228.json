@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "ayah": 228,
+    "surah": 2,
+    "words": 40,
+    "numberInQuran": 235,
+    "juz": 2,
+    "manzil": 1,
+    "page": 36,
+    "ruku": 29,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلۡمُطَلَّقَٰتُ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4357,
+      "word_number_in_surah": 4328,
+      "word_surah": 2,
+      "word_translation": "And the women who are divorced",
+      "word_transliteration": "wal-mutalaqatu"
+    },
+    {
+      "word_arabic": "يَتَرَبَّصۡنَ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4358,
+      "word_number_in_surah": 4329,
+      "word_surah": 2,
+      "word_translation": "shall wait",
+      "word_transliteration": "yatarabbasna"
+    },
+    {
+      "word_arabic": "بِأَنفُسِهِنَّ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4359,
+      "word_number_in_surah": 4330,
+      "word_surah": 2,
+      "word_translation": "concerning themselves",
+      "word_transliteration": "bi-anfusihinna"
+    },
+    {
+      "word_arabic": "ثَلَٰثَةَ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4360,
+      "word_number_in_surah": 4331,
+      "word_surah": 2,
+      "word_translation": "(for) three",
+      "word_transliteration": "thalathata"
+    },
+    {
+      "word_arabic": "قُرُوٓءٖۚ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4361,
+      "word_number_in_surah": 4332,
+      "word_surah": 2,
+      "word_translation": "monthly periods",
+      "word_transliteration": "quruin"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4362,
+      "word_number_in_surah": 4333,
+      "word_surah": 2,
+      "word_translation": "And (it is) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَحِلُّ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4363,
+      "word_number_in_surah": 4334,
+      "word_surah": 2,
+      "word_translation": "lawful",
+      "word_transliteration": "yahillu"
+    },
+    {
+      "word_arabic": "لَهُنَّ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4364,
+      "word_number_in_surah": 4335,
+      "word_surah": 2,
+      "word_translation": "for them",
+      "word_transliteration": "lahunna"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 228,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4365,
+      "word_number_in_surah": 4336,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَكۡتُمۡنَ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4366,
+      "word_number_in_surah": 4337,
+      "word_surah": 2,
+      "word_translation": "they conceal",
+      "word_transliteration": "yaktum'na"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4367,
+      "word_number_in_surah": 4338,
+      "word_surah": 2,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "خَلَقَ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4368,
+      "word_number_in_surah": 4339,
+      "word_surah": 2,
+      "word_translation": "(has been) created",
+      "word_transliteration": "khalaqa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4369,
+      "word_number_in_surah": 4340,
+      "word_surah": 2,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4370,
+      "word_number_in_surah": 4341,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَرۡحَامِهِنَّ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4371,
+      "word_number_in_surah": 4342,
+      "word_surah": 2,
+      "word_translation": "their wombs",
+      "word_transliteration": "arhamihinna"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 228,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4372,
+      "word_number_in_surah": 4343,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنَّ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4373,
+      "word_number_in_surah": 4344,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "kunna"
+    },
+    {
+      "word_arabic": "يُؤۡمِنَّ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4374,
+      "word_number_in_surah": 4345,
+      "word_surah": 2,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minna"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4375,
+      "word_number_in_surah": 4346,
+      "word_surah": 2,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَٱلۡيَوۡمِ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4376,
+      "word_number_in_surah": 4347,
+      "word_surah": 2,
+      "word_translation": "and the Day",
+      "word_transliteration": "wal-yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡأٓخِرِۚ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4377,
+      "word_number_in_surah": 4348,
+      "word_surah": 2,
+      "word_translation": "[the] Last",
+      "word_transliteration": "al-akhiri"
+    },
+    {
+      "word_arabic": "وَبُعُولَتُهُنَّ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4378,
+      "word_number_in_surah": 4349,
+      "word_surah": 2,
+      "word_translation": "And their husbands",
+      "word_transliteration": "wabu'ulatuhunna"
+    },
+    {
+      "word_arabic": "أَحَقُّ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4379,
+      "word_number_in_surah": 4350,
+      "word_surah": 2,
+      "word_translation": "(have) better right",
+      "word_transliteration": "ahaqqu"
+    },
+    {
+      "word_arabic": "بِرَدِّهِنَّ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4380,
+      "word_number_in_surah": 4351,
+      "word_surah": 2,
+      "word_translation": "to take them back",
+      "word_transliteration": "biraddihinna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4381,
+      "word_number_in_surah": 4352,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4382,
+      "word_number_in_surah": 4353,
+      "word_surah": 2,
+      "word_translation": "that (period)",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4383,
+      "word_number_in_surah": 4354,
+      "word_surah": 2,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "أَرَادُوٓاْ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 4384,
+      "word_number_in_surah": 4355,
+      "word_surah": 2,
+      "word_translation": "they wish",
+      "word_transliteration": "aradu"
+    },
+    {
+      "word_arabic": "إِصۡلَٰحٗاۚ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 4385,
+      "word_number_in_surah": 4356,
+      "word_surah": 2,
+      "word_translation": "(for) reconciliation",
+      "word_transliteration": "is'lahan"
+    },
+    {
+      "word_arabic": "وَلَهُنَّ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 4386,
+      "word_number_in_surah": 4357,
+      "word_surah": 2,
+      "word_translation": "And for them (wives)",
+      "word_transliteration": "walahunna"
+    },
+    {
+      "word_arabic": "مِثۡلُ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 4387,
+      "word_number_in_surah": 4358,
+      "word_surah": 2,
+      "word_translation": "(is the) like",
+      "word_transliteration": "mith'lu"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 4388,
+      "word_number_in_surah": 4359,
+      "word_surah": 2,
+      "word_translation": "(of) that which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "عَلَيۡهِنَّ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 4389,
+      "word_number_in_surah": 4360,
+      "word_surah": 2,
+      "word_translation": "(is) on them",
+      "word_transliteration": "alayhinna"
+    },
+    {
+      "word_arabic": "بِٱلۡمَعۡرُوفِۚ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 4390,
+      "word_number_in_surah": 4361,
+      "word_surah": 2,
+      "word_translation": "in a reasonable manner",
+      "word_transliteration": "bil-ma'rufi"
+    },
+    {
+      "word_arabic": "وَلِلرِّجَالِ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 4391,
+      "word_number_in_surah": 4362,
+      "word_surah": 2,
+      "word_translation": "and for the men",
+      "word_transliteration": "walilrrijali"
+    },
+    {
+      "word_arabic": "عَلَيۡهِنَّ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 4392,
+      "word_number_in_surah": 4363,
+      "word_surah": 2,
+      "word_translation": "over them (wives)",
+      "word_transliteration": "alayhinna"
+    },
+    {
+      "word_arabic": "دَرَجَةٞۗ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 4393,
+      "word_number_in_surah": 4364,
+      "word_surah": 2,
+      "word_translation": "(is) a degree",
+      "word_transliteration": "darajatun"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 228,
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 4394,
+      "word_number_in_surah": 4365,
+      "word_surah": 2,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَزِيزٌ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 4395,
+      "word_number_in_surah": 4366,
+      "word_surah": 2,
+      "word_translation": "(is) All-Mighty",
+      "word_transliteration": "azizun"
+    },
+    {
+      "word_arabic": "حَكِيمٌ",
+      "word_ayah": 228,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 40,
+      "word_number_in_quran": 4396,
+      "word_number_in_surah": 4367,
+      "word_surah": 2,
+      "word_translation": "All-Wise",
+      "word_transliteration": "hakimun"
+    }
+  ],
+  "fullArabic": "وَٱلۡمُطَلَّقَٰتُ يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ ثَلَٰثَةَ قُرُوٓءٖۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكۡتُمۡنَ مَا خَلَقَ ٱللَّهُ فِيٓ أَرۡحَامِهِنَّ إِن كُنَّ يُؤۡمِنَّ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَٰلِكَ إِنۡ أَرَادُوٓاْ إِصۡلَٰحٗاۚ وَلَهُنَّ مِثۡلُ ٱلَّذِي عَلَيۡهِنَّ بِٱلۡمَعۡرُوفِۚ وَلِلرِّجَالِ عَلَيۡهِنَّ دَرَجَةٞۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+  "fullTranslation": "Divorced women remain in waiting for three periods, and it is not lawful for them to conceal what Allah has created in their wombs if they believe in Allah and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to the wives is similar to what is expected of them, according to what is reasonable. But the men have a degree over them [in responsibility and authority]. And Allah is Exalted in Might and Wise.",
+  "fullTransliteration": "wal-mutalaqatu yatarabbasna bi-anfusihinna thalathata quruin wala yahillu lahunna an yaktum'na ma khalaqa al-lahu fi arhamihinna in kunna yu'minna bil-lahi wal-yawmi al-akhiri wabu'ulatuhunna ahaqqu biraddihinna fi dhalika in aradu is'lahan walahunna mith'lu alladhi alayhinna bil-ma'rufi walilrrijali alayhinna darajatun wal-lahu azizun hakimun"
+}

@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "ayah": 121,
+    "surah": 6,
+    "words": 20,
+    "numberInQuran": 910,
+    "juz": 8,
+    "manzil": 2,
+    "page": 143,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18257,
+      "word_number_in_surah": 2080,
+      "word_surah": 6,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَأۡكُلُواْ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18258,
+      "word_number_in_surah": 2081,
+      "word_surah": 6,
+      "word_translation": "eat",
+      "word_transliteration": "takulu"
+    },
+    {
+      "word_arabic": "مِمَّا",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18259,
+      "word_number_in_surah": 2082,
+      "word_surah": 6,
+      "word_translation": "of that",
+      "word_transliteration": "mimma"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18260,
+      "word_number_in_surah": 2083,
+      "word_surah": 6,
+      "word_translation": "not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "يُذۡكَرِ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18261,
+      "word_number_in_surah": 2084,
+      "word_surah": 6,
+      "word_translation": "has been mentioned",
+      "word_transliteration": "yudh'kari"
+    },
+    {
+      "word_arabic": "ٱسۡمُ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18262,
+      "word_number_in_surah": 2085,
+      "word_surah": 6,
+      "word_translation": "(the) name",
+      "word_transliteration": "us'mu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18263,
+      "word_number_in_surah": 2086,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "عَلَيۡهِ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18264,
+      "word_number_in_surah": 2087,
+      "word_surah": 6,
+      "word_translation": "on it",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "وَإِنَّهُۥ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18265,
+      "word_number_in_surah": 2088,
+      "word_surah": 6,
+      "word_translation": "and indeed, it (is)",
+      "word_transliteration": "wa-innahu"
+    },
+    {
+      "word_arabic": "لَفِسۡقٞۗ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18266,
+      "word_number_in_surah": 2089,
+      "word_surah": 6,
+      "word_translation": "grave disobedience",
+      "word_transliteration": "lafis'qun"
+    },
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18267,
+      "word_number_in_surah": 2090,
+      "word_surah": 6,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "ٱلشَّيَٰطِينَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18268,
+      "word_number_in_surah": 2091,
+      "word_surah": 6,
+      "word_translation": "the devils",
+      "word_transliteration": "al-shayatina"
+    },
+    {
+      "word_arabic": "لَيُوحُونَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18269,
+      "word_number_in_surah": 2092,
+      "word_surah": 6,
+      "word_translation": "inspire",
+      "word_transliteration": "layuhuna"
+    },
+    {
+      "word_arabic": "إِلَىٰٓ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18270,
+      "word_number_in_surah": 2093,
+      "word_surah": 6,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "أَوۡلِيَآئِهِمۡ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18271,
+      "word_number_in_surah": 2094,
+      "word_surah": 6,
+      "word_translation": "their friends",
+      "word_transliteration": "awliyaihim"
+    },
+    {
+      "word_arabic": "لِيُجَٰدِلُوكُمۡۖ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18272,
+      "word_number_in_surah": 2095,
+      "word_surah": 6,
+      "word_translation": "so that they dispute with you",
+      "word_transliteration": "liyujadilukum"
+    },
+    {
+      "word_arabic": "وَإِنۡ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18273,
+      "word_number_in_surah": 2096,
+      "word_surah": 6,
+      "word_translation": "and if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "أَطَعۡتُمُوهُمۡ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18274,
+      "word_number_in_surah": 2097,
+      "word_surah": 6,
+      "word_translation": "you obey them",
+      "word_transliteration": "ata'tumuhum"
+    },
+    {
+      "word_arabic": "إِنَّكُمۡ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18275,
+      "word_number_in_surah": 2098,
+      "word_surah": 6,
+      "word_translation": "indeed, you",
+      "word_transliteration": "innakum"
+    },
+    {
+      "word_arabic": "لَمُشۡرِكُونَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18276,
+      "word_number_in_surah": 2099,
+      "word_surah": 6,
+      "word_translation": "(would) be the polytheists",
+      "word_transliteration": "lamush'rikuna"
+    }
+  ],
+  "fullArabic": "وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ",
+  "fullTranslation": "And do not eat of that upon which the name of Allah has not been mentioned, for indeed, it is grave disobedience. And indeed do the devils inspire their allies [among men] to dispute with you. And if you were to obey them, indeed, you would be associators [of others with Him].",
+  "fullTransliteration": "wala takulu mimma lam yudh'kari us'mu al-lahi alayhi wa-innahu lafis'qun wa-inna al-shayatina layuhuna ila awliyaihim liyujadilukum wa-in ata'tumuhum innakum lamush'rikuna"
+}

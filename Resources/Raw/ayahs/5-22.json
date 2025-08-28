@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 22,
+    "surah": 5,
+    "words": 17,
+    "numberInQuran": 691,
+    "juz": 6,
+    "manzil": 2,
+    "page": 111,
+    "ruku": 89,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14009,
+      "word_number_in_surah": 636,
+      "word_surah": 5,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "يَٰمُوسَىٰٓ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14010,
+      "word_number_in_surah": 637,
+      "word_surah": 5,
+      "word_translation": "O Musa!",
+      "word_transliteration": "yamusa"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14011,
+      "word_number_in_surah": 638,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "فِيهَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14012,
+      "word_number_in_surah": 639,
+      "word_surah": 5,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "قَوۡمٗا",
+      "word_ayah": 22,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14013,
+      "word_number_in_surah": 640,
+      "word_surah": 5,
+      "word_translation": "(are) people",
+      "word_transliteration": "qawman"
+    },
+    {
+      "word_arabic": "جَبَّارِينَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14014,
+      "word_number_in_surah": 641,
+      "word_surah": 5,
+      "word_translation": "(of) tyrannical strength",
+      "word_transliteration": "jabbarina"
+    },
+    {
+      "word_arabic": "وَإِنَّا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14015,
+      "word_number_in_surah": 642,
+      "word_surah": 5,
+      "word_translation": "and indeed we",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "لَن",
+      "word_ayah": 22,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14016,
+      "word_number_in_surah": 643,
+      "word_surah": 5,
+      "word_translation": "never",
+      "word_transliteration": "lan"
+    },
+    {
+      "word_arabic": "نَّدۡخُلَهَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14017,
+      "word_number_in_surah": 644,
+      "word_surah": 5,
+      "word_translation": "will enter it",
+      "word_transliteration": "nadkhulaha"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14018,
+      "word_number_in_surah": 645,
+      "word_surah": 5,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَخۡرُجُواْ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14019,
+      "word_number_in_surah": 646,
+      "word_surah": 5,
+      "word_translation": "they leave",
+      "word_transliteration": "yakhruju"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14020,
+      "word_number_in_surah": 647,
+      "word_surah": 5,
+      "word_translation": "from it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 22,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14021,
+      "word_number_in_surah": 648,
+      "word_surah": 5,
+      "word_translation": "and if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "يَخۡرُجُواْ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14022,
+      "word_number_in_surah": 649,
+      "word_surah": 5,
+      "word_translation": "they leave",
+      "word_transliteration": "yakhruju"
+    },
+    {
+      "word_arabic": "مِنۡهَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14023,
+      "word_number_in_surah": 650,
+      "word_surah": 5,
+      "word_translation": "[from] it",
+      "word_transliteration": "min'ha"
+    },
+    {
+      "word_arabic": "فَإِنَّا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14024,
+      "word_number_in_surah": 651,
+      "word_surah": 5,
+      "word_translation": "then certainly we (will)",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "دَٰخِلُونَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 14025,
+      "word_number_in_surah": 652,
+      "word_surah": 5,
+      "word_translation": "enter (it)",
+      "word_transliteration": "dakhiluna"
+    }
+  ],
+  "fullArabic": "قَالُواْ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوۡمٗا جَبَّارِينَ وَإِنَّا لَن نَّدۡخُلَهَا حَتَّىٰ يَخۡرُجُواْ مِنۡهَا فَإِن يَخۡرُجُواْ مِنۡهَا فَإِنَّا دَٰخِلُونَ",
+  "fullTranslation": "They said, \"O Moses, indeed within it is a people of tyrannical strength, and indeed, we will never enter it until they leave it; but if they leave it, then we will enter.\"",
+  "fullTransliteration": "qalu yamusa inna fiha qawman jabbarina wa-inna lan nadkhulaha hatta yakhruju min'ha fa-in yakhruju min'ha fa-inna dakhiluna"
+}

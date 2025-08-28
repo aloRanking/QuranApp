@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "ayah": 41,
+    "surah": 8,
+    "words": 33,
+    "numberInQuran": 1201,
+    "juz": 10,
+    "manzil": 2,
+    "page": 182,
+    "ruku": 150,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞وَٱعۡلَمُوٓاْ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23138,
+      "word_number_in_surah": 591,
+      "word_surah": 8,
+      "word_translation": "And know",
+      "word_transliteration": "wa-i'lamu"
+    },
+    {
+      "word_arabic": "أَنَّمَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23139,
+      "word_number_in_surah": 592,
+      "word_surah": 8,
+      "word_translation": "that what",
+      "word_transliteration": "annama"
+    },
+    {
+      "word_arabic": "غَنِمۡتُم",
+      "word_ayah": 41,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23140,
+      "word_number_in_surah": 593,
+      "word_surah": 8,
+      "word_translation": "you obtain (as) spoils of war",
+      "word_transliteration": "ghanim'tum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 41,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23141,
+      "word_number_in_surah": 594,
+      "word_surah": 8,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23142,
+      "word_number_in_surah": 595,
+      "word_surah": 8,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "فَأَنَّ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23143,
+      "word_number_in_surah": 596,
+      "word_surah": 8,
+      "word_translation": "then that",
+      "word_transliteration": "fa-anna"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23144,
+      "word_number_in_surah": 597,
+      "word_surah": 8,
+      "word_translation": "for Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "خُمُسَهُۥ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23145,
+      "word_number_in_surah": 598,
+      "word_surah": 8,
+      "word_translation": "(is) one fifth of it",
+      "word_transliteration": "khumusahu"
+    },
+    {
+      "word_arabic": "وَلِلرَّسُولِ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23146,
+      "word_number_in_surah": 599,
+      "word_surah": 8,
+      "word_translation": "and for the Messenger",
+      "word_transliteration": "walilrrasuli"
+    },
+    {
+      "word_arabic": "وَلِذِي",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23147,
+      "word_number_in_surah": 600,
+      "word_surah": 8,
+      "word_translation": "and for the",
+      "word_transliteration": "walidhi"
+    },
+    {
+      "word_arabic": "ٱلۡقُرۡبَىٰ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23148,
+      "word_number_in_surah": 601,
+      "word_surah": 8,
+      "word_translation": "near relatives",
+      "word_transliteration": "al-qur'ba"
+    },
+    {
+      "word_arabic": "وَٱلۡيَتَٰمَىٰ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23149,
+      "word_number_in_surah": 602,
+      "word_surah": 8,
+      "word_translation": "and the orphans",
+      "word_transliteration": "wal-yatama"
+    },
+    {
+      "word_arabic": "وَٱلۡمَسَٰكِينِ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23150,
+      "word_number_in_surah": 603,
+      "word_surah": 8,
+      "word_translation": "and the needy",
+      "word_transliteration": "wal-masakini"
+    },
+    {
+      "word_arabic": "وَٱبۡنِ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23151,
+      "word_number_in_surah": 604,
+      "word_surah": 8,
+      "word_translation": "and the",
+      "word_transliteration": "wa-ib'ni"
+    },
+    {
+      "word_arabic": "ٱلسَّبِيلِ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23152,
+      "word_number_in_surah": 605,
+      "word_surah": 8,
+      "word_translation": "wayfarer",
+      "word_transliteration": "al-sabili"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 41,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23153,
+      "word_number_in_surah": 606,
+      "word_surah": 8,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23154,
+      "word_number_in_surah": 607,
+      "word_surah": 8,
+      "word_translation": "you",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "ءَامَنتُم",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23155,
+      "word_number_in_surah": 608,
+      "word_surah": 8,
+      "word_translation": "believe",
+      "word_transliteration": "amantum"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23156,
+      "word_number_in_surah": 609,
+      "word_surah": 8,
+      "word_translation": "in Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23157,
+      "word_number_in_surah": 610,
+      "word_surah": 8,
+      "word_translation": "and (in) what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَنزَلۡنَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 23158,
+      "word_number_in_surah": 611,
+      "word_surah": 8,
+      "word_translation": "We sent down",
+      "word_transliteration": "anzalna"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 23159,
+      "word_number_in_surah": 612,
+      "word_surah": 8,
+      "word_translation": "to",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "عَبۡدِنَا",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 23160,
+      "word_number_in_surah": 613,
+      "word_surah": 8,
+      "word_translation": "Our slave",
+      "word_transliteration": "abdina"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 23161,
+      "word_number_in_surah": 614,
+      "word_surah": 8,
+      "word_translation": "(on the) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡفُرۡقَانِ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 23162,
+      "word_number_in_surah": 615,
+      "word_surah": 8,
+      "word_translation": "(of) the criterion",
+      "word_transliteration": "al-fur'qani"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 23163,
+      "word_number_in_surah": 616,
+      "word_surah": 8,
+      "word_translation": "(the) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡتَقَى",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 23164,
+      "word_number_in_surah": 617,
+      "word_surah": 8,
+      "word_translation": "(when) met",
+      "word_transliteration": "al-taqa"
+    },
+    {
+      "word_arabic": "ٱلۡجَمۡعَانِۗ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 23165,
+      "word_number_in_surah": 618,
+      "word_surah": 8,
+      "word_translation": "the two forces",
+      "word_transliteration": "al-jam'ani"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 23166,
+      "word_number_in_surah": 619,
+      "word_surah": 8,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 23167,
+      "word_number_in_surah": 620,
+      "word_surah": 8,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 23168,
+      "word_number_in_surah": 621,
+      "word_surah": 8,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 41,
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 23169,
+      "word_number_in_surah": 622,
+      "word_surah": 8,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٌ",
+      "word_ayah": 41,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 23170,
+      "word_number_in_surah": 623,
+      "word_surah": 8,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "۞وَٱعۡلَمُوٓاْ أَنَّمَا غَنِمۡتُم مِّن شَيۡءٖ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلۡنَا عَلَىٰ عَبۡدِنَا يَوۡمَ ٱلۡفُرۡقَانِ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "fullTranslation": "And know that anything you obtain of war booty - then indeed, for Allah is one fifth of it and for the Messenger and for [his] near relatives and the orphans, the needy, and the [stranded] traveler, if you have believed in Allah and in that which We sent down to Our Servant on the day of criterion - the day when the two armies met. And Allah, over all things, is competent.",
+  "fullTransliteration": "wa-i'lamu annama ghanim'tum min shayin fa-anna lillahi khumusahu walilrrasuli walidhi al-qur'ba wal-yatama wal-masakini wa-ib'ni al-sabili in kuntum amantum bil-lahi wama anzalna ala abdina yawma al-fur'qani yawma al-taqa al-jam'ani wal-lahu ala kulli shayin qadirun"
+}

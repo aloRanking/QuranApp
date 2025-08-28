@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "ayah": 86,
+    "surah": 7,
+    "words": 24,
+    "numberInQuran": 1040,
+    "juz": 8,
+    "manzil": 2,
+    "page": 161,
+    "ruku": 132,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20608,
+      "word_number_in_surah": 1381,
+      "word_surah": 7,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَقۡعُدُواْ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20609,
+      "word_number_in_surah": 1382,
+      "word_surah": 7,
+      "word_translation": "sit",
+      "word_transliteration": "taq'udu"
+    },
+    {
+      "word_arabic": "بِكُلِّ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20610,
+      "word_number_in_surah": 1383,
+      "word_surah": 7,
+      "word_translation": "on every",
+      "word_transliteration": "bikulli"
+    },
+    {
+      "word_arabic": "صِرَٰطٖ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20611,
+      "word_number_in_surah": 1384,
+      "word_surah": 7,
+      "word_translation": "path",
+      "word_transliteration": "siratin"
+    },
+    {
+      "word_arabic": "تُوعِدُونَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20612,
+      "word_number_in_surah": 1385,
+      "word_surah": 7,
+      "word_translation": "threatening",
+      "word_transliteration": "tu'iduna"
+    },
+    {
+      "word_arabic": "وَتَصُدُّونَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20613,
+      "word_number_in_surah": 1386,
+      "word_surah": 7,
+      "word_translation": "and hindering",
+      "word_transliteration": "watasudduna"
+    },
+    {
+      "word_arabic": "عَن",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20614,
+      "word_number_in_surah": 1387,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20615,
+      "word_number_in_surah": 1388,
+      "word_surah": 7,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20616,
+      "word_number_in_surah": 1389,
+      "word_surah": 7,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20617,
+      "word_number_in_surah": 1390,
+      "word_surah": 7,
+      "word_translation": "(those) who",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "ءَامَنَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20618,
+      "word_number_in_surah": 1391,
+      "word_surah": 7,
+      "word_translation": "believe",
+      "word_transliteration": "amana"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20619,
+      "word_number_in_surah": 1392,
+      "word_surah": 7,
+      "word_translation": "in Him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَتَبۡغُونَهَا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20620,
+      "word_number_in_surah": 1393,
+      "word_surah": 7,
+      "word_translation": "and seeking (to make) it",
+      "word_transliteration": "watabghunaha"
+    },
+    {
+      "word_arabic": "عِوَجٗاۚ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20621,
+      "word_number_in_surah": 1394,
+      "word_surah": 7,
+      "word_translation": "crooked",
+      "word_transliteration": "iwajan"
+    },
+    {
+      "word_arabic": "وَٱذۡكُرُوٓاْ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20622,
+      "word_number_in_surah": 1395,
+      "word_surah": 7,
+      "word_translation": "And remember",
+      "word_transliteration": "wa-udh'kuru"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20623,
+      "word_number_in_surah": 1396,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "كُنتُمۡ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20624,
+      "word_number_in_surah": 1397,
+      "word_surah": 7,
+      "word_translation": "you were",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "قَلِيلٗا",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20625,
+      "word_number_in_surah": 1398,
+      "word_surah": 7,
+      "word_translation": "few",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "فَكَثَّرَكُمۡۖ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 20626,
+      "word_number_in_surah": 1399,
+      "word_surah": 7,
+      "word_translation": "and He increased you",
+      "word_transliteration": "fakatharakum"
+    },
+    {
+      "word_arabic": "وَٱنظُرُواْ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 20627,
+      "word_number_in_surah": 1400,
+      "word_surah": 7,
+      "word_translation": "And see",
+      "word_transliteration": "wa-unzuru"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 86,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 20628,
+      "word_number_in_surah": 1401,
+      "word_surah": 7,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 20629,
+      "word_number_in_surah": 1402,
+      "word_surah": 7,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَٰقِبَةُ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 20630,
+      "word_number_in_surah": 1403,
+      "word_surah": 7,
+      "word_translation": "(the) end",
+      "word_transliteration": "aqibatu"
+    },
+    {
+      "word_arabic": "ٱلۡمُفۡسِدِينَ",
+      "word_ayah": 86,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 20631,
+      "word_number_in_surah": 1404,
+      "word_surah": 7,
+      "word_translation": "(of) the corrupters",
+      "word_transliteration": "al-muf'sidina"
+    }
+  ],
+  "fullArabic": "وَلَا تَقۡعُدُواْ بِكُلِّ صِرَٰطٖ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ بِهِۦ وَتَبۡغُونَهَا عِوَجٗاۚ وَٱذۡكُرُوٓاْ إِذۡ كُنتُمۡ قَلِيلٗا فَكَثَّرَكُمۡۖ وَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ",
+  "fullTranslation": "And do not sit on every path, threatening and averting from the way of Allah those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.",
+  "fullTransliteration": "wala taq'udu bikulli siratin tu'iduna watasudduna an sabili al-lahi man amana bihi watabghunaha iwajan wa-udh'kuru idh kuntum qalilan fakatharakum wa-unzuru kayfa kana aqibatu al-muf'sidina"
+}

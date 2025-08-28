@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 113,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 902,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِتَصۡغَىٰٓ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18130,
+      "word_number_in_surah": 1953,
+      "word_surah": 6,
+      "word_translation": "And so that incline",
+      "word_transliteration": "walitasgha"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18131,
+      "word_number_in_surah": 1954,
+      "word_surah": 6,
+      "word_translation": "to it",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "أَفۡ‍ِٔدَةُ",
+      "word_ayah": 113,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18132,
+      "word_number_in_surah": 1955,
+      "word_surah": 6,
+      "word_translation": "hearts",
+      "word_transliteration": "afidatu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18133,
+      "word_number_in_surah": 1956,
+      "word_surah": 6,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18134,
+      "word_number_in_surah": 1957,
+      "word_surah": 6,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18135,
+      "word_number_in_surah": 1958,
+      "word_surah": 6,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    },
+    {
+      "word_arabic": "بِٱلۡأٓخِرَةِ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18136,
+      "word_number_in_surah": 1959,
+      "word_surah": 6,
+      "word_translation": "in the Hereafter",
+      "word_transliteration": "bil-akhirati"
+    },
+    {
+      "word_arabic": "وَلِيَرۡضَوۡهُ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18137,
+      "word_number_in_surah": 1960,
+      "word_surah": 6,
+      "word_translation": "and so that they may be pleased with it",
+      "word_transliteration": "waliyardawhu"
+    },
+    {
+      "word_arabic": "وَلِيَقۡتَرِفُواْ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18138,
+      "word_number_in_surah": 1961,
+      "word_surah": 6,
+      "word_translation": "and so that they may commit",
+      "word_transliteration": "waliyaqtarifu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18139,
+      "word_number_in_surah": 1962,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "هُم",
+      "word_ayah": 113,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18140,
+      "word_number_in_surah": 1963,
+      "word_surah": 6,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "مُّقۡتَرِفُونَ",
+      "word_ayah": 113,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18141,
+      "word_number_in_surah": 1964,
+      "word_surah": 6,
+      "word_translation": "(are) committing",
+      "word_transliteration": "muq'tarifuna"
+    }
+  ],
+  "fullArabic": "وَلِتَصۡغَىٰٓ إِلَيۡهِ أَفۡ‍ِٔدَةُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ وَلِيَرۡضَوۡهُ وَلِيَقۡتَرِفُواْ مَا هُم مُّقۡتَرِفُونَ",
+  "fullTranslation": "And [it is] so the hearts of those who disbelieve in the Hereafter will incline toward it and that they will be satisfied with it and that they will commit that which they are committing.",
+  "fullTransliteration": "walitasgha ilayhi afidatu alladhina la yu'minuna bil-akhirati waliyardawhu waliyaqtarifu ma hum muq'tarifuna"
+}

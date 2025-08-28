@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "ayah": 17,
+    "surah": 3,
+    "words": 6,
+    "numberInQuran": 310,
+    "juz": 3,
+    "manzil": 1,
+    "page": 52,
+    "ruku": 43,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلصَّٰبِرِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6408,
+      "word_number_in_surah": 263,
+      "word_surah": 3,
+      "word_translation": "The patient",
+      "word_transliteration": "al-sabirina"
+    },
+    {
+      "word_arabic": "وَٱلصَّٰدِقِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6409,
+      "word_number_in_surah": 264,
+      "word_surah": 3,
+      "word_translation": "and the truthful",
+      "word_transliteration": "wal-sadiqina"
+    },
+    {
+      "word_arabic": "وَٱلۡقَٰنِتِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6410,
+      "word_number_in_surah": 265,
+      "word_surah": 3,
+      "word_translation": "and the obedient",
+      "word_transliteration": "wal-qanitina"
+    },
+    {
+      "word_arabic": "وَٱلۡمُنفِقِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6411,
+      "word_number_in_surah": 266,
+      "word_surah": 3,
+      "word_translation": "and those who spend",
+      "word_transliteration": "wal-munfiqina"
+    },
+    {
+      "word_arabic": "وَٱلۡمُسۡتَغۡفِرِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6412,
+      "word_number_in_surah": 267,
+      "word_surah": 3,
+      "word_translation": "and those who seek forgiveness",
+      "word_transliteration": "wal-mus'taghfirina"
+    },
+    {
+      "word_arabic": "بِٱلۡأَسۡحَارِ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6413,
+      "word_number_in_surah": 268,
+      "word_surah": 3,
+      "word_translation": "[in the] before dawn",
+      "word_transliteration": "bil-ashari"
+    }
+  ],
+  "fullArabic": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلۡقَٰنِتِينَ وَٱلۡمُنفِقِينَ وَٱلۡمُسۡتَغۡفِرِينَ بِٱلۡأَسۡحَارِ",
+  "fullTranslation": "The patient, the true, the obedient, those who spend [in the way of Allah], and those who seek forgiveness before dawn.",
+  "fullTransliteration": "al-sabirina wal-sadiqina wal-qanitina wal-munfiqina wal-mus'taghfirina bil-ashari"
+}

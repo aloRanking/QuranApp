@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "ayah": 118,
+    "surah": 2,
+    "words": 24,
+    "numberInQuran": 125,
+    "juz": 1,
+    "manzil": 1,
+    "page": 18,
+    "ruku": 15,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2077,
+      "word_number_in_surah": 2048,
+      "word_surah": 2,
+      "word_translation": "And said",
+      "word_transliteration": "waqala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2078,
+      "word_number_in_surah": 2049,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2079,
+      "word_number_in_surah": 2050,
+      "word_surah": 2,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2080,
+      "word_number_in_surah": 2051,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ya'lamuna"
+    },
+    {
+      "word_arabic": "لَوۡلَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2081,
+      "word_number_in_surah": 2052,
+      "word_surah": 2,
+      "word_translation": "Why not",
+      "word_transliteration": "lawla"
+    },
+    {
+      "word_arabic": "يُكَلِّمُنَا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2082,
+      "word_number_in_surah": 2053,
+      "word_surah": 2,
+      "word_translation": "speaks to us",
+      "word_transliteration": "yukallimuna"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2083,
+      "word_number_in_surah": 2054,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2084,
+      "word_number_in_surah": 2055,
+      "word_surah": 2,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "تَأۡتِينَآ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2085,
+      "word_number_in_surah": 2056,
+      "word_surah": 2,
+      "word_translation": "comes to us",
+      "word_transliteration": "tatina"
+    },
+    {
+      "word_arabic": "ءَايَةٞۗ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2086,
+      "word_number_in_surah": 2057,
+      "word_surah": 2,
+      "word_translation": "a sign",
+      "word_transliteration": "ayatun"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2087,
+      "word_number_in_surah": 2058,
+      "word_surah": 2,
+      "word_translation": "Like that",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2088,
+      "word_number_in_surah": 2059,
+      "word_surah": 2,
+      "word_translation": "said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2089,
+      "word_number_in_surah": 2060,
+      "word_surah": 2,
+      "word_translation": "those",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 118,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2090,
+      "word_number_in_surah": 2061,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِهِم",
+      "word_ayah": 118,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2091,
+      "word_number_in_surah": 2062,
+      "word_surah": 2,
+      "word_translation": "before them",
+      "word_transliteration": "qablihim"
+    },
+    {
+      "word_arabic": "مِّثۡلَ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2092,
+      "word_number_in_surah": 2063,
+      "word_surah": 2,
+      "word_translation": "similar",
+      "word_transliteration": "mith'la"
+    },
+    {
+      "word_arabic": "قَوۡلِهِمۡۘ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2093,
+      "word_number_in_surah": 2064,
+      "word_surah": 2,
+      "word_translation": "their saying",
+      "word_transliteration": "qawlihim"
+    },
+    {
+      "word_arabic": "تَشَٰبَهَتۡ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 2094,
+      "word_number_in_surah": 2065,
+      "word_surah": 2,
+      "word_translation": "Became alike",
+      "word_transliteration": "tashabahat"
+    },
+    {
+      "word_arabic": "قُلُوبُهُمۡۗ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 2095,
+      "word_number_in_surah": 2066,
+      "word_surah": 2,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubuhum"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 2096,
+      "word_number_in_surah": 2067,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "بَيَّنَّا",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 2097,
+      "word_number_in_surah": 2068,
+      "word_surah": 2,
+      "word_translation": "We have made clear",
+      "word_transliteration": "bayyanna"
+    },
+    {
+      "word_arabic": "ٱلۡأٓيَٰتِ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 2098,
+      "word_number_in_surah": 2069,
+      "word_surah": 2,
+      "word_translation": "the signs",
+      "word_transliteration": "al-ayati"
+    },
+    {
+      "word_arabic": "لِقَوۡمٖ",
+      "word_ayah": 118,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 2099,
+      "word_number_in_surah": 2070,
+      "word_surah": 2,
+      "word_translation": "for people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يُوقِنُونَ",
+      "word_ayah": 118,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 2100,
+      "word_number_in_surah": 2071,
+      "word_surah": 2,
+      "word_translation": "(who) firmly believe",
+      "word_transliteration": "yuqinuna"
+    }
+  ],
+  "fullArabic": "وَقَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ أَوۡ تَأۡتِينَآ ءَايَةٞۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبۡلِهِم مِّثۡلَ قَوۡلِهِمۡۘ تَشَٰبَهَتۡ قُلُوبُهُمۡۗ قَدۡ بَيَّنَّا ٱلۡأٓيَٰتِ لِقَوۡمٖ يُوقِنُونَ",
+  "fullTranslation": "Those who do not know say, \"Why does Allah not speak to us or there come to us a sign?\" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].",
+  "fullTransliteration": "waqala alladhina la ya'lamuna lawla yukallimuna al-lahu aw tatina ayatun kadhalika qala alladhina min qablihim mith'la qawlihim tashabahat qulubuhum qad bayyanna al-ayati liqawmin yuqinuna"
+}

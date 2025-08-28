@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "ayah": 130,
+    "surah": 6,
+    "words": 27,
+    "numberInQuran": 919,
+    "juz": 8,
+    "manzil": 2,
+    "page": 144,
+    "ruku": 117,
+    "hizbQuarter": 58,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰمَعۡشَرَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18435,
+      "word_number_in_surah": 2258,
+      "word_surah": 6,
+      "word_translation": "O assembly",
+      "word_transliteration": "yama'shara"
+    },
+    {
+      "word_arabic": "ٱلۡجِنِّ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18436,
+      "word_number_in_surah": 2259,
+      "word_surah": 6,
+      "word_translation": "(of) [the] jinn",
+      "word_transliteration": "al-jini"
+    },
+    {
+      "word_arabic": "وَٱلۡإِنسِ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18437,
+      "word_number_in_surah": 2260,
+      "word_surah": 6,
+      "word_translation": "and [the] men",
+      "word_transliteration": "wal-insi"
+    },
+    {
+      "word_arabic": "أَلَمۡ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18438,
+      "word_number_in_surah": 2261,
+      "word_surah": 6,
+      "word_translation": "Did (there) not",
+      "word_transliteration": "alam"
+    },
+    {
+      "word_arabic": "يَأۡتِكُمۡ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18439,
+      "word_number_in_surah": 2262,
+      "word_surah": 6,
+      "word_translation": "come to you",
+      "word_transliteration": "yatikum"
+    },
+    {
+      "word_arabic": "رُسُلٞ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18440,
+      "word_number_in_surah": 2263,
+      "word_surah": 6,
+      "word_translation": "Messengers",
+      "word_transliteration": "rusulun"
+    },
+    {
+      "word_arabic": "مِّنكُمۡ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18441,
+      "word_number_in_surah": 2264,
+      "word_surah": 6,
+      "word_translation": "from (among) you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "يَقُصُّونَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18442,
+      "word_number_in_surah": 2265,
+      "word_surah": 6,
+      "word_translation": "relating",
+      "word_transliteration": "yaqussuna"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18443,
+      "word_number_in_surah": 2266,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "ءَايَٰتِي",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18444,
+      "word_number_in_surah": 2267,
+      "word_surah": 6,
+      "word_translation": "My Verses",
+      "word_transliteration": "ayati"
+    },
+    {
+      "word_arabic": "وَيُنذِرُونَكُمۡ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18445,
+      "word_number_in_surah": 2268,
+      "word_surah": 6,
+      "word_translation": "and warning you",
+      "word_transliteration": "wayundhirunakum"
+    },
+    {
+      "word_arabic": "لِقَآءَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18446,
+      "word_number_in_surah": 2269,
+      "word_surah": 6,
+      "word_translation": "(of the) meeting",
+      "word_transliteration": "liqaa"
+    },
+    {
+      "word_arabic": "يَوۡمِكُمۡ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18447,
+      "word_number_in_surah": 2270,
+      "word_surah": 6,
+      "word_translation": "(of) your day",
+      "word_transliteration": "yawmikum"
+    },
+    {
+      "word_arabic": "هَٰذَاۚ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18448,
+      "word_number_in_surah": 2271,
+      "word_surah": 6,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18449,
+      "word_number_in_surah": 2272,
+      "word_surah": 6,
+      "word_translation": "They will say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "شَهِدۡنَا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18450,
+      "word_number_in_surah": 2273,
+      "word_surah": 6,
+      "word_translation": "We bear witness",
+      "word_transliteration": "shahid'na"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18451,
+      "word_number_in_surah": 2274,
+      "word_surah": 6,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَنفُسِنَاۖ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18452,
+      "word_number_in_surah": 2275,
+      "word_surah": 6,
+      "word_translation": "ourselves",
+      "word_transliteration": "anfusina"
+    },
+    {
+      "word_arabic": "وَغَرَّتۡهُمُ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18453,
+      "word_number_in_surah": 2276,
+      "word_surah": 6,
+      "word_translation": "And deluded them",
+      "word_transliteration": "wagharrathumu"
+    },
+    {
+      "word_arabic": "ٱلۡحَيَوٰةُ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18454,
+      "word_number_in_surah": 2277,
+      "word_surah": 6,
+      "word_translation": "the life",
+      "word_transliteration": "al-hayatu"
+    },
+    {
+      "word_arabic": "ٱلدُّنۡيَا",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18455,
+      "word_number_in_surah": 2278,
+      "word_surah": 6,
+      "word_translation": "(of) the world",
+      "word_transliteration": "al-dun'ya"
+    },
+    {
+      "word_arabic": "وَشَهِدُواْ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18456,
+      "word_number_in_surah": 2279,
+      "word_surah": 6,
+      "word_translation": "and they will bear witness",
+      "word_transliteration": "washahidu"
+    },
+    {
+      "word_arabic": "عَلَىٰٓ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18457,
+      "word_number_in_surah": 2280,
+      "word_surah": 6,
+      "word_translation": "against",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 18458,
+      "word_number_in_surah": 2281,
+      "word_surah": 6,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "أَنَّهُمۡ",
+      "word_ayah": 130,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 18459,
+      "word_number_in_surah": 2282,
+      "word_surah": 6,
+      "word_translation": "that they",
+      "word_transliteration": "annahum"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 18460,
+      "word_number_in_surah": 2283,
+      "word_surah": 6,
+      "word_translation": "were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "كَٰفِرِينَ",
+      "word_ayah": 130,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 18461,
+      "word_number_in_surah": 2284,
+      "word_surah": 6,
+      "word_translation": "disbelievers",
+      "word_transliteration": "kafirina"
+    }
+  ],
+  "fullArabic": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ أَلَمۡ يَأۡتِكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ ءَايَٰتِي وَيُنذِرُونَكُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَاۚ قَالُواْ شَهِدۡنَا عَلَىٰٓ أَنفُسِنَاۖ وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَشَهِدُواْ عَلَىٰٓ أَنفُسِهِمۡ أَنَّهُمۡ كَانُواْ كَٰفِرِينَ",
+  "fullTranslation": "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours? They will say, \"We bear witness against ourselves\"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.",
+  "fullTransliteration": "yama'shara al-jini wal-insi alam yatikum rusulun minkum yaqussuna alaykum ayati wayundhirunakum liqaa yawmikum hadha qalu shahid'na ala anfusina wagharrathumu al-hayatu al-dun'ya washahidu ala anfusihim annahum kanu kafirina"
+}

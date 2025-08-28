@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "ayah": 62,
+    "surah": 8,
+    "words": 12,
+    "numberInQuran": 1222,
+    "juz": 10,
+    "manzil": 2,
+    "page": 185,
+    "ruku": 153,
+    "hizbQuarter": 74,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 62,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23514,
+      "word_number_in_surah": 967,
+      "word_surah": 8,
+      "word_translation": "But if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يُرِيدُوٓاْ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23515,
+      "word_number_in_surah": 968,
+      "word_surah": 8,
+      "word_translation": "they intend",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 62,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23516,
+      "word_number_in_surah": 969,
+      "word_surah": 8,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَخۡدَعُوكَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23517,
+      "word_number_in_surah": 970,
+      "word_surah": 8,
+      "word_translation": "deceive you",
+      "word_transliteration": "yakhda'uka"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23518,
+      "word_number_in_surah": 971,
+      "word_surah": 8,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "حَسۡبَكَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23519,
+      "word_number_in_surah": 972,
+      "word_surah": 8,
+      "word_translation": "is sufficient for you",
+      "word_transliteration": "hasbaka"
+    },
+    {
+      "word_arabic": "ٱللَّهُۚ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23520,
+      "word_number_in_surah": 973,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23521,
+      "word_number_in_surah": 974,
+      "word_surah": 8,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23522,
+      "word_number_in_surah": 975,
+      "word_surah": 8,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "أَيَّدَكَ",
+      "word_ayah": 62,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23523,
+      "word_number_in_surah": 976,
+      "word_surah": 8,
+      "word_translation": "supported you",
+      "word_transliteration": "ayyadaka"
+    },
+    {
+      "word_arabic": "بِنَصۡرِهِۦ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23524,
+      "word_number_in_surah": 977,
+      "word_surah": 8,
+      "word_translation": "with His help",
+      "word_transliteration": "binasrihi"
+    },
+    {
+      "word_arabic": "وَبِٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 62,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23525,
+      "word_number_in_surah": 978,
+      "word_surah": 8,
+      "word_translation": "and with the believers",
+      "word_transliteration": "wabil-mu'minina"
+    }
+  ],
+  "fullArabic": "وَإِن يُرِيدُوٓاْ أَن يَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِيٓ أَيَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِينَ",
+  "fullTranslation": "But if they intend to deceive you - then sufficient for you is Allah. It is He who supported you with His help and with the believers",
+  "fullTransliteration": "wa-in yuridu an yakhda'uka fa-inna hasbaka al-lahu huwa alladhi ayyadaka binasrihi wabil-mu'minina"
+}

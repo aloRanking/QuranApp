@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 166,
+    "surah": 3,
+    "words": 9,
+    "numberInQuran": 459,
+    "juz": 4,
+    "manzil": 1,
+    "page": 72,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8988,
+      "word_number_in_surah": 2843,
+      "word_surah": 3,
+      "word_translation": "And what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَصَٰبَكُمۡ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8989,
+      "word_number_in_surah": 2844,
+      "word_surah": 3,
+      "word_translation": "struck you",
+      "word_transliteration": "asabakum"
+    },
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8990,
+      "word_number_in_surah": 2845,
+      "word_surah": 3,
+      "word_translation": "(on the) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "ٱلۡتَقَى",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8991,
+      "word_number_in_surah": 2846,
+      "word_surah": 3,
+      "word_translation": "(when) met",
+      "word_transliteration": "al-taqa"
+    },
+    {
+      "word_arabic": "ٱلۡجَمۡعَانِ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8992,
+      "word_number_in_surah": 2847,
+      "word_surah": 3,
+      "word_translation": "the two hosts",
+      "word_transliteration": "al-jam'ani"
+    },
+    {
+      "word_arabic": "فَبِإِذۡنِ",
+      "word_ayah": 166,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8993,
+      "word_number_in_surah": 2848,
+      "word_surah": 3,
+      "word_translation": "by (the) permission",
+      "word_transliteration": "fabi-idh'ni"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8994,
+      "word_number_in_surah": 2849,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَلِيَعۡلَمَ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8995,
+      "word_number_in_surah": 2850,
+      "word_surah": 3,
+      "word_translation": "and that He (might) make evident",
+      "word_transliteration": "waliya'lama"
+    },
+    {
+      "word_arabic": "ٱلۡمُؤۡمِنِينَ",
+      "word_ayah": 166,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8996,
+      "word_number_in_surah": 2851,
+      "word_surah": 3,
+      "word_translation": "the believers",
+      "word_transliteration": "al-mu'minina"
+    }
+  ],
+  "fullArabic": "وَمَآ أَصَٰبَكُمۡ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ فَبِإِذۡنِ ٱللَّهِ وَلِيَعۡلَمَ ٱلۡمُؤۡمِنِينَ",
+  "fullTranslation": "And what struck you on the day the two armies met was by permission of Allah that He might make evident the [true] believers.",
+  "fullTransliteration": "wama asabakum yawma al-taqa al-jam'ani fabi-idh'ni al-lahi waliya'lama al-mu'minina"
+}

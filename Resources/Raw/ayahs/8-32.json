@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "ayah": 32,
+    "surah": 8,
+    "words": 19,
+    "numberInQuran": 1192,
+    "juz": 9,
+    "manzil": 2,
+    "page": 180,
+    "ruku": 149,
+    "hizbQuarter": 72,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذۡ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22992,
+      "word_number_in_surah": 445,
+      "word_surah": 8,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idh"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22993,
+      "word_number_in_surah": 446,
+      "word_surah": 8,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ٱللَّهُمَّ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22994,
+      "word_number_in_surah": 447,
+      "word_surah": 8,
+      "word_translation": "O Allah",
+      "word_transliteration": "al-lahuma"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 32,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22995,
+      "word_number_in_surah": 448,
+      "word_surah": 8,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22996,
+      "word_number_in_surah": 449,
+      "word_surah": 8,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "هَٰذَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22997,
+      "word_number_in_surah": 450,
+      "word_surah": 8,
+      "word_translation": "this",
+      "word_transliteration": "hadha"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22998,
+      "word_number_in_surah": 451,
+      "word_surah": 8,
+      "word_translation": "[it]",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22999,
+      "word_number_in_surah": 452,
+      "word_surah": 8,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23000,
+      "word_number_in_surah": 453,
+      "word_surah": 8,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِكَ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23001,
+      "word_number_in_surah": 454,
+      "word_surah": 8,
+      "word_translation": "from You",
+      "word_transliteration": "indika"
+    },
+    {
+      "word_arabic": "فَأَمۡطِرۡ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23002,
+      "word_number_in_surah": 455,
+      "word_surah": 8,
+      "word_translation": "then (send) rain",
+      "word_transliteration": "fa-amtir"
+    },
+    {
+      "word_arabic": "عَلَيۡنَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23003,
+      "word_number_in_surah": 456,
+      "word_surah": 8,
+      "word_translation": "upon us",
+      "word_transliteration": "alayna"
+    },
+    {
+      "word_arabic": "حِجَارَةٗ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23004,
+      "word_number_in_surah": 457,
+      "word_surah": 8,
+      "word_translation": "(of) stones",
+      "word_transliteration": "hijaratan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23005,
+      "word_number_in_surah": 458,
+      "word_surah": 8,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23006,
+      "word_number_in_surah": 459,
+      "word_surah": 8,
+      "word_translation": "the sky",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "أَوِ",
+      "word_ayah": 32,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23007,
+      "word_number_in_surah": 460,
+      "word_surah": 8,
+      "word_translation": "or",
+      "word_transliteration": "awi"
+    },
+    {
+      "word_arabic": "ٱئۡتِنَا",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23008,
+      "word_number_in_surah": 461,
+      "word_surah": 8,
+      "word_translation": "bring (upon) us",
+      "word_transliteration": "i'tina"
+    },
+    {
+      "word_arabic": "بِعَذَابٍ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23009,
+      "word_number_in_surah": 462,
+      "word_surah": 8,
+      "word_translation": "a punishment",
+      "word_transliteration": "bi'adhabin"
+    },
+    {
+      "word_arabic": "أَلِيمٖ",
+      "word_ayah": 32,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23010,
+      "word_number_in_surah": 463,
+      "word_surah": 8,
+      "word_translation": "painful",
+      "word_transliteration": "alimin"
+    }
+  ],
+  "fullArabic": "وَإِذۡ قَالُواْ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَيۡنَا حِجَارَةٗ مِّنَ ٱلسَّمَآءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِيمٖ",
+  "fullTranslation": "And [remember] when they said, \"O Allah, if this should be the truth from You, then rain down upon us stones from the sky or bring us a painful punishment.\"",
+  "fullTransliteration": "wa-idh qalu al-lahuma in kana hadha huwa al-haqa min indika fa-amtir alayna hijaratan mina al-samai awi i'tina bi'adhabin alimin"
+}

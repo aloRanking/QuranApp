@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "ayah": 20,
+    "surah": 4,
+    "words": 17,
+    "numberInQuran": 513,
+    "juz": 4,
+    "manzil": 1,
+    "page": 81,
+    "ruku": 64,
+    "hizbQuarter": 32,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِنۡ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10130,
+      "word_number_in_surah": 504,
+      "word_surah": 4,
+      "word_translation": "And if",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "أَرَدتُّمُ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10131,
+      "word_number_in_surah": 505,
+      "word_surah": 4,
+      "word_translation": "you intend",
+      "word_transliteration": "aradttumu"
+    },
+    {
+      "word_arabic": "ٱسۡتِبۡدَالَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10132,
+      "word_number_in_surah": 506,
+      "word_surah": 4,
+      "word_translation": "replacing",
+      "word_transliteration": "is'tib'dala"
+    },
+    {
+      "word_arabic": "زَوۡجٖ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10133,
+      "word_number_in_surah": 507,
+      "word_surah": 4,
+      "word_translation": "a wife",
+      "word_transliteration": "zawjin"
+    },
+    {
+      "word_arabic": "مَّكَانَ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10134,
+      "word_number_in_surah": 508,
+      "word_surah": 4,
+      "word_translation": "(in) place",
+      "word_transliteration": "makana"
+    },
+    {
+      "word_arabic": "زَوۡجٖ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10135,
+      "word_number_in_surah": 509,
+      "word_surah": 4,
+      "word_translation": "(of) a wife",
+      "word_transliteration": "zawjin"
+    },
+    {
+      "word_arabic": "وَءَاتَيۡتُمۡ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10136,
+      "word_number_in_surah": 510,
+      "word_surah": 4,
+      "word_translation": "and you have given",
+      "word_transliteration": "waataytum"
+    },
+    {
+      "word_arabic": "إِحۡدَىٰهُنَّ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10137,
+      "word_number_in_surah": 511,
+      "word_surah": 4,
+      "word_translation": "one of them",
+      "word_transliteration": "ih'dahunna"
+    },
+    {
+      "word_arabic": "قِنطَارٗا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10138,
+      "word_number_in_surah": 512,
+      "word_surah": 4,
+      "word_translation": "heap (of gold)",
+      "word_transliteration": "qintaran"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10139,
+      "word_number_in_surah": 513,
+      "word_surah": 4,
+      "word_translation": "then (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَأۡخُذُواْ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10140,
+      "word_number_in_surah": 514,
+      "word_surah": 4,
+      "word_translation": "take away",
+      "word_transliteration": "takhudhu"
+    },
+    {
+      "word_arabic": "مِنۡهُ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10141,
+      "word_number_in_surah": 515,
+      "word_surah": 4,
+      "word_translation": "from it",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "شَيۡ‍ًٔاۚ",
+      "word_ayah": 20,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10142,
+      "word_number_in_surah": 516,
+      "word_surah": 4,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "أَتَأۡخُذُونَهُۥ",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 10143,
+      "word_number_in_surah": 517,
+      "word_surah": 4,
+      "word_translation": "Would you take it",
+      "word_transliteration": "atakhudhunahu"
+    },
+    {
+      "word_arabic": "بُهۡتَٰنٗا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 10144,
+      "word_number_in_surah": 518,
+      "word_surah": 4,
+      "word_translation": "(by) slander",
+      "word_transliteration": "buh'tanan"
+    },
+    {
+      "word_arabic": "وَإِثۡمٗا",
+      "word_ayah": 20,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 10145,
+      "word_number_in_surah": 519,
+      "word_surah": 4,
+      "word_translation": "and a sin",
+      "word_transliteration": "wa-ith'man"
+    },
+    {
+      "word_arabic": "مُّبِينٗا",
+      "word_ayah": 20,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 10146,
+      "word_number_in_surah": 520,
+      "word_surah": 4,
+      "word_translation": "open",
+      "word_transliteration": "mubinan"
+    }
+  ],
+  "fullArabic": "وَإِنۡ أَرَدتُّمُ ٱسۡتِبۡدَالَ زَوۡجٖ مَّكَانَ زَوۡجٖ وَءَاتَيۡتُمۡ إِحۡدَىٰهُنَّ قِنطَارٗا فَلَا تَأۡخُذُواْ مِنۡهُ شَيۡ‍ًٔاۚ أَتَأۡخُذُونَهُۥ بُهۡتَٰنٗا وَإِثۡمٗا مُّبِينٗا",
+  "fullTranslation": "But if you want to replace one wife with another and you have given one of them a great amount [in gifts], do not take [back] from it anything. Would you take it in injustice and manifest sin?",
+  "fullTransliteration": "wa-in aradttumu is'tib'dala zawjin makana zawjin waataytum ih'dahunna qintaran fala takhudhu min'hu shayan atakhudhunahu buh'tanan wa-ith'man mubinan"
+}

@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 199,
+    "surah": 7,
+    "words": 7,
+    "numberInQuran": 1153,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "خُذِ",
+      "word_ayah": 199,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22454,
+      "word_number_in_surah": 3227,
+      "word_surah": 7,
+      "word_translation": "Hold",
+      "word_transliteration": "khudhi"
+    },
+    {
+      "word_arabic": "ٱلۡعَفۡوَ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22455,
+      "word_number_in_surah": 3228,
+      "word_surah": 7,
+      "word_translation": "(to) forgiveness",
+      "word_transliteration": "al-'afwa"
+    },
+    {
+      "word_arabic": "وَأۡمُرۡ",
+      "word_ayah": 199,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22456,
+      "word_number_in_surah": 3229,
+      "word_surah": 7,
+      "word_translation": "and enjoin",
+      "word_transliteration": "wamur"
+    },
+    {
+      "word_arabic": "بِٱلۡعُرۡفِ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22457,
+      "word_number_in_surah": 3230,
+      "word_surah": 7,
+      "word_translation": "the good",
+      "word_transliteration": "bil-'ur'fi"
+    },
+    {
+      "word_arabic": "وَأَعۡرِضۡ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22458,
+      "word_number_in_surah": 3231,
+      "word_surah": 7,
+      "word_translation": "and turn away",
+      "word_transliteration": "wa-a'rid"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22459,
+      "word_number_in_surah": 3232,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡجَٰهِلِينَ",
+      "word_ayah": 199,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22460,
+      "word_number_in_surah": 3233,
+      "word_surah": 7,
+      "word_translation": "the ignorant",
+      "word_transliteration": "al-jahilina"
+    }
+  ],
+  "fullArabic": "خُذِ ٱلۡعَفۡوَ وَأۡمُرۡ بِٱلۡعُرۡفِ وَأَعۡرِضۡ عَنِ ٱلۡجَٰهِلِينَ",
+  "fullTranslation": "Take what is given freely, enjoin what is good, and turn away from the ignorant.",
+  "fullTransliteration": "khudhi al-'afwa wamur bil-'ur'fi wa-a'rid ani al-jahilina"
+}

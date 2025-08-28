@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "ayah": 148,
+    "surah": 2,
+    "words": 19,
+    "numberInQuran": 155,
+    "juz": 2,
+    "manzil": 1,
+    "page": 23,
+    "ruku": 19,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِكُلّٖ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2676,
+      "word_number_in_surah": 2647,
+      "word_surah": 2,
+      "word_translation": "And for everyone",
+      "word_transliteration": "walikullin"
+    },
+    {
+      "word_arabic": "وِجۡهَةٌ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2677,
+      "word_number_in_surah": 2648,
+      "word_surah": 2,
+      "word_translation": "(is) a direction",
+      "word_transliteration": "wij'hatun"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2678,
+      "word_number_in_surah": 2649,
+      "word_surah": 2,
+      "word_translation": "he",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "مُوَلِّيهَاۖ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2679,
+      "word_number_in_surah": 2650,
+      "word_surah": 2,
+      "word_translation": "turns towards it",
+      "word_transliteration": "muwalliha"
+    },
+    {
+      "word_arabic": "فَٱسۡتَبِقُواْ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2680,
+      "word_number_in_surah": 2651,
+      "word_surah": 2,
+      "word_translation": "so race",
+      "word_transliteration": "fa-is'tabiqu"
+    },
+    {
+      "word_arabic": "ٱلۡخَيۡرَٰتِۚ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2681,
+      "word_number_in_surah": 2652,
+      "word_surah": 2,
+      "word_translation": "(to) the good",
+      "word_transliteration": "al-khayrati"
+    },
+    {
+      "word_arabic": "أَيۡنَ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2682,
+      "word_number_in_surah": 2653,
+      "word_surah": 2,
+      "word_translation": "Wherever",
+      "word_transliteration": "ayna"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2683,
+      "word_number_in_surah": 2654,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَكُونُواْ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2684,
+      "word_number_in_surah": 2655,
+      "word_surah": 2,
+      "word_translation": "you will be",
+      "word_transliteration": "takunu"
+    },
+    {
+      "word_arabic": "يَأۡتِ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2685,
+      "word_number_in_surah": 2656,
+      "word_surah": 2,
+      "word_translation": "will bring",
+      "word_transliteration": "yati"
+    },
+    {
+      "word_arabic": "بِكُمُ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2686,
+      "word_number_in_surah": 2657,
+      "word_surah": 2,
+      "word_translation": "you",
+      "word_transliteration": "bikumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2687,
+      "word_number_in_surah": 2658,
+      "word_surah": 2,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "جَمِيعًاۚ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2688,
+      "word_number_in_surah": 2659,
+      "word_surah": 2,
+      "word_translation": "together",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2689,
+      "word_number_in_surah": 2660,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2690,
+      "word_number_in_surah": 2661,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2691,
+      "word_number_in_surah": 2662,
+      "word_surah": 2,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2692,
+      "word_number_in_surah": 2663,
+      "word_surah": 2,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 148,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 2693,
+      "word_number_in_surah": 2664,
+      "word_surah": 2,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٞ",
+      "word_ayah": 148,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 2694,
+      "word_number_in_surah": 2665,
+      "word_surah": 2,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "وَلِكُلّٖ وِجۡهَةٌ هُوَ مُوَلِّيهَاۖ فَٱسۡتَبِقُواْ ٱلۡخَيۡرَٰتِۚ أَيۡنَ مَا تَكُونُواْ يَأۡتِ بِكُمُ ٱللَّهُ جَمِيعًاۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "fullTranslation": "For each [religious following] is a direction toward which it faces. So race to [all that is] good. Wherever you may be, Allah will bring you forth [for judgement] all together. Indeed, Allah is over all things competent.",
+  "fullTransliteration": "walikullin wij'hatun huwa muwalliha fa-is'tabiqu al-khayrati ayna ma takunu yati bikumu al-lahu jami'an inna al-laha ala kulli shayin qadirun"
+}

@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 30,
+    "surah": 4,
+    "words": 13,
+    "numberInQuran": 523,
+    "juz": 5,
+    "manzil": 1,
+    "page": 83,
+    "ruku": 66,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 30,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10387,
+      "word_number_in_surah": 761,
+      "word_surah": 4,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يَفۡعَلۡ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10388,
+      "word_number_in_surah": 762,
+      "word_surah": 4,
+      "word_translation": "does",
+      "word_transliteration": "yaf 'al"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10389,
+      "word_number_in_surah": 763,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "عُدۡوَٰنٗا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10390,
+      "word_number_in_surah": 764,
+      "word_surah": 4,
+      "word_translation": "(in) aggression",
+      "word_transliteration": "ud'wanan"
+    },
+    {
+      "word_arabic": "وَظُلۡمٗا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10391,
+      "word_number_in_surah": 765,
+      "word_surah": 4,
+      "word_translation": "and injustice",
+      "word_transliteration": "wazul'man"
+    },
+    {
+      "word_arabic": "فَسَوۡفَ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10392,
+      "word_number_in_surah": 766,
+      "word_surah": 4,
+      "word_translation": "then soon",
+      "word_transliteration": "fasawfa"
+    },
+    {
+      "word_arabic": "نُصۡلِيهِ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10393,
+      "word_number_in_surah": 767,
+      "word_surah": 4,
+      "word_translation": "We (will) cast him",
+      "word_transliteration": "nus'lihi"
+    },
+    {
+      "word_arabic": "نَارٗاۚ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10394,
+      "word_number_in_surah": 768,
+      "word_surah": 4,
+      "word_translation": "(into) a Fire",
+      "word_transliteration": "naran"
+    },
+    {
+      "word_arabic": "وَكَانَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10395,
+      "word_number_in_surah": 769,
+      "word_surah": 4,
+      "word_translation": "And is",
+      "word_transliteration": "wakana"
+    },
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10396,
+      "word_number_in_surah": 770,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10397,
+      "word_number_in_surah": 771,
+      "word_surah": 4,
+      "word_translation": "for",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10398,
+      "word_number_in_surah": 772,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يَسِيرًا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10399,
+      "word_number_in_surah": 773,
+      "word_surah": 4,
+      "word_translation": "easy",
+      "word_transliteration": "yasiran"
+    }
+  ],
+  "fullArabic": "وَمَن يَفۡعَلۡ ذَٰلِكَ عُدۡوَٰنٗا وَظُلۡمٗا فَسَوۡفَ نُصۡلِيهِ نَارٗاۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+  "fullTranslation": "And whoever does that in aggression and injustice - then We will drive him into a Fire. And that, for Allah, is [always] easy.",
+  "fullTransliteration": "waman yaf 'al dhalika ud'wanan wazul'man fasawfa nus'lihi naran wakana dhalika ala al-lahi yasiran"
+}

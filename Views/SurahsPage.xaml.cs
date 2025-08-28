@@ -14,6 +14,12 @@ public partial class SurahsPage : ReactiveContentPage<SurahsViewModel>
     {
         InitializeComponent();
         BindingContext = ViewModel = viewModel;
+        BindingContext = viewModel;
+
+        viewModel.CancelSearchCommand.Subscribe(_ =>
+        {
+            SearchEntry.Unfocus();
+        });
     }
 
     protected override async void OnAppearing()

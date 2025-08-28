@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "ayah": 107,
+    "surah": 6,
+    "words": 13,
+    "numberInQuran": 896,
+    "juz": 7,
+    "manzil": 2,
+    "page": 141,
+    "ruku": 114,
+    "hizbQuarter": 56,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18013,
+      "word_number_in_surah": 1836,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18014,
+      "word_number_in_surah": 1837,
+      "word_surah": 6,
+      "word_translation": "(had) willed",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18015,
+      "word_number_in_surah": 1838,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18016,
+      "word_number_in_surah": 1839,
+      "word_surah": 6,
+      "word_translation": "not (they would have)",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَشۡرَكُواْۗ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18017,
+      "word_number_in_surah": 1840,
+      "word_surah": 6,
+      "word_translation": "associated partners (with Him)",
+      "word_transliteration": "ashraku"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18018,
+      "word_number_in_surah": 1841,
+      "word_surah": 6,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "جَعَلۡنَٰكَ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18019,
+      "word_number_in_surah": 1842,
+      "word_surah": 6,
+      "word_translation": "We have made you",
+      "word_transliteration": "ja'alnaka"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18020,
+      "word_number_in_surah": 1843,
+      "word_surah": 6,
+      "word_translation": "over them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "حَفِيظٗاۖ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18021,
+      "word_number_in_surah": 1844,
+      "word_surah": 6,
+      "word_translation": "a guardian",
+      "word_transliteration": "hafizan"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18022,
+      "word_number_in_surah": 1845,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَنتَ",
+      "word_ayah": 107,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18023,
+      "word_number_in_surah": 1846,
+      "word_surah": 6,
+      "word_translation": "you",
+      "word_transliteration": "anta"
+    },
+    {
+      "word_arabic": "عَلَيۡهِم",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18024,
+      "word_number_in_surah": 1847,
+      "word_surah": 6,
+      "word_translation": "(are) over them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "بِوَكِيلٖ",
+      "word_ayah": 107,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18025,
+      "word_number_in_surah": 1848,
+      "word_surah": 6,
+      "word_translation": "a manager",
+      "word_transliteration": "biwakilin"
+    }
+  ],
+  "fullArabic": "وَلَوۡ شَآءَ ٱللَّهُ مَآ أَشۡرَكُواْۗ وَمَا جَعَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗاۖ وَمَآ أَنتَ عَلَيۡهِم بِوَكِيلٖ",
+  "fullTranslation": "But if Allah had willed, they would not have associated. And We have not appointed you over them as a guardian, nor are you a manager over them.",
+  "fullTransliteration": "walaw shaa al-lahu ma ashraku wama ja'alnaka alayhim hafizan wama anta alayhim biwakilin"
+}

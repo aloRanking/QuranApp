@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "ayah": 16,
+    "surah": 3,
+    "words": 11,
+    "numberInQuran": 309,
+    "juz": 3,
+    "manzil": 1,
+    "page": 52,
+    "ruku": 43,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6397,
+      "word_number_in_surah": 252,
+      "word_surah": 3,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَقُولُونَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6398,
+      "word_number_in_surah": 253,
+      "word_surah": 3,
+      "word_translation": "say",
+      "word_transliteration": "yaquluna"
+    },
+    {
+      "word_arabic": "رَبَّنَآ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6399,
+      "word_number_in_surah": 254,
+      "word_surah": 3,
+      "word_translation": "Our Lord!",
+      "word_transliteration": "rabbana"
+    },
+    {
+      "word_arabic": "إِنَّنَآ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6400,
+      "word_number_in_surah": 255,
+      "word_surah": 3,
+      "word_translation": "Indeed we",
+      "word_transliteration": "innana"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6401,
+      "word_number_in_surah": 256,
+      "word_surah": 3,
+      "word_translation": "(have) believed",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "فَٱغۡفِرۡ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6402,
+      "word_number_in_surah": 257,
+      "word_surah": 3,
+      "word_translation": "so forgive",
+      "word_transliteration": "fa-igh'fir"
+    },
+    {
+      "word_arabic": "لَنَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6403,
+      "word_number_in_surah": 258,
+      "word_surah": 3,
+      "word_translation": "for us",
+      "word_transliteration": "lana"
+    },
+    {
+      "word_arabic": "ذُنُوبَنَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6404,
+      "word_number_in_surah": 259,
+      "word_surah": 3,
+      "word_translation": "our sins",
+      "word_transliteration": "dhunubana"
+    },
+    {
+      "word_arabic": "وَقِنَا",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6405,
+      "word_number_in_surah": 260,
+      "word_surah": 3,
+      "word_translation": "and save us",
+      "word_transliteration": "waqina"
+    },
+    {
+      "word_arabic": "عَذَابَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6406,
+      "word_number_in_surah": 261,
+      "word_surah": 3,
+      "word_translation": "(from) punishment",
+      "word_transliteration": "adhaba"
+    },
+    {
+      "word_arabic": "ٱلنَّارِ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6407,
+      "word_number_in_surah": 262,
+      "word_surah": 3,
+      "word_translation": "(of) the Fire",
+      "word_transliteration": "al-nari"
+    }
+  ],
+  "fullArabic": "ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+  "fullTranslation": "Those who say, \"Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,\"",
+  "fullTransliteration": "alladhina yaquluna rabbana innana amanna fa-igh'fir lana dhunubana waqina adhaba al-nari"
+}

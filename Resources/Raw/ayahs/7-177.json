@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ayah": 177,
+    "surah": 7,
+    "words": 9,
+    "numberInQuran": 1131,
+    "juz": 9,
+    "manzil": 2,
+    "page": 173,
+    "ruku": 143,
+    "hizbQuarter": 69,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "سَآءَ",
+      "word_ayah": 177,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22125,
+      "word_number_in_surah": 2898,
+      "word_surah": 7,
+      "word_translation": "Evil",
+      "word_transliteration": "saa"
+    },
+    {
+      "word_arabic": "مَثَلًا",
+      "word_ayah": 177,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22126,
+      "word_number_in_surah": 2899,
+      "word_surah": 7,
+      "word_translation": "(as) an example",
+      "word_transliteration": "mathalan"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمُ",
+      "word_ayah": 177,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22127,
+      "word_number_in_surah": 2900,
+      "word_surah": 7,
+      "word_translation": "(are) the people",
+      "word_transliteration": "al-qawmu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 177,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22128,
+      "word_number_in_surah": 2901,
+      "word_surah": 7,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 177,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22129,
+      "word_number_in_surah": 2902,
+      "word_surah": 7,
+      "word_translation": "denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَا",
+      "word_ayah": 177,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22130,
+      "word_number_in_surah": 2903,
+      "word_surah": 7,
+      "word_translation": "Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "وَأَنفُسَهُمۡ",
+      "word_ayah": 177,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22131,
+      "word_number_in_surah": 2904,
+      "word_surah": 7,
+      "word_translation": "and themselves",
+      "word_transliteration": "wa-anfusahum"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 177,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22132,
+      "word_number_in_surah": 2905,
+      "word_surah": 7,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَظۡلِمُونَ",
+      "word_ayah": 177,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22133,
+      "word_number_in_surah": 2906,
+      "word_surah": 7,
+      "word_translation": "wrong",
+      "word_transliteration": "yazlimuna"
+    }
+  ],
+  "fullArabic": "سَآءَ مَثَلًا ٱلۡقَوۡمُ ٱلَّذِينَ كَذَّبُواْ بِ‍َٔايَٰتِنَا وَأَنفُسَهُمۡ كَانُواْ يَظۡلِمُونَ",
+  "fullTranslation": "How evil an example [is that of] the people who denied Our signs and used to wrong themselves.",
+  "fullTransliteration": "saa mathalan al-qawmu alladhina kadhabu biayatina wa-anfusahum kanu yazlimuna"
+}

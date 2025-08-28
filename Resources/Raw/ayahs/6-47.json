@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "ayah": 47,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 836,
+    "juz": 7,
+    "manzil": 2,
+    "page": 133,
+    "ruku": 106,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16909,
+      "word_number_in_surah": 732,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "أَرَءَيۡتَكُمۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16910,
+      "word_number_in_surah": 733,
+      "word_surah": 6,
+      "word_translation": "Have you seen",
+      "word_transliteration": "ara-aytakum"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16911,
+      "word_number_in_surah": 734,
+      "word_surah": 6,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "أَتَىٰكُمۡ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16912,
+      "word_number_in_surah": 735,
+      "word_surah": 6,
+      "word_translation": "comes to you",
+      "word_transliteration": "atakum"
+    },
+    {
+      "word_arabic": "عَذَابُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16913,
+      "word_number_in_surah": 736,
+      "word_surah": 6,
+      "word_translation": "punishment",
+      "word_transliteration": "adhabu"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16914,
+      "word_number_in_surah": 737,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "بَغۡتَةً",
+      "word_ayah": 47,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16915,
+      "word_number_in_surah": 738,
+      "word_surah": 6,
+      "word_translation": "suddenly",
+      "word_transliteration": "baghtatan"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16916,
+      "word_number_in_surah": 739,
+      "word_surah": 6,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "جَهۡرَةً",
+      "word_ayah": 47,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16917,
+      "word_number_in_surah": 740,
+      "word_surah": 6,
+      "word_translation": "openly",
+      "word_transliteration": "jahratan"
+    },
+    {
+      "word_arabic": "هَلۡ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16918,
+      "word_number_in_surah": 741,
+      "word_surah": 6,
+      "word_translation": "will",
+      "word_transliteration": "hal"
+    },
+    {
+      "word_arabic": "يُهۡلَكُ",
+      "word_ayah": 47,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16919,
+      "word_number_in_surah": 742,
+      "word_surah": 6,
+      "word_translation": "(any) be destroyed",
+      "word_transliteration": "yuh'laku"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16920,
+      "word_number_in_surah": 743,
+      "word_surah": 6,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمُ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16921,
+      "word_number_in_surah": 744,
+      "word_surah": 6,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmu"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمُونَ",
+      "word_ayah": 47,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16922,
+      "word_number_in_surah": 745,
+      "word_surah": 6,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimuna"
+    }
+  ],
+  "fullArabic": "قُلۡ أَرَءَيۡتَكُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُ ٱللَّهِ بَغۡتَةً أَوۡ جَهۡرَةً هَلۡ يُهۡلَكُ إِلَّا ٱلۡقَوۡمُ ٱلظَّٰلِمُونَ",
+  "fullTranslation": "Say, \"Have you considered: if the punishment of Allah should come to you unexpectedly or manifestly, will any be destroyed but the wrongdoing people?\"",
+  "fullTransliteration": "qul ara-aytakum in atakum adhabu al-lahi baghtatan aw jahratan hal yuh'laku illa al-qawmu al-zalimuna"
+}

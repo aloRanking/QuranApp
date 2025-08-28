@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "ayah": 31,
+    "surah": 4,
+    "words": 12,
+    "numberInQuran": 524,
+    "juz": 5,
+    "manzil": 1,
+    "page": 83,
+    "ruku": 66,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 31,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10400,
+      "word_number_in_surah": 774,
+      "word_surah": 4,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تَجۡتَنِبُواْ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10401,
+      "word_number_in_surah": 775,
+      "word_surah": 4,
+      "word_translation": "you avoid",
+      "word_transliteration": "tajtanibu"
+    },
+    {
+      "word_arabic": "كَبَآئِرَ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10402,
+      "word_number_in_surah": 776,
+      "word_surah": 4,
+      "word_translation": "great (sins)",
+      "word_transliteration": "kabaira"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10403,
+      "word_number_in_surah": 777,
+      "word_surah": 4,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تُنۡهَوۡنَ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10404,
+      "word_number_in_surah": 778,
+      "word_surah": 4,
+      "word_translation": "you are forbidden",
+      "word_transliteration": "tun'hawna"
+    },
+    {
+      "word_arabic": "عَنۡهُ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10405,
+      "word_number_in_surah": 779,
+      "word_surah": 4,
+      "word_translation": "from [it]",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "نُكَفِّرۡ",
+      "word_ayah": 31,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10406,
+      "word_number_in_surah": 780,
+      "word_surah": 4,
+      "word_translation": "We will remove",
+      "word_transliteration": "nukaffir"
+    },
+    {
+      "word_arabic": "عَنكُمۡ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10407,
+      "word_number_in_surah": 781,
+      "word_surah": 4,
+      "word_translation": "from you",
+      "word_transliteration": "ankum"
+    },
+    {
+      "word_arabic": "سَيِّ‍َٔاتِكُمۡ",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10408,
+      "word_number_in_surah": 782,
+      "word_surah": 4,
+      "word_translation": "your evil deeds",
+      "word_transliteration": "sayyiatikum"
+    },
+    {
+      "word_arabic": "وَنُدۡخِلۡكُم",
+      "word_ayah": 31,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10409,
+      "word_number_in_surah": 783,
+      "word_surah": 4,
+      "word_translation": "and We will admit you",
+      "word_transliteration": "wanud'khil'kum"
+    },
+    {
+      "word_arabic": "مُّدۡخَلٗا",
+      "word_ayah": 31,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10410,
+      "word_number_in_surah": 784,
+      "word_surah": 4,
+      "word_translation": "(to) an entrance",
+      "word_transliteration": "mud'khalan"
+    },
+    {
+      "word_arabic": "كَرِيمٗا",
+      "word_ayah": 31,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10411,
+      "word_number_in_surah": 785,
+      "word_surah": 4,
+      "word_translation": "a noble",
+      "word_transliteration": "kariman"
+    }
+  ],
+  "fullArabic": "إِن تَجۡتَنِبُواْ كَبَآئِرَ مَا تُنۡهَوۡنَ عَنۡهُ نُكَفِّرۡ عَنكُمۡ سَيِّ‍َٔاتِكُمۡ وَنُدۡخِلۡكُم مُّدۡخَلٗا كَرِيمٗا",
+  "fullTranslation": "If you avoid the major sins which you are forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into Paradise].",
+  "fullTransliteration": "in tajtanibu kabaira ma tun'hawna anhu nukaffir ankum sayyiatikum wanud'khil'kum mud'khalan kariman"
+}

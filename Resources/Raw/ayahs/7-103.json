@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "ayah": 103,
+    "surah": 7,
+    "words": 16,
+    "numberInQuran": 1057,
+    "juz": 9,
+    "manzil": 2,
+    "page": 163,
+    "ruku": 134,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20888,
+      "word_number_in_surah": 1661,
+      "word_surah": 7,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "بَعَثۡنَا",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20889,
+      "word_number_in_surah": 1662,
+      "word_surah": 7,
+      "word_translation": "We sent",
+      "word_transliteration": "ba'athna"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20890,
+      "word_number_in_surah": 1663,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِهِم",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20891,
+      "word_number_in_surah": 1664,
+      "word_surah": 7,
+      "word_translation": "after them",
+      "word_transliteration": "ba'dihim"
+    },
+    {
+      "word_arabic": "مُّوسَىٰ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20892,
+      "word_number_in_surah": 1665,
+      "word_surah": 7,
+      "word_translation": "Musa",
+      "word_transliteration": "musa"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِنَآ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20893,
+      "word_number_in_surah": 1666,
+      "word_surah": 7,
+      "word_translation": "with Our Signs",
+      "word_transliteration": "biayatina"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20894,
+      "word_number_in_surah": 1667,
+      "word_surah": 7,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "فِرۡعَوۡنَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20895,
+      "word_number_in_surah": 1668,
+      "word_surah": 7,
+      "word_translation": "Firaun",
+      "word_transliteration": "fir'awna"
+    },
+    {
+      "word_arabic": "وَمَلَإِيْهِۦ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20896,
+      "word_number_in_surah": 1669,
+      "word_surah": 7,
+      "word_translation": "and his chiefs",
+      "word_transliteration": "wamala-ihi"
+    },
+    {
+      "word_arabic": "فَظَلَمُواْ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20897,
+      "word_number_in_surah": 1670,
+      "word_surah": 7,
+      "word_translation": "But they were unjust",
+      "word_transliteration": "fazalamu"
+    },
+    {
+      "word_arabic": "بِهَاۖ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20898,
+      "word_number_in_surah": 1671,
+      "word_surah": 7,
+      "word_translation": "to them",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "فَٱنظُرۡ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20899,
+      "word_number_in_surah": 1672,
+      "word_surah": 7,
+      "word_translation": "So see",
+      "word_transliteration": "fa-unzur"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 103,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20900,
+      "word_number_in_surah": 1673,
+      "word_surah": 7,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20901,
+      "word_number_in_surah": 1674,
+      "word_surah": 7,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "عَٰقِبَةُ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20902,
+      "word_number_in_surah": 1675,
+      "word_surah": 7,
+      "word_translation": "(the) end",
+      "word_transliteration": "aqibatu"
+    },
+    {
+      "word_arabic": "ٱلۡمُفۡسِدِينَ",
+      "word_ayah": 103,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20903,
+      "word_number_in_surah": 1676,
+      "word_surah": 7,
+      "word_translation": "(of) the corrupters",
+      "word_transliteration": "al-muf'sidina"
+    }
+  ],
+  "fullArabic": "ثُمَّ بَعَثۡنَا مِنۢ بَعۡدِهِم مُّوسَىٰ بِ‍َٔايَٰتِنَآ إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَظَلَمُواْ بِهَاۖ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ",
+  "fullTranslation": "Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them. So see how was the end of the corrupters.",
+  "fullTransliteration": "thumma ba'athna min ba'dihim musa biayatina ila fir'awna wamala-ihi fazalamu biha fa-unzur kayfa kana aqibatu al-muf'sidina"
+}

@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "ayah": 43,
+    "surah": 8,
+    "words": 20,
+    "numberInQuran": 1203,
+    "juz": 10,
+    "manzil": 2,
+    "page": 182,
+    "ruku": 150,
+    "hizbQuarter": 73,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 23206,
+      "word_number_in_surah": 659,
+      "word_surah": 8,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "يُرِيكَهُمُ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 23207,
+      "word_number_in_surah": 660,
+      "word_surah": 8,
+      "word_translation": "you (where) shown them",
+      "word_transliteration": "yurikahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 23208,
+      "word_number_in_surah": 661,
+      "word_surah": 8,
+      "word_translation": "(by) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 23209,
+      "word_number_in_surah": 662,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "مَنَامِكَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 23210,
+      "word_number_in_surah": 663,
+      "word_surah": 8,
+      "word_translation": "your dream",
+      "word_transliteration": "manamika"
+    },
+    {
+      "word_arabic": "قَلِيلٗاۖ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 23211,
+      "word_number_in_surah": 664,
+      "word_surah": 8,
+      "word_translation": "(as) few",
+      "word_transliteration": "qalilan"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 23212,
+      "word_number_in_surah": 665,
+      "word_surah": 8,
+      "word_translation": "and if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَرَىٰكَهُمۡ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 23213,
+      "word_number_in_surah": 666,
+      "word_surah": 8,
+      "word_translation": "He had shown them to you",
+      "word_transliteration": "arakahum"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 23214,
+      "word_number_in_surah": 667,
+      "word_surah": 8,
+      "word_translation": "(as) many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "لَّفَشِلۡتُمۡ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 23215,
+      "word_number_in_surah": 668,
+      "word_surah": 8,
+      "word_translation": "surely you would have lost courage",
+      "word_transliteration": "lafashil'tum"
+    },
+    {
+      "word_arabic": "وَلَتَنَٰزَعۡتُمۡ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 23216,
+      "word_number_in_surah": 669,
+      "word_surah": 8,
+      "word_translation": "and surely you would have disputed",
+      "word_transliteration": "walatanaza'tum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 23217,
+      "word_number_in_surah": 670,
+      "word_surah": 8,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَمۡرِ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 23218,
+      "word_number_in_surah": 671,
+      "word_surah": 8,
+      "word_translation": "the matter",
+      "word_transliteration": "al-amri"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 23219,
+      "word_number_in_surah": 672,
+      "word_surah": 8,
+      "word_translation": "but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 23220,
+      "word_number_in_surah": 673,
+      "word_surah": 8,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "سَلَّمَۚ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 23221,
+      "word_number_in_surah": 674,
+      "word_surah": 8,
+      "word_translation": "saved (you)",
+      "word_transliteration": "sallama"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 43,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 23222,
+      "word_number_in_surah": 675,
+      "word_surah": 8,
+      "word_translation": "Indeed, He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "عَلِيمُۢ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 23223,
+      "word_number_in_surah": 676,
+      "word_surah": 8,
+      "word_translation": "(is) All-Knower",
+      "word_transliteration": "alimun"
+    },
+    {
+      "word_arabic": "بِذَاتِ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 23224,
+      "word_number_in_surah": 677,
+      "word_surah": 8,
+      "word_translation": "of what is in",
+      "word_transliteration": "bidhati"
+    },
+    {
+      "word_arabic": "ٱلصُّدُورِ",
+      "word_ayah": 43,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 23225,
+      "word_number_in_surah": 678,
+      "word_surah": 8,
+      "word_translation": "the breasts",
+      "word_transliteration": "al-suduri"
+    }
+  ],
+  "fullArabic": "إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلٗاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِيرٗا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "fullTranslation": "[Remember, O Muhammad], when Allah showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allah saved [you from that]. Indeed, He is Knowing of that within the breasts.",
+  "fullTransliteration": "idh yurikahumu al-lahu fi manamika qalilan walaw arakahum kathiran lafashil'tum walatanaza'tum fi al-amri walakinna al-laha sallama innahu alimun bidhati al-suduri"
+}

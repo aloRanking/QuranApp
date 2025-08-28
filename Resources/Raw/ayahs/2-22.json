@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "ayah": 22,
+    "surah": 2,
+    "words": 23,
+    "numberInQuran": 29,
+    "juz": 1,
+    "manzil": 1,
+    "page": 4,
+    "ruku": 4,
+    "hizbQuarter": 1,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 271,
+      "word_number_in_surah": 242,
+      "word_surah": 2,
+      "word_translation": "The One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "جَعَلَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 272,
+      "word_number_in_surah": 243,
+      "word_surah": 2,
+      "word_translation": "made",
+      "word_transliteration": "ja'ala"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 273,
+      "word_number_in_surah": 244,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 274,
+      "word_number_in_surah": 245,
+      "word_surah": 2,
+      "word_translation": "the earth",
+      "word_transliteration": "al-arda"
+    },
+    {
+      "word_arabic": "فِرَٰشٗا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 275,
+      "word_number_in_surah": 246,
+      "word_surah": 2,
+      "word_translation": "a resting place",
+      "word_transliteration": "firashan"
+    },
+    {
+      "word_arabic": "وَٱلسَّمَآءَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 276,
+      "word_number_in_surah": 247,
+      "word_surah": 2,
+      "word_translation": "and the sky",
+      "word_transliteration": "wal-samaa"
+    },
+    {
+      "word_arabic": "بِنَآءٗ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 277,
+      "word_number_in_surah": 248,
+      "word_surah": 2,
+      "word_translation": "a canopy",
+      "word_transliteration": "binaan"
+    },
+    {
+      "word_arabic": "وَأَنزَلَ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 278,
+      "word_number_in_surah": 249,
+      "word_surah": 2,
+      "word_translation": "and sent down",
+      "word_transliteration": "wa-anzala"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 279,
+      "word_number_in_surah": 250,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 280,
+      "word_number_in_surah": 251,
+      "word_surah": 2,
+      "word_translation": "the sky",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "مَآءٗ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 281,
+      "word_number_in_surah": 252,
+      "word_surah": 2,
+      "word_translation": "water",
+      "word_transliteration": "maan"
+    },
+    {
+      "word_arabic": "فَأَخۡرَجَ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 282,
+      "word_number_in_surah": 253,
+      "word_surah": 2,
+      "word_translation": "then brought forth",
+      "word_transliteration": "fa-akhraja"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 283,
+      "word_number_in_surah": 254,
+      "word_surah": 2,
+      "word_translation": "therewith",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 284,
+      "word_number_in_surah": 255,
+      "word_surah": 2,
+      "word_translation": "[of]",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلثَّمَرَٰتِ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 285,
+      "word_number_in_surah": 256,
+      "word_surah": 2,
+      "word_translation": "the fruits",
+      "word_transliteration": "al-thamarati"
+    },
+    {
+      "word_arabic": "رِزۡقٗا",
+      "word_ayah": 22,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 286,
+      "word_number_in_surah": 257,
+      "word_surah": 2,
+      "word_translation": "(as) provision",
+      "word_transliteration": "riz'qan"
+    },
+    {
+      "word_arabic": "لَّكُمۡۖ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 287,
+      "word_number_in_surah": 258,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 288,
+      "word_number_in_surah": 259,
+      "word_surah": 2,
+      "word_translation": "So (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَجۡعَلُواْ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 289,
+      "word_number_in_surah": 260,
+      "word_surah": 2,
+      "word_translation": "set up",
+      "word_transliteration": "taj'alu"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 290,
+      "word_number_in_surah": 261,
+      "word_surah": 2,
+      "word_translation": "to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "أَندَادٗا",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 291,
+      "word_number_in_surah": 262,
+      "word_surah": 2,
+      "word_translation": "rivals",
+      "word_transliteration": "andadan"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 22,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 292,
+      "word_number_in_surah": 263,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 22,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 293,
+      "word_number_in_surah": 264,
+      "word_surah": 2,
+      "word_translation": "[you] know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ فِرَٰشٗا وَٱلسَّمَآءَ بِنَآءٗ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ فَلَا تَجۡعَلُواْ لِلَّهِ أَندَادٗا وَأَنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "[He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allah equals while you know [that there is nothing similar to Him].",
+  "fullTransliteration": "alladhi ja'ala lakumu al-arda firashan wal-samaa binaan wa-anzala mina al-samai maan fa-akhraja bihi mina al-thamarati riz'qan lakum fala taj'alu lillahi andadan wa-antum ta'lamuna"
+}

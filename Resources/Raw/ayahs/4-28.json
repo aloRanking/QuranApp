@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "ayah": 28,
+    "surah": 4,
+    "words": 8,
+    "numberInQuran": 521,
+    "juz": 5,
+    "manzil": 1,
+    "page": 83,
+    "ruku": 66,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10356,
+      "word_number_in_surah": 730,
+      "word_surah": 4,
+      "word_translation": "Wishes",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10357,
+      "word_number_in_surah": 731,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 28,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10358,
+      "word_number_in_surah": 732,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُخَفِّفَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10359,
+      "word_number_in_surah": 733,
+      "word_surah": 4,
+      "word_translation": "lighten",
+      "word_transliteration": "yukhaffifa"
+    },
+    {
+      "word_arabic": "عَنكُمۡۚ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10360,
+      "word_number_in_surah": 734,
+      "word_surah": 4,
+      "word_translation": "for you",
+      "word_transliteration": "ankum"
+    },
+    {
+      "word_arabic": "وَخُلِقَ",
+      "word_ayah": 28,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10361,
+      "word_number_in_surah": 735,
+      "word_surah": 4,
+      "word_translation": "and was created",
+      "word_transliteration": "wakhuliqa"
+    },
+    {
+      "word_arabic": "ٱلۡإِنسَٰنُ",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10362,
+      "word_number_in_surah": 736,
+      "word_surah": 4,
+      "word_translation": "the mankind",
+      "word_transliteration": "al-insanu"
+    },
+    {
+      "word_arabic": "ضَعِيفٗا",
+      "word_ayah": 28,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10363,
+      "word_number_in_surah": 737,
+      "word_surah": 4,
+      "word_translation": "weak",
+      "word_transliteration": "da'ifan"
+    }
+  ],
+  "fullArabic": "يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمۡۚ وَخُلِقَ ٱلۡإِنسَٰنُ ضَعِيفٗا",
+  "fullTranslation": "And Allah wants to lighten for you [your difficulties]; and mankind was created weak.",
+  "fullTransliteration": "yuridu al-lahu an yukhaffifa ankum wakhuliqa al-insanu da'ifan"
+}

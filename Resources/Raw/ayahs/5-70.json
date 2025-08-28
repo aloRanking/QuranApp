@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "ayah": 70,
+    "surah": 5,
+    "words": 19,
+    "numberInQuran": 739,
+    "juz": 6,
+    "manzil": 2,
+    "page": 119,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَقَدۡ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15082,
+      "word_number_in_surah": 1709,
+      "word_surah": 5,
+      "word_translation": "Certainly",
+      "word_transliteration": "laqad"
+    },
+    {
+      "word_arabic": "أَخَذۡنَا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15083,
+      "word_number_in_surah": 1710,
+      "word_surah": 5,
+      "word_translation": "We took",
+      "word_transliteration": "akhadhna"
+    },
+    {
+      "word_arabic": "مِيثَٰقَ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15084,
+      "word_number_in_surah": 1711,
+      "word_surah": 5,
+      "word_translation": "a Covenant",
+      "word_transliteration": "mithaqa"
+    },
+    {
+      "word_arabic": "بَنِيٓ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15085,
+      "word_number_in_surah": 1712,
+      "word_surah": 5,
+      "word_translation": "(from the) Children",
+      "word_transliteration": "bani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15086,
+      "word_number_in_surah": 1713,
+      "word_surah": 5,
+      "word_translation": "(of) Israel",
+      "word_transliteration": "is'raila"
+    },
+    {
+      "word_arabic": "وَأَرۡسَلۡنَآ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15087,
+      "word_number_in_surah": 1714,
+      "word_surah": 5,
+      "word_translation": "and We sent",
+      "word_transliteration": "wa-arsalna"
+    },
+    {
+      "word_arabic": "إِلَيۡهِمۡ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15088,
+      "word_number_in_surah": 1715,
+      "word_surah": 5,
+      "word_translation": "to them",
+      "word_transliteration": "ilayhim"
+    },
+    {
+      "word_arabic": "رُسُلٗاۖ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15089,
+      "word_number_in_surah": 1716,
+      "word_surah": 5,
+      "word_translation": "Messengers",
+      "word_transliteration": "rusulan"
+    },
+    {
+      "word_arabic": "كُلَّمَا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15090,
+      "word_number_in_surah": 1717,
+      "word_surah": 5,
+      "word_translation": "Whenever",
+      "word_transliteration": "kullama"
+    },
+    {
+      "word_arabic": "جَآءَهُمۡ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15091,
+      "word_number_in_surah": 1718,
+      "word_surah": 5,
+      "word_translation": "came to them",
+      "word_transliteration": "jaahum"
+    },
+    {
+      "word_arabic": "رَسُولُۢ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15092,
+      "word_number_in_surah": 1719,
+      "word_surah": 5,
+      "word_translation": "any Messenger",
+      "word_transliteration": "rasulun"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15093,
+      "word_number_in_surah": 1720,
+      "word_surah": 5,
+      "word_translation": "with what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15094,
+      "word_number_in_surah": 1721,
+      "word_surah": 5,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تَهۡوَىٰٓ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15095,
+      "word_number_in_surah": 1722,
+      "word_surah": 5,
+      "word_translation": "desired",
+      "word_transliteration": "tahwa"
+    },
+    {
+      "word_arabic": "أَنفُسُهُمۡ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15096,
+      "word_number_in_surah": 1723,
+      "word_surah": 5,
+      "word_translation": "their souls",
+      "word_transliteration": "anfusuhum"
+    },
+    {
+      "word_arabic": "فَرِيقٗا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15097,
+      "word_number_in_surah": 1724,
+      "word_surah": 5,
+      "word_translation": "a group",
+      "word_transliteration": "fariqan"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15098,
+      "word_number_in_surah": 1725,
+      "word_surah": 5,
+      "word_translation": "they denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "وَفَرِيقٗا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15099,
+      "word_number_in_surah": 1726,
+      "word_surah": 5,
+      "word_translation": "and a group",
+      "word_transliteration": "wafariqan"
+    },
+    {
+      "word_arabic": "يَقۡتُلُونَ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15100,
+      "word_number_in_surah": 1727,
+      "word_surah": 5,
+      "word_translation": "they kill",
+      "word_transliteration": "yaqtuluna"
+    }
+  ],
+  "fullArabic": "لَقَدۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ وَأَرۡسَلۡنَآ إِلَيۡهِمۡ رُسُلٗاۖ كُلَّمَا جَآءَهُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰٓ أَنفُسُهُمۡ فَرِيقٗا كَذَّبُواْ وَفَرِيقٗا يَقۡتُلُونَ",
+  "fullTranslation": "We had already taken the covenant of the Children of Israel and had sent to them messengers. Whenever there came to them a messenger with what their souls did not desire, a party [of messengers] they denied, and another party they killed.",
+  "fullTransliteration": "laqad akhadhna mithaqa bani is'raila wa-arsalna ilayhim rusulan kullama jaahum rasulun bima la tahwa anfusuhum fariqan kadhabu wafariqan yaqtuluna"
+}

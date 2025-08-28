@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "ayah": 95,
+    "surah": 7,
+    "words": 18,
+    "numberInQuran": 1049,
+    "juz": 9,
+    "manzil": 2,
+    "page": 162,
+    "ruku": 133,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ثُمَّ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20773,
+      "word_number_in_surah": 1546,
+      "word_surah": 7,
+      "word_translation": "Then",
+      "word_transliteration": "thumma"
+    },
+    {
+      "word_arabic": "بَدَّلۡنَا",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20774,
+      "word_number_in_surah": 1547,
+      "word_surah": 7,
+      "word_translation": "We changed",
+      "word_transliteration": "baddalna"
+    },
+    {
+      "word_arabic": "مَكَانَ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20775,
+      "word_number_in_surah": 1548,
+      "word_surah": 7,
+      "word_translation": "(in) place",
+      "word_transliteration": "makana"
+    },
+    {
+      "word_arabic": "ٱلسَّيِّئَةِ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20776,
+      "word_number_in_surah": 1549,
+      "word_surah": 7,
+      "word_translation": "(of) the bad",
+      "word_transliteration": "al-sayi-ati"
+    },
+    {
+      "word_arabic": "ٱلۡحَسَنَةَ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20777,
+      "word_number_in_surah": 1550,
+      "word_surah": 7,
+      "word_translation": "the good",
+      "word_transliteration": "al-hasanata"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20778,
+      "word_number_in_surah": 1551,
+      "word_surah": 7,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "عَفَواْ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20779,
+      "word_number_in_surah": 1552,
+      "word_surah": 7,
+      "word_translation": "they increased",
+      "word_transliteration": "afaw"
+    },
+    {
+      "word_arabic": "وَّقَالُواْ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20780,
+      "word_number_in_surah": 1553,
+      "word_surah": 7,
+      "word_translation": "and said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20781,
+      "word_number_in_surah": 1554,
+      "word_surah": 7,
+      "word_translation": "Verily",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "مَسَّ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20782,
+      "word_number_in_surah": 1555,
+      "word_surah": 7,
+      "word_translation": "(had) touched",
+      "word_transliteration": "massa"
+    },
+    {
+      "word_arabic": "ءَابَآءَنَا",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20783,
+      "word_number_in_surah": 1556,
+      "word_surah": 7,
+      "word_translation": "our forefathers",
+      "word_transliteration": "abaana"
+    },
+    {
+      "word_arabic": "ٱلضَّرَّآءُ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20784,
+      "word_number_in_surah": 1557,
+      "word_surah": 7,
+      "word_translation": "the adversity",
+      "word_transliteration": "al-darau"
+    },
+    {
+      "word_arabic": "وَٱلسَّرَّآءُ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20785,
+      "word_number_in_surah": 1558,
+      "word_surah": 7,
+      "word_translation": "and the ease",
+      "word_transliteration": "wal-sarau"
+    },
+    {
+      "word_arabic": "فَأَخَذۡنَٰهُم",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20786,
+      "word_number_in_surah": 1559,
+      "word_surah": 7,
+      "word_translation": "So We seized them",
+      "word_transliteration": "fa-akhadhnahum"
+    },
+    {
+      "word_arabic": "بَغۡتَةٗ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20787,
+      "word_number_in_surah": 1560,
+      "word_surah": 7,
+      "word_translation": "suddenly",
+      "word_transliteration": "baghtatan"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 95,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20788,
+      "word_number_in_surah": 1561,
+      "word_surah": 7,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20789,
+      "word_number_in_surah": 1562,
+      "word_surah": 7,
+      "word_translation": "(did) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَشۡعُرُونَ",
+      "word_ayah": 95,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20790,
+      "word_number_in_surah": 1563,
+      "word_surah": 7,
+      "word_translation": "perceive",
+      "word_transliteration": "yash'uruna"
+    }
+  ],
+  "fullArabic": "ثُمَّ بَدَّلۡنَا مَكَانَ ٱلسَّيِّئَةِ ٱلۡحَسَنَةَ حَتَّىٰ عَفَواْ وَّقَالُواْ قَدۡ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذۡنَٰهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+  "fullTranslation": "Then We exchanged in place of the bad [condition], good, until they increased [and prospered] and said, \"Our fathers [also] were touched with hardship and ease.\" So We seized them suddenly while they did not perceive.",
+  "fullTransliteration": "thumma baddalna makana al-sayi-ati al-hasanata hatta afaw waqalu qad massa abaana al-darau wal-sarau fa-akhadhnahum baghtatan wahum la yash'uruna"
+}

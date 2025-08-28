@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ayah": 5,
+    "surah": 6,
+    "words": 12,
+    "numberInQuran": 794,
+    "juz": 7,
+    "manzil": 2,
+    "page": 128,
+    "ruku": 102,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16229,
+      "word_number_in_surah": 52,
+      "word_surah": 6,
+      "word_translation": "Then indeed",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16230,
+      "word_number_in_surah": 53,
+      "word_surah": 6,
+      "word_translation": "they denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16231,
+      "word_number_in_surah": 54,
+      "word_surah": 6,
+      "word_translation": "the truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "لَمَّا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16232,
+      "word_number_in_surah": 55,
+      "word_surah": 6,
+      "word_translation": "when",
+      "word_transliteration": "lamma"
+    },
+    {
+      "word_arabic": "جَآءَهُمۡ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16233,
+      "word_number_in_surah": 56,
+      "word_surah": 6,
+      "word_translation": "it came to them",
+      "word_transliteration": "jaahum"
+    },
+    {
+      "word_arabic": "فَسَوۡفَ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16234,
+      "word_number_in_surah": 57,
+      "word_surah": 6,
+      "word_translation": "but soon",
+      "word_transliteration": "fasawfa"
+    },
+    {
+      "word_arabic": "يَأۡتِيهِمۡ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16235,
+      "word_number_in_surah": 58,
+      "word_surah": 6,
+      "word_translation": "will come to them",
+      "word_transliteration": "yatihim"
+    },
+    {
+      "word_arabic": "أَنۢبَٰٓؤُاْ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16236,
+      "word_number_in_surah": 59,
+      "word_surah": 6,
+      "word_translation": "news",
+      "word_transliteration": "anbau"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16237,
+      "word_number_in_surah": 60,
+      "word_surah": 6,
+      "word_translation": "(of) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16238,
+      "word_number_in_surah": 61,
+      "word_surah": 6,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 5,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16239,
+      "word_number_in_surah": 62,
+      "word_surah": 6,
+      "word_translation": "[at it]",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "يَسۡتَهۡزِءُونَ",
+      "word_ayah": 5,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16240,
+      "word_number_in_surah": 63,
+      "word_surah": 6,
+      "word_translation": "mock",
+      "word_transliteration": "yastahziuna"
+    }
+  ],
+  "fullArabic": "فَقَدۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَسَوۡفَ يَأۡتِيهِمۡ أَنۢبَٰٓؤُاْ مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+  "fullTranslation": "For they had denied the truth when it came to them, but there is going to reach them the news of what they used to ridicule.",
+  "fullTransliteration": "faqad kadhabu bil-haqi lamma jaahum fasawfa yatihim anbau ma kanu bihi yastahziuna"
+}

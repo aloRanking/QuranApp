@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 50,
+    "surah": 5,
+    "words": 10,
+    "numberInQuran": 719,
+    "juz": 6,
+    "manzil": 2,
+    "page": 116,
+    "ruku": 92,
+    "hizbQuarter": 46,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَفَحُكۡمَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14665,
+      "word_number_in_surah": 1292,
+      "word_surah": 5,
+      "word_translation": "Is it then the judgment",
+      "word_transliteration": "afahuk'ma"
+    },
+    {
+      "word_arabic": "ٱلۡجَٰهِلِيَّةِ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14666,
+      "word_number_in_surah": 1293,
+      "word_surah": 5,
+      "word_translation": "of [the] ignorance",
+      "word_transliteration": "al-jahiliyati"
+    },
+    {
+      "word_arabic": "يَبۡغُونَۚ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14667,
+      "word_number_in_surah": 1294,
+      "word_surah": 5,
+      "word_translation": "they seek",
+      "word_transliteration": "yabghuna"
+    },
+    {
+      "word_arabic": "وَمَنۡ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14668,
+      "word_number_in_surah": 1295,
+      "word_surah": 5,
+      "word_translation": "And who (is)",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "أَحۡسَنُ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14669,
+      "word_number_in_surah": 1296,
+      "word_surah": 5,
+      "word_translation": "better",
+      "word_transliteration": "ahsanu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14670,
+      "word_number_in_surah": 1297,
+      "word_surah": 5,
+      "word_translation": "than",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14671,
+      "word_number_in_surah": 1298,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "حُكۡمٗا",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14672,
+      "word_number_in_surah": 1299,
+      "word_surah": 5,
+      "word_translation": "(in) judgment",
+      "word_transliteration": "huk'man"
+    },
+    {
+      "word_arabic": "لِّقَوۡمٖ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14673,
+      "word_number_in_surah": 1300,
+      "word_surah": 5,
+      "word_translation": "for a people",
+      "word_transliteration": "liqawmin"
+    },
+    {
+      "word_arabic": "يُوقِنُونَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14674,
+      "word_number_in_surah": 1301,
+      "word_surah": 5,
+      "word_translation": "(who) firmly believe",
+      "word_transliteration": "yuqinuna"
+    }
+  ],
+  "fullArabic": "أَفَحُكۡمَ ٱلۡجَٰهِلِيَّةِ يَبۡغُونَۚ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ حُكۡمٗا لِّقَوۡمٖ يُوقِنُونَ",
+  "fullTranslation": "Then is it the judgement of [the time of] ignorance they desire? But who is better than Allah in judgement for a people who are certain [in faith].",
+  "fullTransliteration": "afahuk'ma al-jahiliyati yabghuna waman ahsanu mina al-lahi huk'man liqawmin yuqinuna"
+}

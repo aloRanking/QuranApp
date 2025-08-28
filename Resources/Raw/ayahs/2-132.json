@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "ayah": 132,
+    "surah": 2,
+    "words": 16,
+    "numberInQuran": 139,
+    "juz": 1,
+    "manzil": 1,
+    "page": 20,
+    "ruku": 17,
+    "hizbQuarter": 8,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَوَصَّىٰ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2331,
+      "word_number_in_surah": 2302,
+      "word_surah": 2,
+      "word_translation": "And enjoined",
+      "word_transliteration": "wawassa"
+    },
+    {
+      "word_arabic": "بِهَآ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2332,
+      "word_number_in_surah": 2303,
+      "word_surah": 2,
+      "word_translation": "[it]",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "إِبۡرَٰهِ‍ۧمُ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2333,
+      "word_number_in_surah": 2304,
+      "word_surah": 2,
+      "word_translation": "Ibrahim",
+      "word_transliteration": "ib'rahimu"
+    },
+    {
+      "word_arabic": "بَنِيهِ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2334,
+      "word_number_in_surah": 2305,
+      "word_surah": 2,
+      "word_translation": "(upon) his sons",
+      "word_transliteration": "banihi"
+    },
+    {
+      "word_arabic": "وَيَعۡقُوبُ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2335,
+      "word_number_in_surah": 2306,
+      "word_surah": 2,
+      "word_translation": "and Yaqub",
+      "word_transliteration": "waya'qubu"
+    },
+    {
+      "word_arabic": "يَٰبَنِيَّ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2336,
+      "word_number_in_surah": 2307,
+      "word_surah": 2,
+      "word_translation": "O my sons",
+      "word_transliteration": "yabaniyya"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2337,
+      "word_number_in_surah": 2308,
+      "word_surah": 2,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2338,
+      "word_number_in_surah": 2309,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "ٱصۡطَفَىٰ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2339,
+      "word_number_in_surah": 2310,
+      "word_surah": 2,
+      "word_translation": "has chosen",
+      "word_transliteration": "is'tafa"
+    },
+    {
+      "word_arabic": "لَكُمُ",
+      "word_ayah": 132,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2340,
+      "word_number_in_surah": 2311,
+      "word_surah": 2,
+      "word_translation": "for you",
+      "word_transliteration": "lakumu"
+    },
+    {
+      "word_arabic": "ٱلدِّينَ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2341,
+      "word_number_in_surah": 2312,
+      "word_surah": 2,
+      "word_translation": "the religion",
+      "word_transliteration": "al-dina"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2342,
+      "word_number_in_surah": 2313,
+      "word_surah": 2,
+      "word_translation": "so not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَمُوتُنَّ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2343,
+      "word_number_in_surah": 2314,
+      "word_surah": 2,
+      "word_translation": "(should) you die",
+      "word_transliteration": "tamutunna"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2344,
+      "word_number_in_surah": 2315,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "وَأَنتُم",
+      "word_ayah": 132,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2345,
+      "word_number_in_surah": 2316,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "مُّسۡلِمُونَ",
+      "word_ayah": 132,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2346,
+      "word_number_in_surah": 2317,
+      "word_surah": 2,
+      "word_translation": "(are) submissive",
+      "word_transliteration": "mus'limuna"
+    }
+  ],
+  "fullArabic": "وَوَصَّىٰ بِهَآ إِبۡرَٰهِ‍ۧمُ بَنِيهِ وَيَعۡقُوبُ يَٰبَنِيَّ إِنَّ ٱللَّهَ ٱصۡطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسۡلِمُونَ",
+  "fullTranslation": "And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], \"O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.\"",
+  "fullTransliteration": "wawassa biha ib'rahimu banihi waya'qubu yabaniyya inna al-laha is'tafa lakumu al-dina fala tamutunna illa wa-antum mus'limuna"
+}

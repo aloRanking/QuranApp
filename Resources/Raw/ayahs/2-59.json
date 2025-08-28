@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "ayah": 59,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 66,
+    "juz": 1,
+    "manzil": 1,
+    "page": 9,
+    "ruku": 7,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَبَدَّلَ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 859,
+      "word_number_in_surah": 830,
+      "word_surah": 2,
+      "word_translation": "But changed",
+      "word_transliteration": "fabaddala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 860,
+      "word_number_in_surah": 831,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ظَلَمُواْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 861,
+      "word_number_in_surah": 832,
+      "word_surah": 2,
+      "word_translation": "wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "قَوۡلًا",
+      "word_ayah": 59,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 862,
+      "word_number_in_surah": 833,
+      "word_surah": 2,
+      "word_translation": "(the) word",
+      "word_transliteration": "qawlan"
+    },
+    {
+      "word_arabic": "غَيۡرَ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 863,
+      "word_number_in_surah": 834,
+      "word_surah": 2,
+      "word_translation": "other (than)",
+      "word_transliteration": "ghayra"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 864,
+      "word_number_in_surah": 835,
+      "word_surah": 2,
+      "word_translation": "that which",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "قِيلَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 865,
+      "word_number_in_surah": 836,
+      "word_surah": 2,
+      "word_translation": "was said",
+      "word_transliteration": "qila"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 866,
+      "word_number_in_surah": 837,
+      "word_surah": 2,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "فَأَنزَلۡنَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 867,
+      "word_number_in_surah": 838,
+      "word_surah": 2,
+      "word_translation": "so We sent down",
+      "word_transliteration": "fa-anzalna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 868,
+      "word_number_in_surah": 839,
+      "word_surah": 2,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 869,
+      "word_number_in_surah": 840,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ظَلَمُواْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 870,
+      "word_number_in_surah": 841,
+      "word_surah": 2,
+      "word_translation": "wronged",
+      "word_transliteration": "zalamu"
+    },
+    {
+      "word_arabic": "رِجۡزٗا",
+      "word_ayah": 59,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 871,
+      "word_number_in_surah": 842,
+      "word_surah": 2,
+      "word_translation": "a punishment",
+      "word_transliteration": "rij'zan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 59,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 872,
+      "word_number_in_surah": 843,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 873,
+      "word_number_in_surah": 844,
+      "word_surah": 2,
+      "word_translation": "the sky",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 874,
+      "word_number_in_surah": 845,
+      "word_surah": 2,
+      "word_translation": "because",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 875,
+      "word_number_in_surah": 846,
+      "word_surah": 2,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَفۡسُقُونَ",
+      "word_ayah": 59,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 876,
+      "word_number_in_surah": 847,
+      "word_surah": 2,
+      "word_translation": "defiantly disobeying",
+      "word_transliteration": "yafsuquna"
+    }
+  ],
+  "fullArabic": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ قَوۡلًا غَيۡرَ ٱلَّذِي قِيلَ لَهُمۡ فَأَنزَلۡنَا عَلَى ٱلَّذِينَ ظَلَمُواْ رِجۡزٗا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَفۡسُقُونَ",
+  "fullTranslation": "But those who wronged changed [those words] to a statement other than that which had been said to them, so We sent down upon those who wronged a punishment from the sky because they were defiantly disobeying.",
+  "fullTransliteration": "fabaddala alladhina zalamu qawlan ghayra alladhi qila lahum fa-anzalna ala alladhina zalamu rij'zan mina al-samai bima kanu yafsuquna"
+}

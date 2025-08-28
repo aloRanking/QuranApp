@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "ayah": 114,
+    "surah": 6,
+    "words": 23,
+    "numberInQuran": 903,
+    "juz": 8,
+    "manzil": 2,
+    "page": 142,
+    "ruku": 115,
+    "hizbQuarter": 57,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَفَغَيۡرَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18142,
+      "word_number_in_surah": 1965,
+      "word_surah": 6,
+      "word_translation": "Then is (it) other than",
+      "word_transliteration": "afaghayra"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18143,
+      "word_number_in_surah": 1966,
+      "word_surah": 6,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَبۡتَغِي",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18144,
+      "word_number_in_surah": 1967,
+      "word_surah": 6,
+      "word_translation": "I seek",
+      "word_transliteration": "abtaghi"
+    },
+    {
+      "word_arabic": "حَكَمٗا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18145,
+      "word_number_in_surah": 1968,
+      "word_surah": 6,
+      "word_translation": "(as) judge",
+      "word_transliteration": "hakaman"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18146,
+      "word_number_in_surah": 1969,
+      "word_surah": 6,
+      "word_translation": "while He",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18147,
+      "word_number_in_surah": 1970,
+      "word_surah": 6,
+      "word_translation": "(is) the One Who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "أَنزَلَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18148,
+      "word_number_in_surah": 1971,
+      "word_surah": 6,
+      "word_translation": "has revealed",
+      "word_transliteration": "anzala"
+    },
+    {
+      "word_arabic": "إِلَيۡكُمُ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18149,
+      "word_number_in_surah": 1972,
+      "word_surah": 6,
+      "word_translation": "to you",
+      "word_transliteration": "ilaykumu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 18150,
+      "word_number_in_surah": 1973,
+      "word_surah": 6,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "مُفَصَّلٗاۚ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 18151,
+      "word_number_in_surah": 1974,
+      "word_surah": 6,
+      "word_translation": "explained in detail",
+      "word_transliteration": "mufassalan"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 18152,
+      "word_number_in_surah": 1975,
+      "word_surah": 6,
+      "word_translation": "And those (to) whom",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَٰهُمُ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 18153,
+      "word_number_in_surah": 1976,
+      "word_surah": 6,
+      "word_translation": "We gave them",
+      "word_transliteration": "ataynahumu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 18154,
+      "word_number_in_surah": 1977,
+      "word_surah": 6,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "يَعۡلَمُونَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 18155,
+      "word_number_in_surah": 1978,
+      "word_surah": 6,
+      "word_translation": "they know",
+      "word_transliteration": "ya'lamuna"
+    },
+    {
+      "word_arabic": "أَنَّهُۥ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 18156,
+      "word_number_in_surah": 1979,
+      "word_surah": 6,
+      "word_translation": "that it",
+      "word_transliteration": "annahu"
+    },
+    {
+      "word_arabic": "مُنَزَّلٞ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 18157,
+      "word_number_in_surah": 1980,
+      "word_surah": 6,
+      "word_translation": "(is) sent down",
+      "word_transliteration": "munazzalun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 114,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 18158,
+      "word_number_in_surah": 1981,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 18159,
+      "word_number_in_surah": 1982,
+      "word_surah": 6,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّۖ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 18160,
+      "word_number_in_surah": 1983,
+      "word_surah": 6,
+      "word_translation": "in truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 18161,
+      "word_number_in_surah": 1984,
+      "word_surah": 6,
+      "word_translation": "so (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَكُونَنَّ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 18162,
+      "word_number_in_surah": 1985,
+      "word_surah": 6,
+      "word_translation": "be",
+      "word_transliteration": "takunanna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 114,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 18163,
+      "word_number_in_surah": 1986,
+      "word_surah": 6,
+      "word_translation": "among",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُمۡتَرِينَ",
+      "word_ayah": 114,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 18164,
+      "word_number_in_surah": 1987,
+      "word_surah": 6,
+      "word_translation": "the ones who doubt",
+      "word_transliteration": "al-mum'tarina"
+    }
+  ],
+  "fullArabic": "أَفَغَيۡرَ ٱللَّهِ أَبۡتَغِي حَكَمٗا وَهُوَ ٱلَّذِيٓ أَنزَلَ إِلَيۡكُمُ ٱلۡكِتَٰبَ مُفَصَّلٗاۚ وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡلَمُونَ أَنَّهُۥ مُنَزَّلٞ مِّن رَّبِّكَ بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ",
+  "fullTranslation": "[Say], \"Then is it other than Allah I should seek as judge while it is He who has revealed to you the Book explained in detail?\" And those to whom We [previously] gave the Scripture know that it is sent down from your Lord in truth, so never be among the doubters.",
+  "fullTransliteration": "afaghayra al-lahi abtaghi hakaman wahuwa alladhi anzala ilaykumu al-kitaba mufassalan wa-alladhina ataynahumu al-kitaba ya'lamuna annahu munazzalun min rabbika bil-haqi fala takunanna mina al-mum'tarina"
+}

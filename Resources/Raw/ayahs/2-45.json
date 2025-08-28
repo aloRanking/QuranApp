@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "ayah": 45,
+    "surah": 2,
+    "words": 8,
+    "numberInQuran": 52,
+    "juz": 1,
+    "manzil": 1,
+    "page": 7,
+    "ruku": 6,
+    "hizbQuarter": 3,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱسۡتَعِينُواْ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 673,
+      "word_number_in_surah": 644,
+      "word_surah": 2,
+      "word_translation": "And seek help",
+      "word_transliteration": "wa-is'ta'inu"
+    },
+    {
+      "word_arabic": "بِٱلصَّبۡرِ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 674,
+      "word_number_in_surah": 645,
+      "word_surah": 2,
+      "word_translation": "through patience",
+      "word_transliteration": "bil-sabri"
+    },
+    {
+      "word_arabic": "وَٱلصَّلَوٰةِۚ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 675,
+      "word_number_in_surah": 646,
+      "word_surah": 2,
+      "word_translation": "and the prayer",
+      "word_transliteration": "wal-salati"
+    },
+    {
+      "word_arabic": "وَإِنَّهَا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 676,
+      "word_number_in_surah": 647,
+      "word_surah": 2,
+      "word_translation": "and indeed it",
+      "word_transliteration": "wa-innaha"
+    },
+    {
+      "word_arabic": "لَكَبِيرَةٌ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 677,
+      "word_number_in_surah": 648,
+      "word_surah": 2,
+      "word_translation": "(is) surely difficult",
+      "word_transliteration": "lakabiratun"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 678,
+      "word_number_in_surah": 649,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 679,
+      "word_number_in_surah": 650,
+      "word_surah": 2,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡخَٰشِعِينَ",
+      "word_ayah": 45,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 680,
+      "word_number_in_surah": 651,
+      "word_surah": 2,
+      "word_translation": "the humble ones",
+      "word_transliteration": "al-khashi'ina"
+    }
+  ],
+  "fullArabic": "وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلۡخَٰشِعِينَ",
+  "fullTranslation": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive [to Allah]",
+  "fullTransliteration": "wa-is'ta'inu bil-sabri wal-salati wa-innaha lakabiratun illa ala al-khashi'ina"
+}

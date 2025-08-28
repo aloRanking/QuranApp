@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 88,
+    "surah": 2,
+    "words": 10,
+    "numberInQuran": 95,
+    "juz": 1,
+    "manzil": 1,
+    "page": 13,
+    "ruku": 12,
+    "hizbQuarter": 5,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَقَالُواْ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1463,
+      "word_number_in_surah": 1434,
+      "word_surah": 2,
+      "word_translation": "And they said",
+      "word_transliteration": "waqalu"
+    },
+    {
+      "word_arabic": "قُلُوبُنَا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1464,
+      "word_number_in_surah": 1435,
+      "word_surah": 2,
+      "word_translation": "Our hearts",
+      "word_transliteration": "qulubuna"
+    },
+    {
+      "word_arabic": "غُلۡفُۢۚ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1465,
+      "word_number_in_surah": 1436,
+      "word_surah": 2,
+      "word_translation": "(are) wrapped",
+      "word_transliteration": "ghul'fun"
+    },
+    {
+      "word_arabic": "بَل",
+      "word_ayah": 88,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1466,
+      "word_number_in_surah": 1437,
+      "word_surah": 2,
+      "word_translation": "Nay",
+      "word_transliteration": "bal"
+    },
+    {
+      "word_arabic": "لَّعَنَهُمُ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1467,
+      "word_number_in_surah": 1438,
+      "word_surah": 2,
+      "word_translation": "has cursed them",
+      "word_transliteration": "la'anahumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1468,
+      "word_number_in_surah": 1439,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِكُفۡرِهِمۡ",
+      "word_ayah": 88,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1469,
+      "word_number_in_surah": 1440,
+      "word_surah": 2,
+      "word_translation": "for their disbelief",
+      "word_transliteration": "bikuf'rihim"
+    },
+    {
+      "word_arabic": "فَقَلِيلٗا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1470,
+      "word_number_in_surah": 1441,
+      "word_surah": 2,
+      "word_translation": "so little",
+      "word_transliteration": "faqalilan"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1471,
+      "word_number_in_surah": 1442,
+      "word_surah": 2,
+      "word_translation": "(is) what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 88,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1472,
+      "word_number_in_surah": 1443,
+      "word_surah": 2,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "وَقَالُواْ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِيلٗا مَّا يُؤۡمِنُونَ",
+  "fullTranslation": "And they said, \"Our hearts are wrapped.\" But, [in fact], Allah has cursed them for their disbelief, so little is it that they believe.",
+  "fullTransliteration": "waqalu qulubuna ghul'fun bal la'anahumu al-lahu bikuf'rihim faqalilan ma yu'minuna"
+}

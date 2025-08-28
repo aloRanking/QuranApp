@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "ayah": 30,
+    "surah": 3,
+    "words": 26,
+    "numberInQuran": 323,
+    "juz": 3,
+    "manzil": 1,
+    "page": 54,
+    "ruku": 44,
+    "hizbQuarter": 21,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَوۡمَ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 6658,
+      "word_number_in_surah": 513,
+      "word_surah": 3,
+      "word_translation": "(On the) day",
+      "word_transliteration": "yawma"
+    },
+    {
+      "word_arabic": "تَجِدُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 6659,
+      "word_number_in_surah": 514,
+      "word_surah": 3,
+      "word_translation": "will find",
+      "word_transliteration": "tajidu"
+    },
+    {
+      "word_arabic": "كُلُّ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 6660,
+      "word_number_in_surah": 515,
+      "word_surah": 3,
+      "word_translation": "every",
+      "word_transliteration": "kullu"
+    },
+    {
+      "word_arabic": "نَفۡسٖ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 6661,
+      "word_number_in_surah": 516,
+      "word_surah": 3,
+      "word_translation": "soul",
+      "word_transliteration": "nafsin"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 6662,
+      "word_number_in_surah": 517,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "عَمِلَتۡ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 6663,
+      "word_number_in_surah": 518,
+      "word_surah": 3,
+      "word_translation": "it did",
+      "word_transliteration": "amilat"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 6664,
+      "word_number_in_surah": 519,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 6665,
+      "word_number_in_surah": 520,
+      "word_surah": 3,
+      "word_translation": "good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "مُّحۡضَرٗا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 6666,
+      "word_number_in_surah": 521,
+      "word_surah": 3,
+      "word_translation": "presented",
+      "word_transliteration": "muh'daran"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 6667,
+      "word_number_in_surah": 522,
+      "word_surah": 3,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "عَمِلَتۡ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 6668,
+      "word_number_in_surah": 523,
+      "word_surah": 3,
+      "word_translation": "it did",
+      "word_transliteration": "amilat"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 30,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 6669,
+      "word_number_in_surah": 524,
+      "word_surah": 3,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "سُوٓءٖ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 6670,
+      "word_number_in_surah": 525,
+      "word_surah": 3,
+      "word_translation": "evil",
+      "word_transliteration": "suin"
+    },
+    {
+      "word_arabic": "تَوَدُّ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 6671,
+      "word_number_in_surah": 526,
+      "word_surah": 3,
+      "word_translation": "it will wish",
+      "word_transliteration": "tawaddu"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 6672,
+      "word_number_in_surah": 527,
+      "word_surah": 3,
+      "word_translation": "[if]",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 6673,
+      "word_number_in_surah": 528,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "بَيۡنَهَا",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 6674,
+      "word_number_in_surah": 529,
+      "word_surah": 3,
+      "word_translation": "between itself",
+      "word_transliteration": "baynaha"
+    },
+    {
+      "word_arabic": "وَبَيۡنَهُۥٓ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 6675,
+      "word_number_in_surah": 530,
+      "word_surah": 3,
+      "word_translation": "and between it (evil)",
+      "word_transliteration": "wabaynahu"
+    },
+    {
+      "word_arabic": "أَمَدَۢا",
+      "word_ayah": 30,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 6676,
+      "word_number_in_surah": 531,
+      "word_surah": 3,
+      "word_translation": "(was) a distance",
+      "word_transliteration": "amadan"
+    },
+    {
+      "word_arabic": "بَعِيدٗاۗ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 6677,
+      "word_number_in_surah": 532,
+      "word_surah": 3,
+      "word_translation": "great",
+      "word_transliteration": "ba'idan"
+    },
+    {
+      "word_arabic": "وَيُحَذِّرُكُمُ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 6678,
+      "word_number_in_surah": 533,
+      "word_surah": 3,
+      "word_translation": "And warns you",
+      "word_transliteration": "wayuhadhirukumu"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 6679,
+      "word_number_in_surah": 534,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "نَفۡسَهُۥۗ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 6680,
+      "word_number_in_surah": 535,
+      "word_surah": 3,
+      "word_translation": "(against) Himself",
+      "word_transliteration": "nafsahu"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 30,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 6681,
+      "word_number_in_surah": 536,
+      "word_surah": 3,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "رَءُوفُۢ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 6682,
+      "word_number_in_surah": 537,
+      "word_surah": 3,
+      "word_translation": "(is) Most Kind",
+      "word_transliteration": "raufun"
+    },
+    {
+      "word_arabic": "بِٱلۡعِبَادِ",
+      "word_ayah": 30,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 6683,
+      "word_number_in_surah": 538,
+      "word_surah": 3,
+      "word_translation": "to (His) [the] slaves",
+      "word_transliteration": "bil-'ibadi"
+    }
+  ],
+  "fullArabic": "يَوۡمَ تَجِدُ كُلُّ نَفۡسٖ مَّا عَمِلَتۡ مِنۡ خَيۡرٖ مُّحۡضَرٗا وَمَا عَمِلَتۡ مِن سُوٓءٖ تَوَدُّ لَوۡ أَنَّ بَيۡنَهَا وَبَيۡنَهُۥٓ أَمَدَۢا بَعِيدٗاۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَٱللَّهُ رَءُوفُۢ بِٱلۡعِبَادِ",
+  "fullTranslation": "The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allah warns you of Himself, and Allah is Kind to [His] servants.\"",
+  "fullTransliteration": "yawma tajidu kullu nafsin ma amilat min khayrin muh'daran wama amilat min suin tawaddu law anna baynaha wabaynahu amadan ba'idan wayuhadhirukumu al-lahu nafsahu wal-lahu raufun bil-'ibadi"
+}

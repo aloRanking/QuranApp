@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "ayah": 72,
+    "surah": 4,
+    "words": 17,
+    "numberInQuran": 565,
+    "juz": 5,
+    "manzil": 1,
+    "page": 89,
+    "ruku": 71,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِنَّ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11175,
+      "word_number_in_surah": 1549,
+      "word_surah": 4,
+      "word_translation": "And indeed",
+      "word_transliteration": "wa-inna"
+    },
+    {
+      "word_arabic": "مِنكُمۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11176,
+      "word_number_in_surah": 1550,
+      "word_surah": 4,
+      "word_translation": "among you",
+      "word_transliteration": "minkum"
+    },
+    {
+      "word_arabic": "لَمَن",
+      "word_ayah": 72,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11177,
+      "word_number_in_surah": 1551,
+      "word_surah": 4,
+      "word_translation": "(is he) who",
+      "word_transliteration": "laman"
+    },
+    {
+      "word_arabic": "لَّيُبَطِّئَنَّ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11178,
+      "word_number_in_surah": 1552,
+      "word_surah": 4,
+      "word_translation": "lags behind",
+      "word_transliteration": "layubatti-anna"
+    },
+    {
+      "word_arabic": "فَإِنۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11179,
+      "word_number_in_surah": 1553,
+      "word_surah": 4,
+      "word_translation": "then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "أَصَٰبَتۡكُم",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11180,
+      "word_number_in_surah": 1554,
+      "word_surah": 4,
+      "word_translation": "befalls you",
+      "word_transliteration": "asabatkum"
+    },
+    {
+      "word_arabic": "مُّصِيبَةٞ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11181,
+      "word_number_in_surah": 1555,
+      "word_surah": 4,
+      "word_translation": "a disaster",
+      "word_transliteration": "musibatun"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11182,
+      "word_number_in_surah": 1556,
+      "word_surah": 4,
+      "word_translation": "he said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11183,
+      "word_number_in_surah": 1557,
+      "word_surah": 4,
+      "word_translation": "Verily",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "أَنۡعَمَ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11184,
+      "word_number_in_surah": 1558,
+      "word_surah": 4,
+      "word_translation": "(has) favored",
+      "word_transliteration": "an'ama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11185,
+      "word_number_in_surah": 1559,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "عَلَيَّ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11186,
+      "word_number_in_surah": 1560,
+      "word_surah": 4,
+      "word_translation": "[on] me",
+      "word_transliteration": "alayya"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11187,
+      "word_number_in_surah": 1561,
+      "word_surah": 4,
+      "word_translation": "[when]",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "لَمۡ",
+      "word_ayah": 72,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11188,
+      "word_number_in_surah": 1562,
+      "word_surah": 4,
+      "word_translation": "(that) not",
+      "word_transliteration": "lam"
+    },
+    {
+      "word_arabic": "أَكُن",
+      "word_ayah": 72,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11189,
+      "word_number_in_surah": 1563,
+      "word_surah": 4,
+      "word_translation": "I was",
+      "word_transliteration": "akun"
+    },
+    {
+      "word_arabic": "مَّعَهُمۡ",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11190,
+      "word_number_in_surah": 1564,
+      "word_surah": 4,
+      "word_translation": "with them",
+      "word_transliteration": "ma'ahum"
+    },
+    {
+      "word_arabic": "شَهِيدٗا",
+      "word_ayah": 72,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11191,
+      "word_number_in_surah": 1565,
+      "word_surah": 4,
+      "word_translation": "present",
+      "word_transliteration": "shahidan"
+    }
+  ],
+  "fullArabic": "وَإِنَّ مِنكُمۡ لَمَن لَّيُبَطِّئَنَّ فَإِنۡ أَصَٰبَتۡكُم مُّصِيبَةٞ قَالَ قَدۡ أَنۡعَمَ ٱللَّهُ عَلَيَّ إِذۡ لَمۡ أَكُن مَّعَهُمۡ شَهِيدٗا",
+  "fullTranslation": "And indeed, there is among you he who lingers behind; and if disaster strikes you, he says, \"Allah has favored me in that I was not present with them.\"",
+  "fullTransliteration": "wa-inna minkum laman layubatti-anna fa-in asabatkum musibatun qala qad an'ama al-lahu alayya idh lam akun ma'ahum shahidan"
+}

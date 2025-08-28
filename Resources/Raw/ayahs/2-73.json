@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ayah": 73,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 80,
+    "juz": 1,
+    "manzil": 1,
+    "page": 11,
+    "ruku": 10,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَقُلۡنَا",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1149,
+      "word_number_in_surah": 1120,
+      "word_surah": 2,
+      "word_translation": "So We said",
+      "word_transliteration": "faqul'na"
+    },
+    {
+      "word_arabic": "ٱضۡرِبُوهُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1150,
+      "word_number_in_surah": 1121,
+      "word_surah": 2,
+      "word_translation": "Strike him",
+      "word_transliteration": "id'ribuhu"
+    },
+    {
+      "word_arabic": "بِبَعۡضِهَاۚ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1151,
+      "word_number_in_surah": 1122,
+      "word_surah": 2,
+      "word_translation": "with a part of it",
+      "word_transliteration": "biba'diha"
+    },
+    {
+      "word_arabic": "كَذَٰلِكَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1152,
+      "word_number_in_surah": 1123,
+      "word_surah": 2,
+      "word_translation": "Like this",
+      "word_transliteration": "kadhalika"
+    },
+    {
+      "word_arabic": "يُحۡيِ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1153,
+      "word_number_in_surah": 1124,
+      "word_surah": 2,
+      "word_translation": "revives",
+      "word_transliteration": "yuh'yi"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1154,
+      "word_number_in_surah": 1125,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتَىٰ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1155,
+      "word_number_in_surah": 1126,
+      "word_surah": 2,
+      "word_translation": "the dead",
+      "word_transliteration": "al-mawta"
+    },
+    {
+      "word_arabic": "وَيُرِيكُمۡ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1156,
+      "word_number_in_surah": 1127,
+      "word_surah": 2,
+      "word_translation": "and shows you",
+      "word_transliteration": "wayurikum"
+    },
+    {
+      "word_arabic": "ءَايَٰتِهِۦ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1157,
+      "word_number_in_surah": 1128,
+      "word_surah": 2,
+      "word_translation": "His Signs",
+      "word_transliteration": "ayatihi"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1158,
+      "word_number_in_surah": 1129,
+      "word_surah": 2,
+      "word_translation": "perhaps you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَعۡقِلُونَ",
+      "word_ayah": 73,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1159,
+      "word_number_in_surah": 1130,
+      "word_surah": 2,
+      "word_translation": "use your intellect",
+      "word_transliteration": "ta'qiluna"
+    }
+  ],
+  "fullArabic": "فَقُلۡنَا ٱضۡرِبُوهُ بِبَعۡضِهَاۚ كَذَٰلِكَ يُحۡيِ ٱللَّهُ ٱلۡمَوۡتَىٰ وَيُرِيكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
+  "fullTranslation": "So, We said, \"Strike the slain man with part of it.\" Thus does Allah bring the dead to life, and He shows you His signs that you might reason.",
+  "fullTransliteration": "faqul'na id'ribuhu biba'diha kadhalika yuh'yi al-lahu al-mawta wayurikum ayatihi la'allakum ta'qiluna"
+}

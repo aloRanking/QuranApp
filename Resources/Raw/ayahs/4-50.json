@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "ayah": 50,
+    "surah": 4,
+    "words": 10,
+    "numberInQuran": 543,
+    "juz": 5,
+    "manzil": 1,
+    "page": 86,
+    "ruku": 68,
+    "hizbQuarter": 34,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ٱنظُرۡ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10812,
+      "word_number_in_surah": 1186,
+      "word_surah": 4,
+      "word_translation": "See",
+      "word_transliteration": "unzur"
+    },
+    {
+      "word_arabic": "كَيۡفَ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10813,
+      "word_number_in_surah": 1187,
+      "word_surah": 4,
+      "word_translation": "how",
+      "word_transliteration": "kayfa"
+    },
+    {
+      "word_arabic": "يَفۡتَرُونَ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10814,
+      "word_number_in_surah": 1188,
+      "word_surah": 4,
+      "word_translation": "they invent",
+      "word_transliteration": "yaftaruna"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10815,
+      "word_number_in_surah": 1189,
+      "word_surah": 4,
+      "word_translation": "about",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10816,
+      "word_number_in_surah": 1190,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "ٱلۡكَذِبَۖ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10817,
+      "word_number_in_surah": 1191,
+      "word_surah": 4,
+      "word_translation": "[the] lie",
+      "word_transliteration": "al-kadhiba"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10818,
+      "word_number_in_surah": 1192,
+      "word_surah": 4,
+      "word_translation": "and sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِهِۦٓ",
+      "word_ayah": 50,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10819,
+      "word_number_in_surah": 1193,
+      "word_surah": 4,
+      "word_translation": "is it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "إِثۡمٗا",
+      "word_ayah": 50,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10820,
+      "word_number_in_surah": 1194,
+      "word_surah": 4,
+      "word_translation": "(as) a sin",
+      "word_transliteration": "ith'man"
+    },
+    {
+      "word_arabic": "مُّبِينًا",
+      "word_ayah": 50,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10821,
+      "word_number_in_surah": 1195,
+      "word_surah": 4,
+      "word_translation": "manifest",
+      "word_transliteration": "mubinan"
+    }
+  ],
+  "fullArabic": "ٱنظُرۡ كَيۡفَ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ وَكَفَىٰ بِهِۦٓ إِثۡمٗا مُّبِينًا",
+  "fullTranslation": "Look how they invent about Allah untruth, and sufficient is that as a manifest sin.",
+  "fullTransliteration": "unzur kayfa yaftaruna ala al-lahi al-kadhiba wakafa bihi ith'man mubinan"
+}

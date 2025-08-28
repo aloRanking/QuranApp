@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ayah": 157,
+    "surah": 2,
+    "words": 9,
+    "numberInQuran": 164,
+    "juz": 2,
+    "manzil": 1,
+    "page": 24,
+    "ruku": 20,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2811,
+      "word_number_in_surah": 2782,
+      "word_surah": 2,
+      "word_translation": "Those",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2812,
+      "word_number_in_surah": 2783,
+      "word_surah": 2,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "صَلَوَٰتٞ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2813,
+      "word_number_in_surah": 2784,
+      "word_surah": 2,
+      "word_translation": "(are) blessings",
+      "word_transliteration": "salawatun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 157,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2814,
+      "word_number_in_surah": 2785,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّهِمۡ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2815,
+      "word_number_in_surah": 2786,
+      "word_surah": 2,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbihim"
+    },
+    {
+      "word_arabic": "وَرَحۡمَةٞۖ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2816,
+      "word_number_in_surah": 2787,
+      "word_surah": 2,
+      "word_translation": "and Mercy",
+      "word_transliteration": "warahmatun"
+    },
+    {
+      "word_arabic": "وَأُوْلَٰٓئِكَ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2817,
+      "word_number_in_surah": 2788,
+      "word_surah": 2,
+      "word_translation": "And those",
+      "word_transliteration": "wa-ulaika"
+    },
+    {
+      "word_arabic": "هُمُ",
+      "word_ayah": 157,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2818,
+      "word_number_in_surah": 2789,
+      "word_surah": 2,
+      "word_translation": "[they]",
+      "word_transliteration": "humu"
+    },
+    {
+      "word_arabic": "ٱلۡمُهۡتَدُونَ",
+      "word_ayah": 157,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2819,
+      "word_number_in_surah": 2790,
+      "word_surah": 2,
+      "word_translation": "(are) the guided ones",
+      "word_transliteration": "al-muh'taduna"
+    }
+  ],
+  "fullArabic": "أُوْلَٰٓئِكَ عَلَيۡهِمۡ صَلَوَٰتٞ مِّن رَّبِّهِمۡ وَرَحۡمَةٞۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُهۡتَدُونَ",
+  "fullTranslation": "Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided.",
+  "fullTransliteration": "ulaika alayhim salawatun min rabbihim warahmatun wa-ulaika humu al-muh'taduna"
+}

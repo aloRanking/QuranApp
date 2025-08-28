@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "ayah": 79,
+    "surah": 4,
+    "words": 18,
+    "numberInQuran": 572,
+    "juz": 5,
+    "manzil": 1,
+    "page": 90,
+    "ruku": 72,
+    "hizbQuarter": 36,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّآ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11366,
+      "word_number_in_surah": 1740,
+      "word_surah": 4,
+      "word_translation": "What(ever)",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَصَابَكَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11367,
+      "word_number_in_surah": 1741,
+      "word_surah": 4,
+      "word_translation": "befalls you",
+      "word_transliteration": "asabaka"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11368,
+      "word_number_in_surah": 1742,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حَسَنَةٖ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11369,
+      "word_number_in_surah": 1743,
+      "word_surah": 4,
+      "word_translation": "(the) good",
+      "word_transliteration": "hasanatin"
+    },
+    {
+      "word_arabic": "فَمِنَ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11370,
+      "word_number_in_surah": 1744,
+      "word_surah": 4,
+      "word_translation": "(is) from",
+      "word_transliteration": "famina"
+    },
+    {
+      "word_arabic": "ٱللَّهِۖ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11371,
+      "word_number_in_surah": 1745,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11372,
+      "word_number_in_surah": 1746,
+      "word_surah": 4,
+      "word_translation": "and whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَصَابَكَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11373,
+      "word_number_in_surah": 1747,
+      "word_surah": 4,
+      "word_translation": "befalls you",
+      "word_transliteration": "asabaka"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 79,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11374,
+      "word_number_in_surah": 1748,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "سَيِّئَةٖ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11375,
+      "word_number_in_surah": 1749,
+      "word_surah": 4,
+      "word_translation": "(the) evil",
+      "word_transliteration": "sayyi-atin"
+    },
+    {
+      "word_arabic": "فَمِن",
+      "word_ayah": 79,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11376,
+      "word_number_in_surah": 1750,
+      "word_surah": 4,
+      "word_translation": "(is) from",
+      "word_transliteration": "famin"
+    },
+    {
+      "word_arabic": "نَّفۡسِكَۚ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11377,
+      "word_number_in_surah": 1751,
+      "word_surah": 4,
+      "word_translation": "yourself",
+      "word_transliteration": "nafsika"
+    },
+    {
+      "word_arabic": "وَأَرۡسَلۡنَٰكَ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11378,
+      "word_number_in_surah": 1752,
+      "word_surah": 4,
+      "word_translation": "And We have sent you",
+      "word_transliteration": "wa-arsalnaka"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11379,
+      "word_number_in_surah": 1753,
+      "word_surah": 4,
+      "word_translation": "for the people",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "رَسُولٗاۚ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11380,
+      "word_number_in_surah": 1754,
+      "word_surah": 4,
+      "word_translation": "(as) a Messenger",
+      "word_transliteration": "rasulan"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11381,
+      "word_number_in_surah": 1755,
+      "word_surah": 4,
+      "word_translation": "and is sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 79,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11382,
+      "word_number_in_surah": 1756,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "شَهِيدٗا",
+      "word_ayah": 79,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11383,
+      "word_number_in_surah": 1757,
+      "word_surah": 4,
+      "word_translation": "(as) a Witness",
+      "word_transliteration": "shahidan"
+    }
+  ],
+  "fullArabic": "مَّآ أَصَابَكَ مِنۡ حَسَنَةٖ فَمِنَ ٱللَّهِۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٖ فَمِن نَّفۡسِكَۚ وَأَرۡسَلۡنَٰكَ لِلنَّاسِ رَسُولٗاۚ وَكَفَىٰ بِٱللَّهِ شَهِيدٗا",
+  "fullTranslation": "What comes to you of good is from Allah, but what comes to you of evil, [O man], is from yourself. And We have sent you, [O Muhammad], to the people as a messenger, and sufficient is Allah as Witness.",
+  "fullTransliteration": "ma asabaka min hasanatin famina al-lahi wama asabaka min sayyi-atin famin nafsika wa-arsalnaka lilnnasi rasulan wakafa bil-lahi shahidan"
+}

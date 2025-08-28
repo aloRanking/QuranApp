@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "ayah": 68,
+    "surah": 5,
+    "words": 30,
+    "numberInQuran": 737,
+    "juz": 6,
+    "manzil": 2,
+    "page": 119,
+    "ruku": 95,
+    "hizbQuarter": 48,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15032,
+      "word_number_in_surah": 1659,
+      "word_surah": 5,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15033,
+      "word_number_in_surah": 1660,
+      "word_surah": 5,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15034,
+      "word_number_in_surah": 1661,
+      "word_surah": 5,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لَسۡتُمۡ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15035,
+      "word_number_in_surah": 1662,
+      "word_surah": 5,
+      "word_translation": "You are not",
+      "word_transliteration": "lastum"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15036,
+      "word_number_in_surah": 1663,
+      "word_surah": 5,
+      "word_translation": "on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "شَيۡءٍ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15037,
+      "word_number_in_surah": 1664,
+      "word_surah": 5,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15038,
+      "word_number_in_surah": 1665,
+      "word_surah": 5,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "تُقِيمُواْ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15039,
+      "word_number_in_surah": 1666,
+      "word_surah": 5,
+      "word_translation": "you stand fast",
+      "word_transliteration": "tuqimu"
+    },
+    {
+      "word_arabic": "ٱلتَّوۡرَىٰةَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15040,
+      "word_number_in_surah": 1667,
+      "word_surah": 5,
+      "word_translation": "(by) the Taurat",
+      "word_transliteration": "al-tawrata"
+    },
+    {
+      "word_arabic": "وَٱلۡإِنجِيلَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15041,
+      "word_number_in_surah": 1668,
+      "word_surah": 5,
+      "word_translation": "and the Injeel",
+      "word_transliteration": "wal-injila"
+    },
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15042,
+      "word_number_in_surah": 1669,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15043,
+      "word_number_in_surah": 1670,
+      "word_surah": 5,
+      "word_translation": "has been revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡكُم",
+      "word_ayah": 68,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15044,
+      "word_number_in_surah": 1671,
+      "word_surah": 5,
+      "word_translation": "to you",
+      "word_transliteration": "ilaykum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 68,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15045,
+      "word_number_in_surah": 1672,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكُمۡۗ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15046,
+      "word_number_in_surah": 1673,
+      "word_surah": 5,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbikum"
+    },
+    {
+      "word_arabic": "وَلَيَزِيدَنَّ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15047,
+      "word_number_in_surah": 1674,
+      "word_surah": 5,
+      "word_translation": "And surely increase",
+      "word_transliteration": "walayazidanna"
+    },
+    {
+      "word_arabic": "كَثِيرٗا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15048,
+      "word_number_in_surah": 1675,
+      "word_surah": 5,
+      "word_translation": "many",
+      "word_transliteration": "kathiran"
+    },
+    {
+      "word_arabic": "مِّنۡهُم",
+      "word_ayah": 68,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15049,
+      "word_number_in_surah": 1676,
+      "word_surah": 5,
+      "word_translation": "of them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "مَّآ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15050,
+      "word_number_in_surah": 1677,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أُنزِلَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15051,
+      "word_number_in_surah": 1678,
+      "word_surah": 5,
+      "word_translation": "has been revealed",
+      "word_transliteration": "unzila"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 15052,
+      "word_number_in_surah": 1679,
+      "word_surah": 5,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 68,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 15053,
+      "word_number_in_surah": 1680,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 15054,
+      "word_number_in_surah": 1681,
+      "word_surah": 5,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "طُغۡيَٰنٗا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 15055,
+      "word_number_in_surah": 1682,
+      "word_surah": 5,
+      "word_translation": "(in) rebellion",
+      "word_transliteration": "tugh'yanan"
+    },
+    {
+      "word_arabic": "وَكُفۡرٗاۖ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 15056,
+      "word_number_in_surah": 1683,
+      "word_surah": 5,
+      "word_translation": "and disbelief",
+      "word_transliteration": "wakuf'ran"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 15057,
+      "word_number_in_surah": 1684,
+      "word_surah": 5,
+      "word_translation": "So (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَأۡسَ",
+      "word_ayah": 68,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 15058,
+      "word_number_in_surah": 1685,
+      "word_surah": 5,
+      "word_translation": "grieve",
+      "word_transliteration": "tasa"
+    },
+    {
+      "word_arabic": "عَلَى",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 15059,
+      "word_number_in_surah": 1686,
+      "word_surah": 5,
+      "word_translation": "over",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "ٱلۡقَوۡمِ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 15060,
+      "word_number_in_surah": 1687,
+      "word_surah": 5,
+      "word_translation": "the people",
+      "word_transliteration": "al-qawmi"
+    },
+    {
+      "word_arabic": "ٱلۡكَٰفِرِينَ",
+      "word_ayah": 68,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 15061,
+      "word_number_in_surah": 1688,
+      "word_surah": 5,
+      "word_translation": "the disbelieving",
+      "word_transliteration": "al-kafirina"
+    }
+  ],
+  "fullArabic": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+  "fullTranslation": "Say, \"O People of the Scripture, you are [standing] on nothing until you uphold [the law of] the Torah, the Gospel, and what has been revealed to you from your Lord.\" And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. So do not grieve over the disbelieving people.",
+  "fullTransliteration": "qul yaahla al-kitabi lastum ala shayin hatta tuqimu al-tawrata wal-injila wama unzila ilaykum min rabbikum walayazidanna kathiran min'hum ma unzila ilayka min rabbika tugh'yanan wakuf'ran fala tasa ala al-qawmi al-kafirina"
+}

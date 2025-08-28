@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 117,
+    "surah": 4,
+    "words": 11,
+    "numberInQuran": 610,
+    "juz": 5,
+    "manzil": 1,
+    "page": 97,
+    "ruku": 79,
+    "hizbQuarter": 39,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 117,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12232,
+      "word_number_in_surah": 2606,
+      "word_surah": 4,
+      "word_translation": "Not",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "يَدۡعُونَ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12233,
+      "word_number_in_surah": 2607,
+      "word_surah": 4,
+      "word_translation": "they invoke",
+      "word_transliteration": "yad'una"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 117,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12234,
+      "word_number_in_surah": 2608,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِهِۦٓ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12235,
+      "word_number_in_surah": 2609,
+      "word_surah": 4,
+      "word_translation": "besides Him",
+      "word_transliteration": "dunihi"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12236,
+      "word_number_in_surah": 2610,
+      "word_surah": 4,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "إِنَٰثٗا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12237,
+      "word_number_in_surah": 2611,
+      "word_surah": 4,
+      "word_translation": "female (deities)",
+      "word_transliteration": "inathan"
+    },
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 117,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12238,
+      "word_number_in_surah": 2612,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "يَدۡعُونَ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12239,
+      "word_number_in_surah": 2613,
+      "word_surah": 4,
+      "word_translation": "they invoke",
+      "word_transliteration": "yad'una"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12240,
+      "word_number_in_surah": 2614,
+      "word_surah": 4,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "شَيۡطَٰنٗا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12241,
+      "word_number_in_surah": 2615,
+      "word_surah": 4,
+      "word_translation": "Shaitaan",
+      "word_transliteration": "shaytanan"
+    },
+    {
+      "word_arabic": "مَّرِيدٗا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12242,
+      "word_number_in_surah": 2616,
+      "word_surah": 4,
+      "word_translation": "rebellious",
+      "word_transliteration": "maridan"
+    }
+  ],
+  "fullArabic": "إِن يَدۡعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثٗا وَإِن يَدۡعُونَ إِلَّا شَيۡطَٰنٗا مَّرِيدٗا",
+  "fullTranslation": "They call upon instead of Him none but female [deities], and they [actually] call upon none but a rebellious Satan.",
+  "fullTransliteration": "in yad'una min dunihi illa inathan wa-in yad'una illa shaytanan maridan"
+}

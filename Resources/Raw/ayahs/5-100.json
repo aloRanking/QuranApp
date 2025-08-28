@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 100,
+    "surah": 5,
+    "words": 15,
+    "numberInQuran": 769,
+    "juz": 7,
+    "manzil": 2,
+    "page": 124,
+    "ruku": 98,
+    "hizbQuarter": 50,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 100,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15681,
+      "word_number_in_surah": 2308,
+      "word_surah": 5,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15682,
+      "word_number_in_surah": 2309,
+      "word_surah": 5,
+      "word_translation": "Not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡتَوِي",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15683,
+      "word_number_in_surah": 2310,
+      "word_surah": 5,
+      "word_translation": "(are) equal",
+      "word_transliteration": "yastawi"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيثُ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15684,
+      "word_number_in_surah": 2311,
+      "word_surah": 5,
+      "word_translation": "the evil",
+      "word_transliteration": "al-khabithu"
+    },
+    {
+      "word_arabic": "وَٱلطَّيِّبُ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15685,
+      "word_number_in_surah": 2312,
+      "word_surah": 5,
+      "word_translation": "and the good",
+      "word_transliteration": "wal-tayibu"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15686,
+      "word_number_in_surah": 2313,
+      "word_surah": 5,
+      "word_translation": "even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَعۡجَبَكَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15687,
+      "word_number_in_surah": 2314,
+      "word_surah": 5,
+      "word_translation": "impresses you",
+      "word_transliteration": "a'jabaka"
+    },
+    {
+      "word_arabic": "كَثۡرَةُ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15688,
+      "word_number_in_surah": 2315,
+      "word_surah": 5,
+      "word_translation": "abundance",
+      "word_transliteration": "kathratu"
+    },
+    {
+      "word_arabic": "ٱلۡخَبِيثِۚ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15689,
+      "word_number_in_surah": 2316,
+      "word_surah": 5,
+      "word_translation": "(of) the evil",
+      "word_transliteration": "al-khabithi"
+    },
+    {
+      "word_arabic": "فَٱتَّقُواْ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15690,
+      "word_number_in_surah": 2317,
+      "word_surah": 5,
+      "word_translation": "So fear",
+      "word_transliteration": "fa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15691,
+      "word_number_in_surah": 2318,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَٰٓأُوْلِي",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15692,
+      "word_number_in_surah": 2319,
+      "word_surah": 5,
+      "word_translation": "O men",
+      "word_transliteration": "yauli"
+    },
+    {
+      "word_arabic": "ٱلۡأَلۡبَٰبِ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15693,
+      "word_number_in_surah": 2320,
+      "word_surah": 5,
+      "word_translation": "(of) understanding",
+      "word_transliteration": "al-albabi"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15694,
+      "word_number_in_surah": 2321,
+      "word_surah": 5,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تُفۡلِحُونَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15695,
+      "word_number_in_surah": 2322,
+      "word_surah": 5,
+      "word_translation": "be successful",
+      "word_transliteration": "tuf'lihuna"
+    }
+  ],
+  "fullArabic": "قُل لَّا يَسۡتَوِي ٱلۡخَبِيثُ وَٱلطَّيِّبُ وَلَوۡ أَعۡجَبَكَ كَثۡرَةُ ٱلۡخَبِيثِۚ فَٱتَّقُواْ ٱللَّهَ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "fullTranslation": "Say, \"Not equal are the evil and the good, although the abundance of evil might impress you.\" So fear Allah, O you of understanding, that you may be successful.",
+  "fullTransliteration": "qul la yastawi al-khabithu wal-tayibu walaw a'jabaka kathratu al-khabithi fa-ittaqu al-laha yauli al-albabi la'allakum tuf'lihuna"
+}

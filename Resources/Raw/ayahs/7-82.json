@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "ayah": 82,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1036,
+    "juz": 8,
+    "manzil": 2,
+    "page": 161,
+    "ruku": 131,
+    "hizbQuarter": 64,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20543,
+      "word_number_in_surah": 1316,
+      "word_surah": 7,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَانَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20544,
+      "word_number_in_surah": 1317,
+      "word_surah": 7,
+      "word_translation": "was",
+      "word_transliteration": "kana"
+    },
+    {
+      "word_arabic": "جَوَابَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20545,
+      "word_number_in_surah": 1318,
+      "word_surah": 7,
+      "word_translation": "(the) answer",
+      "word_transliteration": "jawaba"
+    },
+    {
+      "word_arabic": "قَوۡمِهِۦٓ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20546,
+      "word_number_in_surah": 1319,
+      "word_surah": 7,
+      "word_translation": "(of) his people",
+      "word_transliteration": "qawmihi"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20547,
+      "word_number_in_surah": 1320,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 82,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20548,
+      "word_number_in_surah": 1321,
+      "word_surah": 7,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20549,
+      "word_number_in_surah": 1322,
+      "word_surah": 7,
+      "word_translation": "they said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "أَخۡرِجُوهُم",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20550,
+      "word_number_in_surah": 1323,
+      "word_surah": 7,
+      "word_translation": "Drive them out",
+      "word_transliteration": "akhrijuhum"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 82,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20551,
+      "word_number_in_surah": 1324,
+      "word_surah": 7,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَرۡيَتِكُمۡۖ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20552,
+      "word_number_in_surah": 1325,
+      "word_surah": 7,
+      "word_translation": "your town",
+      "word_transliteration": "qaryatikum"
+    },
+    {
+      "word_arabic": "إِنَّهُمۡ",
+      "word_ayah": 82,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20553,
+      "word_number_in_surah": 1326,
+      "word_surah": 7,
+      "word_translation": "Indeed they",
+      "word_transliteration": "innahum"
+    },
+    {
+      "word_arabic": "أُنَاسٞ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20554,
+      "word_number_in_surah": 1327,
+      "word_surah": 7,
+      "word_translation": "(are) people",
+      "word_transliteration": "unasun"
+    },
+    {
+      "word_arabic": "يَتَطَهَّرُونَ",
+      "word_ayah": 82,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20555,
+      "word_number_in_surah": 1328,
+      "word_surah": 7,
+      "word_translation": "who keep themselves pure",
+      "word_transliteration": "yatatahharuna"
+    }
+  ],
+  "fullArabic": "وَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُوٓاْ أَخۡرِجُوهُم مِّن قَرۡيَتِكُمۡۖ إِنَّهُمۡ أُنَاسٞ يَتَطَهَّرُونَ",
+  "fullTranslation": "But the answer of his people was only that they said, \"Evict them from your city! Indeed, they are men who keep themselves pure.\"",
+  "fullTransliteration": "wama kana jawaba qawmihi illa an qalu akhrijuhum min qaryatikum innahum unasun yatatahharuna"
+}

@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "ayah": 12,
+    "surah": 6,
+    "words": 25,
+    "numberInQuran": 801,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 103,
+    "hizbQuarter": 51,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 12,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16333,
+      "word_number_in_surah": 156,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لِّمَن",
+      "word_ayah": 12,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16334,
+      "word_number_in_surah": 157,
+      "word_surah": 6,
+      "word_translation": "To whom (belongs)",
+      "word_transliteration": "liman"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16335,
+      "word_number_in_surah": 158,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16336,
+      "word_number_in_surah": 159,
+      "word_surah": 6,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16337,
+      "word_number_in_surah": 160,
+      "word_surah": 6,
+      "word_translation": "the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِۖ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16338,
+      "word_number_in_surah": 161,
+      "word_surah": 6,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "قُل",
+      "word_ayah": 12,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16339,
+      "word_number_in_surah": 162,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "لِّلَّهِۚ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16340,
+      "word_number_in_surah": 163,
+      "word_surah": 6,
+      "word_translation": "To Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "كَتَبَ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16341,
+      "word_number_in_surah": 164,
+      "word_surah": 6,
+      "word_translation": "He has decreed",
+      "word_transliteration": "kataba"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16342,
+      "word_number_in_surah": 165,
+      "word_surah": 6,
+      "word_translation": "upon",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "نَفۡسِهِ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16343,
+      "word_number_in_surah": 166,
+      "word_surah": 6,
+      "word_translation": "Himself",
+      "word_transliteration": "nafsihi"
+    },
+    {
+      "word_arabic": "ٱلرَّحۡمَةَۚ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16344,
+      "word_number_in_surah": 167,
+      "word_surah": 6,
+      "word_translation": "the Mercy",
+      "word_transliteration": "al-rahmata"
+    },
+    {
+      "word_arabic": "لَيَجۡمَعَنَّكُمۡ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16345,
+      "word_number_in_surah": 168,
+      "word_surah": 6,
+      "word_translation": "Surely He will assemble you",
+      "word_transliteration": "layajma'annakum"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16346,
+      "word_number_in_surah": 169,
+      "word_surah": 6,
+      "word_translation": "on",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "يَوۡمِ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 16347,
+      "word_number_in_surah": 170,
+      "word_surah": 6,
+      "word_translation": "(the) Day",
+      "word_transliteration": "yawmi"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 16348,
+      "word_number_in_surah": 171,
+      "word_surah": 6,
+      "word_translation": "(of) the Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 16349,
+      "word_number_in_surah": 172,
+      "word_surah": 6,
+      "word_translation": "(there is) no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "رَيۡبَ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 16350,
+      "word_number_in_surah": 173,
+      "word_surah": 6,
+      "word_translation": "doubt",
+      "word_transliteration": "rayba"
+    },
+    {
+      "word_arabic": "فِيهِۚ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 16351,
+      "word_number_in_surah": 174,
+      "word_surah": 6,
+      "word_translation": "about it",
+      "word_transliteration": "fihi"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 16352,
+      "word_number_in_surah": 175,
+      "word_surah": 6,
+      "word_translation": "Those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "خَسِرُوٓاْ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 16353,
+      "word_number_in_surah": 176,
+      "word_surah": 6,
+      "word_translation": "have lost",
+      "word_transliteration": "khasiru"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 16354,
+      "word_number_in_surah": 177,
+      "word_surah": 6,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "فَهُمۡ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 16355,
+      "word_number_in_surah": 178,
+      "word_surah": 6,
+      "word_translation": "then they",
+      "word_transliteration": "fahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 16356,
+      "word_number_in_surah": 179,
+      "word_surah": 6,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُونَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 16357,
+      "word_number_in_surah": 180,
+      "word_surah": 6,
+      "word_translation": "believe",
+      "word_transliteration": "yu'minuna"
+    }
+  ],
+  "fullArabic": "قُل لِّمَن مَّا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُل لِّلَّهِۚ كَتَبَ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۚ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
+  "fullTranslation": "Say, \"To whom belongs whatever is in the heavens and earth?\" Say, \"To Allah.\" He has decreed upon Himself mercy. He will surely assemble you for the Day of Resurrection, about which there is no doubt. Those who will lose themselves [that Day] do not believe.",
+  "fullTransliteration": "qul liman ma fi al-samawati wal-ardi qul lillahi kataba ala nafsihi al-rahmata layajma'annakum ila yawmi al-qiyamati la rayba fihi alladhina khasiru anfusahum fahum la yu'minuna"
+}

@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "ayah": 184,
+    "surah": 3,
+    "words": 12,
+    "numberInQuran": 477,
+    "juz": 4,
+    "manzil": 1,
+    "page": 74,
+    "ruku": 60,
+    "hizbQuarter": 29,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 184,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 9323,
+      "word_number_in_surah": 3178,
+      "word_surah": 3,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "كَذَّبُوكَ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 9324,
+      "word_number_in_surah": 3179,
+      "word_surah": 3,
+      "word_translation": "they reject you",
+      "word_transliteration": "kadhabuka"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 9325,
+      "word_number_in_surah": 3180,
+      "word_surah": 3,
+      "word_translation": "then certainly",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "كُذِّبَ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9326,
+      "word_number_in_surah": 3181,
+      "word_surah": 3,
+      "word_translation": "were rejected",
+      "word_transliteration": "kudhiba"
+    },
+    {
+      "word_arabic": "رُسُلٞ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9327,
+      "word_number_in_surah": 3182,
+      "word_surah": 3,
+      "word_translation": "Messengers",
+      "word_transliteration": "rusulun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 184,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9328,
+      "word_number_in_surah": 3183,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِكَ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9329,
+      "word_number_in_surah": 3184,
+      "word_surah": 3,
+      "word_translation": "before you",
+      "word_transliteration": "qablika"
+    },
+    {
+      "word_arabic": "جَآءُو",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9330,
+      "word_number_in_surah": 3185,
+      "word_surah": 3,
+      "word_translation": "(who) came",
+      "word_transliteration": "jau"
+    },
+    {
+      "word_arabic": "بِٱلۡبَيِّنَٰتِ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9331,
+      "word_number_in_surah": 3186,
+      "word_surah": 3,
+      "word_translation": "with the clear Signs",
+      "word_transliteration": "bil-bayinati"
+    },
+    {
+      "word_arabic": "وَٱلزُّبُرِ",
+      "word_ayah": 184,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9332,
+      "word_number_in_surah": 3187,
+      "word_surah": 3,
+      "word_translation": "and the Scriptures",
+      "word_transliteration": "wal-zuburi"
+    },
+    {
+      "word_arabic": "وَٱلۡكِتَٰبِ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9333,
+      "word_number_in_surah": 3188,
+      "word_surah": 3,
+      "word_translation": "and the Book",
+      "word_transliteration": "wal-kitabi"
+    },
+    {
+      "word_arabic": "ٱلۡمُنِيرِ",
+      "word_ayah": 184,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9334,
+      "word_number_in_surah": 3189,
+      "word_surah": 3,
+      "word_translation": "[the] Enlightening",
+      "word_transliteration": "al-muniri"
+    }
+  ],
+  "fullArabic": "فَإِن كَذَّبُوكَ فَقَدۡ كُذِّبَ رُسُلٞ مِّن قَبۡلِكَ جَآءُو بِٱلۡبَيِّنَٰتِ وَٱلزُّبُرِ وَٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
+  "fullTranslation": "Then if they deny you, [O Muhammad] - so were messengers denied before you, who brought clear proofs and written ordinances and the enlightening Scripture.",
+  "fullTransliteration": "fa-in kadhabuka faqad kudhiba rusulun min qablika jau bil-bayinati wal-zuburi wal-kitabi al-muniri"
+}

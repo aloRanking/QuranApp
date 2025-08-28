@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "ayah": 211,
+    "surah": 2,
+    "words": 20,
+    "numberInQuran": 218,
+    "juz": 2,
+    "manzil": 1,
+    "page": 33,
+    "ruku": 27,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "سَلۡ",
+      "word_ayah": 211,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3936,
+      "word_number_in_surah": 3907,
+      "word_surah": 2,
+      "word_translation": "Ask",
+      "word_transliteration": "sal"
+    },
+    {
+      "word_arabic": "بَنِيٓ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3937,
+      "word_number_in_surah": 3908,
+      "word_surah": 2,
+      "word_translation": "(the) Children",
+      "word_transliteration": "bani"
+    },
+    {
+      "word_arabic": "إِسۡرَٰٓءِيلَ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3938,
+      "word_number_in_surah": 3909,
+      "word_surah": 2,
+      "word_translation": "(of) Israel",
+      "word_transliteration": "is'raila"
+    },
+    {
+      "word_arabic": "كَمۡ",
+      "word_ayah": 211,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3939,
+      "word_number_in_surah": 3910,
+      "word_surah": 2,
+      "word_translation": "how many",
+      "word_transliteration": "kam"
+    },
+    {
+      "word_arabic": "ءَاتَيۡنَٰهُم",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3940,
+      "word_number_in_surah": 3911,
+      "word_surah": 2,
+      "word_translation": "We gave them",
+      "word_transliteration": "ataynahum"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 211,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3941,
+      "word_number_in_surah": 3912,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ءَايَةِۢ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3942,
+      "word_number_in_surah": 3913,
+      "word_surah": 2,
+      "word_translation": "(the) Sign(s)",
+      "word_transliteration": "ayatin"
+    },
+    {
+      "word_arabic": "بَيِّنَةٖۗ",
+      "word_ayah": 211,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3943,
+      "word_number_in_surah": 3914,
+      "word_surah": 2,
+      "word_translation": "clear",
+      "word_transliteration": "bayyinatin"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 211,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3944,
+      "word_number_in_surah": 3915,
+      "word_surah": 2,
+      "word_translation": "And whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "يُبَدِّلۡ",
+      "word_ayah": 211,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3945,
+      "word_number_in_surah": 3916,
+      "word_surah": 2,
+      "word_translation": "changes",
+      "word_transliteration": "yubaddil"
+    },
+    {
+      "word_arabic": "نِعۡمَةَ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3946,
+      "word_number_in_surah": 3917,
+      "word_surah": 2,
+      "word_translation": "Favor",
+      "word_transliteration": "ni'mata"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3947,
+      "word_number_in_surah": 3918,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 211,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3948,
+      "word_number_in_surah": 3919,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3949,
+      "word_number_in_surah": 3920,
+      "word_surah": 2,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3950,
+      "word_number_in_surah": 3921,
+      "word_surah": 2,
+      "word_translation": "[what]",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "جَآءَتۡهُ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3951,
+      "word_number_in_surah": 3922,
+      "word_surah": 2,
+      "word_translation": "it (has) come to him",
+      "word_transliteration": "jaathu"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 211,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3952,
+      "word_number_in_surah": 3923,
+      "word_surah": 2,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3953,
+      "word_number_in_surah": 3924,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "شَدِيدُ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3954,
+      "word_number_in_surah": 3925,
+      "word_surah": 2,
+      "word_translation": "(is) severe",
+      "word_transliteration": "shadidu"
+    },
+    {
+      "word_arabic": "ٱلۡعِقَابِ",
+      "word_ayah": 211,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3955,
+      "word_number_in_surah": 3926,
+      "word_surah": 2,
+      "word_translation": "in [the] chastising",
+      "word_transliteration": "al-'iqabi"
+    }
+  ],
+  "fullArabic": "سَلۡ بَنِيٓ إِسۡرَٰٓءِيلَ كَمۡ ءَاتَيۡنَٰهُم مِّنۡ ءَايَةِۢ بَيِّنَةٖۗ وَمَن يُبَدِّلۡ نِعۡمَةَ ٱللَّهِ مِنۢ بَعۡدِ مَا جَآءَتۡهُ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+  "fullTranslation": "Ask the Children of Israel how many a sign of evidence We have given them. And whoever exchanges the favor of Allah [for disbelief] after it has come to him - then indeed, Allah is severe in penalty.",
+  "fullTransliteration": "sal bani is'raila kam ataynahum min ayatin bayyinatin waman yubaddil ni'mata al-lahi min ba'di ma jaathu fa-inna al-laha shadidu al-'iqabi"
+}

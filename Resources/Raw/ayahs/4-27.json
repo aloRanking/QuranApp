@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "ayah": 27,
+    "surah": 4,
+    "words": 13,
+    "numberInQuran": 520,
+    "juz": 5,
+    "manzil": 1,
+    "page": 83,
+    "ruku": 66,
+    "hizbQuarter": 33,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 27,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 10343,
+      "word_number_in_surah": 717,
+      "word_surah": 4,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يُرِيدُ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 10344,
+      "word_number_in_surah": 718,
+      "word_surah": 4,
+      "word_translation": "wishes",
+      "word_transliteration": "yuridu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 27,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 10345,
+      "word_number_in_surah": 719,
+      "word_surah": 4,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَتُوبَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 10346,
+      "word_number_in_surah": 720,
+      "word_surah": 4,
+      "word_translation": "accept repentance",
+      "word_transliteration": "yatuba"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 10347,
+      "word_number_in_surah": 721,
+      "word_surah": 4,
+      "word_translation": "from you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "وَيُرِيدُ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 10348,
+      "word_number_in_surah": 722,
+      "word_surah": 4,
+      "word_translation": "but wish",
+      "word_transliteration": "wayuridu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 10349,
+      "word_number_in_surah": 723,
+      "word_surah": 4,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَتَّبِعُونَ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 10350,
+      "word_number_in_surah": 724,
+      "word_surah": 4,
+      "word_translation": "follow",
+      "word_transliteration": "yattabi'una"
+    },
+    {
+      "word_arabic": "ٱلشَّهَوَٰتِ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 10351,
+      "word_number_in_surah": 725,
+      "word_surah": 4,
+      "word_translation": "the passions",
+      "word_transliteration": "al-shahawati"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 27,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 10352,
+      "word_number_in_surah": 726,
+      "word_surah": 4,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَمِيلُواْ",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 10353,
+      "word_number_in_surah": 727,
+      "word_surah": 4,
+      "word_translation": "you deviate",
+      "word_transliteration": "tamilu"
+    },
+    {
+      "word_arabic": "مَيۡلًا",
+      "word_ayah": 27,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 10354,
+      "word_number_in_surah": 728,
+      "word_surah": 4,
+      "word_translation": "(into) a deviation",
+      "word_transliteration": "maylan"
+    },
+    {
+      "word_arabic": "عَظِيمٗا",
+      "word_ayah": 27,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 10355,
+      "word_number_in_surah": 729,
+      "word_surah": 4,
+      "word_translation": "great",
+      "word_transliteration": "aziman"
+    }
+  ],
+  "fullArabic": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيۡكُمۡ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُواْ مَيۡلًا عَظِيمٗا",
+  "fullTranslation": "Allah wants to accept your repentance, but those who follow [their] passions want you to digress [into] a great deviation.",
+  "fullTransliteration": "wal-lahu yuridu an yatuba alaykum wayuridu alladhina yattabi'una al-shahawati an tamilu maylan aziman"
+}

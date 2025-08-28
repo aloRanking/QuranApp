@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "ayah": 121,
+    "surah": 7,
+    "words": 4,
+    "numberInQuran": 1075,
+    "juz": 9,
+    "manzil": 2,
+    "page": 165,
+    "ruku": 135,
+    "hizbQuarter": 66,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 21041,
+      "word_number_in_surah": 1814,
+      "word_surah": 7,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 21042,
+      "word_number_in_surah": 1815,
+      "word_surah": 7,
+      "word_translation": "We believe",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "بِرَبِّ",
+      "word_ayah": 121,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 21043,
+      "word_number_in_surah": 1816,
+      "word_surah": 7,
+      "word_translation": "in (the) Lord",
+      "word_transliteration": "birabbi"
+    },
+    {
+      "word_arabic": "ٱلۡعَٰلَمِينَ",
+      "word_ayah": 121,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 21044,
+      "word_number_in_surah": 1817,
+      "word_surah": 7,
+      "word_translation": "(of) the worlds",
+      "word_transliteration": "al-'alamina"
+    }
+  ],
+  "fullArabic": "قَالُوٓاْ ءَامَنَّا بِرَبِّ ٱلۡعَٰلَمِينَ",
+  "fullTranslation": "They said, \"We have believed in the Lord of the worlds,",
+  "fullTransliteration": "qalu amanna birabbi al-'alamina"
+}

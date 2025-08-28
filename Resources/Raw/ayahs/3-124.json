@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "ayah": 124,
+    "surah": 3,
+    "words": 13,
+    "numberInQuran": 417,
+    "juz": 4,
+    "manzil": 1,
+    "page": 66,
+    "ruku": 54,
+    "hizbQuarter": 26,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 124,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8248,
+      "word_number_in_surah": 2103,
+      "word_surah": 3,
+      "word_translation": "When",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "تَقُولُ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8249,
+      "word_number_in_surah": 2104,
+      "word_surah": 3,
+      "word_translation": "you said",
+      "word_transliteration": "taqulu"
+    },
+    {
+      "word_arabic": "لِلۡمُؤۡمِنِينَ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8250,
+      "word_number_in_surah": 2105,
+      "word_surah": 3,
+      "word_translation": "to the believers",
+      "word_transliteration": "lil'mu'minina"
+    },
+    {
+      "word_arabic": "أَلَن",
+      "word_ayah": 124,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8251,
+      "word_number_in_surah": 2106,
+      "word_surah": 3,
+      "word_translation": "Is it not",
+      "word_transliteration": "alan"
+    },
+    {
+      "word_arabic": "يَكۡفِيَكُمۡ",
+      "word_ayah": 124,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8252,
+      "word_number_in_surah": 2107,
+      "word_surah": 3,
+      "word_translation": "enough for you",
+      "word_transliteration": "yakfiyakum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 124,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8253,
+      "word_number_in_surah": 2108,
+      "word_surah": 3,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُمِدَّكُمۡ",
+      "word_ayah": 124,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8254,
+      "word_number_in_surah": 2109,
+      "word_surah": 3,
+      "word_translation": "reinforces you",
+      "word_transliteration": "yumiddakum"
+    },
+    {
+      "word_arabic": "رَبُّكُم",
+      "word_ayah": 124,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8255,
+      "word_number_in_surah": 2110,
+      "word_surah": 3,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbukum"
+    },
+    {
+      "word_arabic": "بِثَلَٰثَةِ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8256,
+      "word_number_in_surah": 2111,
+      "word_surah": 3,
+      "word_translation": "with three",
+      "word_transliteration": "bithalathati"
+    },
+    {
+      "word_arabic": "ءَالَٰفٖ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 8257,
+      "word_number_in_surah": 2112,
+      "word_surah": 3,
+      "word_translation": "thousand[s]",
+      "word_transliteration": "alafin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 124,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 8258,
+      "word_number_in_surah": 2113,
+      "word_surah": 3,
+      "word_translation": "[of]",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمَلَٰٓئِكَةِ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 8259,
+      "word_number_in_surah": 2114,
+      "word_surah": 3,
+      "word_translation": "[the] Angels",
+      "word_transliteration": "al-malaikati"
+    },
+    {
+      "word_arabic": "مُنزَلِينَ",
+      "word_ayah": 124,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 8260,
+      "word_number_in_surah": 2115,
+      "word_surah": 3,
+      "word_translation": "[the ones] sent down",
+      "word_transliteration": "munzalina"
+    }
+  ],
+  "fullArabic": "إِذۡ تَقُولُ لِلۡمُؤۡمِنِينَ أَلَن يَكۡفِيَكُمۡ أَن يُمِدَّكُمۡ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُنزَلِينَ",
+  "fullTranslation": "[Remember] when you said to the believers, \"Is it not sufficient for you that your Lord should reinforce you with three thousand angels sent down?",
+  "fullTransliteration": "idh taqulu lil'mu'minina alan yakfiyakum an yumiddakum rabbukum bithalathati alafin mina al-malaikati munzalina"
+}

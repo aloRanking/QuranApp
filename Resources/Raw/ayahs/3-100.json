@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "ayah": 100,
+    "surah": 3,
+    "words": 14,
+    "numberInQuran": 393,
+    "juz": 4,
+    "manzil": 1,
+    "page": 62,
+    "ruku": 51,
+    "hizbQuarter": 25,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَيُّهَا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7835,
+      "word_number_in_surah": 1690,
+      "word_surah": 3,
+      "word_translation": "O you",
+      "word_transliteration": "yaayyuha"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7836,
+      "word_number_in_surah": 1691,
+      "word_surah": 3,
+      "word_translation": "who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُوٓاْ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7837,
+      "word_number_in_surah": 1692,
+      "word_surah": 3,
+      "word_translation": "believe[d]!",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 100,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7838,
+      "word_number_in_surah": 1693,
+      "word_surah": 3,
+      "word_translation": "If",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "تُطِيعُواْ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7839,
+      "word_number_in_surah": 1694,
+      "word_surah": 3,
+      "word_translation": "you obey",
+      "word_transliteration": "tuti'u"
+    },
+    {
+      "word_arabic": "فَرِيقٗا",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7840,
+      "word_number_in_surah": 1695,
+      "word_surah": 3,
+      "word_translation": "a group",
+      "word_transliteration": "fariqan"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 100,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7841,
+      "word_number_in_surah": 1696,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7842,
+      "word_number_in_surah": 1697,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "أُوتُواْ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7843,
+      "word_number_in_surah": 1698,
+      "word_surah": 3,
+      "word_translation": "were given",
+      "word_transliteration": "utu"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7844,
+      "word_number_in_surah": 1699,
+      "word_surah": 3,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "يَرُدُّوكُم",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7845,
+      "word_number_in_surah": 1700,
+      "word_surah": 3,
+      "word_translation": "they will turn you back",
+      "word_transliteration": "yaruddukum"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7846,
+      "word_number_in_surah": 1701,
+      "word_surah": 3,
+      "word_translation": "after",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "إِيمَٰنِكُمۡ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7847,
+      "word_number_in_surah": 1702,
+      "word_surah": 3,
+      "word_translation": "your belief",
+      "word_transliteration": "imanikum"
+    },
+    {
+      "word_arabic": "كَٰفِرِينَ",
+      "word_ayah": 100,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7848,
+      "word_number_in_surah": 1703,
+      "word_surah": 3,
+      "word_translation": "(as) disbelievers",
+      "word_transliteration": "kafirina"
+    }
+  ],
+  "fullArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تُطِيعُواْ فَرِيقٗا مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ يَرُدُّوكُم بَعۡدَ إِيمَٰنِكُمۡ كَٰفِرِينَ",
+  "fullTranslation": "O you who have believed, if you obey a party of those who were given the Scripture, they would turn you back, after your belief, [to being] unbelievers.",
+  "fullTransliteration": "yaayyuha alladhina amanu in tuti'u fariqan mina alladhina utu al-kitaba yaruddukum ba'da imanikum kafirina"
+}

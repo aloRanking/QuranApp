@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "ayah": 214,
+    "surah": 2,
+    "words": 30,
+    "numberInQuran": 221,
+    "juz": 2,
+    "manzil": 1,
+    "page": 33,
+    "ruku": 27,
+    "hizbQuarter": 13,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أَمۡ",
+      "word_ayah": 214,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4025,
+      "word_number_in_surah": 3996,
+      "word_surah": 2,
+      "word_translation": "Or",
+      "word_transliteration": "am"
+    },
+    {
+      "word_arabic": "حَسِبۡتُمۡ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4026,
+      "word_number_in_surah": 3997,
+      "word_surah": 2,
+      "word_translation": "(do) you think",
+      "word_transliteration": "hasib'tum"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 214,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4027,
+      "word_number_in_surah": 3998,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَدۡخُلُواْ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4028,
+      "word_number_in_surah": 3999,
+      "word_surah": 2,
+      "word_translation": "you will enter",
+      "word_transliteration": "tadkhulu"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةَ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4029,
+      "word_number_in_surah": 4000,
+      "word_surah": 2,
+      "word_translation": "Paradise",
+      "word_transliteration": "al-janata"
+    },
+    {
+      "word_arabic": "وَلَمَّا",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4030,
+      "word_number_in_surah": 4001,
+      "word_surah": 2,
+      "word_translation": "while not",
+      "word_transliteration": "walamma"
+    },
+    {
+      "word_arabic": "يَأۡتِكُم",
+      "word_ayah": 214,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4031,
+      "word_number_in_surah": 4002,
+      "word_surah": 2,
+      "word_translation": "(has) come to you",
+      "word_transliteration": "yatikum"
+    },
+    {
+      "word_arabic": "مَّثَلُ",
+      "word_ayah": 214,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4032,
+      "word_number_in_surah": 4003,
+      "word_surah": 2,
+      "word_translation": "like (came to)",
+      "word_transliteration": "mathalu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4033,
+      "word_number_in_surah": 4004,
+      "word_surah": 2,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "خَلَوۡاْ",
+      "word_ayah": 214,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4034,
+      "word_number_in_surah": 4005,
+      "word_surah": 2,
+      "word_translation": "passed away",
+      "word_transliteration": "khalaw"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 214,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4035,
+      "word_number_in_surah": 4006,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "قَبۡلِكُمۖ",
+      "word_ayah": 214,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4036,
+      "word_number_in_surah": 4007,
+      "word_surah": 2,
+      "word_translation": "before you",
+      "word_transliteration": "qablikum"
+    },
+    {
+      "word_arabic": "مَّسَّتۡهُمُ",
+      "word_ayah": 214,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4037,
+      "word_number_in_surah": 4008,
+      "word_surah": 2,
+      "word_translation": "Touched them",
+      "word_transliteration": "massathumu"
+    },
+    {
+      "word_arabic": "ٱلۡبَأۡسَآءُ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4038,
+      "word_number_in_surah": 4009,
+      "word_surah": 2,
+      "word_translation": "[the] adversity",
+      "word_transliteration": "al-basau"
+    },
+    {
+      "word_arabic": "وَٱلضَّرَّآءُ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4039,
+      "word_number_in_surah": 4010,
+      "word_surah": 2,
+      "word_translation": "and [the] hardship",
+      "word_transliteration": "wal-darau"
+    },
+    {
+      "word_arabic": "وَزُلۡزِلُواْ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4040,
+      "word_number_in_surah": 4011,
+      "word_surah": 2,
+      "word_translation": "and they were shaken",
+      "word_transliteration": "wazul'zilu"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4041,
+      "word_number_in_surah": 4012,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يَقُولَ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4042,
+      "word_number_in_surah": 4013,
+      "word_surah": 2,
+      "word_translation": "said",
+      "word_transliteration": "yaqula"
+    },
+    {
+      "word_arabic": "ٱلرَّسُولُ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4043,
+      "word_number_in_surah": 4014,
+      "word_surah": 2,
+      "word_translation": "the Messenger",
+      "word_transliteration": "al-rasulu"
+    },
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4044,
+      "word_number_in_surah": 4015,
+      "word_surah": 2,
+      "word_translation": "and those who",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4045,
+      "word_number_in_surah": 4016,
+      "word_surah": 2,
+      "word_translation": "believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "مَعَهُۥ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4046,
+      "word_number_in_surah": 4017,
+      "word_surah": 2,
+      "word_translation": "with him",
+      "word_transliteration": "ma'ahu"
+    },
+    {
+      "word_arabic": "مَتَىٰ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4047,
+      "word_number_in_surah": 4018,
+      "word_surah": 2,
+      "word_translation": "When",
+      "word_transliteration": "mata"
+    },
+    {
+      "word_arabic": "نَصۡرُ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4048,
+      "word_number_in_surah": 4019,
+      "word_surah": 2,
+      "word_translation": "[will] (the) help",
+      "word_transliteration": "nasru"
+    },
+    {
+      "word_arabic": "ٱللَّهِۗ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4049,
+      "word_number_in_surah": 4020,
+      "word_surah": 2,
+      "word_translation": "(of) Allah (come)",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَلَآ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4050,
+      "word_number_in_surah": 4021,
+      "word_surah": 2,
+      "word_translation": "Unquestionably",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 214,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4051,
+      "word_number_in_surah": 4022,
+      "word_surah": 2,
+      "word_translation": "[Indeed]",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "نَصۡرَ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 4052,
+      "word_number_in_surah": 4023,
+      "word_surah": 2,
+      "word_translation": "help",
+      "word_transliteration": "nasra"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 4053,
+      "word_number_in_surah": 4024,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "قَرِيبٞ",
+      "word_ayah": 214,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 4054,
+      "word_number_in_surah": 4025,
+      "word_surah": 2,
+      "word_translation": "(is) near",
+      "word_transliteration": "qaribun"
+    }
+  ],
+  "fullArabic": "أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَأۡتِكُم مَّثَلُ ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلِكُمۖ مَّسَّتۡهُمُ ٱلۡبَأۡسَآءُ وَٱلضَّرَّآءُ وَزُلۡزِلُواْ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ مَتَىٰ نَصۡرُ ٱللَّهِۗ أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبٞ",
+  "fullTranslation": "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, \"When is the help of Allah?\" Unquestionably, the help of Allah is near.",
+  "fullTransliteration": "am hasib'tum an tadkhulu al-janata walamma yatikum mathalu alladhina khalaw min qablikum massathumu al-basau wal-darau wazul'zilu hatta yaqula al-rasulu wa-alladhina amanu ma'ahu mata nasru al-lahi ala inna nasra al-lahi qaribun"
+}

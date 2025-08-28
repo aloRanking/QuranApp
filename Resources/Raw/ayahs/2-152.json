@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "ayah": 152,
+    "surah": 2,
+    "words": 6,
+    "numberInQuran": 159,
+    "juz": 2,
+    "manzil": 1,
+    "page": 23,
+    "ruku": 19,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَٱذۡكُرُونِيٓ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2760,
+      "word_number_in_surah": 2731,
+      "word_surah": 2,
+      "word_translation": "So remember Me",
+      "word_transliteration": "fa-udh'kuruni"
+    },
+    {
+      "word_arabic": "أَذۡكُرۡكُمۡ",
+      "word_ayah": 152,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2761,
+      "word_number_in_surah": 2732,
+      "word_surah": 2,
+      "word_translation": "I will remember you",
+      "word_transliteration": "adhkur'kum"
+    },
+    {
+      "word_arabic": "وَٱشۡكُرُواْ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2762,
+      "word_number_in_surah": 2733,
+      "word_surah": 2,
+      "word_translation": "and be grateful",
+      "word_transliteration": "wa-ush'kuru"
+    },
+    {
+      "word_arabic": "لِي",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2763,
+      "word_number_in_surah": 2734,
+      "word_surah": 2,
+      "word_translation": "to Me",
+      "word_transliteration": "li"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2764,
+      "word_number_in_surah": 2735,
+      "word_surah": 2,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونِ",
+      "word_ayah": 152,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2765,
+      "word_number_in_surah": 2736,
+      "word_surah": 2,
+      "word_translation": "(be) ungrateful to Me",
+      "word_transliteration": "takfuruni"
+    }
+  ],
+  "fullArabic": "فَٱذۡكُرُونِيٓ أَذۡكُرۡكُمۡ وَٱشۡكُرُواْ لِي وَلَا تَكۡفُرُونِ",
+  "fullTranslation": "So remember Me; I will remember you. And be grateful to Me and do not deny Me.",
+  "fullTransliteration": "fa-udh'kuruni adhkur'kum wa-ush'kuru li wala takfuruni"
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "ayah": 163,
+    "surah": 6,
+    "words": 8,
+    "numberInQuran": 952,
+    "juz": 8,
+    "manzil": 2,
+    "page": 150,
+    "ruku": 121,
+    "hizbQuarter": 60,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19170,
+      "word_number_in_surah": 2993,
+      "word_surah": 6,
+      "word_translation": "No",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "شَرِيكَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19171,
+      "word_number_in_surah": 2994,
+      "word_surah": 6,
+      "word_translation": "partners",
+      "word_transliteration": "sharika"
+    },
+    {
+      "word_arabic": "لَهُۥۖ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19172,
+      "word_number_in_surah": 2995,
+      "word_surah": 6,
+      "word_translation": "for Him",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "وَبِذَٰلِكَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19173,
+      "word_number_in_surah": 2996,
+      "word_surah": 6,
+      "word_translation": "and with that",
+      "word_transliteration": "wabidhalika"
+    },
+    {
+      "word_arabic": "أُمِرۡتُ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19174,
+      "word_number_in_surah": 2997,
+      "word_surah": 6,
+      "word_translation": "I have been commanded",
+      "word_transliteration": "umir'tu"
+    },
+    {
+      "word_arabic": "وَأَنَا۠",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19175,
+      "word_number_in_surah": 2998,
+      "word_surah": 6,
+      "word_translation": "And I am",
+      "word_transliteration": "wa-ana"
+    },
+    {
+      "word_arabic": "أَوَّلُ",
+      "word_ayah": 163,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19176,
+      "word_number_in_surah": 2999,
+      "word_surah": 6,
+      "word_translation": "(the) first",
+      "word_transliteration": "awwalu"
+    },
+    {
+      "word_arabic": "ٱلۡمُسۡلِمِينَ",
+      "word_ayah": 163,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19177,
+      "word_number_in_surah": 3000,
+      "word_surah": 6,
+      "word_translation": "(of) the ones who surrender (to Him)",
+      "word_transliteration": "al-mus'limina"
+    }
+  ],
+  "fullArabic": "لَا شَرِيكَ لَهُۥۖ وَبِذَٰلِكَ أُمِرۡتُ وَأَنَا۠ أَوَّلُ ٱلۡمُسۡلِمِينَ",
+  "fullTranslation": "No partner has He. And this I have been commanded, and I am the first [among you] of the Muslims.\"",
+  "fullTransliteration": "la sharika lahu wabidhalika umir'tu wa-ana awwalu al-mus'limina"
+}

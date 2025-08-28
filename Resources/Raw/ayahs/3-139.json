@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ayah": 139,
+    "surah": 3,
+    "words": 9,
+    "numberInQuran": 432,
+    "juz": 4,
+    "manzil": 1,
+    "page": 67,
+    "ruku": 55,
+    "hizbQuarter": 27,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8433,
+      "word_number_in_surah": 2288,
+      "word_surah": 3,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَهِنُواْ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8434,
+      "word_number_in_surah": 2289,
+      "word_surah": 3,
+      "word_translation": "weaken",
+      "word_transliteration": "tahinu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8435,
+      "word_number_in_surah": 2290,
+      "word_surah": 3,
+      "word_translation": "and (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَحۡزَنُواْ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 8436,
+      "word_number_in_surah": 2291,
+      "word_surah": 3,
+      "word_translation": "grieve",
+      "word_transliteration": "tahzanu"
+    },
+    {
+      "word_arabic": "وَأَنتُمُ",
+      "word_ayah": 139,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 8437,
+      "word_number_in_surah": 2292,
+      "word_surah": 3,
+      "word_translation": "and you (will be)",
+      "word_transliteration": "wa-antumu"
+    },
+    {
+      "word_arabic": "ٱلۡأَعۡلَوۡنَ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 8438,
+      "word_number_in_surah": 2293,
+      "word_surah": 3,
+      "word_translation": "[the] superior",
+      "word_transliteration": "al-a'lawna"
+    },
+    {
+      "word_arabic": "إِن",
+      "word_ayah": 139,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 8439,
+      "word_number_in_surah": 2294,
+      "word_surah": 3,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "كُنتُم",
+      "word_ayah": 139,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 8440,
+      "word_number_in_surah": 2295,
+      "word_surah": 3,
+      "word_translation": "you are",
+      "word_transliteration": "kuntum"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنِينَ",
+      "word_ayah": 139,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 8441,
+      "word_number_in_surah": 2296,
+      "word_surah": 3,
+      "word_translation": "believers",
+      "word_transliteration": "mu'minina"
+    }
+  ],
+  "fullArabic": "وَلَا تَهِنُواْ وَلَا تَحۡزَنُواْ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم مُّؤۡمِنِينَ",
+  "fullTranslation": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+  "fullTransliteration": "wala tahinu wala tahzanu wa-antumu al-a'lawna in kuntum mu'minina"
+}

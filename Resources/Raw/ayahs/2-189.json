@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "ayah": 189,
+    "surah": 2,
+    "words": 27,
+    "numberInQuran": 196,
+    "juz": 2,
+    "manzil": 1,
+    "page": 29,
+    "ruku": 25,
+    "hizbQuarter": 12,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞يَسۡ‍َٔلُونَكَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3505,
+      "word_number_in_surah": 3476,
+      "word_surah": 2,
+      "word_translation": "They ask you",
+      "word_transliteration": "yasalunaka"
+    },
+    {
+      "word_arabic": "عَنِ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3506,
+      "word_number_in_surah": 3477,
+      "word_surah": 2,
+      "word_translation": "about",
+      "word_transliteration": "ani"
+    },
+    {
+      "word_arabic": "ٱلۡأَهِلَّةِۖ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3507,
+      "word_number_in_surah": 3478,
+      "word_surah": 2,
+      "word_translation": "the new moons",
+      "word_transliteration": "al-ahilati"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3508,
+      "word_number_in_surah": 3479,
+      "word_surah": 2,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "هِيَ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3509,
+      "word_number_in_surah": 3480,
+      "word_surah": 2,
+      "word_translation": "They",
+      "word_transliteration": "hiya"
+    },
+    {
+      "word_arabic": "مَوَٰقِيتُ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3510,
+      "word_number_in_surah": 3481,
+      "word_surah": 2,
+      "word_translation": "(are) indicators of periods",
+      "word_transliteration": "mawaqitu"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3511,
+      "word_number_in_surah": 3482,
+      "word_surah": 2,
+      "word_translation": "for the people",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "وَٱلۡحَجِّۗ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3512,
+      "word_number_in_surah": 3483,
+      "word_surah": 2,
+      "word_translation": "and (for) the Hajj",
+      "word_transliteration": "wal-haji"
+    },
+    {
+      "word_arabic": "وَلَيۡسَ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3513,
+      "word_number_in_surah": 3484,
+      "word_surah": 2,
+      "word_translation": "And it is not",
+      "word_transliteration": "walaysa"
+    },
+    {
+      "word_arabic": "ٱلۡبِرُّ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3514,
+      "word_number_in_surah": 3485,
+      "word_surah": 2,
+      "word_translation": "[the] righteousness",
+      "word_transliteration": "al-biru"
+    },
+    {
+      "word_arabic": "بِأَن",
+      "word_ayah": 189,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3515,
+      "word_number_in_surah": 3486,
+      "word_surah": 2,
+      "word_translation": "that",
+      "word_transliteration": "bi-an"
+    },
+    {
+      "word_arabic": "تَأۡتُواْ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3516,
+      "word_number_in_surah": 3487,
+      "word_surah": 2,
+      "word_translation": "you come",
+      "word_transliteration": "tatu"
+    },
+    {
+      "word_arabic": "ٱلۡبُيُوتَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3517,
+      "word_number_in_surah": 3488,
+      "word_surah": 2,
+      "word_translation": "(to) the houses",
+      "word_transliteration": "al-buyuta"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 189,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3518,
+      "word_number_in_surah": 3489,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "ظُهُورِهَا",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3519,
+      "word_number_in_surah": 3490,
+      "word_surah": 2,
+      "word_translation": "their backs",
+      "word_transliteration": "zuhuriha"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3520,
+      "word_number_in_surah": 3491,
+      "word_surah": 2,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱلۡبِرَّ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3521,
+      "word_number_in_surah": 3492,
+      "word_surah": 2,
+      "word_translation": "[the] righteous",
+      "word_transliteration": "al-bira"
+    },
+    {
+      "word_arabic": "مَنِ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3522,
+      "word_number_in_surah": 3493,
+      "word_surah": 2,
+      "word_translation": "(is one) who",
+      "word_transliteration": "mani"
+    },
+    {
+      "word_arabic": "ٱتَّقَىٰۗ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 3523,
+      "word_number_in_surah": 3494,
+      "word_surah": 2,
+      "word_translation": "fears (Allah)",
+      "word_transliteration": "ittaqa"
+    },
+    {
+      "word_arabic": "وَأۡتُواْ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 3524,
+      "word_number_in_surah": 3495,
+      "word_surah": 2,
+      "word_translation": "And come",
+      "word_transliteration": "watu"
+    },
+    {
+      "word_arabic": "ٱلۡبُيُوتَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 3525,
+      "word_number_in_surah": 3496,
+      "word_surah": 2,
+      "word_translation": "(to) the houses",
+      "word_transliteration": "al-buyuta"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 189,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 3526,
+      "word_number_in_surah": 3497,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَبۡوَٰبِهَاۚ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 3527,
+      "word_number_in_surah": 3498,
+      "word_surah": 2,
+      "word_translation": "their doors",
+      "word_transliteration": "abwabiha"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 3528,
+      "word_number_in_surah": 3499,
+      "word_surah": 2,
+      "word_translation": "And fear",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 3529,
+      "word_number_in_surah": 3500,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 3530,
+      "word_number_in_surah": 3501,
+      "word_surah": 2,
+      "word_translation": "so that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تُفۡلِحُونَ",
+      "word_ayah": 189,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 3531,
+      "word_number_in_surah": 3502,
+      "word_surah": 2,
+      "word_translation": "(be) successful",
+      "word_transliteration": "tuf'lihuna"
+    }
+  ],
+  "fullArabic": "۞يَسۡ‍َٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "fullTranslation": "They ask you, [O Muhammad], about the new moons. Say, \"They are measurements of time for the people and for Hajj.\" And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allah. And enter houses from their doors. And fear Allah that you may succeed.",
+  "fullTransliteration": "yasalunaka ani al-ahilati qul hiya mawaqitu lilnnasi wal-haji walaysa al-biru bi-an tatu al-buyuta min zuhuriha walakinna al-bira mani ittaqa watu al-buyuta min abwabiha wa-ittaqu al-laha la'allakum tuf'lihuna"
+}

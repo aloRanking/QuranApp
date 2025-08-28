@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "ayah": 171,
+    "surah": 2,
+    "words": 18,
+    "numberInQuran": 178,
+    "juz": 2,
+    "manzil": 1,
+    "page": 26,
+    "ruku": 22,
+    "hizbQuarter": 10,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَثَلُ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3064,
+      "word_number_in_surah": 3035,
+      "word_surah": 2,
+      "word_translation": "And (the) example",
+      "word_transliteration": "wamathalu"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3065,
+      "word_number_in_surah": 3036,
+      "word_surah": 2,
+      "word_translation": "(of) those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3066,
+      "word_number_in_surah": 3037,
+      "word_surah": 2,
+      "word_translation": "disbelieve[d]",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "كَمَثَلِ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3067,
+      "word_number_in_surah": 3038,
+      "word_surah": 2,
+      "word_translation": "(is) like (the) example",
+      "word_transliteration": "kamathali"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3068,
+      "word_number_in_surah": 3039,
+      "word_surah": 2,
+      "word_translation": "(of) the one who",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "يَنۡعِقُ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3069,
+      "word_number_in_surah": 3040,
+      "word_surah": 2,
+      "word_translation": "shouts",
+      "word_transliteration": "yan'iqu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3070,
+      "word_number_in_surah": 3041,
+      "word_surah": 2,
+      "word_translation": "at what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3071,
+      "word_number_in_surah": 3042,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡمَعُ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3072,
+      "word_number_in_surah": 3043,
+      "word_surah": 2,
+      "word_translation": "(does) hear",
+      "word_transliteration": "yasma'u"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3073,
+      "word_number_in_surah": 3044,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "دُعَآءٗ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3074,
+      "word_number_in_surah": 3045,
+      "word_surah": 2,
+      "word_translation": "calls",
+      "word_transliteration": "du'aan"
+    },
+    {
+      "word_arabic": "وَنِدَآءٗۚ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3075,
+      "word_number_in_surah": 3046,
+      "word_surah": 2,
+      "word_translation": "and cries",
+      "word_transliteration": "wanidaan"
+    },
+    {
+      "word_arabic": "صُمُّۢ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3076,
+      "word_number_in_surah": 3047,
+      "word_surah": 2,
+      "word_translation": "deaf",
+      "word_transliteration": "summun"
+    },
+    {
+      "word_arabic": "بُكۡمٌ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3077,
+      "word_number_in_surah": 3048,
+      "word_surah": 2,
+      "word_translation": "dumb",
+      "word_transliteration": "buk'mun"
+    },
+    {
+      "word_arabic": "عُمۡيٞ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3078,
+      "word_number_in_surah": 3049,
+      "word_surah": 2,
+      "word_translation": "(and) blind",
+      "word_transliteration": "um'yun"
+    },
+    {
+      "word_arabic": "فَهُمۡ",
+      "word_ayah": 171,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3079,
+      "word_number_in_surah": 3050,
+      "word_surah": 2,
+      "word_translation": "[so] they",
+      "word_transliteration": "fahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3080,
+      "word_number_in_surah": 3051,
+      "word_surah": 2,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَعۡقِلُونَ",
+      "word_ayah": 171,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 3081,
+      "word_number_in_surah": 3052,
+      "word_surah": 2,
+      "word_translation": "understand",
+      "word_transliteration": "ya'qiluna"
+    }
+  ],
+  "fullArabic": "وَمَثَلُ ٱلَّذِينَ كَفَرُواْ كَمَثَلِ ٱلَّذِي يَنۡعِقُ بِمَا لَا يَسۡمَعُ إِلَّا دُعَآءٗ وَنِدَآءٗۚ صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَعۡقِلُونَ",
+  "fullTranslation": "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries cattle or sheep - deaf, dumb and blind, so they do not understand.",
+  "fullTransliteration": "wamathalu alladhina kafaru kamathali alladhi yan'iqu bima la yasma'u illa du'aan wanidaan summun buk'mun um'yun fahum la ya'qiluna"
+}

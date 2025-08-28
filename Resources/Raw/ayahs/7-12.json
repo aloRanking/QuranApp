@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "ayah": 12,
+    "surah": 7,
+    "words": 17,
+    "numberInQuran": 966,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19337,
+      "word_number_in_surah": 110,
+      "word_surah": 7,
+      "word_translation": "(Allah) said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19338,
+      "word_number_in_surah": 111,
+      "word_surah": 7,
+      "word_translation": "What",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "مَنَعَكَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19339,
+      "word_number_in_surah": 112,
+      "word_surah": 7,
+      "word_translation": "prevented you",
+      "word_transliteration": "mana'aka"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19340,
+      "word_number_in_surah": 113,
+      "word_surah": 7,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "تَسۡجُدَ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 19341,
+      "word_number_in_surah": 114,
+      "word_surah": 7,
+      "word_translation": "you prostrate",
+      "word_transliteration": "tasjuda"
+    },
+    {
+      "word_arabic": "إِذۡ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 19342,
+      "word_number_in_surah": 115,
+      "word_surah": 7,
+      "word_translation": "when",
+      "word_transliteration": "idh"
+    },
+    {
+      "word_arabic": "أَمَرۡتُكَۖ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 19343,
+      "word_number_in_surah": 116,
+      "word_surah": 7,
+      "word_translation": "I commanded you",
+      "word_transliteration": "amartuka"
+    },
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 19344,
+      "word_number_in_surah": 117,
+      "word_surah": 7,
+      "word_translation": "(Shaitaan) said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "أَنَا۠",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 19345,
+      "word_number_in_surah": 118,
+      "word_surah": 7,
+      "word_translation": "I am",
+      "word_transliteration": "ana"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 19346,
+      "word_number_in_surah": 119,
+      "word_surah": 7,
+      "word_translation": "better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "مِّنۡهُ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 19347,
+      "word_number_in_surah": 120,
+      "word_surah": 7,
+      "word_translation": "than him",
+      "word_transliteration": "min'hu"
+    },
+    {
+      "word_arabic": "خَلَقۡتَنِي",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 19348,
+      "word_number_in_surah": 121,
+      "word_surah": 7,
+      "word_translation": "You created me",
+      "word_transliteration": "khalaqtani"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 12,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 19349,
+      "word_number_in_surah": 122,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّارٖ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 19350,
+      "word_number_in_surah": 123,
+      "word_surah": 7,
+      "word_translation": "fire",
+      "word_transliteration": "narin"
+    },
+    {
+      "word_arabic": "وَخَلَقۡتَهُۥ",
+      "word_ayah": 12,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 19351,
+      "word_number_in_surah": 124,
+      "word_surah": 7,
+      "word_translation": "and You created him",
+      "word_transliteration": "wakhalaqtahu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 12,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 19352,
+      "word_number_in_surah": 125,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "طِينٖ",
+      "word_ayah": 12,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 19353,
+      "word_number_in_surah": 126,
+      "word_surah": 7,
+      "word_translation": "clay",
+      "word_transliteration": "tinin"
+    }
+  ],
+  "fullArabic": "قَالَ مَا مَنَعَكَ أَلَّا تَسۡجُدَ إِذۡ أَمَرۡتُكَۖ قَالَ أَنَا۠ خَيۡرٞ مِّنۡهُ خَلَقۡتَنِي مِن نَّارٖ وَخَلَقۡتَهُۥ مِن طِينٖ",
+  "fullTranslation": "[Allah] said, \"What prevented you from prostrating when I commanded you?\" [Satan] said, \"I am better than him. You created me from fire and created him from clay.\"",
+  "fullTransliteration": "qala ma mana'aka alla tasjuda idh amartuka qala ana khayrun min'hu khalaqtani min narin wakhalaqtahu min tinin"
+}

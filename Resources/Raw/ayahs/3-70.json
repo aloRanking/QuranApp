@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ayah": 70,
+    "surah": 3,
+    "words": 8,
+    "numberInQuran": 363,
+    "juz": 3,
+    "manzil": 1,
+    "page": 58,
+    "ruku": 48,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7310,
+      "word_number_in_surah": 1165,
+      "word_surah": 3,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7311,
+      "word_number_in_surah": 1166,
+      "word_surah": 3,
+      "word_translation": "(of) the Book!",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لِمَ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7312,
+      "word_number_in_surah": 1167,
+      "word_surah": 3,
+      "word_translation": "Why do",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونَ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7313,
+      "word_number_in_surah": 1168,
+      "word_surah": 3,
+      "word_translation": "you deny",
+      "word_transliteration": "takfuruna"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7314,
+      "word_number_in_surah": 1169,
+      "word_surah": 3,
+      "word_translation": "[in] the Signs",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7315,
+      "word_number_in_surah": 1170,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7316,
+      "word_number_in_surah": 1171,
+      "word_surah": 3,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَشۡهَدُونَ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7317,
+      "word_number_in_surah": 1172,
+      "word_surah": 3,
+      "word_translation": "bear witness",
+      "word_transliteration": "tashhaduna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَكۡفُرُونَ بِ‍َٔايَٰتِ ٱللَّهِ وَأَنتُمۡ تَشۡهَدُونَ",
+  "fullTranslation": "O People of the Scripture, why do you disbelieve in the verses of Allah while you witness [to their truth]?",
+  "fullTransliteration": "yaahla al-kitabi lima takfuruna biayati al-lahi wa-antum tashhaduna"
+}

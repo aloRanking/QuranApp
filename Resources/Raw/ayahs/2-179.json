@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "ayah": 179,
+    "surah": 2,
+    "words": 8,
+    "numberInQuran": 186,
+    "juz": 2,
+    "manzil": 1,
+    "page": 27,
+    "ruku": 23,
+    "hizbQuarter": 11,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَكُمۡ",
+      "word_ayah": 179,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3263,
+      "word_number_in_surah": 3234,
+      "word_surah": 2,
+      "word_translation": "And for you",
+      "word_transliteration": "walakum"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 179,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3264,
+      "word_number_in_surah": 3235,
+      "word_surah": 2,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡقِصَاصِ",
+      "word_ayah": 179,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3265,
+      "word_number_in_surah": 3236,
+      "word_surah": 2,
+      "word_translation": "the legal retribution",
+      "word_transliteration": "al-qisasi"
+    },
+    {
+      "word_arabic": "حَيَوٰةٞ",
+      "word_ayah": 179,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3266,
+      "word_number_in_surah": 3237,
+      "word_surah": 2,
+      "word_translation": "(is) life",
+      "word_transliteration": "hayatun"
+    },
+    {
+      "word_arabic": "يَٰٓأُوْلِي",
+      "word_ayah": 179,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3267,
+      "word_number_in_surah": 3238,
+      "word_surah": 2,
+      "word_translation": "O men",
+      "word_transliteration": "yauli"
+    },
+    {
+      "word_arabic": "ٱلۡأَلۡبَٰبِ",
+      "word_ayah": 179,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3268,
+      "word_number_in_surah": 3239,
+      "word_surah": 2,
+      "word_translation": "(of) understanding",
+      "word_transliteration": "al-albabi"
+    },
+    {
+      "word_arabic": "لَعَلَّكُمۡ",
+      "word_ayah": 179,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3269,
+      "word_number_in_surah": 3240,
+      "word_surah": 2,
+      "word_translation": "So that you may",
+      "word_transliteration": "la'allakum"
+    },
+    {
+      "word_arabic": "تَتَّقُونَ",
+      "word_ayah": 179,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3270,
+      "word_number_in_surah": 3241,
+      "word_surah": 2,
+      "word_translation": "(become) righteous",
+      "word_transliteration": "tattaquna"
+    }
+  ],
+  "fullArabic": "وَلَكُمۡ فِي ٱلۡقِصَاصِ حَيَوٰةٞ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ لَعَلَّكُمۡ تَتَّقُونَ",
+  "fullTranslation": "And there is for you in legal retribution [saving of] life, O you [people] of understanding, that you may become righteous.",
+  "fullTransliteration": "walakum fi al-qisasi hayatun yauli al-albabi la'allakum tattaquna"
+}

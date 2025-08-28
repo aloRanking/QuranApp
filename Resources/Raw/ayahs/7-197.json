@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "ayah": 197,
+    "surah": 7,
+    "words": 10,
+    "numberInQuran": 1151,
+    "juz": 9,
+    "manzil": 2,
+    "page": 176,
+    "ruku": 145,
+    "hizbQuarter": 70,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَٱلَّذِينَ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22432,
+      "word_number_in_surah": 3205,
+      "word_surah": 7,
+      "word_translation": "And those whom",
+      "word_transliteration": "wa-alladhina"
+    },
+    {
+      "word_arabic": "تَدۡعُونَ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22433,
+      "word_number_in_surah": 3206,
+      "word_surah": 7,
+      "word_translation": "you invoke",
+      "word_transliteration": "tad'una"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 197,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22434,
+      "word_number_in_surah": 3207,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِهِۦ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22435,
+      "word_number_in_surah": 3208,
+      "word_surah": 7,
+      "word_translation": "besides Him",
+      "word_transliteration": "dunihi"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22436,
+      "word_number_in_surah": 3209,
+      "word_surah": 7,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يَسۡتَطِيعُونَ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22437,
+      "word_number_in_surah": 3210,
+      "word_surah": 7,
+      "word_translation": "they are able",
+      "word_transliteration": "yastati'una"
+    },
+    {
+      "word_arabic": "نَصۡرَكُمۡ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22438,
+      "word_number_in_surah": 3211,
+      "word_surah": 7,
+      "word_translation": "(to) help you",
+      "word_transliteration": "nasrakum"
+    },
+    {
+      "word_arabic": "وَلَآ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22439,
+      "word_number_in_surah": 3212,
+      "word_surah": 7,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "أَنفُسَهُمۡ",
+      "word_ayah": 197,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22440,
+      "word_number_in_surah": 3213,
+      "word_surah": 7,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusahum"
+    },
+    {
+      "word_arabic": "يَنصُرُونَ",
+      "word_ayah": 197,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22441,
+      "word_number_in_surah": 3214,
+      "word_surah": 7,
+      "word_translation": "can they help",
+      "word_transliteration": "yansuruna"
+    }
+  ],
+  "fullArabic": "وَٱلَّذِينَ تَدۡعُونَ مِن دُونِهِۦ لَا يَسۡتَطِيعُونَ نَصۡرَكُمۡ وَلَآ أَنفُسَهُمۡ يَنصُرُونَ",
+  "fullTranslation": "And those you call upon besides Him are unable to help you, nor can they help themselves.\"",
+  "fullTransliteration": "wa-alladhina tad'una min dunihi la yastati'una nasrakum wala anfusahum yansuruna"
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "ayah": 33,
+    "surah": 6,
+    "words": 14,
+    "numberInQuran": 822,
+    "juz": 7,
+    "manzil": 2,
+    "page": 131,
+    "ruku": 105,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16673,
+      "word_number_in_surah": 496,
+      "word_surah": 6,
+      "word_translation": "Indeed",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "نَعۡلَمُ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16674,
+      "word_number_in_surah": 497,
+      "word_surah": 6,
+      "word_translation": "We know",
+      "word_transliteration": "na'lamu"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16675,
+      "word_number_in_surah": 498,
+      "word_surah": 6,
+      "word_translation": "that it",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "لَيَحۡزُنُكَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16676,
+      "word_number_in_surah": 499,
+      "word_surah": 6,
+      "word_translation": "grieves you",
+      "word_transliteration": "layahzunuka"
+    },
+    {
+      "word_arabic": "ٱلَّذِي",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16677,
+      "word_number_in_surah": 500,
+      "word_surah": 6,
+      "word_translation": "what",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "يَقُولُونَۖ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16678,
+      "word_number_in_surah": 501,
+      "word_surah": 6,
+      "word_translation": "they say",
+      "word_transliteration": "yaquluna"
+    },
+    {
+      "word_arabic": "فَإِنَّهُمۡ",
+      "word_ayah": 33,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16679,
+      "word_number_in_surah": 502,
+      "word_surah": 6,
+      "word_translation": "And indeed, they",
+      "word_transliteration": "fa-innahum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16680,
+      "word_number_in_surah": 503,
+      "word_surah": 6,
+      "word_translation": "(do) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "يُكَذِّبُونَكَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16681,
+      "word_number_in_surah": 504,
+      "word_surah": 6,
+      "word_translation": "deny you",
+      "word_transliteration": "yukadhibunaka"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 16682,
+      "word_number_in_surah": 505,
+      "word_surah": 6,
+      "word_translation": "but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 16683,
+      "word_number_in_surah": 506,
+      "word_surah": 6,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    },
+    {
+      "word_arabic": "بِ‍َٔايَٰتِ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 16684,
+      "word_number_in_surah": 507,
+      "word_surah": 6,
+      "word_translation": "the Verses",
+      "word_transliteration": "biayati"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 16685,
+      "word_number_in_surah": 508,
+      "word_surah": 6,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "يَجۡحَدُونَ",
+      "word_ayah": 33,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 16686,
+      "word_number_in_surah": 509,
+      "word_surah": 6,
+      "word_translation": "they reject",
+      "word_transliteration": "yajhaduna"
+    }
+  ],
+  "fullArabic": "قَدۡ نَعۡلَمُ إِنَّهُۥ لَيَحۡزُنُكَ ٱلَّذِي يَقُولُونَۖ فَإِنَّهُمۡ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ ٱلظَّٰلِمِينَ بِ‍َٔايَٰتِ ٱللَّهِ يَجۡحَدُونَ",
+  "fullTranslation": "We know that you, [O Muhammad], are saddened by what they say. And indeed, they do not call you untruthful, but it is the verses of Allah that the wrongdoers reject.",
+  "fullTransliteration": "qad na'lamu innahu layahzunuka alladhi yaquluna fa-innahum la yukadhibunaka walakinna al-zalimina biayati al-lahi yajhaduna"
+}

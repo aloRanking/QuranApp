@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "ayah": 117,
+    "surah": 2,
+    "words": 11,
+    "numberInQuran": 124,
+    "juz": 1,
+    "manzil": 1,
+    "page": 18,
+    "ruku": 15,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَدِيعُ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2066,
+      "word_number_in_surah": 2037,
+      "word_surah": 2,
+      "word_translation": "(The) Originator",
+      "word_transliteration": "badi'u"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2067,
+      "word_number_in_surah": 2038,
+      "word_surah": 2,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِۖ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2068,
+      "word_number_in_surah": 2039,
+      "word_surah": 2,
+      "word_translation": "and the earth!",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2069,
+      "word_number_in_surah": 2040,
+      "word_surah": 2,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "قَضَىٰٓ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2070,
+      "word_number_in_surah": 2041,
+      "word_surah": 2,
+      "word_translation": "He decrees",
+      "word_transliteration": "qada"
+    },
+    {
+      "word_arabic": "أَمۡرٗا",
+      "word_ayah": 117,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2071,
+      "word_number_in_surah": 2042,
+      "word_surah": 2,
+      "word_translation": "a matter",
+      "word_transliteration": "amran"
+    },
+    {
+      "word_arabic": "فَإِنَّمَا",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2072,
+      "word_number_in_surah": 2043,
+      "word_surah": 2,
+      "word_translation": "[so] only",
+      "word_transliteration": "fa-innama"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2073,
+      "word_number_in_surah": 2044,
+      "word_surah": 2,
+      "word_translation": "He says",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "لَهُۥ",
+      "word_ayah": 117,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2074,
+      "word_number_in_surah": 2045,
+      "word_surah": 2,
+      "word_translation": "to it",
+      "word_transliteration": "lahu"
+    },
+    {
+      "word_arabic": "كُن",
+      "word_ayah": 117,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2075,
+      "word_number_in_surah": 2046,
+      "word_surah": 2,
+      "word_translation": "Be",
+      "word_transliteration": "kun"
+    },
+    {
+      "word_arabic": "فَيَكُونُ",
+      "word_ayah": 117,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2076,
+      "word_number_in_surah": 2047,
+      "word_surah": 2,
+      "word_translation": "and it becomes",
+      "word_transliteration": "fayakunu"
+    }
+  ],
+  "fullArabic": "بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "fullTranslation": "Originator of the heavens and the earth. When He decrees a matter, He only says to it, \"Be,\" and it is.",
+  "fullTransliteration": "badi'u al-samawati wal-ardi wa-idha qada amran fa-innama yaqulu lahu kun fayakunu"
+}

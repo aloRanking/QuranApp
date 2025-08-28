@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "ayah": 17,
+    "surah": 5,
+    "words": 42,
+    "numberInQuran": 686,
+    "juz": 6,
+    "manzil": 2,
+    "page": 110,
+    "ruku": 88,
+    "hizbQuarter": 44,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "لَّقَدۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13873,
+      "word_number_in_surah": 500,
+      "word_surah": 5,
+      "word_translation": "Certainly",
+      "word_transliteration": "laqad"
+    },
+    {
+      "word_arabic": "كَفَرَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13874,
+      "word_number_in_surah": 501,
+      "word_surah": 5,
+      "word_translation": "disbelieved",
+      "word_transliteration": "kafara"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13875,
+      "word_number_in_surah": 502,
+      "word_surah": 5,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13876,
+      "word_number_in_surah": 503,
+      "word_surah": 5,
+      "word_translation": "said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13877,
+      "word_number_in_surah": 504,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13878,
+      "word_number_in_surah": 505,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "هُوَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13879,
+      "word_number_in_surah": 506,
+      "word_surah": 5,
+      "word_translation": "He",
+      "word_transliteration": "huwa"
+    },
+    {
+      "word_arabic": "ٱلۡمَسِيحُ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13880,
+      "word_number_in_surah": 507,
+      "word_surah": 5,
+      "word_translation": "(is) the Messiah",
+      "word_transliteration": "al-masihu"
+    },
+    {
+      "word_arabic": "ٱبۡنُ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13881,
+      "word_number_in_surah": 508,
+      "word_surah": 5,
+      "word_translation": "son",
+      "word_transliteration": "ub'nu"
+    },
+    {
+      "word_arabic": "مَرۡيَمَۚ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13882,
+      "word_number_in_surah": 509,
+      "word_surah": 5,
+      "word_translation": "(of) Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13883,
+      "word_number_in_surah": 510,
+      "word_surah": 5,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 17,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13884,
+      "word_number_in_surah": 511,
+      "word_surah": 5,
+      "word_translation": "Then who",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "يَمۡلِكُ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13885,
+      "word_number_in_surah": 512,
+      "word_surah": 5,
+      "word_translation": "has power",
+      "word_transliteration": "yamliku"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13886,
+      "word_number_in_surah": 513,
+      "word_surah": 5,
+      "word_translation": "against",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 13887,
+      "word_number_in_surah": 514,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "شَيۡ‍ًٔا",
+      "word_ayah": 17,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 13888,
+      "word_number_in_surah": 515,
+      "word_surah": 5,
+      "word_translation": "(in) anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "إِنۡ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 13889,
+      "word_number_in_surah": 516,
+      "word_surah": 5,
+      "word_translation": "if",
+      "word_transliteration": "in"
+    },
+    {
+      "word_arabic": "أَرَادَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 13890,
+      "word_number_in_surah": 517,
+      "word_surah": 5,
+      "word_translation": "He intends",
+      "word_transliteration": "arada"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 17,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 13891,
+      "word_number_in_surah": 518,
+      "word_surah": 5,
+      "word_translation": "to",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يُهۡلِكَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 13892,
+      "word_number_in_surah": 519,
+      "word_surah": 5,
+      "word_translation": "destroy",
+      "word_transliteration": "yuh'lika"
+    },
+    {
+      "word_arabic": "ٱلۡمَسِيحَ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 13893,
+      "word_number_in_surah": 520,
+      "word_surah": 5,
+      "word_translation": "the Messiah",
+      "word_transliteration": "al-masiha"
+    },
+    {
+      "word_arabic": "ٱبۡنَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 13894,
+      "word_number_in_surah": 521,
+      "word_surah": 5,
+      "word_translation": "son",
+      "word_transliteration": "ib'na"
+    },
+    {
+      "word_arabic": "مَرۡيَمَ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 13895,
+      "word_number_in_surah": 522,
+      "word_surah": 5,
+      "word_translation": "(of) Maryam",
+      "word_transliteration": "maryama"
+    },
+    {
+      "word_arabic": "وَأُمَّهُۥ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 13896,
+      "word_number_in_surah": 523,
+      "word_surah": 5,
+      "word_translation": "and his mother",
+      "word_transliteration": "wa-ummahu"
+    },
+    {
+      "word_arabic": "وَمَن",
+      "word_ayah": 17,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 13897,
+      "word_number_in_surah": 524,
+      "word_surah": 5,
+      "word_translation": "and whoever",
+      "word_transliteration": "waman"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 13898,
+      "word_number_in_surah": 525,
+      "word_surah": 5,
+      "word_translation": "(is) in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضِ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 13899,
+      "word_number_in_surah": 526,
+      "word_surah": 5,
+      "word_translation": "the earth",
+      "word_transliteration": "al-ardi"
+    },
+    {
+      "word_arabic": "جَمِيعٗاۗ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 13900,
+      "word_number_in_surah": 527,
+      "word_surah": 5,
+      "word_translation": "all",
+      "word_transliteration": "jami'an"
+    },
+    {
+      "word_arabic": "وَلِلَّهِ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 13901,
+      "word_number_in_surah": 528,
+      "word_surah": 5,
+      "word_translation": "And for Allah",
+      "word_transliteration": "walillahi"
+    },
+    {
+      "word_arabic": "مُلۡكُ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 13902,
+      "word_number_in_surah": 529,
+      "word_surah": 5,
+      "word_translation": "(is the) dominion",
+      "word_transliteration": "mul'ku"
+    },
+    {
+      "word_arabic": "ٱلسَّمَٰوَٰتِ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 13903,
+      "word_number_in_surah": 530,
+      "word_surah": 5,
+      "word_translation": "(of) the heavens",
+      "word_transliteration": "al-samawati"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 13904,
+      "word_number_in_surah": 531,
+      "word_surah": 5,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 13905,
+      "word_number_in_surah": 532,
+      "word_surah": 5,
+      "word_translation": "and what",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "بَيۡنَهُمَاۚ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 13906,
+      "word_number_in_surah": 533,
+      "word_surah": 5,
+      "word_translation": "(is) between both of them",
+      "word_transliteration": "baynahuma"
+    },
+    {
+      "word_arabic": "يَخۡلُقُ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 13907,
+      "word_number_in_surah": 534,
+      "word_surah": 5,
+      "word_translation": "He creates",
+      "word_transliteration": "yakhluqu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 13908,
+      "word_number_in_surah": 535,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "يَشَآءُۚ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 13909,
+      "word_number_in_surah": 536,
+      "word_surah": 5,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 13910,
+      "word_number_in_surah": 537,
+      "word_surah": 5,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 13911,
+      "word_number_in_surah": 538,
+      "word_surah": 5,
+      "word_translation": "(is) on",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "كُلِّ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 40,
+      "word_number_in_quran": 13912,
+      "word_number_in_surah": 539,
+      "word_surah": 5,
+      "word_translation": "every",
+      "word_transliteration": "kulli"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 17,
+      "word_number_in_ayah": 41,
+      "word_number_in_quran": 13913,
+      "word_number_in_surah": 540,
+      "word_surah": 5,
+      "word_translation": "thing",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "قَدِيرٞ",
+      "word_ayah": 17,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 42,
+      "word_number_in_quran": 13914,
+      "word_number_in_surah": 541,
+      "word_surah": 5,
+      "word_translation": "All-Powerful",
+      "word_transliteration": "qadirun"
+    }
+  ],
+  "fullArabic": "لَّقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ هُوَ ٱلۡمَسِيحُ ٱبۡنُ مَرۡيَمَۚ قُلۡ فَمَن يَمۡلِكُ مِنَ ٱللَّهِ شَيۡ‍ًٔا إِنۡ أَرَادَ أَن يُهۡلِكَ ٱلۡمَسِيحَ ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥ وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗاۗ وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۚ يَخۡلُقُ مَا يَشَآءُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "fullTranslation": "They have certainly disbelieved who say that Allah is Christ, the son of Mary. Say, \"Then who could prevent Allah at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?\" And to Allah belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allah is over all things competent.",
+  "fullTransliteration": "laqad kafara alladhina qalu inna al-laha huwa al-masihu ub'nu maryama qul faman yamliku mina al-lahi shayan in arada an yuh'lika al-masiha ib'na maryama wa-ummahu waman fi al-ardi jami'an walillahi mul'ku al-samawati wal-ardi wama baynahuma yakhluqu ma yashau wal-lahu ala kulli shayin qadirun"
+}

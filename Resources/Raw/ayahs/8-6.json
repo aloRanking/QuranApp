@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "ayah": 6,
+    "surah": 8,
+    "words": 12,
+    "numberInQuran": 1166,
+    "juz": 9,
+    "manzil": 2,
+    "page": 177,
+    "ruku": 146,
+    "hizbQuarter": 71,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يُجَٰدِلُونَكَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 22611,
+      "word_number_in_surah": 64,
+      "word_surah": 8,
+      "word_translation": "They dispute with you",
+      "word_transliteration": "yujadilunaka"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 22612,
+      "word_number_in_surah": 65,
+      "word_surah": 8,
+      "word_translation": "concerning",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "ٱلۡحَقِّ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 22613,
+      "word_number_in_surah": 66,
+      "word_surah": 8,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqi"
+    },
+    {
+      "word_arabic": "بَعۡدَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 22614,
+      "word_number_in_surah": 67,
+      "word_surah": 8,
+      "word_translation": "after what",
+      "word_transliteration": "ba'da"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 22615,
+      "word_number_in_surah": 68,
+      "word_surah": 8,
+      "word_translation": "after what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "تَبَيَّنَ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 22616,
+      "word_number_in_surah": 69,
+      "word_surah": 8,
+      "word_translation": "was made clear",
+      "word_transliteration": "tabayyana"
+    },
+    {
+      "word_arabic": "كَأَنَّمَا",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 22617,
+      "word_number_in_surah": 70,
+      "word_surah": 8,
+      "word_translation": "as if",
+      "word_transliteration": "ka-annama"
+    },
+    {
+      "word_arabic": "يُسَاقُونَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 22618,
+      "word_number_in_surah": 71,
+      "word_surah": 8,
+      "word_translation": "they were driven",
+      "word_transliteration": "yusaquna"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 22619,
+      "word_number_in_surah": 72,
+      "word_surah": 8,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلۡمَوۡتِ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 22620,
+      "word_number_in_surah": 73,
+      "word_surah": 8,
+      "word_translation": "[the] death",
+      "word_transliteration": "al-mawti"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 6,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 22621,
+      "word_number_in_surah": 74,
+      "word_surah": 8,
+      "word_translation": "while they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "يَنظُرُونَ",
+      "word_ayah": 6,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 22622,
+      "word_number_in_surah": 75,
+      "word_surah": 8,
+      "word_translation": "(were) looking",
+      "word_transliteration": "yanzuruna"
+    }
+  ],
+  "fullArabic": "يُجَٰدِلُونَكَ فِي ٱلۡحَقِّ بَعۡدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ يَنظُرُونَ",
+  "fullTranslation": "Arguing with you concerning the truth after it had become clear, as if they were being driven toward death while they were looking on.",
+  "fullTransliteration": "yujadilunaka fi al-haqi ba'da ma tabayyana ka-annama yusaquna ila al-mawti wahum yanzuruna"
+}

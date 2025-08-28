@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "ayah": 15,
+    "surah": 7,
+    "words": 4,
+    "numberInQuran": 969,
+    "juz": 8,
+    "manzil": 2,
+    "page": 152,
+    "ruku": 123,
+    "hizbQuarter": 61,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 19372,
+      "word_number_in_surah": 145,
+      "word_surah": 7,
+      "word_translation": "(Allah) said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِنَّكَ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 19373,
+      "word_number_in_surah": 146,
+      "word_surah": 7,
+      "word_translation": "Indeed you",
+      "word_transliteration": "innaka"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 15,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 19374,
+      "word_number_in_surah": 147,
+      "word_surah": 7,
+      "word_translation": "(are) of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلۡمُنظَرِينَ",
+      "word_ayah": 15,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 19375,
+      "word_number_in_surah": 148,
+      "word_surah": 7,
+      "word_translation": "the ones given respite",
+      "word_transliteration": "al-munzarina"
+    }
+  ],
+  "fullArabic": "قَالَ إِنَّكَ مِنَ ٱلۡمُنظَرِينَ",
+  "fullTranslation": "[Allah] said, \"Indeed, you are of those reprieved.\"",
+  "fullTransliteration": "qala innaka mina al-munzarina"
+}

@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "ayah": 96,
+    "surah": 7,
+    "words": 18,
+    "numberInQuran": 1050,
+    "juz": 9,
+    "manzil": 2,
+    "page": 163,
+    "ruku": 133,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20791,
+      "word_number_in_surah": 1564,
+      "word_surah": 7,
+      "word_translation": "And if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَنَّ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20792,
+      "word_number_in_surah": 1565,
+      "word_surah": 7,
+      "word_translation": "[that]",
+      "word_transliteration": "anna"
+    },
+    {
+      "word_arabic": "أَهۡلَ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20793,
+      "word_number_in_surah": 1566,
+      "word_surah": 7,
+      "word_translation": "people",
+      "word_transliteration": "ahla"
+    },
+    {
+      "word_arabic": "ٱلۡقُرَىٰٓ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20794,
+      "word_number_in_surah": 1567,
+      "word_surah": 7,
+      "word_translation": "(of) the cities",
+      "word_transliteration": "al-qura"
+    },
+    {
+      "word_arabic": "ءَامَنُواْ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20795,
+      "word_number_in_surah": 1568,
+      "word_surah": 7,
+      "word_translation": "(had) believed",
+      "word_transliteration": "amanu"
+    },
+    {
+      "word_arabic": "وَٱتَّقَوۡاْ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20796,
+      "word_number_in_surah": 1569,
+      "word_surah": 7,
+      "word_translation": "and feared Allah",
+      "word_transliteration": "wa-ittaqaw"
+    },
+    {
+      "word_arabic": "لَفَتَحۡنَا",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20797,
+      "word_number_in_surah": 1570,
+      "word_surah": 7,
+      "word_translation": "surely We (would have) opened",
+      "word_transliteration": "lafatahna"
+    },
+    {
+      "word_arabic": "عَلَيۡهِم",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20798,
+      "word_number_in_surah": 1571,
+      "word_surah": 7,
+      "word_translation": "upon them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "بَرَكَٰتٖ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20799,
+      "word_number_in_surah": 1572,
+      "word_surah": 7,
+      "word_translation": "blessings",
+      "word_transliteration": "barakatin"
+    },
+    {
+      "word_arabic": "مِّنَ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20800,
+      "word_number_in_surah": 1573,
+      "word_surah": 7,
+      "word_translation": "from",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلسَّمَآءِ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20801,
+      "word_number_in_surah": 1574,
+      "word_surah": 7,
+      "word_translation": "the heaven",
+      "word_transliteration": "al-samai"
+    },
+    {
+      "word_arabic": "وَٱلۡأَرۡضِ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20802,
+      "word_number_in_surah": 1575,
+      "word_surah": 7,
+      "word_translation": "and the earth",
+      "word_transliteration": "wal-ardi"
+    },
+    {
+      "word_arabic": "وَلَٰكِن",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20803,
+      "word_number_in_surah": 1576,
+      "word_surah": 7,
+      "word_translation": "but",
+      "word_transliteration": "walakin"
+    },
+    {
+      "word_arabic": "كَذَّبُواْ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 20804,
+      "word_number_in_surah": 1577,
+      "word_surah": 7,
+      "word_translation": "they denied",
+      "word_transliteration": "kadhabu"
+    },
+    {
+      "word_arabic": "فَأَخَذۡنَٰهُم",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 20805,
+      "word_number_in_surah": 1578,
+      "word_surah": 7,
+      "word_translation": "So We seized them",
+      "word_transliteration": "fa-akhadhnahum"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 20806,
+      "word_number_in_surah": 1579,
+      "word_surah": 7,
+      "word_translation": "for what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 20807,
+      "word_number_in_surah": 1580,
+      "word_surah": 7,
+      "word_translation": "they used to",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَكۡسِبُونَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 20808,
+      "word_number_in_surah": 1581,
+      "word_surah": 7,
+      "word_translation": "earn",
+      "word_transliteration": "yaksibuna"
+    }
+  ],
+  "fullArabic": "وَلَوۡ أَنَّ أَهۡلَ ٱلۡقُرَىٰٓ ءَامَنُواْ وَٱتَّقَوۡاْ لَفَتَحۡنَا عَلَيۡهِم بَرَكَٰتٖ مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِ وَلَٰكِن كَذَّبُواْ فَأَخَذۡنَٰهُم بِمَا كَانُواْ يَكۡسِبُونَ",
+  "fullTranslation": "And if only the people of the cities had believed and feared Allah, We would have opened upon them blessings from the heaven and the earth; but they denied [the messengers], so We seized them for what they were earning.\"",
+  "fullTransliteration": "walaw anna ahla al-qura amanu wa-ittaqaw lafatahna alayhim barakatin mina al-samai wal-ardi walakin kadhabu fa-akhadhnahum bima kanu yaksibuna"
+}

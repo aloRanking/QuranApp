@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "ayah": 71,
+    "surah": 2,
+    "words": 24,
+    "numberInQuran": 78,
+    "juz": 1,
+    "manzil": 1,
+    "page": 11,
+    "ruku": 9,
+    "hizbQuarter": 4,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قَالَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1115,
+      "word_number_in_surah": 1086,
+      "word_surah": 2,
+      "word_translation": "He said",
+      "word_transliteration": "qala"
+    },
+    {
+      "word_arabic": "إِنَّهُۥ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1116,
+      "word_number_in_surah": 1087,
+      "word_surah": 2,
+      "word_translation": "Indeed He",
+      "word_transliteration": "innahu"
+    },
+    {
+      "word_arabic": "يَقُولُ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1117,
+      "word_number_in_surah": 1088,
+      "word_surah": 2,
+      "word_translation": "says",
+      "word_transliteration": "yaqulu"
+    },
+    {
+      "word_arabic": "إِنَّهَا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1118,
+      "word_number_in_surah": 1089,
+      "word_surah": 2,
+      "word_translation": "[Indeed] it",
+      "word_transliteration": "innaha"
+    },
+    {
+      "word_arabic": "بَقَرَةٞ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1119,
+      "word_number_in_surah": 1090,
+      "word_surah": 2,
+      "word_translation": "(is) a cow",
+      "word_transliteration": "baqaratun"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1120,
+      "word_number_in_surah": 1091,
+      "word_surah": 2,
+      "word_translation": "not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "ذَلُولٞ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1121,
+      "word_number_in_surah": 1092,
+      "word_surah": 2,
+      "word_translation": "trained",
+      "word_transliteration": "dhalulun"
+    },
+    {
+      "word_arabic": "تُثِيرُ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1122,
+      "word_number_in_surah": 1093,
+      "word_surah": 2,
+      "word_translation": "to plough",
+      "word_transliteration": "tuthiru"
+    },
+    {
+      "word_arabic": "ٱلۡأَرۡضَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1123,
+      "word_number_in_surah": 1094,
+      "word_surah": 2,
+      "word_translation": "the earth",
+      "word_transliteration": "al-arda"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1124,
+      "word_number_in_surah": 1095,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَسۡقِي",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1125,
+      "word_number_in_surah": 1096,
+      "word_surah": 2,
+      "word_translation": "water",
+      "word_transliteration": "tasqi"
+    },
+    {
+      "word_arabic": "ٱلۡحَرۡثَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1126,
+      "word_number_in_surah": 1097,
+      "word_surah": 2,
+      "word_translation": "the field",
+      "word_transliteration": "al-hartha"
+    },
+    {
+      "word_arabic": "مُسَلَّمَةٞ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1127,
+      "word_number_in_surah": 1098,
+      "word_surah": 2,
+      "word_translation": "sound",
+      "word_transliteration": "musallamatun"
+    },
+    {
+      "word_arabic": "لَّا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1128,
+      "word_number_in_surah": 1099,
+      "word_surah": 2,
+      "word_translation": "no",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "شِيَةَ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1129,
+      "word_number_in_surah": 1100,
+      "word_surah": 2,
+      "word_translation": "blemish",
+      "word_transliteration": "shiyata"
+    },
+    {
+      "word_arabic": "فِيهَاۚ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1130,
+      "word_number_in_surah": 1101,
+      "word_surah": 2,
+      "word_translation": "in it",
+      "word_transliteration": "fiha"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1131,
+      "word_number_in_surah": 1102,
+      "word_surah": 2,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ٱلۡـَٰٔنَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 1132,
+      "word_number_in_surah": 1103,
+      "word_surah": 2,
+      "word_translation": "Now",
+      "word_transliteration": "al-ana"
+    },
+    {
+      "word_arabic": "جِئۡتَ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 1133,
+      "word_number_in_surah": 1104,
+      "word_surah": 2,
+      "word_translation": "you have come",
+      "word_transliteration": "ji'ta"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّۚ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 1134,
+      "word_number_in_surah": 1105,
+      "word_surah": 2,
+      "word_translation": "with the truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "فَذَبَحُوهَا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 1135,
+      "word_number_in_surah": 1106,
+      "word_surah": 2,
+      "word_translation": "So they slaughtered it",
+      "word_transliteration": "fadhabahuha"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 1136,
+      "word_number_in_surah": 1107,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "كَادُواْ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 1137,
+      "word_number_in_surah": 1108,
+      "word_surah": 2,
+      "word_translation": "they were near",
+      "word_transliteration": "kadu"
+    },
+    {
+      "word_arabic": "يَفۡعَلُونَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 1138,
+      "word_number_in_surah": 1109,
+      "word_surah": 2,
+      "word_translation": "(to) doing (it)",
+      "word_transliteration": "yaf 'aluna"
+    }
+  ],
+  "fullArabic": "قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ لَّا ذَلُولٞ تُثِيرُ ٱلۡأَرۡضَ وَلَا تَسۡقِي ٱلۡحَرۡثَ مُسَلَّمَةٞ لَّا شِيَةَ فِيهَاۚ قَالُواْ ٱلۡـَٰٔنَ جِئۡتَ بِٱلۡحَقِّۚ فَذَبَحُوهَا وَمَا كَادُواْ يَفۡعَلُونَ",
+  "fullTranslation": "He said, \"He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.' \" They said, \"Now you have come with the truth.\" So they slaughtered her, but they could hardly do it.",
+  "fullTransliteration": "qala innahu yaqulu innaha baqaratun la dhalulun tuthiru al-arda wala tasqi al-hartha musallamatun la shiyata fiha qalu al-ana ji'ta bil-haqi fadhabahuha wama kadu yaf 'aluna"
+}

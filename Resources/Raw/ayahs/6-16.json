@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ayah": 16,
+    "surah": 6,
+    "words": 9,
+    "numberInQuran": 805,
+    "juz": 7,
+    "manzil": 2,
+    "page": 129,
+    "ruku": 103,
+    "hizbQuarter": 52,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "مَّن",
+      "word_ayah": 16,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16400,
+      "word_number_in_surah": 223,
+      "word_surah": 6,
+      "word_translation": "Whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يُصۡرَفۡ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16401,
+      "word_number_in_surah": 224,
+      "word_surah": 6,
+      "word_translation": "is averted",
+      "word_transliteration": "yus'raf"
+    },
+    {
+      "word_arabic": "عَنۡهُ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16402,
+      "word_number_in_surah": 225,
+      "word_surah": 6,
+      "word_translation": "from it",
+      "word_transliteration": "anhu"
+    },
+    {
+      "word_arabic": "يَوۡمَئِذٖ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16403,
+      "word_number_in_surah": 226,
+      "word_surah": 6,
+      "word_translation": "that Day",
+      "word_transliteration": "yawma-idhin"
+    },
+    {
+      "word_arabic": "فَقَدۡ",
+      "word_ayah": 16,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16404,
+      "word_number_in_surah": 227,
+      "word_surah": 6,
+      "word_translation": "then surely",
+      "word_transliteration": "faqad"
+    },
+    {
+      "word_arabic": "رَحِمَهُۥۚ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16405,
+      "word_number_in_surah": 228,
+      "word_surah": 6,
+      "word_translation": "He had Mercy on him",
+      "word_transliteration": "rahimahu"
+    },
+    {
+      "word_arabic": "وَذَٰلِكَ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16406,
+      "word_number_in_surah": 229,
+      "word_surah": 6,
+      "word_translation": "And that",
+      "word_transliteration": "wadhalika"
+    },
+    {
+      "word_arabic": "ٱلۡفَوۡزُ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16407,
+      "word_number_in_surah": 230,
+      "word_surah": 6,
+      "word_translation": "(is) the success",
+      "word_transliteration": "al-fawzu"
+    },
+    {
+      "word_arabic": "ٱلۡمُبِينُ",
+      "word_ayah": 16,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16408,
+      "word_number_in_surah": 231,
+      "word_surah": 6,
+      "word_translation": "(the) clear",
+      "word_transliteration": "al-mubinu"
+    }
+  ],
+  "fullArabic": "مَّن يُصۡرَفۡ عَنۡهُ يَوۡمَئِذٖ فَقَدۡ رَحِمَهُۥۚ وَذَٰلِكَ ٱلۡفَوۡزُ ٱلۡمُبِينُ",
+  "fullTranslation": "He from whom it is averted that Day - [Allah] has granted him mercy. And that is the clear attainment.",
+  "fullTransliteration": "man yus'raf anhu yawma-idhin faqad rahimahu wadhalika al-fawzu al-mubinu"
+}

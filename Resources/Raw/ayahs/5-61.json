@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "ayah": 61,
+    "surah": 5,
+    "words": 16,
+    "numberInQuran": 730,
+    "juz": 6,
+    "manzil": 2,
+    "page": 118,
+    "ruku": 94,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِذَا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14883,
+      "word_number_in_surah": 1510,
+      "word_surah": 5,
+      "word_translation": "And when",
+      "word_transliteration": "wa-idha"
+    },
+    {
+      "word_arabic": "جَآءُوكُمۡ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14884,
+      "word_number_in_surah": 1511,
+      "word_surah": 5,
+      "word_translation": "they come to you",
+      "word_transliteration": "jaukum"
+    },
+    {
+      "word_arabic": "قَالُوٓاْ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14885,
+      "word_number_in_surah": 1512,
+      "word_surah": 5,
+      "word_translation": "they say",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "ءَامَنَّا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14886,
+      "word_number_in_surah": 1513,
+      "word_surah": 5,
+      "word_translation": "We believe",
+      "word_transliteration": "amanna"
+    },
+    {
+      "word_arabic": "وَقَد",
+      "word_ayah": 61,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14887,
+      "word_number_in_surah": 1514,
+      "word_surah": 5,
+      "word_translation": "But certainly",
+      "word_transliteration": "waqad"
+    },
+    {
+      "word_arabic": "دَّخَلُواْ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14888,
+      "word_number_in_surah": 1515,
+      "word_surah": 5,
+      "word_translation": "they entered",
+      "word_transliteration": "dakhalu"
+    },
+    {
+      "word_arabic": "بِٱلۡكُفۡرِ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14889,
+      "word_number_in_surah": 1516,
+      "word_surah": 5,
+      "word_translation": "with disbelief",
+      "word_transliteration": "bil-kuf'ri"
+    },
+    {
+      "word_arabic": "وَهُمۡ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14890,
+      "word_number_in_surah": 1517,
+      "word_surah": 5,
+      "word_translation": "and they",
+      "word_transliteration": "wahum"
+    },
+    {
+      "word_arabic": "قَدۡ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14891,
+      "word_number_in_surah": 1518,
+      "word_surah": 5,
+      "word_translation": "certainly",
+      "word_transliteration": "qad"
+    },
+    {
+      "word_arabic": "خَرَجُواْ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14892,
+      "word_number_in_surah": 1519,
+      "word_surah": 5,
+      "word_translation": "went out",
+      "word_transliteration": "kharaju"
+    },
+    {
+      "word_arabic": "بِهِۦۚ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14893,
+      "word_number_in_surah": 1520,
+      "word_surah": 5,
+      "word_translation": "with it",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 61,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14894,
+      "word_number_in_surah": 1521,
+      "word_surah": 5,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14895,
+      "word_number_in_surah": 1522,
+      "word_surah": 5,
+      "word_translation": "knows best",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14896,
+      "word_number_in_surah": 1523,
+      "word_surah": 5,
+      "word_translation": "[of] what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "كَانُواْ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14897,
+      "word_number_in_surah": 1524,
+      "word_surah": 5,
+      "word_translation": "they were",
+      "word_transliteration": "kanu"
+    },
+    {
+      "word_arabic": "يَكۡتُمُونَ",
+      "word_ayah": 61,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14898,
+      "word_number_in_surah": 1525,
+      "word_surah": 5,
+      "word_translation": "hiding",
+      "word_transliteration": "yaktumuna"
+    }
+  ],
+  "fullArabic": "وَإِذَا جَآءُوكُمۡ قَالُوٓاْ ءَامَنَّا وَقَد دَّخَلُواْ بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواْ بِهِۦۚ وَٱللَّهُ أَعۡلَمُ بِمَا كَانُواْ يَكۡتُمُونَ",
+  "fullTranslation": "And when they come to you, they say, \"We believe.\" But they have entered with disbelief [in their hearts], and they have certainly left with it. And Allah is most knowing of what they were concealing.",
+  "fullTransliteration": "wa-idha jaukum qalu amanna waqad dakhalu bil-kuf'ri wahum qad kharaju bihi wal-lahu a'lamu bima kanu yaktumuna"
+}

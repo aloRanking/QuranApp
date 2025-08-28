@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "ayah": 149,
+    "surah": 6,
+    "words": 8,
+    "numberInQuran": 938,
+    "juz": 8,
+    "manzil": 2,
+    "page": 148,
+    "ruku": 119,
+    "hizbQuarter": 59,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 18870,
+      "word_number_in_surah": 2693,
+      "word_surah": 6,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "فَلِلَّهِ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 18871,
+      "word_number_in_surah": 2694,
+      "word_surah": 6,
+      "word_translation": "With Allah",
+      "word_transliteration": "falillahi"
+    },
+    {
+      "word_arabic": "ٱلۡحُجَّةُ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 18872,
+      "word_number_in_surah": 2695,
+      "word_surah": 6,
+      "word_translation": "(is) the argument",
+      "word_transliteration": "al-hujatu"
+    },
+    {
+      "word_arabic": "ٱلۡبَٰلِغَةُۖ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 18873,
+      "word_number_in_surah": 2696,
+      "word_surah": 6,
+      "word_translation": "the conclusive",
+      "word_transliteration": "al-balighatu"
+    },
+    {
+      "word_arabic": "فَلَوۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 18874,
+      "word_number_in_surah": 2697,
+      "word_surah": 6,
+      "word_translation": "And if",
+      "word_transliteration": "falaw"
+    },
+    {
+      "word_arabic": "شَآءَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 18875,
+      "word_number_in_surah": 2698,
+      "word_surah": 6,
+      "word_translation": "He (had) willed",
+      "word_transliteration": "shaa"
+    },
+    {
+      "word_arabic": "لَهَدَىٰكُمۡ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 18876,
+      "word_number_in_surah": 2699,
+      "word_surah": 6,
+      "word_translation": "surely He (would) have guided you",
+      "word_transliteration": "lahadakum"
+    },
+    {
+      "word_arabic": "أَجۡمَعِينَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 18877,
+      "word_number_in_surah": 2700,
+      "word_surah": 6,
+      "word_translation": "all",
+      "word_transliteration": "ajma'ina"
+    }
+  ],
+  "fullArabic": "قُلۡ فَلِلَّهِ ٱلۡحُجَّةُ ٱلۡبَٰلِغَةُۖ فَلَوۡ شَآءَ لَهَدَىٰكُمۡ أَجۡمَعِينَ",
+  "fullTranslation": "Say, \"With Allah is the far-reaching argument. If He had willed, He would have guided you all.\"",
+  "fullTransliteration": "qul falillahi al-hujatu al-balighatu falaw shaa lahadakum ajma'ina"
+}

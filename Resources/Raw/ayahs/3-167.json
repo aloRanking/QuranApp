@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "ayah": 167,
+    "surah": 3,
+    "words": 33,
+    "numberInQuran": 460,
+    "juz": 4,
+    "manzil": 1,
+    "page": 72,
+    "ruku": 58,
+    "hizbQuarter": 28,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلِيَعۡلَمَ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 8997,
+      "word_number_in_surah": 2852,
+      "word_surah": 3,
+      "word_translation": "And that He (might) make evident",
+      "word_transliteration": "waliya'lama"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 8998,
+      "word_number_in_surah": 2853,
+      "word_surah": 3,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "نَافَقُواْۚ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 8999,
+      "word_number_in_surah": 2854,
+      "word_surah": 3,
+      "word_translation": "(are) hypocrites",
+      "word_transliteration": "nafaqu"
+    },
+    {
+      "word_arabic": "وَقِيلَ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 9000,
+      "word_number_in_surah": 2855,
+      "word_surah": 3,
+      "word_translation": "And it was said",
+      "word_transliteration": "waqila"
+    },
+    {
+      "word_arabic": "لَهُمۡ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 9001,
+      "word_number_in_surah": 2856,
+      "word_surah": 3,
+      "word_translation": "to them",
+      "word_transliteration": "lahum"
+    },
+    {
+      "word_arabic": "تَعَالَوۡاْ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 9002,
+      "word_number_in_surah": 2857,
+      "word_surah": 3,
+      "word_translation": "Come",
+      "word_transliteration": "ta'alaw"
+    },
+    {
+      "word_arabic": "قَٰتِلُواْ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 9003,
+      "word_number_in_surah": 2858,
+      "word_surah": 3,
+      "word_translation": "fight",
+      "word_transliteration": "qatilu"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 9004,
+      "word_number_in_surah": 2859,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 9005,
+      "word_number_in_surah": 2860,
+      "word_surah": 3,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 9006,
+      "word_number_in_surah": 2861,
+      "word_surah": 3,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "أَوِ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 9007,
+      "word_number_in_surah": 2862,
+      "word_surah": 3,
+      "word_translation": "or",
+      "word_transliteration": "awi"
+    },
+    {
+      "word_arabic": "ٱدۡفَعُواْۖ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 9008,
+      "word_number_in_surah": 2863,
+      "word_surah": 3,
+      "word_translation": "defend",
+      "word_transliteration": "id'fa'u"
+    },
+    {
+      "word_arabic": "قَالُواْ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 9009,
+      "word_number_in_surah": 2864,
+      "word_surah": 3,
+      "word_translation": "They said",
+      "word_transliteration": "qalu"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 9010,
+      "word_number_in_surah": 2865,
+      "word_surah": 3,
+      "word_translation": "If",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "نَعۡلَمُ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 9011,
+      "word_number_in_surah": 2866,
+      "word_surah": 3,
+      "word_translation": "we knew",
+      "word_transliteration": "na'lamu"
+    },
+    {
+      "word_arabic": "قِتَالٗا",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 9012,
+      "word_number_in_surah": 2867,
+      "word_surah": 3,
+      "word_translation": "fighting",
+      "word_transliteration": "qitalan"
+    },
+    {
+      "word_arabic": "لَّٱتَّبَعۡنَٰكُمۡۗ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 9013,
+      "word_number_in_surah": 2868,
+      "word_surah": 3,
+      "word_translation": "certainly we (would have) followed you",
+      "word_transliteration": "la-ittaba'nakum"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 9014,
+      "word_number_in_surah": 2869,
+      "word_surah": 3,
+      "word_translation": "They",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "لِلۡكُفۡرِ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 9015,
+      "word_number_in_surah": 2870,
+      "word_surah": 3,
+      "word_translation": "to disbelief",
+      "word_transliteration": "lil'kuf'ri"
+    },
+    {
+      "word_arabic": "يَوۡمَئِذٍ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 9016,
+      "word_number_in_surah": 2871,
+      "word_surah": 3,
+      "word_translation": "that day",
+      "word_transliteration": "yawma-idhin"
+    },
+    {
+      "word_arabic": "أَقۡرَبُ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 9017,
+      "word_number_in_surah": 2872,
+      "word_surah": 3,
+      "word_translation": "(were) nearer",
+      "word_transliteration": "aqrabu"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 9018,
+      "word_number_in_surah": 2873,
+      "word_surah": 3,
+      "word_translation": "than [them]",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "لِلۡإِيمَٰنِۚ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 9019,
+      "word_number_in_surah": 2874,
+      "word_surah": 3,
+      "word_translation": "to the faith",
+      "word_transliteration": "lil'imani"
+    },
+    {
+      "word_arabic": "يَقُولُونَ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 9020,
+      "word_number_in_surah": 2875,
+      "word_surah": 3,
+      "word_translation": "saying",
+      "word_transliteration": "yaquluna"
+    },
+    {
+      "word_arabic": "بِأَفۡوَٰهِهِم",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 9021,
+      "word_number_in_surah": 2876,
+      "word_surah": 3,
+      "word_translation": "with their mouths",
+      "word_transliteration": "bi-afwahihim"
+    },
+    {
+      "word_arabic": "مَّا",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 9022,
+      "word_number_in_surah": 2877,
+      "word_surah": 3,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "لَيۡسَ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 9023,
+      "word_number_in_surah": 2878,
+      "word_surah": 3,
+      "word_translation": "was not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 9024,
+      "word_number_in_surah": 2879,
+      "word_surah": 3,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قُلُوبِهِمۡۚ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 9025,
+      "word_number_in_surah": 2880,
+      "word_surah": 3,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 167,
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 9026,
+      "word_number_in_surah": 2881,
+      "word_surah": 3,
+      "word_translation": "And Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "أَعۡلَمُ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 9027,
+      "word_number_in_surah": 2882,
+      "word_surah": 3,
+      "word_translation": "(is) Most Knowing",
+      "word_transliteration": "a'lamu"
+    },
+    {
+      "word_arabic": "بِمَا",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 9028,
+      "word_number_in_surah": 2883,
+      "word_surah": 3,
+      "word_translation": "(of) what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "يَكۡتُمُونَ",
+      "word_ayah": 167,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 9029,
+      "word_number_in_surah": 2884,
+      "word_surah": 3,
+      "word_translation": "they conceal",
+      "word_transliteration": "yaktumuna"
+    }
+  ],
+  "fullArabic": "وَلِيَعۡلَمَ ٱلَّذِينَ نَافَقُواْۚ وَقِيلَ لَهُمۡ تَعَالَوۡاْ قَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ أَوِ ٱدۡفَعُواْۖ قَالُواْ لَوۡ نَعۡلَمُ قِتَالٗا لَّٱتَّبَعۡنَٰكُمۡۗ هُمۡ لِلۡكُفۡرِ يَوۡمَئِذٍ أَقۡرَبُ مِنۡهُمۡ لِلۡإِيمَٰنِۚ يَقُولُونَ بِأَفۡوَٰهِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ وَٱللَّهُ أَعۡلَمُ بِمَا يَكۡتُمُونَ",
+  "fullTranslation": "And that He might make evident those who are hypocrites. For it was said to them, \"Come, fight in the way of Allah or [at least] defend.\" They said, \"If we had known [there would be] fighting, we would have followed you.\" They were nearer to disbelief that day than to faith, saying with their mouths what was not in their hearts. And Allah is most Knowing of what they conceal -",
+  "fullTransliteration": "waliya'lama alladhina nafaqu waqila lahum ta'alaw qatilu fi sabili al-lahi awi id'fa'u qalu law na'lamu qitalan la-ittaba'nakum hum lil'kuf'ri yawma-idhin aqrabu min'hum lil'imani yaquluna bi-afwahihim ma laysa fi qulubihim wal-lahu a'lamu bima yaktumuna"
+}

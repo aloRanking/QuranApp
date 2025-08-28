@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "ayah": 112,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 119,
+    "juz": 1,
+    "manzil": 1,
+    "page": 17,
+    "ruku": 14,
+    "hizbQuarter": 7,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "بَلَىٰۚ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 1962,
+      "word_number_in_surah": 1933,
+      "word_surah": 2,
+      "word_translation": "Yes",
+      "word_transliteration": "bala"
+    },
+    {
+      "word_arabic": "مَنۡ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 1963,
+      "word_number_in_surah": 1934,
+      "word_surah": 2,
+      "word_translation": "whoever",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "أَسۡلَمَ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 1964,
+      "word_number_in_surah": 1935,
+      "word_surah": 2,
+      "word_translation": "submits",
+      "word_transliteration": "aslama"
+    },
+    {
+      "word_arabic": "وَجۡهَهُۥ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 1965,
+      "word_number_in_surah": 1936,
+      "word_surah": 2,
+      "word_translation": "his face",
+      "word_transliteration": "wajhahu"
+    },
+    {
+      "word_arabic": "لِلَّهِ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 1966,
+      "word_number_in_surah": 1937,
+      "word_surah": 2,
+      "word_translation": "to Allah",
+      "word_transliteration": "lillahi"
+    },
+    {
+      "word_arabic": "وَهُوَ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 1967,
+      "word_number_in_surah": 1938,
+      "word_surah": 2,
+      "word_translation": "and he",
+      "word_transliteration": "wahuwa"
+    },
+    {
+      "word_arabic": "مُحۡسِنٞ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 1968,
+      "word_number_in_surah": 1939,
+      "word_surah": 2,
+      "word_translation": "(is) a good-doer",
+      "word_transliteration": "muh'sinun"
+    },
+    {
+      "word_arabic": "فَلَهُۥٓ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 1969,
+      "word_number_in_surah": 1940,
+      "word_surah": 2,
+      "word_translation": "so for him",
+      "word_transliteration": "falahu"
+    },
+    {
+      "word_arabic": "أَجۡرُهُۥ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 1970,
+      "word_number_in_surah": 1941,
+      "word_surah": 2,
+      "word_translation": "(is) his reward",
+      "word_transliteration": "ajruhu"
+    },
+    {
+      "word_arabic": "عِندَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 1971,
+      "word_number_in_surah": 1942,
+      "word_surah": 2,
+      "word_translation": "with",
+      "word_transliteration": "inda"
+    },
+    {
+      "word_arabic": "رَبِّهِۦ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 1972,
+      "word_number_in_surah": 1943,
+      "word_surah": 2,
+      "word_translation": "his Lord",
+      "word_transliteration": "rabbihi"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 1973,
+      "word_number_in_surah": 1944,
+      "word_surah": 2,
+      "word_translation": "And no",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "خَوۡفٌ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 1974,
+      "word_number_in_surah": 1945,
+      "word_surah": 2,
+      "word_translation": "fear",
+      "word_transliteration": "khawfun"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 1975,
+      "word_number_in_surah": 1946,
+      "word_surah": 2,
+      "word_translation": "(will be) on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 1976,
+      "word_number_in_surah": 1947,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "هُمۡ",
+      "word_ayah": 112,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 1977,
+      "word_number_in_surah": 1948,
+      "word_surah": 2,
+      "word_translation": "they",
+      "word_transliteration": "hum"
+    },
+    {
+      "word_arabic": "يَحۡزَنُونَ",
+      "word_ayah": 112,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 1978,
+      "word_number_in_surah": 1949,
+      "word_surah": 2,
+      "word_translation": "(will) grieve",
+      "word_transliteration": "yahzanuna"
+    }
+  ],
+  "fullArabic": "بَلَىٰۚ مَنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ فَلَهُۥٓ أَجۡرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "fullTranslation": "Yes [on the contrary], whoever submits his face in Islam to Allah while being a doer of good will have his reward with his Lord. And no fear will there be concerning them, nor will they grieve.",
+  "fullTransliteration": "bala man aslama wajhahu lillahi wahuwa muh'sinun falahu ajruhu inda rabbihi wala khawfun alayhim wala hum yahzanuna"
+}

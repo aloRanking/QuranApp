@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "ayah": 52,
+    "surah": 5,
+    "words": 28,
+    "numberInQuran": 721,
+    "juz": 6,
+    "manzil": 2,
+    "page": 117,
+    "ruku": 93,
+    "hizbQuarter": 47,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَتَرَى",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14697,
+      "word_number_in_surah": 1324,
+      "word_surah": 5,
+      "word_translation": "And you see",
+      "word_transliteration": "fatara"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14698,
+      "word_number_in_surah": 1325,
+      "word_surah": 5,
+      "word_translation": "those",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14699,
+      "word_number_in_surah": 1326,
+      "word_surah": 5,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قُلُوبِهِم",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14700,
+      "word_number_in_surah": 1327,
+      "word_surah": 5,
+      "word_translation": "their hearts",
+      "word_transliteration": "qulubihim"
+    },
+    {
+      "word_arabic": "مَّرَضٞ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14701,
+      "word_number_in_surah": 1328,
+      "word_surah": 5,
+      "word_translation": "(is) a disease",
+      "word_transliteration": "maradun"
+    },
+    {
+      "word_arabic": "يُسَٰرِعُونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14702,
+      "word_number_in_surah": 1329,
+      "word_surah": 5,
+      "word_translation": "they hasten",
+      "word_transliteration": "yusari'una"
+    },
+    {
+      "word_arabic": "فِيهِمۡ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14703,
+      "word_number_in_surah": 1330,
+      "word_surah": 5,
+      "word_translation": "to them",
+      "word_transliteration": "fihim"
+    },
+    {
+      "word_arabic": "يَقُولُونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14704,
+      "word_number_in_surah": 1331,
+      "word_surah": 5,
+      "word_translation": "saying",
+      "word_transliteration": "yaquluna"
+    },
+    {
+      "word_arabic": "نَخۡشَىٰٓ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14705,
+      "word_number_in_surah": 1332,
+      "word_surah": 5,
+      "word_translation": "We fear",
+      "word_transliteration": "nakhsha"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 52,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14706,
+      "word_number_in_surah": 1333,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تُصِيبَنَا",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14707,
+      "word_number_in_surah": 1334,
+      "word_surah": 5,
+      "word_translation": "(may) strike us",
+      "word_transliteration": "tusibana"
+    },
+    {
+      "word_arabic": "دَآئِرَةٞۚ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14708,
+      "word_number_in_surah": 1335,
+      "word_surah": 5,
+      "word_translation": "a misfortune",
+      "word_transliteration": "dairatun"
+    },
+    {
+      "word_arabic": "فَعَسَى",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14709,
+      "word_number_in_surah": 1336,
+      "word_surah": 5,
+      "word_translation": "But perhaps",
+      "word_transliteration": "fa'asa"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14710,
+      "word_number_in_surah": 1337,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 52,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 14711,
+      "word_number_in_surah": 1338,
+      "word_surah": 5,
+      "word_translation": "[that]",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "يَأۡتِيَ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 14712,
+      "word_number_in_surah": 1339,
+      "word_surah": 5,
+      "word_translation": "will bring",
+      "word_transliteration": "yatiya"
+    },
+    {
+      "word_arabic": "بِٱلۡفَتۡحِ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 14713,
+      "word_number_in_surah": 1340,
+      "word_surah": 5,
+      "word_translation": "the victory",
+      "word_transliteration": "bil-fathi"
+    },
+    {
+      "word_arabic": "أَوۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 14714,
+      "word_number_in_surah": 1341,
+      "word_surah": 5,
+      "word_translation": "or",
+      "word_transliteration": "aw"
+    },
+    {
+      "word_arabic": "أَمۡرٖ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 14715,
+      "word_number_in_surah": 1342,
+      "word_surah": 5,
+      "word_translation": "a decision",
+      "word_transliteration": "amrin"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 14716,
+      "word_number_in_surah": 1343,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "عِندِهِۦ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 14717,
+      "word_number_in_surah": 1344,
+      "word_surah": 5,
+      "word_translation": "(of) Him",
+      "word_transliteration": "indihi"
+    },
+    {
+      "word_arabic": "فَيُصۡبِحُواْ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 14718,
+      "word_number_in_surah": 1345,
+      "word_surah": 5,
+      "word_translation": "Then they will become",
+      "word_transliteration": "fayus'bihu"
+    },
+    {
+      "word_arabic": "عَلَىٰ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 14719,
+      "word_number_in_surah": 1346,
+      "word_surah": 5,
+      "word_translation": "for",
+      "word_transliteration": "ala"
+    },
+    {
+      "word_arabic": "مَآ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 14720,
+      "word_number_in_surah": 1347,
+      "word_surah": 5,
+      "word_translation": "what",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "أَسَرُّواْ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 14721,
+      "word_number_in_surah": 1348,
+      "word_surah": 5,
+      "word_translation": "they had concealed",
+      "word_transliteration": "asarru"
+    },
+    {
+      "word_arabic": "فِيٓ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 14722,
+      "word_number_in_surah": 1349,
+      "word_surah": 5,
+      "word_translation": "within",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "أَنفُسِهِمۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 14723,
+      "word_number_in_surah": 1350,
+      "word_surah": 5,
+      "word_translation": "themselves",
+      "word_transliteration": "anfusihim"
+    },
+    {
+      "word_arabic": "نَٰدِمِينَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 14724,
+      "word_number_in_surah": 1351,
+      "word_surah": 5,
+      "word_translation": "regretful",
+      "word_transliteration": "nadimina"
+    }
+  ],
+  "fullArabic": "فَتَرَى ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ يُسَٰرِعُونَ فِيهِمۡ يَقُولُونَ نَخۡشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٞۚ فَعَسَى ٱللَّهُ أَن يَأۡتِيَ بِٱلۡفَتۡحِ أَوۡ أَمۡرٖ مِّنۡ عِندِهِۦ فَيُصۡبِحُواْ عَلَىٰ مَآ أَسَرُّواْ فِيٓ أَنفُسِهِمۡ نَٰدِمِينَ",
+  "fullTranslation": "So you see those in whose hearts is disease hastening into [association with] them, saying, \"We are afraid a misfortune may strike us.\" But perhaps Allah will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful.",
+  "fullTransliteration": "fatara alladhina fi qulubihim maradun yusari'una fihim yaquluna nakhsha an tusibana dairatun fa'asa al-lahu an yatiya bil-fathi aw amrin min indihi fayus'bihu ala ma asarru fi anfusihim nadimina"
+}

@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "ayah": 39,
+    "surah": 5,
+    "words": 14,
+    "numberInQuran": 708,
+    "juz": 6,
+    "manzil": 2,
+    "page": 114,
+    "ruku": 91,
+    "hizbQuarter": 45,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "فَمَن",
+      "word_ayah": 39,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14326,
+      "word_number_in_surah": 953,
+      "word_surah": 5,
+      "word_translation": "But whoever",
+      "word_transliteration": "faman"
+    },
+    {
+      "word_arabic": "تَابَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14327,
+      "word_number_in_surah": 954,
+      "word_surah": 5,
+      "word_translation": "repented",
+      "word_transliteration": "taba"
+    },
+    {
+      "word_arabic": "مِنۢ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14328,
+      "word_number_in_surah": 955,
+      "word_surah": 5,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "بَعۡدِ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14329,
+      "word_number_in_surah": 956,
+      "word_surah": 5,
+      "word_translation": "after",
+      "word_transliteration": "ba'di"
+    },
+    {
+      "word_arabic": "ظُلۡمِهِۦ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14330,
+      "word_number_in_surah": 957,
+      "word_surah": 5,
+      "word_translation": "his wrongdoing",
+      "word_transliteration": "zul'mihi"
+    },
+    {
+      "word_arabic": "وَأَصۡلَحَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14331,
+      "word_number_in_surah": 958,
+      "word_surah": 5,
+      "word_translation": "and reforms",
+      "word_transliteration": "wa-aslaha"
+    },
+    {
+      "word_arabic": "فَإِنَّ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14332,
+      "word_number_in_surah": 959,
+      "word_surah": 5,
+      "word_translation": "then indeed",
+      "word_transliteration": "fa-inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14333,
+      "word_number_in_surah": 960,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَتُوبُ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14334,
+      "word_number_in_surah": 961,
+      "word_surah": 5,
+      "word_translation": "will turn in forgiveness",
+      "word_transliteration": "yatubu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِۚ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14335,
+      "word_number_in_surah": 962,
+      "word_surah": 5,
+      "word_translation": "to him",
+      "word_transliteration": "alayhi"
+    },
+    {
+      "word_arabic": "إِنَّ",
+      "word_ayah": 39,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14336,
+      "word_number_in_surah": 963,
+      "word_surah": 5,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14337,
+      "word_number_in_surah": 964,
+      "word_surah": 5,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "غَفُورٞ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14338,
+      "word_number_in_surah": 965,
+      "word_surah": 5,
+      "word_translation": "(is) Oft-Forgiving",
+      "word_transliteration": "ghafurun"
+    },
+    {
+      "word_arabic": "رَّحِيمٌ",
+      "word_ayah": 39,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 14339,
+      "word_number_in_surah": 966,
+      "word_surah": 5,
+      "word_translation": "Most Merciful",
+      "word_transliteration": "rahimun"
+    }
+  ],
+  "fullArabic": "فَمَن تَابَ مِنۢ بَعۡدِ ظُلۡمِهِۦ وَأَصۡلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيۡهِۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "fullTranslation": "But whoever repents after his wrongdoing and reforms, indeed, Allah will turn to him in forgiveness. Indeed, Allah is Forgiving and Merciful.",
+  "fullTransliteration": "faman taba min ba'di zul'mihi wa-aslaha fa-inna al-laha yatubu alayhi inna al-laha ghafurun rahimun"
+}

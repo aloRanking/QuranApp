@@ -1,0 +1,432 @@
+{
+  "meta": {
+    "ayah": 221,
+    "surah": 2,
+    "words": 39,
+    "numberInQuran": 228,
+    "juz": 2,
+    "manzil": 1,
+    "page": 35,
+    "ruku": 28,
+    "hizbQuarter": 14,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 4227,
+      "word_number_in_surah": 4198,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَنكِحُواْ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 4228,
+      "word_number_in_surah": 4199,
+      "word_surah": 2,
+      "word_translation": "[you] marry",
+      "word_transliteration": "tankihu"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكَٰتِ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 4229,
+      "word_number_in_surah": 4200,
+      "word_surah": 2,
+      "word_translation": "[the] polytheistic women",
+      "word_transliteration": "al-mush'rikati"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 4230,
+      "word_number_in_surah": 4201,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يُؤۡمِنَّۚ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 4231,
+      "word_number_in_surah": 4202,
+      "word_surah": 2,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minna"
+    },
+    {
+      "word_arabic": "وَلَأَمَةٞ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 4232,
+      "word_number_in_surah": 4203,
+      "word_surah": 2,
+      "word_translation": "And a bondwoman",
+      "word_transliteration": "wala-amatun"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنَةٌ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 4233,
+      "word_number_in_surah": 4204,
+      "word_surah": 2,
+      "word_translation": "(who is) believing",
+      "word_transliteration": "mu'minatun"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 4234,
+      "word_number_in_surah": 4205,
+      "word_surah": 2,
+      "word_translation": "(is) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 221,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 4235,
+      "word_number_in_surah": 4206,
+      "word_surah": 2,
+      "word_translation": "than",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "مُّشۡرِكَةٖ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 4236,
+      "word_number_in_surah": 4207,
+      "word_surah": 2,
+      "word_translation": "a polytheistic woman",
+      "word_transliteration": "mush'rikatin"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 4237,
+      "word_number_in_surah": 4208,
+      "word_surah": 2,
+      "word_translation": "[and] even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَعۡجَبَتۡكُمۡۗ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 4238,
+      "word_number_in_surah": 4209,
+      "word_surah": 2,
+      "word_translation": "she pleases you",
+      "word_transliteration": "a'jabatkum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 4239,
+      "word_number_in_surah": 4210,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تُنكِحُواْ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 4240,
+      "word_number_in_surah": 4211,
+      "word_surah": 2,
+      "word_translation": "give in marriage (your women)",
+      "word_transliteration": "tunkihu"
+    },
+    {
+      "word_arabic": "ٱلۡمُشۡرِكِينَ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 4241,
+      "word_number_in_surah": 4212,
+      "word_surah": 2,
+      "word_translation": "(to) [the] polytheistic men",
+      "word_transliteration": "al-mush'rikina"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 4242,
+      "word_number_in_surah": 4213,
+      "word_surah": 2,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يُؤۡمِنُواْۚ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 4243,
+      "word_number_in_surah": 4214,
+      "word_surah": 2,
+      "word_translation": "they believe",
+      "word_transliteration": "yu'minu"
+    },
+    {
+      "word_arabic": "وَلَعَبۡدٞ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 4244,
+      "word_number_in_surah": 4215,
+      "word_surah": 2,
+      "word_translation": "and a bondman",
+      "word_transliteration": "wala'abdun"
+    },
+    {
+      "word_arabic": "مُّؤۡمِنٌ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 4245,
+      "word_number_in_surah": 4216,
+      "word_surah": 2,
+      "word_translation": "(who is) believing",
+      "word_transliteration": "mu'minun"
+    },
+    {
+      "word_arabic": "خَيۡرٞ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 4246,
+      "word_number_in_surah": 4217,
+      "word_surah": 2,
+      "word_translation": "(is) better",
+      "word_transliteration": "khayrun"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 221,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 4247,
+      "word_number_in_surah": 4218,
+      "word_surah": 2,
+      "word_translation": "than",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "مُّشۡرِكٖ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 4248,
+      "word_number_in_surah": 4219,
+      "word_surah": 2,
+      "word_translation": "a polytheistic man",
+      "word_transliteration": "mush'rikin"
+    },
+    {
+      "word_arabic": "وَلَوۡ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 4249,
+      "word_number_in_surah": 4220,
+      "word_surah": 2,
+      "word_translation": "[and] even if",
+      "word_transliteration": "walaw"
+    },
+    {
+      "word_arabic": "أَعۡجَبَكُمۡۗ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 4250,
+      "word_number_in_surah": 4221,
+      "word_surah": 2,
+      "word_translation": "he pleases you",
+      "word_transliteration": "a'jabakum"
+    },
+    {
+      "word_arabic": "أُوْلَٰٓئِكَ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 4251,
+      "word_number_in_surah": 4222,
+      "word_surah": 2,
+      "word_translation": "[Those]",
+      "word_transliteration": "ulaika"
+    },
+    {
+      "word_arabic": "يَدۡعُونَ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 4252,
+      "word_number_in_surah": 4223,
+      "word_surah": 2,
+      "word_translation": "they invite",
+      "word_transliteration": "yad'una"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 4253,
+      "word_number_in_surah": 4224,
+      "word_surah": 2,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلنَّارِۖ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 4254,
+      "word_number_in_surah": 4225,
+      "word_surah": 2,
+      "word_translation": "the Fire",
+      "word_transliteration": "al-nari"
+    },
+    {
+      "word_arabic": "وَٱللَّهُ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 4255,
+      "word_number_in_surah": 4226,
+      "word_surah": 2,
+      "word_translation": "and Allah",
+      "word_transliteration": "wal-lahu"
+    },
+    {
+      "word_arabic": "يَدۡعُوٓاْ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 4256,
+      "word_number_in_surah": 4227,
+      "word_surah": 2,
+      "word_translation": "invites",
+      "word_transliteration": "yad'u"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 4257,
+      "word_number_in_surah": 4228,
+      "word_surah": 2,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلۡجَنَّةِ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 32,
+      "word_number_in_quran": 4258,
+      "word_number_in_surah": 4229,
+      "word_surah": 2,
+      "word_translation": "Paradise",
+      "word_transliteration": "al-janati"
+    },
+    {
+      "word_arabic": "وَٱلۡمَغۡفِرَةِ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 33,
+      "word_number_in_quran": 4259,
+      "word_number_in_surah": 4230,
+      "word_surah": 2,
+      "word_translation": "and [the] forgiveness",
+      "word_transliteration": "wal-maghfirati"
+    },
+    {
+      "word_arabic": "بِإِذۡنِهِۦۖ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 34,
+      "word_number_in_quran": 4260,
+      "word_number_in_surah": 4231,
+      "word_surah": 2,
+      "word_translation": "by His permission",
+      "word_transliteration": "bi-idh'nihi"
+    },
+    {
+      "word_arabic": "وَيُبَيِّنُ",
+      "word_ayah": 221,
+      "word_number_in_ayah": 35,
+      "word_number_in_quran": 4261,
+      "word_number_in_surah": 4232,
+      "word_surah": 2,
+      "word_translation": "And He makes clear",
+      "word_transliteration": "wayubayyinu"
+    },
+    {
+      "word_arabic": "ءَايَٰتِهِۦ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 36,
+      "word_number_in_quran": 4262,
+      "word_number_in_surah": 4233,
+      "word_surah": 2,
+      "word_translation": "His Verses",
+      "word_transliteration": "ayatihi"
+    },
+    {
+      "word_arabic": "لِلنَّاسِ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 37,
+      "word_number_in_quran": 4263,
+      "word_number_in_surah": 4234,
+      "word_surah": 2,
+      "word_translation": "for the people",
+      "word_transliteration": "lilnnasi"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 38,
+      "word_number_in_quran": 4264,
+      "word_number_in_surah": 4235,
+      "word_surah": 2,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَتَذَكَّرُونَ",
+      "word_ayah": 221,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 39,
+      "word_number_in_quran": 4265,
+      "word_number_in_surah": 4236,
+      "word_surah": 2,
+      "word_translation": "take heed",
+      "word_transliteration": "yatadhakkaruna"
+    }
+  ],
+  "fullArabic": "وَلَا تَنكِحُواْ ٱلۡمُشۡرِكَٰتِ حَتَّىٰ يُؤۡمِنَّۚ وَلَأَمَةٞ مُّؤۡمِنَةٌ خَيۡرٞ مِّن مُّشۡرِكَةٖ وَلَوۡ أَعۡجَبَتۡكُمۡۗ وَلَا تُنكِحُواْ ٱلۡمُشۡرِكِينَ حَتَّىٰ يُؤۡمِنُواْۚ وَلَعَبۡدٞ مُّؤۡمِنٌ خَيۡرٞ مِّن مُّشۡرِكٖ وَلَوۡ أَعۡجَبَكُمۡۗ أُوْلَٰٓئِكَ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَٱللَّهُ يَدۡعُوٓاْ إِلَى ٱلۡجَنَّةِ وَٱلۡمَغۡفِرَةِ بِإِذۡنِهِۦۖ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
+  "fullTranslation": "And do not marry polytheistic women until they believe. And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allah invites to Paradise and to forgiveness, by His permission. And He makes clear His verses to the people that perhaps they may remember.",
+  "fullTransliteration": "wala tankihu al-mush'rikati hatta yu'minna wala-amatun mu'minatun khayrun min mush'rikatin walaw a'jabatkum wala tunkihu al-mush'rikina hatta yu'minu wala'abdun mu'minun khayrun min mush'rikin walaw a'jabakum ulaika yad'una ila al-nari wal-lahu yad'u ila al-janati wal-maghfirati bi-idh'nihi wayubayyinu ayatihi lilnnasi la'allahum yatadhakkaruna"
+}

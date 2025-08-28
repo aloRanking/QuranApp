@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "ayah": 89,
+    "surah": 4,
+    "words": 28,
+    "numberInQuran": 582,
+    "juz": 5,
+    "manzil": 1,
+    "page": 92,
+    "ruku": 73,
+    "hizbQuarter": 37,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَدُّواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11561,
+      "word_number_in_surah": 1935,
+      "word_surah": 4,
+      "word_translation": "They wish",
+      "word_transliteration": "waddu"
+    },
+    {
+      "word_arabic": "لَوۡ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11562,
+      "word_number_in_surah": 1936,
+      "word_surah": 4,
+      "word_translation": "if",
+      "word_transliteration": "law"
+    },
+    {
+      "word_arabic": "تَكۡفُرُونَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11563,
+      "word_number_in_surah": 1937,
+      "word_surah": 4,
+      "word_translation": "you disbelieve",
+      "word_transliteration": "takfuruna"
+    },
+    {
+      "word_arabic": "كَمَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11564,
+      "word_number_in_surah": 1938,
+      "word_surah": 4,
+      "word_translation": "as",
+      "word_transliteration": "kama"
+    },
+    {
+      "word_arabic": "كَفَرُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11565,
+      "word_number_in_surah": 1939,
+      "word_surah": 4,
+      "word_translation": "they disbelieved",
+      "word_transliteration": "kafaru"
+    },
+    {
+      "word_arabic": "فَتَكُونُونَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11566,
+      "word_number_in_surah": 1940,
+      "word_surah": 4,
+      "word_translation": "and you would be",
+      "word_transliteration": "fatakununa"
+    },
+    {
+      "word_arabic": "سَوَآءٗۖ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11567,
+      "word_number_in_surah": 1941,
+      "word_surah": 4,
+      "word_translation": "alike",
+      "word_transliteration": "sawaan"
+    },
+    {
+      "word_arabic": "فَلَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 11568,
+      "word_number_in_surah": 1942,
+      "word_surah": 4,
+      "word_translation": "So (do) not",
+      "word_transliteration": "fala"
+    },
+    {
+      "word_arabic": "تَتَّخِذُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 11569,
+      "word_number_in_surah": 1943,
+      "word_surah": 4,
+      "word_translation": "take",
+      "word_transliteration": "tattakhidhu"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 11570,
+      "word_number_in_surah": 1944,
+      "word_surah": 4,
+      "word_translation": "from them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "أَوۡلِيَآءَ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 11571,
+      "word_number_in_surah": 1945,
+      "word_surah": 4,
+      "word_translation": "allies",
+      "word_transliteration": "awliyaa"
+    },
+    {
+      "word_arabic": "حَتَّىٰ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 11572,
+      "word_number_in_surah": 1946,
+      "word_surah": 4,
+      "word_translation": "until",
+      "word_transliteration": "hatta"
+    },
+    {
+      "word_arabic": "يُهَاجِرُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 11573,
+      "word_number_in_surah": 1947,
+      "word_surah": 4,
+      "word_translation": "they emigrate",
+      "word_transliteration": "yuhajiru"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 11574,
+      "word_number_in_surah": 1948,
+      "word_surah": 4,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "سَبِيلِ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 11575,
+      "word_number_in_surah": 1949,
+      "word_surah": 4,
+      "word_translation": "(the) way",
+      "word_transliteration": "sabili"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 11576,
+      "word_number_in_surah": 1950,
+      "word_surah": 4,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 89,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 11577,
+      "word_number_in_surah": 1951,
+      "word_surah": 4,
+      "word_translation": "But if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 11578,
+      "word_number_in_surah": 1952,
+      "word_surah": 4,
+      "word_translation": "they turn back",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "فَخُذُوهُمۡ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 11579,
+      "word_number_in_surah": 1953,
+      "word_surah": 4,
+      "word_translation": "seize them",
+      "word_transliteration": "fakhudhuhum"
+    },
+    {
+      "word_arabic": "وَٱقۡتُلُوهُمۡ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 11580,
+      "word_number_in_surah": 1954,
+      "word_surah": 4,
+      "word_translation": "and kill them",
+      "word_transliteration": "wa-uq'tuluhum"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 11581,
+      "word_number_in_surah": 1955,
+      "word_surah": 4,
+      "word_translation": "wherever",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "وَجَدتُّمُوهُمۡۖ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 11582,
+      "word_number_in_surah": 1956,
+      "word_surah": 4,
+      "word_translation": "you find them",
+      "word_transliteration": "wajadttumuhum"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 11583,
+      "word_number_in_surah": 1957,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَتَّخِذُواْ",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 11584,
+      "word_number_in_surah": 1958,
+      "word_surah": 4,
+      "word_translation": "take",
+      "word_transliteration": "tattakhidhu"
+    },
+    {
+      "word_arabic": "مِنۡهُمۡ",
+      "word_ayah": 89,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 11585,
+      "word_number_in_surah": 1959,
+      "word_surah": 4,
+      "word_translation": "from them",
+      "word_transliteration": "min'hum"
+    },
+    {
+      "word_arabic": "وَلِيّٗا",
+      "word_ayah": 89,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 11586,
+      "word_number_in_surah": 1960,
+      "word_surah": 4,
+      "word_translation": "any ally",
+      "word_transliteration": "waliyyan"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 11587,
+      "word_number_in_surah": 1961,
+      "word_surah": 4,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "نَصِيرًا",
+      "word_ayah": 89,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 11588,
+      "word_number_in_surah": 1962,
+      "word_surah": 4,
+      "word_translation": "any helper",
+      "word_transliteration": "nasiran"
+    }
+  ],
+  "fullArabic": "وَدُّواْ لَوۡ تَكۡفُرُونَ كَمَا كَفَرُواْ فَتَكُونُونَ سَوَآءٗۖ فَلَا تَتَّخِذُواْ مِنۡهُمۡ أَوۡلِيَآءَ حَتَّىٰ يُهَاجِرُواْ فِي سَبِيلِ ٱللَّهِۚ فَإِن تَوَلَّوۡاْ فَخُذُوهُمۡ وَٱقۡتُلُوهُمۡ حَيۡثُ وَجَدتُّمُوهُمۡۖ وَلَا تَتَّخِذُواْ مِنۡهُمۡ وَلِيّٗا وَلَا نَصِيرًا",
+  "fullTranslation": "They wish you would disbelieve as they disbelieved so you would be alike. So do not take from among them allies until they emigrate for the cause of Allah. But if they turn away, then seize them and kill them wherever you find them and take not from among them any ally or helper.",
+  "fullTransliteration": "waddu law takfuruna kama kafaru fatakununa sawaan fala tattakhidhu min'hum awliyaa hatta yuhajiru fi sabili al-lahi fa-in tawallaw fakhudhuhum wa-uq'tuluhum haythu wajadttumuhum wala tattakhidhu min'hum waliyyan wala nasiran"
+}

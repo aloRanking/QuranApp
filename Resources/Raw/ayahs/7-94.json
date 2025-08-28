@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 94,
+    "surah": 7,
+    "words": 13,
+    "numberInQuran": 1048,
+    "juz": 9,
+    "manzil": 2,
+    "page": 162,
+    "ruku": 133,
+    "hizbQuarter": 65,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمَآ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 20760,
+      "word_number_in_surah": 1533,
+      "word_surah": 7,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "أَرۡسَلۡنَا",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 20761,
+      "word_number_in_surah": 1534,
+      "word_surah": 7,
+      "word_translation": "We sent",
+      "word_transliteration": "arsalna"
+    },
+    {
+      "word_arabic": "فِي",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 20762,
+      "word_number_in_surah": 1535,
+      "word_surah": 7,
+      "word_translation": "in",
+      "word_transliteration": "fi"
+    },
+    {
+      "word_arabic": "قَرۡيَةٖ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 20763,
+      "word_number_in_surah": 1536,
+      "word_surah": 7,
+      "word_translation": "a city",
+      "word_transliteration": "qaryatin"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 94,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 20764,
+      "word_number_in_surah": 1537,
+      "word_surah": 7,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "نَّبِيٍّ",
+      "word_ayah": 94,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 20765,
+      "word_number_in_surah": 1538,
+      "word_surah": 7,
+      "word_translation": "any Prophet",
+      "word_transliteration": "nabiyyin"
+    },
+    {
+      "word_arabic": "إِلَّآ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 20766,
+      "word_number_in_surah": 1539,
+      "word_surah": 7,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "أَخَذۡنَآ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 20767,
+      "word_number_in_surah": 1540,
+      "word_surah": 7,
+      "word_translation": "We seized",
+      "word_transliteration": "akhadhna"
+    },
+    {
+      "word_arabic": "أَهۡلَهَا",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 20768,
+      "word_number_in_surah": 1541,
+      "word_surah": 7,
+      "word_translation": "its people",
+      "word_transliteration": "ahlaha"
+    },
+    {
+      "word_arabic": "بِٱلۡبَأۡسَآءِ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 20769,
+      "word_number_in_surah": 1542,
+      "word_surah": 7,
+      "word_translation": "with adversity",
+      "word_transliteration": "bil-basai"
+    },
+    {
+      "word_arabic": "وَٱلضَّرَّآءِ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 20770,
+      "word_number_in_surah": 1543,
+      "word_surah": 7,
+      "word_translation": "and hardship",
+      "word_transliteration": "wal-darai"
+    },
+    {
+      "word_arabic": "لَعَلَّهُمۡ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 20771,
+      "word_number_in_surah": 1544,
+      "word_surah": 7,
+      "word_translation": "so that they may",
+      "word_transliteration": "la'allahum"
+    },
+    {
+      "word_arabic": "يَضَّرَّعُونَ",
+      "word_ayah": 94,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 20772,
+      "word_number_in_surah": 1545,
+      "word_surah": 7,
+      "word_translation": "(become) humble",
+      "word_transliteration": "yaddarra'una"
+    }
+  ],
+  "fullArabic": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّبِيٍّ إِلَّآ أَخَذۡنَآ أَهۡلَهَا بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَضَّرَّعُونَ",
+  "fullTranslation": "And We sent to no city a prophet [who was denied] except that We seized its people with poverty and hardship that they might humble themselves [to Allah].",
+  "fullTransliteration": "wama arsalna fi qaryatin min nabiyyin illa akhadhna ahlaha bil-basai wal-darai la'allahum yaddarra'una"
+}

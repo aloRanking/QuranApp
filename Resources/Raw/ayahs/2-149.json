@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "ayah": 149,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 156,
+    "juz": 2,
+    "manzil": 1,
+    "page": 23,
+    "ruku": 19,
+    "hizbQuarter": 9,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَمِنۡ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 2695,
+      "word_number_in_surah": 2666,
+      "word_surah": 2,
+      "word_translation": "And from",
+      "word_transliteration": "wamin"
+    },
+    {
+      "word_arabic": "حَيۡثُ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 2696,
+      "word_number_in_surah": 2667,
+      "word_surah": 2,
+      "word_translation": "wherever",
+      "word_transliteration": "haythu"
+    },
+    {
+      "word_arabic": "خَرَجۡتَ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 2697,
+      "word_number_in_surah": 2668,
+      "word_surah": 2,
+      "word_translation": "you start forth",
+      "word_transliteration": "kharajta"
+    },
+    {
+      "word_arabic": "فَوَلِّ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 2698,
+      "word_number_in_surah": 2669,
+      "word_surah": 2,
+      "word_translation": "[so] turn",
+      "word_transliteration": "fawalli"
+    },
+    {
+      "word_arabic": "وَجۡهَكَ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 2699,
+      "word_number_in_surah": 2670,
+      "word_surah": 2,
+      "word_translation": "your face",
+      "word_transliteration": "wajhaka"
+    },
+    {
+      "word_arabic": "شَطۡرَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 2700,
+      "word_number_in_surah": 2671,
+      "word_surah": 2,
+      "word_translation": "(in the) direction",
+      "word_transliteration": "shatra"
+    },
+    {
+      "word_arabic": "ٱلۡمَسۡجِدِ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 2701,
+      "word_number_in_surah": 2672,
+      "word_surah": 2,
+      "word_translation": "(of) Al-Masjid",
+      "word_transliteration": "al-masjidi"
+    },
+    {
+      "word_arabic": "ٱلۡحَرَامِۖ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 2702,
+      "word_number_in_surah": 2673,
+      "word_surah": 2,
+      "word_translation": "Al-Haraam",
+      "word_transliteration": "al-harami"
+    },
+    {
+      "word_arabic": "وَإِنَّهُۥ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 2703,
+      "word_number_in_surah": 2674,
+      "word_surah": 2,
+      "word_translation": "And indeed, it",
+      "word_transliteration": "wa-innahu"
+    },
+    {
+      "word_arabic": "لَلۡحَقُّ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 2704,
+      "word_number_in_surah": 2675,
+      "word_surah": 2,
+      "word_translation": "(is) surely the truth",
+      "word_transliteration": "lalhaqqu"
+    },
+    {
+      "word_arabic": "مِن",
+      "word_ayah": 149,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 2705,
+      "word_number_in_surah": 2676,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "رَّبِّكَۗ",
+      "word_ayah": 149,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 2706,
+      "word_number_in_surah": 2677,
+      "word_surah": 2,
+      "word_translation": "your Lord",
+      "word_transliteration": "rabbika"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 2707,
+      "word_number_in_surah": 2678,
+      "word_surah": 2,
+      "word_translation": "And not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "ٱللَّهُ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 2708,
+      "word_number_in_surah": 2679,
+      "word_surah": 2,
+      "word_translation": "(is) Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "بِغَٰفِلٍ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 2709,
+      "word_number_in_surah": 2680,
+      "word_surah": 2,
+      "word_translation": "unaware",
+      "word_transliteration": "bighafilin"
+    },
+    {
+      "word_arabic": "عَمَّا",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 2710,
+      "word_number_in_surah": 2681,
+      "word_surah": 2,
+      "word_translation": "of what",
+      "word_transliteration": "amma"
+    },
+    {
+      "word_arabic": "تَعۡمَلُونَ",
+      "word_ayah": 149,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 2711,
+      "word_number_in_surah": 2682,
+      "word_surah": 2,
+      "word_translation": "you do",
+      "word_transliteration": "ta'maluna"
+    }
+  ],
+  "fullArabic": "وَمِنۡ حَيۡثُ خَرَجۡتَ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۖ وَإِنَّهُۥ لَلۡحَقُّ مِن رَّبِّكَۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+  "fullTranslation": "So from wherever you go out [for prayer, O Muhammad] turn your face toward al- Masjid al-Haram, and indeed, it is the truth from your Lord. And Allah is not unaware of what you do.",
+  "fullTransliteration": "wamin haythu kharajta fawalli wajhaka shatra al-masjidi al-harami wa-innahu lalhaqqu min rabbika wama al-lahu bighafilin amma ta'maluna"
+}

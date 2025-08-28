@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "ayah": 105,
+    "surah": 4,
+    "words": 15,
+    "numberInQuran": 598,
+    "juz": 5,
+    "manzil": 1,
+    "page": 95,
+    "ruku": 77,
+    "hizbQuarter": 38,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنَّآ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 12020,
+      "word_number_in_surah": 2394,
+      "word_surah": 4,
+      "word_translation": "Indeed",
+      "word_transliteration": "inna"
+    },
+    {
+      "word_arabic": "أَنزَلۡنَآ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 12021,
+      "word_number_in_surah": 2395,
+      "word_surah": 4,
+      "word_translation": "We (have) sent down",
+      "word_transliteration": "anzalna"
+    },
+    {
+      "word_arabic": "إِلَيۡكَ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 12022,
+      "word_number_in_surah": 2396,
+      "word_surah": 4,
+      "word_translation": "to you",
+      "word_transliteration": "ilayka"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 12023,
+      "word_number_in_surah": 2397,
+      "word_surah": 4,
+      "word_translation": "the Book",
+      "word_transliteration": "al-kitaba"
+    },
+    {
+      "word_arabic": "بِٱلۡحَقِّ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 12024,
+      "word_number_in_surah": 2398,
+      "word_surah": 4,
+      "word_translation": "with the truth",
+      "word_transliteration": "bil-haqi"
+    },
+    {
+      "word_arabic": "لِتَحۡكُمَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 12025,
+      "word_number_in_surah": 2399,
+      "word_surah": 4,
+      "word_translation": "so that you may judge",
+      "word_transliteration": "litahkuma"
+    },
+    {
+      "word_arabic": "بَيۡنَ",
+      "word_ayah": 105,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 12026,
+      "word_number_in_surah": 2400,
+      "word_surah": 4,
+      "word_translation": "between",
+      "word_transliteration": "bayna"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 12027,
+      "word_number_in_surah": 2401,
+      "word_surah": 4,
+      "word_translation": "the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "بِمَآ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 12028,
+      "word_number_in_surah": 2402,
+      "word_surah": 4,
+      "word_translation": "with what",
+      "word_transliteration": "bima"
+    },
+    {
+      "word_arabic": "أَرَىٰكَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 12029,
+      "word_number_in_surah": 2403,
+      "word_surah": 4,
+      "word_translation": "has shown you",
+      "word_transliteration": "araka"
+    },
+    {
+      "word_arabic": "ٱللَّهُۚ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 12030,
+      "word_number_in_surah": 2404,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahu"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 12031,
+      "word_number_in_surah": 2405,
+      "word_surah": 4,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَكُن",
+      "word_ayah": 105,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 12032,
+      "word_number_in_surah": 2406,
+      "word_surah": 4,
+      "word_translation": "be",
+      "word_transliteration": "takun"
+    },
+    {
+      "word_arabic": "لِّلۡخَآئِنِينَ",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 12033,
+      "word_number_in_surah": 2407,
+      "word_surah": 4,
+      "word_translation": "for the deceitful",
+      "word_transliteration": "lil'khainina"
+    },
+    {
+      "word_arabic": "خَصِيمٗا",
+      "word_ayah": 105,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 12034,
+      "word_number_in_surah": 2408,
+      "word_surah": 4,
+      "word_translation": "a pleader",
+      "word_transliteration": "khasiman"
+    }
+  ],
+  "fullArabic": "إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِتَحۡكُمَ بَيۡنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُۚ وَلَا تَكُن لِّلۡخَآئِنِينَ خَصِيمٗا",
+  "fullTranslation": "Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allah has shown you. And do not be for the deceitful an advocate.",
+  "fullTransliteration": "inna anzalna ilayka al-kitaba bil-haqi litahkuma bayna al-nasi bima araka al-lahu wala takun lil'khainina khasiman"
+}

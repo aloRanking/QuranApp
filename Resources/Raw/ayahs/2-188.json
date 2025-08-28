@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "ayah": 188,
+    "surah": 2,
+    "words": 17,
+    "numberInQuran": 195,
+    "juz": 2,
+    "manzil": 1,
+    "page": 29,
+    "ruku": 24,
+    "hizbQuarter": 11,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 3488,
+      "word_number_in_surah": 3459,
+      "word_surah": 2,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَأۡكُلُوٓاْ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 3489,
+      "word_number_in_surah": 3460,
+      "word_surah": 2,
+      "word_translation": "eat",
+      "word_transliteration": "takulu"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلَكُم",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 3490,
+      "word_number_in_surah": 3461,
+      "word_surah": 2,
+      "word_translation": "your properties",
+      "word_transliteration": "amwalakum"
+    },
+    {
+      "word_arabic": "بَيۡنَكُم",
+      "word_ayah": 188,
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 3491,
+      "word_number_in_surah": 3462,
+      "word_surah": 2,
+      "word_translation": "among yourselves",
+      "word_transliteration": "baynakum"
+    },
+    {
+      "word_arabic": "بِٱلۡبَٰطِلِ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 3492,
+      "word_number_in_surah": 3463,
+      "word_surah": 2,
+      "word_translation": "wrongfully",
+      "word_transliteration": "bil-batili"
+    },
+    {
+      "word_arabic": "وَتُدۡلُواْ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 3493,
+      "word_number_in_surah": 3464,
+      "word_surah": 2,
+      "word_translation": "and present",
+      "word_transliteration": "watud'lu"
+    },
+    {
+      "word_arabic": "بِهَآ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 3494,
+      "word_number_in_surah": 3465,
+      "word_surah": 2,
+      "word_translation": "[with] it",
+      "word_transliteration": "biha"
+    },
+    {
+      "word_arabic": "إِلَى",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 3495,
+      "word_number_in_surah": 3466,
+      "word_surah": 2,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "ٱلۡحُكَّامِ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 3496,
+      "word_number_in_surah": 3467,
+      "word_surah": 2,
+      "word_translation": "the authorities",
+      "word_transliteration": "al-hukami"
+    },
+    {
+      "word_arabic": "لِتَأۡكُلُواْ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 3497,
+      "word_number_in_surah": 3468,
+      "word_surah": 2,
+      "word_translation": "so that you may eat",
+      "word_transliteration": "litakulu"
+    },
+    {
+      "word_arabic": "فَرِيقٗا",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 3498,
+      "word_number_in_surah": 3469,
+      "word_surah": 2,
+      "word_translation": "a portion",
+      "word_transliteration": "fariqan"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 3499,
+      "word_number_in_surah": 3470,
+      "word_surah": 2,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَمۡوَٰلِ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 3500,
+      "word_number_in_surah": 3471,
+      "word_surah": 2,
+      "word_translation": "(the) wealth",
+      "word_transliteration": "amwali"
+    },
+    {
+      "word_arabic": "ٱلنَّاسِ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 3501,
+      "word_number_in_surah": 3472,
+      "word_surah": 2,
+      "word_translation": "(of) the people",
+      "word_transliteration": "al-nasi"
+    },
+    {
+      "word_arabic": "بِٱلۡإِثۡمِ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 3502,
+      "word_number_in_surah": 3473,
+      "word_surah": 2,
+      "word_translation": "sinfully",
+      "word_transliteration": "bil-ith'mi"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 188,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 3503,
+      "word_number_in_surah": 3474,
+      "word_surah": 2,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 188,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 3504,
+      "word_number_in_surah": 3475,
+      "word_surah": 2,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَكُم بَيۡنَكُم بِٱلۡبَٰطِلِ وَتُدۡلُواْ بِهَآ إِلَى ٱلۡحُكَّامِ لِتَأۡكُلُواْ فَرِيقٗا مِّنۡ أَمۡوَٰلِ ٱلنَّاسِ بِٱلۡإِثۡمِ وَأَنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "And do not consume one another's wealth unjustly or send it [in bribery] to the rulers in order that [they might aid] you [to] consume a portion of the wealth of the people in sin, while you know [it is unlawful].",
+  "fullTransliteration": "wala takulu amwalakum baynakum bil-batili watud'lu biha ila al-hukami litakulu fariqan min amwali al-nasi bil-ith'mi wa-antum ta'lamuna"
+}

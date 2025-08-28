@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "ayah": 272,
+    "surah": 2,
+    "words": 28,
+    "numberInQuran": 279,
+    "juz": 3,
+    "manzil": 1,
+    "page": 46,
+    "ruku": 38,
+    "hizbQuarter": 19,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "۞لَّيۡسَ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 5673,
+      "word_number_in_surah": 5644,
+      "word_surah": 2,
+      "word_translation": "Not",
+      "word_transliteration": "laysa"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 5674,
+      "word_number_in_surah": 5645,
+      "word_surah": 2,
+      "word_translation": "on you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "هُدَىٰهُمۡ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 5675,
+      "word_number_in_surah": 5646,
+      "word_surah": 2,
+      "word_translation": "(is) their guidance",
+      "word_transliteration": "hudahum"
+    },
+    {
+      "word_arabic": "وَلَٰكِنَّ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 5676,
+      "word_number_in_surah": 5647,
+      "word_surah": 2,
+      "word_translation": "[and] but",
+      "word_transliteration": "walakinna"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 5677,
+      "word_number_in_surah": 5648,
+      "word_surah": 2,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "يَهۡدِي",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 5678,
+      "word_number_in_surah": 5649,
+      "word_surah": 2,
+      "word_translation": "guides",
+      "word_transliteration": "yahdi"
+    },
+    {
+      "word_arabic": "مَن",
+      "word_ayah": 272,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 5679,
+      "word_number_in_surah": 5650,
+      "word_surah": 2,
+      "word_translation": "whom",
+      "word_transliteration": "man"
+    },
+    {
+      "word_arabic": "يَشَآءُۗ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 5680,
+      "word_number_in_surah": 5651,
+      "word_surah": 2,
+      "word_translation": "He wills",
+      "word_transliteration": "yashau"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 5681,
+      "word_number_in_surah": 5652,
+      "word_surah": 2,
+      "word_translation": "And whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تُنفِقُواْ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 5682,
+      "word_number_in_surah": 5653,
+      "word_surah": 2,
+      "word_translation": "you spend",
+      "word_transliteration": "tunfiqu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 5683,
+      "word_number_in_surah": 5654,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 5684,
+      "word_number_in_surah": 5655,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "فَلِأَنفُسِكُمۡۚ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 5685,
+      "word_number_in_surah": 5656,
+      "word_surah": 2,
+      "word_translation": "then it is for yourself",
+      "word_transliteration": "fali-anfusikum"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 5686,
+      "word_number_in_surah": 5657,
+      "word_surah": 2,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تُنفِقُونَ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 5687,
+      "word_number_in_surah": 5658,
+      "word_surah": 2,
+      "word_translation": "you spend",
+      "word_transliteration": "tunfiquna"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 5688,
+      "word_number_in_surah": 5659,
+      "word_surah": 2,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱبۡتِغَآءَ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 5689,
+      "word_number_in_surah": 5660,
+      "word_surah": 2,
+      "word_translation": "seeking",
+      "word_transliteration": "ib'tighaa"
+    },
+    {
+      "word_arabic": "وَجۡهِ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 5690,
+      "word_number_in_surah": 5661,
+      "word_surah": 2,
+      "word_translation": "(the) face",
+      "word_transliteration": "wajhi"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 5691,
+      "word_number_in_surah": 5662,
+      "word_surah": 2,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 5692,
+      "word_number_in_surah": 5663,
+      "word_surah": 2,
+      "word_translation": "And whatever",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "تُنفِقُواْ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 5693,
+      "word_number_in_surah": 5664,
+      "word_surah": 2,
+      "word_translation": "you spend",
+      "word_transliteration": "tunfiqu"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 5694,
+      "word_number_in_surah": 5665,
+      "word_surah": 2,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "خَيۡرٖ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 5695,
+      "word_number_in_surah": 5666,
+      "word_surah": 2,
+      "word_translation": "good",
+      "word_transliteration": "khayrin"
+    },
+    {
+      "word_arabic": "يُوَفَّ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 5696,
+      "word_number_in_surah": 5667,
+      "word_surah": 2,
+      "word_translation": "will be repaid in full",
+      "word_transliteration": "yuwaffa"
+    },
+    {
+      "word_arabic": "إِلَيۡكُمۡ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 5697,
+      "word_number_in_surah": 5668,
+      "word_surah": 2,
+      "word_translation": "to you",
+      "word_transliteration": "ilaykum"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 272,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 5698,
+      "word_number_in_surah": 5669,
+      "word_surah": 2,
+      "word_translation": "and you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "لَا",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 5699,
+      "word_number_in_surah": 5670,
+      "word_surah": 2,
+      "word_translation": "(will) not",
+      "word_transliteration": "la"
+    },
+    {
+      "word_arabic": "تُظۡلَمُونَ",
+      "word_ayah": 272,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 5700,
+      "word_number_in_surah": 5671,
+      "word_surah": 2,
+      "word_translation": "be wronged",
+      "word_transliteration": "tuz'lamuna"
+    }
+  ],
+  "fullArabic": "۞لَّيۡسَ عَلَيۡكَ هُدَىٰهُمۡ وَلَٰكِنَّ ٱللَّهَ يَهۡدِي مَن يَشَآءُۗ وَمَا تُنفِقُواْ مِنۡ خَيۡرٖ فَلِأَنفُسِكُمۡۚ وَمَا تُنفِقُونَ إِلَّا ٱبۡتِغَآءَ وَجۡهِ ٱللَّهِۚ وَمَا تُنفِقُواْ مِنۡ خَيۡرٖ يُوَفَّ إِلَيۡكُمۡ وَأَنتُمۡ لَا تُظۡلَمُونَ",
+  "fullTranslation": "Not upon you, [O Muhammad], is [responsibility for] their guidance, but Allah guides whom He wills. And whatever good you [believers] spend is for yourselves, and you do not spend except seeking the countenance of Allah. And whatever you spend of good - it will be fully repaid to you, and you will not be wronged.",
+  "fullTransliteration": "laysa alayka hudahum walakinna al-laha yahdi man yashau wama tunfiqu min khayrin fali-anfusikum wama tunfiquna illa ib'tighaa wajhi al-lahi wama tunfiqu min khayrin yuwaffa ilaykum wa-antum la tuz'lamuna"
+}

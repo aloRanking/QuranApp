@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "ayah": 52,
+    "surah": 6,
+    "words": 25,
+    "numberInQuran": 841,
+    "juz": 7,
+    "manzil": 2,
+    "page": 133,
+    "ruku": 107,
+    "hizbQuarter": 53,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 16991,
+      "word_number_in_surah": 814,
+      "word_surah": 6,
+      "word_translation": "And (do) not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "تَطۡرُدِ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 16992,
+      "word_number_in_surah": 815,
+      "word_surah": 6,
+      "word_translation": "send away",
+      "word_transliteration": "tatrudi"
+    },
+    {
+      "word_arabic": "ٱلَّذِينَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 16993,
+      "word_number_in_surah": 816,
+      "word_surah": 6,
+      "word_translation": "those who",
+      "word_transliteration": "alladhina"
+    },
+    {
+      "word_arabic": "يَدۡعُونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 16994,
+      "word_number_in_surah": 817,
+      "word_surah": 6,
+      "word_translation": "call",
+      "word_transliteration": "yad'una"
+    },
+    {
+      "word_arabic": "رَبَّهُم",
+      "word_ayah": 52,
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 16995,
+      "word_number_in_surah": 818,
+      "word_surah": 6,
+      "word_translation": "their Lord",
+      "word_transliteration": "rabbahum"
+    },
+    {
+      "word_arabic": "بِٱلۡغَدَوٰةِ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 16996,
+      "word_number_in_surah": 819,
+      "word_surah": 6,
+      "word_translation": "in the morning",
+      "word_transliteration": "bil-ghadati"
+    },
+    {
+      "word_arabic": "وَٱلۡعَشِيِّ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 16997,
+      "word_number_in_surah": 820,
+      "word_surah": 6,
+      "word_translation": "and the evening",
+      "word_transliteration": "wal-'ashiyi"
+    },
+    {
+      "word_arabic": "يُرِيدُونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 16998,
+      "word_number_in_surah": 821,
+      "word_surah": 6,
+      "word_translation": "desiring",
+      "word_transliteration": "yuriduna"
+    },
+    {
+      "word_arabic": "وَجۡهَهُۥۖ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 16999,
+      "word_number_in_surah": 822,
+      "word_surah": 6,
+      "word_translation": "His Countenance",
+      "word_transliteration": "wajhahu"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 17000,
+      "word_number_in_surah": 823,
+      "word_surah": 6,
+      "word_translation": "Not",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "عَلَيۡكَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 17001,
+      "word_number_in_surah": 824,
+      "word_surah": 6,
+      "word_translation": "(is) on you",
+      "word_transliteration": "alayka"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 17002,
+      "word_number_in_surah": 825,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حِسَابِهِم",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 17003,
+      "word_number_in_surah": 826,
+      "word_surah": 6,
+      "word_translation": "their account",
+      "word_transliteration": "hisabihim"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 52,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 17004,
+      "word_number_in_surah": 827,
+      "word_surah": 6,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 17005,
+      "word_number_in_surah": 828,
+      "word_surah": 6,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "وَمَا",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 17006,
+      "word_number_in_surah": 829,
+      "word_surah": 6,
+      "word_translation": "and not",
+      "word_transliteration": "wama"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 17007,
+      "word_number_in_surah": 830,
+      "word_surah": 6,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "حِسَابِكَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 17008,
+      "word_number_in_surah": 831,
+      "word_surah": 6,
+      "word_translation": "your account",
+      "word_transliteration": "hisabika"
+    },
+    {
+      "word_arabic": "عَلَيۡهِم",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 17009,
+      "word_number_in_surah": 832,
+      "word_surah": 6,
+      "word_translation": "on them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 52,
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 17010,
+      "word_number_in_surah": 833,
+      "word_surah": 6,
+      "word_translation": "[of]",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "شَيۡءٖ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 17011,
+      "word_number_in_surah": 834,
+      "word_surah": 6,
+      "word_translation": "anything",
+      "word_transliteration": "shayin"
+    },
+    {
+      "word_arabic": "فَتَطۡرُدَهُمۡ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 17012,
+      "word_number_in_surah": 835,
+      "word_surah": 6,
+      "word_translation": "So were you to send them away",
+      "word_transliteration": "fatatrudahum"
+    },
+    {
+      "word_arabic": "فَتَكُونَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 17013,
+      "word_number_in_surah": 836,
+      "word_surah": 6,
+      "word_translation": "then you would be",
+      "word_transliteration": "fatakuna"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 52,
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 17014,
+      "word_number_in_surah": 837,
+      "word_surah": 6,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 52,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 17015,
+      "word_number_in_surah": 838,
+      "word_surah": 6,
+      "word_translation": "the wrongdoers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "وَلَا تَطۡرُدِ ٱلَّذِينَ يَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِيِّ يُرِيدُونَ وَجۡهَهُۥۖ مَا عَلَيۡكَ مِنۡ حِسَابِهِم مِّن شَيۡءٖ وَمَا مِنۡ حِسَابِكَ عَلَيۡهِم مِّن شَيۡءٖ فَتَطۡرُدَهُمۡ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ",
+  "fullTranslation": "And do not send away those who call upon their Lord morning and afternoon, seeking His countenance. Not upon you is anything of their account and not upon them is anything of your account. So were you to send them away, you would [then] be of the wrongdoers.",
+  "fullTransliteration": "wala tatrudi alladhina yad'una rabbahum bil-ghadati wal-'ashiyi yuriduna wajhahu ma alayka min hisabihim min shayin wama min hisabika alayhim min shayin fatatrudahum fatakuna mina al-zalimina"
+}

@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "ayah": 29,
+    "surah": 5,
+    "words": 13,
+    "numberInQuran": 698,
+    "juz": 6,
+    "manzil": 2,
+    "page": 112,
+    "ruku": 90,
+    "hizbQuarter": 45,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "إِنِّيٓ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 14130,
+      "word_number_in_surah": 757,
+      "word_surah": 5,
+      "word_translation": "Indeed I",
+      "word_transliteration": "inni"
+    },
+    {
+      "word_arabic": "أُرِيدُ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 14131,
+      "word_number_in_surah": 758,
+      "word_surah": 5,
+      "word_translation": "wish",
+      "word_transliteration": "uridu"
+    },
+    {
+      "word_arabic": "أَن",
+      "word_ayah": 29,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 14132,
+      "word_number_in_surah": 759,
+      "word_surah": 5,
+      "word_translation": "that",
+      "word_transliteration": "an"
+    },
+    {
+      "word_arabic": "تَبُوٓأَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 14133,
+      "word_number_in_surah": 760,
+      "word_surah": 5,
+      "word_translation": "you be laden",
+      "word_transliteration": "tabua"
+    },
+    {
+      "word_arabic": "بِإِثۡمِي",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 14134,
+      "word_number_in_surah": 761,
+      "word_surah": 5,
+      "word_translation": "with my sin",
+      "word_transliteration": "bi-ith'mi"
+    },
+    {
+      "word_arabic": "وَإِثۡمِكَ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 14135,
+      "word_number_in_surah": 762,
+      "word_surah": 5,
+      "word_translation": "and your sin",
+      "word_transliteration": "wa-ith'mika"
+    },
+    {
+      "word_arabic": "فَتَكُونَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 14136,
+      "word_number_in_surah": 763,
+      "word_surah": 5,
+      "word_translation": "so you will be",
+      "word_transliteration": "fatakuna"
+    },
+    {
+      "word_arabic": "مِنۡ",
+      "word_ayah": 29,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 14137,
+      "word_number_in_surah": 764,
+      "word_surah": 5,
+      "word_translation": "among",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَصۡحَٰبِ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 14138,
+      "word_number_in_surah": 765,
+      "word_surah": 5,
+      "word_translation": "(the) companions",
+      "word_transliteration": "ashabi"
+    },
+    {
+      "word_arabic": "ٱلنَّارِۚ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 14139,
+      "word_number_in_surah": 766,
+      "word_surah": 5,
+      "word_translation": "(of) the Fire",
+      "word_transliteration": "al-nari"
+    },
+    {
+      "word_arabic": "وَذَٰلِكَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 14140,
+      "word_number_in_surah": 767,
+      "word_surah": 5,
+      "word_translation": "and that",
+      "word_transliteration": "wadhalika"
+    },
+    {
+      "word_arabic": "جَزَٰٓؤُاْ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 14141,
+      "word_number_in_surah": 768,
+      "word_surah": 5,
+      "word_translation": "(is the) recompense",
+      "word_transliteration": "jazau"
+    },
+    {
+      "word_arabic": "ٱلظَّٰلِمِينَ",
+      "word_ayah": 29,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 14142,
+      "word_number_in_surah": 769,
+      "word_surah": 5,
+      "word_translation": "(of) the wrong-doers",
+      "word_transliteration": "al-zalimina"
+    }
+  ],
+  "fullArabic": "إِنِّيٓ أُرِيدُ أَن تَبُوٓأَ بِإِثۡمِي وَإِثۡمِكَ فَتَكُونَ مِنۡ أَصۡحَٰبِ ٱلنَّارِۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ",
+  "fullTranslation": "Indeed I want you to obtain [thereby] my sin and your sin so you will be among the companions of the Fire. And that is the recompense of wrongdoers.\"",
+  "fullTransliteration": "inni uridu an tabua bi-ith'mi wa-ith'mika fatakuna min ashabi al-nari wadhalika jazau al-zalimina"
+}

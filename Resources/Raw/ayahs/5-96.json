@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "ayah": 96,
+    "surah": 5,
+    "words": 20,
+    "numberInQuran": 765,
+    "juz": 7,
+    "manzil": 2,
+    "page": 124,
+    "ruku": 98,
+    "hizbQuarter": 49,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "أُحِلَّ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 15614,
+      "word_number_in_surah": 2241,
+      "word_surah": 5,
+      "word_translation": "Is made lawful",
+      "word_transliteration": "uhilla"
+    },
+    {
+      "word_arabic": "لَكُمۡ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 15615,
+      "word_number_in_surah": 2242,
+      "word_surah": 5,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "صَيۡدُ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 15616,
+      "word_number_in_surah": 2243,
+      "word_surah": 5,
+      "word_translation": "game",
+      "word_transliteration": "saydu"
+    },
+    {
+      "word_arabic": "ٱلۡبَحۡرِ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 15617,
+      "word_number_in_surah": 2244,
+      "word_surah": 5,
+      "word_translation": "(of) the sea",
+      "word_transliteration": "al-bahri"
+    },
+    {
+      "word_arabic": "وَطَعَامُهُۥ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 15618,
+      "word_number_in_surah": 2245,
+      "word_surah": 5,
+      "word_translation": "and its food",
+      "word_transliteration": "wata'amuhu"
+    },
+    {
+      "word_arabic": "مَتَٰعٗا",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 15619,
+      "word_number_in_surah": 2246,
+      "word_surah": 5,
+      "word_translation": "(as) provision",
+      "word_transliteration": "mata'an"
+    },
+    {
+      "word_arabic": "لَّكُمۡ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 15620,
+      "word_number_in_surah": 2247,
+      "word_surah": 5,
+      "word_translation": "for you",
+      "word_transliteration": "lakum"
+    },
+    {
+      "word_arabic": "وَلِلسَّيَّارَةِۖ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 15621,
+      "word_number_in_surah": 2248,
+      "word_surah": 5,
+      "word_translation": "and for the travelers",
+      "word_transliteration": "walilssayyarati"
+    },
+    {
+      "word_arabic": "وَحُرِّمَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 15622,
+      "word_number_in_surah": 2249,
+      "word_surah": 5,
+      "word_translation": "and is made unlawful",
+      "word_transliteration": "wahurrima"
+    },
+    {
+      "word_arabic": "عَلَيۡكُمۡ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 15623,
+      "word_number_in_surah": 2250,
+      "word_surah": 5,
+      "word_translation": "on you",
+      "word_transliteration": "alaykum"
+    },
+    {
+      "word_arabic": "صَيۡدُ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 15624,
+      "word_number_in_surah": 2251,
+      "word_surah": 5,
+      "word_translation": "game",
+      "word_transliteration": "saydu"
+    },
+    {
+      "word_arabic": "ٱلۡبَرِّ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 15625,
+      "word_number_in_surah": 2252,
+      "word_surah": 5,
+      "word_translation": "(of) the land",
+      "word_transliteration": "al-bari"
+    },
+    {
+      "word_arabic": "مَا",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 15626,
+      "word_number_in_surah": 2253,
+      "word_surah": 5,
+      "word_translation": "as",
+      "word_transliteration": "ma"
+    },
+    {
+      "word_arabic": "دُمۡتُمۡ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 15627,
+      "word_number_in_surah": 2254,
+      "word_surah": 5,
+      "word_translation": "long as you",
+      "word_transliteration": "dum'tum"
+    },
+    {
+      "word_arabic": "حُرُمٗاۗ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 15628,
+      "word_number_in_surah": 2255,
+      "word_surah": 5,
+      "word_translation": "(are) in Ihram",
+      "word_transliteration": "huruman"
+    },
+    {
+      "word_arabic": "وَٱتَّقُواْ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 15629,
+      "word_number_in_surah": 2256,
+      "word_surah": 5,
+      "word_translation": "And be conscious",
+      "word_transliteration": "wa-ittaqu"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 15630,
+      "word_number_in_surah": 2257,
+      "word_surah": 5,
+      "word_translation": "(of) Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "ٱلَّذِيٓ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 15631,
+      "word_number_in_surah": 2258,
+      "word_surah": 5,
+      "word_translation": "the One",
+      "word_transliteration": "alladhi"
+    },
+    {
+      "word_arabic": "إِلَيۡهِ",
+      "word_ayah": 96,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 15632,
+      "word_number_in_surah": 2259,
+      "word_surah": 5,
+      "word_translation": "to Him",
+      "word_transliteration": "ilayhi"
+    },
+    {
+      "word_arabic": "تُحۡشَرُونَ",
+      "word_ayah": 96,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 15633,
+      "word_number_in_surah": 2260,
+      "word_surah": 5,
+      "word_translation": "you will be gathered",
+      "word_transliteration": "tuh'sharuna"
+    }
+  ],
+  "fullArabic": "أُحِلَّ لَكُمۡ صَيۡدُ ٱلۡبَحۡرِ وَطَعَامُهُۥ مَتَٰعٗا لَّكُمۡ وَلِلسَّيَّارَةِۖ وَحُرِّمَ عَلَيۡكُمۡ صَيۡدُ ٱلۡبَرِّ مَا دُمۡتُمۡ حُرُمٗاۗ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ إِلَيۡهِ تُحۡشَرُونَ",
+  "fullTranslation": "Lawful to you is game from the sea and its food as provision for you and the travelers, but forbidden to you is game from the land as long as you are in the state of ihram. And fear Allah to whom you will be gathered.",
+  "fullTransliteration": "uhilla lakum saydu al-bahri wata'amuhu mata'an lakum walilssayyarati wahurrima alaykum saydu al-bari ma dum'tum huruman wa-ittaqu al-laha alladhi ilayhi tuh'sharuna"
+}

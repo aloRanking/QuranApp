@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "ayah": 70,
+    "surah": 4,
+    "words": 7,
+    "numberInQuran": 563,
+    "juz": 5,
+    "manzil": 1,
+    "page": 89,
+    "ruku": 70,
+    "hizbQuarter": 35,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "ذَٰلِكَ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 11158,
+      "word_number_in_surah": 1532,
+      "word_surah": 4,
+      "word_translation": "That",
+      "word_transliteration": "dhalika"
+    },
+    {
+      "word_arabic": "ٱلۡفَضۡلُ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 11159,
+      "word_number_in_surah": 1533,
+      "word_surah": 4,
+      "word_translation": "(is) the Bounty",
+      "word_transliteration": "al-fadlu"
+    },
+    {
+      "word_arabic": "مِنَ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 11160,
+      "word_number_in_surah": 1534,
+      "word_surah": 4,
+      "word_translation": "of",
+      "word_transliteration": "mina"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 11161,
+      "word_number_in_surah": 1535,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "وَكَفَىٰ",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 11162,
+      "word_number_in_surah": 1536,
+      "word_surah": 4,
+      "word_translation": "and sufficient",
+      "word_transliteration": "wakafa"
+    },
+    {
+      "word_arabic": "بِٱللَّهِ",
+      "word_ayah": 70,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 11163,
+      "word_number_in_surah": 1537,
+      "word_surah": 4,
+      "word_translation": "Allah",
+      "word_transliteration": "bil-lahi"
+    },
+    {
+      "word_arabic": "عَلِيمٗا",
+      "word_ayah": 70,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 11164,
+      "word_number_in_surah": 1538,
+      "word_surah": 4,
+      "word_translation": "(as) All-Knower",
+      "word_transliteration": "aliman"
+    }
+  ],
+  "fullArabic": "ذَٰلِكَ ٱلۡفَضۡلُ مِنَ ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ عَلِيمٗا",
+  "fullTranslation": "That is the bounty from Allah, and sufficient is Allah as Knower.",
+  "fullTransliteration": "dhalika al-fadlu mina al-lahi wakafa bil-lahi aliman"
+}

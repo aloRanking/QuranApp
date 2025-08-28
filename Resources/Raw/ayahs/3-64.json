@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "ayah": 64,
+    "surah": 3,
+    "words": 31,
+    "numberInQuran": 357,
+    "juz": 3,
+    "manzil": 1,
+    "page": 58,
+    "ruku": 48,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "قُلۡ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7205,
+      "word_number_in_surah": 1060,
+      "word_surah": 3,
+      "word_translation": "Say",
+      "word_transliteration": "qul"
+    },
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7206,
+      "word_number_in_surah": 1061,
+      "word_surah": 3,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7207,
+      "word_number_in_surah": 1062,
+      "word_surah": 3,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "تَعَالَوۡاْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7208,
+      "word_number_in_surah": 1063,
+      "word_surah": 3,
+      "word_translation": "Come",
+      "word_transliteration": "ta'alaw"
+    },
+    {
+      "word_arabic": "إِلَىٰ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7209,
+      "word_number_in_surah": 1064,
+      "word_surah": 3,
+      "word_translation": "to",
+      "word_transliteration": "ila"
+    },
+    {
+      "word_arabic": "كَلِمَةٖ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7210,
+      "word_number_in_surah": 1065,
+      "word_surah": 3,
+      "word_translation": "a word",
+      "word_transliteration": "kalimatin"
+    },
+    {
+      "word_arabic": "سَوَآءِۢ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7211,
+      "word_number_in_surah": 1066,
+      "word_surah": 3,
+      "word_translation": "equitable",
+      "word_transliteration": "sawain"
+    },
+    {
+      "word_arabic": "بَيۡنَنَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7212,
+      "word_number_in_surah": 1067,
+      "word_surah": 3,
+      "word_translation": "between us",
+      "word_transliteration": "baynana"
+    },
+    {
+      "word_arabic": "وَبَيۡنَكُمۡ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7213,
+      "word_number_in_surah": 1068,
+      "word_surah": 3,
+      "word_translation": "and between you",
+      "word_transliteration": "wabaynakum"
+    },
+    {
+      "word_arabic": "أَلَّا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7214,
+      "word_number_in_surah": 1069,
+      "word_surah": 3,
+      "word_translation": "that not",
+      "word_transliteration": "alla"
+    },
+    {
+      "word_arabic": "نَعۡبُدَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 7215,
+      "word_number_in_surah": 1070,
+      "word_surah": 3,
+      "word_translation": "we worship",
+      "word_transliteration": "na'buda"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 7216,
+      "word_number_in_surah": 1071,
+      "word_surah": 3,
+      "word_translation": "except",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "ٱللَّهَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 7217,
+      "word_number_in_surah": 1072,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-laha"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 7218,
+      "word_number_in_surah": 1073,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "نُشۡرِكَ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 15,
+      "word_number_in_quran": 7219,
+      "word_number_in_surah": 1074,
+      "word_surah": 3,
+      "word_translation": "we associate partners",
+      "word_transliteration": "nush'rika"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 16,
+      "word_number_in_quran": 7220,
+      "word_number_in_surah": 1075,
+      "word_surah": 3,
+      "word_translation": "with Him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "شَيۡ‍ٔٗا",
+      "word_ayah": 64,
+      "word_number_in_ayah": 17,
+      "word_number_in_quran": 7221,
+      "word_number_in_surah": 1076,
+      "word_surah": 3,
+      "word_translation": "anything",
+      "word_transliteration": "shayan"
+    },
+    {
+      "word_arabic": "وَلَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 18,
+      "word_number_in_quran": 7222,
+      "word_number_in_surah": 1077,
+      "word_surah": 3,
+      "word_translation": "and not",
+      "word_transliteration": "wala"
+    },
+    {
+      "word_arabic": "يَتَّخِذَ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 19,
+      "word_number_in_quran": 7223,
+      "word_number_in_surah": 1078,
+      "word_surah": 3,
+      "word_translation": "take",
+      "word_transliteration": "yattakhidha"
+    },
+    {
+      "word_arabic": "بَعۡضُنَا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 20,
+      "word_number_in_quran": 7224,
+      "word_number_in_surah": 1079,
+      "word_surah": 3,
+      "word_translation": "some of us",
+      "word_transliteration": "ba'duna"
+    },
+    {
+      "word_arabic": "بَعۡضًا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 21,
+      "word_number_in_quran": 7225,
+      "word_number_in_surah": 1080,
+      "word_surah": 3,
+      "word_translation": "(to) others",
+      "word_transliteration": "ba'dan"
+    },
+    {
+      "word_arabic": "أَرۡبَابٗا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 22,
+      "word_number_in_quran": 7226,
+      "word_number_in_surah": 1081,
+      "word_surah": 3,
+      "word_translation": "(as) lords",
+      "word_transliteration": "arbaban"
+    },
+    {
+      "word_arabic": "مِّن",
+      "word_ayah": 64,
+      "word_number_in_ayah": 23,
+      "word_number_in_quran": 7227,
+      "word_number_in_surah": 1082,
+      "word_surah": 3,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "دُونِ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 24,
+      "word_number_in_quran": 7228,
+      "word_number_in_surah": 1083,
+      "word_surah": 3,
+      "word_translation": "besides",
+      "word_transliteration": "duni"
+    },
+    {
+      "word_arabic": "ٱللَّهِۚ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 25,
+      "word_number_in_quran": 7229,
+      "word_number_in_surah": 1084,
+      "word_surah": 3,
+      "word_translation": "Allah",
+      "word_transliteration": "al-lahi"
+    },
+    {
+      "word_arabic": "فَإِن",
+      "word_ayah": 64,
+      "word_number_in_ayah": 26,
+      "word_number_in_quran": 7230,
+      "word_number_in_surah": 1085,
+      "word_surah": 3,
+      "word_translation": "Then if",
+      "word_transliteration": "fa-in"
+    },
+    {
+      "word_arabic": "تَوَلَّوۡاْ",
+      "word_ayah": 64,
+      "word_number_in_ayah": 27,
+      "word_number_in_quran": 7231,
+      "word_number_in_surah": 1086,
+      "word_surah": 3,
+      "word_translation": "they turn away",
+      "word_transliteration": "tawallaw"
+    },
+    {
+      "word_arabic": "فَقُولُواْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 28,
+      "word_number_in_quran": 7232,
+      "word_number_in_surah": 1087,
+      "word_surah": 3,
+      "word_translation": "then say",
+      "word_transliteration": "faqulu"
+    },
+    {
+      "word_arabic": "ٱشۡهَدُواْ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 29,
+      "word_number_in_quran": 7233,
+      "word_number_in_surah": 1088,
+      "word_surah": 3,
+      "word_translation": "Bear witness",
+      "word_transliteration": "ish'hadu"
+    },
+    {
+      "word_arabic": "بِأَنَّا",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 30,
+      "word_number_in_quran": 7234,
+      "word_number_in_surah": 1089,
+      "word_surah": 3,
+      "word_translation": "that we",
+      "word_transliteration": "bi-anna"
+    },
+    {
+      "word_arabic": "مُسۡلِمُونَ",
+      "word_ayah": 64,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 31,
+      "word_number_in_quran": 7235,
+      "word_number_in_surah": 1090,
+      "word_surah": 3,
+      "word_translation": "(are) Muslims",
+      "word_transliteration": "mus'limuna"
+    }
+  ],
+  "fullArabic": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ تَعَالَوۡاْ إِلَىٰ كَلِمَةٖ سَوَآءِۢ بَيۡنَنَا وَبَيۡنَكُمۡ أَلَّا نَعۡبُدَ إِلَّا ٱللَّهَ وَلَا نُشۡرِكَ بِهِۦ شَيۡ‍ٔٗا وَلَا يَتَّخِذَ بَعۡضُنَا بَعۡضًا أَرۡبَابٗا مِّن دُونِ ٱللَّهِۚ فَإِن تَوَلَّوۡاْ فَقُولُواْ ٱشۡهَدُواْ بِأَنَّا مُسۡلِمُونَ",
+  "fullTranslation": "Say, \"O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allah and not associate anything with Him and not take one another as lords instead of Allah.\" But if they turn away, then say, \"Bear witness that we are Muslims [submitting to Him].\"",
+  "fullTransliteration": "qul yaahla al-kitabi ta'alaw ila kalimatin sawain baynana wabaynakum alla na'buda illa al-laha wala nush'rika bihi shayan wala yattakhidha ba'duna ba'dan arbaban min duni al-lahi fa-in tawallaw faqulu ish'hadu bi-anna mus'limuna"
+}

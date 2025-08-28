@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "ayah": 71,
+    "surah": 3,
+    "words": 10,
+    "numberInQuran": 364,
+    "juz": 3,
+    "manzil": 1,
+    "page": 59,
+    "ruku": 48,
+    "hizbQuarter": 23,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "يَٰٓأَهۡلَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 7318,
+      "word_number_in_surah": 1173,
+      "word_surah": 3,
+      "word_translation": "O People",
+      "word_transliteration": "yaahla"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 7319,
+      "word_number_in_surah": 1174,
+      "word_surah": 3,
+      "word_translation": "(of) the Book!",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "لِمَ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 7320,
+      "word_number_in_surah": 1175,
+      "word_surah": 3,
+      "word_translation": "Why",
+      "word_transliteration": "lima"
+    },
+    {
+      "word_arabic": "تَلۡبِسُونَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 7321,
+      "word_number_in_surah": 1176,
+      "word_surah": 3,
+      "word_translation": "do you mix",
+      "word_transliteration": "talbisuna"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 7322,
+      "word_number_in_surah": 1177,
+      "word_surah": 3,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "بِٱلۡبَٰطِلِ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 7323,
+      "word_number_in_surah": 1178,
+      "word_surah": 3,
+      "word_translation": "with the falsehood",
+      "word_transliteration": "bil-batili"
+    },
+    {
+      "word_arabic": "وَتَكۡتُمُونَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 7324,
+      "word_number_in_surah": 1179,
+      "word_surah": 3,
+      "word_translation": "and conceal",
+      "word_transliteration": "wataktumuna"
+    },
+    {
+      "word_arabic": "ٱلۡحَقَّ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 7325,
+      "word_number_in_surah": 1180,
+      "word_surah": 3,
+      "word_translation": "the truth",
+      "word_transliteration": "al-haqa"
+    },
+    {
+      "word_arabic": "وَأَنتُمۡ",
+      "word_ayah": 71,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 7326,
+      "word_number_in_surah": 1181,
+      "word_surah": 3,
+      "word_translation": "while you",
+      "word_transliteration": "wa-antum"
+    },
+    {
+      "word_arabic": "تَعۡلَمُونَ",
+      "word_ayah": 71,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 7327,
+      "word_number_in_surah": 1182,
+      "word_surah": 3,
+      "word_translation": "know",
+      "word_transliteration": "ta'lamuna"
+    }
+  ],
+  "fullArabic": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
+  "fullTranslation": "O People of the Scripture, why do you confuse the truth with falsehood and conceal the truth while you know [it]?",
+  "fullTransliteration": "yaahla al-kitabi lima talbisuna al-haqa bil-batili wataktumuna al-haqa wa-antum ta'lamuna"
+}

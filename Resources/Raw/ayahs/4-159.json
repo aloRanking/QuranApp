@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "ayah": 159,
+    "surah": 4,
+    "words": 14,
+    "numberInQuran": 652,
+    "juz": 6,
+    "manzil": 1,
+    "page": 103,
+    "ruku": 83,
+    "hizbQuarter": 41,
+    "shouldSadjah": false
+  },
+  "words": [
+    {
+      "word_arabic": "وَإِن",
+      "word_ayah": 159,
+      "word_number_in_ayah": 1,
+      "word_number_in_quran": 13009,
+      "word_number_in_surah": 3383,
+      "word_surah": 4,
+      "word_translation": "And (there is) not",
+      "word_transliteration": "wa-in"
+    },
+    {
+      "word_arabic": "مِّنۡ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 2,
+      "word_number_in_quran": 13010,
+      "word_number_in_surah": 3384,
+      "word_surah": 4,
+      "word_translation": "from",
+      "word_transliteration": "min"
+    },
+    {
+      "word_arabic": "أَهۡلِ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 3,
+      "word_number_in_quran": 13011,
+      "word_number_in_surah": 3385,
+      "word_surah": 4,
+      "word_translation": "(the) People",
+      "word_transliteration": "ahli"
+    },
+    {
+      "word_arabic": "ٱلۡكِتَٰبِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 4,
+      "word_number_in_quran": 13012,
+      "word_number_in_surah": 3386,
+      "word_surah": 4,
+      "word_translation": "(of) the Book",
+      "word_transliteration": "al-kitabi"
+    },
+    {
+      "word_arabic": "إِلَّا",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 5,
+      "word_number_in_quran": 13013,
+      "word_number_in_surah": 3387,
+      "word_surah": 4,
+      "word_translation": "but",
+      "word_transliteration": "illa"
+    },
+    {
+      "word_arabic": "لَيُؤۡمِنَنَّ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 6,
+      "word_number_in_quran": 13014,
+      "word_number_in_surah": 3388,
+      "word_surah": 4,
+      "word_translation": "surely he believes",
+      "word_transliteration": "layu'minanna"
+    },
+    {
+      "word_arabic": "بِهِۦ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 7,
+      "word_number_in_quran": 13015,
+      "word_number_in_surah": 3389,
+      "word_surah": 4,
+      "word_translation": "in him",
+      "word_transliteration": "bihi"
+    },
+    {
+      "word_arabic": "قَبۡلَ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 8,
+      "word_number_in_quran": 13016,
+      "word_number_in_surah": 3390,
+      "word_surah": 4,
+      "word_translation": "before",
+      "word_transliteration": "qabla"
+    },
+    {
+      "word_arabic": "مَوۡتِهِۦۖ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 9,
+      "word_number_in_quran": 13017,
+      "word_number_in_surah": 3391,
+      "word_surah": 4,
+      "word_translation": "his death",
+      "word_transliteration": "mawtihi"
+    },
+    {
+      "word_arabic": "وَيَوۡمَ",
+      "word_ayah": 159,
+      "word_number_in_ayah": 10,
+      "word_number_in_quran": 13018,
+      "word_number_in_surah": 3392,
+      "word_surah": 4,
+      "word_translation": "And (on the) Day",
+      "word_transliteration": "wayawma"
+    },
+    {
+      "word_arabic": "ٱلۡقِيَٰمَةِ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 11,
+      "word_number_in_quran": 13019,
+      "word_number_in_surah": 3393,
+      "word_surah": 4,
+      "word_translation": "(of) the Resurrection",
+      "word_transliteration": "al-qiyamati"
+    },
+    {
+      "word_arabic": "يَكُونُ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 12,
+      "word_number_in_quran": 13020,
+      "word_number_in_surah": 3394,
+      "word_surah": 4,
+      "word_translation": "he will be",
+      "word_transliteration": "yakunu"
+    },
+    {
+      "word_arabic": "عَلَيۡهِمۡ",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 13,
+      "word_number_in_quran": 13021,
+      "word_number_in_surah": 3395,
+      "word_surah": 4,
+      "word_translation": "against them",
+      "word_transliteration": "alayhim"
+    },
+    {
+      "word_arabic": "شَهِيدٗا",
+      "word_ayah": 159,
+      "word_last_updated": "12/02/2019",
+      "word_number_in_ayah": 14,
+      "word_number_in_quran": 13022,
+      "word_number_in_surah": 3396,
+      "word_surah": 4,
+      "word_translation": "a witness",
+      "word_transliteration": "shahidan"
+    }
+  ],
+  "fullArabic": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
+  "fullTranslation": "And there is none from the People of the Scripture but that he will surely believe in Jesus before his death. And on the Day of Resurrection he will be against them a witness.",
+  "fullTransliteration": "wa-in min ahli al-kitabi illa layu'minanna bihi qabla mawtihi wayawma al-qiyamati yakunu alayhim shahidan"
+}
