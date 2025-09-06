@@ -1,4 +1,4 @@
-﻿using QuranApp.Views;
+﻿﻿using QuranApp.Views;
 
 namespace QuranApp;
 
@@ -10,5 +10,6 @@ public partial class AppShell : Shell
 
 		Routing.RegisterRoute(nameof(SurahsPage), typeof(SurahsPage));
         Routing.RegisterRoute(nameof(AyahsPage), typeof(AyahsPage));
+		Routing.RegisterRoute(nameof(SettingsPage), typeof(SettingsPage));
 	}
 }

@@ -3,6 +3,10 @@
     x:Class="QuranApp.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Shell.BackgroundColor="{DynamicResource NavBarBackgroundColor}"
+    Shell.TitleColor="{DynamicResource NavBarTextColor}"
+    Shell.ForegroundColor="{DynamicResource NavBarTextColor}"
+
     xmlns:local="clr-namespace:QuranApp.Views"
     Title="QuranApp">
 

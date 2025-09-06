@@ -7,68 +7,78 @@
     Title="Quran"
     x:TypeArguments="viewmodel:SurahsViewModel">
 
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Command="{Binding SettingSelectedCommand}" Text="Settings" />
 
-    <Grid RowDefinitions="Auto,*">
+    </ContentPage.ToolbarItems>
 
-        <Grid Padding="10" BackgroundColor="{AppThemeBinding Light=White, Dark=#222}">
-            <!-- <Border
-                BackgroundColor="White"
-                HorizontalOptions="FillAndExpand"
-                Stroke="Gray"
-                StrokeShape="RoundRectangle 12"
-                StrokeThickness="1">
-                <SearchBar
-                    BackgroundColor="Transparent"
-                    CancelButtonColor="Gray"
-                    HorizontalOptions="FillAndExpand"
-                    Placeholder="Search Surahs..."
-                    Text="{Binding SearchText, Mode=TwoWay}"
-                    Visual="Material" />
-            </Border> -->
+
+    <Grid BackgroundColor="{Binding Theme.CurrentTheme.Background}" RowDefinitions="Auto,*">
+        <Grid.Resources>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:SurahsViewModel}}, Path=Theme.CurrentTheme.Text}" />
+            </Style>
+        </Grid.Resources>
+
+        <Grid  Padding="10">
+            
             <Border
-                
-    StrokeThickness="0"
-    BackgroundColor="#F0F0F0"
-    StrokeShape="RoundRectangle 12"
-    Padding="5"
-    >
+                Padding="5"
+               
+                BackgroundColor="{Binding Theme.CurrentTheme.Background}"
+                StrokeShape="RoundRectangle 12"
+                StrokeThickness="0">
+                <Border.Resources>
+            <Style TargetType="Entry">
+                <Setter Property="TextColor" Value="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:SurahsViewModel}}, Path=Theme.CurrentTheme.Text}" />
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="TextColor" Value="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:SurahsViewModel}}, Path=Theme.CurrentTheme.Text}" />
+            </Style>
+        </Border.Resources>
 
-    <Grid ColumnDefinitions="Auto,*,Auto" VerticalOptions="Center">
-       
-        <Label 
-            Text="🔍"
-            FontSize="18"
-            VerticalOptions="Center"
-            Margin="0,0,8,0" />
+                <Grid ColumnDefinitions="Auto,*,Auto" VerticalOptions="Center">
 
-       
-        <Entry
-            x:Name="SearchEntry" 
-            Grid.Column="1"
-            Placeholder="Search Surahs..."
-            Text="{Binding SearchText, Mode=TwoWay}"
-            FontSize="16"
-            BackgroundColor="Transparent"
-            TextColor="Black"
-            PlaceholderColor="Gray"
-            
-            
-            />
-        
-       
-        <Button 
-            Grid.Column="2"
-            Text="Cancel"
-            BackgroundColor="Transparent"
-            TextColor="Blue"
-            Command="{Binding CancelSearchCommand}" />
-    </Grid>
-</Border>
+                    <Label
+                        Margin="0,0,8,0"
+                        FontSize="18"
+                        Text="🔍"
+                        VerticalOptions="Center" />
+
+
+                    <Entry
+                        x:Name="SearchEntry"
+                        Grid.Column="1"
+                        BackgroundColor="Transparent"
+                        FontSize="16"
+                        Placeholder="Search Surahs..."
+                        PlaceholderColor="Gray"
+                        Text="{Binding SearchText, Mode=TwoWay}"
+                         />
+
+
+                    <Button
+                        Grid.Column="2"
+                        BackgroundColor="Transparent"
+                        Command="{Binding CancelSearchCommand}"
+                        Text="Cancel"
+                         />
+                </Grid>
+            </Border>
 
         </Grid>
 
 
-        <Grid Grid.Row="1">
+        <Grid Grid.Row="1" BackgroundColor="{Binding Theme.CurrentTheme.Background}">
+
+            <Grid.Resources>
+                <Style TargetType="Label">
+                    <Setter Property="TextColor" Value="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:SurahsViewModel}}, Path=Theme.CurrentTheme.Text}" />
+                </Style>
+                <Style TargetType="Span">
+                    <Setter Property="TextColor" Value="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:SurahsViewModel}}, Path=Theme.CurrentTheme.Text}" />
+                </Style>
+            </Grid.Resources>
             <ActivityIndicator
                 HorizontalOptions="Center"
                 IsRunning="{Binding IsLoading}"
@@ -80,7 +90,7 @@
             <CollectionView ItemsSource="{Binding FilteredSurahs}" SelectionMode="None">
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
-                        <Grid Padding="10" BackgroundColor="{AppThemeBinding Light=White, Dark=#333333}">
+                        <Grid Padding="10">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="Auto" />
                                 <ColumnDefinition Width="*" />
@@ -129,9 +139,7 @@
                                     Grid.Column="1"
                                     FontAttributes="Bold"
                                     FontSize="16"
-                                    Text="{Binding Anglicised}"
-                                    TextColor="{AppThemeBinding Light=Black,
-                                                                Dark=White}" />
+                                    Text="{Binding Anglicised}" />
 
 
 
@@ -141,15 +149,15 @@
                                             <Span
                                                 FontSize="12"
                                                 Text="{Binding English, StringFormat='({0})'}"
-                                                TextColor="Gray" />
+                                                 />
                                             <Span
                                                 FontSize="12"
                                                 Text=" - "
-                                                TextColor="Gray" />
+                                                 />
                                             <Span
                                                 FontSize="12"
                                                 Text="{Binding AyahCount, StringFormat='{0} Ayahs'}"
-                                                TextColor="Gray" />
+                                                 />
                                         </FormattedString>
                                     </Label.FormattedText>
                                 </Label>
@@ -162,8 +170,7 @@
                                 FontAttributes="Bold"
                                 FontSize="20"
                                 Text="{Binding Arabic}"
-                                TextColor="{AppThemeBinding Light=Black,
-                                                            Dark=Silver}" />
+                                 />
 
                             <BoxView
                                 Grid.Row="1"

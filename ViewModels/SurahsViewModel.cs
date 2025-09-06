@@ -2,6 +2,7 @@ using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Reactive;
 using System.Reactive.Linq;
+
 using QuranApp.Models;
 using QuranApp.Views;
 using ReactiveUI;
@@ -28,17 +29,22 @@ public partial class SurahsViewModel : ReactiveObject
     public ReactiveCommand<Unit, Unit> LoadSurahsCommand { get; }
     public ReactiveCommand<Surah, Unit> SurahSelectedCommand { get; }
     public ReactiveCommand<Surah, Unit> CancelSearchCommand { get; }
+    public ReactiveCommand<Unit, Unit> SettingSelectedCommand { get; }
+    
+    public ThemeViewModel Theme { get; }
 
-    public SurahsViewModel(IQuranService quranService)
+    public SurahsViewModel(IQuranService quranService, ThemeViewModel theme)
     {
         _quranService = quranService;
+        Theme = theme;
 
         LoadSurahsCommand = ReactiveCommand.CreateFromTask(LoadSurahsAsync);
         SurahSelectedCommand = ReactiveCommand.CreateFromTask<Surah>(NavigateToAyahsAsync);
+        SettingSelectedCommand = ReactiveCommand.CreateFromTask(NavigateToSettingsAsync);
         CancelSearchCommand = ReactiveCommand.Create<Surah>(CancelSearch);
 
-      
-    
+
+
 
 
         // React to SearchText changes
@@ -115,5 +121,9 @@ public partial class SurahsViewModel : ReactiveObject
         };
 
         await Shell.Current.GoToAsync(nameof(AyahsPage), parameters);
+    }
+    private async Task NavigateToSettingsAsync()
+    {
+        await Shell.Current.GoToAsync(nameof(SettingsPage));
     }
 }
