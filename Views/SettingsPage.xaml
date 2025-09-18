@@ -20,9 +20,16 @@
                 
             </StackLayout.Resources>
 
+            <StackLayout Orientation="Horizontal" Spacing="10">
+        <Label Text="Auto Theme" VerticalOptions="Center" />
+        <Switch IsToggled="{Binding Theme.IsAutoTheme}" />
+    </StackLayout>
+
+
     <Slider Minimum="0"
             Maximum="11"
-            Value="{Binding Theme.ThemeLevel}" />
+            Value="{Binding Theme.ThemeLevel}"
+             IsEnabled="{Binding Theme.IsAutoTheme, Converter={StaticResource InverseBoolConverter}}" />
 
     
     <Grid ColumnDefinitions="*,*,*">

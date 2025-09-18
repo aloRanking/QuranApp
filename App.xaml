@@ -2,9 +2,13 @@
 <Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:QuranApp"
-             x:Class="QuranApp.App">
+             x:Class="QuranApp.App"
+              xmlns:converters="clr-namespace:QuranApp.Converters">
     <Application.Resources>
         <ResourceDictionary>
+            <ResourceDictionary>
+            <converters:InverseBoolConverter x:Key="InverseBoolConverter" />
+        </ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
