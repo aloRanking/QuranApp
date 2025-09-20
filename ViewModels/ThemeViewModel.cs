@@ -89,30 +89,29 @@ public int ThemeLevel
     }
 
     private void UpdateThemeFromTime()
+{
+    var now = DateTime.Now;
+    double hour = now.Hour + (now.Minute / 60.0); 
+    Console.WriteLine($"Current hour: {hour}");
+
+    if (hour >= 6 && hour < 17)
     {
-        var now = DateTime.Now;
-        var hour = now.Hour;
-        System.Console.WriteLine($"Current hour: {hour}");
-
-        if (hour >= 6 && hour < 17)
-        {
-            ThemeLevel = 0; // daytime bright
-        }
-        else
-        {
-            if (hour >= 17 && hour <= 23)
-            {
-                int nightHour = hour - 17; // 0–6
-                ThemeLevel = 1 + (int)Math.Round((nightHour / 6.0) * 5); // 1–6
-            }
-            else
-            {
-                int lateHour = hour; // 0–5
-                ThemeLevel = 7 + (int)Math.Round((lateHour / 6.0) * 4); // 7–11
-            }
-        }
+        // Daytime (bright)
+        ThemeLevel = 0;
     }
-
+    else if (hour >= 17 && hour < 24)
+    {
+        // Evening → Night (fade 0 → 11)
+        double fraction = (hour - 17) / (24 - 17); // 0 at 17h, 1 at 24h
+        int level = (int)Math.Round(fraction * (ThemeSpectrum.Levels.Count - 1));
+        ThemeLevel = Math.Clamp(level, 3, ThemeSpectrum.Levels.Count - 1);
+    }
+    else
+    {
+        // Midnight – 6 AM → darkest
+        ThemeLevel = ThemeSpectrum.Levels.Count - 1;
+    }
+}
         private void StartAutoThemeSimulation()
     {
         
