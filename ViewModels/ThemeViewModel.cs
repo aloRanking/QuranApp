@@ -87,33 +87,34 @@ public partial class ThemeViewModel : ReactiveObject
 
     private void UpdateThemeFromTime()
     {
-         var now = DateTime.Now;
-    var hour = now.Hour;
+        var now = DateTime.Now;
+        var hour = now.Hour;
 
-    ThemePalette target;
+        ThemePalette target;
 
-    if (hour >= 6 && hour < 17)
-    {
-        target = ThemeSpectrum.Levels[0]; // day bright
-    }
-    else if (hour >= 17 && hour <= 23)
-    {
-        int nightHour = hour - 17; // 0–6
-        int index = 1 + (int)Math.Round((nightHour / 6.0) * 5); // 1–6
-        target = ThemeSpectrum.Levels[index];
-    }
-    else
-    {
-        int lateHour = hour; // 0–5
-        int index = 7 + (int)Math.Round((lateHour / 6.0) * 4); // 7–11
-        target = ThemeSpectrum.Levels[index];
+        if (hour >= 6 && hour < 17)
+        {
+            target = ThemeSpectrum.Levels[0]; // day bright
+        }
+        else if (hour >= 17 && hour <= 23)
+        {
+            int nightHour = hour - 17; // 0–6
+            int index = 6 + (int)Math.Round((nightHour / 6.0) * 5); // 6–11
+            target = ThemeSpectrum.Levels[index];
+        }
+        else
+        {
+            int lateHour = hour; // 0–5
+            int index = 7 + (int)Math.Round((lateHour / 6.0) * 4); // 7–11
+            target = ThemeSpectrum.Levels[index];
+        }
+
+        CurrentTheme = target;
+        ApplyTheme(target);
+        ThemeLevel = ThemeSpectrum.Levels.IndexOf(target);
     }
 
-    CurrentTheme = target;
-    ApplyTheme(target); //
-    }
 
-    
 
 
 
@@ -126,67 +127,68 @@ public partial class ThemeViewModel : ReactiveObject
         if (Application.Current.Resources.TryGetValue("PageBackgroundColor", out var bgObj) && bgObj is Color oldBg)
         {
             AnimateColor(oldBg, target.Background, duration, c => Application.Current.Resources["NavBarBackgroundColor"] = c, "NavBarBgAnim");
-       
+
             AnimateColor(oldBg, target.Background, duration, c => Application.Current.Resources["PageBackgroundColor"] = c, "PageBgAnim");
-             }
+        }
         else
         {
             Application.Current.Resources["NavBarBackgroundColor"] = target.Background;
             Application.Current.Resources["PageBackgroundColor"] = target.Background;
-            
+
         }
 
         // Text
         if (Application.Current.Resources.TryGetValue("PageTextColor", out var txtObj) && txtObj is Color oldTxt)
         {
             AnimateColor(oldTxt, target.Text, duration, c => Application.Current.Resources["NavBarTextColor"] = c, "NavBarTextAnim");
-       
+
             AnimateColor(oldTxt, target.Text, duration, c => Application.Current.Resources["PageTextColor"] = c, "PageTextAnim");
-             }
+        }
         else
         {
             Application.Current.Resources["NavBarTextColor"] = target.Text;
             Application.Current.Resources["PageTextColor"] = target.Text;
-            
-        }
-        
-   
 
-    // Accent (optional instant or animate similarly)
+        }
+
+
+
+        // Accent (optional instant or animate similarly)
         Application.Current.Resources["AccentColor"] = target.Accent;
 
- 
-    
+
+
     }
 
-private void AnimateColor(Color from, Color to, uint duration, Action<Color> setter, string animationName)
-{
-   var owner = Application.Current?.MainPage as IAnimatable;
-    if (owner == null)
+    private void AnimateColor(Color from, Color to, uint duration, Action<Color> setter, string animationName)
     {
-        MainThread.BeginInvokeOnMainThread(() => setter(to));
-        return;
+        var owner = Application.Current?.MainPage as IAnimatable;
+        if (owner == null)
+        {
+            MainThread.BeginInvokeOnMainThread(() => setter(to));
+            return;
+        }
+
+        // Abort previous animation with the same name (prevents overlapping)
+        owner.AbortAnimation(animationName);
+
+        var animation = new Animation(v =>
+        {
+            var c = Color.FromRgba(
+                from.Red + (to.Red - from.Red) * v,
+                from.Green + (to.Green - from.Green) * v,
+                from.Blue + (to.Blue - from.Blue) * v,
+                from.Alpha + (to.Alpha - from.Alpha) * v
+            );
+            setter(c);
+        }, 0, 1);
+
+        // Commit on UI thread and use the page as animation owner
+        MainThread.BeginInvokeOnMainThread(() =>
+        {
+            animation.Commit(owner, animationName, length: duration, easing: Easing.Linear);
+        });
     }
-
-    // Abort previous animation with the same name (prevents overlapping)
-    owner.AbortAnimation(animationName);
-
-    var animation = new Animation(v =>
-    {
-        var c = Color.FromRgba(
-            from.Red   + (to.Red   - from.Red)   * v,
-            from.Green + (to.Green - from.Green) * v,
-            from.Blue  + (to.Blue  - from.Blue)  * v,
-            from.Alpha + (to.Alpha - from.Alpha) * v
-        );
-        setter(c);
-    }, 0, 1);
-
-    // Commit on UI thread and use the page as animation owner
-    MainThread.BeginInvokeOnMainThread(() =>
-    {
-        animation.Commit(owner, animationName, length: duration, easing: Easing.Linear);
-    });}
 
     private void StartAutoThemeSimulation()
     {
