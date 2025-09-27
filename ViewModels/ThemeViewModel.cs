@@ -110,7 +110,7 @@ public partial class ThemeViewModel : ReactiveObject
         }
 
         CurrentTheme = target;
-        ApplyTheme(target);
+        ApplyTheme(target); 
         ThemeLevel = ThemeSpectrum.Levels.IndexOf(target);
     }
 
